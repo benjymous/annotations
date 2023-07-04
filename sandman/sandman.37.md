@@ -1,5 +1,5 @@
                          The Annotated Sandman
-      
+
             Issue 37:  "I Woke Up and One of Us Was Crying."
                      Neil Gaiman and Shawn McManus
 
@@ -12,8 +12,8 @@ readers or to the character him, her, or itself, and that is the most
 important theme the reader should keep in mind when reading this story.
 	The chapters of this storyline have titles taken from songs.
 "I Woke Up and One of Us Was Crying." is taken from Elvis Costello's song
-"I Want You" (unconfirmed title), from the album _Blood and Chocolate_.  The 
-next line of the song is significant: ``I said `Young man, I do believe 
+"I Want You" (unconfirmed title), from the album _Blood and Chocolate_.  The
+next line of the song is significant: ``I said `Young man, I do believe
 you're dying.' ''
 
 Page 1 panel 1:  Greyhound is an American passenger bus company.  We find out
@@ -24,7 +24,7 @@ Greeks wrote plays about those who dared to compared themselves to gods,
 and even invented a word for this:  hubris.  The plays, incidentally, were
 all tragedies.
 
-Page 2 panel 5-page 3 panel 1:  The web of coincidence.  Rose was a dream 
+Page 2 panel 5-page 3 panel 1:  The web of coincidence.  Rose was a dream
 vortex, and evidently her one display of power, in _The Doll's House_,
 somehow helped restrain the Cuckoo, probably by causing Barbie to stop
 visiting the skerry.
@@ -38,10 +38,10 @@ necessitated the compromise which Dream refers to.
 
 Page 6 panel 2:  The Dorothy Option is a reference to _The Wizard of Oz_;
 probably more directly to the movie than the book.  In the movie, Dorothy is
-returned home safely; her sojourn to Oz was that greatest of cliches, 
+returned home safely; her sojourn to Oz was that greatest of cliches,
 Just A Dream.  The irony in this option is obvious; recall also that Dorothy
 was from Kansas, where Barbie is in the present time of this story.  We may
-also note that Barbie's trip to the Land while a hurricane battered New York 
+also note that Barbie's trip to the Land while a hurricane battered New York
 echoes Dorothy's trip to Oz in a tornado.
 	Further, the movie version is often used as a source for campy
 quotes.  The movie's star, Judy Garland, is a role model for many
@@ -76,30 +76,30 @@ tradition that brands people like Wanda as sinners.
 since the Niobrara sea dried up about a hundred million years ago.  On the
 other hand, the American Great Plains breed tornados ("twisters") like
 rabbits.  It was such a tornado that bore Dorothy away to the Land of Oz.
-	Panel 7:  Note the heavy-handed irony in Alvin's last name. 
-Additionally, "Mr. Man" is common gay parlance used to address someone who 
+	Panel 7:  Note the heavy-handed irony in Alvin's last name.
+Additionally, "Mr. Man" is common gay parlance used to address someone who
 is being over-assertive or butch.
 
-Page 12 panel 8:  "Mean Lisa":  possibly derived from the famous painting 
+Page 12 panel 8:  "Mean Lisa":  possibly derived from the famous painting
 "Mona Lisa".
-	Panel 9:  First Amendment:  The First Amendment to the USA 
-Constitution guarantees the freedom of the press.  Its use here, however, 
+	Panel 9:  First Amendment:  The First Amendment to the USA
+Constitution guarantees the freedom of the press.  Its use here, however,
 is questionable.
 
 Page 13 panel 1:  The US Army now calls body bags "human remains pouches",
 because it provides less of a sound bite.
-	Panel 7:  The slug is, by implication, the tongue of George, which 
+	Panel 7:  The slug is, by implication, the tongue of George, which
 was animated by Thessaly's spell.  The slug's present location is unknown.
 	Panel 9:  This confirms Scarlett's position as landlord.
 
 Page 14 panel 2:  AIDS, in the USA, was originally mostly restricted to the
-male homosexual community.  This engendered a repulsive attitude on the part 
+male homosexual community.  This engendered a repulsive attitude on the part
 of the small-minded that AIDS was a punishment for deviants.
 
 Page 17 panel 4:  The quote is from the Bible, Ecclesiastes 12:6-7.  Verse
 eight is ironic in context: `` `Vanity of vanities', says the preacher, `all
 is vanity.' ''
-	Panel 5:  "Is identity that fragile?"  Say, that wouldn't have 
+	Panel 5:  "Is identity that fragile?"  Say, that wouldn't have
 anything to do with the theme, would it?
 
 Page 18 panel 2:  Caleb is another good Hell-fearing Biblical name.  The quote
@@ -108,9 +108,9 @@ literal manner of Wanda's death.
 	Panel 4:  Salina, Goodland, and Aurora are Kansas cities, and
 Florissant is nearby in SW Missouri.  Cloverdale and Boonville are two small
 towns in Indiana. Mulberry Grove is unidentified at this time.
-However, if Gaiman was referring to these, that bus must have travelled like a
-drunken snake! Cloverdale is in Putnam County and Boonville is in Warrick 
-county and about 100-150 miles separate the two (I do not have a map to 
+However, if Gaiman was referring to these, that bus must have traveled like a
+drunken snake! Cloverdale is in Putnam County and Boonville is in Warrick
+county and about 100-150 miles separate the two (I do not have a map to
 refer to). Boonville is quite nice, I think.
 
 Page 19 panel 2-4:  One is invited to reflect upon Barbie's idea while
@@ -120,15 +120,15 @@ Page 20 panel 1:  While there were no actual Bizarro comics, it is quite
 probable that DC published an 80-page giant featuring reprints of Superman's
 encounters with Bizarros.  Note the upper left corner of the comic, indicating
 that it was published by "GC" comics; the logo is reminiscent of the actual
-logo DC used during the 1960s, when the 80-page giants were published.  
+logo DC used during the 1960s, when the 80-page giants were published.
 Also note the upper right picture, of a Scotty with a cape; Superman had a pet
 dog, although Krypto wasn't a Scotty.
 	Panel 2-3:  Barbie's experience was with an extreme example of a comic
 book store, but there are many stores that could use cleaning, whose staffs
 could use training, and which could be made less actively anti-feminine.
 
-Page 23 panel 2:  There is an old series of children's books by Howard R. 
-Garis, featuring an Uncle Wiggily character, an anthropomorphic rabbit. 
+Page 23 panel 2:  There is an old series of children's books by Howard R.
+Garis, featuring an Uncle Wiggily character, an anthropomorphic rabbit.
 However, I suspect that the Mr. Wiggly that the disturbed person is
 referring to is something else entirely.
         Panel 4:  More Oz parallels.  My memory may be faulty, but the
@@ -157,10 +157,10 @@ locations.
 Wiggily's name and identified the Eccl. quote.
 	Colonel Sicherman (gls@windmill.att.com) provided important
 bibliographic information about Uncle Wiggily.  See Appendix.
-	Tanaqui C. Weaver (tweaver@nyx.cs.du.edu) identified the title 
+	Tanaqui C. Weaver (tweaver@nyx.cs.du.edu) identified the title
 quote.
    Ralf Hildebrandt added more details
-   
+
 
 Appendix:  Uncle Wiggily
 
@@ -170,12 +170,12 @@ Howard R. Garis, published by A.L. Burt, 1918:
         "Do you want me to go to the store for you or do anything
     like that?" asked Uncle Wiggily Longears, the rabbit
     gentleman, as he waved his whiskers in a good-by to Nurse
-    Jane Fuzzy Wuzzy, his muskrat lady housekeeper, one morning. 
+    Jane Fuzzy Wuzzy, his muskrat lady housekeeper, one morning.
     He was just going down the front steps of his hollow stump
     farm house.  "Do you want anything, Nurse Jane?"
 
         "Where are you going?" she asked.
-    
+
         "Over to my farm bean-patch to hoe up the dirt around the
     vines into little hills."
 
@@ -185,13 +185,13 @@ Howard R. Garis, published by A.L. Burt, 1918:
         "Ha! Ha!" laughed Uncle Wiggily.  "The beans slide down
     hill!  Ho! Ho!  That's pretty good.  No, beans don't do
     that, Janie.  But I must hoe the dirt into little hills
-    around the vines so the beans will grow big and strong. 
+    around the vines so the beans will grow big and strong.
     With the dirt hoed into little hills the roots of the beans
     will be better covered.  But do you want anything?"
 
         "Well, if you get time you might go to the five and ten cent
     store and bring me a spool of thread," said Nurse Jane.
-    
+
 The Colonel concludes:
 I'm going to break off at this point, before the bad old tail-pulling
 monkey appears in the story.  There is also an Uncle Wiggily board game,

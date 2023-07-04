@@ -22,7 +22,7 @@ clearly meant to be African; for example, page 1 refers to apes and lions, page
 14 panel 1 to gazelles, and so forth.
 
 Page 1:  The Trickster is a cross-cultural archetype, most familiar to modern
-audiences in the form of Bugs Bunny. 
+audiences in the form of Bugs Bunny.
 This reference to the "Trickster," knowing Gaiman, may be more
 important than one might expect... I mean, who causes so much pain to
 Morpheus (as well as, eventually, having no small part in his death)?
@@ -55,7 +55,7 @@ later issues.
 
 Page 8 panel 3:  The King of Birds appears to be either an all white ostrich,
 or perhaps some sort of moa (moas being a now extinct line of giant flightless
-birds of approximately that bodyshape).
+birds of approximately that body shape).
 
 Page 10 panel 2-3:  This has the flavor of one of Kipling's Just-So stories.
 
@@ -86,7 +86,7 @@ Page 24 panel 1-2:  So what could be the differences in the women's story?
 JBird66680@aol.com says:
 <CITE>I always thought that it had something to do with the fact that
 she refused dream three times, but the men thought it was because of
-her sense of duty.<BR> 
+her sense of duty.<BR>
 Perhaps the women felt that she really refused him and didn't give in,
 but was raped by Dream, then killed herself. Maybe the women would
 realize that the reality behind the story would not be so romantic as
@@ -106,5 +106,5 @@ contents of _The Doll's House_.
 off pretty well in this story, but in the women's story is portrayed as a real
 bastard.  I was under the impression that Dream was a bastard in the men's
 story....
-   Joanna <JBird66680@aol.com> -- for the women's story     
+   Joanna <JBird66680@aol.com> -- for the women's story
    Ralf Hildebrandt added more details

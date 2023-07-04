@@ -49,10 +49,10 @@ Dream's sigil has been seen in the past to be his helmet.
 
 Page 2:  This is a splash panel.  Note Dream's period attire; Dream is the only
 Endless who seems to care about the appropriateness of his appearance.
-(Except for Destruction, who we see in plate armor in the Orpheus special, and 
+(Except for Destruction, who we see in plate armor in the Orpheus special, and
 in a "swashbuckler's" outfit in Brief Lives (amongst other places; don't have
 the exact reference)
-  Death is the only other Endless with any sense of costume, save, perhaps, 
+  Death is the only other Endless with any sense of costume, save, perhaps,
 Destiny.
 	In the credit box, Gaiman takes the title PJF, probably meaning
 Pre-Joycean Fellowship.  This is a group whose membership primarily overlaps
@@ -102,7 +102,7 @@ From the [Emperor Norton Webpage](http://www.zpub.com/sf/history/nort.html):
   At the pre-emptory request of a large majority of the citizens of these
   United States, I Joshua Norton, formerly of Algoa Bay, Cape of Good Hope,
   and now for the last nine years and ten months past of San Fransisco,
-  California, declare and proclaim myself the Emperor of These United States. 
+  California, declare and proclaim myself the Emperor of These United States.
   - September 17, 1859
 
 	Panel 6:  In the mid-1800's, newspapers did not have to compete with
@@ -117,7 +117,7 @@ Norton himself, as made evident on the next page.
 
 Page 8 panel 3:  Grown-up:  An unusual concept to apply to the Endless.
 (BUT! : Death tells Dream that Delirium is "just a kid" in Brief
-Lives. Of course, this flies in the face of earlier destriptions of the
+Lives. Of course, this flies in the face of earlier descriptions of the
 Endless, most notably in The Season of Mists, where it is said "the
 Endless to not measure time like we do".)
 
@@ -185,7 +185,7 @@ establishments accepted the Emperor's money as well as US currency.  By such
 means did the Emperor survive.
 
 Page 15 panel 1:  It would appear that Norton has a chamberlain, a Chinese
-named Ah How.  No refs.  His speech pattern is completely clicheed: here he
+named Ah How.  No refs.  His speech pattern is completely cliched: here he
 excessively praises Norton and denigrates himself; in the very next panel, he
 utters a paraphrasing of a proverb, possibly Confucian.  Part of the training
 as an official of the Imperial Court was the study of Chinese literature and
@@ -255,7 +255,7 @@ Leatherette, are indeed main characters, and mention "not using the D-word,"
 after Desire's name is mentioned, not wanting to inspire her wrath. Desire
 does indeed later show up, proving that the endless will... jump series.
 (Note that Cain and Able do the same, in the DC/Vertigo series, "The House
-of Secrets" or somesuch. 
+of Secrets" or somesuch.
 
 Panel 2:  The King of Pain told those who bought the liniment he sold
 outside the Pacific Clinical Infirmary that if they covered their bodies with
@@ -369,7 +369,7 @@ and added details of Clemens' life and stories.  The Colonel was also among
 those who corrected my "Manchu mistake", and explained the Opium Wars.
 Further, he knew what Hock was, as well as wolfsbane, Tom O'Bedlam, and the
 Tzaddikim.
-	Jennifer Hawthorne (jen@athena.mit.edu) explicated Tom O'Bedlam.	
+	Jennifer Hawthorne (jen@athena.mit.edu) explicated Tom O'Bedlam.
 	Tanaqui C. Weaver (cen@vax.oxford.ac.uk) knew about Ramadan, corrected
 my Ah How typo, argued with me about the nature of Soft Places, identified
 hock, and Tom O'Bedlam.
@@ -392,16 +392,16 @@ original or from the transcriber]:
        A dispatch from San Francisco says that Joshua A. Norton dropped dead
 at the corner of California and Dupont streets, in that city, Thursday
 night.  Norton was an Englishman, well-educated, and presumably of
-respectable antecedents. Drifiting to California in the early flush times,
-nobody knows when he gradually sunk into vagrency and lunacy.  His dementia
+respectable antecedents. Drifting to California in the early flush times,
+nobody knows when he gradually sunk into vagrancy and lunacy.  His dementia
 was of a mild and harmless type, his ruling idea being that he was Emperor
-of the world [sic].  Clad in semi-military toggery, much the worce for wear,
+of the world [sic].  Clad in semi-military toggery, much the worse for wear,
 and bedizened with tarnished goldlace, "Emperor Norton" was one of the noted
 characters of San Francisco.  He subsisted wholly on the bounty of the
 prodigal [in its sense of "extravagant"] citizens of the place, and levied
 tribute with the humility and pertinacity of a citizen-Emperor.  Among the old
 Californians there were not a few who humored the old vagrant's fancy, and
-gave him a quarter of a dolllar when pressing needs compelled him to remind
+gave him a quarter of a dollar when pressing needs compelled him to remind
 his subjects that "The Imperial Treasury was in pressing need of funds" as the
 old man usually put the case in some such manner as this.  In seasons of
 popular commotion, he was accustomed to fulminate proclamations, duly signed
@@ -412,7 +412,7 @@ a plumed chapeau, and they were not long ignorant of his history.  For 25 or 30
 years this eccentric man has wandered the streets of San Francisco given "a
 square meal" almost whenever he asked for it, endowed with a certain income
 from easy-going citizens and tolerated because he was a public character of
-whose antecedants almost nothing was known and whose harmless delusion it
+whose antecedents almost nothing was known and whose harmless delusion it
 pleased the popular whim to tolerate and encourage.
 
 >From _The San Francisco Chronicle Reader_ (1962), which reprints a selection of
@@ -425,7 +425,7 @@ exaggerated.  In death they burrowed even deeper into the folklore of the city.
 eccentric who assumed the role of Emperor of the United States, Protector of
 Mexico and a number of lesser honors.  He was accepted with great toleration.
         Currently, impersonators of Emperor Norton still appear at civic
-functions.  A downtown tavern employes its version of the Emperor as a greeter.
+functions.  A downtown tavern employees its version of the Emperor as a greeter.
 And in recent years Norton's grandiose proclamations have appeared in _The
 Chronicle_, heralding springtime with a hunt for treasure he has caused to be
 buried within his capital city.
@@ -458,14 +458,14 @@ remembrance of people of means who knew Norton and had business relations with
 him many years ago when he was a citizen of substance and standing, he would
 have had a pauper's funeral at the city's expense.  A subscription paper to
 procure a funeral fund was drawn up and taken to the Pacific Club where the
-sponsors soon had all the money they deemeded necessary.  The subscription list
+sponsors soon had all the money they deemed necessary.  The subscription list
 still lies on the table of the clubroom.
         After the autopsy Friday the body was prepared for burial.  It was
 clothed in black robe with a white shirt and black tie, and placed in a neat
-rosewood casket, trimmed handsomely but without elaboration.  The generral
+rosewood casket, trimmed handsomely but without elaboration.  The general
 interest felt in the deceased was soon manifest.  Early in the afternoon of
 Friday people who remembered the singular old man kindly, many of them
-gratefully and affectionately, bbegan to call and ask to be allowed a last
+gratefully and affectionately, began to call and ask to be allowed a last
 glance at the familiar face.  Among them were several ladies whose dress
 betokened prosperity.  Some of them brought bouquets to be placed on the
 coffin.  One, the daughter of a former well-known citizen and officer of the
@@ -481,7 +481,7 @@ her with flowers, which at that time were very costly.
 o'clock quite a number had dropped in, some of them laborers who had got off
 the car on their way to the shops, to take a last look at the remains of one
 whom none remembered save with kindly feelings; others were business men who
-stopped on their way downtown for a similar pupose.  Soon the number began to
+stopped on their way downtown for a similar purpose.  Soon the number began to
 increase and there was a steady stream of people pressing through the office to
 the little back room where the remains lay in state taking a last glance at the
 features and filing out at the side exit to make room for the
@@ -499,7 +499,7 @@ features and habitual trimming of the beard, which were observed in dressing
 for the grave, presented a remarkable likeness to the last Emperor of the
 French, whereupon the reporter of a morning contemporary pricked up his ears
 and made note of it, and went off to enlarge upon the details of the
-resemblance with much display of learning, concludeing with the statement that
+resemblance with much display of learning, concluding with the statement that
 the dead man claimed to be an illegitimate son of Louis Napoleon, and going on
 to show that probably the name on the coffin plate was wrong, which, of course,
 is highly absurd.
@@ -519,13 +519,13 @@ which bore this inscription neatly engraved:
 
 Additional story of Emperor Norton I (<davisb@erol.com>)
 
-San Francisco in the 1880s had a fondness of lynch mobs.  At one point, 
-a rather large mob was moving towards Chinatown, with the goal of 
+San Francisco in the 1880s had a fondness of lynch mobs.  At one point,
+a rather large mob was moving towards Chinatown, with the goal of
 burning it to the ground.
 
-Norton stood alone in the middle of the street, blocking the mob's path. 
+Norton stood alone in the middle of the street, blocking the mob's path.
  He recited the Lord's Prayer.
 
-The mob broke up, without killing a single Chinese, or burning a single 
+The mob broke up, without killing a single Chinese, or burning a single
 house.
 

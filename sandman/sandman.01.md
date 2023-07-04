@@ -11,7 +11,7 @@ there IS an Elvis Costello song entitled "Sleep of the just", though nothing in
 the lyrics correlates with the story: Sleep Of The Just The soldier asked my
 name and did I come here very often Well I thought that he was asking me to
 dance In my holy coat and hat and him in his red bonnet We'd have made a lovely
-couple but we never had the chance [chorus] And now you say that you've got 
+couple but we never had the chance [chorus] And now you say that you've got
 to go Well if you must you must I suppose that you need the sleep of the just
 Well it was a powerful day and there were black crows in the road And I kept
 my strong opinions to my chest I suppose I should have told them that I was on
@@ -89,7 +89,7 @@ Page 8-9:  We clearly see here the removal of the helmet, ruby, and pouch of
 sand, whose recovery will occupy most of _More than Rubies_.
 
 Page 10 panel 1:  Ellie is holding a copy of _Through the Looking Glass_, and
-her appearance bears some resemblence to Alice, the heroine of that book.
+her appearance bears some resemblance to Alice, the heroine of that book.
 
 Page 11 panel 2:  The word "morphine" is derived from the name "Morpheus".
 There's one other very significant allusion on page 11 which the annotations
@@ -114,9 +114,10 @@ Desire, and Dream.  We will find out more in later issues.
 According to Neil Gaiman, fulvous is reddish yellow, dull yellowish brown,
 golden, or tawny.  The _Paginarum Fulvarum_ is thus a pun on the "Yellow
 Pages".  The "Yellow Pages" is a business directory in England, a business
-phone directory arranged by category of service in America, Australia and Germany. (The Yellow Pages
-may be the same in England. My English source gave no additional explanation.). First identification
-of Morpheus as the Kinge of Dremes [sic].
+phone directory arranged by category of service in America, Australia and
+Germany. (The Yellow Pages may be the same in England. My English source gave
+no additional explanation.). First identification of Morpheus as the Kinge of
+Dremes [sic].
 
 	Panel 4-6:  First known appearance of a demon we will see again.  The
 amulet will also appear again.
@@ -135,25 +136,25 @@ statement made famous by Aleister Crowley:  "Do what thou wilt, and that shall
 be the whole of the Law."  It is traceable back to Rabelais, and was the motto
 of the Hellfire Club.  Crowley also used, with this motto, another Rabelais
 statement, "Love is the Law, Love under Will."  Some modern groups use a
-slightly different version:  "An' ye harm none, do what ye will." 
+slightly different version:  "An' ye harm none, do what ye will."
 Also: It's just barely possible that the t-shirt is a joke on the Illuminatus!
 trilogy, where one of the far-fetched conspiracy ideas is that "Oh, you
 wascally wabbit!" is a satanic invocation (and thus that Bugs Bunny is the Goat
 who Bears a Thousand Young). A duck who says "buster!" has to be a stand-in for
 Daffy Duck, Bugs Bunny's chief rival in the Looney Tunes pantheon: and "Do what
-thou wilt [shall be the whole of the Law]" is a signature phrase of:  
-   
+thou wilt [shall be the whole of the Law]" is a signature phrase of:
+
  1) Aleister Crowley, who's often mistaken for a satanist and
  2) Anton La Vey, who famously was one and made it the centerpiece of his
     Satanist Bible.
 
 Page 24 panel 7:  Here the text is named the _Liber Fulvarum Paginarum_.
 "Liber" translates as "book", and word order is quite flexible in Latin, so
-this is clearly the same as the text on page 15.  
+this is clearly the same as the text on page 15.
 It is first mentioned in Terry Pratchett's Discworld books -- The translation:
-book of yellow pages, so they're the Yellow pages :)  
+book of yellow pages, so they're the Yellow pages :)
 It also makes an appearance in the novel Neil Gaiman and Terry Pratchett did
-together called "Good Omens".  
+together called "Good Omens".
 It's other name is the Necrotelicomnicon: A book, written by Achmed the mad,
 which lists all of the old, dark gods of the Disc. The first edition is kept in
 the Library of Unseen University, between iron plates, behind a balanced stone
@@ -161,7 +162,7 @@ door, with its name hacked onto the lintel over the door. The page header 'About
 the Author' combusted shortly after his death. Legend says that any mortal man
 who reads more than a few lines of the original copy will die insane; it is
 also said that it contains illustrations that could make a strong man's brain
-dribble out of his ears.  
+dribble out of his ears.
 Usually, people only read tenth or twelfth had copies. There was once a wizard
 who started to read it and let his mind wander. Next morning they found all his
 clothes on the chair and his hat on top of them and the book had ... a lot more
@@ -199,19 +200,19 @@ _A Midsummer-Night's Dream_.  This play is evidently a favorite of Gaiman's, as
 he often uses it as a source, and bases an entire later issue around the play.
 
 Page 40 Panel 5:  Morpheus' thoughts - hard to see, because (in my copy, at
-least) the colouration is rather odd - but the thought reads, "And I have
+least) the coloration is rather odd - but the thought reads, "And I have
 showed him fear..." This may be only speculation, but to me this seems
 reminiscent of a T.S. Eliot quote, from his poem "The Wasteland". The quote
 reads, "..I will show you fear in a handful of dust." I was reminded of this
 on first reading, and then, on further investigation of Morpheus' actions
-directly preceeding this, on page 37, was rewarded with the final panel - and
-those grains falling from his hand, if I am not entirely mistaken, are sand. 
+directly preceding this, on page 37, was rewarded with the final panel - and
+those grains falling from his hand, if I am not entirely mistaken, are sand.
 (And I have showed him fear in a handful of sand.) In fact, I think it should
 be 'shown' in that form, the pluperfect (I show, I was showing, I showed, I
 have shown?). Let us consult the might of the OED and see if Gaiman is, indeed,
 guilty of the carnal sin of bad grammar... no; all is absolved; our deity is
 returned to infallibility; Showed or Shown are both acceptable.
-                
+
 Contributors include:
     Originally written and Edited by Greg Morrow
 jasona@sco.COM ( Convincing simulation )

@@ -1,5 +1,5 @@
                          The Annotated Sandman
-      
+
                        Issue 45: Brief Lives Five
               Neil Gaiman, Jill Thompson, and Vince Locke
 
@@ -23,8 +23,8 @@ syringe.
 Page 5 panel 1:  Sam Hill:  Euphemism for "hell", deriving from "Salomon",
 an oath.  Ass is green and growing:  A variation of the rhyming slang "ass
 is grass".
-	Panel 2:  "I'm a very good driver" is an oft-quoted line of 
-dialog from the movie _Rain Man_, spoken by Dustin Hoffman's autistic 
+	Panel 2:  "I'm a very good driver" is an oft-quoted line of
+dialog from the movie _Rain Man_, spoken by Dustin Hoffman's autistic
 character.
 	Panel 3-5:  Del's actions here are reminiscent of Dream's punishment
 of Alex Burgess in #1.  It is evident that the Endless have the ability to
@@ -46,10 +46,10 @@ nose.  In panel 2, Tiffany is collecting coke residue left on the mirror
 (mirrors are used to prepare lines for sniffing because they are flat and
 untextured).  In panel 4, she's rubbing the residue into her gums where it
 will be absorbed.
-	Panel 2:  Lousy movie:  The movie _Ishtar_, a putative comedy, went 
+	Panel 2:  Lousy movie:  The movie _Ishtar_, a putative comedy, went
 enormously over-budget, in part because of the cost of its impressive cast,
 and was roundly panned by the critics.
-	Panel 3:  Tiffany is a chain of jewelry stores known for making fine 
+	Panel 3:  Tiffany is a chain of jewelry stores known for making fine
 watches.
 	Panel 5:  Note the similarity between Tiffany, born Alma, and
 Wanda, born Alvin, of _A Game of You_.  Besides the coincidence of names,
@@ -61,7 +61,7 @@ Page 8 panel 2:  Like a Virgin:  A song by Madonna (note Tiffany's shirt).
 "Sean"--Sean Penn--for a short time.
 
 5: White Knights and/or Pond-Scum
-	Note that "pond-scum" is usually not hyphenated.  However, "pond scum" 
+	Note that "pond-scum" is usually not hyphenated.  However, "pond scum"
 is recognized as a compound noun.  There are three stages in the life of an
 English compound noun.  In the first, two words become associated with a
 single meaning, as in "pond scum".  After a while, the written form becomes
@@ -78,7 +78,7 @@ act of screwing a hole drilled in someone's head.
 
 Page 10 panel 1:  Note the driver is making a rude gesture toward Delirium.
 In America, the raised middle finger displayed with the back of the hand
-toward the target translates as "fuck you".  In recent years, this gesture 
+toward the target translates as "fuck you".  In recent years, this gesture
 has been adopted in both Britain and England, partially displacing older
 gestures of similar intent.
 	Panel 2:  Del's sister here is almost certainly Death.
@@ -99,8 +99,8 @@ topic given in 13.5 is a good parody of a typical show.  The hosts' full
 names are Oprah Winfrey and Phil Donahue.
 
 Page 13 panel 6:  Mai Lai:  Possibly an amalgam of "mai tai", a kind of rum
-drink (to which Tiffany refers), and "My Lai", a village in South Vietnam 
-where American military forces engaged in a massacre of civilians.  
+drink (to which Tiffany refers), and "My Lai", a village in South Vietnam
+where American military forces engaged in a massacre of civilians.
 
 8: Wham Bam Thank You Ma'am
 	Slang for something quickly and abruptly started and accomplished;
@@ -109,7 +109,7 @@ Notable as a shouted lyric near the end of David Bowie's "Suffragette City".
 
 Page 14 panel 1:  "I Heard It Through the Grapevine":  a song originally
 popularized by Gladys Knight and the Pips, later taken to the top of the
-charts by Marvin Gaye.  Lyrics are quoted in the third caption of panel 1, 
+charts by Marvin Gaye.  Lyrics are quoted in the third caption of panel 1,
 the third caption of panel 2, and the caption of page 15 panel 1.
 
 Page 15 panel 6:  "Under Pressure":  A song written and performed by David
@@ -139,9 +139,9 @@ innocent.
 Contributors include:
     Originally written by Greg Morrow
 	Lance Smith (lsmith@mega.cs.umn.edu) spotted a rude gesture and
-Tiffany's coke use, pointed out the congruence of Del's and Dream's 
+Tiffany's coke use, pointed out the congruence of Del's and Dream's
 interactions with mortals and identified songs.
-	Resident Assyriologist Glenn Carnagey (lf7z@ellis.uchicago.edu) and 
+	Resident Assyriologist Glenn Carnagey (lf7z@ellis.uchicago.edu) and
 Lance Smith put together the Appendices on Ishtar.
 	Andrew Solovay (solovay@netcom.com) identified the quote from Job.
 	Katie Schwarz (katie@physics.Berkeley.EDU) corrected the My Lai
@@ -149,9 +149,9 @@ reference.
 	Stephen White <sfwhite@sciborg.uwaterloo.ca> identified a Bowie
 reference, as did Andrew Moran <andrew@cs.chalmers.se>.  Andrew also noted
 offensive Australian gestures.
-	Mike Collins (mcollins@nyx.cs.du.edu), Michael Gemar 
-(michael@psych.toronto.edu), and sonof@merle.acns.nwu.edu also identified 
-the Bowie lyrics.  
+	Mike Collins (mcollins@nyx.cs.du.edu), Michael Gemar
+(michael@psych.toronto.edu), and sonof@merle.acns.nwu.edu also identified
+the Bowie lyrics.
 	Lore Christian Sjoberg (lore@ucscb.UCSC.EDU) identified Roxy Blue.
 	Hannu Pajunen <hannu@utu.fi> noted Sean Penn and asked about
 American talk shows.
@@ -160,25 +160,25 @@ and the Wanda connection.
 	Andrew Sigel (sigel@vsscad.enet.dec.com) corrected the "Grapevine"
 reference.
 
-Appendix: Ishtar (by Lance Smith) 
+Appendix: Ishtar (by Lance Smith)
 [Compiled from several notes, so may read unevenly.  Apologies--ed.]
 
 Ishtar is the main goddess in Assyrian/Babylonian mythology.  Note that
 this contradicts the assumption that Pharamond is Babylonian, which arises
 from the fact that he and Dream drank wine together in Babylon.
 
-Her role seems unclear. At least one legend has her involved in a seasonal 
-cycle like Etain. In one of her roles, she appears as a lustful goddess of 
-sex and war, often dressing in red. As Quadishtu, Babylonian for 'harlot', 
-she was patroness of the temple prostitutes. So we have a connection to the  
-Prodigal and also her current career choice.                             
+Her role seems unclear. At least one legend has her involved in a seasonal
+cycle like Etain. In one of her roles, she appears as a lustful goddess of
+sex and war, often dressing in red. As Quadishtu, Babylonian for 'harlot',
+she was patroness of the temple prostitutes. So we have a connection to the
+Prodigal and also her current career choice.
 
 Ishtar would be her Babylonian or Assyrian name. The other names that Dream
 uses, Belili and Astarte, are her Sumerian and Phoenician names respectively.
-(The Sumerians may also have called her Inanna or Nina. The myths conflict.) 
+(The Sumerians may also have called her Inanna or Nina. The myths conflict.)
 As mentioned earlier, Ishtar is the great goddess of the Babylonian pantheon.
 Over the years she acquired the attributes of other goddesses, but she is
-usually seen as either a compassionate mother goddess or a goddess of sex 
+usually seen as either a compassionate mother goddess or a goddess of sex
 and war or both.
 
 The temple prostitution that the dancers discuss is associated with an
@@ -187,21 +187,21 @@ their heads in annual mourning for the passage of Adonis [the Greek
 Adonis?--ed.] into the underworld.  Those who did not wish to give up their
 beauty served as prostitutes at the temple.  Children born through such
 prostitution were thought to be sacred and virgin born.  Money taken in by
-the prostitutes was given to the temple. 
+the prostitutes was given to the temple.
 
 Temples to Ishtar at Uruk, Akkad, Nineveh, Arbela and Sippar may also have
 had this sort of temple prostitution.  (Certainly Uruk, which was the
 oldest temple.)  I'm not really clear on the details of how widespread this
-custom was. 
+custom was.
 
-The dance she does I'm not really sure about. One rite associated with 
-Ishtar was the choice of a husband or king for the goddess. His reign 
+The dance she does I'm not really sure about. One rite associated with
+Ishtar was the choice of a husband or king for the goddess. His reign
 would last a year. At the end he would be sacrificed and a new husband
 picked. The man chosen was allowed sex with Ishtar/Astarte, or her earthly
 form which was that of the temple's high priestess. The sex and the
 sacrifice were to insure good crops and productive livestock. This is all
 tied in with Ishtar's descent into the underworld to rescue her
-husband/brother and the changing of the seasons. 
+husband/brother and the changing of the seasons.
 
 One name associated with Ishtar/Belili/Astarte that Dream does not use is
 Belit or Beltis. This name was given to the consort of Bel (just a word for
@@ -216,7 +216,7 @@ the goddess of love and sex, she was still considered a virgin by the
 faithful.
 
 I'm a little over my head in Babylonian/Assyrian/Phoenician/Sumerian
-mythology so feel free to point out mistakes. 
+mythology so feel free to point out mistakes.
 
 Appendix: Ishtar (by Glenn Carnagey)
 [Compiled from several notes, so may read unevenly.  Apologies--ed.]
@@ -229,14 +229,14 @@ mostly a good spinner of tales, a bit like our beloved Neil.  Most scholars
 agree that he fibbed about going to Babylon, there are just too many
 geographical and historical inaccuracies.  For the record, he did visit the
 Egyptian Delta, and that portion is fairly reliable, except when the
-priests were putting him on, which was apparently a good bit of the time. 
+priests were putting him on, which was apparently a good bit of the time.
 But when he heads south  (particularly Nubia, the topic of my
 dissertation), well, he tells a good tale.
 
 My Mesopotamian archaeology professor, who has the concession at Nippur,
 the religious capital of Mesopotamia, froths at the mouth when Bible types
 bring up the dreaded "temple prostitute" parallel in Babylonia. He's
-convinced it's a fundamentalist plot to keep this alive in the literature. 
+convinced it's a fundamentalist plot to keep this alive in the literature.
 Before we could read Akkadian and had dug up their temples and tombs (i.e.
 prior to the late 19th century) Herodotus was an important historical
 source for the Ancient Near East, but he sounds pretty silly today.  To be
@@ -252,7 +252,7 @@ general character of Inanna is also good stuff.  Except that it should be
 obvious how dangerous it is to equate Adonis and Tammuz/Dimuzi, there are
 some similarities of theme, and perhaps even Mesopotamian influence, but
 they are not the same story.  However there's no Babylonian evidence of
-temple prostitution, the Byblos reference must be from classical times. 
+temple prostitution, the Byblos reference must be from classical times.
 The coin story was certainly an invention of Herodotus, but it's a good
 tale, eh?
 
@@ -270,16 +270,16 @@ Phoenicians, Ugarites, Byblites, Amorites, Canaanites, and all the other
 'the lord is my god', and is also a common epithet of all Semitic deities
 after the Aramaeans came into Mesopotamia late in the 2nd millennium BC and
 Marduk [the chief Babylonian god] was supplanted by Bel.  Belat means
-'goddess' or 'Lady', the feminine of Bel, and Beltis is a Greek mispelling
+'goddess' or 'Lady', the feminine of Bel, and Beltis is a Greek misspelling
 of the latter.
 
 Pharamond will have to be explained by someone else, he has nothing to
-do with the Ancient Near East, as far as I know.  It looks European, 
+do with the Ancient Near East, as far as I know.  It looks European,
 doesn't it?
 
 Lance refers to "Temples to Ishtar at Uruk, Akkad, Nineveh, Arbela and
 Sippar"  These temples did not exist at the same time; Uruk, Akkad, and
-Sippar date from Sumerian times, Ninevah and Arbela from Assyrian times. 
+Sippar date from Sumerian times, Ninevah and Arbela from Assyrian times.
 Ishtar's temple at Uruk is also her oldest and it predates the advent of
 writing.  In Babylonia, the Tammuz ritual was celebrated only at the
 capital.  In Sumerian times this was the religious center at Nippur, then

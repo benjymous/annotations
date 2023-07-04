@@ -98,15 +98,15 @@ disappeared.  Since the story runs 25 pages instead of the usual 24, I suspect
 that the script was being revised while McManus was doing the art, causing a
 some confusion.
 
-Page 10 panel 2: Chess, of course, is a board game, echoing the overall title 
+Page 10 panel 2: Chess, of course, is a board game, echoing the overall title
 of this issue.
-        panel 3: Tiffany's is a high class, New York department store, which 
-is well-known for it's expensive jewelry & perfumes (Breakfast at Tiffany's); 
+        panel 3: Tiffany's is a high class, New York department store, which
+is well-known for it's expensive jewelry & perfumes (Breakfast at Tiffany's);
 hence Wanda's comment (in panel 4) that they "can't afford it".
         panel 6:  "Princess Barbara":  irony.  Wanda doesn't know that that is
 how Barbie is known in the Land.
 
-Page 11 panel 1: This may be the same place where Johanna Constantine met 
+Page 11 panel 1: This may be the same place where Johanna Constantine met
 Dream in issue #29, _Thermidor_.
         panel 2:  The link between dreams and time is an old one, so to speak.
 Dreams are often seen to be prophetic (oneiromancy), and the interpretation of
@@ -140,7 +140,7 @@ title sequence of _The Outer Limits_.
 Page 15 panel 2:  Martin Tenbones has indeed found his way to the real world,
 through the unexplained magic of the Plot Device (or perhaps the Porpentine).
 
-        panel 4 & 5: Note the yellow liquid on the ground & dripping off the 
+        panel 4 & 5: Note the yellow liquid on the ground & dripping off the
 lady's skirt; apparently, she wet herself.
 
 Page 16 panel 1:  _Breakfast at Tiffany's_ is a novel by Truman Capote, later
@@ -164,7 +164,7 @@ being made "never-was" by the events of _Crisis on Infinite Earths_ in 1985.
 	See below for how the Bizarros became "Weirdzos".
 	See also page 17 panel 8.
 
-Page 17 panel 1:  Wanda's description of the "Wierdzos" is apparently an 
+Page 17 panel 1:  Wanda's description of the "Wierdzos" is apparently an
 accurate description of the Bizarros.
 "Hyperman" is obviously an analog of Superman. Similarly, "Lila Lake" is
 an analog of "Lois Lane". (Note the initials of both names.)
@@ -174,7 +174,7 @@ Bonaparte, but this is probably irrelevant given Martin Tenbones' correct name.
 	Panel 6:  Sindie was alluded to in _The Doll's House_, but not named
 explicitly.  Note the spelling of her name:  "Sindie" = "sin".  There was a
 line of "Sindie" dolls in the 1970s (or British "Cindy" dolls still being
-made) designed to compete directly with Barbie dolls.  In effect, she was a 
+made) designed to compete directly with Barbie dolls.  In effect, she was a
 "younger version of Barbie", as mentioned in the epilog to _Doll's House_.
 I'm not sure whether the Sindy/Cindy dolls are still being produced, but
 I *do* remember seeing them in a toy-store catalog a few years back.
@@ -188,9 +188,9 @@ off the page before reproduction.  See below.  Note that Wanda was evidently
 born male, named Alvin, but now considers herself female.
 	The Game of Wanda is her gender orientation.
 
-Page 18 panel 1: Martin Tenbone's right eye has apparently been hit. The result
+Page 18 panel 1: Martin Tenbones' right eye has apparently been hit. The result
 of another encounter after scaring the black beggar lady, perhaps?
-        panel 3: Note the people's reactions to Martin and the smoke coming from 
+        panel 3: Note the people's reactions to Martin and the smoke coming from
 the car on the right.
 
 Page 19 panel 2:  Barbie doesn't recognize herself:  Part of the Game of
@@ -222,7 +222,7 @@ House_.
 	Panel 4-5:  The birds of the apparitions are probably supposed to be
 cuckoos.
 
-Page 25 panel 4 & 5: Note that the bird is apparently unafraid of George. 
+Page 25 panel 4 & 5: Note that the bird is apparently unafraid of George.
 Does he own it? And why is he eating it?
         panel 8:  The Game of George is simply "What are the Children of the
 Cuckoo?"

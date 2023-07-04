@@ -20,7 +20,7 @@ Since I have it online, here's a more complete excerpt:
      idiot, full of sound and fury.....signifying --- nothing.
 					- Macbeth Act 5, Scene 5
 
-Page 1:  These people are walkons.
+Page 1:  These people are walk-ons.
 
 This story had been teased in the previous issue as having the title "WAITING
 FOR THE END OF THE WORLD..." which is the name of a song Elvis Costello wrote
@@ -116,7 +116,7 @@ American would probably use "asshole."
 late 70s or early 80s. The first appearance of Destiny was specifically Weird
 Mystery Tales #1. He has also appeared in _Elvira's House of Mystery_. Marv
 Wolfman used him for appearances in _Superman_ (Superman#352) and _The New Teen
-Titans_.  
+Titans_.
 In these, it was established that he was more powerful than Superman and not
 obligated to obey Zeus or Kronos.  The character may have had his genesis in
 the 1960s edition of _The Spectre_.  In issues #8-10, the Spectre made some

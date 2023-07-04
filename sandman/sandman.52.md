@@ -10,31 +10,31 @@ Cover: Note the photograph, which will turn up as next issue's cover, and
 the vines from last issue's. The covers for "Worlds' End" have layers
 and multiple references just as the stories inside do.
 
-page 1 panel 2: "Necropolis": "city of the dead". "Litharge": lead monoxide 
+page 1 panel 2: "Necropolis": "city of the dead". "Litharge": lead monoxide
 -- perhaps a substance used as an embalming agent?
-           panel 3:  "Quinsy": suppurative tonsilitis. Derived from the Greek
+           panel 3:  "Quinsy": suppurative tonsillitis. Derived from the Greek
 "kunanche"; as we will see in issue 55, many of the names around Litharge
-seem to be Greek-derived. "Spartan quality goatskins": a reference to Trojans, 
+seem to be Greek-derived. "Spartan quality goatskins": a reference to Trojans,
 a brand of condom.
            panel 4: "fusty": "smelling of the cask".
            panel 5: The uniformed ape resembles Prinado, a character from the
 earlier arc "A Game of You". They both also resemble organ grinder's
 monkeys, of course.
-           panel 6: The OED  uses several quotations from people named 
+           panel 6: The OED  uses several quotations from people named
 Klaproth: Julius von Klaproth, an 18th century traveler and writer; and Martin
 Heinrich Klaproth, a chemist after whom some minerals are named.
 
 page 2 panel 2: Cluracan, as longtime _Sandman_ readers will recall, first
 appeared in the arc "The Season of Mists" -- 26:1, to be precise.
 
-page 3 panel 1: A noble family of Imperial Rome bore the name "Aurelius". 
-The city of Aurelia seems to be modeled on Rome in a number of ways. 
+page 3 panel 1: A noble family of Imperial Rome bore the name "Aurelius".
+The city of Aurelia seems to be modeled on Rome in a number of ways.
 "Carnifex": Latin for "executioner" (literally "meat-maker").
 
 The statue on the right resembles a real-life statue (of Apollo? Augustus
 Caesar? - can't remember). The statue was made, I think, by Michaelangelo.
 
-page 4 panel 5: We can infer that Aurelia's history has been similar to 
+page 4 panel 5: We can infer that Aurelia's history has been similar to
 that of Italy; an empire has given way to a collection of city-states.
 
 page 5 panel 1: Nuala was given to Dream as a gift in that same issue #26.

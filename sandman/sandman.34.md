@@ -87,7 +87,7 @@ Given that Hazel and Fox are in sync, and Thessaly and Wanda are incapable,
 it's really only about a 1 in 6 chance that menstrual blood would be available.
 This is perhaps the first time that Gaiman has had a story point depend purely
 on chance, however elegantly it may have been foreshadowed.
-	Thessaly, it is hinted, is very old.  Since ovulation is a lynchpin in
+	Thessaly, it is hinted, is very old.  Since ovulation is a linchpin in
 the menstrual cycle, and since the supply of eggs in the human female is finite
 and in the hundreds or thousands, it is no surprise that Thessaly has stopped
 menstruating, even though she retains apparent youth.  She's simply run out of
@@ -127,7 +127,7 @@ bitch."  Weirdzo is a reference to the Bizarros, mentioned earlier.
 Page 22 panel 4:  Lunatic, meaning madman, originally arose from the belief
 that the full moon influenced madness.  Its use here is overtly ironic.
 
-Page 23 panel 1-3:  The baglady, possibly mad, recognizes what happened to the
+Page 23 panel 1-3:  The bag lady, possibly mad, recognizes what happened to the
 moon.  Is it a consequence of her madness, or is it simply as she says in panel
 3, that no one bothers to look at the sky any more?
 	Panel 6:  Rabbit hole:  a reference to Lewis Carroll's _Alice's
@@ -156,7 +156,7 @@ the type of person her name came to represent.  "Goody" itself is short for
 	Margaret Hamilton:  Played the Wicked Witch of the West in the
 movie version of _The Wizard of Oz_.
        	Panel 5-6:  George should be enjoined from speaking except with
-Thessaly's permission; see page 16 panel 1.  This is handwaved away in the next
+Thessaly's permission; see page 16 panel 1.  This is hand waved away in the next
 issue.
 
 Contributors include:

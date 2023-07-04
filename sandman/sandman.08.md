@@ -11,7 +11,7 @@ Note:  _The Doll's House_ and _Sandman_ #8 both contain an introduction
 written by Neil Gaiman explaining the story thus far.  The introduction
 does not appear in _Preludes and Nocturnes_.  _Sandman_ #8 also contains
 words of praise for _Sandman_ (and Neil Gaiman) from many writers and
-artists, both of comic books and mainstream fiction.         
+artists, both of comic books and mainstream fiction.
 	The introduction is illustrated by original art by Mike Dringenberg
 in #8.  The illustrations in _The Doll's House_ are different and more
 general.  The notes below about the illustrations refer to the ones in #8.
@@ -32,33 +32,33 @@ house, Fawney Rig, is significant, being "named by Lady Johanna after the
 manner in which she acquired it."  Fawney Rig is a con in which a gilded
 brass ring is sold for less than it is supposedly worth (if it were gold),
 but much more than what it is actually worth.  The ring would be dropped
-and picked up before the mark, so it was also referred to as 
+and picked up before the mark, so it was also referred to as
 fawney-bouncing.  Lady Johanna's con was presumably done on a larger, more
 complex scale.  Lady Johanna Constantine is an ancestor of John
 Constantine, whom we met in _Sandman_ #3.  We will meet Lady Johanna in
 later issues.
-	The [Grim] Reaper is a traditional appelation for Death, in this form
+	The [Grim] Reaper is a traditional appellation for Death, in this form
 usually represented as a skeletal figure in a dark robe, wielding a scythe.
 	Paragraph 13:  We will assume that the reader recognizes and recalls
 events from earlier issues.
 	Paragraph 14:  This, however, is new information.  My interpretation is
 that Dream was engaged in some form of conflict with forces unknown when
-Burgess cast his spell.  The weakened Dream was unable to resist the call. 
+Burgess cast his spell.  The weakened Dream was unable to resist the call.
 Another hint at this prequel is given in _Sandman_ #47.  Note that
 Dream is carrying all his tools at the time of his capture.  Neil has said
 that he is interested in writing a miniseries about these events after
 the main series is concluded.
 
 Intro, page 2, paragraph 4:  The information that the Order was embroiled in a
-scandal when Sykes and Cripps was also mentioned in Sandman                              
-#1,page 14, panel 3 which brings the newspaper com Roderick Burgess and                             
-Ethel Cripps and describes scandal, which envolves the suicide of the                               
+scandal when Sykes and Cripps was also mentioned in Sandman
+#1,page 14, panel 3 which brings the newspaper com Roderick Burgess and
+Ethel Cripps and describes scandal, which involves the suicide of the
 museum administrator, which we see in Sandman#1.
 
 Page 1 panel 1:  This scene occurs in Washington Square Park, in Greenwich
 Village, New York City.  Many specific details in the artwork confirm this.
 	Several people, including this writer, thought that the arch was
-intended to be L'Arc de Triomphe, in la Place Charles de Gaulle, Paris, France. 
+intended to be L'Arc de Triomphe, in la Place Charles de Gaulle, Paris, France.
 In fact, that arch is sufficiently larger than the pictured arch that the
 Washington Square arch could fit underneath it.
 	The Washington Square arch is at the north end of the park, near a
@@ -78,29 +78,29 @@ Firstly, I would like to say how terribly strange it was for me to be
 literally sitting in Washington Square Park, reading "The Sound Of Her
 Wings" for the first time. I realized it immediately, and it was one
 of those "weird shit" moments that Rose Walker always babbles on
-about. 
+about.
 My point, though, is that I found this story immediately interesting,
 Death in Washington Square Park, since i really dislike that place,
-since:  
+since:
 
-a) it is dirty 
+a) it is dirty
 b) it is either very, very, crowded or very, very empty
 c) drug dealers lurk around every corner, and so the cops are always
-hassling everyone there 
+hassling everyone there
 d) the fountain *never* works (even in the summer) and (most
-importantly) 
+importantly)
 e) to quote friend of mine: 'every time I go to Washington Square,
-someone dies.' 
+someone dies.'
 'no, really. it's either an O.D. or a heart attack or something, but every
-damn time I've been there (which is farily often, and accurate)
+damn time I've been there (which is fairly often, and accurate)
 there's been a corpse there waiting for me.'
 
 Anyway, the point is, Washington Square Park, which I tend to
 frequent, is a place where many Goths hang out, many of whom look much
-like Morpheus and Death or thier human counterparts, Robert Smith and
+like Morpheus and Death or their human counterparts, Robert Smith and
 Souixie Souix. It doesn't matter whether or not Morpheus or Death have
 wings, real or metaphorical, since they would if we were to suppose
-them to and wouldn't if we didn't. I'm rambling on, but inittially
+them to and wouldn't if we didn't. I'm rambling on, but initially
 meant to say that Many people who look very much like the two hang
 there, death is always about, and no one seems to notice.
 
@@ -120,7 +120,7 @@ Page 4 panel 6:  "Mary Poppins" was a Disney film of the 60s which mixed live
 action and animation in an unprecedented manner.  Death's description of the
 movie is accurate.
 
-Page 5 panel 2:  "Utterly a banker":  "Banker" (or "Merchant Banker") is 
+Page 5 panel 2:  "Utterly a banker":  "Banker" (or "Merchant Banker") is
 standard London rhyming slang for "wanker", an unpleasant person (from
 "wanking off", or masturbation).
 	Panel 7:  Dick van Dyke's line translates to Standard English as
@@ -155,12 +155,12 @@ civilization, which is implied, I believe, to have ended thousands of years ago.
 
 Page 13 panel 1:  Romany is the name of the Gypsies for themselves and for
 their language.
-	Panel 5:  Yid:  Yiddish is the traditional lingua franca of the 
-Ashkenazic Jews, those who have ancestors that lived in Germany, Europe and 
-Slavic countries. Yiddish is the closest language to early German but is 
+	Panel 5:  Yid:  Yiddish is the traditional lingua franca of the
+Ashkenazic Jews, those who have ancestors that lived in Germany, Europe and
+Slavic countries. Yiddish is the closest language to early German but is
 written in Hebraic characters.
-The Yiddish people were generally called Ashkenazim or Ashkenazic Jews to 
-distinguish them from the Sephardim or Sephardic Jews, Mediterranean Jews of 
+The Yiddish people were generally called Ashkenazim or Ashkenazic Jews to
+distinguish them from the Sephardim or Sephardic Jews, Mediterranean Jews of
 Spanish origin, expelled from Spain due to religious persecution in 1492.
 	"Yid" means "Jew" in Yiddish.  It is a strong racial epithet,
 particularly when used in Europe by a Gentile.  The American equivalent is
@@ -177,7 +177,7 @@ doctrine of the Trinity; "the Lord is One" means not just "as opposed to many"
 but "as opposed to three-in-one".  It is said in every worship service and in
 numerous other contexts, including, according to tradition, just before death.
 	Panel 4:  Note the painting of the skull, an unusual decoration.
-	Panel 7:  Harry finds out about the afterlife, but we don't.  We 
+	Panel 7:  Harry finds out about the afterlife, but we don't.  We
 have learned before that there is a Hell, for example; other DC books,
 particularly _Swamp Thing_, have shown other aspects of the afterlife.
 _Season of Mists_, in _Sandman_ #21-28, is directly concerned with Hell.
@@ -193,7 +193,7 @@ the Family_, in which the readers could call a special phone number to vote
 whether Robin lived or died.  By a narrow margin, Robin (the second
 character to use that name), was voted out.
 	Panel 8:  Note the puns on the fate of the comedian.
- 
+
 Page 17 panel 2:  "Dying on stage" typically means telling jokes that do not
 succeed.  This is a punning reference to that.
 	Panel 6:  "The Sunless Lands" would appear to be an appelation for the
@@ -201,19 +201,19 @@ afterlives.  It may be from Greek mythology, the most pleasant section of
 Hades, where the virtuous dwelt after death.  It may also refer to the
 Sumerian/Babylonian afterlife, which was dusty, dark, and sterile, according to
 Enkidu's vision in the "Epic of Gilgamesh".
-	Note the interesting characterization of Dream as more terrible 
+	Note the interesting characterization of Dream as more terrible
 than Death. Quite true, considering that Dream can make a person's life a
-living nightmare (c.f. Alex Burgess in #1, pp 38-40); whereas Death merely 
+living nightmare (c.f. Alex Burgess in #1, pp 38-40); whereas Death merely
 takes people's lives.)
         "No one here gets out alive" is from a Doors song, "Five to One", from
 the album _Waiting for the Sun_ (1968).  It was also the title of Doors lead
 singer Jim Morrison's biography, by Jerry Hopkins and Daniel Sugarman, Warner
 Books, 1980.  Note that it may not be original with Morrison, as he was known
 to widely use literary sources in his writing.
-        panel 7:  
+        panel 7:
 
 Page 18 panel 5:  "Booful" is Eastender slang for "beautiful".  (Eastenders
-are from the East End of London.)  Aside from this, which may be a dialectical 
+are from the East End of London.)  Aside from this, which may be a dialectical
 slip on Gaiman's part, the entire issue takes place in New York City.
 
 Page 19 panel 1:  Death is a "gift".
@@ -239,7 +239,7 @@ correspondent suggested.
 
 Contributors include:
     Originally written by Greg Morrow
-	Peter Trei (ptrei@mitre.org) gave a long description of Washington 
+	Peter Trei (ptrei@mitre.org) gave a long description of Washington
 Square Park.  Tom White (twhite@mozart.amd.com), "Nikki"
 (ngustas@hamp.hampshirt.edu), and Connie Hirsch (fuzzy@athena.mit.edu) also
 helped in correcting my misidentification of that scene and the locale of the
@@ -252,9 +252,9 @@ Jacob Levy <ST802099@brownvm.brown.edu> differed, saying that "Yid" was not
 negative in context.
 	William Sherman also pointed out the identification of Death with the
 angel Uriel.
-	Tom White, Rob Bakie <slinkie@milton.u.washington.edu>, Viktor Haag 
-<vehaag@crocus.waterloo.edu> and Connie Hirsch identified the Doors quote. 
-Connie also recalled the Sunless Lands.  Zeeshan Hasan 
+	Tom White, Rob Bakie <slinkie@milton.u.washington.edu>, Viktor Haag
+<vehaag@crocus.waterloo.edu> and Connie Hirsch identified the Doors quote.
+Connie also recalled the Sunless Lands.  Zeeshan Hasan
 (zeeshan@occs.cs.oberlin.edu) related the Sunless Lands to Gilgamesh.
 	Viktor also confirmed the London origin of "booful".
 	Jim W Lai (jwtlai@watcgl.waterloo.edu) found the song to Death.
@@ -264,7 +264,7 @@ Connie also recalled the Sunless Lands.  Zeeshan Hasan
 difference in the illustrations accompanying the introduction.
 	Ron Dippold <RDIPPOLD@CANCUN.QUALCOMM.COM> pointed out the amazing
 disappearing-reappearing ankh chain, Harry's unusual painting, some puns
-and a graffito.  He indicates, without reference, that the winged death 
+and a graffito.  He indicates, without reference, that the winged death
 predates Christianity.
 	Ian O'Brien (izo30@juts.ccc.amdahl.com) pointed out some rhyming
 slang, noted that Dream and Death didn't use their galleries, and saw the

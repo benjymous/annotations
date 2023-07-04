@@ -86,7 +86,7 @@ beggars, bartenders, and lounge musicians alike.
 	Panel 3:  Lycius is of noble birth, an Equestrian rather than a
 Senator.  He was reputedly only two feet tall, extremely light but with a
 Stentorian voice.
-	Panel 4:  Pylades:  a pantomine dancer, banished on one occassion by
+	Panel 4:  Pylades:  a pantomime dancer, banished on one occasion by
 Augustus but later restored.  Pylades was also the name of the cousin and
 proverbial loyal friend of Orestes (from Aeschylus).
 

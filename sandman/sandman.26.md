@@ -15,7 +15,7 @@
 Page 1 panel 2:  The guardians of the gate are as seen before; Cluracan of
 Faerie is new to _Sandman_.  The realm of Faerie has played a large role in two
 previous Gaiman works, _Sandman_ #19 and _Books of Magic_ #3.
-	Cluracan (with accents over the `u' and second `a') is a dimunitive
+	Cluracan (with accents over the `u' and second `a') is a diminutive
 old-man fairy of Ireland, traditionally believed to inhabit wine cellars.  he
 takes care that the beer barrels and wine casks are not left running, and for
 reward is always given his supper.  In County Cork, the cluracan is often
@@ -69,7 +69,7 @@ disgust for the hapless Abel.
 
 Page 12 panel 1:  A stooge bears the brunt of the tricks and jokes perpetrated
 during an act.
-	
+
 Page 13 panel 7:  Note that Loki is being left essentially alone.
 
 Page 15 panel 1:  The warriors in the notional Ragnarok are the legendary

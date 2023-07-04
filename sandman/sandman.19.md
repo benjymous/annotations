@@ -72,7 +72,7 @@ While another speculates:
 	Based on these, it seems likely enough that Gaiman was thinking of
 _Romeo and Juliet_ when Burbage asks for a lover most tragic.  Since this
 performance of _Dream_ occurred earlier than any historical performance, it
-might well have preceeded _Romeo and Juliet_ in any ordering.
+might well have preceded _Romeo and Juliet_ in any ordering.
 	Panel 4:  Notice Wendel's outline to the left.
 	Panel 5:  Sussex is a district (from "South Saxony") in England.
 
@@ -89,7 +89,7 @@ performances throughout the 16th century.  Chamberlain's Men played winters
 there from their formation in 1594 until 1596 when the City banned all
 performances within City limits.
 	Panel 2:  Actors and theatres were considered low class and
-disreputable, and were often hassled by self-righteous governements; this would
+disreputable, and were often hassled by self-righteous governments; this would
 be one such incident.  Theatres such as the Globe, where many of Shakespeare's
 plays were run, were mostly on the south side of the Thames, since this put
 them outside London proper, in a more friendly jurisdiction.
@@ -110,7 +110,7 @@ an earthen mound?
 Page 6 panel 1:  Auberon and Titania are also characters in the play; Dream is
 showing the rulers of Faerie a play about the rulers of the fairies.
 In The Sword and the Stone by T. H. White Dom-Daniel is a college under
-the sea where both Merlin and Morgana learned magic.  Shaper is a literal 
+the sea where both Merlin and Morgana learned magic.  Shaper is a literal
 translation of Dream's Latin title Morpheus.
 
 	Panel 2:  This is Puck, who also has a representation in the play.
@@ -119,7 +119,7 @@ appellation of Dream, probably referring to the puzzling nature of dream
 imagery.
 	Panel 5:  In the theater, it is considered bad luck to wish actors good
 luck; "Break a leg" is that phrase that is used instead.
-	
+
 Page 7:  The play opens with Theseus, Duke of Athens, anxiously awaiting his
 wedding to Hippolyta, Queen of the Amazons.  Philostrate is his Master of
 Revels.
@@ -183,9 +183,9 @@ of the child whose role he plays?
 	Panel 4:  This arrangement was, of course, hinted at in _Sandman_ #13.
 	Panel 5:  Titania has summarized the action of the play thus far
 accurately.
-                  Note "consort" rather than "king" or "husband". I am 
-uncertain if Titania was supposed to be *married* to Oberon, but Oberon *was* 
-supposed to have had affairs outside the union. "Consort", then, would be 
+                  Note "consort" rather than "king" or "husband". I am
+uncertain if Titania was supposed to be *married* to Oberon, but Oberon *was*
+supposed to have had affairs outside the union. "Consort", then, would be
 the more accurate description.
 
         Panel 6:  Act II Scene 1 lines 179-182.

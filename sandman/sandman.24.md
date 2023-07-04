@@ -21,7 +21,7 @@ Norse, a bitter dangerous place."  (Jack Kirby was the original artist on
 Marvel's _The Mighty Thor_, and his unique style was most certainly not
 traditionally Norse.)
 	Odin himself is described as a tall, pale Lee Van Cleef.
-	Panel 1:  Norse mythology in a bottlecap:  Odin is king of the gods, or
+	Panel 1:  Norse mythology in a bottle cap:  Odin is king of the gods, or
 Aesir.  They all dwell in Asgard (city of Aesir, gard is a fence around
 something, and the word came to mean the thing enclosed by
 the fence, a city. (Gar\360ur is a modern Icelandic word meaning garden, a
@@ -103,10 +103,10 @@ and Order respectively.  Generally, Order = Good and Chaos = Bad, though each
 writer writes Order and Chaos in different and incompatible ways.  (The major
 portion of the mythology of Order and Chaos was established by Martin Pasko in
 Dr. Fate, then completely abrogated by JM deMatteis.  Barbara Kesel, Keith
-Giffen, Paul Kupperburg, William Messner-Loebs, and Grant Morrison have also c
-ontributed in comics.  
+Giffen, Paul Kupperburg, William Messner-Loebs, and Grant Morrison have also
+contributed in comics.
 DC's Lords of Order and Chaos go back to More Fun Comics#55 (first
-appearance of Doctor Fate). 
+appearance of Doctor Fate).
 The script suggests blurred photocopies of fractal images for panels
 representing Chaos, which I don't think Kelley used.  We may note, however,
 that Chaos appears to be Order as seen through a funhouse mirror.
@@ -142,16 +142,16 @@ the guardian of the 14th gate, through which the goddess Ishtar passed on her
 journey to the underworld in Babylonian mythology.  I am told that Neil did not
 know of the sources listing Duma as one of the fallen when he was writing this
 story!
-	
+
 Page 16 panel 1:  This is Azazel, who once believed himself to be one of the
 three rules of Hell.  We saw him earlier in _Sandman_ #4.
 	Panel 4:  Daemon is just another word for demon.  Gaiman suggests Joel
 Peter Witkin for the feel of the congregation of nasties.
 
-Page 17 panel 2:  Merkin, mother of spiders: Merkin \Mer"kin\, n. Originally, a wig; 
-afterwards, a mop for cleaning cannon. 
-According to several of my friends, independently, (although I've never found a 
-dictionary that backs this up) a "merkin" is a specific type of wig applied to 
+Page 17 panel 2:  Merkin, mother of spiders: Merkin \Mer"kin\, n. Originally, a wig;
+afterwards, a mop for cleaning cannon.
+According to several of my friends, independently, (although I've never found a
+dictionary that backs this up) a "merkin" is a specific type of wig applied to
 a part of the female anatomy that's usually not visible...
 Gaiman recommends Witkin's "Amour" as a source.
 	Panel 3:  We saw Choronzon once before, in _Sandman_ #4.  He held

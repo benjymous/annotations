@@ -53,15 +53,15 @@ lovers.  Their relationship was uncertain to the other residents of the house.
 the central panel, but is virtually obscured by a lace overlay on the art.
 
 The caption reads:
-Mommy and Daddy told me to go away so here I am in the old bone orchard                               
-nobody understands me nobody cares nobody else userstands it the beauty                               
-of the lost necropolis is the Charnel charm,                                                          
-                                                                                                      
+Mommy and Daddy told me to go away so here I am in the old bone orchard
+nobody understands me nobody cares nobody else userstands it the beauty
+of the lost necropolis is the Charnel charm,
+
 The second caption:
-                                                                                                      
-oh but chantal comes along and shows me she's my soul sister me and her                               
-true gothic heroines secret brides of the faceless slaves of the                                      
-forbidden house of the nameless night of the castle of dread desire                                   
+
+oh but chantal comes along and shows me she's my soul sister me and her
+true gothic heroines secret brides of the faceless slaves of the
+forbidden house of the nameless night of the castle of dread desire
 
         Chantal panel 1:  Chantal's self-image is flat, all solid colors and
 lines, a sophisticated-looking lady.  The style resembles artist Patrick Nagel.
@@ -127,12 +127,12 @@ private off-screen lives, reflects the dichotomy of their gay fans' lives.
 	Panel 5:  Judy Garland as Dorothy in the movie _The Wizard of Oz_.
 	Panel 6:  Judy pulls off her face to reveal the face of the Wicked
 Witch of the West from the same movie.  Margaret Hamilton played the Witch, and
-later went on to do many coffee commericials for Maxwell House brand.
+later went on to do many coffee commercials for Maxwell House brand.
 	Panel 7:  The final face revealed is actually the Wizard of the movie,
 though it's hard to see.  Frank Morgan was the actor who played the Wizard.
 	The simple symbology in this sequence is that Hal wears a mask, either
 when he's being a transvestite, or when he's not, and he wants to stop.
-	
+
 Page 9-10 panel 6:  A double page spread.  The "Big-Bad-Wolf-Man" is Fun Land,
 a serial killer who tried to kill Rose.  "The pale stranger" is Dream.
 	Panel 12:  Brevard County is a county in Florida, where Rose is
@@ -217,7 +217,7 @@ engenders rules, that rules _are_ because They _are_.
 
 Contributors include:
     Originally written by Greg Morrow
-	Michael Kelly (mkelly@wimpy.helios.nd.edu) spotted the resemblence
+	Michael Kelly (mkelly@wimpy.helios.nd.edu) spotted the resemblance
 between "Godzilla" and "Zelda."
 	James Drew (jrd@frame.com) gave insight into Hal's dream.
 	Tom Galloway (tyg@caen.engin.umich.edu) and Joel Tscherne
@@ -243,6 +243,6 @@ From: carlf@panix.com (Carl Fink)
    Re:  issue 15, in the discussion of Chantal's dream, when she discovers that
 she can't read the sentence, it's worth noting that no one can read anything in
 a dream.  That portion of the brain doesn't appear to function during REM sleep.
-	Compu$erve's Ben Sano 72401,2736 identified Chantal's recursive story,
+	Compuserve's Ben Sano 72401,2736 identified Chantal's recursive story,
 as relayed by Dave "Ed, the Anti-Dave" Stobbe <dave.stobbe@canrem.com>.
    Ralf Hildebrandt added more details

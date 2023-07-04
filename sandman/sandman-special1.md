@@ -68,7 +68,7 @@ for death like English's "come to an end"; Mania means "madness", and Olethros
 and Potmos, "Destiny, Fate"; Homerically, Potmos was always evil and usually
 meant death.
 	Panel 4:  It is perhaps jarring to see Delirium, and not Delight.
-Evidently the transformation occured prior to Greece's Heroic Age.  The only
+Evidently the transformation occurred prior to Greece's Heroic Age.  The only
 evidence we have to the contrary is Destiny's portrait of Delight as a young
 girl wearing relatively modern clothes; that, perhaps, might be an
 automatically updating portrait.  Delirium has said the "Delight was a long
@@ -87,7 +87,7 @@ ceremony sound perhaps too much like modern Christian ceremony; no refs for
 actual Greek ceremonies.
        panel 4:  The statue's head, with that circle and the
 cross-like shapes, is reminiscent of byzantine representations of
-angels, with the halo surrounding the head. 
+angels, with the halo surrounding the head.
 
 Page 7 panel 4:  Satyrs, along with centaurs, went mad when they got drunk.
 
@@ -105,7 +105,7 @@ Goddess are two who may be Apollo and Artemis.  There are a number of other,
 more generic figures; the fat figure on the round roof may be from any number
 of pantheons, for example.
 The middle one looks like the statuette of the Goddess with the
-Snakes, only this is a weight lifter parody... 
+Snakes, only this is a weight lifter parody...
 	Panel 3:  North American sources seem to be united in the definition of
 "hippogriff" as a creature with the head, front legs, and wings of an eagle,
 and the rear of a horse; Gaiman has a reference which supports _his_ contention
@@ -125,7 +125,7 @@ waters bring oblivion, or forgetfulness.
 
 Page 19 panel 6:  I think Destruction is picking an anemone. Anemones
 grew from Aphrodite's (Venus) tears when Adonis died, and so they're
-of the flowers associated with Hades. 
+of the flowers associated with Hades.
 
 Page 20 panel 2:  There should probably be knuckle-cracking-type sound effects
 in this panel.
@@ -150,7 +150,7 @@ proved (at least in the original) that he had visited the underworld by
 bringing back the great dog Cerberus...and then he took him _back_.  To be
 true to the Greek originals, Cerberus should have been rendered "Kerberos".
         panel 4:  What Death says has nothing to do with the actual
-myth (but it's splendid!) as far as I know. 
+myth (but it's splendid!) as far as I know.
 
 Page 24 panel 4:  Tainaro ("Taenarum"! Good heavens!) is indeed the
 southern point of Europe, islands excluded
@@ -159,10 +159,10 @@ Page 25 panel 2:  Thessaly:  This is an antecedent for a character who appears
 in an upcoming storyline. But Thessaly (Thessalia) is also a region of
 Greece. In general, panel 2 has a correct geographical description of
 mainland Greece from north to south, and Orpheus actually lived in
-Thrace. 
+Thrace.
 Delphi:  There was an oracle at Delphi devoted to Apollo; the Pythia
 ran the place.  The gift will become apparent shortly.  The "darkness"
-in Corinth is unknown. 
+in Corinth is unknown.
 
 Page 28 panel 1:  Charon was the boatman who transported the souls of the dead
 across the River Styx, the fare for which was a penny.  The banks of the Styx
@@ -187,7 +187,7 @@ originals accurately in this particular instance.
         Panel 1:  In fact Hades had abducted Persephone, and in
 	variations of the myth she somehow manages to return on earth
 	during spring and summer; thus, "tales of rape" might be an
-	innuendo. 
+	innuendo.
 Panel 2:  Ixion:  Murdered his wife's father, was pardoned by Zeus and
 admitted to Olympus, where he tried to seduce Hera and was tricked into
 seducing a cloud, by which was born the race of centaurs.  He was bound onto a
@@ -231,7 +231,7 @@ Bacchae (also known as Maenads) used hallucinogenic toadstools.
 Page 43: The ancient Greeks believed that songs made up entirely or mostly of
 vowels had a remarkable power.
         panel 2:  "Euoi! Euan!" was a cheerful shout while drinking, a
-toast. 
+toast.
 
 Page 45 panel 7: Note the eating of the heart.  The Greeks believed that the
 liver was the seat of emotion, not the heart; thus the punishments of
@@ -239,7 +239,7 @@ Prometheus and Tityus.
 
 Page 46:  Traditionally, Orpheus died after being torn apart by the Bacchante.
 His head floated down the river Hebrus to the island Lesbos. His lyre
-was made (by Apollo) the constellation of Lyra. 
+was made (by Apollo) the constellation of Lyra.
 
 Page 47 panel 2-3:  Parallelism with the snake that slew Eurydice?
 

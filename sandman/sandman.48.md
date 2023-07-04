@@ -1,5 +1,5 @@
                          The Annotated Sandman
-          
+
                       Issue 48: Brief Lives Eight
               Neil Gaiman, Jill Thompson, and Vince Locke
 
@@ -7,25 +7,25 @@ Notes:  See #41.  It's hard to break this one down into sections, but I
 think it goes: 1: 1-6; 2: 7; 3: 8-10; 4: 11; 5: 12-13; 6: 14-15; 7: 16; 8:
 17-24.  Trouble spots are the break between 3: and 4: and 7: and 8: and a
 number of breaks seem to fall in the middle of pages, which is inconsistent
-with what we've seen before.  
+with what we've seen before.
 
 1: Journey's End
 
 Page 1 panel 1:  Some recipes from Destruction's table are presented in the
 Appendix.
-	Panel 2-3:  Note that the color separators got Dream's cloakpin 
+	Panel 2-3:  Note that the color separators got Dream's cloak pin
 correct, but screwed up Del's eyes again.
 
 Page 2 panel 1:  Destruction is referring to a cliche of detective fiction,
 when the detective has gathered all the subjects together to explain the
-crime and expose the criminal.  In particular, this is a reference to 
-Dashiell Hammett's _The Thin Man_ and its high-society detectives Nick 
-and Nora Charles (played by William Powell and Myrna Loy in an excellent 
+crime and expose the criminal.  In particular, this is a reference to
+Dashiell Hammett's _The Thin Man_ and its high-society detectives Nick
+and Nora Charles (played by William Powell and Myrna Loy in an excellent
 movie series).
 	Panel 3:  Retsina:  A weak Greek white wine, occasionally fortified
 with ouzo.
 
-Page 4-5:  Del is retelling the story; her physical changes reflect her state 
+Page 4-5:  Del is retelling the story; her physical changes reflect her state
 at each point in the story.
 
 Page 5 panel 2:  Something:  Delirium doesn't remember why Dream wanted to
@@ -38,7 +38,7 @@ replacement.  See Lance Smith's Sandman FAQ.
 2: Brains, a Heart, a Ride in a Balloon
 
 Page 7 panel 2:  A reference to _The [Wonderful] Wizard of Oz_, by L. Frank
-Baum.  The Scarecrow was seeking a brain, the Tin Man a heart.  A balloon 
+Baum.  The Scarecrow was seeking a brain, the Tin Man a heart.  A balloon
 ride figures prominently in Dorothy's quest to return home.  (The book is
 thought by some to be allegory or satire of American politics.)
 
@@ -57,23 +57,23 @@ American Encyclopedia_ by Grolier Electronic Publishing, Inc. copyright 1993:
    prehistoric art--PALEOLITHIC ART--Types of Art
 
    [...]
-   The first report of cave art was in 1879, when the painted     
+   The first report of cave art was in 1879, when the painted
    ceiling at Altamira was discovered. The claim that this
-   represented Stone Age art, however, aroused general disbelief. 
+   represented Stone Age art, however, aroused general disbelief.
    Although cave paintings had been noticed before, it seemed
    impossible that art of such sophistication and excellence
    should have been the work of primitive people. After the
    Altamira finds had been dismissed as forgeries, new finds were
-   made, some of them in caves that had been sealed since the  
+   made, some of them in caves that had been sealed since the
    Stone Age. These subsequent discoveries, like that at La Mouthe
-   in the Dordogne region of France, slowly overcame opposition. 
+   in the Dordogne region of France, slowly overcame opposition.
    Finally, at the beginning of this century, Paleolithic art was
    recognized as authentic. To date, about 230 caves containing
    cave art are known; the great majority are in France and Spain,
    although a number have also been found in Italy, Portugal, and
    the USSR. Anatolian sites are still under investigation. One of
    the reasons for the concentration of cave art in western Europe
-   may be the presence there of many limestone cliffs containing  
+   may be the presence there of many limestone cliffs containing
    caves and rockshelters.
 
 	Panel 4:  A word balloon fell off the art.  Dream says something
@@ -86,7 +86,7 @@ Page 10 panel 1:  Greek coffee is very thick and strong.
 Page 11 panel 3:  Del drank the sludge.
 	Panel 4:  Del's lucidity occurred in #47 in a section called "The
 Other Side of the Coin".  Desire swears by the "Other Side of the Sky" in
-#41, and "The Other Side of the Sky" was a section in #44.  
+#41, and "The Other Side of the Sky" was a section in #44.
 	Panel 5:  Destruction's denial of *anyone's* responsibility can be
 argued, of course.
 
@@ -116,7 +116,7 @@ Page 16 panel 1:  This recalls Dream's lecture to Desire at the end of _The
 Doll's House_ (16:22-23).
 	Panel 2:  This doesn't make a lot of sense, since we know Death
 does not predate *this* universe.
-	Panel 5:  IMHO, Hatred is not the opposite of Desire.  Indifference 
+	Panel 5:  IMHO, Hatred is not the opposite of Desire.  Indifference
 is the opposite of Desire.  Hatred is merely Desire of a different quality.
 
 8: Up. Out.
@@ -129,11 +129,11 @@ sigil.  (Compare to 18.2, where her sigil is seen.)
 a fish pate made from roe.  From the OED:
 
     taramosalata (,tr&schwa.m&schwa.s&schwa.'la:t&schwa.). Also
-    taramasa- lata. [a. mod.Gr., f.  ~(p(u  preserved roe (ad. Turk. 
+    taramasa- lata. [a. mod.Gr., f.  ~(p(u  preserved roe (ad. Turk.
     tarama soft roe, red caviare) + ~(\ ~( SALAD.] A Greek fish pate
     made (traditionally) from the roe of the grey mullet or from
-    smoked cod's roe, mixed with garlic, lemon juice, olive oil, etc. 
-    Also ellipt. as tarama. 
+    smoked cod's roe, mixed with garlic, lemon juice, olive oil, etc.
+    Also ellipt. as tarama.
 
     1910 Z. D. FERRIMAN Home Life in Hellas iv. 181 Red caviar..is
     pounded with garlic and lemon juice into what is called tarama
@@ -183,8 +183,8 @@ time passing with Dream's.
 the missing word balloon on page 9.
 	Kieran Mullan (kieran@cmatter.physics.indiana.edu) identified
 taramasalata.
-	"Brilliant!" Bill Sherman (sherman@oak.math.ucla.edu) spotted the 
-Barbie "up, out" similarity, speculated on Destruction's odd jobs, and IDed 
+	"Brilliant!" Bill Sherman (sherman@oak.math.ucla.edu) spotted the
+Barbie "up, out" similarity, speculated on Destruction's odd jobs, and IDed
 the cave site.
 	Andrew Sigel (sigel@vsscad.enet.dec.com) identified the R. Smith
 book.
@@ -197,8 +197,8 @@ noted some heretical Oz theories, and referenced the cave site.
 Appendix:  Some Remarks on Krypton
 
 Before the Crisis, Krypton was a place of marvels.  There were the Crimson
-Jungle and the Thoughtbeasts and the Fire Falls and the Jewel Mountains 
-formed from the skeletons of extinct birds and a thousand other fantastic 
+Jungle and the Thoughtbeasts and the Fire Falls and the Jewel Mountains
+formed from the skeletons of extinct birds and a thousand other fantastic
 details.  Its people were human; they struggled and fought and lived
 and loved and dreamt dreams petty and magnificent.  Superman's exile from
 his home was a genuine loss.
@@ -208,7 +208,7 @@ were soulless automatons; its destruction almost welcome.  Superman's exile
 became a rescue from a fate worse than death.
 
 The Krypton depicted on pp 14-15 is closer to pre-Crisis than post-Crisis.
-The jeweled waterfalls might be found in the Jewel Mountains. 
+The jeweled waterfalls might be found in the Jewel Mountains.
 Destruction's cape and headband are pre-Crisis Kryptonian fashion, although
 his other garments are more like those seen post-Crisis.  Death's outfit,
 however, is not obviously Kryptonian; even her headband is inaccurate,
@@ -218,30 +218,30 @@ Appendix: Some Recipes from Destruction's Table, by Michael Chary
 
 Stuffed grape leaves (Dolmades, dolmadaia, or sarma)
 
-1# grape leaves  (Check in either your grocer's import section or a deli.  
+1# grape leaves  (Check in either your grocer's import section or a deli.
                  I found some in Bowling Green, KY  which is not the most
                  cosmopolitan place on earth.  Don't pick your own.  They
                  have to be pickled, for one thing.)
-1 1/2 ground lamb (For preference.  Beef may be used, or poultry, although 
-                  the cooking time would have have to be adjusted.  Rice may 
-                  also be substituted, and in fact is generally used in the 
+1 1/2 ground lamb (For preference.  Beef may be used, or poultry, although
+                  the cooking time would have have to be adjusted.  Rice may
+                  also be substituted, and in fact is generally used in the
                   cold versions.)
 1 cup raw rice (This is important.  The rice *MUST BE RAW*.  Riceland
-               rice is probably the best raw rice.  THis going to stew for 
-               a while and instant rice wil turn into wallpaper paste.  The 
+               rice is probably the best raw rice.  THis going to stew for
+               a while and instant rice wil turn into wallpaper paste.  The
                rice will probably take longer to cook than the meat.)
-1 small onion minced (Chopped up fine, not pulverized.  Also, small does not 
+1 small onion minced (Chopped up fine, not pulverized.  Also, small does not
                      mean tiny, it just means don't use a ton of onion.  Easy
-                     on the onion or it will overpower everything else in the 
+                     on the onion or it will overpower everything else in the
                      dish.)
 2 tsp oregano
 1/2 tsp cinnamon
-1 tsp salt 
+1 tsp salt
 1/2 tsp black pepper
 1/2 cup water
 4 tsp olive oil (extra virgin is what I use)
-4 cups chicken stock (you can use boullion if you want, about 6 cups to
-                     4 cups water should do her.) 
+4 cups chicken stock (you can use bouillon if you want, about 6 cups to
+                     4 cups water should do her.)
 2 tblspns butter (it has to be butter)
 4 eggs
 6 tablespoons lemon juice.
@@ -257,7 +257,7 @@ Form meat in oblong mound and roll in leaves.  Roll them like burritos
 You should be able to make about 50 leaves.
 
 Put the rest of the olive oil in a large sauce pan.  Put the leaves in.
-Pour 2 1/2 cups of boullion over the leaves, cover sarma directly with a 
+Pour 2 1/2 cups of boullion over the leaves, cover sarma directly with a
 plate, heat over low flame for 45 min to an hour.
 
 Lemon Sauce: beat eggs and lemon juice, add 1/2 cup hot stock, beat some
@@ -268,16 +268,16 @@ Don't try to reheat the sauce.
 
 Meatballs (Kuftete)
 
-1# groud lamb
+1# ground lamb
 3 beaten eggs
-1 clove garlic minced (pulverized) 
+1 clove garlic minced (pulverized)
 3 cups crushed bread crumbs
-1/4 cup mint 
-1/2 tsp cinnamon 
+1/4 cup mint
+1/2 tsp cinnamon
 2 teaspoons flour
 dash of salt
 
-Combine everthing, cover for an hour and a half, make into 1 inch balls, 
+Combine everything, cover for an hour and a half, make into 1 inch balls,
 fry in a skillet with oil.
 
 -------------------------------------

@@ -34,8 +34,8 @@ noose is not tight, but then he could not be hanging from the rope (as he
 clearly is on the previous page and in panel 1) with the rope as in panel 5.
 The shadows in panel 5 might show the rope attached to a fairly large hook
 on the back of Crane's straightjacket.
-He might have the rope going down his shirt and tied around his waist. 
-They did this in the movie "Heathers."                                                                                    
+He might have the rope going down his shirt and tied around his waist.
+They did this in the movie "Heathers."
 	Panel 7:  The materioptikon was described in an earlier annotation.
 	Panel 9:  The Joker, a Batman villain, is Arkham's most famous inmate.
 
@@ -58,7 +58,7 @@ the Justice League.
 	Panel 2:  The Justice League used to have their headquarters in a
 satellite (which was in geosynchronous orbit except that none of the writers
 except Gardner Fox who originally described it knew what a geosync orbit was).
-Most if not all of the encounters with Dr. Destiny occured before the
+Most if not all of the encounters with Dr. Destiny occurred before the
 destruction of this satellite in _Crisis on Infinite Earths_.
 	Panel 4:  One of the other JL HQs was in Detroit, the other outside a
 town in Rhode Island called Happy Harbor, which was called the "Secret
@@ -108,34 +108,34 @@ perfect sense.
 
 <Kull29@aol.com> says:
 
-Actually, Gotham was not where the first Batman stories were set. In 
-Detective Comics#31, a caption reads "Through the dark of a New York night". 
-(This shows the influence of the Shadow stories by Walter Gibsonon the 
-Batman; the Shadow stories were set in New York.) By 1941 at least 
-(Batman#4), though, the words "Gotham City" were in use. (Actually, 
-Overstreet list Wow Comics#1, from Fawcett, as the first comic book mention 
+Actually, Gotham was not where the first Batman stories were set. In
+Detective Comics#31, a caption reads "Through the dark of a New York night".
+(This shows the influence of the Shadow stories by Walter Gibson on the
+Batman; the Shadow stories were set in New York.) By 1941 at least
+(Batman#4), though, the words "Gotham City" were in use. (Actually,
+Overstreet list Wow Comics#1, from Fawcett, as the first comic book mention
 of the word "Gotham".)
-    Gotham, as noted, is in real life a nickname for New York. As a guess, 
-I'd say that the switch from New York to a fictional Gotham City was a case 
-of mistaken evolution. I think what might have happened was that Bill Finger, 
-who wrote the early Batman stories, was something of an intellectual by all 
-accounts. He probably used the word Gotham in his captions as a poetic 
-synonym for New York a couple of times. Less educated writers, referencing 
-Finger's work, probably picked up on these captions, but probably did not 
-know what the word Gotham meant. They thus only used the word Gotham as the 
-name of the setting of the Batman stories. Finally, all association with New 
+    Gotham, as noted, is in real life a nickname for New York. As a guess,
+I'd say that the switch from New York to a fictional Gotham City was a case
+of mistaken evolution. I think what might have happened was that Bill Finger,
+who wrote the early Batman stories, was something of an intellectual by all
+accounts. He probably used the word Gotham in his captions as a poetic
+synonym for New York a couple of times. Less educated writers, referencing
+Finger's work, probably picked up on these captions, but probably did not
+know what the word Gotham meant. They thus only used the word Gotham as the
+name of the setting of the Batman stories. Finally, all association with New
 York had been forgotten.
-    (A similar story may account for how Superman, whose first stories were 
-set in Cleveland (!), ended up living in Metropolis. [Metropolis is a synonym 
-for city, but later writers probably did not know that. Actually, these 
-changes of artists and writers probably account for many Golden Age comic 
-book continuity mistakes.  As an example, Lex Luthor was originally not bald; 
-he had red hair. It wasn't until about Superman#10 that he was depicted as 
-bald. What happended was that in Superman#4, there was a story where Luthor 
-is seen talking to a bald henchman. It is now certain that an artist, looking 
-for a reference to draw from, was confused and thought that the henchman was 
-supposed to be Luthor, and so drew his version of Luthor that way! 
-  
+    A similar story may account for how Superman, whose first stories were
+set in Cleveland (!), ended up living in Metropolis. [Metropolis is a synonym
+for city, but later writers probably did not know that.] Actually, these
+changes of artists and writers probably account for many Golden Age comic
+book continuity mistakes.  As an example, Lex Luthor was originally not bald;
+he had red hair. It wasn't until about Superman#10 that he was depicted as
+bald. What happened was that in Superman#4, there was a story where Luthor
+is seen talking to a bald henchman. It is now certain that an artist, looking
+for a reference to draw from, was confused and thought that the henchman was
+supposed to be Luthor, and so drew his version of Luthor that way!
+
 	Panel 4:  The City of Focative Mirrors is evidently a throwaway Martian
 cultural reference.  From context, it might be assumed to be roughly equivalent
 to Heaven (or Gaiman's "Silver City," from later issues).  Morpheus' offer is

@@ -59,19 +59,19 @@ author Gilbert Keith (G.K.) Chesterton, who was popular in the early third of
 this century.  He wrote a few novels, including the Father Brown mysteries,
 more short stories, and even more newspaper articles.  We would call him a
 columnist today.  He was a convert to Catholicism and quite a fiery figure of
-his time.  He considered that many of the essential truthes are embodied in
+his time.  He considered that many of the essential truths are embodied in
 paradox, and was famous for writing apparent absurdities in his stories that
 often turned out to be perfectly reasonable.  He was a talented writer, in
 whose works characters are often secondary to the ideas they espouse.  The line
 about the six-foot pencil is from one of Chesterton's essays about lying in
 bed.
 This panel is doubtlessly an allusion to opening verse from E.A. Poe's
-poem "The Raven". 
+poem "The Raven".
 
 Page 7 panel 3:  Here we see Hal in his Dolly persona.
-        Hal/dolly's crossdressing is somewhat paralleled by the "hooked
-'actresses'" in <A HREF="sandman.13.html">Men of good fortune</A> (page
-11), and both of these sexual confusions are paralleled by Desire's 
+        Hal/dolly's cross dressing is somewhat paralleled by the "hooked
+'actresses'" in #13 Men of good fortune (page
+11), and both of these sexual confusions are paralleled by Desire's
 androgyny (who, as you will remember, is behind the whole vortex story arc.)
 this allusion within allusion resembles Arabian Nights, which I believe was
 the subject of at least one issue later in the series.

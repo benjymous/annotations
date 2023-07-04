@@ -7,7 +7,7 @@
        Seventh story reprinted in trade paperback _The Doll's House_
 
 Page 1:  We are back to the real storyline after last issue's side trip, in
-Dodge County, Georgia. The motel where the conference is held has a sign 
+Dodge County, Georgia. The motel where the conference is held has a sign
 outside which says: "Cereal convention", the pun being obvious.
 
 bignickl@swbell.net notes: One of the 'cereal' guests at the convention is
@@ -27,7 +27,7 @@ includes some slangy reference to death:  "Journey was a real killer."
 Nancy Sinatra.
 
 Page 3 panel 1:  More about the Family Man on page 9.
-	Panel 3:  The "I am John's coathanger" routine probably referes to a
+	Panel 3:  The "I am John's coathanger" routine probably refers to a
 series of articles Reader's Digest once did, in the 50's, with titles like
 "I Am John's Kidneys", "I Am John's Liver" and so on.  They were narrated from
 the point of view of the parts of a human body, and gave an informal
@@ -46,8 +46,8 @@ paradoxes.
        Panel 4:  Confirmation that Barnaby and Clarice were killed in
 _Sandman_ #12.
 
-Page 7 panel 1:  Gilbert's claim about Perrault is in fact innacurate, in a 
-most strange way. 
+Page 7 panel 1:  Gilbert's claim about Perrault is in fact inaccurate, in a
+most strange way.
 As near as I can figure, Gaiman had done his research, but confused things a
 little. The original oral tale, one with variations to be found as far away
 as China, most probably ended with strong sexual connotations, but with the
@@ -62,7 +62,7 @@ tales *were* prettified by writers.
 
 Funland does and says some of the same stuff as the story when he attacks
 her on page 29 (calling her a slut, telling her she won't need her dress any
-more, etc.) 
+more, etc.)
 
 Page 8 panel 6:  How could get it worse?  Cannibalism, pedophilia, being eaten
 by wild animals?  No, I don't want to know.
@@ -86,12 +86,12 @@ page 12 panel 1:  "Definitely not women":  Most serial killers are white males,
 most of whom kill women, because of sexual hangups.  The inference is that
 Nimrod "collects" women.
 	Panel 2:  And evidently he keeps their bodies.  Yuck.
-	
+
 Page 14 panel 2:  The list reads:  Don't Look Now, The Collector,
 Manhunter, From the Life of the Marionettes, In Cold Blood, Compulsion,
 Straight on till Morning, ? on Scream[ing?], Night of the (?).  _Don't Look
 Now_ -- made in 1973, is related to a short story by Daphne du Maurier,
-which has a grisly end -- a good and scary. Here's the 
+which has a grisly end -- a good and scary. Here's the
 [factsheet from E! Online](http://www.eonline.com/Facts/Movies/0,60,4977,00.html)
 and the [IMDb](http://uk.imdb.com/Title?0069995).
 _Manhunter_ is  a movie based on the Thomas Harris novel _Red Dragon_,
@@ -135,7 +135,7 @@ It has often appeared in comics, notably in one of _Swamp Thing_ ##25-27, when
 Etrigan appeared.
 	Panel 8:  This is the Corinthian's car, and there's something in the
 trunk.
-	
+
 Page 21 panel 1:  Fun Land's remark:  many serial killers have unusual or
 parasitic relationships with single mothers.  Neil Gaiman says the song is
 Timbuk 3's "Standard White Jesus" from the _Edge of Allegiance_ album.
@@ -208,7 +208,7 @@ young man with Fun Land is talking, and the missing balloons read:
 Page 29 panel 1:  Fun Land decided to go hunting after all.
 	Panel 2:  "It's a Small World" is a very annoying song played over and
 over again at Disneyland and Disney World.
-	
+
 Page 31 panel 4:  Funland's dream has points in common with Oscar Wilde's story
 "The Selfish Giant".
 

@@ -32,18 +32,18 @@ novels.
 	Panel 4:  Johnny Carson is a late-night talk show host.
         Panel 6-7:  Judy is a lesbian and Donna is her lover; they've had a
 fight.  Joy Division is a techno-punk/New Wave/gothic band from the late 70's-
-early 80's.  
+early 80's.
 The term "Joy Division" is taken from the slang, referring to the
 prostitution sections of Nazi/Axis concentration camps. The lead
-singer of Joy Division -- Ian Curtis --  committed suicide. 
+singer of Joy Division -- Ian Curtis --  committed suicide.
 The rest of the band formed New Order, which further engendered
-Electronic, Revenge, and The Other Two! [sic]. 
+Electronic, Revenge, and The Other Two! [sic].
 
-eddietomb@yahoo.com comments: 
+eddietomb@yahoo.com comments:
 Joy Division had a song on their second album "Closer" called "Twenty
 Four Hours". It is likely that the band's name appearing on Judy's
 jacket was added as an in-joke of sorts, to compliment the title, and
-not vice versa. 
+not vice versa.
 
 The symbol is actually two traditional female symbols interlocked.  The
 male symbol is a circle with an arrow pointing about 30 degrees clockwise of
@@ -132,7 +132,7 @@ neither ironic nor unnatural.
 
 Page 14:  This is Kate speaking.  Sex with dead people is called necrophilia.
 It is not clear to me whether a male corpse could have an erection that could
-achieve penetration, or if in fact penetration even occured.  In panel 8, it is
+achieve penetration, or if in fact penetration even occurred.  In panel 8, it is
 to be assumed that Kate tasted or drank the corpse's blood.
 
 Page 15:  The theme music is indeed correct for the 60s television show "The
@@ -159,11 +159,10 @@ Dee just came from.  Bette is in the role of Atropos, who cuts the thread of
 each person's life as it ends, in Greek mythology.
 
 While the clock image has appeared previously, I direct you to Sandman
-Issue <A HREF="sandman.10.html">#10</A> "the Doll's House", page 19 panel
-1. The ceiling is a giant watch/clock, implying a connection between time
-and the Hecatae.  Since the three women in issue <A HREF="sandman.06.html">#6</A>, 
-paeg 16 are playing the role of the Hecatae, they are giving a watch/clock
-as well. 
+Issue #10 "the Doll's House", page 19 panel 1. The ceiling is a giant watch
+/clock, implying a connection between time and the Hecatae.  Since the three
+women in issue #6, page 16 are playing the role of the Hecatae, they are giving
+a watch/clock as well.
 
 Page 17 panel 5,7:  No one dies here.  We clearly see all six people in the
 diner alive on page 19.
@@ -192,7 +191,7 @@ Treacle_.
 
 Page 22:  The sign in the upper left reads "Please and Thank You are the magic
 words."
-Page 22 panel 1:  In the lower left corner there is an old clock. Exactly the 
+Page 22 panel 1:  In the lower left corner there is an old clock. Exactly the
 same clock can be found in <A HREF="sandman.04.html" >issue 4</A>
 ("A Hope In Hell") on page 11, panel 3, also in the lower left corner.
 

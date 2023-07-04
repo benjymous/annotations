@@ -90,7 +90,7 @@ Corinthian, from _The Doll's House_. Note the penny:  There is a giant penny
 in Batman's Batcave,  a souvenir of one of his early cases, although it is
 unlikely that Dream would have a copy.
 <jurph@gondor.org> says:
-The city in a bottle is indeed Baghdad ("Ramadan") and the pocketwatch 
+The city in a bottle is indeed Baghdad ("Ramadan") and the pocket watch
 belongs to Prez ("The Golden Boy", world's end #5), as seen on page 24,
 panel 2.  Its history is given in the preceding few pages.
 There is also a tankard shown.  Perhaps this is the tankard Dream first
@@ -115,4 +115,4 @@ Seneferu.
 Niddhogg, and corrected one of my page numbers.
 	Jim W Lai <jwtlai@jeeves.waterloo.edu> spotted a previous appearance of
 Faceless, Thor's headache, and the Corinthian's skull.
-	<jurph@gondor.org> noticed the bottled city and pocketwatch
+	<jurph@gondor.org> noticed the bottled city and pocket watch

@@ -10,7 +10,7 @@
 Note:  The script for this issue, complete with Neil's and Kelley's notes, is
 printed in the back of _Dream Country_.
 
-Page 1 panel 1:  This is the main character, Richard Madoc, who will appear again 
+Page 1 panel 1:  This is the main character, Richard Madoc, who will appear again
 briefly in The Wake, issue #70, page 15, panels 6 & 7, and issue #72, page 25,
 panels 3 & 4.  R.A.C.'s contact with Gaiman says that he's tried to write
 another story with Madoc, only to have the muse desert him.
@@ -29,7 +29,7 @@ tribble covered in slime" and notes that a photo he had seen quite resembled
 what Jones had drawn.  Jones notes later that he found a description in
 "Paracelsus Book".  Paracelsus was a sixteenth century Swiss physician.
 
-Page 2 panel 1:  This is a nod to the 1919 German film 
+Page 2 panel 1:  This is a nod to the 1919 German film
 [The Cabinet of Dr. Caligari](http://uk.imdb.com/M/title-substring?title=The+Cabinet+of+Dr.+Caligari&tv=off),
 one of the most famous silent films ever made, a masterpiece of the
 expressionistic style.
@@ -70,7 +70,7 @@ no help in them."  It may also appear in the Book of Psalms.
 Page 8 panel 2:  The original draft of the script had "bare wooden floor" for
 "musty old camp-bed", which Gaiman changed after seeing the artwork.
     Panel 3:  Jones' reference work for Madoc's workspace was a photo of
-Gaiman's own!  Gaiman says it was reproduced "embarassingly accurately", except
+Gaiman's own!  Gaiman says it was reproduced "embarrassingly accurately", except
 for lacking the statue of Groucho Marx.
 
 Page 9 panel 1:  "Camenae" are the Roman equivalent to the Muses.  Calliope is
@@ -129,7 +129,7 @@ _The Books of Magic_ #4 From page 33:
      skull, and saw by the light of a candle made from her fat.
      There.  Are you satisfied, fool?  Let us leave this place,
      Timothy Hunter.
-        
+
     It may be that the "true" answer to this riddle is "wine".  The teller
 sits with a bottle of wine and drinks from it; a candle is stuck in a
 wine bottle and lit.  This is why the Fool doesn't have a pint of wine, he
@@ -158,7 +158,7 @@ cruelly ironic.  The woman he's talking to is described in the script as having
 "long black hair".  Her final question is one authors, reputedly, get all the
 time, and really, really hate.
     Panel 3:  TLS:  Times Literary Supplement, a literati must-read.  It is
-a weekly supplement to the great metropoliton newspaper, the Times of London.
+a weekly supplement to the great metropolitan newspaper, the Times of London.
 
     The collection title is, in Gaiman's words, "an oblique James Branch
 Cabell reference...a chapter he never got around to writing in _Figures of
@@ -248,7 +248,7 @@ natural philosopher.  Both Lulli & Paracelsus are treated in Frances Yates'
 book _The Art of Memory_ ; they both had systems.
 
     There was a great chemist(?) named Celsus. Paracelsus/von Hohenheim created
-his alias to show that he was even greater than Celsus ("para - Celsus"). 
+his alias to show that he was even greater than Celsus ("para - Celsus").
 [More info to be included on Celsus at a later date.]
 
 Page 22 panel 4:  Note the book blurb.

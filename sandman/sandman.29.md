@@ -13,7 +13,7 @@ Century_.
 Revolution_ and John Paxton's _Companion to the French Revolution_ were two of
 Gaiman's major influences for this story.  Additional help was derived from
 _The Encyclopedia Britannica_, Ninth Ed., 1890 (!).
-	
+
 Page 1 panel 1:  Though this does not resemble the house of _Sandman_ #1, this
 is `Fawney Rig', the future dwelling of Roderick Burgess.  Neil declaims:
 "It is the same house: more wings and bits were added in 1810 (by Lady Johanna)
@@ -76,7 +76,7 @@ And a description from Dickens:
 	 the spin, and all spun round another way.  Suddenly they stopped
 	 again, paused, struck out the time afresh, formed into lines the
 	 width of the public way, and, with their heads low down and
-	 their hands high up, swooped screaming off.  No fight could ahve
+	 their hands high up, swooped screaming off.  No fight could have
 	 been half so terrible as this dance. ... This was the Carmagnole."
 
 					--Dickens, _A Tale of Two Cities_
@@ -136,7 +136,7 @@ sensitive incidents; there are several examples to come.  It may be most
 familiar to American audiences through the works of Edgar Allan Poe.
 	Panel 4:  Place de la Revolution:  Now la Place de la Concorde or
 possibly Place St Michel.  No ref on the dance of the beheaded bodies.
-	
+
 Page 13 panel 1:  True Constantines, of whom Lady Johanna is one, are the sole
 surviving member of a twin birth.  I have a painting ref for Robespierre which
 vaguely resembles this depiction.

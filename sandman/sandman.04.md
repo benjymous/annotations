@@ -13,12 +13,12 @@ morning!  How art thou cut down to the ground, which didst weaken the nations!"
 Dawn!" (Revised Standard).  The pocket edition of the OED includes in its
 definition of Lucifer, "The morning star; the planet Venus when it appears in
 the sky before sunrise.  Now only poetic."
-	Milton may have also used the appelation "Morningstar" for Lucifer,
+	Milton may have also used the appellation "Morningstar" for Lucifer,
 probably in _Paradise Lost_.  In addition, a character in Roger Zelazny's book
 _Jack of Shadows_ is called Morningstar, and occupies a role analogous to
 Lucifer.
-Am I the only one who thinks that in this issue Lucifer looks a little like 
-Mark Hamill (Luke Skywalker) in Star Wars?              
+Am I the only one who thinks that in this issue Lucifer looks a little like
+Mark Hamill (Luke Skywalker) in Star Wars?
 
         Page 4 panel 1-4:  This is not the same gatekeeper as seen elsewhere;
 first known appearance of Squatterbloat.  Squatterbloat speaks in triolets; the
@@ -85,7 +85,7 @@ The triumvirate has also appeared in the secret origin of "Stanley and His
 Monster" (by Phil Foglio, and very funny, of course, in the later issues of
 _Secret Origins_).
 
-Page 11 panel 3:  In the lower left corner there is an old clock on Lucifer's 
+Page 11 panel 3:  In the lower left corner there is an old clock on Lucifer's
 table. Exactly the same clock can be found in <A HREF="sandman.06.html" >issue 6</A>
 ("24 hours")on page 22, panel 1, also in the lower left corner.
 
@@ -94,15 +94,15 @@ that this may refer to the Christian god Jesus, who died, although he is by no
 means the only god to have done so.
 	Panel 6-7:  This is the demon from _Sandman_ #1, here identified for the
 first time as Choronzon, who appears in the writings of Aleister Crowley.
-He is credited in legend as having seriously injured Aleister Crowley during 
-a summoning which Crowley did "deep in the Sahara desert." According to the story,                                
-Crowley was less-than-attentive to the construction of the protective                                 
+He is credited in legend as having seriously injured Aleister Crowley during
+a summoning which Crowley did "deep in the Sahara desert." According to the
+story, Crowley was less-than-attentive to the construction of the protective
 circle, and suffered dire consequences.
 Added by <legion@cistron.nl> :
-However, it is fairly certain that Crowley took the name from the writings of the 15th
-century astrologist, alchemist and magician John Dee. Acording to his stories, he 
-was taught the angelic scripture (Enochian) by an angel. 
-In these scriptures Coronzon (also Coronzom, or Choronzon) was the name of a 
+However, it is fairly certain that Crowley took the name from the writings of
+the 15th century astrologist, alchemist and magician John Dee. According to his
+stories, he was taught the angelic scripture (Enochian) by an angel.
+In these scriptures Coronzon (also Coronzom, or Choronzon) was the name of a
 mighty demon (perhaps Lucifer) who rebelled against God.
 
 Page 15 panel 7:  The game of reality is not one I have seen before.
@@ -113,17 +113,17 @@ transform themselves rather than merely discussing it, is played in T.H.
 White's _The Sword in the Stone_.  The game of reality is quite similar
 thematically to the Riddle Game of old, which is exemplified in J.R.R.
 Tolkien's _The Hobbit_.
-Choronzon could have easily responded to "hope" such as Doubt, or Despair 
-- both killers of hope.  Maybe that's why Lucifer was so angry at him for 
-losing... 
+Choronzon could have easily responded to "hope" such as Doubt, or Despair
+- both killers of hope.  Maybe that's why Lucifer was so angry at him for
+losing...
 
 Page 18 panel 1:  I am aware of no predilection in snakes for spider-devouring.
-        panel 5: Masters of chess and go/wei chi (and other similar games), 
-are said to be able to fathom an opponent's way of thinking after only a few 
-moves. Apparently, this also applies to the Game of Reality. 
+        panel 5: Masters of chess and go/wei chi (and other similar games),
+are said to be able to fathom an opponent's way of thinking after only a few
+moves. Apparently, this also applies to the Game of Reality.
 
-Page 19 panel 8: "I am hope." Hope was supposed to be the only thing that 
-remained in Pandora's Box after she opened it. No wonder Choronzon couldn't 
+Page 19 panel 8: "I am hope." Hope was supposed to be the only thing that
+remained in Pandora's Box after she opened it. No wonder Choronzon couldn't
 think of anything to counter it.
 (The story goes, the Gods of Olympus wanted to punish mankind, and so
 created Pandora, the first woman, and gave her a gift of an exquisitely
@@ -131,7 +131,7 @@ decorated, sealed box. They didn't tell her what was in the box, however,
 and forbade her to open it.
 Eventually Pandora's curiosity got the better of her, and she opened the
 box. Something brushed against her face, and she heard a sound like
-thousands of hornets. Pandora had unleased Hate, Avarice, Jealousy, Lust
+thousands of hornets. Pandora had unleashed Hate, Avarice, Jealousy, Lust
 and all the other evils into the world. Only one Hope remained inside,
 and only Hope can counter-act the wickedness of Mankind today.)
 

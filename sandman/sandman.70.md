@@ -27,27 +27,27 @@ Page 4 panel 1: We've heard the true version of this rhyme in "The Parliament
 of Rooks": 40:7.3-4.  Delirium's messenger would seem to have been a magpie.
        panel 3: For more information on this necropolis, consult issue #55.
 
-Page 7 panel 6: Naturally, it is Desire who creates the *heart*... 
-       panel 7: ...But it is not known why Despair should create the eyes. 
-                Perhaps because she skewers her own eye in the Brief Lives 
+Page 7 panel 6: Naturally, it is Desire who creates the *heart*...
+       panel 7: ...But it is not known why Despair should create the eyes.
+                Perhaps because she skewers her own eye in the Brief Lives
                 arc? [Insert exact reference here]
        panel 8: Note that Destiny's book has a miniature version of this very
 panel.
 
 Page 8 panel 2: And of course, it is *Death* that gives the envoy *life*.
        panel 4: The name "Eblis" derives from Arabic myth.  Eblis was a
-spirit of fire, to be the head of angels (he is referred to in Sura 18 of 
+spirit of fire, to be the head of angels (he is referred to in Sura 18 of
 the Qu'ran).
-When Eblis refused to bow to Adam (because Adam was made of clay), God 
-cast him out of heaven. Eblis then vowed to seduce man to forsake God. 
-Thus he became Satan or the Devil. We can compare this to Lucifer Morningstar 
+When Eblis refused to bow to Adam (because Adam was made of clay), God
+cast him out of heaven. Eblis then vowed to seduce man to forsake God.
+Thus he became Satan or the Devil. We can compare this to Lucifer Morningstar
 in the Christian religion.
 
 	"O'Shaughnessy" derives from Arthur W. E. O'Shaughnessy, a mid-19th-
-century poet.  Most of his work is deservedly obscure, but one poem, entitled 
-"Ode", has achieved a modest fame.  Its theme is that art and dreams shape the 
-world, and that poets and musicians are the world's true kings. It has thus 
-been understandably popular with poets and musicians, and has been set to 
+century poet.  Most of his work is deservedly obscure, but one poem, entitled
+"Ode", has achieved a modest fame.  Its theme is that art and dreams shape the
+world, and that poets and musicians are the world's true kings. It has thus
+been understandably popular with poets and musicians, and has been set to
 music several times.
        panel 7: "Creature" in its literal meaning of "created thing".
 
@@ -63,7 +63,7 @@ reasons against):
 universe, (#20, page 20, panel 6, among others), and so cannot die. (But
 we have not been explicitly told she can't die.)
 
-- Despair: Despair was killed at one point. (But there is no reason why 
+- Despair: Despair was killed at one point. (But there is no reason why
 she can't die again.)
 
 - Destruction: he has "given up" his job as an Endless, and so isn't
@@ -75,10 +75,10 @@ Page 10 panel 4: The image at top right is Edvard Munch's well-known
 "The Scream"; the one in the middle is William Blake's "Ancient of Days".
 
 Page 11 panel 3: Note that the pictures have changed; they now seem to depict
-Egyptian funeral customs. Which ties in with the Egyptian sphinxes on either 
+Egyptian funeral customs. Which ties in with the Egyptian sphinxes on either
 side of Dream's throne.
 
-Page 12 panel 7: In A Season of Mists, Dream was described as (paraphrasing) 
+Page 12 panel 7: In A Season of Mists, Dream was described as (paraphrasing)
 "collecting names to himself, as one would friends." [Insert exact reference here]
 Here, however, the new Dream refuses to be called "Morpheus". Yet another
 difference between the old and new Dreams.
@@ -87,7 +87,7 @@ Page 13: Note that there is no page number.
          Note how Eve gets progressively younger. We've also seen this happen in
          (I think) A Parliament of Rooks. [Insert exact reference.]
 
-         panel 1: "In aeternum" simply means "in eternity", or possibly "into eternity".
+panel 1: "In aeternum" simply means "in eternity", or possibly "into eternity".
 
 Page 14: And now Eve grows older again. Eve's age seems to be eternally in flux.
 (Although Cain and Abel both seem to stay the same age. But then again,
@@ -102,21 +102,21 @@ told in "Parliament", the Eve in the Dreaming seems to change from the
 unnamed woman driven away by Adam, to Lilith, to Eve herself... from
 Maiden, to Mother, to Crone. Then again, aren't all the creatures of
 the Dreaming abstract representations, *but* Abel and Cain? Eve isn't
-their mother because (maybe) she just wears their mother's shape. 
+their mother because (maybe) she just wears their mother's shape.
 
 Page 15 panel 2: There was a legend in medieval times that toads had jewels
 embedded in their skulls; this was a morality fable of beauty in ugliness.
         panel 6: Richard Madoc was last seen in Calliope, (Sandman #17).
-Note that he wears gloves, and is now in a nursing home. (See "Calliope" for 
+Note that he wears gloves, and is now in a nursing home. (See "Calliope" for
 the reason why.)
 
-Page 16 panel 1: Note that the griffon is missing from the left of the main 
+Page 16 panel 1: Note that the griffon is missing from the left of the main
 entrance, and that the wyvern has taken its place.
 
 Page 17 panel 6: The man with the wing appears to be the same one that appeared in the
 Kindly Ones, whom Dream talked to. [Insert exact reference here]
 
-Page 18 panel 3: The ring was given to Alex by Rose Walker in The Kindly Ones. 
+Page 18 panel 3: The ring was given to Alex by Rose Walker in The Kindly Ones.
 [Insert exact reference here]
 
 Page 18 panel 5: Audrey was Hob Gadling's last wife/SO. Hob visits her grave in The Kindly

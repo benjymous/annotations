@@ -8,10 +8,10 @@
 As each member of Dream's family delivers their eulogy, notice how the flowers
 around the bier change (especially Delirium and her lawn flamingos!!)
 
-Page 1 panel 1: Note the blue roses here and later.  Michael Zulli's 
+Page 1 panel 1: Note the blue roses here and later.  Michael Zulli's
 contribution to the "Death Gallery" was captioned, "In Death's garden all the
-roses are blue." 
- 
+roses are blue."
+
 Page 2 panel 3: The beast on the left is the one which sent Brant Tucker
 off the road at the start of "Worlds' End".  (51:2.2)  Note the Siamese
 cat at the lower right, perhaps the cat-prophet from "Dream of a Thousand
@@ -30,31 +30,31 @@ be taken as a definite hint that the book is, this sentence has gone on far too
 long. I think you see what I'm getting at.
 
 Page 4 panel 2:  We see Destiny's eyes!
-        
+
 Yet in one of the Brief Lives issues (i forget, they're in the car) they
-specifcally say Destiny is blind and has no eyes.
-        
+specifically say Destiny is blind and has no eyes.
+
 As a matter of fact we never see his eyes any time beyond this i think. What's
 going on here (I may seem to be a bit picky, but Destiny has always been my
-favourite character).
-        
+favorite character).
+
 When we see him actually, he seems well, young, sensitive, not innocent but not
 the fatalistic persona we usually see him as either. Now this may be the change
 in artistry we see so often and changes in personal types seen just as much,
 but whenever we HAVE seen him up close (Orpheus, Seasons of Mist Intro,
 Necropolis of Despair's and Brief Lives) he has remained the same. An old man
 with closed eyes, now this, once again, whats going on here?
-        
+
 Matthew Noel's thoughts: It seems to me that the reality storm that took place
 with the conflicting Destiny's might have something to do with this. In the
-Kindly Ones, when all the Destiny's come together or cease to exist or 
+Kindly Ones, when all the Destiny's come together or cease to exist or
 whatever, the annotations mention certain things about whether the Destiny who
 now exists is in fact the original that we all knew and loved. For instance,
 there was talk about the scene of the new Dream facing the Corinthian with the
 blood on his throne, and how it was deliberately drawn differently than it was
 when Destiny saw it in his book. In the annotations, there is mention that
 perhaps this is because this Destiny that we now see may not be the same as
-before.  
+before.
 Well, this would seem to continue to work with this new view of Destiny.
 Perhaps the Destiny that remained after the reality storm is a younger Destiny
 who is maybe warmer (I don't know about anybody else, but it always seemed to
@@ -62,40 +62,41 @@ me that the 'regular' Destiny seemed to take some enjoyment in telling people,
 specifically Dream, things about his destiny that he didn't really want to
 know... while this Destiny seems at least a bit sad for his brother...),
 younger (the new Dream would affect anything that could dream, right? Maybe
-that gives the whole universe a fresher look at their lives and destiny?), 
+that gives the whole universe a fresher look at their lives and destiny?),
 and one who has eyes that could see (also an effect of a new Dream, perhaps?).
-        
+
 Interesting on the Dialogue of the Family while others are waking Death says
-it's not for eating its a table decoration, and ealier Mathew said that's what
+it's not for eating its a table decoration, and earlier Mathew said that's what
 the all the food is there for.
 
 Page 5 panel 1: The flowers here appear to be calla lilies (or perhaps
 spathiphyllum [peace lilies]), hydrangea, digitalis (foxglove), and roses.
        panel 5: The goat-headed fay on the left is called Skarrow, and
 last appeared in "A Midsummer Night's Dream". (19:passim)  The being between
-Mad Hettie and Hob Gadling is probably the Borghal Rantipole, last seen in 
+Mad Hettie and Hob Gadling is probably the Borghal Rantipole, last seen in
 that form in 66:20.3.
 
 Page 6 panel 6: Long-time readers will of course recognize Dream's absent
 brother Destruction, last seen in part 8 of "Brief Lives" (48:23.3).
 
-Page 7 panel 4: Sitting at the left is Darkseid, a major villain of the 
-mainstream DC Universe.  At far right is the Emperor Norton, last seen in 
+Page 7 panel 4: Sitting at the left is Darkseid, a major villain of the
+mainstream DC Universe.  At far right is the Emperor Norton, last seen in
 issue #31.  At the time this issue came out, both of these entities were dead,
 although Norton rather more permanently so.
 
-Page 9 panel 3: Cheshire is the most popular cheese historically in England. 
+Page 9 panel 3: Cheshire is the most popular cheese historically in England.
 It's also the oldest. It's very salty after a brief exposure, though one tends
-not to notice at first. It's a member of the cheddar family, but it can't 
-really be made outside Chester county in England because of the high salt 
+not to notice at first. It's a member of the cheddar family, but it can't
+really be made outside Chester county in England because of the high salt
 content in the soil there.
 
-Wensleydale is a blueveined, rich cream cheese. It has perhaps the best
-aftertaste of any cheese.  Neither of the cheeses looks like the wheel in Destruction's hand.
+Wensleydale is a blue veined, rich cream cheese. It has perhaps the best
+aftertaste of any cheese.  Neither of the cheeses looks like the wheel in
+Destruction's hand.
 
-Page 11 panel 1: Wesley Dodds was the superhero known as "The Sandman".  In 
+Page 11 panel 1: Wesley Dodds was the superhero known as "The Sandman".  In
 the real world, he was the first character to bear that name.  He has appeared
-once before in this series, in 1:18.4-6.  The meeting he refers to took place 
+once before in this series, in 1:18.4-6.  The meeting he refers to took place
 in the _Sandman Midnight Theatre_ special.
         panel 2: Dian Belmont was Wesley's lover.  (Later his wife?)
 
@@ -104,7 +105,7 @@ Page 14:  Mazikeen has a heart tattooed on her left breast.
 Page 15 panel 1: This is Leib-Olmai, the Alder Man, who became a bear to evade
 Dream and Delirium's search for Destruction. (44:4.5)  He was supposed to have
 been informed that it was safe to return.  Perhaps he liked the bear-shape.
-        panel 2: The boy in the front row, second from the right, resembles 
+        panel 2: The boy in the front row, second from the right, resembles
 Steven, the protagonist of Gaiman and Zulli's _The Last Temptation_.  The two
 men in the third row on the right-hand side are Zulli and Gaiman themselves.
         panel 3: The girl with the balloon is Shivering Jemmy of the Shallow
@@ -116,8 +117,8 @@ him.
         panel 4: This is Faramond, who gave up being a Babylonian deity in
 favor of being a travel agent.  He was last seen in "Brief Lives" part 6.
 (46:8.6)
-        panel 5: This is  Alianora, one of Dream's old lovers.  The affair 
-ended badly, although the exact details are not known.  She was last seen at 
+        panel 5: This is  Alianora, one of Dream's old lovers.  The affair
+ended badly, although the exact details are not known.  She was last seen at
 the end of "A Game of You" (36:35.2).
 
 Page 17 panel 4: I believe the young oriental boy throwing the blue roses in
@@ -133,7 +134,7 @@ over three pages, and when that particular form of the barge is drawn, Zulli
 gave it two hands, and they're cradling the ruby much more gently. Also, in the
 trade, Zulli saw fit to include a version of the barge with Morpheus's visage
 as the figure head, with short hair, which appears between the Helm-barge and
-the Ruby-barge.  
+the Ruby-barge.
 Perhaps these figureheads correspond to various important points in Morpheus's
 existence (his falling-out with Orpheus, his imprisonment, the destruction of
 the ruby and the beginning of this chronicle)?
@@ -166,7 +167,7 @@ turned into a fish by Delirium as a disguise ("Kindly Ones", pt.12, page 6,
 panels 2, 3, 4). Funny, though, how the Borghal Rantipole disappeared when
 Morpheus died ("Kindly Ones", part 13 page 7 panel 5). One presumes that he
 either returned to the Dreaming, or the new Dream remade him, as he did so many
-others.....           
+others.....
 
 Credits:
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
@@ -179,7 +180,7 @@ Annotations.
 	Katie Schwarz (katie@physics.berkeley.edu) noticed the cat-prophet.
 	Simo Heiskanen (sheiskan@cc.helsinki.fi) noticed Cerebus.
 	Michael Chary (mac7@po.CWRU.Edu) commented on the cheese.
-	Steve Zwanger (szwanger@gnu.ai.mit.edu) identified the flowers.  
+	Steve Zwanger (szwanger@gnu.ai.mit.edu) identified the flowers.
 April LePaige (73654.2110@CompuServe.COM) also commented on them.
 	Stuart Friedberg (stuartf@sequent.com) noticed the change in Ric Madoc's
 surroundings.

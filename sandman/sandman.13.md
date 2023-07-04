@@ -9,10 +9,10 @@
 General:  This story is unusual, in that it bears the onus of being "The Doll's
 House part 4", but has no direct relationship to the larger story, being a
 side trip into the past.
-Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
-in "Men of Good Fortune" which no-one had ever called him for (up until then, 
-at least). Now it looks like there are several: Ahasueres, the medieval French, 
-"John Ball has rungen your bell", Henry VI part I as Shakepeare's first play. 
+Neil Gaiman visited Perth in April 1996, and said there was a major anachronism
+in "Men of Good Fortune" which no-one had ever called him for (up until then,
+at least). Now it looks like there are several: Ahasueres, the medieval French,
+"John Ball has rungen your bell", Henry VI part I as Shakepeare's first play.
 I wonder which one Gaiman had in mind, if any of those?
 
 Elizabeth Rowe says:
@@ -31,11 +31,11 @@ as far as the African tale-tellers believe). However, a deviation from
 the natural order that _is_ allowed and that serves a similar emotional
 purpose is recounted in "Men of Good Fortune". As Hob finally realizes
 (and Dream finally admits), he is granted a reprieve from death because
-Dream needs a friend. 
+Dream needs a friend.
 
 "Men of Good Fortune" can also be argued to have a structural
 relationship with the second long thread, in that the two have
-constrasts that seem to me to be significant. The relationship with Nada
+contrasts that seem to me to be significant. The relationship with Nada
 (love) was destructive (at least for Nada!) and suspect, as it was
 apparently engineered for malicious reasons by Desire (and Despair?).
 The relationship with Hob (friendship) is positive (for both parties)
@@ -43,7 +43,7 @@ and  trustworthy, as it was set up by Dream (and presumably Death, who
 was there at the time). A further contrast is found between Hob's fate
 and what happens to Lyta, Rose, and Unity; one imagines that the latter
 is more typical of Dream's relationships with humans--it is impersonal
-and dictated by the requirements of Dreaming. 
+and dictated by the requirements of Dreaming.
 
 Page 1 panel 1:  The year, as we can deduce from page 5 panel 4, is 1389.
 Note the background chatter prominently placed throughout the story.  The theme
@@ -227,7 +227,7 @@ quality literature", to quote "Bloom County".
 Page 14 panel 1:  Jump ahead to 1689.  Note the background chatter.
 	Panel 3:  This translates, roughly, as "You fucking shitheads!  Get out
 of my way!"
-	
+
 Page 15 panel 1:  This is Hob, considerably reduced by circumstance.
 
 Page 16 panel 1:  Oliver Cromwell, and Parliament, took over England for a

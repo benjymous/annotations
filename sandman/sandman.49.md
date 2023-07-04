@@ -1,17 +1,17 @@
                          The Annotated Sandman
-      
+
                       Issue 49: Brief Lives Nine
               Neil Gaiman, Jill Thompson, and Vince Locke
 
-Notes:  See #41.  This issue is the coda for the arc, reprising all that 
+Notes:  See #41.  This issue is the coda for the arc, reprising all that
 we've seen before and reiterating "change" as the theme.  The briefness of
 life reinforces the change embodied by Destruction.  The emphasis upon
 change is meant to point out the change in Dream since his imprisonment,
 as remarked by Orpheus in 49:3.3 and by Destruction in 47:24.2 and 48:17.5.
 	It is perhaps worth noting that the epilog does not strictly begin
 until 3: or 4:.  1: and 2: are necessarily a part of the central story and
-are themselves reprised in 7:.  Despair's reappearance in 4: is a strict 
-reprise of her role in #41.  
+are themselves reprised in 7:.  Despair's reappearance in 4: is a strict
+reprise of her role in #41.
 
 1: Farewells
 
@@ -24,7 +24,7 @@ last issue.
 
 3: The Flowers of Romance
 
-Page 6 panel 1-6:  As remarked by Desire on 10.5, these are new flowers. 
+Page 6 panel 1-6:  As remarked by Desire on 10.5, these are new flowers.
 The creation of a new flower (or similar thing) is a common element in
 many mythic cycles.  There are several examples in the familiar Greek
 myths.  Note the technique of narrow divided vertical panels with gutters.
@@ -34,7 +34,7 @@ spacing indicates rapidity.  Here, perhaps, the shear number of gutters is
 meant to indicate a long pause as the blood drops and the flowers grow.
 In any case, it doesn't work, as the continuity from panel to panel
 indicates that the whole set of panels is a single instant.
-	Panel 9:  Again, see Special #1 or Graves or another classical 
+	Panel 9:  Again, see Special #1 or Graves or another classical
 Greek myth text for details.
 
 4: Journey's End
@@ -42,18 +42,18 @@ Greek myth text for details.
 Page 7 panel 2:  Note the blood marks on Despair's forehead; these are
 probably from self-mutilation inflicted while Dream met with Destruction or
 slew Orpheus.
-	Panel 6:  Messire:  Probably from Late or Vulgar Latin or Old French, 
+	Panel 6:  Messire:  Probably from Late or Vulgar Latin or Old French,
 the equivalent of Modern French "monsieur", lit. my lord, my sire (male).
 
 Page 9 panel 5:  Seen in Despair's mirrors, from right to left:  Andros
-(41:1), unidentified child (Andros's grandchild?), graveyard (Mary Canby's 
+(41:1), unidentified child (Andros's grandchild?), graveyard (Mary Canby's
 graveyard (21.1)?), a kitten (Chloe's kitten?), and Desire.
 
 Page 10 panel 1:  Baby Daniel (#40) is in the mirror to Desire's right.
 	Panel 4:  Baby Daniel in a mirror again.
 	Panel 5:  Oath:  Sworn in #31.  Spilling family blood will bring
 down the wrath of the Kindly Ones, a punishing aspect of the Triple
-Goddess.  See Aeschylus' trilogy of plays, the _Orestia_ (_Agamemnon_, 
+Goddess.  See Aeschylus' trilogy of plays, the _Orestia_ (_Agamemnon_,
 _Orestes_, _Eumenides_) for details.
 	Panel 6:  Is that Etain (43:13) in the mirror behind Despair?
 
@@ -62,10 +62,10 @@ _Orestes_, _Eumenides_) for details.
 annotation to #2 for citations from Homer and Virgil.
 
 Page 11 panel 2:  Skull and...spine:  As seen clearly in 23:1.3 and
-remarked in 4:14.2.  
+remarked in 4:14.2.
 	Gertrude Jobes' _Dictionary of Mythology, Folklore, and Symbols_
-mentions three attendants of Morpheus (a Roman name of Dream):  Icelos 
-(dreams that appear real), Phantasos (false or strange dreams), and 
+mentions three attendants of Morpheus (a Roman name of Dream):  Icelos
+(dreams that appear real), Phantasos (false or strange dreams), and
 Phobetor (alarming dreams).
 	Other sources indicate that Morpheus, Icalus/Phobetor, and
 Phantasus were the children of Hypnos.  [Lance Smith has accumulated some
@@ -100,17 +100,17 @@ the musical _Chess_.
 	Noumaria on 7 Livres a Day: No refs.  A "livre" is a pre-19th
 century French monetary unit.  The title is taken from the original cheap
 traveling guidebook _Europe on Five Dollars a Day_.
-	Hy-Brasil by Night: Hy-Brasil (or Hy-Breasil) is the Summer Country 
+	Hy-Brasil by Night: Hy-Brasil (or Hy-Breasil) is the Summer Country
 from Celtic myth or an island in the Atlantic whose inhabitants were said to
 be so morally pure that the island cut its gross earthly connections and
-could only be seen by those free of worldly desires.  Brazil gets its name 
+could only be seen by those free of worldly desires.  Brazil gets its name
 from this legend.  Hy-Brasil is used by James Branch Cabell and in the
-movie _Erik the Viking_, and is also referenced in the Peter S Beagle novel 
+movie _Erik the Viking_, and is also referenced in the Peter S Beagle novel
 _The Folk of the Air_ and the R A Lafferty novel _The Fire is Green_.
-	Los Angeles Underground Railway Map 1932:  No strong refs.  LA 
-is building a light rail system (which will include underground sections), 
-and at one time had an extensive trolley network.  In 1932, the Summer 
-Olympics were held in Los Angeles, which would presumably have prompted an 
+	Los Angeles Underground Railway Map 1932:  No strong refs.  LA
+is building a light rail system (which will include underground sections),
+and at one time had an extensive trolley network.  In 1932, the Summer
+Olympics were held in Los Angeles, which would presumably have prompted an
 increase in tourism and a corresponding increase in guidebooks.
 	[From]mer's [Guide to H]ell:  A popular travel guide produces an
 edition for Milton and Dante.
@@ -118,9 +118,9 @@ edition for Milton and Dante.
 	[Hitchhiker]'s Guide [to the] Galaxy:  From Douglas Adams' humorous
 SF.  Neil has written a companion to the series.
 	Road Trips to [the] Emerald City:  From L. Frank Baum's (and
-others) Oz fantasies (note that one such work was _The Road to Oz_ and one 
+others) Oz fantasies (note that one such work was _The Road to Oz_ and one
 was _The Emerald City of Oz_.)
-	Alleys and Bradstreets:  No strong refs.  A "Bradstreet" is a 
+	Alleys and Bradstreets:  No strong refs.  A "Bradstreet" is a
 particular brand of travel guide.
 	Great Hotels on the Moon:  No refs, but an inhabitable moon was a
 common subject of proto-SF, particularly in the 18th and 19th centuries.
@@ -137,15 +137,15 @@ Continent of Mu_, which was ostensibly the translation of ancient writings
 of the civilization of Mu.  The title comes from _London A to Z_, the
 most reliable and most widely used London map publication.  The title is a
 nice little pun, as "mu" is a letter of the Greek alphabet.  "Mu" is also a
-word from Zen Buddhism, refering to a question that makes no sense or that
-cannot be answered sensibly.  The classic example of this is "May a dog have 
+word from Zen Buddhism, referring to a question that makes no sense or that
+cannot be answered sensibly.  The classic example of this is "May a dog have
 Buddha nature?".
 	Cloud Cu[ckoo-Land]:  A translation of "Nephelokokkugia", a name
 coined by the Greek comic playwright Aristophanes.
 	See also _The Dictionary of Imaginary Places_ by Alberto Manguel
 and Gianni Guadalupi.
-	Panel 3:  The cat recalls the folktale Puss in Boots, but in 
-conjunction with the mouse is probably meant to be an archetype of the 
+	Panel 3:  The cat recalls the folktale Puss in Boots, but in
+conjunction with the mouse is probably meant to be an archetype of the
 classic cat-mouse chase.  This is probably most familiar to modern readers
 as exemplified in such cartoons as "Tom and Jerry" and "Itchy and
 Scratchy".
@@ -165,7 +165,7 @@ be Dream's ruby.
 
 Page 21 panel 1:  Mary Canby: See 41:6.
 	Panel 2:  Chloe Russell: See 43:22.  Chloe's pet is probably the
-cat Basht euthanized in 46:15.  It has also been speculated that one 
+cat Basht euthanized in 46:15.  It has also been speculated that one
 or the other of Chloe's cats is the young cat of #18.
 	Panel 3:  Danny Capax: See 44:6.
 
@@ -175,7 +175,7 @@ Page 22 panel 1:  Tom Flaherty: See 45:5.
 
 Contributors include:
     Originally written by Greg Morrow
-	Dorothy Lindman (f132@untvax.bitnet) developed the "Biblical" 
+	Dorothy Lindman (f132@untvax.bitnet) developed the "Biblical"
 reference coding (Issue:Page.panel).
 	Lance Smith (lsmith@cs.umn.edu) read the Cryptogeographica titles.
 	David Pautler (pautler@ils.nwu.edu) and Lance Smith did research on

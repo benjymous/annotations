@@ -1,5 +1,5 @@
                          The Annotated Sandman
-      
+
                        Issue 42: Brief Lives Two
               Neil Gaiman, Jill Thompson, and Vince Locke
 
@@ -11,8 +11,8 @@ by Charlie Brown, a karmically oppressed child.
 
 Page 1 panel 6:  We have not yet been told the identity of Dream's lover.
 We know that she has appeared before, that she is not one of his former
-lovers, that the relationship lasted a "handful of months", and that she 
-is in the "waking world".  I lean toward Thessaly, given the above and 
+lovers, that the relationship lasted a "handful of months", and that she
+is in the "waking world".  I lean toward Thessaly, given the above and
 that Neil asked his GEnie forum if they were interested in seeing
 her again, about the time he was planning _Convergence_.
 
@@ -25,7 +25,7 @@ Page 4 panel 5:  Nuala's stone is probably not very significant, although
 it might be one of the twelve Dreamstones (others including Dream's Ruby
 and the Porpentine).
 
-Page 5 panel 2:  Mervyn has been seen in #5, as a bus driver, and in 
+Page 5 panel 2:  Mervyn has been seen in #5, as a bus driver, and in
 _Season of Mists_.  He is probably derived from Jack Pumpkinhead, a
 character in L. Frank Baum's Oz books.  His name is probably a reference to
 Mervyn Peake, a British author/illustrator, known for the "Titus" books:
@@ -71,17 +71,17 @@ Taramis, not Tamaris.  Lance Smith writes:
 
     Taramis? Not Taranis? Or maybe Tarani? (Taranis is a Gaulish deity that
     the Romans likened to Jupiter, though it may have been a death goddess.
-    Tarani is Sanskrit for savior and is a title for the sun.)             
+    Tarani is Sanskrit for savior and is a title for the sun.)
 
-Page 14 panel 4:  The female servitor may be another person pulled in from 
-the Dreaming, as in _Season of Mists_, or she may be the Fashion Thing. 
+Page 14 panel 4:  The female servitor may be another person pulled in from
+the Dreaming, as in _Season of Mists_, or she may be the Fashion Thing.
 This latter is suggested by the eyepatch (as seen on the other eye in
 2:15.1).
 
 Page 15 panel 2:  Del is altering a common playground taunt: "<X> and <Y>
 sittin' in a tree, K-I-S-S-I-N-G/First comes love, then comes marriage,
 then comes baby in a baby carriage."
-	Panel 4:  Squidging:  Childish slang for squeezing.  Note this 
+	Panel 4:  Squidging:  Childish slang for squeezing.  Note this
 balloon should be multicolored.
 	Panel 9:  Note the "brief lives" reference, an example of a common
 motif.  The phrase "copulating desperately" was also used in 5:18.3, in a
@@ -98,7 +98,7 @@ Sword may be Michael's (or Aziraphale's) fiery sword.  Alternately, the
 First Circle may be a reference to Dante's Inferno, where Hell was a series
 of concentric rings, which was itself derived from older Fertile Crescent
 myths, including one where Ishtar passed through a city of circles in the
-underworld.  The oaths may also rever to the Endless themselves:  The
+underworld.  The oaths may also revere to the Endless themselves:  The
 First Circle is Death, the beginning and the end, and the Sword is
 Destruction's sigil; the Other Side of the Sky may be Despair's realm on
 the backs of mirrors.
@@ -131,11 +131,11 @@ Contributors include:
 inspired by Tanaqui Weaver's relay of Neil's hints.
 	Tanaqui (tweaver@nyx.cs.du.edu) also noted the effect of comic book
 lettering on "flick it".
-	Greg McElhatton <STU_GLMCELHA@VAX1.ACS.JMU.EDU> speculated on 
+	Greg McElhatton <STU_GLMCELHA@VAX1.ACS.JMU.EDU> speculated on
 Eleanora.
-	Nicole Lenard <crow@camelot.bradley.edu> commented on section 8's 
+	Nicole Lenard <crow@camelot.bradley.edu> commented on section 8's
 title.
-	Alexx S Kay (Alexx@world.std.com) noted a possible use of Christian 
+	Alexx S Kay (Alexx@world.std.com) noted a possible use of Christian
 imagery.
 	David James (vnend%nudity@Princeton.EDU) clarified "wet dreams".
 	Bill Sherman <sherman@math.ucla.edu> demonstrated knowledge of Kid

@@ -19,13 +19,13 @@ powers, their bodies became non-human in color and composition.
 Metamorpho, retiring (I believe) with the first cancellation of Metamorpho's
 book.  Metamorpho lurked around the background of the DC universe for years,
 eventually joining the Outsiders, then the Justice League.
-	Her charicterization here as a terrified isolated agoraphobe is new.
+	Her characterization here as a terrified isolated agoraphobe is new.
 
 Page 2 panel 1:  Mulligan is a new character of little importance beyond this
 story.
 	Panel 8:  "Company" is a slang term for the Central Intelligence Agency,
 the chief United States intelligence service.  It has been somewhat generalized
-in fiction to mean any intelligency agency, since authors usually refrain from
+in fiction to mean any intelligence agency, since authors usually refrain from
 mentioning the CIA directly.
 
 Page 4 panel 3:  "Put on a brave face."  Also notice all the "masks" in

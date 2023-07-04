@@ -95,7 +95,7 @@ also called by Salman Rushdie, in a pun "the lord's trump" who is not only
 the angel of death, but also the messenger {hence "trumpet" and "trump" and
 the connection with Gabriel} of the Apocalypse]) is said to have a flaming
 sword, it is thought only o be symbolic of his eventual role in the
-Apocalypse. 
+Apocalypse.
 	Other angels known to have flaming swords, which Gaiman my very well be
 referring to, are the Seraphim, six-winged angels of God's Wrath, who are
 said to have six wings. These were the angels who stood (and supposedly
@@ -109,12 +109,12 @@ famous Cherubim. Here:
    1]  Seraphs stood in attendance on Him. Each of them had six wings: with
 two he covered his face, with two he covered his legs, and with two he
 would fly.
-	
+
    2]  And on would call to the other
        "Holy, Holy, holy!
        The LORD of Hosts!
        His presence fills all the earth!"
-	
+
    3]  The doorposts would shake at the sound of the one who called, and the
 House kept filling with smoke . . . .
 							-Isaiah, 6:1-3
@@ -174,13 +174,13 @@ excommunicated for 130 years, during which time he begat demons and spectres.
 There's a sub-entry:
 Swells out like the Mazikeen ass.
 The allusion is to a Jewish tradition that a servant, whose task it was to
-rouse the neighbourhood to midnight prayer, one night mounted a stray ass and
+rouse the neighborhood to midnight prayer, one night mounted a stray ass and
 neglected his duty.  As he rode along the ass grew bigger and bigger, till at
 last it towered as high as the tallest edifice, where it left the man, and
 there next morning he was found.
 Neither of these are terribly fitting or helpful, but at least it's a
-reference - and this is Brewer's, so it's very likely that this is where Neil 
-got the name.                                                                                                          
+reference - and this is Brewer's, so it's very likely that this is where Neil
+got the name.
 
 	Panel 2:  "No.  You are still my Lord.  I will not forsake you.  I love
 you, master."  Mazikeen is drawn with much more detail this issue; the
@@ -189,7 +189,7 @@ musculature is clearly evident, where she appeared more skull-like in #22.
 	Panel 4:  "Lucifer, where you go, I will follow.  Let me go with you.
 Please.  I must stay by your side for ever."
 	Panel 5:  "Sire?"
-	
+
 Page 22 panel 1:  Nice tongue-kiss there.  Note Mazikeen's trachea.
 	Panel 3:  Is Lucifer destroying Mazikeen here, or is he sending her on
 to where the other demons are?

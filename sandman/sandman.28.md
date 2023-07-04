@@ -12,10 +12,10 @@
                   Not yet reprinted in any other form
 
 Cover:  Note the four characters in the lower right.  They are Chinese and mean:
-	1.  "new"   (xin)   
-	2. "life"  (sheng) 
-	3. "baby"  (ying)  
-	4. "child" (er)    
+	1.  "new"   (xin)
+	2. "life"  (sheng)
+	3. "baby"  (ying)
+	4. "child" (er)
 
 The third & fourth character are to be read together to mean "baby", all four
 characters together mean "newborn" (noun).
@@ -38,18 +38,18 @@ Page 3 panel 7:  Dream appears in his Kai'ckul guise for his dinner with Nada.
 seen in page 4 panels 3 and 4 and page 5 panel 3, but which is missing in this
 panel, page 4 panel 5, page 5 panel 5, page 7 panel 5 and page 8 panel 5.
 
-Page 4 panel 5: The Chinese characters mean:                                                                        
-lake (hu)                                                                                           
-dragon (long) [albeit not very accurately written]                                                  
-painting (hua)                                                                                      
+Page 4 panel 5: The Chinese characters mean:
+lake (hu)
+dragon (long) [albeit not very accurately written]
+painting (hua)
 
-Of course, lakes figure quite largely in Chinese landscape paintings,                               
-and the dragon is a prominant symbol in Chinese culture, but they seem                              
-inconsonant with the painting of the birds.                                                         
+Of course, lakes figure quite largely in Chinese landscape paintings,
+and the dragon is a prominent symbol in Chinese culture, but they seem
+inconsonant with the painting of the birds.
 
-The other characters in the square block are the artist's                                    
-signature, conventionally stamped with a Chinese seal, but I can't quite                            
-make them out.                                                                                      
+The other characters in the square block are the artist's
+signature, conventionally stamped with a Chinese seal, but I can't quite
+make them out.
 The birds are a crane and a raven, perhaps?
 
 Page 5 panel 5:  Hint, boys'n'girls.  This is NOT how to apologize to anyone.
@@ -63,7 +63,7 @@ We may also note that this panel has a different angle on the room; the room is
 not changing decor (except for the candelabra).
 
 Page 6 panel 2:  "Kissed it all better" sounds peculiarly modern, and
-idiomatic, for a queen of milennia-past Africa.
+idiomatic, for a queen of millennia-past Africa.
 	Panel 3:  Oubliette:  "Forgotten-small", from French, meaning a hidden
 prison such as found in certain old castles, accessible only from above.  Note
 that this contradicts the image of Nada's cell as seen in both _Sandman_ #4 and
@@ -125,7 +125,7 @@ strife" means "wife".
 
 Page 19 panel 3:  "Worse for wear":  Drunk.
 	Panel 5:  " `Strewth":  Long-time _Hellblazer_ readers recognize this
-as "God's truth", a minor expletive.  The shortening occured because of a
+as "God's truth", a minor expletive.  The shortening occurred because of a
 general reluctance to use the word "God".  Similar examples include the
 obsolete " `sblood"; "geez", from Jesus; and "zounds", from "Christ's wounds"
 via " `swounds".

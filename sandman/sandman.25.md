@@ -43,16 +43,15 @@ performed many acts of healing.  He died in Cyprus at the age of 80.  In the
 Roman Catholic Church, possibly the Church of England as well, his day is
 21 October.
 
-Page 7 panel 1-2:  _The Scarlet Pimpernel_ (by Baroness Orczy) was an 
-adventure tale featuring a masked hero, a master of disguise, who helped 
-spirit French nobles to England during the French Revolution.  
+Page 7 panel 1-2:  _The Scarlet Pimpernel_ (by Baroness Orczy) was an
+adventure tale featuring a masked hero, a master of disguise, who helped
+spirit French nobles to England during the French Revolution.
 
-The titular charcter was one of the
-earliest examples of a hero with a secret identity; as such, it is historically
-important to comic books.  As the Pimpernel's secret identity was a foppish
-nobleman, the book almost certainly helped Bill Finger create the "playboy
-Bruce Wayne" image for Batman.  A scarlet pimpernel is, incidentally, a small
-red flower.
+The titular character was one of the earliest examples of a hero with a secret
+identity; as such, it is historically important to comic books.  As the
+Pimpernel's secret identity was a foppish nobleman, the book almost certainly
+helped Bill Finger create the "playboy Bruce Wayne" image for Batman.  A
+scarlet pimpernel is, incidentally, a small red flower.
 	Panel 3:  Lights-out:  mandatory bedtime for students and soldiers.
 Spit-spot:  British interjection full of sound and rhythm, meaning nothing.
 Exemplified for Americans by the title character in the movie _Mary Poppins_.

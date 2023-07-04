@@ -1,12 +1,12 @@
                               The Annotated Sandman
 
-                         Issue 69: "The Kindly Ones" 
+                         Issue 69: "The Kindly Ones"
 
                           Neil Gaiman, Marc Hempel
 
 Page 1 panel 5: 8:9:5.
 
-Page 3 panel 7: Nybbas as found in the online Brewster's The Dictionary of 
+Page 3 panel 7: Nybbas as found in the online Brewster's The Dictionary of
 Phrase and Fable:
 
 Devil's Cabinet (The). Belphego, the Devil's ambassador in France; Hutgin,
@@ -21,7 +21,7 @@ much older...
 Page 4 panel 8: Lucien is quoting John Webster again: _The White Devil_ Act IV
 scene 3.
 
-Page 5 panel 3: Death may possibly be referring to Dream's captivity; more 
+Page 5 panel 3: Death may possibly be referring to Dream's captivity; more
 likely this is some hitherto-undisclosed incident in Dream's history.
 
 Page 7 panel 1: Note the panel border.  A black border seems to refer to the
@@ -34,8 +34,8 @@ Pp. 10-11 panel 3: The positions of the hands is reminiscent of those of
 God and Adam in Michelangelo's "Creation of Adam".
 
 Page 13 panel 1: As Titania remonstrates with Nuala, note the Puck, who had
-also spoken of leaving Faerie, chained at her feet.  Note also that this 
-vignette and the ones in the next few pages contain echoes of the event 
+also spoken of leaving Faerie, chained at her feet.  Note also that this
+vignette and the ones in the next few pages contain echoes of the event
 immediately past: a man and a woman taking each other's hand; leaving one
 place or plane in favor of an uncertain destination; references to death
 (including punning use of the word "late").
@@ -75,7 +75,7 @@ Page 18 panel 6: Hal says, "In the midst of death, we are in life" (page 18,
 panel 6). I don't know if this was noted and simply not annotated because it
 was so obvious, but I figured I'd mention anyway that it's a reversal of a
 line that my quotation dictionary lists as coming from "Burial of the Dead"
-in _Book of Common Prayer_: "In the midst of life we are in death." 
+in _Book of Common Prayer_: "In the midst of life we are in death."
 (found by Sarah Alderdice <viverais@freeze.com>)
 
 Page 19 panel 1: There has also been speculation that the solicitor (British
@@ -85,7 +85,7 @@ another random death echo.
 of Mists" part 4 (25:8).
         panel 3: Banshees: female ghosts that wail for the dead.  Some sources
 have it that those who hear them will die soon, too.  Harpies: monsters from
-Greek myth, with bodies like eagles, women's heads, and snakes for hair. 
+Greek myth, with bodies like eagles, women's heads, and snakes for hair.
 (Does anyone at this point really need me to define "furies"?)
 
 Page 20 panel 2: The title of Larissa's book parodies a mid-'80s bestseller,
@@ -94,26 +94,26 @@ _When Bad Things Happen to Good People_, by Rabbi Harold Kushner.
 available herbal tea, certainly the sort of name that herbal tea gets.
         panel 8: Well, nice of her to give Lyta a head start, at least.
 
-Page 22 panel 4: This panel echoes the one we saw in Destiny's book in 
+Page 22 panel 4: This panel echoes the one we saw in Destiny's book in
 "Brief Lives" part 7 (47:14:3).  Gaiman has said that it is intentionally
 not precisely the same, which leads to the interesting speculation that
 the Destiny who survived the reality storm is *not* the same one that we
 had seen so many times previously.
         panel 5: There seem to be reversals here: the new Dream has white
-hair and clothes intead of black; his jewel is green (the complementary
+hair and clothes instead of black; his jewel is green (the complementary
 color to a ruby's red); the least of the dreamstones has taken the role
 previously filled by the greatest.
 
 Page 23 panel 1: This panel, beginning the epilogue to "The Kindly Ones"
 echoes another from the prologue to it: 57:2:2.
-        panel 2: Gaiman seems to be punning on the slang use of "yarn" to 
+        panel 2: Gaiman seems to be punning on the slang use of "yarn" to
 mean "story".
         panel 3: A double echo.  Clotho's dialogue echoes 6:4:1: "She's
 realized the real problem with stories -- if you keep them going long enough,
 they always end in death."  The panel itself echoes 57:2:1.  Except that there
 the cat was playing with the yarn, not a mouse it had caught and killed.
         panel 4: Echoes 57:1:3.
-        panel 5: Echoes 57:3:4. 
+        panel 5: Echoes 57:3:4.
         panel 6: The Gracchae were a trio of women in Greek mythology who
 had only one eye between them.  (It was detachable and they passed it around.)
 The hero Perseus stole their eye and demanded information about the Gorgons
@@ -135,7 +135,7 @@ asked Loki to either a) bring Daniel to the Dreaming, or b) do a) and
 burn away his immortality as well.
 
 Then, if it's a), Loki decides to chuck Daniel in the fire, to
-doublecross Dream. (It's his nature, after all.) So Dream asks the
+double-cross Dream. (It's his nature, after all.) So Dream asks the
 Corinthian to get Daniel, 'cos Loki isn't going to bring him back.
 
 If it's b), then the Eye Guy is Dream's failsafe plan, in the case Loki
@@ -151,7 +151,7 @@ Credits:
 Annotations.
 	Katie Schwarz (katie@physics.berkeley.edu) provided the information
 about the fairy tale and noted various echoes on the last two pages.
-	Joe Brenner (doom@kzsu.Stanford.EDU) pointed out the _White Devil_ 
+	Joe Brenner (doom@kzsu.Stanford.EDU) pointed out the _White Devil_
 quote.
         Timothy Hock Seng Tan <083285@bud.cc.swin.edu.au> who knew who Loki &
 Puck are working for.

@@ -6,7 +6,7 @@
 
        Neil Gaiman, Bryan Talbot, Alec Stevens, Mark Buckingham
 
-                    First story in anthology, "Worlds' End" 
+                    First story in anthology, "Worlds' End"
 
 Page 3 panel 8: Not Kansas? Awww... It's worth noting that Buddy Holly
 (whose music is playing) died in an Iowa field in a snowstorm. In a plane
@@ -17,16 +17,16 @@ Redlaw, appeared in volume 3 of "The Books of Magic" miniseries. This
 isn't necessarily the same one, of course.
 
 Page 6 panel 5: A "free house" is a pub or inn with no ties to a brewery,
-as opposed to a "tied house", where the land or pub is owned by the brewery 
-and the publicans are merely tenants. The main difference is that a free 
-house canserve any beer they wish, while a tied house will usually only 
-sell beers produced by the brewery the pub is tied to. In the context of the 
-story, the inn is a free house in that it's tied to no one world or reality 
+as opposed to a "tied house", where the land or pub is owned by the brewery
+and the publicans are merely tenants. The main difference is that a free
+house canserve any beer they wish, while a tied house will usually only
+sell beers produced by the brewery the pub is tied to. In the context of the
+story, the inn is a free house in that it's tied to no one world or reality
 stream.
            panel 6: Abdera: according to Brewer's _Dictionary of Phrase and
-Fable_, a Thracian seaport, proverbial for stupid inhabitants although it 
-produced several noted philosophers. No refs on the particular story. 
-The name Menton may be a reference to Minneapolis-area guitarist and vocalist 
+Fable_, a Thracian seaport, proverbial for stupid inhabitants although it
+produced several noted philosophers. No refs on the particular story.
+The name Menton may be a reference to Minneapolis-area guitarist and vocalist
 Todd Menton, who certainly either knows Gaiman or knows friends of his.
 
 Page 7 panel 3: Webster's dictionary defines "chirurgeon" simply as
@@ -36,8 +36,8 @@ Page 8 panel 1: As we will learn, the travelers in this inn tell stories.
 This is Brant's, although not one that follows traditional narrative style.
 
 	   panel 5: In Greek myth, the centaur Chiron taught medicine to
-Asklepios, who went on to become the patron demigod of doctors. His 
-credentials as a physician are thus fairly impressive. He also served as 
+Asklepios, who went on to become the patron demigod of doctors. His
+credentials as a physician are thus fairly impressive. He also served as
 Herakles' childhood tutor.
 
 Page 9 panel 4: The man with the beer stein at left foreground is wearing
@@ -50,14 +50,14 @@ brother to Gawaine.
 Page 10 panels 1 & 5:
 Note the close-ups on the eyes. This recurs through-out the rest of this
 issue.
- 
-Page 11 panel 3: 
-        Another pair of eyes close-up.      
+
+Page 11 panel 3:
+        Another pair of eyes close-up.
 
         panel 6: Compare 36:23:4 and 37:19:2-4.
 
 Page 13 panel 3
-The lights behind the seats resemble eyes. Also, note the colour of the
+The lights behind the seats resemble eyes. Also, note the color of the
 lights... (See also note on page 17 panel 5 below.)
 
 Page 14 panel 3
@@ -78,13 +78,13 @@ it's just me, though...
 
 Page 19, panel 1<br>
 -from Gaiman's introduction to <br>
-Lovecraft, H. P. <i>The Dream Cycle of H. P. Lovecraft: Dreams of Terror 
+Lovecraft, H. P. <i>The Dream Cycle of H. P. Lovecraft: Dreams of Terror
 and Death</i>: Del Rey, 1995, page x.<br>
-<b>"There's something about Lovecraft's fiction, about his worlds, that is 
-oddly alluring for a writer of fantasy and horror. I've written three 
-Lovecraftian stories: one obliquely, in <I>Sandman</I>&#151;a quiet, 
-dreamlike story (it's the first story in the <I>World's End</I> 
-collection. You can tell it's Lovecraftian, because I use the word 
+<b>"There's something about Lovecraft's fiction, about his worlds, that is
+oddly alluring for a writer of fantasy and horror. I've written three
+Lovecraftian stories: one obliquely, in <I>Sandman</I>&#151;a quiet,
+dreamlike story (it's the first story in the <I>World's End</I>
+collection. You can tell it's Lovecraftian, because I use the word
 "cyclopean" in it) . . . "</b><br>
 
 Page 20 panel 7: Given that the restaurants are always closed, I can't
@@ -94,16 +94,16 @@ so he's not somehow exempted from normal bodily functions.
 Page 22: Odd that whenever two real people meet, one of them
 immediately returns to the real city. Coincidence, perhaps.
 
-Page 23: Another inn, in which other tales are told; Gaheris's story
+Page 23: Another inn, in which other tales are told; Gaheris' story
 turns out to be a story-within-a-story.
 
 Page 24 panel 6:
 The last panel in this story again focusses on the eyes. This time,
 though, they're Gaheris', and the picture is of his whole face, not just
-his eyes. Note, also, how his eyes are the same colour as his cravat and
+his eyes. Note, also, how his eyes are the same color as his cravat and
 the wine he's drinking (although that could just be a coincidence).
 
-Credits: 
+Credits:
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 annotations, forwarded much useful commentary on "World's End", and helped
 reference Chiron the centaur.

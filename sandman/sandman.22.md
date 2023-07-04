@@ -1,5 +1,5 @@
                          The Annotated Sandman
-               
+
 			                    Issue 22
             Neil Gaiman, Kelley Jones, and Malcolm Jones III
 
@@ -57,10 +57,10 @@ Drood_ was an unfinished work of his.  Sir Arthur Conan Doyle was a late
 19th-early 20th century writer whose creation Sherlock Holmes is listed by
 Harlan Ellison  as one of the five fictional characters known to every person
 on the planet (The others being Tarzan, Robin Hood, Superman, and Mickey
-Mouse). 
+Mouse).
 Holmes, by the way, has appeared in the DCU universe from time to time.
-He appeared before the Crisis in Action Comics#283, Joker#6, and Sherlock 
-Holmes#1. After the Crisis, he appeared in Detective Comics#572 and 
+He appeared before the Crisis in Action Comics#283, Joker#6, and Sherlock
+Holmes#1. After the Crisis, he appeared in Detective Comics#572 and
 Eclipso#7-8.
 Conan Doyle virtually invented the "consulting detective" archetype.
 James  Branch Cabell was another early fantasist; Poictesme was his creation.
@@ -97,17 +97,17 @@ Page 6:  This is a recap of _Sandman_ #4.
 
 Page 7 panel 1:  Interesting information on the nature of the Endless.
        panel 4:  This guy is Abudah. He also appears as Mervyn's sidekick
-                 in issue 60, pp. 21-23 
+                 in issue 60, pp. 21-23
 
 Page 8 panel 3:  Neil Gaiman has said that the raven companions of Dream dwell
 in Eve's cave.
 	Panel 4:  In reference to the events of _Swamp Thing_ ##27-30 and Annual
-#2, in which Matthew's mortal self made a deal with evil sorceror Anton Arcane.
+#2, in which Matthew's mortal self made a deal with evil sorcerer Anton Arcane.
 	Panel 5:  Samael ("Poison Angel") was the principal angel of death in
 medieval Jewish folklore, where he is under the control of God.  Many alternate
 spellings exist.  In the Targum, an Aramaic paraphrasing/translation of the Old
-Testament, Samael is identified with Lucifer, According to "Man Myth and Magic: 
-an illustrated encylcopedia of mythology religon and the unknown", Samael was 
+Testament, Samael is identified with Lucifer, According to "Man Myth and Magic:
+an illustrated encyclopedia of mythology religion and the unknown", Samael was
 "incorrectly identified with Lucifer.".  Robert Graves, a British poet,
 classicist, and translator, and much-admired writer of several works of and
 about myth and historical novels such as _I, Claudius_, translates Samael as
@@ -145,11 +145,11 @@ tells of Cain's punishment by the Creator.
 able to make "l" sounds with no difficulty.  In general, though, labial sounds
 like "m" have been shifted back in the mouth, since the creature has a problem
 with its lips.
-I <Mortis5555@aol.com> think the reason she can't say an 'L' sound is because 
+I <Mortis5555@aol.com> think the reason she can't say an 'L' sound is because
 she has no tongue.
-Or at least not a whole toungue. Also, Gaiman seems to imagine most of these
+Or at least not a whole tongue. Also, Gaiman seems to imagine most of these
 characters with English accents, so then the sound she might be making instead
-of "er" would be more like "uh". (probably why it's spelled "Ruszcivah" instead 
+of "er" would be more like "uh". (probably why it's spelled "Ruszcivah" instead
 of "Ruszciver"). He might be intending it to sound more like "Uszcivah".
 
 Page 11 Panel 1-3:  No direct confirmation of Lucifer's story.  Gnostics

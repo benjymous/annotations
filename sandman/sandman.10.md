@@ -14,8 +14,8 @@ throughout this storyline, one of which is the Threshold.
 
 Page 3 panel 1:  The figure in the lower right is Desire.  The face in the "tv
 screens" may be the Corinthian, who shows up later.  There is also some
-resemblence to Neil Gaiman himself, except that the editor in the lettercol in
-issue 15 says "That was NOT a photo of Neil on page 3.  As far as you know."
+resemblance to Neil Gaiman himself, except that the editor in the letter column
+in issue 15 says "That was NOT a photo of Neil on page 3.  As far as you know."
 
 Page 4 panel 1, 3:  Desire is looking at the symbols of its relatives, the
 Endless, a group of seven anthropomorphized concepts.  The symbols may be, left
@@ -24,7 +24,8 @@ Death's ankh, Destiny's book, Dream's helmet.  The empty square will acquire
 more meaning shortly.  Then comes Desire's chin, then one we will meet
 immediately, and another we will meet later.
 
-Page 4 panel 2:  Desire says "Big brother, I'm watching you". This is a reference to George Orwell's 1984 ("Big brother is watching you").
+Page 4 panel 2:  Desire says "Big brother, I'm watching you". This is a
+reference to George Orwell's 1984 ("Big brother is watching you").
 
 Page 5 panel 2:  First known appearance of Desire's twin sister Despair, whose
 sigil is a barbed ring (without immediately apparent symbolism), which was in
@@ -64,10 +65,10 @@ Secrets_.
 
 The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
-Page 10, panel 5: Neil Gaiman says "Note the doll": Well isn't it the                         
+Page 10, panel 5: Neil Gaiman says "Note the doll": Well isn't it the
 same doll's house which we find in the room of
 who-was-to-be-a-dream-vortex, Unity Kinkaid? Just look at the Morpheus
-in its window on pages 22-23. 
+in its window on pages 22-23.
 
 Page 11-12, panel 4:  This is a double page spread.  "Major Arcana" originally
 referred to the non-suited cards in a Tarot deck.  Here the term refers to the
@@ -93,7 +94,7 @@ the police commissioner - something Gaiman himself likes to
 do. Second, the Corinthian is a character that has skulked about
 through history cutting people's eyes out (see Cor's appearance in
 Brief Lives where he cuts out the eyes of the ape being dissected by
-the scienetist in Victorian England). 
+the scientist in Victorian England).
 
 Although 1896 is too early for the Corinthian to be out of dreams on
 his own, we know that he's always been a 'naughty' character. I think
@@ -137,10 +138,10 @@ metaphorically related to the "Doll's House" of the title.
 
 Page 17, panel 3: In the mirror we have the anticipation of the visit of
 three-in-one. Well, witches used to use mirrors for foreseeing the
-future.                          
+future.
 Page 18, panel 2: Dream dressing the night, as Death would say "Doesn't
 it sound cute?!"
-       
+
 Page 19:  The Three-in-One Goddess.  See issue 2.
 	Panel 3:  There was a boy named Jed connected with the 1970s Sandman.
 The "Kindly Ones" are the Eumenides of Greek mythology, also known as the
@@ -156,7 +157,7 @@ crone symbolism.
 Page 21,panel 1: Broom closet, well,well well, who doesn't know that
 witches (and Hecate, or three-in-one is their Goddess) use broomsticks
 to fly?
-                                    
+
 Page 22, panel 5-6: Morpheus is watching the scene (dreaming it?) from
 the doll's house in the corner of the room, just as Rose was watching
 his kingdom's affairs in her dreams.
@@ -169,8 +170,8 @@ are!"
 
 Page 24:  The Corinthian, we learn, is a sick bastard, and is probably about
 to kill Davy. We are seeing the world through Corinthian's eyes, as he
-takes off his dark glasses (panel 5-7) we can see colours. So I think
-that we are lucky that the story is ending just here!   
+takes off his dark glasses (panel 5-7) we can see colors. So I think
+that we are lucky that the story is ending just here!
 
 Contributors include:
     Originally written by Greg Morrow

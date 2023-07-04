@@ -4,13 +4,13 @@
 
                   Neil Gaiman, Marc Hempel, D'Israeli
 
-Cover: Benjamin Disraeli (1804-1881) was Earl of Beaconsfield and Prime 
-Minister of England. The inker's pen name is probably derived from him, 
+Cover: Benjamin Disraeli (1804-1881) was Earl of Beaconsfield and Prime
+Minister of England. The inker's pen name is probably derived from him,
 although he did not spell his name with an apostrophe.
 
 Page 1 panel 4: Evidently he was rocking the boat...
 
-page 2 panel 7: Lyta calles Lieutentant Pinkerton "Lieutenant Pinkwater" --
+page 2 panel 7: Lyta calles Lieutenant Pinkerton "Lieutenant Pinkwater" --
 tip of the hat to Daniel Manus Pinkwater, National Public Radio commentator
 and author of the classic young adult books _Lizard Music_, _The Last Guru_
 and _Young Adult Novel_, as well as several books for younger readers.
@@ -24,16 +24,16 @@ Page 7 panels 3-5: In 47:14:4 we see (in a panel from Destiny's book, whose
 location in time is uncertain) a white-haired, white-clad Dream that looks
 somewhat like this figure. It's unclear as yet whether this is a plot point
 or just an echo.
- 
+
 Page 9 panel 4: In an interview in "Comics Buyers Guide" Gaiman states that
-the story of Cluracan's nemesis isn't going to be resolved before the title 
+the story of Cluracan's nemesis isn't going to be resolved before the title
 ends. Sigh...
 
 Page 11 panel 7: "La Belle Dame sans Merci" (French: "The Beautiful Merciless
-Lady"): a poem, written in 1819 by John Keats, about a young man pining away 
+Lady"): a poem, written in 1819 by John Keats, about a young man pining away
 for love of an elf-maiden.
 
-Page 14-16:  In Jungian psychology, if you have a dream in which you go down 
+Page 14-16:  In Jungian psychology, if you have a dream in which you go down
 to a basement, it means that you are confronting something from your
 subconscious. Here, Lyta is confronting the fact that her son may be dead.
 (C.f. Rose's dream in #65, 5, 7.)
@@ -83,28 +83,28 @@ Second Witch    Cool it with a baboon's blood,
         Then the charm is firm and good.
 
 Page 15 panel 1: Granddaughter on the mother's side, most likely...
-        panel 3: An echo: twice before the three witches have appeared to 
-answer three questions. Once when summoned by Dream in issue 2, and once 
+        panel 3: An echo: twice before the three witches have appeared to
+answer three questions. Once when summoned by Dream in issue 2, and once
 to Rose Walker in issue 10.
 
-Page 17 panel 3: "Dragnet": A radio show, then a television show, purporting 
+Page 17 panel 3: "Dragnet": A radio show, then a television show, purporting
 to dramatize actual cases of the LA police department.
 
-Page 18 panel 3: No refs on these figures or the name "Ruthven", other than 
+Page 18 panel 3: No refs on these figures or the name "Ruthven", other than
 that Gaiman used the name for a minor character in issue 1.
 
 Page 19 panel 6: No refs on any of Cluracan's titles...
 
-Page 21 panel 3: Morpheus and Nuala seem oddly ignorant of the events 
-recounted in issue 52. We can speculate that the reality storm sent Cluracan 
-back in time, but things aren't that simple: Queen Titania would likely have 
-noticed her ambassador arriving before he left. Further, there is no evidence 
+Page 21 panel 3: Morpheus and Nuala seem oddly ignorant of the events
+recounted in issue 52. We can speculate that the reality storm sent Cluracan
+back in time, but things aren't that simple: Queen Titania would likely have
+noticed her ambassador arriving before he left. Further, there is no evidence
 in that story of the events shown in this.
 
-Page 23 panel 7: Nuala's crystal in was given her by the last Dream's lover 
+Page 23 panel 7: Nuala's crystal in was given her by the last Dream's lover
 as seen in issue #42 page 4, panel 5.
 
-Page 23 panel 9: An echo of "A Game of You". That story also concerned a 
+Page 23 panel 9: An echo of "A Game of You". That story also concerned a
 crystal that could be used to summon Dream for a boon.
 
 Credits:

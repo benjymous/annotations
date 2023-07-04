@@ -44,7 +44,7 @@ _Sandman_.
 Page 3 panel 4:  Morpheus is here referred to as the Prince of Stories.
 
 Page 4 panel 3:  Abel identifies himself as the victim from "the first story."
-Cain is distingushed for being the first murderer, and Abel for being the
+Cain is distinguished for being the first murderer, and Abel for being the
 first victim.  One of the themes of _Sandman_ is the equation of dreams and
 stories, or perhaps the use of dreams as a vehicle for stories.  Gaiman is
 first and foremost a storyteller, as opposed to Alan Moore, for example, who is
@@ -57,7 +57,7 @@ in _Swamp Thing_ Annual #2, reprinted in the tpb _Love and Death_).  This may
 be the simplest explanation of what the Shifting Zones are.
 
 Page 5 panel 1:  "It was a dark and stormy nightmare" is a pun.  "It
-was a dark and stormy night" is a clicheed way of beginning a story, most often
+was a dark and stormy night" is a cliched way of beginning a story, most often
 seen in the comic strip Peanuts, and a nightmare is a dream, of course.
 
 In addition to beginning Madeleine L'Engle's _A Wrinkle in Time_, the
@@ -90,7 +90,7 @@ conceit dates back at least to  Greek and Roman mythology:
 	one is fashioned of horn and one of ivory. Those which pass through
 	the one of sawn ivory are deceptive, bringing tidings which come to
 	nought, but those which issue from the one of polished bone bring
-	true results when a mortal sees them.  
+	true results when a mortal sees them.
         -- Homer, Iliad XIX p560
 
 	There are two gates of sleep. One is of horn, easy passage for the
@@ -167,13 +167,13 @@ Abel, as opposed to any sexual interpretation based on the slang meaning of
 "doing it".
     Panel 11:  The restriction on gargoyle names may be an unspoken rule
     from the mystery books.
-    
+
 Page 16:  _Who's Who_ #15 (1991) has a great deal of information on the
 Three Witches, or the Three-in-One as they are called here.  The Three may
 appear as a single entity, or as a group of three women.  The three women
 invariably appear symbolically as maiden, mother, and crone.
-    
-    In the Egypt of the Pharoahs, the Three were known collectively as Mut,
+
+    In the Egypt of the Pharaohs, the Three were known collectively as Mut,
 and named individually as Maat, Hathor, and Nekhbet.  In Egypt, as in many of
 their incarnations, the Three represented matriarchal, pre-civilization,
 mother/goddess worship.
@@ -201,7 +201,7 @@ maiden, Juno the mother, and Minerva the wise old crone.
 "Skald" is also the Viking word for poet.
 
 The Norse were (and are) an Indo-Germanic people, so basically the same
-arketypes will be found in Norse as well as Greek myths.
+archetypes will be found in Norse as well as Greek myths.
 
 The three Norns are named after the past, present and future (in that order).
 In modern Norwegian you will find remnants of Verdande in the word "Vaerende"
@@ -210,9 +210,9 @@ the word). As for the future, which Skuld represents, it is represented by the
 verb "skuld", which means to become, should be and/or could be. If we look at
 the english word "should" we'll find that it has evolved from the same root as
 "skuld", also the Norwegian word "skulle" (with basically the same meaning as
-"should") shares some qualities with "skuld" 
-source: Caplex (a Norwegian
-dictionary and my own basic knowledge in etymolgy and the history of languages).
+"should") shares some qualities with "skuld"
+source: Caplex (a Norwegian dictionary and my own basic knowledge in etymology
+and the history of languages).
 
 The Three occupied a position in Anglo-Saxon lore as the Weird Sisters,
 and Shakespeare used this cultural referent in his play _Macbeth_.

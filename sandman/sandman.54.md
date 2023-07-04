@@ -8,7 +8,7 @@
 Page 2 panel 1: These are the Emperor, the Empress, and their Fool, from
 issue four of the "Books of Magic" miniseries.  Based on cards in the Tarot
 deck, they were archetypes, composites of many souls. They lived in a castle
-so far in the future that time itself had nearly ended. Sort of appropriate 
+so far in the future that time itself had nearly ended. Sort of appropriate
 that they would turn up at the Inn of the Worlds' End.
 
 Page 3 panel 1: Note the bright star visible through the window, reminiscent
@@ -21,11 +21,11 @@ to be simultaneously naive and paranoid. The series was a savage parody
 of the '60s youth movements, quite unlike Gaiman's portrayal of the
 character.
            panel 3:
-"With all his heart and mind and soul..." This is reminiscent of Jesus'                               
-description of the greatest commandment: "Love the Lord with all your                                 
-heart, and all your mind, and all your strength." (Mark 12:30, Luke 10:27, 
+"With all his heart and mind and soul..." This is reminiscent of Jesus'
+description of the greatest commandment: "Love the Lord with all your
+heart, and all your mind, and all your strength." (Mark 12:30, Luke 10:27,
 Matthew @22:37).
-This continues the religious theme in this issue.                                                     
+This continues the religious theme in this issue.
 
            panel 4: The quote is from Kennedy's inaugural speech, given on
 January 20, 1961. Prez's birth would then be in 1954.
@@ -53,19 +53,19 @@ were all replaced with "[expletive deleted]".
 
 Page 9 panel 5: This panel is essentially the cover of _Prez_ #1. This would
 seem to be the 1972 election. The caption here is inconsistent with the one
-on 3:4; either this one should read "nineteenth" or that one should read 
+on 3:4; either this one should read "nineteenth" or that one should read
 "seven".
 I think this panel is actually a reference to the
 various miracles performed by Jesus during His time on Earth. (E.g.
 giving sight to the blind, giving hearing to the deaf, curing disease,
 etc.)
 
-Page 10 panel 2: At this time in the real world, of course, the price of 
+Page 10 panel 2: At this time in the real world, of course, the price of
 gasoline, the federal deficit, and the national debt all skyrocketed.
-        panel 3: "Samurai Deli" was a real sketch on "Saturday Night Live"; 
+        panel 3: "Samurai Deli" was a real sketch on "Saturday Night Live";
 in our world, Buck Henry was the host of that show.
         panel 4: In our world John Belushi died young of a drug overdose.
-        panel 7: The robot on the floor seems to be the same one on Prez' 
+        panel 7: The robot on the floor seems to be the same one on Prez'
                  bookshelf on page 7.
 
 Page 13 panel 3: Reportedly, President WIlliam McKinley, on being shot,
@@ -78,7 +78,7 @@ assassin's t-shirt. Reportedly, Gaiman simply wanted to use someone famous;
 he chose Wildcat because Michael Allred liked Wildcat's costume.
 
 Page 14 panel 1: The woman is the Vice President. There's some disagreement
-about whether or not she is Prez's mother. In the original series she had a 
+about whether or not she is Prez's mother. In the original series she had a
 penchant for speaking in rhyme.
              panel 6: These "wafflestomper" hiking boots were popular in the
 mid-'70s. (I had a pair myself.)
@@ -107,34 +107,34 @@ Page 17 panels 1-3: This seems to be adapted from a Taoist story.
   two officials.
     Chuang Tzu said, "Go away! I'll drag my tail in the mud!"
 
-        panel 8: I seem to remember seeing a picture of Jesus standing 
-on a mountain-top, in a similar pose. That this panel might be a 
-reference to that picture is confirmed by Prez' beard & hair, which is 
-very similar to Roman Catholic pictures of Jesus.  
+        panel 8: I seem to remember seeing a picture of Jesus standing
+on a mountain-top, in a similar pose. That this panel might be a
+reference to that picture is confirmed by Prez' beard & hair, which is
+very similar to Roman Catholic pictures of Jesus.
 
 Page 18 panel 3: Given all the smiley faces, this visual reference to _Watchmen_
 was surely inevitable.
-        panel 4: The assassin looks like Abraham Lincoln (or is wearing an Abe 
-mask). Lincoln was also shot & killed, but that was in a theatre, not outside. 
-Also, the blood coming out of Prez' body resembles the red & white stripes on the 
+        panel 4: The assassin looks like Abraham Lincoln (or is wearing an Abe
+mask). Lincoln was also shot & killed, but that was in a theatre, not outside.
+Also, the blood coming out of Prez' body resembles the red & white stripes on the
 US flag.
 
 Page 19 panel 5: As was mentioned in the "Orpheus" special, we all meet Death
-when we are born. 
+when we are born.
 
-Page 20 panel 4: A reference to the "Blind Watchmaker" theory: just as the 
-existance of a watch implies the existance of a watchmaker, so does the 
-existance of complex human beings imply the existance of a divine Creator. 
+Page 20 panel 4: A reference to the "Blind Watchmaker" theory: just as the
+existence of a watch implies the existence of a watchmaker, so does the
+existence of complex human beings imply the existence of a divine Creator.
 Again, continuing the religious overtones of this story.
         panel 9: Note the smiley face over the gate.
 
-Page 21 panel 2: A reference to the parable of the talents; specifically 
+Page 21 panel 2: A reference to the parable of the talents; specifically
 Matthew 25:21.
 
 Page 24 panel 1: Among the contents of the chest in 27:20:1 was a pocket watch.
 Perhaps the same one?
-        panel 5: "...and that this time he will not come to just one America, 
-but to all of them." An allusion to Jesus, perhaps, who was to become a saviour 
+        panel 5: "...and that this time he will not come to just one America,
+but to all of them." An allusion to Jesus, perhaps, who was to become a saviour
 to the *world*, and not just of *Israel*, as the Jews once thought.
 "Others say that he waits to be born once more..." (A little more
 uncertain, this one.) King Arthur is said to be waiting on the Isle of
