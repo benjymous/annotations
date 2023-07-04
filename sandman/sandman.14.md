@@ -1,0 +1,225 @@
+                          The Annotated Sandman
+
+               Edited and largely written by Greg Morrow
+
+                         Issue 14:  "Collectors"
+           Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
+
+              Fifth part of long storyline _The Doll's House_
+       Seventh story reprinted in trade paperback _The Doll's House_
+
+Disclaimer:  Sandman and all related characters are copyrights and trademarks
+of DC Comics Inc.  Sandman and this annotation are intended for mature
+audiences only.
+
+Notice:  Commentaries and additional information should go to
+morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
+posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
+to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
+from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
+see this material on any other forum.  Reproduction in any form without
+permission of the editor (as agent for the contributors) is forbidden.
+
+Page 1:  We are back to the real storyline after last issue's side trip, in
+Dodge County, Georgia.
+	Panel 4:  The song is "Lydia the Tattooed Lady" as sung by Groucho Marx
+in one of the Marx Brothers movies.
+
+Page 2 panel 1, and others:  Notice how the bits of con-goer talk always
+includes some slangy reference to death:  "Journey was a real killer."
+"Wouldn't be seen dead here."  And so on.
+	Panel 2:  The song is "These Boots Were Made for Walking", sung by
+Nancy Sinatra.
+
+Page 3 panel 1:  More about the Family Man on page 9.
+	Panel 3:  The "I am John's coathanger" routine probably referes to a
+series of articles Reader's Digest once did, in the 50's, with titles like
+"I Am John's Kidneys", "I Am John's Liver" and so on.  They were narrated from
+the point of view of the parts of a human body, and gave an informal
+introduction to what these organs were about, what was harmful to them, and so
+on.  The coathanger very likely refers to the titular method of back alley
+abortionists.  Scarlett O'Hara was the heroine of the novel/movie _Gone with
+the Wind_ and the reprehensible sequel _Scarlett_.
+
+Page 4 panel 2:  This is the manager, who is unimportant.  The nebbishy guy
+that's been running around with the clipboard is "Nimrod", named after a
+great Biblical hunter.  Notice that the manager displays and is reading bondage
+pornography in contrast with his "I run a clean place" speech.
+
+Page 6 panel 3:  G.K. Chesterton, after whom Gilbert is modeled, was fond of
+paradoxes.
+	Panel 4:  Confirmation that Barnaby and Clarice were killed in
+_Sandman_ #12.
+
+Page 7 panel 1:  Gilbert's claim about Perrault is essentially correct.
+
+Page 8 panel 6:  How could get it worse?  Cannibalism, pedophilia, being eaten
+by wild animals?  No, I don't want to know.
+
+Page 9 panel 1:  The Corinthian.  We'll find out what happened to Jed later.
+	Panel 3:  First known appearance of Fun Land, whose story we get later
+this issue.
+	Panel 7:  The Family Man can't make it because he is busy with John
+Constantine in _Hellblazer_ about this time.  We may note that he did not even
+get an invitation, due to John's interference with his contact.
+
+Page 10 panel 4:  By now, it should be very clear that this is a convention of
+serial killers.  With the exception of the Corinthian, none of these killers
+have appeared before or since.  The convention itself is a parody, of sorts, of
+genre conventions, such as comic or sf cons.
+
+Page 11:  I cannot identify any of these pictures.  I suspect that they include
+famous serial killers of the past.
+
+page 12 panel 1:  "Definitely not women":  Most serial killers are white males,
+most of whom kill women, because of sexual hangups.  The inference is that
+Nimrod "collects" women.
+	Panel 2:  And evidently he keeps their bodies.  Yuck.
+	
+Page 14 panel 2:  The list reads:  Don't Look Now, The Collector,
+Manhunter, From the Life of the Marionettes, In Cold Blood, Compulsion,
+Straight on till Morning, ? on Scream[ing?], Night of the (?).  _Don't Look
+Now_ may be related to a short story by Daphne du Maurier, which has a grisly
+end.  _Manhunter_ is  a movie based on the Thomas Harris novel _Red Dragon_,
+featuring a serial killer.  Harris wrote another, better book, which was made
+into another, better movie about a serial killer, _Silence of the Lambs_.  _In
+Cold Blood_ is probably the film version of Truman Capote's book about
+the killers Perry Smith and Richard Hickock.  They killed a family named
+Clutter in Holcomb, Kansas, in 1959 and were later executed.  The first
+incomplete title may be _Carry on Screaming_, while the second is _Night of
+the Hunter_, a movie starring Robert Mitchum and directed by Charles Laughton.
+Presumably, all of the movies have something to do with serial killers.
+	Panel 3:  _The Collector_ is a book by John Fowles, made into a movie
+directed by William Wyler.  It is the story of a butterfly collector who
+abducts a young woman and imprisons her in his basement.
+	Panel 5-7:  The Bogeyman appeared, and was killed, in _Swamp
+Thing_ #44.  His shtick was as described here.
+
+Page 15 panel 1:  The inference is that he makes the neckties out of human
+skin, which would tend to make them the same pale color (assuming he restricts
+himself to his own race, as serial killers are wont to do).
+	Panel 5-6:  The name broken across two panels is "Hello Little Girl",
+the inference being that his obsession is young girls.
+
+Page 16 panel 4:  The Corinthian is correct regarding the Bogeyman's fate.
+	Panel 6:  Gilbert recognizes the Corinthian.  Hmm.
+
+Page 17 panel 4:  The inference is that Gilbert has written the name of Dream.
+
+Page 18 panel 1:  Many serial killers claim to be motivated by God.
+
+Page 19 panel 7:  "Needs must, when the devil drives" is a quote.  Rabelais may
+have it in this particular form.  It appears slightly altered in Shakespeare,
+_All's Well That Ends Well_, Act I, Scene 3, Lines 27-30:
+
+COUNTESS    Tell me thy reason why thou wilt marry.
+LAVATCH    My poor body, madam, requires it. I am driven
+   	on by the flesh, and he must needs go that the devil
+   	drives.
+
+It has often appeared in comics, notably in one of _Swamp Thing_ ##25-27, when
+Etrigan appeared.
+	Panel 8:  This is the Corinthian's car, and there's something in the
+trunk.
+	
+Page 21 panel 1:  Fun Land's remark:  many serial killers have unusual or
+parasitic relationships with single mothers.  Neil Gaiman says the song is
+Timbuk 3's "Standard White Jesus" from the _Edge of Allegiance_ album.
+	Panel 2-5:  The inference is that this is Disney World, or some similar
+theme park.  Conspiracy nuts love the idea that Disney hushes up murder at its
+parks.
+
+Page 22 panel 1,3:  The song is "Venus in Furs", by the Velvet Underground.
+	Panel 4:  Notice how Fun Land's hat makes him look like a wolf?  And
+his t-shirt has a wolf as well.  This is in reference to the "Red Riding Hood"
+story.  His hat is also a parody of the famous Disney mouse ears.
+	Panel 5:  "Moon River" probably refers to the song of that title, made
+famous by Andy Williams.
+	Panel 6:  The inference here is that Fun Land wants to hunt.
+
+Page 23 panel 6-7: The inference is that the preoperative transsexuals are
+male-to-female only.  Preoperative transsexuals of this sort take female
+hormones so that their breasts enlarge and their bodies become more female in
+appearance, but they retain their male genitals.  Many such, in fact, finance
+their last operations by appearing in specialty, so-called "she-male",
+pornography.  In panel 7, the victim's "left-lean" penis appears in silhouette.
+
+Page 24 panel 3:  The song is "Wild Thing", by the Troggs.
+
+Page 26 panel 2:  A "grass widow" is a divorced woman or a woman who is
+separated or often separated from her husband.
+	Panel 3:  "There is no sanity clause" is a pun.  Santa Claus is an
+American mythic figure associated with Christmas, and American and British
+common law make special provisions for insane criminals.  Most serial killers
+are adjudged insane, of course.  The Candy Man's statement is, of course,
+ironic in the extreme, since he's ignoring the _slight_ abnormality of
+_killing_.
+	Fans of "there is no sanity clause" are advised to look at the Marx
+Brothers film _A Night at the Opera_, as well as in Walt Kelly's comic strip
+_Pogo_.  We may note that Neil Gaiman is alleged to have a Groucho bust in his
+office, and likes to work with late night movies on, so it's a good bet that he
+was inspired by _Opera_.
+	Panel 4:  It is probably not a coincidence that the disturbed young man
+refers to cats as "pussies", that also being a slang term for the vagina.
+
+Page 27:  middle top.  Of course women are naked under their clothes.
+
+Page 28 panel 1:  In the original comic edition, some speech balloons fell off
+the original art.  They were restored in the trade paperback reprint.  The
+young man with Fun Land is talking, and the missing balloons read:
+
+       I dunno.  I thought maybe if I came here, I'd meet some other people
+  with the same problem.  People I could _talk_ to, who'd understand.
+       Who'd _help_ me.
+       But no one else has really been _interested_.
+
+	Thus revealing great irony in Fun Land's subsequent absconding.
+
+Page 29 panel 1:  Fun Land decided to go hunting after all.
+	Panel 2:  "It's a Small World" is a very annoying song played over and
+over again at Disneyland and Disney World.
+	
+Page 31 panel 4:  Funland's dream has points in common with Oscar Wilde's story
+"The Selfish Giant".
+
+Page 32 panel 4-5:  These incidents and variations of them have actually taken
+place in the US and possibly elsewhere.
+
+Page 34 panel 1:  We may recall that the Corinthian's mouth-eyes were seen in
+_Sandman_ #10 when Lucien is giving Dream the census results.
+
+Page 36 panel 6:  Gilbert has found Jed, who is what was hidden in the
+Corinthian's trunk.  Boot is British for trunk.
+
+Contributors include:
+	Tom White (twhite@mozart.AMD.COM) found the issue of _Swamp Thing_ with
+the Bogeyman and checked _Hellblazer_ for the Family Man.  He also identified
+_In Cold Blood_.  And noted a part of the origin of Fun Land's hat.  Stop this
+man before he annotes again!
+	Paul N Watts (watts@csa2.lbl.gov) identified the partial movie titles
+and the song on page 22.
+	Dennis C Hwang (hwa5@midway.uchicago.edu) identified _Don't Look Now_.
+	Col. G.L. Sicherman (gls@windmill.att.com) and Theresa Martin
+(thmartin@remus.rutgers.edu) identified "Lydia".
+	Subrata Sircar (sksircar@phoenix.Princeton.EDU) explained the
+significance of the manager's hobby and also found the _All's Well That
+Ends Well_ quote.
+	Steve Simmons (scs@lokkur.dexter.mi.us), Marcus Brazil
+(matmnb@lure.latrobe.edu.au), and Hannu Pajunen (hannu@polaris.utu.fi)
+identified _The Collector_.
+ 	The Colonel, Alex (Chaffee?) (chaffee@reed.edu) and Paul Lee
+<claris!qm!Paul_Lee@ames.arc.nasa.gov> found various incarnations of the
+motoring devil quote.  The Colonel and Tom Galloway (tyg@caen.engin.umich.edu)
+found citations for the sanity clause.  Tom also recalled the incidents the
+Corinthian remarks on.
+	Jim W Lai (jwtlai@watcgl.waterloo.edu) scrutinized page 23 to find
+those hidden genitals.  Where is that Waldo, anyway?  He also checked "grass
+widow" out.
+	Theresa Martin (thmartin@remus.rutgers.edu) recalled the census results
+of issue #10.
+	Neil Gaiman himself, as relayed by Tanaqui C. Weaver
+(cen@vax.oxford.ac.uk) identified the Timbuk 3 song, and pointed out the
+literary antecedents of Fun Land's dream.
+	William Sherman <sherman@math.ucla.edu> chimed in with a late
+identification of "Lydia"; identified the coathanger routine; corrected the
+Capote reference; and sang "Moon River" for us.

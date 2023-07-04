@@ -1,0 +1,120 @@
+                             The Annotated Sandman
+
+                Edited and largely written by David Goldfarb
+
+                    Issue 71: "In Which a Wake is Held"
+
+                          Neil Gaiman, Michael Zulli
+
+Disclaimer:  Sandman and all related characters are copyrights and trademarks
+of DC Comics Inc.  Sandman and this annotation are intended for mature
+audiences only.
+
+Notice:  Commentaries and additional information should go to
+goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
+is posted by the editor directly to rec.arts.comics, and is licensed
+to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
+from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
+see this material on any other forum.  Reproduction in any form without
+permission of the editor (as agent for the contributors) is forbidden.
+
+Page 1 panel 3: The man with the jacket and glasses sixth from the left
+resembles Neil Gaiman.  The odd-looking being eighth from the left may 
+be J'onn J'onnz, the Martian Manhunter, in his (retconned) natural form.
+       panel 4: The woman at the left resembles the character "Mercy", from
+_The Last Temptation_, which Gaiman also did with Zulli.  The man and woman
+at front and center may be the two who served the banquet in "The Season
+of Mists" part 5 (26:8.4 and 26:12.6).
+
+Page 2 panel 1: The shadowed man at the far left may be intended to be Zulli.
+       panel 5: This echoes "A Game of You" part 2 (issue #33), in which 
+people's tears were drawn in black, giving an impression that their eyes had 
+been pecked out.
+
+Page 3 panel 1: The man in black is probably the Corinthian.  The man in
+the turban is named Tamaris; he and the woman beside him served food to
+Dream and Delirium in "Brief Lives" part 2. (42:13-14)  The rabbit is
+named Ruthven, and his lady is similarly unnamed.  We've seen them a few
+times before, most recently dead at the Furies' hands in 66:14.2.
+       panel 2: The woman on the broom is known as the Fashion Thing, and
+was seen most recently in "The Season of Mists" part 1. (22:3.4)
+
+Page 5 panel 1: This seems to be a gathering of four of Dream's old loves:
+Calliope, the Thessalian witch, reincarnated Nada, and Queen Titania.
+
+Page 7 panel 3: It's not clear who this is; the most likely candidate is
+Eric Needham, who once offered Lyta Hall a job.  He was last seen in 59:18.6.
+
+Page 10 panel 1: Mad Hettie was last seen in this series in 3:5.4, although
+she played a major role in the _Death; The High Cost of Living_ miniseries.
+
+Page 13 panel 1: Liar.
+        panel 7: The fiddler is Abudah, last seen being killed with Mervyn
+Pumpkinhead in 66:16.6.
+
+Page 15 panel 5: Readers of Alan Moore's _Swamp Thing_ know that when Matthew
+was a man he was possessed of immense power.  (Non-readers of Alan Moore's
+_Swamp Thing_ are missing out big-time.)
+
+Page 16 panel 6: According to Brewer's _Dictionary of Phrase and Fable_, the
+Arimaspians were a race of men at war with a race of gryphons.  Creating 
+a land with that name is probably Gaiman's invention.
+
+Page 17 panel 3: Rose's brother Jed was last seen at the end of "The Doll's
+House". (16:20.8)  His appearance here seems reminiscent of Shaggy in the
+cartoon series "Scooby Doo", although this may not be intentional.
+
+Page 18 panel 4: See the '70s Jack Kirby _Sandman_ series and part 3 of 
+"The Doll's House" (issue #12) for details.
+
+Page 19 panel 3: The Bhartari Raja was last seen in issue 53.  "Silas Tomken
+Cumberbatch" was an alias used by the poet Samuel Taylor Coleridge (note the
+initials).  Winnie the Pooh did not use a false name, rather his house had a 
+sign above the front door reading "Saunders".  (Thus he "lived under the name".)
+        panel 4: Lucien is quoting _Swamp Thing_ #26, written by
+Alan Moore.  The man in question was Matthew himself, who had been driving
+drunk and crashed his car; ultimately he died of it and became Morpheus's
+raven.
+
+Page 20 panel 1: Unlike other artists, Zulli seems to draw the Thessalian's
+glasses as having no prescription.
+
+Page 22 panel 1: According to report, the artwork in this panel originally
+had a red cape peeping out from the back of Clark Kent's suit, and there
+were other heroes visible in the background.  The editor of the Superman
+titles felt this was disrespectful and ordered it cropped.
+
+	Clark Kent is referring to old stories that are now no longer part of
+official continuity.  In the 1970s, Superman's secret identity was a TV
+news anchorman rather than a newspaper reporter.  The story where Superman
+got an ant's head was _Action Comics_ #296, and where he became a gorilla was 
+possibly _Action_ #218, and where he had to fly forwards in time was possibly
+_Action_ #387.
+
+	The green man with the blue cape is a superhero called the Martian
+Manhunter.  He was last seen in 5:14-15.
+        panel 2: John Constantine was last seen in issue #3; the man in
+the middle is probably Dr. Occult, and the man on the right is the Phantom
+Stranger.  Neither of them have appeared before in this series, although
+they did have major roles in the _Books of Magic_ miniseries.
+
+Page 23 panel 4: According to report, there is a proverbial phrase, "I'll 
+wear a red dress at your funeral".  The meaning of this phrase is not quite
+clear.
+
+Page 24 panel 5: The statement that Matthew gives to Morpheus was in fact
+said by Mark Twain (the author of _Tom Sawyer_).
+
+Release History:
+Version 1.0 released 11 Jan 96.
+
+Credits:
+	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
+Annotations, and helped identify the Superman stories.
+	Jack Grimes (LBMGMD@aol.com) also helped with them.
+	Katie Schwarz (katie@physics.berkeley.edu) identified various 
+characters and looked up "Arimaspia".
+	Rick Pim (rick@qucdnee.ee.queensu.ca) identified the origin of the
+Bhartari Raja's alias.
+	Bill Jennings (zenok13@uclink2.berkeley.edu) mentioned the phrase 
+about funerals and red dresses.
