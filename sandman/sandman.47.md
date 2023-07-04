@@ -1,19 +1,7 @@
                          The Annotated Sandman
-    
-               Edited and largely written by Greg Morrow
       
                       Issue 47: Brief Lives Seven
               Neil Gaiman, Jill Thompson, and Vince Locke
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  Additional
-material in this series is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Reproduction in any form without 
-permission of the editor (as agent for the contributors) is forbidden.
 
 Notes:  See #41.
 
@@ -29,6 +17,10 @@ Page 1 panel 2:  Note the ecologically-correct webbed shopping bag.
 	Panel 4:  As theorized in #48 page 16, the Endless embody both their
 name and their opposite.  Hence, Destruction includes creation, which
 explains his sculpture, painting, and cooking.
+Eleni Petrakou <tulpoeid@hotmail.com> tends to disagree:
+<CITE>I think the one with sculpture is a joke, since the work seems
+awful; it's rather like him trying to react to his own
+identity.</CITE>    
 
 Page 2 panel 6: Is this meant to represent Ishtar?
 
@@ -42,9 +34,71 @@ of the Carnivora, overreact to stimulants.
 2: "My Envelope Isn't Any Good Anymore"
 
 Page 5 panel 2:  Note the curlicues used for Del's eyes.  The envelope is
-addressed to "Santa Claus/The North Pole".  Santa Claus is an American 
-mythical figure who brings gifts to children; he is said to live at the North
-Pole.  Children write him letters.
+addressed to "Santa Claus/The North Pole".
+
+	Santa Claus is actually a corruption of Saint Nicholas, a Christian 
+bishop who lived in Myra (now in Turkey) from 280 to 340; the name itself 
+"Santa Claus", is a child's slurred mispronunciation of Saint Nicholas . 
+Nicholas is the patron saint of brides, children, Greece, Russia, and 
+travellers. His feast day is December 6.
+
+	It was commonly believed that Saint Nicholas was imported to America 
+by the Dutch of New Amsterdam (New York). Clement Moore believed this when he 
+wrote his poem "A Visit From Saint Nicholas" (which starts with the immortal 
+line "Twas the Night Before Christmas", which is often erroneously thought to 
+be the poem's title. Also, the world "Santa Claus" is not used at any time in 
+the poem; he is referred to as "Saint Nicolas" or "Saint Nick" throughout). 
+
+From Moore the idea of the Dutch having observed Saint Nicholas Day in New 
+Amsterdam spread. 
+
+	Moore got this idea from Washington Irving............ who wrote it 
+in his History of New York From the Beggining of the World to the End of the 
+Dutch Dynasty in the early 1800's.
+
+	As a joke.
+
+	Santa Claus was popular with Dutch Roman Catholics. However, in 
+America, New York (New Amsterdam) was settled by Dutch Protestants, who were 
+against the veneration of saints. Irving's account of the Dutch honoring 
+Saint Nicholas in America was intended as a part of a historical parody. 
+Unfortunately Clement Moore took it as a literal history. (Irving was noted 
+for his historical parodies; unfortuneately, these farces are too often taken 
+as literal history. Such a misunderstanding of one of Moore's books about 
+Colombus lead to the misconception that Ferdinand and Isabella believed that 
+the Earth was flat......when in actuality the fact of the Earth's rounder 
+shape had been established since ancient Greek times.) 
+
+	As Richard Shenkman pointed out in Legends, Lies, and Cherished Myths 
+of World History, Saint Nicholas actually did not arrive in America until the 
+War for Independance. As noted, Washington Irving wrote his book about twenty 
+or thirty years later, Moore wrote his poem in turn, and finally cartoonist 
+Thomas Nast polished off the contemporary view of Santa Claus to 90% of what 
+it is today.
+
+	Other useful references:
+* Saint Nicholas by Charles Jones
+* The Dictionary of Misconceptions and More Misconceptions by Tom Burnam
+* Process and Pattern in Culture
+* The Santa Claus Book
+
+Santa Claus teamed up with Superman at least once during the run of DC Comics 
+Presents (#67). This was not the first appearance of Santa Claus (or
+Saint Nicholas, ofr that matter) in comic books by any means, or even
+the first appearance of Santa Claus in DC Comics, but the only one
+that I could think of off hand. It was reprinted in Christmas with the
+Super-Heroes. Santa Claus has probably made many other appearances in
+comic books. Most notoriously The Lobo Paramilitary Christmas
+Special#1, in which Lobo killed Santa Claus! (Referred to in flashback
+in Lobo#0.) 
+
+        It was Thomas Nast, a cartoonist, who came up with the idea that
+Santa Claus lived at the North Pole.
+
+Incidentally, a later writer had it that Santa Claus was the son of Odin and
+the brother of Thor.
+
+All this was added by John Mc Donagh <Kull29@Aol.com> or <jmcdonag@assumption.edu>
 
 3: Where All Mazes Meet
 
@@ -84,7 +138,8 @@ is referred to in the "What Has Gone Before" introduction to _The Doll's
 House_.
 	Panel 2:  See Dream's description in #21, and the _Death: The High
 Cost of Living_ miniseries.  According to Jill Thompson, the ox drover 
-is no one particularly important.
+is no one particularly important, but was also mentioned in issue #2,
+page 17, panel 4.
 	Panel 3:  It seems probable that this is a depection of a future 
 event; the color of Dream's clothing and hair is significant.
 
@@ -114,11 +169,8 @@ especially a promise to marry; extended by similarity to equal "truth".
 	Panel 4:  Dolmades:  a Greek dish, grape leaves stuffed with ground
 meat.  /-es/ is a Greek plural ending.
 
-Release history:              
-Version 1.0 released 31 May 93
-Version 2.0 released and archived 29 Aug 93
-
 Contributors include:
+    Originally written by Greg Morrow
 	Enrique Conty (conty@cbnewsl.cb.att.com) pointed out the connection
 between Destruction and creation and confirmed the existence of Del's
 little song.
@@ -139,3 +191,5 @@ Escher woodcut and noted Destruction's statue.
 	Jim Lai <jwtlai@jeeves.uwaterloo.ca> noted the degeneration of the
 maze and Destruction's statue.
 	Byron Go (bgo@ucsee.Berkeley.EDU) IDed
+	John Mc Donagh <Kull29@Aol.com> wrote about Santa Claus
+	Ralf Hildebrandt added more details

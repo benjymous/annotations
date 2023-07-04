@@ -1,24 +1,10 @@
                          The Annotated Sandman
-    
-               Edited and largely written by Greg Morrow
       
                         Issue 39:  "Soft Places"
                       Neil Gaiman and John Watkiss
 
                 Second story in anthology _Convergences_
                   Not yet reprinted in any other form
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you 
-see this material on any other forum.  Reproduction in any form without 
-permission of the editor (as agent for the contributors) is forbidden.
 
 Themes:  _Convergences_ is about storytelling, as is _Sandman_ overall.  In
 particular, _Convergences_ tells tales where the storyteller becomes the 
@@ -48,12 +34,25 @@ and uncle, Marco's document was widely read and inspired much of the West's
 later dealings with the Far East.
 
 Page 4 panel 4:  This is the "standard" folkloric visualization of the 
-Sandman; can anyone fling me some good refs?
+Sandman - E. T. A. Hoffman wrote a short novel named "Der Sandmann"
+(The Sandman) in which this picture of the Sandman is presented (Henrik &Aring;gren
+&lt;Henrik.Agren@hist.uu.se&gt;); can anyone fling me some other good refs?
 
-Page 5 panel 3:  Unknown song.
-	Panel 4:  "Bill Bailey Won't You Please Come Home?", by Hughie 
+Page 5 panel 3:  The song is an old jazz tune named "I'll be
+glad when you're dead, you rascal you". The most famous recordings of this 
+song is by Louis Armstrong. It is said that the song was dedicated by him
+to a police officer who once harrassed him at the way to the recordings. 
+I don't know if this is true, but the story is told in Mezz Mezzrow's book 
+about Chicago jazz "Really the blues". 
+The point is that "I'll be glad when you're dead, you rascal you" is from 
+the same era as the other two songs.
+I also know that Louis Armstrong has recorded "Bill Bailey". Maybe Marco
+is passing the reflections (or something like that) of a jazz club of
+the 20s or maybe even a Louis Armstrong show. (Henrik &Aring;gren
+&lt;Henrik.Agren@hist.uu.se&gt;)
+       Panel 4:  "Bill Bailey Won't You Please Come Home?", by Hughie 
 Cannon, 1902.
-	Panel 5:  "How You Gonna Keep 'Em Down on the Farm After They've 
+       Panel 5:  "How You Gonna Keep 'Em Down on the Farm After They've 
 Seen Paree?", lyrics Joe Young, music Walter Donaldson, 1919, a song of the
 First World War, referring to rural soldiers who'd gotten their first look
 at the sophistication of urban life.
@@ -113,6 +112,14 @@ his empire, and founder of the Mongol dynasty of China.  The Khan is
 familiar to Western audiences partly through the poem "Xanadu", which
 came complete in a vision to the author, Samuel Coleridge, in an opium-induced
 dream.
+Shangtu is (in correct PinYin romanisation) the name of the Mongol's first
+capital city after they conquered the Chinese empire. It flourished for 50
+or so years in the thirteenth century before the capital was moved south and
+modern Peking/Beijing built. Marco Polo visited China during the brief
+period when Shangtu was capital and described it in detail. The site exists
+today as dramatic ruined earthworks in Inner Mongolia. It is the original
+'Xanadu' of western Romantic poetry.
+
 	Panel 5:  The Khan's request for one hundred Christian scholars and
 technicians is historically accurate, including its answer.
 	Gautama Buddha:  Indian religious leader and founder of Buddhism.
@@ -201,11 +208,8 @@ the expectations of the observer.
 Page 24 panel 7:  Another comment on the value of dreams, a motif found
 extensively in #38.
 
-Release history:             
-Version 1.0 released 13 Dec 92
-Version 2.0 released and archived 30 April 93
-
 Contributors include:
+    Originally written by Greg Morrow
 	Greg Lord Drizzan McElhatton (stu_glmcelha@vax1.acs.jmu.edu) caught
 the reference to the Shifting Zones and explained jelly babies.
 	The Theme Team consulted on the literary deconstruction of
@@ -236,3 +240,4 @@ inherent in identifying things Chinese from English refs, saw a metaphor or
 two, and gave many different historical notes.
 	"Patrick Paul" <DISALAN.PAULP@EMH.IMS.DISA.MIL> IDed the desert of
 Lop, the Polos, and St. Joseph.
+   Ralf Hildebrandt added more details

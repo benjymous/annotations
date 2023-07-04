@@ -1,25 +1,10 @@
                          The Annotated Sandman
-    
-               Edited and largely written by Greg Morrow
       
                     Issue 36:  "Over the Sea to Sky"
         Neil Gaiman, Shawn McManus, Bryan Talbot, and Stan Woch
 
                 Fifth part of storyline _A Game of You_
                   Not yet reprinted in any other form
-
-Disclaimer:  Sandman and all related characters are copyrights and
-trademarks of DC Comics Inc.  Sandman and this annotation are intended for
-mature audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is
-licensed to appear on Compuserve, GEnie, and AmericaOnline.  It is also
-available via anonymous ftp from theory.lcs.mit.edu in pub/wald/sandman. 
-Please contact the editor if you see this material on any other forum. 
-Reproduction in any form without permission of the editor (as agent for the
-contributors) is forbidden.
 
 Title:  _A Game of You_ clearly refers to the question of identity.  Who
 and what the characters in this story are is a question either to the
@@ -65,41 +50,44 @@ at SCA events have been selling stuffed "plague rats" for years, which are,
 among other things, popular as cat toys.
 	Panel 7:  Say, this looks like a theme rearing its ugly head.
 
-Page 6 panel 1:  The books are: _The Wizard of Oz_, by L. Frank Baum. 
+Page 6 panel 1: The books are:
+[The Wizard of Oz](http://www.amazon.de/exec/obidos/ASIN/0812523350), by L.
+Frank Baum.
 Audiences are probably more familiar with the wretched film, but there was
 a series of children's books of infinitely more scope and imagination. 
-        Then there are _The Magician's Nephew_, by C.S. Lewis, and
-something called _Narnia_.  Lewis wrote a series of books, including
-_Nephew_, set in a magical land called Narnia.  _Nephew_ is the
+Then there are [The Magician's Nephew](http://www.amazon.de/exec/obidos/ASIN/0064471101),
+by C.S. Lewis, and something called _Narnia_.  Lewis wrote a series of books,
+including _Nephew_, set in a magical land called Narnia.  _Nephew_ is the
 next-to-last book in the series, but chronicles the creation of Narnia. 
 There was no book in the series entitled _Narnia_, and there has never been
 an omnibus volume with that title, although there has been at least one
 two-volume edition with the title _The Chronicles of Narnia_.  Narnia is 
 full of Christian religious imagery, including a messianic lion named Aslan. 
-        Next is J.R.R. Tolkien's _The Lord of the Rings_; this was
-originally  published as a long trilogy, against Tolkien's wishes, but has
-since been available in several different editions of a single bound
+Next is J.R.R. Tolkien's [The Lord of the Rings](http://www.amazon.de/exec/obidos/ASIN/0345340426); 
+this was originally  published as a long trilogy, against Tolkien's wishes, but
+has since been available in several different editions of a single bound
 volume.  _Lord of the Rings_ is perhaps the most classic work of modern
 fantasy; certainly, it's the most scholarly, as Tolkien was a philologist
 who made his world by drawing heavily upon his knowledge of languages and
 myth.  
-        Finally, there is a work entitled _Witches_, a Roald Dahl novel
-later made into a movie by Jim Henson.
+Finally, there is a work entitled [Witches](http://www.amazon.de/exec/obidos/ASIN/0141301104),
+a Roald Dahl novel later made into a movie by Jim Henson.
 	Panel 3:  "Imaginary fiend"?  A typo, or deliberate?
 
 Page 8 panel 1:  They Might Be Giants is an alternative rock duo made up of
 John Linnell and John Flansburgh.  They take their name from a 1970s George
 C. Scott film, in which Scott's character becomes convinced that he is
-Sherlock Holmes.  The title of that film is from  Cervantes' _Don Quixote_;
+Sherlock Holmes.  The title of that film is from  Cervantes'
+[Don Quixote](http://www.amazon.de/exec/obidos/ASIN/0192834835);
 when questioned about his delusions, Scott's  character cites Quixote's
 statement, "I don't fight windmills because they  *are* giants, I fight
 them because they *might* be giants."  In other words,  his "delusion" is
 the result of a conscious choice.  The entire movie, obviously, is about a
 question of identity, and hence reflects on this storyline.
 	"The Nightgown of the Sullen Moon" was originally released on the 
-4-song EP _They'll Need a Crane_ (Restless/Bar None 72611-2), and is also 
-on the collection _Miscellaneous T_ (Restless/Bar None 72646-2).  The song 
-is said to reflect the confusion of the people in the Land.
+4-song EP _They'll Need a Crane_ (Restless/Bar None 72611-2), and is also
+on the collection [Miscellaneous T](http://www.amazon.com/exec/obidos/ASIN/B000003BIU) 
+(Restless/Bar None 72646-2).
 	Panel 2:  Q-tips are a brand name of cotton-tipped stick, used for
 a variety of delicate tasks.  Wundabuds (and Wundawool) don't exist.  As
 established before, "wool" in this sense is not sheep's wool, but unspun
@@ -217,11 +205,8 @@ has not been revealed.
 Page 39:  Recall that the apparent landlady of the building is named Scarlett,
 and now the building is "Gone with the Wind", so to speak.
 
-Release information:
-Version 1.0 released 31 Oct 92
-Version 2.0 released and archived 14 Feb 92
-
 Contributors include:
+    Originally written by Greg Morrow
 	Gerson Koenig (gmkoenig@acsu.buffalo.edu) passed along useful TMBG
 information.
 	Aamod Sane (sand@cs.uiuc.edu) passed along an OED definition.
@@ -277,3 +262,4 @@ Giants_.
 TMBG movie, quibbled with my use of "causality", recalled the source of
 "Good Samaritan", ID'ed the Empire State Building, and whined for a footnote
 (about GWTW).
+	Ralf Hildebrandt added more details

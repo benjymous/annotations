@@ -1,23 +1,12 @@
                              The Annotated Sandman
 
-                Edited and largely written by David Goldfarb
-
                           Issue 72: "In Which We Wake"
 
                            Neil Gaiman, Michael Zulli
 
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
 
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu. This material is posted by the editor directly 
-to rec.arts.comics, and is licensed to appear on Compu$erve, GEnie, and 
-America On-Line.  It is also available via anonymous ftp from 
-theory.lcs.mit.edu in pub/people/wald/sandman.  Please contact the editor 
-if you see this material on any other forum.  Reproduction 
-in any form without permission of the editor (as agent for the contributors) 
-is forbidden.
+As each member of Dream's family delivers their eulogy, notice how the flowers
+around the bier change (especially Delirium and her lawn flamingos!!)
 
 Page 1 panel 1: Note the blue roses here and later.  Michael Zulli's 
 contribution to the "Death Gallery" was captioned, "In Death's garden all the
@@ -29,6 +18,56 @@ cat at the lower right, perhaps the cat-prophet from "Dream of a Thousand
 Cats".  And at the far right of the back row, hard to make out because of
 the shading, is Dave Sim's character Cerebus the Aardvark.  (Delirium made
 a winged Cerebus in part 8 of "Brief Lives" [48:15.5].)
+
+Page 3 panel 5:  Further evidence for the theory that the current Destiny is
+not precisely the same personification (or 'point of view', as Cain aptly puts
+it) as the character from before the reality storm - 'But which book?'. Since
+it is entirely unnecessary, not to mention unGaiman, to include some form of
+hyperbolic 'da-da-da-DAH' dramatic effect in a mere reference to Destiny's
+book, which we've become familiar with, on and off, for the last nine books,
+and since there is no alternative book mentioned anywhere, I think this should
+be taken as a definite hint that the book is, this sentence has gone on far too
+long. I think you see what I'm getting at.
+
+Page 4 panel 2:  We see Destiny's eyes!
+        
+Yet in one of the Brief Lives issues (i forget, they're in the car) they
+specifcally say Destiny is blind and has no eyes.
+        
+As a matter of fact we never see his eyes any time beyond this i think. What's
+going on here (I may seem to be a bit picky, but Destiny has always been my
+favourite character).
+        
+When we see him actually, he seems well, young, sensitive, not innocent but not
+the fatalistic persona we usually see him as either. Now this may be the change
+in artistry we see so often and changes in personal types seen just as much,
+but whenever we HAVE seen him up close (Orpheus, Seasons of Mist Intro,
+Necropolis of Despair's and Brief Lives) he has remained the same. An old man
+with closed eyes, now this, once again, whats going on here?
+        
+Matthew Noel's thoughts: It seems to me that the reality storm that took place
+with the conflicting Destiny's might have something to do with this. In the
+Kindly Ones, when all the Destiny's come together or cease to exist or 
+whatever, the annotations mention certain things about whether the Destiny who
+now exists is in fact the original that we all knew and loved. For instance,
+there was talk about the scene of the new Dream facing the Corinthian with the
+blood on his throne, and how it was deliberately drawn differently than it was
+when Destiny saw it in his book. In the annotations, there is mention that
+perhaps this is because this Destiny that we now see may not be the same as
+before.  
+Well, this would seem to continue to work with this new view of Destiny.
+Perhaps the Destiny that remained after the reality storm is a younger Destiny
+who is maybe warmer (I don't know about anybody else, but it always seemed to
+me that the 'regular' Destiny seemed to take some enjoyment in telling people,
+specifically Dream, things about his destiny that he didn't really want to
+know... while this Destiny seems at least a bit sad for his brother...),
+younger (the new Dream would affect anything that could dream, right? Maybe
+that gives the whole universe a fresher look at their lives and destiny?), 
+and one who has eyes that could see (also an effect of a new Dream, perhaps?).
+        
+Interesting on the Dialogue of the Family while others are waking Death says
+it's not for eating its a table decoration, and ealier Mathew said that's what
+the all the food is there for.
 
 Page 5 panel 1: The flowers here appear to be calla lilies (or perhaps
 spathiphyllum [peace lilies]), hydrangea, digitalis (foxglove), and roses.
@@ -60,6 +99,8 @@ once before in this series, in 1:18.4-6.  The meeting he refers to took place
 in the _Sandman Midnight Theatre_ special.
         panel 2: Dian Belmont was Wesley's lover.  (Later his wife?)
 
+Page 14:  Mazikeen has a heart tattooed on her left breast.
+
 Page 15 panel 1: This is Leib-Olmai, the Alder Man, who became a bear to evade
 Dream and Delirium's search for Destruction. (44:4.5)  He was supposed to have
 been informed that it was safe to return.  Perhaps he liked the bear-shape.
@@ -79,8 +120,23 @@ favor of being a travel agent.  He was last seen in "Brief Lives" part 6.
 ended badly, although the exact details are not known.  She was last seen at 
 the end of "A Game of You" (36:35.2).
 
-Page 17 panel 4: The boy holding the lyre is Dream's son, Orpheus.  We saw
-him last at the end of "Brief Lives" (49:5.4 and in flashback on 49:19).
+Page 17 panel 4: I believe the young oriental boy throwing the blue roses in
+honor of Dream's passing barge is actually the reincarnated Nada. The age is
+about right.
+
+As Morpheus's funereal barge goes over the waterfall, the figurehead keeps
+changing. Notice when it becomes the hand holding the Ruby, it's being clutched
+very violently, reminiscent of the end of the Preludes and Nocturnes storyline
+when Dr. Dee crushed the Ruby with his bare hand, returning its power to
+Morpheus. In The Wake trade paperback, this sequence is expanded to stretch
+over three pages, and when that particular form of the barge is drawn, Zulli
+gave it two hands, and they're cradling the ruby much more gently. Also, in the
+trade, Zulli saw fit to include a version of the barge with Morpheus's visage
+as the figure head, with short hair, which appears between the Helm-barge and
+the Ruby-barge.  
+Perhaps these figureheads correspond to various important points in Morpheus's
+existence (his falling-out with Orpheus, his imprisonment, the destruction of
+the ruby and the beginning of this chronicle)?
 
 Page 19 panel 1: The man in the coat just to the left of Lyta Hall is
 Doctor Destiny, or Doctor Dee.  He was last seen in 7:23.1.
@@ -100,12 +156,23 @@ him were all blooming.  Strange that they're now all dead.
 Page 24 panel 1: Some people have expressed confusion over the phrase "all
 but one".  That one is you, the reader.
         panel 2: It was the French.  They used to say it when they had kings.
-             
-Release History:
+
+You can notice, on page 71 of "The Wake" trade paperback, flanking Mad Hettie
+and Hob Gadling, on the left, I believe is the fairy, Peaseblossom (check
+"Midsummer Night's Dream", I could be mistaken....), and in the middle is the
+good old Borghal Rantipole, the nightmare last seen in the company of Delirium
+in her quest to find Barnabas in "The Kindly Ones", and who actually had been
+turned into a fish by Delirium as a disguise ("Kindly Ones", pt.12, page 6,
+panels 2, 3, 4). Funny, though, how the Borghal Rantipole disappeared when
+Morpheus died ("Kindly Ones", part 13 page 7 panel 5). One presumes that he
+either returned to the Dreaming, or the new Dream remade him, as he did so many
+others.....           
 
 Credits:
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 Annotations.
+    Originally written by David Goldfarb
+    Additional material by Ralf Hildebrandt
 	Carl Muckenhoupt (baf@tiac.net) noted the _Wizard of Oz_ resemblance.
 	Tehshik Yoon (tyoon@scunix4.harvard.edu) identified the creature from
 "Worlds' End" and noticed Neil Gaiman in the audience.

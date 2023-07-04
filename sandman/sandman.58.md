@@ -1,28 +1,21 @@
                             The Annotated Sandman
 
-              Edited and largely written by David Goldfarb
-
                         Issue 58: "The Kindly Ones: 2"
 
                   Neil Gaiman, Marc Hempel, D'Israeli
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Cover: Benjamin Disraeli (1804-1881) was Earl of Beaconsfield and Prime 
 Minister of England. The inker's pen name is probably derived from him, 
 although he did not spell his name with an apostrophe.
 
 Page 1 panel 4: Evidently he was rocking the boat...
+
+page 2 panel 7: Lyta calles Lieutentant Pinkerton "Lieutenant Pinkwater" --
+tip of the hat to Daniel Manus Pinkwater, National Public Radio commentator
+and author of the classic young adult books _Lizard Music_, _The Last Guru_
+and _Young Adult Novel_, as well as several books for younger readers.
+Gaiman and Pinkwater have been known to hang out on each other's discussion
+fora on GEnie. (This was back in '93-'94; not sure if it's still the case)
 
 Page 5 panel 3: Cluracan was of course last seen in issue 56; his sister Nuala
 in issue 52.
@@ -39,6 +32,11 @@ ends. Sigh...
 Page 11 panel 7: "La Belle Dame sans Merci" (French: "The Beautiful Merciless
 Lady"): a poem, written in 1819 by John Keats, about a young man pining away 
 for love of an elf-maiden.
+
+Page 14-16:  In Jungian psychology, if you have a dream in which you go down 
+to a basement, it means that you are confronting something from your
+subconscious. Here, Lyta is confronting the fact that her son may be dead.
+(C.f. Rose's dream in #65, 5, 7.)
 
 Page 14 panel 6: The recipe is from _Macbeth_ act IV scene 1:
 
@@ -103,12 +101,15 @@ back in time, but things aren't that simple: Queen Titania would likely have
 noticed her ambassador arriving before he left. Further, there is no evidence 
 in that story of the events shown in this.
 
+Page 23 panel 7: Nuala's crystal in was given her by the last Dream's lover 
+as seen in issue #42 page 4, panel 5.
+
 Page 23 panel 9: An echo of "A Game of You". That story also concerned a 
 crystal that could be used to summon Dream for a boon.
-
-Release history:
-Version 1.0 released 13 May 94.
 
 Credits:
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 Annotations.
+        Originally written by David Goldfarb
+        Timothy Tan aka TiTan <*> -M2001- <*> 083285@bud.cc.swin.edu.au
+        Ralf Hildebrandt added more details

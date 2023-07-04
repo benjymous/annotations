@@ -1,28 +1,49 @@
                           The Annotated Sandman
 
-                Edited and largely written by Greg Morrow
-
                      Issue 13:  "Men of Good Fortune"
-          Neil Gaiman, [Michael?] Zulli, and [Steve?] Parkhouse
+          Neil Gaiman, Michael Zulli, and [Steve?] Parkhouse
 
       Fourth part of long storyline _The Doll's House_ (but see below)
         Sixth story reprinted in trade paperback _The Doll's House_
 
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
-
 General:  This story is unusual, in that it bears the onus of being "The Doll's
 House part 4", but has no direct relationship to the larger story, being a
 side trip into the past.
+Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
+in "Men of Good Fortune" which no-one had ever called him for (up until then, 
+at least). Now it looks like there are several: Ahasueres, the medieval French, 
+"John Ball has rungen your bell", Henry VI part I as Shakepeare's first play. 
+I wonder which one Gaiman had in mind, if any of those?
+
+Elizabeth Rowe says:
+
+I would argue that "Men of Good Fortune" has a thematic
+relevance to the first two long stories of Dream. You could almost say
+that it bridges the two. The end of the first long story depicts Dream
+as depressed over the outcome of his escape, revenge, and quest to
+regain his tools. Although Endless, he's evidently vulnerable to at
+least some human emotions. Even though Death consoles him by reminding
+him of his responsibilities and making him think about the relationship
+of sleep and death to each other and their meaning to humanity, the next
+long story begins with another vulnerable Dream, one who is susceptible
+to love. This is evidently not allowed by the nature of things (at least
+as far as the African tale-tellers believe). However, a deviation from
+the natural order that _is_ allowed and that serves a similar emotional
+purpose is recounted in "Men of Good Fortune". As Hob finally realizes
+(and Dream finally admits), he is granted a reprieve from death because
+Dream needs a friend. 
+
+"Men of Good Fortune" can also be argued to have a structural
+relationship with the second long thread, in that the two have
+constrasts that seem to me to be significant. The relationship with Nada
+(love) was destructive (at least for Nada!) and suspect, as it was
+apparently engineered for malicious reasons by Desire (and Despair?).
+The relationship with Hob (friendship) is positive (for both parties)
+and  trustworthy, as it was set up by Dream (and presumably Death, who
+was there at the time). A further contrast is found between Hob's fate
+and what happens to Lyta, Rose, and Unity; one imagines that the latter
+is more typical of Dream's relationships with humans--it is impersonal
+and dictated by the requirements of Dreaming. 
 
 Page 1 panel 1:  The year, as we can deduce from page 5 panel 4, is 1389.
 Note the background chatter prominently placed throughout the story.  The theme
@@ -88,15 +109,15 @@ something like "fraunces".
 	Panel 3:  The first background chatter I associate with Geoffrey;
 the second is a recurring punchline to an obscene joke.  Does anyone know the
 rest of the joke?
-	Panel 4:  "Flux" probably refers to diarrhea here.
+	Panel 4:  "Flux" refers to cholera, for which diarrhea is a symptom.
 
 Page 3 panel 2:  We will come back to Dream's comment in a later issue.  It is
 a fairly common theme in fantasy literature that elves, sprites, and the like
 once inhabited this reality, but went to another reality as the weight of
 humanity began to press on them.
-        Panel 4:  The Wandering Jew is an old legend.  Ahasuerus was a name for
+        Panel 4:  The Wandering Jew is an old legend.  Ahasueres was a name for
 him which may not have been used until 1602; another name for him is
-Cartaphilus.  Ahasuerus is also the name of the king of Persia in the Book of
+Cartaphilus.  Ahasueres is also the name of the king of Persia in the Book of
 Esther; he marries Esther, and is generally portrayed as a bumbling fool. The
 Wandering Jew cursed Jesus (or refused to soothe him by giving him water in
 another version) as he hung from the cross, and was told by him to "tarry
@@ -176,10 +197,20 @@ young boy.  "Buss" means "kiss".  At this point in time, female roles in the
 theater were played by boys or young men.  "Horned" may refer to a
 crescent-shaped portion of anatomy that modern actresses don't have.
 	Panel 5:  Shakespeare was an actor most of his career.
-	Panel 6:  These are the opening lines to _The First Part of King Henry
-the Sixth_, which may or may not have been Shakespeare's first play.  Recall
-that comets were often seen as portents of doom; crystal tresses refer to the
-tail of the comet.
+        Panel 6:  (Comets were thought to portend doom; the "crystal tresses" are the
+"tail" of the comet, here compared to the straps of a scourge.)   Quoted are
+the opening lines to _The First Part of King Henry the Sixth_, which were in
+actuality probably penned by Elizabethan pamphleteer Thomas Nashe, one of
+Shakespeare's two likely collaborators on the play (and another good friend of
+Kit Marlowe).   _Henry VI Part I_ is generally NOT believed to be
+Shakespeare's first play - the rather ludicrous Titus Andronicus is.  The
+well-known badness of parts of Titus will have suggested this Shakespeare-
+makes-a-deal plotline to Gaiman, just as it will have made the plotline more
+credible to readers who assume that the excerpt is from Titus: but it's
+telling either of Shakespeare's skill or of our aesthetic passivity that, to
+find text on which we could venture an negative opinion, Gaiman had to go
+(rather shamelessly) to a later play and (quite unwittingly) to another writer
+(who's by the way quite good when in his own element.)
 
 Page 12 panel 1-2:  Presumably the quote from the play _Faustus_ is accurate.
 We may note that Beelzebub is a name of the devil, or the name of a major demon.
@@ -270,6 +301,7 @@ upper class has gone from formal to casual and Dream is merely
 up-to-the-minute.
 
 Contributors include:
+    Originally written by Greg Morrow
 	Tom White (twhite@mozart.AMD.COM) gave the year of the Ripper murders
 (and misremembered the final date of the American Revolution!).
 	Ian Lance Taylor (ian@airs.com) identified Ball and Tyler,
@@ -303,3 +335,4 @@ Shakespeare's sonnets (I think that who said it and who he meant, I lost most
 of the reference.)
 	Dave Stobbe, who signs himself "Ed (the Anti-Dave)",
 <dave.stobbe@canrem.com> corrected my attribution of movable type to Gutenberg.
+  	Ralf Hildebrandt added more details

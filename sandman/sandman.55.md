@@ -1,24 +1,10 @@
                             The Annotated Sandman
 
-	          Edited and largely written by David Goldfarb
-
                             Issue 55: "Cerements"	
 
                     Fifth story in anthology, "Worlds' End"
 
   Neil Gaiman, Shea Anton Pensa, Vince Locke, Bryan Talbot, Mark Buckingham
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 1 panel 6: Brant is counting to try to determine how far away the 
 lightning struck. The rule of thumb is one mile for each five seconds
@@ -30,6 +16,14 @@ things to stone" or else "thing made of stone". "Kyrielle" is from the Greek
 and derives from Greek "eu", "good" and either "krasis", "mixture", or 
 "krasi", "temperature".
 
+Page 4: Earth, Fire, Water and Air (or sometimes Wind), were four of the Five
+Elements in medieval times. The *Fifth* Element (which is also referenced in
+the film of the same name), is variously named as Life, Quintessence ("fifth
+essence" in Latin), or The Void (in Miyamoto Musashi's Go Rin No Sho, or The
+Book of Five Rings). Naturally, the Necropolitans would also bury their
+"Clients" in accordance to the Five Elements (with Mummification replacing Life
+/The Void/Quintessence).
+
 page 5 panel 2: "Polycarp": from Greek "poly", "many", and "karpos", "fruit".
 
 page 7 panel 1: Air burial is practiced in Tibet, just as we see it depicted 
@@ -38,6 +32,9 @@ here, including the eating afterwards, although not the storytelling.
 page 9 panel 3: Similar to stories of people starting work in ship's engine 
 rooms being sent to find a left-handed monkey wrench.
            panel 8: A story within a story within a story...
+
+Page 12 panel 4: Ironic that Scutt's family should have to hang him (albeit
+about the chest) in order to prevent him from being hung (from the neck).                                       
 
 page 14 panel 3: All but the very newest readers will recognize this as Dream's
 wayward brother, Destruction.
@@ -76,14 +73,11 @@ page 24 panel 7: Several netters had speculated exactly this. Gaiman has stated
 that he drew inspiration from old horror anthology movies; the punchline at the
 end of the framing story was often that the characters were dead.
 
-Release history:
-Version 1.0 released 24 May 94.
-Version 2.0 released 18 Jul 94.
-
 Credits:
       Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 Annotations and forwarded much useful information about "Worlds' End". He
 also corrected the lightning-distance rule of thumb.
+      Originally written by David Goldfarb
       Col. G. L. Sicherman (gls@hrcms.att.com) commented on the journeymen's 
 names and referenced "sithcundman".
       Kenneth Chang (kchang@ncsa.uiuc.edu) referenced Tibetan funeral customs.
@@ -91,3 +85,4 @@ names and referenced "sithcundman".
       Lance "Squiddie" Smith (lsmith@cs.umn.edu) relayed information 
 concerning Amicus horror films.
       Julie LaBomascus referenced "Angkou" via Byron Go (byron@netcom.com).
+      Ralf Hildebrandt added more details

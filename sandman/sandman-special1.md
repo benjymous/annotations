@@ -1,24 +1,11 @@
                          The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
 
                Sandman Special #1: "The Song of Orpheus"
              Neil Gaiman, Bryan Talbot, and Mark Buckingham
 
                  Not part of any anthology or storyline
                     Not reprinted in any other form
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Note:  This issue was published between _Sandman_ ##31 and 32; it is
 unassociated with either the _Distant Mirrors_ anthology or the _A Game of You_
@@ -41,7 +28,8 @@ explicating the details of the myth insofar as they are given.
 
 Page 1 panel 5:  Orpheus is traditionally the son of either Apollo or the
 Thracian king Oeagrus, and a muse, usually Calliope, sometimes Polyhymnia.  As
-previously established in _Sandman_, Orpheus is the son of Dream and Calliope.
+previously established in _Sandman_, Orpheus is the son of Dream and Calliope
+(Muse of epic poetry).
 "Hedge wizard":  A "hedge priest/parson" is a vagabond or illiterate clergyman.
 _Brewer's Phrase and Fable_ identifies hedge wizards as "persons of low origin,
 vagabonds who ply their trade in the open, under--or between--the hedges, etc."
@@ -90,11 +78,16 @@ he/she may have been involved in Orpheus' fate.  Desire has shown interest in
 all of Dream's love affairs.  And Passion is known for having ignited the
 Trojan War.
 
-Page 6 panel 4-5:  Hymenaeus:  originally the refrain of a marriage song, but
+Page 6 panel 1: Destiny bears a striking resemblance to Jorge Luis Borges!
+
+       panel 4-5:  Hymenaeus:  originally the refrain of a marriage song, but
 eventually personified into a hero whose marriage was legendarily happy.  The
 marriage songs eventually became invocations to him.  The actual words of the
 ceremony sound perhaps too much like modern Christian ceremony; no refs for
 actual Greek ceremonies.
+       panel 4:  The statue's head, with that circle and the
+cross-like shapes, is reminiscent of byzantine representations of
+angels, with the halo surrounding the head. 
 
 Page 7 panel 4:  Satyrs, along with centaurs, went mad when they got drunk.
 
@@ -111,6 +104,8 @@ to have an owl's face on her shield, and is probably Athena; above the Triple
 Goddess are two who may be Apollo and Artemis.  There are a number of other,
 more generic figures; the fat figure on the round roof may be from any number
 of pantheons, for example.
+The middle one looks like the statuette of the Goddess with the
+Snakes, only this is a weight lifter parody... 
 	Panel 3:  North American sources seem to be united in the definition of
 "hippogriff" as a creature with the head, front legs, and wings of an eagle,
 and the rear of a horse; Gaiman has a reference which supports _his_ contention
@@ -127,6 +122,10 @@ Page 17 panel 2:  Below is presumably Eurydice's funeral pyre.
 	Panel 5:  Note that Destruction's armor has changed.
 	Panel 6:  The river Lethe is one of the rivers of the underworld; its
 waters bring oblivion, or forgetfulness.
+
+Page 19 panel 6:  I think Destruction is picking an anemone. Anemones
+grew from Aphrodite's (Venus) tears when Adonis died, and so they're
+of the flowers associated with Hades. 
 
 Page 20 panel 2:  There should probably be knuckle-cracking-type sound effects
 in this panel.
@@ -150,13 +149,20 @@ the land of the Dead, and didn't have to die to come back.  Further, Herakles
 proved (at least in the original) that he had visited the underworld by
 bringing back the great dog Cerberus...and then he took him _back_.  To be
 true to the Greek originals, Cerberus should have been rendered "Kerberos".
+        panel 4:  What Death says has nothing to do with the actual
+myth (but it's splendid!) as far as I know. 
 
-Page 24 panel 4:  No ref for Taenarum, but Hellas is Greece itself.
+Page 24 panel 4:  Tainaro ("Taenarum"! Good heavens!) is indeed the
+southern point of Europe, islands excluded
 
 Page 25 panel 2:  Thessaly:  This is an antecedent for a character who appears
-in an upcoming storyline.  Delphi:  There was an oracle at Delphi devoted to
-Apollo; the Pythia ran the place.  The gift will become apparent shortly.  The
-"darkness" in Corinth is unknown.
+in an upcoming storyline. But Thessaly (Thessalia) is also a region of
+Greece. In general, panel 2 has a correct geographical description of
+mainland Greece from north to south, and Orpheus actually lived in
+Thrace. 
+Delphi:  There was an oracle at Delphi devoted to Apollo; the Pythia
+ran the place.  The gift will become apparent shortly.  The "darkness"
+in Corinth is unknown. 
 
 Page 28 panel 1:  Charon was the boatman who transported the souls of the dead
 across the River Styx, the fare for which was a penny.  The banks of the Styx
@@ -166,6 +172,8 @@ encyclopediac 12-volume work by Frazer cataloguing mythology and superstition.
 
 Page 30 panel 3-6:  The gates of the underworld were guarded by the great
 three-headed dog Cerberus; Orpheus charmed him with his music.
+        panel 4:  The resonator of his lyre was made of a tortoise's
+shell.
 
 Page 32 panel 1:  Hades and Persephone were the rulers of the underworld.
 
@@ -176,7 +184,11 @@ Page 34:  This scene is almost straight out of _Bulfinch's Mythology_.
 Although Bulfinch's is a bowdlerized retelling for another age, it retains some
 sense of authority even today; additionally, it might be rendering the
 originals accurately in this particular instance.
-	Panel 2:  Ixion:  Murdered his wife's father, was pardoned by Zeus and
+        Panel 1:  In fact Hades had abducted Persephone, and in
+	variations of the myth she somehow manages to return on earth
+	during spring and summer; thus, "tales of rape" might be an
+	innuendo. 
+Panel 2:  Ixion:  Murdered his wife's father, was pardoned by Zeus and
 admitted to Olympus, where he tried to seduce Hera and was tricked into
 seducing a cloud, by which was born the race of centaurs.  He was bound onto a
 flaming wheel in the underworld for his punishment.
@@ -194,11 +206,16 @@ and had his liver continually devoured by two vultures."
 	Panel 4:  Tantalus:  Fed his son to the gods; his punishment was to
 stand in a river, which would drain away if he tried to drink, and to have
 boughs of fruit overhead, which would blow out of range if he reached for them.
->From his plight comes the verb "to tantalize".
+From his plight comes the verb "to tantalize".
+The pennies were placed there by the dead's relatives, as the fare to Charon.
 
 Page 35 panel 3,5:  The Furies, also known as the Kindly Ones, are an aspect of
 the Three-in-One Goddess.  The Furies extract terrible punishments from the
 guilty.
+
+Page 37 panel 7-10:  Note that this is different than the "standard"
+explanation. People usually attribute Orpheus' behavior to impatience,
+lust, or curiosity. Lord, what fools these mortals be!
 
 Page 39 panel 4:  Among the animals pictured here are wolves, rabbits, bears,
 deer, sheep, goats, a leopard, one of the Carrion Kind, a badger, a fox, rats,
@@ -213,23 +230,24 @@ Bacchae (also known as Maenads) used hallucinogenic toadstools.
 
 Page 43: The ancient Greeks believed that songs made up entirely or mostly of
 vowels had a remarkable power.
+        panel 2:  "Euoi! Euan!" was a cheerful shout while drinking, a
+toast. 
 
 Page 45 panel 7: Note the eating of the heart.  The Greeks believed that the
 liver was the seat of emotion, not the heart; thus the punishments of
 Prometheus and Tityus.
 
 Page 46:  Traditionally, Orpheus died after being torn apart by the Bacchante.
-His head floated down the river Hebrus to the island Lesbos.
+His head floated down the river Hebrus to the island Lesbos. His lyre
+was made (by Apollo) the constellation of Lyra. 
 
 Page 47 panel 2-3:  Parallelism with the snake that slew Eurydice?
 
 This issue also contains a family album of sorts, with full page illustrations
 of the Endless and several denizens of the Dreaming.
 
-Revision history:
-Version 2.0 Released and Archived 27 Sept 92
-
 Contributors include:
+    Originally written and Edited by Greg Morrow
 	Dave "Ed (the Anti-Dave)" Stobbe <dave.stobbe@canrem.com> forwarded a
 message from Neil about the names of the Endless in Greek.
 	glenn alan carnagey jr <lf7z@midway.uchicago.edu> helps identify "hedge
@@ -256,3 +274,5 @@ watched Death's chest, identified the golden bough, reported Graves' Bacchae
 hypothesis, talked about Greek tunes, the way to a man's liver, and complained
 about the alleged alternation of Greek and Roman names.
 	Carl Fink (carlf@panix.com) speculated about Eurydice's hair.
+	Ralf Hildebrandt added more details
+

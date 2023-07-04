@@ -1,19 +1,7 @@
                          The Annotated Sandman
-    
-               Edited and largely written by Greg Morrow
       
                       Issue 49: Brief Lives Nine
               Neil Gaiman, Jill Thompson, and Vince Locke
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  Additional
-material in this series is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Reproduction in any form without 
-permission of the editor (as agent for the contributors) is forbidden.
 
 Notes:  See #41.  This issue is the coda for the arc, reprising all that 
 we've seen before and reiterating "change" as the theme.  The briefness of
@@ -185,11 +173,8 @@ Page 22 panel 1:  Tom Flaherty: See 45:5.
 	Panel 2:  Tiffany:  See 45:1.
 	Panel 3:  The eye is Desire's.
 
-Release history:              
-Version 1.0 released 5 July 93
-Version 2.0 released and archived 18 September 93
-
 Contributors include:
+    Originally written by Greg Morrow
 	Dorothy Lindman (f132@untvax.bitnet) developed the "Biblical" 
 reference coding (Issue:Page.panel).
 	Lance Smith (lsmith@cs.umn.edu) read the Cryptogeographica titles.

@@ -1,19 +1,7 @@
                          The Annotated Sandman
-    
-               Edited and largely written by Greg Morrow
       
                        Issue 41: Brief Lives One
               Neil Gaiman, Jill Thompson, and Vince Locke
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  Additional
-material in this series is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Reproduction in any form without 
-permission of the editor (as agent for the contributors) is forbidden.
 
 Notes:  _Brief Lives_ is in common use as a title, dating back to the
 earliest-reported citation, a collection of short biographies by John
@@ -236,11 +224,8 @@ significance?
 	This is a quote from a telephone industry recording informing the
 dialer that the number she is trying to reach is out of service.
 
-Release history:              
-Version 1.0 released 25 Apr 93
-Version 2.0 released and archived 18 Jul 93
-
 Contributors include:
+    Originally written by Greg Morrow
 	Joel Tscherne (ac985@cleveland.Freenet.Edu) identified Lady
 Johanna's epitaph and pointed out Delirium's matched eyes.
 	Joseph Brenner (doom@leland.Stanford.EDU) identified some of the

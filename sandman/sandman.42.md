@@ -1,19 +1,7 @@
                          The Annotated Sandman
-    
-               Edited and largely written by Greg Morrow
       
                        Issue 42: Brief Lives Two
               Neil Gaiman, Jill Thompson, and Vince Locke
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  Additional
-material in this series is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Reproduction in any form without 
-permission of the editor (as agent for the contributors) is forbidden.
 
 Notes:  See #41.
 
@@ -135,11 +123,8 @@ Crescent figure?
 Page 24 panel 4:  Interesting color rainbow.  The colors run in the real
 world, from the inside out:  violet, blue, green, yellow, orange, red.
 
-Release history:              
-Version 1.0 released 25 April 93
-Version 2.0 released and archived 18 Jul 93
-
 Contributors include:
+    Originally written by Greg Morrow
 	Brian Lintz (lintz@buster.cis.udel.edu) and Dani Zweig
 (dani@netcom.com) spotted Mervyn's earlier appearances.
 	Lance Smith (lsmith@peca.cs.umn.edu) did some research on Taramis,

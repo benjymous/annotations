@@ -1,7 +1,5 @@
                          The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
                                 Issue 28
             Neil Gaiman, Mike Dringenberg, and George Pratt
 
@@ -13,32 +11,14 @@
 
                   Not yet reprinted in any other form
 
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
+Cover:  Note the four characters in the lower right.  They are Chinese and mean:
+	1.  "new"   (xin)   
+	2. "life"  (sheng) 
+	3. "baby"  (ying)  
+	4. "child" (er)    
 
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
-
-Cover:  Note the four characters in the lower right.  They are Japanese kanji,
-and mean:
-	1. "new" (JIS 3F37, 13 strokes, bushi/radical 69)
-	2. "life" (JIS 4038, 5 strokes, bushi/radical 100)
-	3. "baby"? (JIS 3145, 17 strokes, bushi/radical 38)
-	4. "man's legs" (JIS 5139, 2 strokes, bushi/radical 10)
-
-The third character's identification is a bit doubtful, as another following
-character is normally required to write "baby".  On its own, the character as
-written refers to a musical sharp.  However, the interpretation is undeniable,
-and the whole sequence is a hidden reference to events that occur in this
-issue.
-	They could also be Chinese characters, and the third character might be
-less ambiguous in that language.
+The third & fourth character are to be read together to mean "baby", all four
+characters together mean "newborn" (noun).
 
 Title:  The phrase "give the devil his due" is a cliche.  It appears in
 Cervantes' _Don Quixote_ I.iii.3, but that may not be the original source.
@@ -58,9 +38,19 @@ Page 3 panel 7:  Dream appears in his Kai'ckul guise for his dinner with Nada.
 seen in page 4 panels 3 and 4 and page 5 panel 3, but which is missing in this
 panel, page 4 panel 5, page 5 panel 5, page 7 panel 5 and page 8 panel 5.
 
-Page 4 panel 5:  Note the print, which has Japanese characters.  The larger
-block is the signature of the artist.  The birds are a crane and a raven,
-perhaps?
+Page 4 panel 5: The Chinese characters mean:                                                                        
+lake (hu)                                                                                           
+dragon (long) [albeit not very accurately written]                                                  
+painting (hua)                                                                                      
+
+Of course, lakes figure quite largely in Chinese landscape paintings,                               
+and the dragon is a prominant symbol in Chinese culture, but they seem                              
+inconsonant with the painting of the birds.                                                         
+
+The other characters in the square block are the artist's                                    
+signature, conventionally stamped with a Chinese seal, but I can't quite                            
+make them out.                                                                                      
+The birds are a crane and a raven, perhaps?
 
 Page 5 panel 5:  Hint, boys'n'girls.  This is NOT how to apologize to anyone.
 Dream, as we have long recognized, ain't terribly bright.  Jim Lai speculates:
@@ -180,6 +170,7 @@ corresponding work, _The Man Who Was Thursday_, than it does to the rest of the
 Chesterton oeuvre.
 
 Contributors include:
+    Originally written by Greg Morrow
 	Jim W Lai <jwtlai@jeeves.waterloo.edu> identified the kanji characters,
 then later helped with other elements of Japanese culture, speculated on
 Dream's treatment of Nuala, spotted Destiny's path, spoke on Christian myth and
@@ -213,3 +204,4 @@ Australian slang.
 'strewth and pom.  Nathan D. Johnson (ndj20710@uxa.cso.uiuc.edu), Zoz,
 Shaun (shaun@iris.mincom.oz.au), Aamod Sane (sane@cs.uiuc.ed), and Pete Hartman
 (pwh@bradley.bradley.edu) followed up with clarifications on 'strewth's use.
+   Ralf Hildebrandt added more details on the Chinese writing

@@ -1,27 +1,22 @@
-                             The Annotated Sandman
-
-                Edited and largely written by David Goldfarb
+                              The Annotated Sandman
 
                          Issue 69: "The Kindly Ones" 
 
                           Neil Gaiman, Marc Hempel
 
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
-
 Page 1 panel 5: 8:9:5.
 
-Page 3 panel 7: Neil Gaiman insists that Nybbas is not his creation; however,
-neither I nor he have been able to track down a reference.
+Page 3 panel 7: Nybbas as found in the online Brewster's The Dictionary of 
+Phrase and Fable:
+
+Devil's Cabinet (The). Belphego, the Devil's ambassador in France; Hutgin,
+in Italy; Belial, in Turkey; Tharung, in Spain; and Martinet, in Switzerland.
+His grand almoner is Dagon; chief of the eunuchs is Succor Benoth; banker is
+Asmodeus; theatrical manager is Kobal; master of ceremonies, Verdelet; court
+fool is Nybbas. (Victor Hugo: "Toilers of the Sea")
+
+I don't know that Hugo's work, but I guess the original reference could be
+much older...
 
 Page 4 panel 8: Lucien is quoting John Webster again: _The White Devil_ Act IV
 scene 3.
@@ -76,6 +71,13 @@ Page 17 panel 5: Some people have speculated that the donor was Rosemary,
 the woman shot by Doctor Dee in issue #5.  The timing would seem a bit odd,
 though, since that would mean that issues 2-4 took seven months to happen.
 
+Page 18 panel 6: Hal says, "In the midst of death, we are in life" (page 18,
+panel 6). I don't know if this was noted and simply not annotated because it
+was so obvious, but I figured I'd mention anyway that it's a reversal of a
+line that my quotation dictionary lists as coming from "Burial of the Dead"
+in _Book of Common Prayer_: "In the midst of life we are in death." 
+(found by Sarah Alderdice <viverais@freeze.com>)
+
 Page 19 panel 1: There has also been speculation that the solicitor (British
 dialect for "lawyer") was Rose's love, Jack Holdaway.  Or it could be just
 another random death echo.
@@ -122,13 +124,36 @@ Page 24 panel 6: Echoes 57:1:1.
         panel 7: Interesting to note that the two issues which Hempel inked
 are the first and the last.
 
-Release History:
-Version 1.0 released 21 Aug 95.
+While we're talking about Sandman here, there was a question at the end
+of The Kindly Ones. Neil mentioned it himself, in the Writer's Comments
+section he usually includes for the trade p/backs. "Who was Loki & Puck
+working for?"
+
+Personally, I think it might have been Dream, himself. At the end of A
+Season of Mists, he tells Loki that he owes him a favour. I think Dream
+asked Loki to either a) bring Daniel to the Dreaming, or b) do a) and
+burn away his immortality as well.
+
+Then, if it's a), Loki decides to chuck Daniel in the fire, to
+doublecross Dream. (It's his nature, after all.) So Dream asks the
+Corinthian to get Daniel, 'cos Loki isn't going to bring him back.
+
+If it's b), then the Eye Guy is Dream's failsafe plan, in the case Loki
+decides not to bring him back.
+
+Not sure where Puck fits into all this. Maybe Dream asked him to fetch
+Daniel as well? Or maybe Loki asked him to help, after Dream told him
+what to do. Anyway, it fits. What do you think?
 
 Credits:
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
+        Originally written by David Goldfarb
 Annotations.
 	Katie Schwarz (katie@physics.berkeley.edu) provided the information
 about the fairy tale and noted various echoes on the last two pages.
 	Joe Brenner (doom@kzsu.Stanford.EDU) pointed out the _White Devil_ 
 quote.
+        Timothy Hock Seng Tan <083285@bud.cc.swin.edu.au> who knew who Loki &
+Puck are working for.
+        Sarah Alderdice <viverais@freeze.com> added a note about p18
+        Ralf Hildebrandt added more details

@@ -1,25 +1,10 @@
                           The Annotated Sandman
 
-                Edited and largely written by Greg Morrow
-
                       Issue 9:  "Tales in the Sand"
            Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
                      Not a part of any long storyline
                Second story reprinted in _The Doll's House_
-
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 General:  When asked about this story, Gaiman has  said that he did some
 research on African oral tradition, and then went out and made this story
@@ -37,7 +22,20 @@ clearly meant to be African; for example, page 1 refers to apes and lions, page
 14 panel 1 to gazelles, and so forth.
 
 Page 1:  The Trickster is a cross-cultural archetype, most familiar to modern
-audiences in the form of Bugs Bunny.
+audiences in the form of Bugs Bunny. 
+This reference to the "Trickster," knowing Gaiman, may be more
+important than one might expect... I mean, who causes so much pain to
+Morpheus (as well as, eventually, having no small part in his death)?
+Loki, of course: the Trickster.
+Now, sure, "Tales in the Sand" was written about four years before
+Loki is introduced to the story, but we're talkin' about Neil Gaiman
+here. Maybe Gaiman was using parallel structure (albeit a very sparse
+form), maybe it is just as foreshadowing, but i do not think it is a
+coincidence that the next story arc Nada shows up in is also monsieur
+Loki's debut. It is obvious that this idea isn't fully formed, and i
+don't have access to my library right now (all in cardboard boxes
+-just moved) but i think this should be at least pondered.
+(thus writes oshinsky@webspan.net)
 
 Page 2 panel 1:  It is impossible for tale to only be told once as described in
 this issue, because attrition would eventually cause it to be lost, as people
@@ -85,8 +83,21 @@ Page 16 panel 2:  Dream does not care about virginity; this sounds to me too
 much like a 20th century character speaking.
 
 Page 24 panel 1-2:  So what could be the differences in the women's story?
+JBird66680@aol.com says:
+<CITE>I always thought that it had something to do with the fact that
+she refused dream three times, but the men thought it was because of
+her sense of duty.<BR> 
+Perhaps the women felt that she really refused him and didn't give in,
+but was raped by Dream, then killed herself. Maybe the women would
+realize that the reality behind the story would not be so romantic as
+the tale that the men idealized, because their [the women's] own
+reality would be less of a fairy tale [with the hardships of marriage
+and childbirth and caring for the family] than the fantasies that the
+men embraced. but anyway, i always thought rape would be the major
+difference between the stories.</CITE>
 
 Contributors:
+    Originally written by Greg Morrow
 	William Sherman and Mike Fessler (mikef@brownvm.brown.edu) commented on
 the traditional nature of this story.
 	Michael A. Stoodt (stoodt@cis.umassd.edu), and others, confirmed the
@@ -95,3 +106,5 @@ contents of _The Doll's House_.
 off pretty well in this story, but in the women's story is portrayed as a real
 bastard.  I was under the impression that Dream was a bastard in the men's
 story....
+   Joanna <JBird66680@aol.com> -- for the women's story     
+   Ralf Hildebrandt added more details

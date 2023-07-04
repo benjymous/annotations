@@ -1,25 +1,11 @@
                           The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
                 Issue 19:  "A Midsummer Night's Dream"
                      Neil Gaiman and Charles Vess
 
                Third story in anthology _Dream Country_
         Third story reprinted in trade paperback _Dream Country_
      Winner of 1991 World Fantasy Award in the short story category
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Note:  Charles Vess illustrated the text of the original play in a Starblaze
 edition that may still be available.
@@ -115,10 +101,18 @@ it would appear that someone is practicing lines from Act II scene 1.
 Page 4 panel 6, page 5 panel 1-3:  Who is Wendel, and why is he an outline on
 an earthen mound?
 
+<toth@puli.bke.hu> says:
+  "Wendel is a Celtic god and smith related to Wayland.  There is an actual mound
+  in England called "Wendel's Mound". I believe there may also be story about him
+  in one of Rudyard Kipling's "Puck" books, which would be appropriate given the
+  context."
+
 Page 6 panel 1:  Auberon and Titania are also characters in the play; Dream is
 showing the rulers of Faerie a play about the rulers of the fairies.
-Dom-Daniel is unknown.  Shaper is a literal translation of Dream's Latin title
-Morpheus.
+In The Sword and the Stone by T. H. White Dom-Daniel is a college under
+the sea where both Merlin and Morgana learned magic.  Shaper is a literal 
+translation of Dream's Latin title Morpheus.
+
 	Panel 2:  This is Puck, who also has a representation in the play.
 Robin Goodfellow is another of his names.  King of the Riddle-Realms is an
 appellation of Dream, probably referring to the puzzling nature of dream
@@ -150,6 +144,8 @@ wedges, and is a carpenter, while the bottom in Nick Bottom refers to the reel
 on which thread is wound.  Bottom is a major character in the play; he is
 played by Will Kemp whom we saw earlier trying to enhance his role.  That's
 irony for you; Kemp is acting as Bottom would.
+"Pyramus and Thisbe" is the Italian poem which Romeo and Juliet is based on.
+
 	Panel 4:  Act I Scene 2 lines 47-50.  Flute, the bellows-maker, will
 play the heroine.  Although it was conventional that men and boys play female
 roles, it was still a subject of some jest, enough so that we can understand
@@ -170,10 +166,11 @@ sources was _The Golden Ass_ by Apuleius, also the "Knight's Tale" by Chaucer.
 In addition, the following were useful:  Ovid's _Metamorphoses_, _Huon of
 Bordeaux_ (which has a similar characterization of Oberon), Reginald Scot's
 _The Discoverie of Witchcraft_ (had tales of fairy lore, especially stories of
-Robin Goodfellow), Spenser's _Shepheardes Calender_, Jorge de Montemayor's
-_Diana Enamorada_, several plays by Seneca and several by John Lyly (plus his
-novels, _Euphues_ and _Euphues and His England_), and Plutarch's "Life of
-Theseus."
+Robin Goodfellow), Spenser's _Shepheardes Calender_ (which is not a
+misspelling), Jorge de Montemayor's _Diana Enamorada_, several plays by Seneca
+and several by John Lyly (plus his novels, _Euphues_ and _Euphues and His
+England_), and Plutarch's "Life of Theseus."
+
 	Panel 6:  Act II Scene 1 lines 60-64.  Note the different spelling of
 Oberon.  Oberon and Titania are quarreling over the possession of the young
 boy to the right (played by Hamnet).
@@ -186,6 +183,11 @@ of the child whose role he plays?
 	Panel 4:  This arrangement was, of course, hinted at in _Sandman_ #13.
 	Panel 5:  Titania has summarized the action of the play thus far
 accurately.
+                  Note "consort" rather than "king" or "husband". I am 
+uncertain if Titania was supposed to be *married* to Oberon, but Oberon *was* 
+supposed to have had affairs outside the union. "Consort", then, would be 
+the more accurate description.
+
         Panel 6:  Act II Scene 1 lines 179-182.
 
 Page 12 panel 1:  Act II Scene 2 line 84-87.  Demetrius and Helena.
@@ -303,6 +305,7 @@ himself in London he sent for his wife and children, Hamnet became ill in
 London and was returned to Stratford to die.
 
 Contributors include:
+    Originally written by Greg Morrow
 	Rick Jones <albert@crick.ssctr.bcm.tmc.edu>, Jim W Lai
 <jwtlai@watcgl.waterloo.edu>, David Goldfarb (goldfarb@ocf.berkeley.edu),
 Michael G McKeller (mgq@inel.gov), and Doug Atkinson (douga@yang.earlham.edu)
@@ -327,3 +330,5 @@ M.M. Reese, _Shakespeare: His World and Work_ (London: E. Arnold, 1953) and
 Charles Boyce, _Shakespeare A to Z_ (New York: Facts on File, 1990).
 	Ian Lance Taylor (ian@airs.com) did some research into the order of
 Shakespeare's early plays.
+   <toth@puli.bke.hu> provided more info on Wendel
+   Ralf Hildebrandt added more details

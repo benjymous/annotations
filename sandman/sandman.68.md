@@ -1,22 +1,8 @@
                              The Annotated Sandman
 
-                Edited and largely written by David Goldfarb
-
                       Issue 68: "The Kindly Ones: 12" 
 
                   Neil Gaiman, Marc Hempel, Richard Case
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 1 panel 2: Notice that Daniel is playing with Barbie's old toys from
 "A Game of You": Luz, Wilkinson, and Martin Tenbones.
@@ -76,12 +62,10 @@ Sir Robert Bruce Cotton_.
 Page 24 panels 1-6: This sequence echoes a similar filmstrip-like one
 in "The Doll's House" part 2 (11:16-17).
 
-Release History:
-Version 1.0 released 3 July 95.
-
 Credits:
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 Annotations.
+       Originally written by David Goldfarb
 	Katie Schwarz (katie@physics.berkeley.edu) pointed out the echo in
 Matthew's flight on page 24, and noted Mary Gentian's appearances.
 	Philippe Crocy (crocy@ens.ens.fr) pointed out the echo of Remiel's

@@ -1,26 +1,13 @@
                           The Annotated Sandman
 
-                Edited and largely written by Greg Morrow
-
                        Issue 12:  "Playing House"
             Neil Gaiman, Chris Bachalo, and Malcolm Jones III
 
               Third part of long storyline _The Doll's House_
         Fifth story reprinted in trade paperback _The Doll's House_
 
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
-
 Page 1 panel 1:  Lyta Hall.  See previous annotations.
+
         Panel 3:  The images here are much clearer in the original comic than
 in the trade paperback reprint.  Images on the tv screens include the smiley
 face button from "Watchmen"; the Beatles, from the cover of their second album,
@@ -34,16 +21,20 @@ to the right of the skull, a miniature of this very panel; Mount Rushmore;  an
 unidentified face, possibly one of the artists;  an unidentified figure with a
 knife or sword, possibly on the moon (note craters?); an atomic explosion;
 Batman, with a giant "Ha Ha" behind, possibly from the tv series.
+
         Panel 4:  The buttocks and upper thighs of a woman wearing lingerie; a
 stegosaurus; Albert Einstein; Groo the Wanderer (from the comic book); an
 op-art piece; the Statue of Liberty; Friedrich Nietzche; Sigmund Freud; Neil
 Gaiman (no, it's not Ric Ocasek); an unidentified hand and arm; an unidentified
 woman; Judge Dredd (from the English comic book); another unidentified person;
 a possibly Satanic figure.
-	Panel 6:  An unidentified eye; an unidentified person; a prehistoric
-Goddess figure (upside down); Tom Baker as Dr. Who (from the English television
-series); an unidentified face (below Baker); a Joker playing card (particularly
-resembling the Batman villain).
+Hand and arm remind vaguely of detail in Picasso's _Guernica_.
+
+	Panel 6:  An unidentified eye; an unidentified person; Despair (upside
+down); Tom Baker as Dr. Who (from the English television series); an
+unidentified face (below Baker); a Joker playing card (particularly resembling
+the Batman villain). To Joker's right, zoom-out of someone performing fellatio
+as seen in panel 3.
 
 Page 2 panel 1:  Hector (Sandman) Hall and Brute and Glob.  See previous
 annotations.
@@ -91,7 +82,7 @@ victims.
 Page 12 panels 4-5:  If you squint really hard, the wall reads "Who Watches the
 Watchmen?", which was the tagline for Alan Moore's and Dave Gibbons's
 _Watchmen_ series, an extremely important series about superhumans and the Cold
-War.
+War.  This phrase was originally coined by Platon.
 
 Page 13 panel 3:  The Corinthian has hungry eyes.  What's going on here will
 become more clear later.
@@ -100,8 +91,14 @@ Page 16 panel 4:  I believe that the ultra-sonic whistle was in fact a weapon
 of the original 1970s Sandman.  Hey, it was Kirby.  You want sense, read a
 newspaper.  You want thunder and fury, read Kirby.
 
-Page 19 panel 3:  It's not really clear here, but this is the tragic and
+Page 19 panel 2: Is it the door reversely put, compared to previous
+panels or is it my idea?! 
+
+        panel 3:  It's not really clear here, but this is the tragic and
 lamentable death of Barnaby and Clarice.
+
+Page 20 panel 9:  Note that Jed is younger, like he is in his dreams
+(see Issue #11). 
 
 Page 21 panel 4:  Hippolyta:  When Fury was the daughter of the original Wonder
 Woman, being named for the queen of the Amazons made sense.  Post-Crisis, of
@@ -113,6 +110,7 @@ wandering around totally screwing up causality, and both Jed and the Corinthian
 are directly linked to her.
 
 Contributors include:
+        Originally written by Greg Morrow
 	William Sherman (sherman@oak.math.ucla.edu) reminded me to look at the
 screens on page 1 and identified most of them.  Shannon D. Appel
 (appel@soda.Berkeley.EDU) also helped.  William also saw the graffiti on page
@@ -136,5 +134,6 @@ album chronology, fully explicated here:
     Beatles was their second British album.  The two albums share the same
     covers, but the tracks do not match exactly.
 
-	Ed (The Anti-Dave) (Dave Stobbe <dave.stobbe@canrem.com>) explained the
+        Ed (The Anti-Dave) (Dave Stobbe <dave.stobbe@canrem.com>) explained the
 metaphorical significance of a Dutch Uncle.
+        Ralf Hildebrandt added more details

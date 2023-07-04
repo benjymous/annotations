@@ -1,19 +1,7 @@
                          The Annotated Sandman
-    
-               Edited and largely written by Greg Morrow
       
                        Issue 45: Brief Lives Five
               Neil Gaiman, Jill Thompson, and Vince Locke
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  Additional
-material in this series is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Reproduction in any form without 
-permission of the editor (as agent for the contributors) is forbidden.
 
 Notes:  See #41.  For references on Ishtar and Ancient Near Eastern rites,
 consult the appendix.  This issue, the middle one of the arc, has many
@@ -148,11 +136,8 @@ get caught up in the struggles of more powerful beings, and were otherwise
 innocent.
 	Panel 4:  Contrast this ">snf<" with page 7.
 
-Release history:              
-Version 1.0 released 22 May 93
-Version 2.0 released and archived 16 August 93
-
 Contributors include:
+    Originally written by Greg Morrow
 	Lance Smith (lsmith@mega.cs.umn.edu) spotted a rude gesture and
 Tiffany's coke use, pointed out the congruence of Del's and Dream's 
 interactions with mortals and identified songs.
@@ -329,3 +314,4 @@ I will say that one worshipped both Hathor *and* Asherah by watching their
 priestesses perform, and they were dancers, singers and musicians. They
 didn't strip, but it was as racy as they got, so that criticism I can't
 buy.
+

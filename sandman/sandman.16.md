@@ -1,24 +1,10 @@
                           The Annotated Sandman
-
-               Edited and largely written by Greg Morrow
-
+						  
                          Issue 16:  "Lost Hearts"
            Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
              Seventh part of long storyline _The Doll's House_
        Ninth story reprinted in trade paperback _The Doll's House_
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 4 panel 6:  An unusual case of anthropomorphism, for a _place_ to become a
 _person_.
@@ -29,9 +15,9 @@ contradicts Lucien's assumption, issue ten page 14, that the vortex was an
 	Panel 5:  I suppose I should start keeping a "Canonical list of Sandman
 danglers".  This would obviously be one.
 
-Page 9 panel 5:  We need not worry that Fiddler's Green was the historical G.K.
-Chesterton, as here he says he was not even a "very good _copy_ of a human"
-[emphasis his].
+Page 9 panel 5:  We need not worry that Fiddler's Green was the historical
+Gilbert Keith Chesterton (born 29 May 1874 in Kensington), as here he says he
+was not even a "very good _copy_ of a human" [emphasis his].
 
 Page 13 panel 2:  Dream is not very bright, indeed.  He has great knowledge,
 born of age and, perhaps, his status, but he is not even as capable of insight
@@ -41,9 +27,12 @@ Page 17 Panel 3:  That's an Iggy Pop CD on the bottom of the panel, _The
 Idiot_.  Neil mentions that Lou Reed's _Berlin_ didn't make it into the panel.
 	Panel 4-5:  Barbie's life will be more fully explored in a later
 storyline.
-	Panel 6:  Two books have readable titles:  _Empire of the Senseless_
-and _Sleeping in Flame_.  "Sleeping in Flame" is by Jonathon Carroll, an
-American writer often writing from Vienna who writes surreal, fantastic, and
+	Panel 6:  Two books have readable titles:  <A
+HREF="http://www.amazon.de/exec/obidos/ASIN/0802131794">Empire of the
+Senseless</A> and <A
+HREF="http://www.amazon.de/exec/obidos/ASIN/0679727779">Sleeping in
+Flame</A>.  "Sleeping in Flame" is by Jonathon Carroll, an American
+writer often writing from Vienna who writes surreal, fantastic, and 
 often horrific fiction.  This particular book is a modern retelling of the
 Rumpleskiltskin fairy tale.  Carroll has a reputation for using dreams or
 fictions becoming reality, and it is rumored that Neil Gaiman had to rework the
@@ -86,6 +75,7 @@ Page 23 panel 4:  Delirium is the name of the Endless whose sigil is the swirly
 one to the right of Despair's on issue 10 page 4.
 
 Contributors include:
+    Originally written by Greg Morrow
 	Col. G. L. Sicherman (gls@cbnewsh.cb.att.com) defined "set."
 	David Goldfarb (goldfarb@ocf.berkeley.edu), Viktor Haag
 <vehaag@crocus.waterloo.edu>, and Jim W Lai (jwtlai@watcgl.waterloo.edu)
@@ -94,3 +84,4 @@ combined to identify Rose's reading material.
 material in Rose's room.
 	David Goldfarb (goldfarb@ocf.berkeley.edu) speculated on the nature of
 an Endless disaster.
+   Ralf Hildebrandt added more details

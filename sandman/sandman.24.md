@@ -1,7 +1,5 @@
                          The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
                                 Issue 24
             Neil Gaiman, Kelley Jones, and P. Craig Russell
 
@@ -11,18 +9,6 @@
             and the Dream Lord receives unwelcome visitors.
 
                   Not yet reprinted in any other form
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Note:  I have a bootleg copy of the script for this issue; I'll be
 interpolating notes from it as I did for _Sandman_ #17.
@@ -36,7 +22,10 @@ Marvel's _The Mighty Thor_, and his unique style was most certainly not
 traditionally Norse.)
 	Odin himself is described as a tall, pale Lee Van Cleef.
 	Panel 1:  Norse mythology in a bottlecap:  Odin is king of the gods, or
-Aesir.  They all dwell in Asgard (Aesir-guard).  Odin's personal hall is named
+Aesir.  They all dwell in Asgard (city of Aesir, gard is a fence around
+something, and the word came to mean the thing enclosed by
+the fence, a city. (Gar\360ur is a modern Icelandic word meaning garden, a
+thing defined by it's fences ;-)).  Odin's personal hall is named
 Gladsheim (-heim = home, pronounced with a long `a' sound in Icelandic).  Odin
 is attended by two wolves.  The script calls for the wolves' eyes to be green,
 though they were printed red.  Odin traded one eye to Mimir for a drink from
@@ -115,9 +104,10 @@ writer writes Order and Chaos in different and incompatible ways.  (The major
 portion of the mythology of Order and Chaos was established by Martin Pasko in
 Dr. Fate, then completely abrogated by JM deMatteis.  Barbara Kesel, Keith
 Giffen, Paul Kupperburg, William Messner-Loebs, and Grant Morrison have also c
-ontributed in comics.  Michael Moorcock, the fantasy writer, may have been the
-originator of the concept, or he may merely have greatly influenced the comic
-writers.)  The script suggests blurred photocopies of fractal images for panels
+ontributed in comics.  
+DC's Lords of Order and Chaos go back to More Fun Comics#55 (first
+appearance of Doctor Fate). 
+The script suggests blurred photocopies of fractal images for panels
 representing Chaos, which I don't think Kelley used.  We may note, however,
 that Chaos appears to be Order as seen through a funhouse mirror.
 
@@ -158,11 +148,15 @@ three rules of Hell.  We saw him earlier in _Sandman_ #4.
 	Panel 4:  Daemon is just another word for demon.  Gaiman suggests Joel
 Peter Witkin for the feel of the congregation of nasties.
 
-Page 17 panel 2:  No reference for the Merkin, mother of spiders.  Gaiman
-recommends Witkin's "Amour" as a source.
+Page 17 panel 2:  Merkin, mother of spiders: Merkin \Mer"kin\, n. Originally, a wig; 
+afterwards, a mop for cleaning cannon. 
+According to several of my friends, independently, (although I've never found a 
+dictionary that backs this up) a "merkin" is a specific type of wig applied to 
+a part of the female anatomy that's usually not visible...
+Gaiman recommends Witkin's "Amour" as a source.
 	Panel 3:  We saw Choronzon once before, in _Sandman_ #4.  He held
 Dream's helmet, and was bested in a game of reality.
-	Panel 5:  Nada was seen in _Sandman_ ##4, 9; she is an erstwhile lover
+	Panel 5:  Nada was seen in _Sandman_ #4, 9; she is an erstwhile lover
 of Dream, whom he cruelly imprisoned in Hell.
 
 Page 18 panel 1:  In _Sandman_ #22, page 22, we saw Dream's castle in the sea;
@@ -232,6 +226,7 @@ not a previously known Lord of Order.
 known Lord of Chaos.
 
 Contributors include:
+    Originally written by Greg Morrow
 	Lord Drizzan <STU_GLMCELHA@VAX1.ACS.JMU.EDU> points out references for
 Order and Chaos and the Silver City.
 	Bill "Mr. Peabody's Boy" Sherman <sherman@math.ucla.edu> names the
@@ -271,3 +266,6 @@ Order and Chaos, and a quote about Loki:
     of trickery. He was a cunning negotiator with a talent for technicalities.
     He was sort of the Norse equivalent of a lawyer, no doubt the reason
     they tied him down in a pit dripping acidic venom on him." --Martin Terman
+
+    Kull29@aol.com for the bit about the Lords of Order and Chaos!
+	Ralf Hildebrandt added more details

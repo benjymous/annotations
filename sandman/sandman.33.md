@@ -1,44 +1,67 @@
                          The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
                   Issue 33:  "Lullabies of Broadway"
                      Neil Gaiman and Shawn McManus
 
                Second part of storyline _A Game of You_
                   Not yet reprinted in any other form
 
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
-
 Title:  _A Game of You_ clearly refers to the question of identity.  Who and
 what the characters in this story are is a question either to the readers or to
 the character him, her, or itself, and that is the most important theme the
 reader should keep in mind when reading this story.
-	The title of this chapter refers to the song "The Lullaby of Broadway",
-probably by Cole Porter, from the Broadway musical "Broadway Melody of 19??".
-Can someone please provide more authoritarian notes?
+	The title of this chapter refers to the song "Lullaby of Broadway"
+the big production Number in Busby Berkeley's "Gold Diggers of 1935", it was
+written by Harry Warren and Al Dubin.
+
+The lyrics are:
+Come on alomg and listen to
+The Lullaby of Broadway.
+The hip Hooray and Ballyhoo
+The Lullaby of Broadway
+The rumble of a subway train,
+The rattle of the taxis
+The daffidyls, who entertain
+At Angelo's and Maxie's.
+When a Broadway Baby sais Good Night,
+It's early in the morning.
+Manhatten Babies don't sleep thight
+Until the Dawn.
+Good night, Baby Good night,
+Milkman's on his way
+Sleep thight, Baby, Sleep thight,
+Let's call it a day
+
+The plot of that number is:
+At first we see a black screen, with a small white point.
+the camera zooms on it, it developes to the face of the singer Winnie 
+Shaw, when her faces fills the whole screen, it becomes shot of
+Manhattan at Night, in the Middle the Broadway. A clock shows us
+the time it's a bout 6:40 am, every body rushes to work, Winnie Shaw
+and Dick Powell (leading man of the picture) are coming to her home,
+they wear evening dress, he says good-bye, she's going to her flat
+feeds her cat with milk and goes to bed at 6.45 am. The wakes up at 
+6.45 pm, dresses and joins Dick Powell in a gigantic nightclub, 
+where about 150 dancers (could be more, I counted them only on a
+still that does not show the whole set) entertain them with their
+tap-dancing. After that Powell and Shaw are dancing, then Shaw fells
+accidentally out of the window, at 6.45 am nobody's there to feed the cat.
+We see Manhattan, it turns back to Shaws face, and she finishes the
+song, while her faces becomes a white point on the screen again.
 
 Page 1 panel 6:  Note that Hazel's appearance has "softened" greatly since the
 previous issue.
 
-Page 2 panel 1:  Note the checkerboard pattern along the top of Barbie's walls.
+Page 2 panel 1:  Note the checkerboard pattern along the top of Barbie's walls:
+yet another reference to a game/games.
 
 Page 3 panel 4:  Hazel works in a restaurant or something; we find out later
 that she's "a chef", which suggests something on a higher plane than
 McDonald's.
 	Panel 9:  Note for people who really should know better:  Hazel is
 wrong, and having sex while standing up is not an effective method of birth
-control.
+control. Odd that a lesbian, who lives in the bad parts of New York, doesn't
+know about proper contraception.
 
 Page 4 panel 2:  Women who live together, or close to each other, often have
 synchronal menstrual periods, due to pheromones.
@@ -73,14 +96,19 @@ balls, without being formed into balls.  The "wool" does not refer to sheep's
 wool, but instead to the state of the fibers, much as in "steel wool".
 	Note that "Wundawool" makes a reappearance in _Sandman_ #36, an
 additional clue to the parallel structure of chapters in the story.
+Why would anyone want to use "wool" that came in different flavours???
+It's not like anyone would want to taste it, or anything. Perhaps 
+Barbie's mind is wandering?
+
 	Panel 6:  Barbie is slipping into the Dreaming for the first time in
 two years.
 
 Page 7 panel 1:  Nuala was introduced in _Season of Mists_.  She is an elf-maid
 given Dream by the rulers of Faerie.
-	Panel 3-5:  The talk show host is David Letterman, who is noted for
+       panel 2-5: Note the borders of these panels.
+       Panel 3-5: The talk show host is David Letterman, who is noted for
 having a gap between his front teeth (and really bad hair).
-	Panel 5:  Another facet of the Game of Barbie.
+       Panel 5:  Another facet of the Game of Barbie.
 
 Page 8:  This sequence is said to be reminiscent of the wardrobe which
 transports the children to Narnia in _The Lion, the Witch, and the Wardrobe_.
@@ -95,8 +123,21 @@ chest with lighter]--there isn't anything."  Now compare this will George's
 actions on the next page.
 	The title of _The Long Goodbye_ may also be echoed in the end of this
 storyline.
+      
+       panel 3: Claudia, the "young girl" vampire in Anne Rice's "Interview 
+with a Vampire", also used to brush her hair 100 times.
+
+iphigenia notices:
+
+Interview With the Vampire was first published in 1976, long before Game of 
+You. The 100-strokes thing is not unusual at all; it's a time honored beauty 
+technique for improving the condition of one's hair. Note, however, that 
+it's now considered detrimental as it causes quite a bit of stress to the 
+hair and overstimulates oil production in the scalp.
 
 Page 10-11:  We still don't know what George is, but he's weird for sure.
+George apparently doesn't have any nipples; is this a drawing oversight,
+or is George really not human?
 This sequence, particularly the use of the utility knife in stripping away the
 surface disguise, is reminiscent of scenes in the movies _Terminator_ and
 _Terminator 2_, where the eponymous androids reveal their metallic
@@ -121,9 +162,10 @@ that Alvin is afraid to go through the final stage of becoming Wanda.
 	Panel 3:  The remark about innocence is most likely a misphrasing of
 the old saw "Ignorance of the law is no excuse."
 
-Page 14-15:  I have no idea what Hazel's dream means.  Obviously, it comes from
-her anxiety over her pregnancy, but I don't see any source for the images.  The
-dead child may be related to a fear of abortions, but this is not clear.
+Page 14-15:  Possible interpretation of Hazel's dream: Hazel wants her baby to 
+also be Fox's "baby" - she wants Fox to accept the baby as her own & help look
+after it with Hazel. But Hazel is scared that her baby will really drive
+Fox away from her ("devour" her), ruining their friendship.
 
 Page 16 panel 1:  "Foxglove sleeps without dreaming":  But immediately starts
 dreaming.  This is obviously due to the influence of the cuckoo, but is still a
@@ -155,6 +197,7 @@ her as there is about George.
 Page 19 panel 5:  Note the light from the fire in her hands casts shadows and
 changes the coloring of Thessaly's fire.  It is unlikely, IMHO, that the blond
 hair and blackened hands reveal anything in particular about her.
+Panel 6:  Apparently, George has been hurt by the death of one of "his" birds.
 
 Page 21 panel 1:  Note Luz's gender.  "Luz" is Spanish for light, and is
 grammatically feminine.  Also note that Princess Barbara talks in the
@@ -164,10 +207,8 @@ Page 23 panel 1:  Wilkinson sounds just like Martin Tenbones did on page 3 of
 the previous issue, doesn't he?  Note that the issue is only 23 pages, probably
 because the previous one ran a page over.
 
-Release history:
-Version 2.0 released 1 Nov 92 archived
-
 Contributors include:
+    Originally written by Greg Morrow
 	Mark Biggar (mab%wdl39@wdl1.wdl.loral.com) explained the Rabbit Test,
 using an episode of M*A*S*H for reference!
 	Jeffrey Hitchin (jhitch@crash.cts.com) also explained the rabbit test.
@@ -185,3 +226,4 @@ wondered about the color of Foxglove's nipples, noted Judy's clothing,
 	The Colonel, G.L. Sicherman, (gls@windmill.att.com) also identified
 cotton wool, referenced _The Long Goodbye_, explained the innocence remark, and
 speculated about the origin of Luz's gender.
+	Ralf Hildebrandt added more details

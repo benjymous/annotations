@@ -1,22 +1,8 @@
                              The Annotated Sandman
 
-                Edited and largely written by David Goldfarb
-
                       Issue 66:  "The Kindly Ones: 10"
 
                   Neil Gaiman, Marc Hempel, Richard Case
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 1 panel 1: Snap!
        panel 7: Puck is quoting Yeats' "The Second Coming". Strictly 
@@ -64,8 +50,19 @@ Yeats.
 Page 12 panel 5: "Wonderer"? The word used by Shakespeare (in _A Midsummer
 Night's Dream_) is "wanderer"...
 
-Page 14 panel 1: The usual collective noun for ravens is not "murder" but
-"unkindness". Perhaps a "murder" is a very great "unkindness".
+Page 13: Puck mentions the phrase "jot nor tittle."  This is a Biblical
+reference, from Matthew 5:18 -- "For verily I say unto you, Till heaven and
+earth pass, one jot or one tittle shall in no wise pass from the law, till all
+be fulfilled."  This is one of Jesus' beatitudes; he is saying that although he
+has a new interpretation of the Old Testament, that he will not change any of the
+text.
+"Jot"s and "tittles" are the smallest marks in writing; our word "iota" comes
+from the same source. Of course, Jesus then goes on to rearrange lots of jots
+and tittles in the Old Testament, but that's another story.
+(If you didn't know, the beatitudes are those lines that start with "Blessed
+are the ..., for they ... .")
+
+Page 14 panel 1: "murder" is the collective noun for crows.
         panel 2: These two have appeared twice before: once in the last
 part of "Brief Lives" (49:14:1) and once in 58:18:3-5. The rabbit was
 named Ruthven; we know nothing else about them.
@@ -111,17 +108,15 @@ with an online OED care to send them again?
 well-known, has a song called "Cornflakes Girl" on her album "Under the Pink".
         panel 4: Note the handwriting on the list of words: the word "sinople"
 is identical to that on Delirium's slip of paper.
-        panel 5: Is "Marks and Sparks" a real store or a variation on "Marks
-and Spencer"?
+        panel 5: "Marks and Sparks" is a common nickname for "Marks and 
+Spencer".
 
 Page 24 panel 5: "Dirae": a Latin name for the Furies.
-
-Release History:
-Version 1.0 released 17 May 95.
 
 Credits:
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 Annotations.
+     Originally written by David Goldfarb
      Numerous people identified the song "Cornflakes Girl": Joe Brenner 
 (doom@kzsu.Stanford.EDU), Glenn Carnagey (lf7z@midway.uchicago.edu), 
 David W. James (vnend@princeton.edu), Bill Jennings (zenok13@uclink2.
@@ -129,3 +124,4 @@ berkeley.edu), Greg Primm (primm@ibm.net), Christina Schulman
 (schulman+@pitt.edu), and Eric Tsai (juvenile@leland.Stanford.EDU).
      Katie Schwarz (katie@physics.berkeley.edu) gave the precise reference
 on the "White Devil" quote.
+     Ralf Hildebrandt added more details

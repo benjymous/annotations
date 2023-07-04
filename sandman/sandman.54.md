@@ -1,23 +1,9 @@
                            The Annotated Sandman
 
-              Edited and largely written by David Goldfarb
-
                          Issue 54: "The Golden Boy"
        Neil Gaiman, Michael Allred, Bryan Talbot, Mark Buckingham
 
                   Fourth story in anthology, "Worlds' End"
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 2 panel 1: These are the Emperor, the Empress, and their Fool, from
 issue four of the "Books of Magic" miniseries.  Based on cards in the Tarot
@@ -34,6 +20,13 @@ Jerry Grandenetti's original _Prez_ series, Prez was a fool who managed
 to be simultaneously naive and paranoid. The series was a savage parody
 of the '60s youth movements, quite unlike Gaiman's portrayal of the
 character.
+           panel 3:
+"With all his heart and mind and soul..." This is reminiscent of Jesus'                               
+description of the greatest commandment: "Love the Lord with all your                                 
+heart, and all your mind, and all your strength." (Mark 12:30, Luke 10:27, 
+Matthew @22:37).
+This continues the religious theme in this issue.                                                     
+
            panel 4: The quote is from Kennedy's inaugural speech, given on
 January 20, 1961. Prez's birth would then be in 1954.
 
@@ -58,16 +51,22 @@ Page 8 panel 3: When Nixon's tape recordings of office conversations were
 transcribed for the Watergate hearings, the frequently-used swear words
 were all replaced with "[expletive deleted]".
 
-Page 9 panel 4: This panel is essentially the cover of _Prez_ #1. This would
+Page 9 panel 5: This panel is essentially the cover of _Prez_ #1. This would
 seem to be the 1972 election. The caption here is inconsistent with the one
 on 3:4; either this one should read "nineteenth" or that one should read 
 "seven".
+I think this panel is actually a reference to the
+various miracles performed by Jesus during His time on Earth. (E.g.
+giving sight to the blind, giving hearing to the deaf, curing disease,
+etc.)
 
 Page 10 panel 2: At this time in the real world, of course, the price of 
 gasoline, the federal deficit, and the national debt all skyrocketed.
         panel 3: "Samurai Deli" was a real sketch on "Saturday Night Live"; 
 in our world, Buck Henry was the host of that show.
         panel 4: In our world John Belushi died young of a drug overdose.
+        panel 7: The robot on the floor seems to be the same one on Prez' 
+                 bookshelf on page 7.
 
 Page 13 panel 3: Reportedly, President WIlliam McKinley, on being shot,
 said of his assassin, "Let no one hurt him."
@@ -108,25 +107,46 @@ Page 17 panels 1-3: This seems to be adapted from a Taoist story.
   two officials.
     Chuang Tzu said, "Go away! I'll drag my tail in the mud!"
 
+        panel 8: I seem to remember seeing a picture of Jesus standing 
+on a mountain-top, in a similar pose. That this panel might be a 
+reference to that picture is confirmed by Prez' beard & hair, which is 
+very similar to Roman Catholic pictures of Jesus.  
+
 Page 18 panel 3: Given all the smiley faces, this visual reference to _Watchmen_
 was surely inevitable.
+        panel 4: The assassin looks like Abraham Lincoln (or is wearing an Abe 
+mask). Lincoln was also shot & killed, but that was in a theatre, not outside. 
+Also, the blood coming out of Prez' body resembles the red & white stripes on the 
+US flag.
 
 Page 19 panel 5: As was mentioned in the "Orpheus" special, we all meet Death
 when we are born. 
+
+Page 20 panel 4: A reference to the "Blind Watchmaker" theory: just as the 
+existance of a watch implies the existance of a watchmaker, so does the 
+existance of complex human beings imply the existance of a divine Creator. 
+Again, continuing the religious overtones of this story.
+        panel 9: Note the smiley face over the gate.
 
 Page 21 panel 2: A reference to the parable of the talents; specifically 
 Matthew 25:21.
 
 Page 24 panel 1: Among the contents of the chest in 27:20:1 was a pocket watch.
 Perhaps the same one?
+        panel 5: "...and that this time he will not come to just one America, 
+but to all of them." An allusion to Jesus, perhaps, who was to become a saviour 
+to the *world*, and not just of *Israel*, as the Jews once thought.
+"Others say that he waits to be born once more..." (A little more
+uncertain, this one.) King Arthur is said to be waiting on the Isle of
+Avalon, to come again when Britain most needs him. Considering that
+Arthur lived in *Camelot*, might this be a tangential reference to the
+Kennedys (who are often referred to as living in Camelot)?
 
-Release history:
-Version 1.0 released 16 May 94.
-Version 2.0 released 30 May 94.
 
 Credits:
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 Annotations and forwarded much useful information about "Worlds' End".
+        Originally written by David Goldfarb
 	Lance "Squiddie" Smith (lsmith@cs.umn.edu) identified the posters,
 the Magic 8-Ball, the Aurora kits, the cover to _Prez_ #1, the "Samurai Deli"
 sketch, the hiking boots, and noted the pocket watch in Morpheus' chest.
@@ -135,3 +155,5 @@ assassination.
 	Curt Monash (fencer@panix.com) reported on the choice of Wildcat.
 	David Silberstein (DASBC@CUNYVM.BITNET) provided the excerpt from
 the writings of Chuang Tzu.
+        Timothy Hock Seng Tan <083285@bud.cc.swin.edu.au> really knows his way around the Bible.
+        Ralf Hildebrandt added more details

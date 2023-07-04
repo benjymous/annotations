@@ -1,22 +1,8 @@
                              The Annotated Sandman
 
-                Edited and largely written by David Goldfarb
-
                       Issue 67: "The Kindly Ones: 11"
 
                    Neil Gaiman, Marc Hempel, Richard Case
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Cover: Most of the things on this cover seem to be symbols of Delirium: the
 music-stand, very angular and linear, dissolving and twisting; the crayoned
@@ -97,13 +83,10 @@ were found in eagle's nests and were required for the hatching of their
 eggs. The main character in that story, Ric Madoc, wrote a novel with that
 title.
 
-Release History:
-
-Version 1.0 released 28 May 95.
-
 Credits:
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 Annotations.
+        Originally written by David Goldfarb
 	Katie Schwarz (katie@physics.berkeley.edu) referenced the creation 
 myth; Matthew F. Johnson (ac867@Freenet.carleton.ca) added detail.
 	"Raven" (pl11@cornell.edu) identified the crystal ball.

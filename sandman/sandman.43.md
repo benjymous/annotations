@@ -1,19 +1,7 @@
                          The Annotated Sandman
-    
-               Edited and largely written by Greg Morrow
       
                       Issue 43: Brief Lives Three
               Neil Gaiman, Jill Thompson, and Vince Locke
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  Additional
-material in this series is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Reproduction in any form without 
-permission of the editor (as agent for the contributors) is forbidden.
 
 Notes:  See #41.  The first two chapters in this issue are strongly
 demonstrative of the primary theme of "Brief Lives".  Chapter titles in
@@ -143,11 +131,6 @@ countries with normal driving laws, thus the left-side steering wheels.
 	Panel 6:  Change is also an important theme of Brief Lives; we see 
 that Del and Dream are changing.  Change is an aspect of Destruction's
 realm.
-
-Release history:              
-Version 1.0 released 15 May 93
-Version 1.1 released 15 May 93
-Version 2.0 released and archived 14 Aug 93
 
 Contributors include:
 	Lance Smith (lsmith@peca.cs.umn.edu) defined "capax", after Tanaqui

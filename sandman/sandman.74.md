@@ -1,23 +1,10 @@
-                             The Annotated Sandman
+                              The Annotated Sandman
 
-                Edited and largely written by David Goldfarb
+                                Issue 74: "Exiles"
 
-                              Issue 74: "Exiles"
+                            Neil Gaiman, Jon J Muth / Michael Zulli [??]
 
-                           Neil Gaiman, Jon J. Muth
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu.  This material is posted by 
-the editor directly to rec.arts.comics, and is licensed to appear on 
-Compu$erve, GEnie, and America On-Line.  It is also available via anonymous 
-ftp from theory.lcs.mit.edu in pub/people/wald/sandman.  Please contact the 
-editor if you see this material on any other forum.  Reproduction in any form 
-without permission of the editor (as agent for the contributors) is forbidden.
-
+This story is similar to #39, _Soft Places_.
 
 Cover:  The cover seems to have a lot in common with the "Vertigo Tarot" 
 images, in particular the Two of Cups.  It's got the dark, almost 
@@ -76,6 +63,10 @@ the bridge of dreams".  In that poem the bridge represents death or a vision
 of death.  Master Li has previously met with a Dream who is now dead; now
 he crosses to the realm of the one who lives.
 
+Page 19 panels 1-4: These horsemen were also seen in #39. However, these men
+appear to be Roman soldiers, whereas the Soft Places horsemen where dressed as
+Mongols.
+    
 Page 21 panel 4: "Tools can be the subtlest of traps" is quoted from the 
 text piece from the "Doll's House" collection.  Morpheus said he would
 never have thought of destroying his ruby (7:20.4); but this Dream, wiser,
@@ -84,15 +75,15 @@ knows from the start that someday he must dispense with his greatest tool.
 Page 23 panel 5:  Note that Master Li's cry when he wakes is the same syllable
 as the laughing mechanical sailor from page 17.
 
-Release History:
-Version 1.0 released 18 Jan 98.
-
 Credits:
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 Annotations.
+    Originally written by David Goldfarb
 	Anthony Rickey (pemb0004@sable.ox.ac.uk) referenced the bridge 
 of dreams.
 	Jerry Lee (wrenstar@leland.Stanford.EDU) commented on the Chinese on
 the cover.
 	Ian McDowell (ikmcdowe@hamlet.uncg.edu) reported on Gaiman and the 
 kitten.
+    Ralf Hildebrandt added the observation on page 19, and the connection
+with #39

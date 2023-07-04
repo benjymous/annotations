@@ -1,24 +1,10 @@
                          The Annotated Sandman
-    
-               Edited and largely written by Greg Morrow
       
                          Issue 38:  "The Hunt"
              Neil Gaiman, Duncan Eagleson, and Vince Locke
 
                 First story in anthology _Convergences_
                   Not yet reprinted in any other form
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you 
-see this material on any other forum.  Reproduction in any form without 
-permission of the editor (as agent for the contributors) is forbidden.
 
 Themes:  _Convergences_ is about storytelling, as is _Sandman_ overall.  In
 particular, _Convergences_ tells tales where the storyteller becomes the 
@@ -271,11 +257,8 @@ storyteller is right (and lit-crits be damned!)
 	Panel 6:  Another reference to value.  Note the grandfather's eyes
 are the same as Vassily's.  The storyteller becomes the story.
 
-Release history:             
-Version 1.0 released 13 Dec 92
-Version 2.0 released and archived 20 Mar 93
-
 Contributors include:
+    Originally written by Greg Morrow
 	Lance Smith (lsmith@cs.umn.edu) reported a vast database on Koshchei's 
 significance, noted some traditions about crossroads, imagined shapes in 
 a little girl's eye, agreed with me about ravens, noted changelings, cited

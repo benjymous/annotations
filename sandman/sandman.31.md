@@ -1,24 +1,10 @@
                          The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
               Issue 31:  "Three Septembers and a January"
                      Neil Gaiman and Shawn McManus
 
               Third story in anthology _Distant Mirrors_
                   Not yet reprinted in any other form
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Sources:  A note in _Sandman_ #31 indicates that the title of this anthology
 came from Barbara Tuchman's text _A Distant Mirror: The Calamitous 14th
@@ -62,8 +48,12 @@ other is by the caller's standing in a gallery in its domain and using a symbol
 Dream's sigil has been seen in the past to be his helmet.
 
 Page 2:  This is a splash panel.  Note Dream's period attire; Dream is the only
-Endless who seems to care about the appropriateness of his appearance.  Death
-is the only other Endless with any sense of costume, save, perhaps, Destiny.
+Endless who seems to care about the appropriateness of his appearance.
+(Except for Destruction, who we see in plate armor in the Orpheus special, and 
+in a "swashbuckler's" outfit in Brief Lives (amongst other places; don't have
+the exact reference)
+  Death is the only other Endless with any sense of costume, save, perhaps, 
+Destiny.
 	In the credit box, Gaiman takes the title PJF, probably meaning
 Pre-Joycean Fellowship.  This is a group whose membership primarily overlaps
 with that of the Scribblies, an sf/fantasy writers group located in
@@ -108,6 +98,13 @@ In panel two, note the lettering correction mark in "preemptory".  My
 dictionary lists "preemptive" and not "preemptory"; both would be incorrect.
 The probable original and correct word is "peremptory", meaning "dictatorial;
 with authority; not to be denied".
+From the [Emperor Norton Webpage](http://www.zpub.com/sf/history/nort.html):
+  At the pre-emptory request of a large majority of the citizens of these
+  United States, I Joshua Norton, formerly of Algoa Bay, Cape of Good Hope,
+  and now for the last nine years and ten months past of San Fransisco,
+  California, declare and proclaim myself the Emperor of These United States. 
+  - September 17, 1859
+
 	Panel 6:  In the mid-1800's, newspapers did not have to compete with
 television, and had also not undergone the homogenization that modern culture
 has seen.  (This, of course, is demeaning to and not representative of the many
@@ -119,6 +116,10 @@ bound to get people's attention.
 Norton himself, as made evident on the next page.
 
 Page 8 panel 3:  Grown-up:  An unusual concept to apply to the Endless.
+(BUT! : Death tells Dream that Delirium is "just a kid" in Brief
+Lives. Of course, this flies in the face of earlier destriptions of the
+Endless, most notably in The Season of Mists, where it is said "the
+Endless to not measure time like we do".)
 
 Page 9 panel 1:  The second September.  This is Samuel Langhorne Clemens
 (Nov 1835-1910, making him 28 at this time), who would one day become the
@@ -227,8 +228,14 @@ Macbeth-analog after slaying his lord is called the Cobweb Palace, and is
 surrounded by the Cobweb Forest.
 
 Page 16 panel 1:  The parrot is at least semi-intelligent.
+
 	Panel 3:  The Palace is full of cages.  Is this symbolic of the trap
 laid for Norton?  See also page 19 panel 2-3.
+The picture directly above the bar-keeper's head is similar to "Olympia"
+(Manet). It is, however, not an exact copy: the original "Olympia" has a negro
+maid standing behind her, whereas this one doesn't. I have know idea whether
+this is an anachronism.
+
 	Panel 4:  A hock is any white Rhine wine, from a variety called
 Hochheimer.  California's wine industry had not yet become important, although
 this could still be a local vintage; the Californian wine industry has evinced
@@ -240,7 +247,28 @@ _Synchronicity_.  Wolfsbane and aconite, as well as monkshood, are all names
 for the same plant.  Aconite is an analgesic in small doses, and a poison in
 larger ones.
 
-Page 19 panel 8:  A wonderful bit of wisdom.
+Page 19:
+
+Pain seems to be a regular character in the Vertigo universe. In the recent
+series "Mythos: The Final Tour" (I think?) He and his aide, Tacky
+Leatherette, are indeed main characters, and mention "not using the D-word,"
+after Desire's name is mentioned, not wanting to inspire her wrath. Desire
+does indeed later show up, proving that the endless will... jump series.
+(Note that Cain and Able do the same, in the DC/Vertigo series, "The House
+of Secrets" or somesuch. 
+
+Panel 2:  The King of Pain told those who bought the liniment he sold
+outside the Pacific Clinical Infirmary that if they covered their bodies with
+the ointment as he did, they would need no clothes. He himself wore a bright
+red union suit, a heavy velour robe, a ostrich-feathered plug hat, and a heavy
+sword; he was probably the most ornate personage in the San Francisco of his
+time.
+
+Page 19 panel 2: Another painting that is reminiscent of a real-life painting.
+Unfortunately, I can't remember which painting it is reminiscent of...
+(Again, I am uncertain whether the painting existed at this point in time.)
+
+panel 8:  A wonderful bit of wisdom.
 
 Page 21 panel 5:  The Kindly Ones are the Eumenides, or the Furies, an aspect
 of the three-in-one goddess, dedicated to revenge and punishment.  This is
@@ -299,10 +327,8 @@ generally meaningless in talking about the language's vocabulary) means
 	There may be a corresponding group of those who do only evil.
 	Panel 7:  See the appendix for obituaries of Joshua Norton.
 
-Release history:
-Version 2.0 Released and Archived 27 Sept 92
-
 Contributors include:
+    Originally written by Greg Morrow
 	Dascoser (dascoser.bbs@cybernet.cse.fau.edu) came up with Norton's
 obit from the Times, and gunthar@vax1.mankato.msus.edu did the same for the
 San Francisco Chronicle.
@@ -352,6 +378,7 @@ hock, and Tom O'Bedlam.
 	Pat Dorsey (PDORSEY@EAGLE.WESLEYAN.EDU) danced all around the origin of
 Tom O'Bedlam without quite getting it right, and pointed in the direction of
 Shakespeare.
+   Ralf Hildebrandt added more details
 
 Appendix:
 Herewith are appended some of the obituaries for Joshua Norton, well-beloved,
@@ -488,3 +515,17 @@ which bore this inscription neatly engraved:
                               Joshua A. Norton
                             Died January 8, 1880
                                Aged About 65
+
+
+Additional story of Emperor Norton I (<davisb@erol.com>)
+
+San Francisco in the 1880s had a fondness of lynch mobs.  At one point, 
+a rather large mob was moving towards Chinatown, with the goal of 
+burning it to the ground.
+
+Norton stood alone in the middle of the street, blocking the mob's path. 
+ He recited the Lord's Prayer.
+
+The mob broke up, without killing a single Chinese, or burning a single 
+house.
+

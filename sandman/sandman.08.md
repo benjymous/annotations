@@ -1,25 +1,11 @@
                           The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
 		    Issue 8:  "The Sound of Her Wings"
            Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
         Referred to by Gaiman as the epilogue to _More than Rubies_
             Eighth story reprinted in _Preludes and Nocturnes_
                First story reprinted in _The Doll's House_
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appeared on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you 
-see this material on any other forum.  Reproduction in any form without 
-permission of the editor (as agent for the contributors) is forbidden.
 
 Note:  _The Doll's House_ and _Sandman_ #8 both contain an introduction
 written by Neil Gaiman explaining the story thus far.  The introduction
@@ -64,7 +50,10 @@ that he is interested in writing a miniseries about these events after
 the main series is concluded.
 
 Intro, page 2, paragraph 4:  The information that the Order was embroiled in a
-scandal when Sykes and Cripps fled is new.
+scandal when Sykes and Cripps was also mentioned in Sandman                              
+#1,page 14, panel 3 which brings the newspaper com Roderick Burgess and                             
+Ethel Cripps and describes scandal, which envolves the suicide of the                               
+museum administrator, which we see in Sandman#1.
 
 Page 1 panel 1:  This scene occurs in Washington Square Park, in Greenwich
 Village, New York City.  Many specific details in the artwork confirm this.
@@ -82,6 +71,38 @@ are caps on the fountainheads.  Many people use the fountain in exactly the way
 Dream is.  Considering the lack of crowds, this scene is set on a weekday,
 or early in the morning.
 	Note the birds.  The linkage of Dream with birds is a common motif.
+
+Thus writes "Kai'Ckul" <oshinsky@webspan.net>:
+
+Firstly, I would like to say how terribly strange it was for me to be
+literally sitting in Washington Square Park, reading "The Sound Of Her
+Wings" for the first time. I realized it immediately, and it was one
+of those "weird shit" moments that Rose Walker always babbles on
+about. 
+My point, though, is that I found this story immediately interesting,
+Death in Washington Square Park, since i really dislike that place,
+since:  
+
+a) it is dirty 
+b) it is either very, very, crowded or very, very empty
+c) drug dealers lurk around every corner, and so the cops are always
+hassling everyone there 
+d) the fountain *never* works (even in the summer) and (most
+importantly) 
+e) to quote friend of mine: 'every time I go to Washington Square,
+someone dies.' 
+'no, really. it's either an O.D. or a heart attack or something, but every
+damn time I've been there (which is farily often, and accurate)
+there's been a corpse there waiting for me.'
+
+Anyway, the point is, Washington Square Park, which I tend to
+frequent, is a place where many Goths hang out, many of whom look much
+like Morpheus and Death or thier human counterparts, Robert Smith and
+Souixie Souix. It doesn't matter whether or not Morpheus or Death have
+wings, real or metaphorical, since they would if we were to suppose
+them to and wouldn't if we didn't. I'm rambling on, but inittially
+meant to say that Many people who look very much like the two hang
+there, death is always about, and no one seems to notice.
 
 Page 3 panel 6:  The young woman is Death, Dream's older sister.  Note that
 Death has subsequently been portrayed with a mark around one of her eyes.
@@ -134,12 +155,13 @@ civilization, which is implied, I believe, to have ended thousands of years ago.
 
 Page 13 panel 1:  Romany is the name of the Gypsies for themselves and for
 their language.
-	Panel 5:  Yid:  Yiddish is a Germanic language akin to Middle
-German.  It is spoken by a group of Jews of Germanic origin, in communities
-across central and southern Europe.  The Yiddish people were generally
-called Ashkenazim or Ashkenazic Jews to distinguish them from the Sephardim
-or Sephardic Jews, Mediterranean Jews of Spanish origin, expelled from
-Spain due to religious persecution in 1492.
+	Panel 5:  Yid:  Yiddish is the traditional lingua franca of the 
+Ashkenazic Jews, those who have ancestors that lived in Germany, Europe and 
+Slavic countries. Yiddish is the closest language to early German but is 
+written in Hebraic characters.
+The Yiddish people were generally called Ashkenazim or Ashkenazic Jews to 
+distinguish them from the Sephardim or Sephardic Jews, Mediterranean Jews of 
+Spanish origin, expelled from Spain due to religious persecution in 1492.
 	"Yid" means "Jew" in Yiddish.  It is a strong racial epithet,
 particularly when used in Europe by a Gentile.  The American equivalent is
 probably "kike".  Here, used by a Jew, "Yid" may be seen as self-
@@ -180,12 +202,15 @@ Hades, where the virtuous dwelt after death.  It may also refer to the
 Sumerian/Babylonian afterlife, which was dusty, dark, and sterile, according to
 Enkidu's vision in the "Epic of Gilgamesh".
 	Note the interesting characterization of Dream as more terrible 
-than Death. 
+than Death. Quite true, considering that Dream can make a person's life a
+living nightmare (c.f. Alex Burgess in #1, pp 38-40); whereas Death merely 
+takes people's lives.)
         "No one here gets out alive" is from a Doors song, "Five to One", from
 the album _Waiting for the Sun_ (1968).  It was also the title of Doors lead
 singer Jim Morrison's biography, by Jerry Hopkins and Daniel Sugarman, Warner
 Books, 1980.  Note that it may not be original with Morrison, as he was known
 to widely use literary sources in his writing.
+        panel 7:  
 
 Page 18 panel 5:  "Booful" is Eastender slang for "beautiful".  (Eastenders
 are from the East End of London.)  Aside from this, which may be a dialectical 
@@ -212,10 +237,8 @@ Dream's Greek manifestation is traditionally portrayed as having wings, but
 that we have no reason to think that this version of Dream does so, as one
 correspondent suggested.
 
-Release History:
-Version 3.1 Archived 25 April 93
-
 Contributors include:
+    Originally written by Greg Morrow
 	Peter Trei (ptrei@mitre.org) gave a long description of Washington 
 Square Park.  Tom White (twhite@mozart.amd.com), "Nikki"
 (ngustas@hamp.hampshirt.edu), and Connie Hirsch (fuzzy@athena.mit.edu) also
@@ -250,3 +273,7 @@ linkage between Dream and birds.
 	Nils Helge Kielland Brobakk <nilsbr@ifi.uio.no> pointed out the
 connection with #47, corrected some typos, asked for a transcription, and
 pointed out Harry's picture and puns on the comedian.
+    Timothy Tan aka TiTan <*> -M2001- <*> 083285@bud.cc.swin.edu.au
+	"Kai'Ckul" <oshinsky@webspan.net> wrote about Washington Square Park
+	Ralf Hildebrandt added many more details
+

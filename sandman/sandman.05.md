@@ -1,24 +1,11 @@
-                          The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
+                          The Annotated Sandman
 
 		         Issue 5:  "Passengers"
                Neil Gaiman, Sam Kieth, and Malcolm Jones III
 
              Fifth part of first storyline, _More than Rubies_
              Fifth story reprinted in _Preludes and Nocturnes_
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 1:  This is Arkham Asylum, which was referenced earlier.  "Funeral March
 for a Marionette" is the theme song to the show "Alfred Hitchcock Presents."
@@ -47,6 +34,8 @@ noose is not tight, but then he could not be hanging from the rope (as he
 clearly is on the previous page and in panel 1) with the rope as in panel 5.
 The shadows in panel 5 might show the rope attached to a fairly large hook
 on the back of Crane's straightjacket.
+He might have the rope going down his shirt and tied around his waist. 
+They did this in the movie "Heathers."                                                                                    
 	Panel 7:  The materioptikon was described in an earlier annotation.
 	Panel 9:  The Joker, a Batman villain, is Arkham's most famous inmate.
 
@@ -108,6 +97,45 @@ used Metropolis and Gotham as metaphors for New York City.  Frank Miller is on
 record as having said "Metropolis is New York in the daytime; Gotham City is
 New York at night."  It is conceivable, however, that both exist in fictional
 Gotham and Metropolis States, much as Duckburg is located in Calisota.
+
+Perhaps his intention was to imply that Batman worked in NYC without actually
+saying so. I don't know if this is reflected in DC continuity, although
+occasional references do show up. (In the movie _Batman Forever_,
+there's a familiar-looking statue in Gotham Harbour, for example.)
+Whatever, if we assume that "Gotham" in the DC universe is the result of
+a global-search-and-replace for "New York", then "upstate Gotham" makes
+perfect sense.
+
+<Kull29@aol.com> says:
+
+Actually, Gotham was not where the first Batman stories were set. In 
+Detective Comics#31, a caption reads "Through the dark of a New York night". 
+(This shows the influence of the Shadow stories by Walter Gibsonon the 
+Batman; the Shadow stories were set in New York.) By 1941 at least 
+(Batman#4), though, the words "Gotham City" were in use. (Actually, 
+Overstreet list Wow Comics#1, from Fawcett, as the first comic book mention 
+of the word "Gotham".)
+    Gotham, as noted, is in real life a nickname for New York. As a guess, 
+I'd say that the switch from New York to a fictional Gotham City was a case 
+of mistaken evolution. I think what might have happened was that Bill Finger, 
+who wrote the early Batman stories, was something of an intellectual by all 
+accounts. He probably used the word Gotham in his captions as a poetic 
+synonym for New York a couple of times. Less educated writers, referencing 
+Finger's work, probably picked up on these captions, but probably did not 
+know what the word Gotham meant. They thus only used the word Gotham as the 
+name of the setting of the Batman stories. Finally, all association with New 
+York had been forgotten.
+    (A similar story may account for how Superman, whose first stories were 
+set in Cleveland (!), ended up living in Metropolis. [Metropolis is a synonym 
+for city, but later writers probably did not know that. Actually, these 
+changes of artists and writers probably account for many Golden Age comic 
+book continuity mistakes.  As an example, Lex Luthor was originally not bald; 
+he had red hair. It wasn't until about Superman#10 that he was depicted as 
+bald. What happended was that in Superman#4, there was a story where Luthor 
+is seen talking to a bald henchman. It is now certain that an artist, looking 
+for a reference to draw from, was confused and thought that the henchman was 
+supposed to be Luthor, and so drew his version of Luthor that way! 
+  
 	Panel 4:  The City of Focative Mirrors is evidently a throwaway Martian
 cultural reference.  From context, it might be assumed to be roughly equivalent
 to Heaven (or Gaiman's "Silver City," from later issues).  Morpheus' offer is
@@ -153,6 +181,7 @@ put it here.  Is this the same junk depository the Riddle worked at in _Secret
 Origins_ Special #1?
 
 Contributors include:
+    Originally written and Edited by Greg Morrow
 	Rich Salz <rsalz@bbn.com>, Tom Galloway (tyg@dip.eecs.umich.edu), and
 Curtis Hoffmann (currmann@pnet51.orb.mn.org) identified "Funeral March for a
 Marionette."
@@ -167,3 +196,5 @@ a great deal about the "City of Focative Mirrors."  David Henry
 Grant Morrison's appearance in _Animal Man_.
 	Jacob Levy <ST802099@BROWNVM> objected to my dismissal of the possible
 existence of Gotham, the State.
+	Ralf Hildebrandt added more details
+<Kull29@aol.com> added more details about the origin of Gotham

@@ -1,22 +1,7 @@
                          The Annotated Sandman
-    
-               Edited and largely written by Greg Morrow
       
                    Vertigo Preview: "Fear of Falling"
                      Neil Gaiman and Kent Williams
-
-Disclaimer:  Sandman and all related characters are copyrights and
-trademarks of DC Comics Inc.  Sandman and this annotation are intended for
-mature audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is
-licensed to appear on Compu$erve, GEnie, and AmericaOnline.  It is also
-available via anonymous ftp from theory.lcs.mit.edu in pub/wald/sandman. 
-Please contact the editor if you see this material on any other forum. 
-Reproduction in any form without permission of the editor (as agent for
-the contributors) is forbidden.
 
 Note:  This stand-alone story appears as an extra in a preview of DC's
 Vertigo titles, a new editorially-linked "Mature Readers" imprint including
@@ -42,8 +27,9 @@ although Janet's comment about "stupid songs" suggests the former, with a
 nod to the latter.
 	Panel 6:  "What's Entertainment?" is a reference to any one of a
 number of television show which give "news" about entertainment and
-entertainers in a jazzed-up Nightly-News format.  Of these shows,
-"Entertainment Tonight" is the most well-known.
+entertainers in a jazzed-up Nightly-News format - possibly a parody of 
+"That's Entertainment!"??.  Of these shows, "Entertainment Tonight" is 
+the most well-known.
 
 Page 2 panel 1:  Broadway is the street in New York which has most of the
 most significant theatrical productions.  Off-Broadway is an expression for
@@ -55,9 +41,10 @@ church?  Many Catholic churches have so-called "parochial" (from "parish")
 schools for their members.
 
 Page 4 panel 3:  Irony.
-	Panel 6:  Note the F on Todd Faber's shirt.
 
-Page 6 panel 5:  Roadrunner cartoons:  Warner Brothers' stable of
+Page 5 Panel 6:  Note the F on Todd Faber's shirt.
+
+Page 9 panel 3:  Roadrunner cartoons:  Warner Brothers' stable of
 animators did a series of cartoons, primarily directed by Chuck Jones,
 featuring a road runner chased by Wile E. Coyote.  Wile E.'s elaborate
 schemes always failed, and usually resulted in his being blown up, squashed
@@ -65,7 +52,7 @@ flat, or, as relevant here, falling long distances off cliffs.  Often, Wile
 E., in fact, was blown up, squashed flat, -and- fell long distances off
 cliffs.
 
-Page 7 panel 3:  Obviously, Todd's play is allegorical, with all his
+Page 10 panel 3:  Obviously, Todd's play is allegorical, with all his
 various characters standing as symbols.  God is the traditional
 Judeo-Christian father-deity; Sappho was a female Greek poet from the island
 Lesbos, and the inspiration for the term Lesbian; The Hanged Man is
@@ -74,11 +61,8 @@ and passage or the reverse, depicted as a man hanging upside-down in a
 "yoga-like" posture, a man with no apparent fear of falling; and The Slave 
 of the Lamp is the genie from the Aladdin myth.
 
-Release history:             
-Version 1.0 released 15 Feb 92
-Version 2.0 released and archived 20 Mar 92
-
 Contributors include:
+    Originally written and Edited by Greg Morrow
 	Thanatos (tgt33358@uxa.cso.uiuc.edu) identified the Stewart-Novak
 film.
 	Tami Dawn Kimmel <tamora@owlnet.rice.edu> provided many details about
@@ -87,3 +71,5 @@ Typhoid Mary.
 characterization of the blues and edited my statement about Chuck Jones.
  	Jonathan Petersen (jcp@trident.usacs.rutgers.edu) corrected my
 reference to the Tarot.
+    Timothy Hock Seng Tan: the best page number counter there is.
+	Ralf Hildebrandt added more details and made edits

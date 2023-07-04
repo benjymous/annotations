@@ -1,24 +1,28 @@
 			The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
 		    Issue 1:  "Sleep of the Just"
 	    Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
           First part of first storyline, _More than Rubies_
           First story reprinted in _Preludes and Nocturnes_
 
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
+Another *possible* Elvis Costello influence is the title to Sandman #1 -
+there IS an Elvis Costello song entitled "Sleep of the just", though nothing in
+the lyrics correlates with the story: Sleep Of The Just The soldier asked my
+name and did I come here very often Well I thought that he was asking me to
+dance In my holy coat and hat and him in his red bonnet We'd have made a lovely
+couple but we never had the chance [chorus] And now you say that you've got 
+to go Well if you must you must I suppose that you need the sleep of the just
+Well it was a powerful day and there were black crows in the road And I kept
+my strong opinions to my chest I suppose I should have told them that I was on
+fire for you When the bus burst into flames outside some place, 'The Poet's
+Rest' [chorus] A girl woke up in a naked light and said "Oh no not again" He
+even looked like her brother in the army but she never mentions him He'll be
+tucked up in his bed tonight with his dirty-pictures girl Saying, 'You're some
+mother's daughter you know or is it immaterial girl?' Now she's pinned up upon
+the barracks wall in her home town All the soldiers taking turns with their
+attentions And as they speculate what she'd look like beneath that thin
+nightgown His family pride was rising up as he cast his eyes down.
 
 Page 1 panel 2:  First known appearance of Dr. John Hathaway, who we will
 shortly find out is senior curator of the Royal Museum.
@@ -36,6 +40,11 @@ pronounced "mauldin" in British usage.
 Page 3 panels 1-4:  First known appearances of Ellie Marsten, Daniel
 Bustamonte, Stefan Wasserman, and Unity Kincaid.  Unity will appear later, the
 rest appear only throughout this issue.
+In one of McFarlane's comic Spawn's early stories, the main character is a
+certain Billy Kincaid, serial killer of little children. McFarlane himself
+wrote the Billy Kincaid story. Alan Moore wrote Spawn#8, which featured
+Kincaid's experiences in Hell. Neil Gaiman wrote Sandman#9 and the Angela
+Mini-series.
 
 Page 4 panel 1:  First known appearance of Alex Burgess, Roderick's son.
 	Panel 4:  "Aleister" is Aleister Crowley, the most widely known
@@ -46,6 +55,7 @@ Page 5-7:  Let's look at the materials in the summoning ritual.  On page five,
 the materials are fairly mundane, except in panel 7:  A feather
 pulled from an angel's wing.  This would appear to be fairly difficult, and
 worth a story in its own.
+
 	The coin, stick, song, and knife may correspond to the Disk, Wand, Cup,
 and Sword suits of the Tarot cards.  Disks are analogous to modern diamonds,
 and represent earth and business.  Wands became clubs, and represent fire and
@@ -82,8 +92,19 @@ Page 10 panel 1:  Ellie is holding a copy of _Through the Looking Glass_, and
 her appearance bears some resemblence to Alice, the heroine of that book.
 
 Page 11 panel 2:  The word "morphine" is derived from the name "Morpheus".
+There's one other very significant allusion on page 11 which the annotations
+don't list. The bottom three panels describe Unity Kinkaid: as the narrative
+proceeds, the images zoom in on her sleeping face, then her nose and mouth,
+then her closed lips. The last panel ends with "Unity sleeps", in extreme
+close-up. Her lips fill the frame, and they are very pink. This panel looks
+almost exactly like Desire's sigil.
 
-Page 14 panel 3-4:  "Sleepy sickness" appears to have been a real phenomenon in
+Page 14 panel 2: First known appearance of Ethel Cripps; she will appear in
+later issues. First identification as such of Ruthven Sykes, second in command
+of the Order. This issue is his first known appearance. We have seen him in
+several earlier shots; we see here indications of why he did what he does on
+the next pages.
+Panel 3-4:  "Sleepy sickness" appears to have been a real phenomenon in
 the early part of this century.  It can also be seen in the Williams-De Niro
 movie _Awakenings_ and various texts.
 
@@ -91,19 +112,12 @@ Page 15 panel 4:  Who or what are the Endless?  They include Death, Destiny,
 Desire, and Dream.  We will find out more in later issues.
 	Panel 5:  First known appearance of the _Paginarum Fulvarum_.
 According to Neil Gaiman, fulvous is reddish yellow, dull yellowish brown,
-golden, or tawny.  The _Paginarum Fulvarum_ is thus a bad joke, the "Yellow
+golden, or tawny.  The _Paginarum Fulvarum_ is thus a pun on the "Yellow
 Pages".  The "Yellow Pages" is a business directory in England, a business
-phone directory arranged by category of service in America.  (The Yellow Pages
-may be the same in England and America.  My English source gave no additional
-explanation.)  Note that the colorist doesn't know Latin.  First identification
+phone directory arranged by category of service in America, Australia and Germany. (The Yellow Pages
+may be the same in England. My English source gave no additional explanation.). First identification
 of Morpheus as the Kinge of Dremes [sic].
-	Panel 6:  First identification as such of Ruthven Sykes, second in
-command of the Order.  This issue is his first known appearance.  We have seen
-him in several earlier shots; we see here indications of why he did what he
-does on the next page.
 
-Page 16 panel 1-2:  First known appearance of Ethel Cripps; she will appear in
-later issues.
 	Panel 4-6:  First known appearance of a demon we will see again.  The
 amulet will also appear again.
 
@@ -121,11 +135,37 @@ statement made famous by Aleister Crowley:  "Do what thou wilt, and that shall
 be the whole of the Law."  It is traceable back to Rabelais, and was the motto
 of the Hellfire Club.  Crowley also used, with this motto, another Rabelais
 statement, "Love is the Law, Love under Will."  Some modern groups use a
-slightly different version:  "An' ye harm none, do what ye will."
+slightly different version:  "An' ye harm none, do what ye will." 
+Also: It's just barely possible that the t-shirt is a joke on the Illuminatus!
+trilogy, where one of the far-fetched conspiracy ideas is that "Oh, you
+wascally wabbit!" is a satanic invocation (and thus that Bugs Bunny is the Goat
+who Bears a Thousand Young). A duck who says "buster!" has to be a stand-in for
+Daffy Duck, Bugs Bunny's chief rival in the Looney Tunes pantheon: and "Do what
+thou wilt [shall be the whole of the Law]" is a signature phrase of:  
+   
+ 1) Aleister Crowley, who's often mistaken for a satanist and
+ 2) Anton La Vey, who famously was one and made it the centerpiece of his
+    Satanist Bible.
 
 Page 24 panel 7:  Here the text is named the _Liber Fulvarum Paginarum_.
 "Liber" translates as "book", and word order is quite flexible in Latin, so
-this is clearly the same as the text on page 15.
+this is clearly the same as the text on page 15.  
+It is first mentioned in Terry Pratchett's Discworld books -- The translation:
+book of yellow pages, so they're the Yellow pages :)  
+It also makes an appearance in the novel Neil Gaiman and Terry Pratchett did
+together called "Good Omens".  
+It's other name is the Necrotelicomnicon: A book, written by Achmed the mad,
+which lists all of the old, dark gods of the Disc. The first edition is kept in
+the Library of Unseen University, between iron plates, behind a balanced stone
+door, with its name hacked onto the lintel over the door. The page header 'About
+the Author' combusted shortly after his death. Legend says that any mortal man
+who reads more than a few lines of the original copy will die insane; it is
+also said that it contains illustrations that could make a strong man's brain
+dribble out of his ears.  
+Usually, people only read tenth or twelfth had copies. There was once a wizard
+who started to read it and let his mind wander. Next morning they found all his
+clothes on the chair and his hat on top of them and the book had ... a lot more
+pages.
 
 Page 27 panel 6-7:  Morpheus reaches into his guard's dream (daydream?) and
 grabs a handful of sand.  This is a power he will manifest many times.
@@ -151,11 +191,29 @@ showing us the extent of his powers.
 Page 32 panel 6:  We will see that Morpheus craves revenge in the short term,
 but repents of it in the long term, as a general facet of his personality.
 
+Page 35 panel 1: Note the hole in the wall, which vaguely resembles a skull,
+or possibly, Dream's Helmet (minus the proboscis).
+
 Page 36 panel 7:  "Lord, what fools these mortals be" is from Shakespeare's
 _A Midsummer-Night's Dream_.  This play is evidently a favorite of Gaiman's, as
 he often uses it as a source, and bases an entire later issue around the play.
 
+Page 40 Panel 5:  Morpheus' thoughts - hard to see, because (in my copy, at
+least) the colouration is rather odd - but the thought reads, "And I have
+showed him fear..." This may be only speculation, but to me this seems
+reminiscent of a T.S. Eliot quote, from his poem "The Wasteland". The quote
+reads, "..I will show you fear in a handful of dust." I was reminded of this
+on first reading, and then, on further investigation of Morpheus' actions
+directly preceeding this, on page 37, was rewarded with the final panel - and
+those grains falling from his hand, if I am not entirely mistaken, are sand. 
+(And I have showed him fear in a handful of sand.) In fact, I think it should
+be 'shown' in that form, the pluperfect (I show, I was showing, I showed, I
+have shown?). Let us consult the might of the OED and see if Gaiman is, indeed,
+guilty of the carnal sin of bad grammar... no; all is absolved; our deity is
+returned to infallibility; Showed or Shown are both acceptable.
+                
 Contributors include:
+    Originally written and Edited by Greg Morrow
 jasona@sco.COM ( Convincing simulation )
 Andrew David Weiland (aw1s+@andrew.cmu.edu)
 Connie Hirsch (fuzzy@athena.mit.edu)
@@ -166,3 +224,5 @@ Thomas White  (twhite@mozart.amd.com)
 Dan Holzman (holzman@fnal.fnal.gov)
 Neil Gaiman, via Tanaqui C. Weaver (tweaver@isis.cs.du.edu)
 Andrew Sigel (sigel@vsscad.enet.dec.com)
+Ralf Hildebrandt added a note about the title, the connection between Unity and
+  Desire, more info about the Yellow Pages and lots more details and edits

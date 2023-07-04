@@ -1,24 +1,10 @@
                           The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
 		          Issue 6:  "24 Hours"
            Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
              Sixth part of first storyline, _More than Rubies_
              Sixth story reprinted in _Preludes and Nocturnes_
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 1 panel 2:  First known appearance of Bette Munroe.  She does not appear
 in other than this issue.
@@ -31,6 +17,13 @@ a symbol of anarchy.  This is Judy's first known appearance.  "Rude Boys" and
 "Rude Girls" were members of the late 70's, early 80's punk and/or gay scene
 in Britain.  In particular, fans of two-tone or ska music, originally from
 Jamaica, were referred to as "Rudies."
+The term "Rudies," "Rude Boys" or "Rude Girls" has been in use in
+Jamaica since the early sixties, more than ten years before you sited
+them in the annotations. The term came to popularity with the Jamaican
+film "Rude Boy," in the mid '70's, but has been around since the times
+of Desmond Dekker and Frederick "Toots" Hibbert (the guy who invented
+the term reggae, or "reggay"), back in '62 or so.
+
 	Panel 3:  Dear Abby is a syndicated advice columnist.  Earl Wilson was
 a gossip columnist who focused on the entertainment field.  He had been dead
 for a while when this story was published, although his column might have been
@@ -39,9 +32,20 @@ novels.
 	Panel 4:  Johnny Carson is a late-night talk show host.
         Panel 6-7:  Judy is a lesbian and Donna is her lover; they've had a
 fight.  Joy Division is a techno-punk/New Wave/gothic band from the late 70's-
-early 80's.  The lead singer killed himself, and the rest of the band formed
-New Order, which further engendered Electronic, Revenge, and The Other Two!
-[sic]. The symbol is actually two traditional female symbols interlocked.  The
+early 80's.  
+The term "Joy Division" is taken from the slang, referring to the
+prostitution sections of Nazi/Axis concentration camps. The lead
+singer of Joy Division -- Ian Curtis --  committed suicide. 
+The rest of the band formed New Order, which further engendered
+Electronic, Revenge, and The Other Two! [sic]. 
+
+eddietomb@yahoo.com comments: 
+Joy Division had a song on their second album "Closer" called "Twenty
+Four Hours". It is likely that the band's name appearing on Judy's
+jacket was added as an in-joke of sorts, to compliment the title, and
+not vice versa. 
+
+The symbol is actually two traditional female symbols interlocked.  The
 male symbol is a circle with an arrow pointing about 30 degrees clockwise of
 vertical, like the second female symbol on the jacket.  This is clearly a
 lesbian symbol.  Bette's expressed attitude (disapproval but tolerance) toward
@@ -109,6 +113,13 @@ has appeared on Dee's chest.
 	Panel 6:  This is a right hand passing the severed finger to Dee
 so it might be Mark's hand.  Notice, however, the placement of the fingernail
 on the hand's index finger, an anatomical impossibility.
+
+A comment on this by eddietomb@yahoo.com:
+This is actually not the right hand's index finger. It is meant to be
+a continuation of the  severed finger, which bends 45 degrees at the
+point where the thumb is holding it. The fact that it seems to be
+drawn as the right hand's index finger is probably a mistake of the inker.
+
 	Panel 9:  Fundamentalism is a sect of Christianity which believes in
 the literal word of the Bible.  Armageddon is the prophesied end of the world.
 	Panel 10:  First known appearance of "The Amazing Herschel and Betty".
@@ -147,6 +158,13 @@ the women are arranged in a maiden/mother/crone order.
 Dee just came from.  Bette is in the role of Atropos, who cuts the thread of
 each person's life as it ends, in Greek mythology.
 
+While the clock image has appeared previously, I direct you to Sandman
+Issue <A HREF="sandman.10.html">#10</A> "the Doll's House", page 19 panel
+1. The ceiling is a giant watch/clock, implying a connection between time
+and the Hecatae.  Since the three women in issue <A HREF="sandman.06.html">#6</A>, 
+paeg 16 are playing the role of the Hecatae, they are giving a watch/clock
+as well. 
+
 Page 17 panel 5,7:  No one dies here.  We clearly see all six people in the
 diner alive on page 19.
 
@@ -174,12 +192,23 @@ Treacle_.
 
 Page 22:  The sign in the upper left reads "Please and Thank You are the magic
 words."
+Page 22 panel 1:  In the lower left corner there is an old clock. Exactly the 
+same clock can be found in <A HREF="sandman.04.html" >issue 4</A>
+("A Hope In Hell") on page 11, panel 3, also in the lower left corner.
 
 Page 24 panel 2:  The skewers are no longer in Judy's eyes.
 	Panel 4:  Morpheus has recovered from his trauma in the previous issue
-and has made his way to where his ruby is.
+        and has made his way to where his ruby is.
+        Panel 6:  "Waiting for the End of the World," which did not
+	actually wind up as the title of Sandman #7 ("24 Hours"), is a
+	song by Elvis Costello on his first album, "My Aim Is True."
+	This is the same songwriter Neil will quote in the title of
+	Sandman # 37, ". . . I woke up and one of us was crying."
+	Neil's Elvis Costello titles perhaps follow Rick Veitch's
+	Swamp Thing title " ... we could be diving for pearls".
 
 Contributors include:
+    Originally written and Edited by Greg Morrow
 	Tom Galloway (tyg@dip.eecs.umich.edu) identified Earl Wilson and
 previous DC incarnations of "Secret Hearts."
 	Viktor Haag <vehaag@crocus.waterloo.edu> identified "Sex Pletch" and
@@ -200,3 +229,7 @@ the vertical gutters of page 15, but I discarded them as being devoid of
 import.
 	Tanaqui C. Weaver (tweaver@isis.cs.du.edu) speculated about the
 uselessness of the amulet.
+        Kai'Ckul <oshinsky@webspan.net> for the bits about Rudies and
+	Joy Division.
+		Ralf Hildebrandt added lots more details
+eddietomb@yahoo.com gave more detail on Joy Division, and the severed finger

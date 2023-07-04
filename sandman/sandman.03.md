@@ -1,24 +1,10 @@
                           The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
 		  Issue 3:  "Dream a Little Dream of Me"
                Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
              Third part of first storyline, _More than Rubies_
              Third story reprinted in _Preludes and Nocturnes_
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Title:  "Dream a Little Dream of Me" is a 1931 song.  Words by Gus Kahn, music
 by Wilbur Schwandt & Fabian Andre.  It has been recorded many times by many
@@ -78,7 +64,7 @@ Page 8 panel 1:  The lyrics are from "Sweet Dreams" by the Eurythmics.
 Hollywood.  They were used in public service messages about AIDS in Britain.
 	The Ley-lines (pronounced like the name Lee) are a particular
 reference to a case of Constantine's, the Fear Machine, which ran for something
-like nine issues in the teens of -Hellblazer_.  Leptons are a class of
+like nine issues in the teens of _Hellblazer_.  Leptons are a class of
 fundamental particles in physics.  A plasma is an aggregate of charged
 particles; "Plasma fields" is incorrect jargon and sounds like New Age crap.
 
@@ -147,6 +133,7 @@ exorcism went badly wrong and Constantine went nuts for a while.
 	Panel 8-9:  Constantine is singing the song from page 3.
 
 Contributors include:
+    Originally written and Edited by Greg Morrow
         Connie Hirsch (fuzzy@athena.mit.edu) (Pinkdex - TNG) identified the
 title song.  William Sherman (sherman@oak.math.ucla.edu) identified the
 different lyrics to it.  Connie and William, along with Steve Simmons

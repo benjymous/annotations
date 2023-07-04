@@ -1,32 +1,21 @@
                             The Annotated Sandman
 
-                Edited and largely written by David Goldfarb
-
                       Issue 59: "The Kindly Ones: 3"
  
                    Neil Gaiman, Marc Hempel, D'Israeli
 
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
-
 Page 1 panel 1: Each Hempel-drawn issue of "The Kindly Ones" has a cord or
 string of some kind in the first panel.
-	  panel 2: The return of Loki, last seen at the end of "The Season of 
+
+       panel 2: The return of Loki, last seen at the end of "The Season of 
 Mists" (issue #28), and of Robin Goodfellow, aka Puck, last seen in "A
 Midsummer Night's Dream" (issue #19).
-	  panel 3: "silver cord": a reference to Ecclesiastes 12:6:
+
+       panel 3: "silver cord": a reference to Ecclesiastes 12:6:
 
 	Or ever the silver cord be loosed, or the golden bowl be broken, 
-	or the pitcher be broken at the fountain, or the wheel broken at the 		cistern.
+	or the pitcher be broken at the fountain, or the wheel broken at the
+	cistern.
 
 The most common interpretation is that "silver cord" here is the spinal
 cord. Some traditions have posited a "silver cord" as a mystical link 
@@ -83,12 +72,12 @@ Page 24 panel 2: Redrawing 21:13:6, although from a different perspective.
 Note Morpheus' different appearance when he's being drawn by Kelley Jones
 as opposed to Mike Dringenberg.
         panel 4: 12:23:7. Dialogue in these three panels is verbatim.
-        panel 6: As far as I can discover, "Oh that I were a man..." is
-not a quotation.
-
-Release history:
-Version 1.0 released 12 September 94.
+        panel 6: "Oh that I were a man..." is from Shakespeare's Much Ado About
+Nothing (Act IV, sc. i) : Beatrice says "Oh God, that I were a man! I would eat
+his heart in the market place!"
 
 Credits:
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman 
 Annotations.
+        Originally written by David Goldfarb
+        Ralf Hildebrandt added more details

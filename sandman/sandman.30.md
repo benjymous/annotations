@@ -1,24 +1,9 @@
                          The Annotated Sandman
-
-               Edited and largely written by Greg Morrow
-
                           Issue 30:  "August"
                Neil Gaiman, Brian Talbot, and Stan Woch
 
               Second story in anthology _Distant Mirrors_
                   Not yet reprinted in any other form
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appeared on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Sources:  A note in _Sandman_ #31 indicates that the title of this anthology
 came from Barbara Tuchman's text _A Distant Mirror: The Calamitous 14th
@@ -298,6 +283,7 @@ emperor, 54-68, was an emperor famed for his excesses, whose reign could be
 described as disastrous.
 
 Contributors include:
+    Originally written by Greg Morrow
 	Mike "I wish he'd explain what the heck `Killans' means" Collins
 (mcollins@isis.cs.du.edu) corrected my oops about the conquest of Britain and
 wishes to recommend _I Claudius_.

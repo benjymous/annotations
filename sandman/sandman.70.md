@@ -1,22 +1,8 @@
                              The Annotated Sandman
 
-                Edited and largely written by David Goldfarb
-
          Issue 70: "Which Occurs in the Wake of What Has Gone Before"
 
                          Neil Gaiman, Michael Zulli
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 1 panel 1: Each of the Endless receives a messenger appropriate to
 their nature, although it is not quite clear why Destiny should receive
@@ -41,14 +27,22 @@ Page 4 panel 1: We've heard the true version of this rhyme in "The Parliament
 of Rooks": 40:7.3-4.  Delirium's messenger would seem to have been a magpie.
        panel 3: For more information on this necropolis, consult issue #55.
 
-Page 7 panel 8: Note that Destiny's book has a miniature version of this very
+Page 7 panel 6: Naturally, it is Desire who creates the *heart*... 
+       panel 7: ...But it is not known why Despair should create the eyes. 
+                Perhaps because she skewers her own eye in the Brief Lives 
+                arc? [Insert exact reference here]
+       panel 8: Note that Destiny's book has a miniature version of this very
 panel.
 
-Page 8 panel 4: The name "Eblis" derives from Arabic myth.  Eblis was a
-spirit of fire, an angel.  (He is referred to in Sura 18 of the Qu'ran.)
-When Allah made the first man out of clay, Eblis refused to bow down before 
-him as commanded, and so was cast out of heaven and became an enemy of 
-humankind.  The usage here is thus an irony.  
+Page 8 panel 2: And of course, it is *Death* that gives the envoy *life*.
+       panel 4: The name "Eblis" derives from Arabic myth.  Eblis was a
+spirit of fire, to be the head of angels (he is referred to in Sura 18 of 
+the Qu'ran).
+When Eblis refused to bow to Adam (because Adam was made of clay), God 
+cast him out of heaven. Eblis then vowed to seduce man to forsake God. 
+Thus he became Satan or the Devil. We can compare this to Lucifer Morningstar 
+in the Christian religion.
+
 	"O'Shaughnessy" derives from Arthur W. E. O'Shaughnessy, a mid-19th-
 century poet.  Most of his work is deservedly obscure, but one poem, entitled 
 "Ode", has achieved a modest fame.  Its theme is that art and dreams shape the 
@@ -57,20 +51,83 @@ been understandably popular with poets and musicians, and has been set to
 music several times.
        panel 7: "Creature" in its literal meaning of "created thing".
 
+Page 9 panel 1: The same question was asked of Mistress Veltis when she entered the same
+room, in "Cerements". [Insert exact reference here.] Also, the room was
+described as having "six silver cerements" hanging from the walls.
+Coupled with Eblis' answer to the voice, this leads me to believe that
+each cerement is meant for one of the seven Endless.
+Possibilities for who the missing *seventh* cerement is meant for, (and
+reasons against):
+
+- Death: she is supposed to be the last of the Endless to leave the
+universe, (#20, page 20, panel 6, among others), and so cannot die. (But
+we have not been explicitly told she can't die.)
+
+- Despair: Despair was killed at one point. (But there is no reason why 
+she can't die again.)
+
+- Destruction: he has "given up" his job as an Endless, and so isn't
+permitted a funeral with the required cerement. (But just because
+Destruction has "given up", doesn't mean that he has stopped being an
+Endless.)
+
 Page 10 panel 4: The image at top right is Edvard Munch's well-known
 "The Scream"; the one in the middle is William Blake's "Ancient of Days".
 
 Page 11 panel 3: Note that the pictures have changed; they now seem to depict
-Egyptian funeral customs.
+Egyptian funeral customs. Which ties in with the Egyptian sphinxes on either 
+side of Dream's throne.
+
+Page 12 panel 7: In A Season of Mists, Dream was described as (paraphrasing) 
+"collecting names to himself, as one would friends." [Insert exact reference here]
+Here, however, the new Dream refuses to be called "Morpheus". Yet another
+difference between the old and new Dreams.
 
 Page 13: Note that there is no page number.
+         Note how Eve gets progressively younger. We've also seen this happen in
+         (I think) A Parliament of Rooks. [Insert exact reference.]
+
+         panel 1: "In aeternum" simply means "in eternity", or possibly "into eternity".
+
+Page 14: And now Eve grows older again. Eve's age seems to be eternally in flux.
+(Although Cain and Abel both seem to stay the same age. But then again,
+in A Parliament of Rooks, we were told that Eve wasn't Cain's mother.)
+
+Thomas Wilde @ tvs_wanderer@yahoo.com:
+Judging from both "A Parliament of Rooks" and this, Eve would seem to
+be some kind of abstract representation of the Triple Goddess spoken
+of in a number of pagan cultures. It's worth mentioning that by
+Gaiman's weird cosmology, and from the art from the Biblical story
+told in "Parliament", the Eve in the Dreaming seems to change from the
+unnamed woman driven away by Adam, to Lilith, to Eve herself... from
+Maiden, to Mother, to Crone. Then again, aren't all the creatures of
+the Dreaming abstract representations, *but* Abel and Cain? Eve isn't
+their mother because (maybe) she just wears their mother's shape. 
 
 Page 15 panel 2: There was a legend in medieval times that toads had jewels
 embedded in their skulls; this was a morality fable of beauty in ugliness.
+        panel 6: Richard Madoc was last seen in Calliope, (Sandman #17).
+Note that he wears gloves, and is now in a nursing home. (See "Calliope" for 
+the reason why.)
+
+Page 16 panel 1: Note that the griffon is missing from the left of the main 
+entrance, and that the wyvern has taken its place.
+
+Page 17 panel 6: The man with the wing appears to be the same one that appeared in the
+Kindly Ones, whom Dream talked to. [Insert exact reference here]
+
+Page 18 panel 3: The ring was given to Alex by Rose Walker in The Kindly Ones. 
+[Insert exact reference here]
+
+Page 18 panel 5: Audrey was Hob Gadling's last wife/SO. Hob visits her grave in The Kindly
+Ones. [Insert exact reference here]
 
 Page 20 panel 1: Note that the figures in the windows represent the dreams
-that we've seen Dream recreate: from left to right, Mervyn's pumpkin, Abel's
+that we've seen Dream recreate: from right to left, Mervyn's pumpkin, Abel's
 boots, and Gilbert's flowers.
+
+Page 21 panel 2: "Duma's feet may, or may not, quite touch the ground." Possibly as a
+result of having been corrupted. [See my annotation in the Kindly Ones section.]
 
 Page 22 panel 1: Note Titania arriving at the top of the stairs.
 
@@ -80,12 +137,11 @@ over and over.  Note the Siamese cat on the rocks, probably the cat-prophet
 from "Dream of a Thousand Cats"; also the figure with the staff further up
 the stairs, who is quite possibly Odin.
 
-
-Release History:
-
 Credits:
+
      Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 Annotations.
+     Originally written by David Goldfarb
      Carl Fink (carlf@panix.com) noted the panel in Destiny's book, the
 pictures of Egyptian funerals, the lack of a page number on page 13, and
 pointed out the cat and Odin.
@@ -93,3 +149,5 @@ pointed out the cat and Odin.
 (jnevins@bgsuvax.bgsu.edu) and Brian Roe (bar1@cornell.edu).
      Marc Singer (marcs@wam.umd.edu) noted the Blake picture.
      Amy Borden (borden@alexia.lis.uiuc.edu) identified Death's messenger.
+     Timothy Hock Seng Tan <083285@bud.cc.swin.edu.au>
+     Ralf Hildebrandt added more details

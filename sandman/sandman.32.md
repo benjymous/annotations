@@ -1,24 +1,10 @@
                          The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
                 Issue 32:  "Slaughter on Fifth Avenue"
                      Neil Gaiman and Shawn McManus
 
                 First part of storyline _A Game of You_
                   Not yet reprinted in any other form
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Title:  _A Game of You_ clearly refers to the question of identity.  Who and
 what the characters in this story are is a question either to the readers or to
@@ -42,8 +28,12 @@ in orange; and Wilkinson speaks in red.  Note the ornate lettering style of
 all those associated with the Land.
 
 Page 1 panel 1:  The Cuckoo and its Disciples were first mentioned in _The
-Doll's House_.
-	Panel 3:  The parallel between the captions and the scene indicates
+Doll's House_.  Luz was the name of the place where Jacob had his dream of
+wrestling with an angel. In keeping with _A Game of You_'s name motif, note
+that upon waking up, Jacob renamed the place Bethel (which means "house of
+God").
+
+       Panel 3:  The parallel between the captions and the scene indicates
 that this still form is the Tantoblin; more will be explained in later issues.
 The Black Guard is another unknown group.
 	Tantoblin:  A tart or round pastry, or a lump of excrement.
@@ -63,7 +53,7 @@ for this use from 1503.  Porpentine can also be used to mean "porcupine".
 
 Page 4 panel 1:  This is Barbie, who was once married to Ken, but whose
 marriage ended as a result of events in _The Doll's House_.  Note the photos on
-the wall behind her, which includes photos of tattoos and a female breast with
+the wall behind her, which includes photos of tattoos and a male breast with
 a nipple ring.
 
 Page 5 panel 1:  First appearance of Wanda.  Note the condition of the hallway,
@@ -99,8 +89,7 @@ Nagel illustration.
 strict vegetarians.  It is, as Wanda indicates, obtained from soy beans.
 	Panel 5:  First appearance of Foxglove.  She is describing, of course,
 how one milks a cow.  Since we later find out that Fox is a writer, perhaps
-"eighty" indicates her number of sales, of articles or short stories, if not
-longer works.
+"eighty" could refer to the number of pages Fox has written in her current novel.
 	Foxglove is a common ornamental flower (Digitalis purpurea).  The drug
 Digitalis is extracted from Foxglove and is used to slow the heart.
 
@@ -109,10 +98,17 @@ disappeared.  Since the story runs 25 pages instead of the usual 24, I suspect
 that the script was being revised while McManus was doing the art, causing a
 some confusion.
 
-Page 10 panel 6:  "Princess Barbara":  irony.  Wanda doesn't know that that is
+Page 10 panel 2: Chess, of course, is a board game, echoing the overall title 
+of this issue.
+        panel 3: Tiffany's is a high class, New York department store, which 
+is well-known for it's expensive jewelry & perfumes (Breakfast at Tiffany's); 
+hence Wanda's comment (in panel 4) that they "can't afford it".
+        panel 6:  "Princess Barbara":  irony.  Wanda doesn't know that that is
 how Barbie is known in the Land.
 
-Page 11 panel 2:  The link between dreams and time is an old one, so to speak.
+Page 11 panel 1: This may be the same place where Johanna Constantine met 
+Dream in issue #29, _Thermidor_.
+        panel 2:  The link between dreams and time is an old one, so to speak.
 Dreams are often seen to be prophetic (oneiromancy), and the interpretation of
 dreams is one of the charges of a society's shaman (whatever his title, be it
 witch doctor or psychiatrist).
@@ -134,8 +130,8 @@ foreground.  This is probably just artistic noodling on McManus's part.
 	Heigh-Ho for Anthony Rowley.
 
 Page 14 panel 3:  "Barbie-Bubullah":  Bubullah is one of the spellings for a
-Yiddish term of endearment, roughly meaning "baby" or "child".  Yiddish is an
-oral language, and spelling is a matter of taste.
+Yiddish term of endearment, roughly meaning "baby" or "child". For an annotation
+for Yiddish see issue #8.
 	Panel 5:  Wanda is referring to two television shows, _The Twilight
 Zone_ and _The Outer Limits_, both of which were anthology shows featuring
 science fiction and general weirdness.  "We control the vertical" is from the
@@ -144,8 +140,16 @@ title sequence of _The Outer Limits_.
 Page 15 panel 2:  Martin Tenbones has indeed found his way to the real world,
 through the unexplained magic of the Plot Device (or perhaps the Porpentine).
 
+        panel 4 & 5: Note the yellow liquid on the ground & dripping off the 
+lady's skirt; apparently, she wet herself.
+
 Page 16 panel 1:  _Breakfast at Tiffany's_ is a novel by Truman Capote, later
 made into a movie starring Audrey Hepburn.
+_Breakfast at Tiffany's_ was about a woman (Hepburn's character, in the
+movie), who would always go window shopping at Tiffany's (a high-class
+department story in New York. See my annotation on page 10, panel 3).
+This is what Barbie is referring to when she says "Breakfast first.
+Window shopping later".
 	Panel 2:  Wanda is correct.  Sleep deprivation studies have shown
 conclusively that people who are prevented from entering REM sleep, the
 dreaming phase, become psychotic in a matter of weeks.
@@ -160,15 +164,21 @@ being made "never-was" by the events of _Crisis on Infinite Earths_ in 1985.
 	See below for how the Bizarros became "Weirdzos".
 	See also page 17 panel 8.
 
-Page 17 panel 1:  More about the "Weirdzos".
+Page 17 panel 1:  Wanda's description of the "Wierdzos" is apparently an 
+accurate description of the Bizarros.
+"Hyperman" is obviously an analog of Superman. Similarly, "Lila Lake" is
+an analog of "Lois Lane". (Note the initials of both names.)
+
 	Panel 4:  Mister Boney: Boney was a common nickname for Napoleon
 Bonaparte, but this is probably irrelevant given Martin Tenbones' correct name.
 	Panel 6:  Sindie was alluded to in _The Doll's House_, but not named
 explicitly.  Note the spelling of her name:  "Sindie" = "sin".  There was a
 line of "Sindie" dolls in the 1970s (or British "Cindy" dolls still being
-made--can I get some confirmation of this, please?) designed to compete
-directly with Barbie dolls.  In effect, she was a "younger version of Barbie",
-as mentioned in the epilog to _Doll's House_.
+made) designed to compete directly with Barbie dolls.  In effect, she was a 
+"younger version of Barbie", as mentioned in the epilog to _Doll's House_.
+I'm not sure whether the Sindy/Cindy dolls are still being produced, but
+I *do* remember seeing them in a toy-store catalog a few years back.
+
 	Panel 7:  We do not meet Scarlett, who might be the landlord.  There
 may very well be a connection between Scarlett and the character Scarlett
 O'Hara of _Gone with the Wind_ (book and film), particularly considering later
@@ -177,6 +187,11 @@ events of the story.
 off the page before reproduction.  See below.  Note that Wanda was evidently
 born male, named Alvin, but now considers herself female.
 	The Game of Wanda is her gender orientation.
+
+Page 18 panel 1: Martin Tenbone's right eye has apparently been hit. The result
+of another encounter after scaring the black beggar lady, perhaps?
+        panel 3: Note the people's reactions to Martin and the smoke coming from 
+the car on the right.
 
 Page 19 panel 2:  Barbie doesn't recognize herself:  Part of the Game of
 Barbara.
@@ -199,19 +214,21 @@ _Hellblazer_, who also appeared in _Sandman_ #3.
 Page 23 panel 2:  Note what appear to be many keyholes on Barbie's door; New
 York residents have multiple deadbolts and police locks to help keep thieves
 out.
+Note also the man standing in the background. Is he merely loitering, or
+is he interested in what happens to Barbie?
 
 Page 24 panel 2:  The Porpentine has changed its appearance from _The Doll's
 House_.
 	Panel 4-5:  The birds of the apparitions are probably supposed to be
 cuckoos.
 
-Page 25 panel 8:  The Game of George is simply "What are the Children of the
+Page 25 panel 4 & 5: Note that the bird is apparently unafraid of George. 
+Does he own it? And why is he eating it?
+        panel 8:  The Game of George is simply "What are the Children of the
 Cuckoo?"
 
-Release History:
-Version 2.0 released 31 Oct 92 archived
-
 Contributors include:
+        Originally written by Greg Morrow
 	Aamod Sane (sane@cs.uiuc.edu) hit the OED for some references for _A
 Game of You_'s unusual words.
 	dennis c hwang <hwa5@midway.uchicago.edu> recalled the earliest
@@ -258,3 +275,5 @@ sixth hand or so?):
   who recognized the comic book history will get the joke," Gaiman notes,
   "and anybody who doesn't, it's not important.  They don't feel like
   they're being excluded".
+
+   Ralf Hildebrandt added more details

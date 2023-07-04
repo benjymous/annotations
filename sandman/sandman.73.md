@@ -1,22 +1,8 @@
                              The Annotated Sandman
 
-                Edited and largely written by David Goldfarb
-
                            Issue 73:"Sunday Mourning"
 
                            Neil Gaiman, Michael Zulli
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu.  This material is posted by 
-the editor directly to rec.arts.comics, and is licensed to appear on 
-Compu$erve, GEnie, and America On-Line.  It is also available via anonymous 
-ftp from theory.lcs.mit.edu in pub/people/wald/sandman.  Please contact the 
-editor if you see this material on any other forum.  Reproduction in any form 
-without permission of the editor (as agent for the contributors) is forbidden.
 
 Page 1 panel 2: On the off-chance that anyone is reading this story without
 knowledge of the rest of the _Sandman_ series, let me note that the man here 
@@ -56,11 +42,9 @@ of Gaiman's songs.
 Page 24 panel 5: Possibly echoing 6:4.1 -- "If you keep [stories] going
 long enough, they always end in death."
 
-Release History:
-Version 1.0 released 6 November 1997.
-
 Credits:
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 Annotations.
+    Originally written by David Goldfarb
 	Jeremy Kulow (Jeremy.J.Kulow@uwrf.edu) confirmed the specific 
 Renaissance festival used in the story, and its location.

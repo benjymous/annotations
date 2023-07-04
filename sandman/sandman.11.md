@@ -1,28 +1,16 @@
                           The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
                          Issue 11:  "Moving In"
            Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
              Second part of long storyline _The Doll's House_
        Fourth story reprinted in trade paperback _The Doll's House_
 
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
-
 Page 1 panel 1:  First known appearance of Hal Carter, who will appear
 throughout this storyline.  The house is also metaphorically the Doll's House
 of the storyline title.
+The similarities between this picture and issue 10, page 22, panel 5-6
+(Dream watching from doll's house in Unity's room) struck me.
 
 Page 2 panel 2:  First known appearance of Ken and Barbie, who will appear
 throughout this storyline.  Barbie, in addition, will be central to a storyline
@@ -65,6 +53,7 @@ feminist fear film about what men really want."  The phrase "Stepford Wife"
 entered the language for a while, meaning someone who turns their back on
 individuality to mechanically fulfill societal expectations, the feminist
 equivalent of an "Uncle Tom."
+
         Panel 3-4:  We will meet Gilbert later.  Gilbert is based upon the
 author Gilbert Keith (G.K.) Chesterton, who was popular in the early third of
 this century.  He wrote a few novels, including the Father Brown mysteries,
@@ -76,10 +65,21 @@ often turned out to be perfectly reasonable.  He was a talented writer, in
 whose works characters are often secondary to the ideas they espouse.  The line
 about the six-foot pencil is from one of Chesterton's essays about lying in
 bed.
+This panel is doubtlessly an allusion to opening verse from E.A. Poe's
+poem "The Raven". 
 
 Page 7 panel 3:  Here we see Hal in his Dolly persona.
+        Hal/dolly's crossdressing is somewhat paralleled by the "hooked
+'actresses'" in <A HREF="sandman.13.html">Men of good fortune</A> (page
+11), and both of these sexual confusions are paralleled by Desire's 
+androgyny (who, as you will remember, is behind the whole vortex story arc.)
+this allusion within allusion resembles Arabian Nights, which I believe was
+the subject of at least one issue later in the series.
 	Panel 5:  The poster actually exists and is for an album, by group
-The Cure, named _Boys Don't Cry_.
+The Cure, named _Boys Don't Cry_. It's sort of funny that there's a boy
+crying, or at least moaning, in front of a poster that says "Boys Don't
+Cry". I'm guessing that was intentional, particularly as Rose doesn't seem
+to me the type of person to be a The Cure fan...
 
 Page 8 panel 1:  I presume that there is a Dolphin Island near Cape Kennedy.
 	Panel 2:  Burt Paulsen is presumably Rose's father's name.
@@ -140,6 +140,7 @@ possesses a great deal of (unspecified) power.  Presumably, Dream also is
 carrying his pouch of sand.
 
 Contributors include:
+    Originally written by Greg Morrow
 	Marcus Brazil (matmnb@lure.latrobe.edu.au) reminded me to explain about
 Ken and Barbie dolls.
 	Steve Simmons (scs@lokkur.dexter.mi.us) and kieran
@@ -152,3 +153,5 @@ yellowhammer.
 existence.
 	Henry Spencer (henry@zoo.toronto.edu) pointed out the curious
 juxtaposition of the ever-polite Corinthian's eating and talking.
+	Dave Rumblehumper (rumblehumper@andythepooh.com) who pointed out about the poster and the parallelism to the horned actresses
+	Ralf Hildebrandt added more details

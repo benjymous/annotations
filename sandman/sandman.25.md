@@ -1,7 +1,4 @@
                          The Annotated Sandman
-
-               Edited and largely written by Greg Morrow
-
                                 Issue 25
             Neil Gaiman, Matt Wagner, and Malcolm Jones III
 
@@ -12,23 +9,16 @@
 
                   Not yet reprinted in any other form
 
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
-
 Page 1 panel 1:  We are in the attic of a British boarding school.  Visible are
 a deer head, a sporting team picture, a soccer ball [football], a cricket bat,
 golf clubs, and a bust.  What Americans call soccer, the rest of the world
-calls football; cricket is a British game with some superficial resemblance to
-American baseball.  We have not met Charles Rowland before.
+calls football (Fussball in Germany); In Australia, soccer is soccer and
+"football" is Australian Rules Football. I think that in New Zealand "football"
+is rugby, but it may be wise to confirm with a New Zealander; cricket
+(according to Douglas Adams the most stupid game in the universe) is a British
+game with some superficial resemblance to American baseball game.  We have not
+met Charles Rowland before.
+
 	Panel 2:  Nor have we met Paine, whose name may be symbolic.  "Paine"
 is his surname, by the way.
 
@@ -53,9 +43,11 @@ performed many acts of healing.  He died in Cyprus at the age of 80.  In the
 Roman Catholic Church, possibly the Church of England as well, his day is
 21 October.
 
-Page 7 panel 1-2:  _The Scarlet Pimpernel_ (by?) was an adventure tale
-featuring a masked hero, a master of disguise, who helped spirit French nobles
-to England during the French Revolution.  The titular charcter was one of the
+Page 7 panel 1-2:  _The Scarlet Pimpernel_ (by Baroness Orczy) was an 
+adventure tale featuring a masked hero, a master of disguise, who helped 
+spirit French nobles to England during the French Revolution.  
+
+The titular charcter was one of the
 earliest examples of a hero with a secret identity; as such, it is historically
 important to comic books.  As the Pimpernel's secret identity was a foppish
 nobleman, the book almost certainly helped Bill Finger create the "playboy
@@ -143,6 +135,7 @@ denies him this, calling him only one of the most prominent.
 be considered the theme of the issue.
 
 Contributors include:
+    Originally written by Greg Morrow
 	Rick Jones <albert@crick.ssctr.bcm.tmc.edu> added information about the
 Scarlet Pimpernel and mentioned _Dead Poets Society_.
 	Mark A Biggar (mab%wdl39@wdl1.wdl.loral.com), Michael Bowman
@@ -154,6 +147,7 @@ and Protagoras.
 	Phil "Dreddhead" Birmingham (BIRMINGH@FNAL.FNAL.GOV) and Mike Collins,
 The One and Only Killans, (mcollins@isis.cs.du.edu) commented on Hunnish
 practices.
-        David Goldfarb (goldfarb@ocf.berkeley.edu) corrected my Latin, and he
+    David Goldfarb (goldfarb@ocf.berkeley.edu) corrected my Latin, and he
 and Mike, and Jim  Cowling (jcowling@butterfly.UVic.CA) corrected my
 misapprehension of 'fagging'.
+	Ralf Hildebrandt added more details

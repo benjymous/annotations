@@ -1,22 +1,8 @@
                              The Annotated Sandman
 
-                Edited and largely written by David Goldfarb
-
                     Issue 71: "In Which a Wake is Held"
 
                           Neil Gaiman, Michael Zulli
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 1 panel 3: The man with the jacket and glasses sixth from the left
 resembles Neil Gaiman.  The odd-looking being eighth from the left may 
@@ -91,8 +77,15 @@ got an ant's head was _Action Comics_ #296, and where he became a gorilla was
 possibly _Action_ #218, and where he had to fly forwards in time was possibly
 _Action_ #387.
 
+Also, notice that Superman implies that that particular dream of his is 
+recurring, corresponding to the two (or three?) versions of the Superman 
+TV show, the most famous being the one starring George Reeves and the most 
+recent being "Lois & Clark: The New Adventures of Superman" with Dean Cain.<BR>
 	The green man with the blue cape is a superhero called the Martian
-Manhunter.  He was last seen in 5:14-15.
+Manhunter.
+He's the only one of the three who hasn't been portrayed by 
+"an actor on a strange television version of (his) life".
+He was last seen in 5:14-15.<BR>
         panel 2: John Constantine was last seen in issue #3; the man in
 the middle is probably Dr. Occult, and the man on the right is the Phantom
 Stranger.  Neither of them have appeared before in this series, although
@@ -105,12 +98,10 @@ clear.
 Page 24 panel 5: The statement that Matthew gives to Morpheus was in fact
 said by Mark Twain (the author of _Tom Sawyer_).
 
-Release History:
-Version 1.0 released 11 Jan 96.
-
 Credits:
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 Annotations, and helped identify the Superman stories.
+        Originally written by David Goldfarb
 	Jack Grimes (LBMGMD@aol.com) also helped with them.
 	Katie Schwarz (katie@physics.berkeley.edu) identified various 
 characters and looked up "Arimaspia".
@@ -118,3 +109,5 @@ characters and looked up "Arimaspia".
 Bhartari Raja's alias.
 	Bill Jennings (zenok13@uclink2.berkeley.edu) mentioned the phrase 
 about funerals and red dresses.
+        Ralf Hildebrandt added some notes on the superhero conversation on p22
+

@@ -1,24 +1,10 @@
                           The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
                 Issue 18:  "A Dream of a Thousand Cats"
             Neil Gaiman, Kelley Jones, and Malcolm Jones III
 
                Second story in anthology _Dream Country_
         Second story reprinted in trade paperback _Dream Country_
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 10 panel 1:  "Carrion Kind" is evidently poetic nomenclature for
 scavengers (specifically crows?).  See below.
@@ -29,6 +15,7 @@ Dream (who dwell with Eve, the Raven Woman).
 
 Page 13 panel 1:  The entrance to the Dreaming has been seen before to be
 guarded by a griffon, dragon, and winged horse.
+Here, the griffon looks more like a large vulture.
 
 Page 14 panel 2:  Dream appears to the viewer in a form that conforms to the
 viewer's expectations.  Thus, he, as adversary, appears as a great panther,
@@ -94,6 +81,7 @@ Page 23 panel 2:  The corollary to Alan Moore's famous "This is an imaginary
 story.  Aren't they all?" is this:  All stories are also _true_.
 
 Contributors include:
+    Originally written by Greg Morrow
 	Bill "Bad Company" Sherman <sherman@math.ucla.edu> did the literary
 antecedent thing in suggesting Kipling and LeGuin as inspiration, and later
 asked that the Kipling refs be removed as inaccurate.
@@ -106,3 +94,4 @@ Bartlett's (boy, that must smart!).  Colonel G. L. Sicherman
 	Tanaqui C. Weaver (cen@vax.oxford.ac.uk) and Neil Gaiman rambled on
 about the nature of the skeletal crow, which the Colonel also corrected me on.
 Tanaqui also located the carrionkind references.
+   Ralf Hildebrandt added a comment about the gryphon's appearance

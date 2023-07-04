@@ -1,25 +1,10 @@
                          The Annotated Sandman
-    
-               Edited and largely written by Greg Morrow
       
             Issue 37:  "I Woke Up and One of Us Was Crying."
                      Neil Gaiman and Shawn McManus
 
                 Sixth part of storyline _A Game of You_
                   Not yet reprinted in any other form
-
-Disclaimer:  Sandman and all related characters are copyrights and
-trademarks of DC Comics Inc.  Sandman and this annotation are intended for
-mature audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is
-licensed to appear on Compu$erve, GEnie and AmericaOnline.  It is also
-available via anonymous ftp from theory.lcs.mit.edu in pub/wald/sandman. 
-Please contact the editor if you see this material on any other forum. 
-Reproduction in any form without permission of the editor (as agent for
-the contributors) is forbidden.
 
 Title:  _A Game of You_ clearly refers to the question of identity.  Who
 and what the characters in this story are is a question either to the
@@ -121,8 +106,12 @@ Page 18 panel 2:  Caleb is another good Hell-fearing Biblical name.  The quote
 indicates that incorrect behavior will be punished, and also reflects the
 literal manner of Wanda's death.
 	Panel 4:  Salina, Goodland, and Aurora are Kansas cities, and
-Florissant is nearby in SW Missouri.  Cloverdale, Mulberry Grove, and
-Boonville are unidentified at this time.
+Florissant is nearby in SW Missouri.  Cloverdale and Boonville are two small
+towns in Indiana. Mulberry Grove is unidentified at this time.
+However, if Gaiman was referring to these, that bus must have travelled like a
+drunken snake! Cloverdale is in Putnam County and Boonville is in Warrick 
+county and about 100-150 miles separate the two (I do not have a map to 
+refer to). Boonville is quite nice, I think.
 
 Page 19 panel 2-4:  One is invited to reflect upon Barbie's idea while
 recalling the Land, and the Game of You.
@@ -154,11 +143,8 @@ remember the first time.
 Page 24 panel 4:  Barbie seems to do an awful lots of talking in the writer's
 voice in this issue.
 
-Release history:
-Version 1.0 released 1 Nov 92
-Version 2.0 released 15 Feb 93
-
 Contributors include:
+    Originally written by Greg Morrow
 	Neil Gaiman pointed out the visual pun on page 3.
 	William Sherman <sherman@math.ucla.edu> corrected a typo, pointed out a
 number of Oz parallels, noted gay slang, corrected Uncle Wiggily's name,
@@ -173,7 +159,8 @@ Wiggily's name and identified the Eccl. quote.
 bibliographic information about Uncle Wiggily.  See Appendix.
 	Tanaqui C. Weaver (tweaver@nyx.cs.du.edu) identified the title 
 quote.
-
+   Ralf Hildebrandt added more details
+   
 
 Appendix:  Uncle Wiggily
 

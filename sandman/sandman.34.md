@@ -1,24 +1,10 @@
                          The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
                      Issue 34:  "Bad Moon Rising"
        Neil Gaiman, Colleen Doran, George Pratt and Dick Giordano
 
                 Third part of storyline _A Game of You_
                   Not yet reprinted in any other form
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Title:  _A Game of You_ clearly refers to the question of identity.  Who and
 what the characters in this story are is a question either to the readers or to
@@ -132,7 +118,7 @@ demon to readers of the comic book _Hellblazer_).
 Mother-Crone triplet.
 	Note that Foxglove, Hazel, and Thessaly also form a Maiden-Mother-Crone
 triplet.
-
+This chant is very similar to the one H.P. Lovecraft used in "Horror at Red Hook."
 Page 19 panel 1:  Note the three faces.
 
 Page 21 panel 1:  The bag lady says "Moon's gone weirdzo/Look at the son of a
@@ -173,12 +159,8 @@ movie version of _The Wizard of Oz_.
 Thessaly's permission; see page 16 panel 1.  This is handwaved away in the next
 issue.
 
-Revision history:
-Version 1.0 released 1 Aug 92
-Version 1.1 released 27 Sept 92
-Version 2.0 released/archived 11 Nov 92
-
 Contributors include:
+    Originally written by Greg Morrow
 	Jim W Lai <jwtlai@jeeves.uwaterloo.ca> pointed out the correlation
 between George's death and the disappearance of the birds; Thessaly's sense of
 humor and the significance of apartment numbers; mythical rivers; Dream's
@@ -201,3 +183,4 @@ Gaiman about the inking.
 	Jerry Stratton (jerry@teetot.acusd.edu) quoted Manfred Lurker's
 _Dictionary of Gods and Goddesses, Devils and Demons_.
 	William Sherman <sherman@math.ucla.edu> referenced Goody Two-Shoes.
+	Ralf Hildebrandt added a note about the chant on p18

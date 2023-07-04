@@ -1,19 +1,7 @@
                          The Annotated Sandman
-    
-               Edited and largely written by Greg Morrow
-      
+          
                        Issue 44: Brief Lives Four
               Neil Gaiman, Jill Thompson, and Vince Locke
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  Additional
-material in this series is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Reproduction in any form without 
-permission of the editor (as agent for the contributors) is forbidden.
 
 Notes:  See #41.  The subtheme of the issue is color.  Note that Del has
 not changed clothing since the middle of last issue.
@@ -97,12 +85,22 @@ Australia, the first penal colony there was Port Jackson, founded in 1788,
 which is evidently significantly after this scene.
 	Panel 2:  Tyburn Tree (an elm?) was the site of the London gallows.
 It is now known as Speaker's Corner, at the northeast corner of Hyde Park.
-	Panel 4:  The stone is Dream's ruby, of course.  Wight:  Well,
-according to my dictionary, it's an obsolete word meaning "human being" or
-"courage in warfare".  It evidently also has the unlisted meaning "monster;
+	Panel 4:  The stone is Dream's ruby, of course.  
+wight: 1. a living being, CREATURE, MAN
+       2. [archaic]: a preternatural being (as a fairy or witch)
+       3. courage in warfare
+
+It evidently also has the unlisted meaning "monster;
 undead creature; creature of darkness"; this usage derives its modern
 presence from J.R.R.Tolkien's use of "barrow wights" in _The Lord of the
 Rings_.
+It seemed strange to me that Tolkien should have given the word a new
+meaning, and indeed it seems as he has used the archaic sense of the word.
+In the Norwegian translation of L.O.T.R., this word is translated as "vette",
+which still means a preternatural (and usually sinister or dangerous) being.
+The word vaettr (old Norse for vette) is mentioned in the etymology of
+"wight" in Webster's.
+ 
 	Panel 5:  Dream is wrongly colored human, and the Corinthian's
 forehead is wrongly colored white.
 
@@ -166,11 +164,8 @@ eyeteeth.
 
 7: The Perils of Smoking in Bed?
 
-Release history:              
-Version 1.0 released 15 May 93
-Version 2.0 released 15 August 93
-
 Contributors include:
+    Originally written by Greg Morrow
 	lsmith@deci.cs.umn.edu (Lance "Squiddie" Smith) researched the
 Alder Man.  Lance and Enrique Conty (conty@cbnewsl.cb.att.com) spotted
 Totoro.  Lance spotted Max, provided exhaustive details on the orangutan 
@@ -190,6 +185,7 @@ noted Terry Pratchett's use of "Unseen University".  Steve Simmons
 	R.J.Johnston (R.J.Johnston@newcastle.ac.uk) identified VDU green.
 	Damon B. Crumpler (dbc3@po.CWRU.Edu) noted some of Delirium's
 bubbles and explained "Totoro".
+   Ralf Hildebrandt added more details
 
 
 Appendix: On Newton's Opticks (by Lance Smith)

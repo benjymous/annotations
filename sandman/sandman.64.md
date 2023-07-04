@@ -1,22 +1,8 @@
                              The Annotated Sandman
 
-                Edited and largely written by David Goldfarb
-
                       Issue 64: "The Kindly Ones: 8" 
 
                       Neil Gaiman, Teddy Kristiansen
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 1 panel 1: For the first time, the recurring strings are replaced with
 a literal string, and one not part of the surrounding scene. And a string
@@ -84,10 +70,8 @@ Swedish fairy tales such as "In the Troll Wood".
 
 Page 23 panel 2: And then again, perhaps it was that she was heartless.
 
-Release History:
-Version 1.0 released 7 Feb 95.
-
 Credits:
+    Originally written by David Goldfarb
 	Lance "Squiddie" Smith (lsmith@cs.umn.edu) identified Matthew's quote 
 and John Bauer.
 	Jane Carlton (Jane@tortshel.demon.co.uk) gave the Hungarian.
@@ -96,3 +80,4 @@ weather.
 	Medusa (avongvis@nmsu.edu) mentioned the Hecate statues.
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 Annotations.
+

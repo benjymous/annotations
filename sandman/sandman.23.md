@@ -1,7 +1,5 @@
                          The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
                                 Issue 23
             Neil Gaiman, Kelley Jones, and Malcolm Jones III
 
@@ -13,17 +11,6 @@
           and of the strange disposition of a knife and a key.
 
                   Not yet reprinted in any other form
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  Please contact the editor if you see this
-material on any other forum.  Reproduction in any form without permission of
-the editor (as agent for the contributors) is forbidden.
 
 Note:  Neil Gaiman has demonstrated a thorough familiarity with Milton, and
 _Sandman_ is rife with allusions to _Paradise Lost_ whenever Lucifer appears.
@@ -100,6 +87,41 @@ exaggerated sense of importance.
 
 Page 15 panel 1:  Samael, as seen before, was Lucifer's angelic name.
 	Panel 3:  The angel with the flaming sword is, I believe, Gabriel.
+
+Although Gabriel (God's messenger, who holds the flaming sword [although
+it has been inferred that the flaming sword spoken of is in fact another
+angel entirely, Azrael, who's name means, i believe "the lord's trumpet"
+also called by Salman Rushdie, in a pun "the lord's trump" who is not only
+the angel of death, but also the messenger {hence "trumpet" and "trump" and
+the connection with Gabriel} of the Apocalypse]) is said to have a flaming
+sword, it is thought only o be symbolic of his eventual role in the
+Apocalypse. 
+	Other angels known to have flaming swords, which Gaiman my very well be
+referring to, are the Seraphim, six-winged angels of God's Wrath, who are
+said to have six wings. These were the angels who stood (and supposedly
+still stand)  guard at the gates of Eden, blocking the entrance for the
+sons of Adam (the reference to closing gates here should not be ignored).
+They are supposed to be in the upper ring of angels (I think the sixth, but
+as I do not have my copy of The Dictionary of Biblical, Classical and
+Literary Allusions with me, I can't be sure.) one level above the more
+famous Cherubim. Here:
+
+   1]  Seraphs stood in attendance on Him. Each of them had six wings: with
+two he covered his face, with two he covered his legs, and with two he
+would fly.
+	
+   2]  And on would call to the other
+       "Holy, Holy, holy!
+       The LORD of Hosts!
+       His presence fills all the earth!"
+	
+   3]  The doorposts would shake at the sound of the one who called, and the
+House kept filling with smoke . . . .
+							-Isaiah, 6:1-3
+
+What the Seraph says is a well known prayer, known as the "Kadosh," but
+the rest is new to me. Hope it sheds some light on the subject.
+
 	Panel 4:  Raguel (Friend of God) is one of the seven archangels listed
 in the Enoch writings.  He is an angel of earth, a guard of the 2nd or 4th
 Heaven.  He "takes vengeance on the world of luminaries", which is interpreted
@@ -142,8 +164,24 @@ outside.  This strikes me as a very odd sequence for a closing down of such
 mythic import.
 
 Page 21 panel 1:  We saw this creature in the previous issue, although she was
-not identified there.  No reference for Mazikeen, who says "My Lord Lucifer,
-greetings, my lord."
+not identified there.
+Thus spoke <emble@aol.com>:
+Mazikeen, or Shedeem.
+A species of beings in Jewish mythology resembling the Arabian Jinn said to be
+agents of magic and enchantment.  When Adam fell, says the Talmud, he was
+excommunicated for 130 years, during which time he begat demons and spectres.
+
+There's a sub-entry:
+Swells out like the Mazikeen ass.
+The allusion is to a Jewish tradition that a servant, whose task it was to
+rouse the neighbourhood to midnight prayer, one night mounted a stray ass and
+neglected his duty.  As he rode along the ass grew bigger and bigger, till at
+last it towered as high as the tallest edifice, where it left the man, and
+there next morning he was found.
+Neither of these are terribly fitting or helpful, but at least it's a
+reference - and this is Brewer's, so it's very likely that this is where Neil 
+got the name.                                                                                                          
+
 	Panel 2:  "No.  You are still my Lord.  I will not forsake you.  I love
 you, master."  Mazikeen is drawn with much more detail this issue; the
 musculature is clearly evident, where she appeared more skull-like in #22.
@@ -167,6 +205,7 @@ sloppy to remove the major portion of the wings--can't have them flopping about
 during surgery--then went back off-panel and excised more carefully.
 
 Contributors include:
+    Originally written by Greg Morrow
 	As always, Bill "Tank" Sherman (sherman@math.ucla.edu).  Bill brings up
 Milton, Hellraiser, Etrigan and the flaming swordsangel.
 	Jim W Lai <jwtlai@jeeves.waterloo.edu> refers to Amber, Poe, spots a
@@ -176,4 +215,6 @@ City, creation, Hell, sin, pinionectomies and Lucifer's state of mind.
 	Michael Bowman <mbowman@andromeda.rutgers.edu> hit the library floor
 a-running to look up Weep-Not, Rimmon, Raguel, and Sandalphon. (Michael, the
 saying is "Waste not want not", not "Weep not...")
+   <emble@aol.com> added more background on Mazikeen
+   Ralf Hildebrandt added more details
 

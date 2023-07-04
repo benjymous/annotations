@@ -1,8 +1,6 @@
                          The Annotated Sandman
-
-               Edited and largely written by Greg Morrow
-
-                                Issue 22
+               
+			                    Issue 22
             Neil Gaiman, Kelley Jones, and Malcolm Jones III
 
                        Season of Mists Chapter 1
@@ -16,18 +14,6 @@
 
                   Not yet reprinted in any other form
 
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
-
 General:  In the subtitle, "the adversary" is a translation of "Satan", a usual
 appellation for the ruler of Hell.
 
@@ -39,7 +25,7 @@ Autumn":
 	Conspiring with him how to load and bless
 	      With fruit the vines that round the thatch-eaves run.
 
-Cover:  Note the extensive use of what appear to be Latin texts in the
+Cover:  Note the extensive use of Latin text and Old German text in the
 composition of the cover.  Anyone care to take a crack at them?
 
 Page 1 panel 1:  Avernus is a volcanic crater lake near Naples, Italy; it is
@@ -71,7 +57,12 @@ Drood_ was an unfinished work of his.  Sir Arthur Conan Doyle was a late
 19th-early 20th century writer whose creation Sherlock Holmes is listed by
 Harlan Ellison  as one of the five fictional characters known to every person
 on the planet (The others being Tarzan, Robin Hood, Superman, and Mickey
-Mouse). Conan Doyle virtually invented the "consulting detective" archetype.
+Mouse). 
+Holmes, by the way, has appeared in the DCU universe from time to time.
+He appeared before the Crisis in Action Comics#283, Joker#6, and Sherlock 
+Holmes#1. After the Crisis, he appeared in Detective Comics#572 and 
+Eclipso#7-8.
+Conan Doyle virtually invented the "consulting detective" archetype.
 James  Branch Cabell was another early fantasist; Poictesme was his creation.
 G.K. Chesterton was a colorful author of the early 20th century; Fiddler's
 Green took his form in _The Doll's House_.  Chesteron wrote a book entitled
@@ -87,6 +78,7 @@ Journey Behind the Moon_.
 	I like to think that Lucien's record collection includes _Traveling
 Wilburys Volume Two_ with both Roy Orbison and Del Shannon.
 	See the Appendix for more background on the works in the Library.
+
 	Panel 5-6:  "The Raven" was a poem by author Edgar Allan Poe, who
 almost singlehandedly created both mystery and the modern horror genre.  It's
 central characters were an author and a raven who quoth "Nevermore" rather
@@ -104,6 +96,8 @@ Page 5:  This is a recap of _Sandman_ #9.
 Page 6:  This is a recap of _Sandman_ #4.
 
 Page 7 panel 1:  Interesting information on the nature of the Endless.
+       panel 4:  This guy is Abudah. He also appears as Mervyn's sidekick
+                 in issue 60, pp. 21-23 
 
 Page 8 panel 3:  Neil Gaiman has said that the raven companions of Dream dwell
 in Eve's cave.
@@ -112,7 +106,9 @@ in Eve's cave.
 	Panel 5:  Samael ("Poison Angel") was the principal angel of death in
 medieval Jewish folklore, where he is under the control of God.  Many alternate
 spellings exist.  In the Targum, an Aramaic paraphrasing/translation of the Old
-Testament, Samael is identified with Lucifer.  Robert Graves, a British poet,
+Testament, Samael is identified with Lucifer, According to "Man Myth and Magic: 
+an illustrated encylcopedia of mythology religon and the unknown", Samael was 
+"incorrectly identified with Lucifer.".  Robert Graves, a British poet,
 classicist, and translator, and much-admired writer of several works of and
 about myth and historical novels such as _I, Claudius_, translates Samael as
 "Venom of God".  Hebrew myth calls Samael "Chief of all Satans" ("Satan" =
@@ -149,6 +145,12 @@ tells of Cain's punishment by the Creator.
 able to make "l" sounds with no difficulty.  In general, though, labial sounds
 like "m" have been shifted back in the mouth, since the creature has a problem
 with its lips.
+I <Mortis5555@aol.com> think the reason she can't say an 'L' sound is because 
+she has no tongue.
+Or at least not a whole toungue. Also, Gaiman seems to imagine most of these
+characters with English accents, so then the sound she might be making instead
+of "er" would be more like "uh". (probably why it's spelled "Ruszcivah" instead 
+of "Ruszciver"). He might be intending it to sound more like "Uszcivah".
 
 Page 11 Panel 1-3:  No direct confirmation of Lucifer's story.  Gnostics
 included several early heretical Christian sects (possibly the Mandaeic sect)
@@ -225,6 +227,7 @@ Page 22 panel 3:  Cain is exaggerating.  Lucifer didn't actually harm him, did
 he; he does bear some respect for the creator's mark.  See page 10 panel 8.
 
 Contributors include:
+    Originally written by Greg Morrow
 	Dennis c hwang <hwa5@midway.uchicago.edu>, David Goldfarb
 (goldfarb@ocf.berkeley.edu), Tom White (twhite@mozart.amd.com), and Michael
 Bowman (mbowman@andromeda.rutgers.edu) corrected my memory of Poe's title for
@@ -264,6 +267,8 @@ followed up on his lead.
 	Colonel G.L. Sicherman <gls@windmill.att.com> explained the Queen Bess
 quote and displayed oenological knowledge, which sounds like something he
 should be cited for, and is!
+    <Mortis5555@aol.com> added a comment on Mazikeen's speech
+	Ralf Hildebrandt added more details
 
 Appendix:  Early Fantasists
 

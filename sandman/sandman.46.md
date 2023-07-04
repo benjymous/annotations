@@ -1,19 +1,7 @@
                          The Annotated Sandman
-    
-               Edited and largely written by Greg Morrow
       
                        Issue 46: Brief Lives Six
               Neil Gaiman, Jill Thompson, and Vince Locke
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  Additional
-material in this series is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Reproduction in any form without 
-permission of the editor (as agent for the contributors) is forbidden.
 
 Notes:  See #41.  This issue is structurally similar to #42.
 
@@ -155,14 +143,15 @@ with roughly the same salt content as blood.  The IV tube has a device in
 it through which the fluid can be made to drip at different rates to
 control the speed at which it is fed into the patient.
 
+Page 22:  "Tempus Frangit" means "Time breaks/shatters", which is probably
+why Delirium says "It's stopped". "Tempus Frangit" could also refer to
+Delirium's realm.
+
 Page 23-24:  Del's eyes should be different colors on these pages.  The grey
 tone of her balloons is probably correct, though.
 
-Release history:              
-Version 1.0 released 26 May 93
-Version 2.0 released and archived 29 Aug 93
-
 Contributors include:
+    Originally written by Greg Morrow
 	Jacob Solomon Weinstein (jacobw@phoenix.Princeton.EDU) noted
 Carroll's _Sylvie and Bruno_.
 	Lance Smith (lsmith@myria.cs.umn.edu) and David Goldfarb
@@ -188,6 +177,8 @@ Friedman (friedman@husc10.harvard.edu) also chimed in with some speculation
 about the unwritten book.
 	Andrew Solovay (solovay@netcom.com) and Damon B. Crumpler
 (dbc3@po.CWRU.Edu) recalled Chloe's cat.
+    Timothy Tan aka TiTan <*> -M2001- <*> 083285@bud.cc.swin.edu.au
+	Ralf Hildebrandt added more details
 
 Appendix:  Bast and Bubastis (by Lance Smith)
 
@@ -300,3 +291,4 @@ Also possibly including _The Moon of Much Gladness_.  He also wrote a
 series of books about a blind detective named Max Carrados.
 
 Bramah's real name was E.B. Smith.
+

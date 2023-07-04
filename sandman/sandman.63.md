@@ -1,22 +1,8 @@
                              The Annotated Sandman
 
-                Edited and largely written by David Goldfarb
-
                       Issue 63: "The Kindly Ones: 7"
 
                           Neil Gaiman, Marc Hempel
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 1 panel 1: The first panel of every issue in the main arc contains a
 string or cord of some kind. Here, an electrical cord.
@@ -78,12 +64,10 @@ Page 23 panel 4: Well, it's clear that when the ravens leave the Tower of
 London, the kingdom of England is supposed to fall. No specific refs on this,
 however. Here it's a different kingdom that will be falling.
 
-Release History:
-Version 1.0 released 5 Dec 94.
-
 Credits:
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 Annotations.
+        Originally written by David Goldfarb
 	Lance "Squiddie" Smith (lsmith@cs.umn.edu) identified Larissa's book,
 and the name "Larissa".
 	Adam Huby (ajh@crosfield.co.uk) gave some more biographical information

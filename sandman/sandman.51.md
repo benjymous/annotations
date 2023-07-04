@@ -1,7 +1,5 @@
                            The Annotated Sandman
 
-              Edited and largely written by David Goldfarb
-
                       Issue 51: "A Tale of Two Cities"
      [Note: no official title is given; I am using Gaheris' title for his
                             internal story.]
@@ -9,18 +7,6 @@
        Neil Gaiman, Bryan Talbot, Alec Stevens, Mark Buckingham
 
                     First story in anthology, "Worlds' End" 
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 3 panel 8: Not Kansas? Awww... It's worth noting that Buddy Holly
 (whose music is playing) died in an Iowa field in a snowstorm. In a plane
@@ -61,7 +47,45 @@ Gaiman's) Steven Brust. Neil Gaiman confirms that it's meant as a cameo.
 brother to Gawaine.
 	   Panel 7: By Charles Dickens, of course.
 
-Page 11 panel 6: Compare 36:23:4 and 37:19:2-4.
+Page 10 panels 1 & 5:
+Note the close-ups on the eyes. This recurs through-out the rest of this
+issue.
+ 
+Page 11 panel 3: 
+        Another pair of eyes close-up.      
+
+        panel 6: Compare 36:23:4 and 37:19:2-4.
+
+Page 13 panel 3
+The lights behind the seats resemble eyes. Also, note the colour of the
+lights... (See also note on page 17 panel 5 below.)
+
+Page 14 panel 3
+Yet more eyes...
+
+Page 16 panel 3
+Even more eyes... [etc.]
+
+Page 17 panel 5
+C.f. page 11 panel 3, and page 21 panel 3. All three of them have blue
+eyes.
+
+Page 18 panel 1
+At this point in the story, I was getting the eerie feeling that the city
+would actually turn out to be a small part of a person's face. Here, the
+bridge reminded me of the middle section of the man's glasses. Maybe
+it's just me, though...
+
+Page 19, panel 1<br>
+-from Gaiman's introduction to <br>
+Lovecraft, H. P. <i>The Dream Cycle of H. P. Lovecraft: Dreams of Terror 
+and Death</i>: Del Rey, 1995, page x.<br>
+<b>"There's something about Lovecraft's fiction, about his worlds, that is 
+oddly alluring for a writer of fantasy and horror. I've written three 
+Lovecraftian stories: one obliquely, in <I>Sandman</I>&#151;a quiet, 
+dreamlike story (it's the first story in the <I>World's End</I> 
+collection. You can tell it's Lovecraftian, because I use the word 
+"cyclopean" in it) . . . "</b><br>
 
 Page 20 panel 7: Given that the restaurants are always closed, I can't
 help wondering what Robert is finding to eat. His beard is growing,
@@ -70,20 +94,24 @@ so he's not somehow exempted from normal bodily functions.
 Page 22: Odd that whenever two real people meet, one of them
 immediately returns to the real city. Coincidence, perhaps.
 
-Page 23: Another inn, in which other tales are told; Robert's story
+Page 23: Another inn, in which other tales are told; Gaheris's story
 turns out to be a story-within-a-story.
 
-Release history: 
-Version 1.0 released 29 Apr 94.
-Version 2.0 released 5 Mar 94.
-Version 3.0 released 30 May 94.
+Page 24 panel 6:
+The last panel in this story again focusses on the eyes. This time,
+though, they're Gaheris', and the picture is of his whole face, not just
+his eyes. Note, also, how his eyes are the same colour as his cravat and
+the wine he's drinking (although that could just be a coincidence).
 
 Credits: 
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 annotations, forwarded much useful commentary on "World's End", and helped
 reference Chiron the centaur.
+        Originally written by David Goldfarb
 	D. W. James (vnend@princeton.edu) suggested that Todd Menton
 somehow found his way to the inn of World's End, and noted Steven Brust.
 	Lance "Squiddie" Smith (lsmith@cs.umn.edu) noted the Buddy Holly
 connection, and corrected "Worlds'" vs. "World's". He also explicated the
 term "free house" and noted Steven Brust's appearance.
+        Timothy Hock Seng Tan for numerous corrections and other stuff.
+        Ralf Hildebrandt added more details

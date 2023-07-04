@@ -1,22 +1,8 @@
                            The Annotated Sandman
 
-                Edited and largely written by David Goldfarb
-
                        Issue 61: "The Kindly Ones:5"
 
                     Neil Gaiman, Marc Hempel, D'Israeli
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 1 panel 1: Every Hempel-drawn issue of "The Kindly Ones" has had a string
 of some sort in the very first panel. Here, a strand of spider silk.
@@ -61,17 +47,26 @@ glimmering" is perhaps derived from "nimbus", a halo of light denoting power.
 Page 21 panel 4: An echo, perhaps, of page 9 of issue 12 ("The Doll's House" 
 part 3).
 
-Page 22 panel 3: In Norse myth, Ragnarok was brought on when Loki killed the
-god Balder with, yes, a sharpened sprig of mistletoe. Three years of constant
-winter ensued, and then the end of the world.
+Page 22 panel 3: In Norse myth, Ragnarok was brought on when the god Balder was
+killed. Seven years of constant winter (Finbulvinter) ensued, and then  the end
+of the world.
+It was Loki that tricked a blind God, I don't remember which, into shooting an
+arrow of misteltoe at Balder.
+The story was that the Gods had heard that Ragnarok would be impossible as long
+as Balder was alive. So the Gods went out to all living and dead creatures, and
+asked them not to kill Balder. They all promised to do so. 
+But the gods forgot the misteltoe. 
+So Loki, being jealous of everyone more popular then him, took his revenge. 
+The Gods were all playing about, shooting things at Balder, and having fun when
+he didn't die, when Loki shows up.
 
 Page 24 panel 6: This echoes the death by fire of Ruby the driver in #44
 ("Brief Lives" part 4); and both of these echo the destruction of Nada's
 city seen in issue #9.
 
-Release history:
-Version 1.0 released 1 Nov. 94.
-
 Credits:
-David R. Henry (dhenry@plains.nodak.edu) mentioned cuckold's horns.
-Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman Annotations.
+
+   Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman Annotations.
+   Originally written by David Goldfarb
+   David R. Henry (dhenry@plains.nodak.edu) mentioned cuckold's horns.
+   Ralf Hildebrandt added more details

@@ -1,24 +1,10 @@
                           The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
                            Issue 20:  "Facade"
             Neil Gaiman, Colleen Doran, and Malcolm Jones III
 
                Fourth story in anthology _Dream Country_
         Fourth story reprinted in trade paperback _Dream Country_
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 1:  The central character of the story is Urania "Rainie" Blackwell, who
 first appeared in _Metamorpho_ #10 (1967).  She was an agent with an unnamed US

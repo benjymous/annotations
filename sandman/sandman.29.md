@@ -1,24 +1,10 @@
                          The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
                          Issue 29:  "Thermidor"
                Neil Gaiman, Stan Woch, and Dick Giordano
 
                First story in anthology _Distant Mirrors_
                   Not yet reprinted in any other form
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Sources:  A note in _Sandman_ #31 indicates that the title of this anthology
 came from Barbara Tuchman's text _A Distant Mirror: The Calamitous 14th
@@ -222,6 +208,7 @@ between Greece and Turkey.
 	Panel 4:  Refer back to page 9, and the quote from _Common Sense_.
 
 Contributors include:
+    Originally written by Greg Morrow
 	A number of people chimed in with complete lists of the Revolutionary
 months or explanations of their names, including Laurent Amon
 (lga@sandman.stanford.edu), Stephane "Alias" Gallay (SATELLITE@eldi.epfl.ch),

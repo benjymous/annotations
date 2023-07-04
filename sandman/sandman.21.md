@@ -1,7 +1,5 @@
                          The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
                                 Issue 21
           Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -15,25 +13,13 @@
 
                   Not yet reprinted in any other form
 
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
-
 Page 1 panel 1:  Destiny is the eldest of the Endless.
 	Panel 2: Also note the labyrinthine structure and signs of ancient
 decay in Destiny's garden.
 	It may be that Destiny's garden is a reference to the short story "The
 Garden of Forking Paths" by Jorge Luis Borges, an Argentine writer known in
 literary circles and often mentioned in the same breath as Gabriel Garcia
-Marquex, Italo Calvino and Umberto Eco.  This story is a meditation on time,
+Marques, Italo Calvino and Umberto Eco.  This story is a meditation on time,
 destiny, and death.  It will be found in the collection _Ficciones_.
 	The title "The Garden of Forking Paths" refers to a labyrinth which is
 in fact a book.  Ts'ui Pe^n, the ancestor of one of the characters, was a
@@ -61,6 +47,12 @@ of his power and of destiny in general.
 James Joyce's final novel _Finnegans Wake_, because of the description of it
 as a confusing, contradictory, circular dream, a model of the world in which
 virtually any situation or story can be mirrored.
+
+His role as owner of The book that contains everything (a favourite theme of
+JLB e.g. in _The Book of Sand_, _Library of Babel_ and elsewhere), then we
+have Destiny's blindness. In fact, it's not clear whether Destiny is blind;
+anyway, Borges was. 
+
 	Panel 3:  Note the crosstalk between Dream and Destiny's spheres...
 	Panel 6:  ...although there is no real crosstalk between Death's and
 Destiny's spheres.
@@ -129,11 +121,44 @@ _Sandman_ #16) as well as other works.  A color picture of her can be
 found in issue #4 of Mondo 2000 magazine.  Her hair is blonde and she
 apparently has a propensity for wearing black.
 	As for the relation with Delirium, she was quoted as saying Burroughs
-(presumably not Edgar Rice :-) had been a major influence on her work, though
-Foucault, Deleuze, and Guattari became more important.  She is kown as a
-postmodernist and a feminist writer.  She has spent time in London, though she
-is now back in the US, in San Francisco.  (Delirium has a fondness for that
-place.)  She was born in New York.
+had been a major influence on her work, though Foucault, Deleuze, and
+Guattari became more important.  She is kown as a postmodernist and a feminist
+writer.  She has spent time in London, though she is now back in the US, in San
+Francisco.  (Delirium has a fondness for that place.)  She was born in New York.
+
+Thus writes "Kai'Ckul" <oshinsky@webspan.net>:
+
+Obviously, the Burroughs that Kathy Acker (better known for her book,
+_Portrait of an Eye_) is William Seward Burroughs (1914-1994) who wrote in
+a stream-of-consciousness style reminiscent of Delirium's voice. Burroughs
+was an influence also on Tori Amos, who has come out with many more songs
+with Gaiman references in them, including but not limited to 
+*Horses* "    ... Maybe Neil'll make me a tree..." 
+*Space Dog* " ... Seems I keep getting this story twisted, so where's
+Neil when you need him?"
+and in her song 
+*Hotel* she makes a reference to Gaiman's TV miniseries/novel
+"Neverwhere" ("... hangin' out with the Velvets..."). Getting back to 
+Acker, who recently died of breast cancer, she is a writer who written many
+stories using appropriated material, i.e. material that was taken from some
+other source and writer that she has used in her story, and therefore in a
+new context, to create something radically different than it's intended
+purpose. This again goes back to William S. Burroughs, who's famous "Cut-Up
+Technique" that he created with artist Bryon Gysin, used newspaper articles
+and other found sources of words to mince together to create something new
+and different. Just thought you'd like to know.
+
+Also, "Tear in Your Hand" isn't on Tori's second album, it is on her
+first album.
+	
+	Also also, speaking of Coleridge and butterflies and
+Psyche... Coleridge (who, like Burroughs, was a homosexual and a
+junkie; and I need not go into that whole Morpheus/Morphine thing)
+wrote many poems regarding Desire and Despair. He wrote, in
+particular, the lesbian homo-erotic gothic poem "Christabel," about a
+girl who gets seduced by a succubus, and a short piece entitled
+"Psyche," which, coincidentally enough, juxtaposes the Psyche to a butterfly. 
+hmmmmmmm...
 
 Page 8 panel 4:  Note Delirium's mismatched eyes.
 
@@ -189,6 +214,7 @@ Page 23 panel 1:  In reference to Lucifer's perceived humiliation in the loss
 of a demon to Dream in _Sandman_ #4.
 
 Contributors include:
+    Originally written by Greg Morrow
 	Jim W Lai <jwtlai@watcgl.waterloo.edu> noted Destiny's garden's
 structure and explicated the Grey Ladies.  He also noted the use of
 hallucinogens to initiate visions and the Greek myth of butterflies.
@@ -204,6 +230,8 @@ picture of Delight, Destiny's servitors, and the changing paths of the Garden.
 information on Tori Amos.  He also forwarded a note from Graham
 <graham@itmel.bhp.bhpmel02.telememo.au> about Tori & Delirium & Neil Gaiman.
 	Elisabeth Riba (lis@chaos.cs.brandeis.edu) notes Desire's eye color.
+	"Kai'Ckul" <oshinsky@webspan.net> commented on 'Burroughs'
+	Ralf Hildebrandt added more details
 	And finally, Doug Atkinson (douga@yang.earlham.edu) presents:
 
 

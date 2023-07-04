@@ -1,7 +1,5 @@
                          The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
                                 Issue 27
              Neil Gaiman, Kelley Jones, and Dick Giordano
 
@@ -16,18 +14,6 @@
                           others are pushed.
 
                   Not yet reprinted in any other form
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 1 panel 2:  It is assumed that the reader recognizes the significant
 characters, and recalls the significant events, of this storyline.
@@ -100,16 +86,22 @@ Page 19 panel 4:  Did anyone _not_ see this conclusion coming from a couple of
 light-years away?
 
 Page 20 panel 1:  The skull in Dream's souvenir chest is that of the
-Corinthian, from _The Doll's House_.  Note the bottled city:  Kandor?  Note the
-penny:  There is a giant penny in Batman's Batcave,  a souvenir of one of his
-early cases, although it is unlikely that Dream would have a copy.  Is the
-pocketwatch Dr. Manhattan's?
+Corinthian, from _The Doll's House_. Note the penny:  There is a giant penny
+in Batman's Batcave,  a souvenir of one of his early cases, although it is
+unlikely that Dream would have a copy.
+<jurph@gondor.org> says:
+The city in a bottle is indeed Baghdad ("Ramadan") and the pocketwatch 
+belongs to Prez ("The Golden Boy", world's end #5), as seen on page 24,
+panel 2.  Its history is given in the preceding few pages.
+There is also a tankard shown.  Perhaps this is the tankard Dream first
+drank from when meeting Hob Gadling?
 
 Page 22 panel 8:  Loki's remark will be expounded upon next issue.
 
 Page 24 panel 2:  Matthew's remark has ominous reverberations.
 
 Contributors include:
+    Originally written by Greg Morrow
 	Bill "Peach Melba" Sherman, <sherman@math.ucla.edu>, corrected my New
 Testament recollections, recalled a point of similarity between Faerie and
 Olympus, and hadn't seen the revised edition of 24, which explains Kvasir.  He
@@ -123,3 +115,4 @@ Seneferu.
 Niddhogg, and corrected one of my page numbers.
 	Jim W Lai <jwtlai@jeeves.waterloo.edu> spotted a previous appearance of
 Faceless, Thor's headache, and the Corinthian's skull.
+	<jurph@gondor.org> noticed the bottled city and pocketwatch

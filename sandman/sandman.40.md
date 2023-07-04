@@ -1,24 +1,10 @@
                          The Annotated Sandman
-    
-               Edited and largely written by Greg Morrow
       
                  Issue 40:  "The Parliament of Rooks"
               Neil Gaiman, Jill Thompson, and Vince Locke
 
                 Third story in anthology _Convergences_
                   Not yet reprinted in any other form
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you 
-see this material on any other forum.  Reproduction in any form without 
-permission of the editor (as agent for the contributors) is forbidden.
 
 Themes:  _Convergences_ is about storytelling, as is _Sandman_ overall.  In
 particular, _Convergences_ tells tales where the storyteller becomes the 
@@ -193,11 +179,8 @@ mystery, often called "whodunnits".
 Page 24 panel 1:  Note the Vogue cover.
 	Panel 2:  Note the cigarette pack in the ad.
 
-Release history:             
-Version 1.0 released 9 Jan 92
-Version 2.0 released and archived 30 Apr 93
-
 Contributors include:
+    Originally written by Greg Morrow
 	Jim W Lai <jwtlai@jeeves.waterloo.edu> passed along a message from
 GEnie's TERRY.OBRIEN about Jill Thompson's art.
 	The Theme Team consulted on the literary deconstruction of

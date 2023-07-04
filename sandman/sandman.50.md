@@ -1,23 +1,9 @@
                          The Annotated Sandman
-    
-       Edited and largely written by Greg Morrow and David Goldfarb
       
                           Issue 50:  "Ramadan"
                     Neil Gaiman and P. Craig Russell
 
               Fourth story in anthology _Distant Mirrors_
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material 
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you 
-see this material on any other forum.  Reproduction in any form without 
-permission of the editor (as agent for the contributors) is forbidden.
 
 Note:  This story was written in prose by Neil Gaiman, then adapted to comics
 by Craig Russell.  Most of Russell's work has been adaptations.
@@ -100,11 +86,27 @@ Page 13 panel 5:  I flashed on the Nome King's jeweled forest from
 _Tik-Tok of Oz_.
 
 Page 14 panel 1:  Rukh:  More familiarly rendered as the Roc of Madagascar. 
->From "The Second Voyage of Sinbad the Sailor".
+From "The Second Voyage of Sinbad the Sailor".
 	Panel 3:  Phoenix:  A mythical bird which lives one thousand years,
 then dies in flame and is reborn from its own ashes.  There are no eggs in
 the traditional version of the story, nor is there a phoenix in my source
 for the Arabian Nights.
+Sorcha <sorcha_obrien@esatclear.ie> found this the Encyclopaedia
+Britannica under the entry on the phoenix: 
+
+in  ancient  Egypt and in classical antiquity, a fabulous bird
+associated with the worship of the  sun. The Egyptian phoenix was said
+to be as large as an eagle, with brilliant scarlet and gold plumage and
+a melodious cry. Only one phoenix existed at any time, and it was very
+long-lived--no ancient authority gave it a life span of less than 500
+years. As its end approached, the phoenix fashioned a nest of aromatic
+boughs and spices, set it on fire, and was consumed in the flames. From
+the pyre miraculously sprang a new phoenix, which, after embalming its
+father's ashes in an egg of myrrh, flew with the ashes to  Heliopolis
+("City of the Sun") in Egypt, where it deposited them on the altar in
+the temple of the Egyptian god of the sun, Re. A variant of the story
+made the dying phoenix fly to Heliopolis and immolate itself in the
+altar fire, from which the young phoenix then rose.
 
 Page 15 panel 3:  The Seal of Solomon has power over spirits.  See below.
 	panel 5:  The arches and columns seem to be taken from a photo
@@ -170,11 +172,8 @@ tend to preclude his identification as the storyteller.
 a reference to one of the stories in the Nights concerning an uninhabited
 treasure house.
 
-Release history:
-Version 1.0 released 18 Jul 93.
-Version 2.0 released 26 Apr 94.
-
 Contributors include:
+	Originally written by Greg Morrow and David Goldfarb
 	Torsten Wesley Adair <torsten@cwis.unomaha.edu> passed along
 information about the adaptation of the story.
 	August Paul Yang (wntrmute@jhunix5.hcf.jhu.edu) identified the Seal
@@ -189,6 +188,5 @@ in particular.
 	Ian Taylor (ian@airs.com) identified Ishak.
 	Bill Sherman (sherman@math.ucla.edu) identified the mosque at
 Cordoba and commented on the city of brass.
-
-			    David Goldfarb
-                       goldfarb@ocf.berkeley.edu
+	Sorcha <sorcha_obrien@esatclear.ie> found a reference about the Phoenix
+	

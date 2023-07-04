@@ -1,24 +1,10 @@
                             The Annotated Sandman
 
-               Edited and largely written by David Goldfarb
-
                          Issue 53: "Hob's Leviathan"
 
 		   Third story in anthology, "Worlds' End"
 
  Neil Gaiman, Michael Zulli, Dick Giordano, Bryan Talbot, Mark Buckingham
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Cover: Note the photograph in the lower left, which was used in the
 cover to issue #51. The covers to "Worlds' End"  are nested and inter-
@@ -51,8 +37,8 @@ Pears" -- "stairs".
 page 11 panel 4: Note the resemblance between this king and the stow-
 away.  The story itself is apparently an old Indian folk tale.
 
-page 13 panel 4: "Rukh": from context, the surrounding countryside.
-Anyone have a definitive meaning?
+page 13 panel 4: Rukh:  More familiarly rendered as the Roc of Madagascar. 
+From "The Second Voyage of Sinbad the Sailor". 
 
 page 14 panel 3: The phrase "Golden Road to Samarkand" turns up in the 
 works of British poet James Elroy Flecker. I haven't been able to find this
@@ -62,18 +48,22 @@ page 22 panel 3: It's clear that the stowaway is an immortal. If this is
 indeed the king from the tale, then he very likely has a perfect right to 
 call Hob Gadling "young".
 
+page 23 panel 3:
+In the Kindly Ones arc, Hob Gadling mentions a previous wife of his called
+Peggy. (Don't have the exact reference.) Could "Jim" be the same person he
+mentions?
+
 page 24 panel 2: There is a sea-ballad called "The Handsome Cabin Boy".
 Kate Bush has recorded it, among others.
-
-Release History: 
-Version 1.0 released 10 May 94.
-Version 2.0 released 30 May 94.
 
 Credits: 
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 Annotations and forwarded much useful information regarding "Worlds' End". 
 He also caught "Call me Jim" and identified the rhyming slang.
+        Originally written by David Goldfarb
 	Lance "Squiddie" Smith (lsmith@cs.umn.edu) noted the relationships
 between the covers.
 	Abhijit Khale (Abhijit_Khale@transarc.com) identified the Indian
 story.
+        Timothy Hock Seng Tan for the reference to Peggy
+        Ralf Hildebrandt added more details

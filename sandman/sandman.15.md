@@ -1,24 +1,10 @@
                           The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
                         Issue 15:  "Into the Night"
            Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
               Sixth part of long storyline _The Doll's House_
        Eighth story reprinted in trade paperback _The Doll's House_
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 1 panel 2:  This is Hal talking.
 	Panel 3:  They're talking about Jed.  He's probably concussed from
@@ -64,8 +50,19 @@ Page 6-7:  Chantal's dream occupies the top half of the double-page spread,
 Zelda's the bottom.  The illustration of the two sleeping implies that they are
 lovers.  Their relationship was uncertain to the other residents of the house.
 	Note that the original comic, a caption from Zelda's dream appears in
-the central panel, but is virtually obscured by a lace overlay on the art.  Can
-someone with _The Doll's House_ tpb please e-mail me the text of that caption?
+the central panel, but is virtually obscured by a lace overlay on the art.
+
+The caption reads:
+Mommy and Daddy told me to go away so here I am in the old bone orchard                               
+nobody understands me nobody cares nobody else userstands it the beauty                               
+of the lost necropolis is the Charnel charm,                                                          
+                                                                                                      
+The second caption:
+                                                                                                      
+oh but chantal comes along and shows me she's my soul sister me and her                               
+true gothic heroines secret brides of the faceless slaves of the                                      
+forbidden house of the nameless night of the castle of dread desire                                   
+
         Chantal panel 1:  Chantal's self-image is flat, all solid colors and
 lines, a sophisticated-looking lady.  The style resembles artist Patrick Nagel.
 The caption reads:  "Chantal is having a relationship with a sentence.  Just
@@ -173,7 +170,12 @@ William Makepeace Thackeray.  This is now believed incorrect.
 overlay on the artwork.
 
 Page 14 panel 1-3:  Hal is recalling a former lover, Robert.  Hal is obviously
-homosexual and not just a transvestite.  Can anyone identify the song?
+homosexual and not just a transvestite.
+The song If I Were a Bell is from the Broadway musical
+["Guys and Dolls"](http://uk.imdb.com/M/title-substring?title=Guys+and+Dolls&tv=both)
+and it occurs when the romantic leads, Sky Masterson and Sarah Brown, are on a
+romantic getaway together. She sings it to express how happy she is. A common
+stereotype is that gay people enjoy showtunes.
 
 Page 15:  The commentary on Barbara is important in the context of the later
 storyline.  Hal is pictured walking on the Yellow Brick Road toward the
@@ -214,6 +216,7 @@ I suspect that the best explanation is that the mere existence of the Endless
 engenders rules, that rules _are_ because They _are_.
 
 Contributors include:
+    Originally written by Greg Morrow
 	Michael Kelly (mkelly@wimpy.helios.nd.edu) spotted the resemblence
 between "Godzilla" and "Zelda."
 	James Drew (jrd@frame.com) gave insight into Hal's dream.
@@ -242,3 +245,4 @@ she can't read the sentence, it's worth noting that no one can read anything in
 a dream.  That portion of the brain doesn't appear to function during REM sleep.
 	Compu$erve's Ben Sano 72401,2736 identified Chantal's recursive story,
 as relayed by Dave "Ed, the Anti-Dave" Stobbe <dave.stobbe@canrem.com>.
+   Ralf Hildebrandt added more details

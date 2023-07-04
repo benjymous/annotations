@@ -1,22 +1,8 @@
                              The Annotated Sandman
 
-                Edited and largely written by David Goldfarb
-
                       Issue 62: "The Kindly Ones: 6"
 
        Neil Gaiman, Glyn Dillon, Charles Vess, Dean Ormston, D'Israeli
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 1 panel 1: This is the only first panel in the story so far that has
 *not* had a string or thread of some sort. This issue hearkens back to
@@ -48,9 +34,32 @@ a reference to a book by Arthur C. Clarke; then again it may just be a
 common name for an inn.
 
 Page 4 panel 1: Paul McGuire was last seen all the way back in issue #1.
-       panel 4: The first of the Sikh Wars broke out in India near the end 
-of 1845. That's the only thing that could be called a "'45 Rebellion" that
-I've been able to find.
+       panel 4: Megan Schreiber found out about the '45 Rebellion:
+
+The '45 Rebellion (courtesy the Encyclopedia Americana, 1998 edition)
+
+"In 1745, during the War of the Austrian Succession (1741-1748), when Britain
+was ranged with Austria against France and Prussia, there took place another
+Jacobite rising, known as "The Forty-five." What distinguished it from its
+predecessor was that The Fifteen had organization but no leader, while The
+Forty-five had no organization but a leader in Princes Charles Edward, the
+Bonnie Prince Charlie of history and romance.
+
+The pretender's early success was phenomenal. He landed in the west of Scotland
+on July 12 with seven followers, gathered Highland recruits as he marched
+south, captured Edinburgh on September 17, and defeated the forces of George
+II at Prestonpans on September 21. After a few weeks' stay in Edinburgh he
+invaded England with 6,000 men and got as far as Derby in his planned advance
+to London.
+
+At Derby, however, the Highland chiefs who formed his main support refused to
+advance further, although the evidence indicates that had they done so London
+would probably have fallen into their hands. Turning back, Charles Edward soon
+realized that a rebellion on the defensive has already failed. 
+He was driven to the north of Scotland, where on April 16, 1746, at Colloden,
+near Inverness, his forces were decisively defeated by those of the Duke of
+Cumberland, a younger son of George II. Charles Edward escaped to France, but
+his party was severely punished."
 
 Page 5 panel 4: Of course, three. What other number could be chosen?
 
@@ -64,8 +73,15 @@ oppositely-colored squares it's impossible to make a jump...
        panel 3: Here we see that "Maiden" and "Crone" are relative terms. Note
 that Amelia and Magda have a strong visual resemblance to Mildred and Mordred 
 of the Three Witches.
-       panel 5: Presumably "Blockbuster" is an English TV game show? From the
-dialogue it sounds a bit like "Wheel of Fortune".
+       panel 5: "Blockbuster" is a long-running TV show hosted by Bob Holness.
+They test whether 2 heads are better than one, by having a team of one play 
+against a team of two.  (NB.  3 contestants).
+It's essentially a quiz-board game.  Teams "win" squares by answering questions.
+Then they choose which square to attempt next.
+All the squares have letters on and the questions are phrased like "Which P is 
+the capital of France?".
+Hence the old joke "I'll have a P please, Bob"  meaning to attempt the P square, 
+but when the old ladies say it it means "pee" as in piss.
 
 Page 10: For those who don't read letter columns (or who will read this story
 in book format): the story that follows is not Gaiman's invention, but can be
@@ -107,11 +123,10 @@ a Mockingbird", by Harper Lee; no refs on "Fish Paste" or "Timularo".
 
 Page 23 panel 3: Those who've read issue #1 know for certain that they are not.
       
-Release History:
-Version 1.0 released 28 November 94.
 Credits:
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman 
 Annotations.
+       Originally written by David Goldfarb
 	Mean Mister Mustard (marcs@wam.umd.edu) speculated on Helena's 
 identity, and noted the connection between the women's names and the Furies'.
 	James Tze-Ming Hsiao (hsaio@beach.cis.ufl.edu) and Katie Schwarz 
@@ -119,3 +134,5 @@ identity, and noted the connection between the women's names and the Furies'.
 the owl, and the cat.
 	Katie Schwarz also noted the echo of Rose's first appearance and the 
 disappearing snow.
+       Megan Schreiber found out about the '45 Rebellion
+       Ralf Hildebrandt added more details

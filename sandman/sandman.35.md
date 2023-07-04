@@ -1,24 +1,10 @@
                          The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
                 Issue 35:  "Beginning to See the Light"
                      Neil Gaiman and Shawn McManus
 
                Fourth part of storyline _A Game of You_
                   Not yet reprinted in any other form
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Title:  _A Game of You_ clearly refers to the question of identity.  Who and
 what the characters in this story are is a question either to the readers or to
@@ -108,11 +94,8 @@ Page 21 panel 6: 'Nana:  probably banana.
 Page 24 panel 3:  This is a big clue to the nature of the inhabitants of the
 Land (but somewhat misleading about the nature of the Cuckoo).
 
-Release history:
-Version 1.01 released 11 Oct 92
-Version 2.0 released and archived 9 Jan 93
-
 Contributors include:
+    Originally written by Greg Morrow
 	John Ptacek (ptacek@nucst13.neep.wisc.edu) identified the common
 thread in _Game of You_'s chapter titles, and identified this issue's title
 in particular.

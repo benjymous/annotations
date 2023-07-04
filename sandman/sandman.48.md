@@ -1,19 +1,7 @@
                          The Annotated Sandman
-    
-               Edited and largely written by Greg Morrow
-      
+          
                       Issue 48: Brief Lives Eight
               Neil Gaiman, Jill Thompson, and Vince Locke
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@physics.rice.edu (Internet) or morrow@fnal.BITNET.  Additional
-material in this series is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Reproduction in any form without 
-permission of the editor (as agent for the contributors) is forbidden.
 
 Notes:  See #41.  It's hard to break this one down into sections, but I
 think it goes: 1: 1-6; 2: 7; 3: 8-10; 4: 11; 5: 12-13; 6: 14-15; 7: 16; 8:
@@ -179,11 +167,8 @@ Child:  "Nothing."
 	This is inverted in Alan Moore's Halo Jones series, which ends with
 "Where did she go?  Out.  What did she do?  Everything!"
 
-Release history:              
-Version 1.0 released 31 May 93
-Version 2.0 released and archived 18 Sep 93
-
 Contributors include:
+    Originally written by Greg Morrow
 	Lance Smith (lsmith@cs.umn.edu) passed along some salient points
 from Jill Thompson's interview in _Musings_ #1.
 	Alexx Kay (Alexx@world.std.com) pointed out the Dahl "Up, out"

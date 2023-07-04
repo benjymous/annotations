@@ -1,22 +1,8 @@
                              The Annotated Sandman
 
-                Edited and largely written by David Goldfarb
-
                       Issue 65: "The Kindly Ones:9"
 
                   Neil Gaiman, Marc Hempel, Richard Case
-
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-goldfarb@ocf.berkeley.edu (Internet) or goldfarb@UCBOCF.BITNET.  This material
-is posted by the editor directly to rec.arts.comics, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
 
 Page 1 panel 1: The recurring theme for this panel has been strings or cords;
 here its significance is made most explicit.
@@ -46,6 +32,11 @@ Dream's throne room.
 deliberate parallel between this mansion, Dream's prison for decades, and
 Dream's castle.
 	  panel 7: Note the panel border here. Rose has left the waking world.
+As mentioned in an earlier annotation, a dream in which you go down into a
+basement signifies a confrontation of something in your unconscious - 
+usually a fear or something unpleasant. Here, Rose is probably confronting
+the fact that Jack Holdaway may not love her.  (Naturally, Desire is
+there, since Rose is talking about love!)
 
 Page 6 panel 1: The copy of _It_ on the floor is no doubt the one that the
 guard was reading in 1:25:3 and again (six years later) during Dream's escape.
@@ -104,12 +95,10 @@ of each animal there were on Noah's ark. 6:19 says two of each; 7:2 says
 two of each unclean creature, and seven of each clean creature.
 	   panel 5: Utnapishtim was the hero of the Babylonian flood myth.
 
-Release History:
-Version 1.0 released 4/1/95.
-
 Credits:
 	Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman
 Annotations.
+    Originally written by David Goldfarb
 	Carl Fink (carlf@panix.com) provided information on Utnapishtim and
 Noah.
 	Joe Brenner (doom@kzsu.Stanford.EDU) noted the Velvet Underground song.
@@ -119,3 +108,5 @@ the echoes of Dream's castle in the mansion.
 	David Silberstein (dasbc@cunyvm.cuny.edu) noted the keys and the echoes 
 of Dream's castle; translated "Swartalfheim"; and recalled Thessaly's deeds in
 "A Game of You".
+    Timothy Tan aka TiTan <*> -M2001- <*> 083285@bud.cc.swin.edu.au
+    Ralf Hildebrandt added the note about dreams going into basements

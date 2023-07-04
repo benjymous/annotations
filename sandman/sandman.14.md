@@ -1,28 +1,23 @@
                           The Annotated Sandman
 
-               Edited and largely written by Greg Morrow
-
                          Issue 14:  "Collectors"
            Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
               Fifth part of long storyline _The Doll's House_
        Seventh story reprinted in trade paperback _The Doll's House_
 
-Disclaimer:  Sandman and all related characters are copyrights and trademarks
-of DC Comics Inc.  Sandman and this annotation are intended for mature
-audiences only.
-
-Notice:  Commentaries and additional information should go to
-morrow@fnal.fnal.gov (Internet) or morrow@fnal.BITNET.  This material is
-posted by the editor directly to rec.arts.comics and COMICS-L, and is licensed
-to appear on Compu$erve and GEnie.  It is also available via anonymous ftp
-from theory.lcs.mit.edu in pub/wald/sandman.  Please contact the editor if you
-see this material on any other forum.  Reproduction in any form without
-permission of the editor (as agent for the contributors) is forbidden.
-
 Page 1:  We are back to the real storyline after last issue's side trip, in
-Dodge County, Georgia.
-	Panel 4:  The song is "Lydia the Tattooed Lady" as sung by Groucho Marx
+Dodge County, Georgia. The motel where the conference is held has a sign 
+outside which says: "Cereal convention", the pun being obvious.
+
+bignickl@swbell.net notes: One of the 'cereal' guests at the convention is
+Chris Carter, from the proto-Industrial group Throbbing Gristle (not CC from
+the X-Files).
+
+<IMG SRC="trbbnggrsl.jpg">
+<IMG SRC="Sandman_Chris.jpg">
+
+       Panel 4:  The song is "Lydia the Tattooed Lady" as sung by Groucho Marx
 in one of the Marx Brothers movies.
 
 Page 2 panel 1, and others:  Notice how the bits of con-goer talk always
@@ -48,10 +43,26 @@ pornography in contrast with his "I run a clean place" speech.
 
 Page 6 panel 3:  G.K. Chesterton, after whom Gilbert is modeled, was fond of
 paradoxes.
-	Panel 4:  Confirmation that Barnaby and Clarice were killed in
+       Panel 4:  Confirmation that Barnaby and Clarice were killed in
 _Sandman_ #12.
 
-Page 7 panel 1:  Gilbert's claim about Perrault is essentially correct.
+Page 7 panel 1:  Gilbert's claim about Perrault is in fact innacurate, in a 
+most strange way. 
+As near as I can figure, Gaiman had done his research, but confused things a
+little. The original oral tale, one with variations to be found as far away
+as China, most probably ended with strong sexual connotations, but with the
+girl surviving and killing the wolf. Perrault, the first to write a
+variation of the story down, quite likely was the first to *change* the
+ending to the down note of the wolf eating the girl (however, he added a
+witty poem at the end which explained and illuminated the preceding unhappy
+tale; Perrault also added the red cap). The Grimm brothers combined a
+variation  of Perrault's with the ending of another tale in which the the
+prey escapes *from* the belly of the predator. However, many other folk
+tales *were* prettified by writers.
+
+Funland does and says some of the same stuff as the story when he attacks
+her on page 29 (calling her a slut, telling her she won't need her dress any
+more, etc.) 
 
 Page 8 panel 6:  How could get it worse?  Cannibalism, pedophilia, being eaten
 by wild animals?  No, I don't want to know.
@@ -79,8 +90,11 @@ Nimrod "collects" women.
 Page 14 panel 2:  The list reads:  Don't Look Now, The Collector,
 Manhunter, From the Life of the Marionettes, In Cold Blood, Compulsion,
 Straight on till Morning, ? on Scream[ing?], Night of the (?).  _Don't Look
-Now_ may be related to a short story by Daphne du Maurier, which has a grisly
-end.  _Manhunter_ is  a movie based on the Thomas Harris novel _Red Dragon_,
+Now_ -- made in 1973, is related to a short story by Daphne du Maurier,
+which has a grisly end -- a good and scary. Here's the 
+[factsheet from E! Online](http://www.eonline.com/Facts/Movies/0,60,4977,00.html)
+and the [IMDb](http://uk.imdb.com/Title?0069995).
+_Manhunter_ is  a movie based on the Thomas Harris novel _Red Dragon_,
 featuring a serial killer.  Harris wrote another, better book, which was made
 into another, better movie about a serial killer, _Silence of the Lambs_.  _In
 Cold Blood_ is probably the film version of Truman Capote's book about
@@ -150,11 +164,27 @@ Page 26 panel 2:  A "grass widow" is a divorced woman or a woman who is
 separated or often separated from her husband.
 	Panel 3:  "There is no sanity clause" is a pun.  Santa Claus is an
 American mythic figure associated with Christmas, and American and British
-common law make special provisions for insane criminals.  Most serial killers
-are adjudged insane, of course.  The Candy Man's statement is, of course,
-ironic in the extreme, since he's ignoring the _slight_ abnormality of
-_killing_.
-	Fans of "there is no sanity clause" are advised to look at the Marx
+common law make special provisions for insane criminals.
+
+Will Hooper notes:
+
+Serial killers do not meet the criteria for a NGI (Not Guilty by reason of
+Insanity) plea, that criteria being that, due to mental illness, the accused
+was incapable of discerning the difference between right/wrong or
+legal/illegal. Serial Killers, or Serial Sexual Psychopaths (Sociopaths,)
+are quite able to see that their actions are illegal; they simply don't
+care. As examples, look to Ted Bundy (jailed, then executed), John Wayne
+Gacy (jailed, then executed), and Jeffrey Dahmer (jailed, murdered in
+prison.) The reason I am familiar with this stuff is that my father is a
+forensic psychiatrist, and he works at a secure hospital for the criminally
+insane. One of the major components of his job is evaluating and testifying
+about the mental state of accused violent offenders, and treating NGI
+patients in the hospital.
+
+The Candy Man's statement is, of course, ironic in the extreme, since he's
+ignoring the _slight_ abnormality of _killing_.
+
+Fans of "there is no sanity clause" are advised to look at the Marx
 Brothers film _A Night at the Opera_, as well as in Walt Kelly's comic strip
 _Pogo_.  We may note that Neil Gaiman is alleged to have a Groucho bust in his
 office, and likes to work with late night movies on, so it's a good bet that he
@@ -192,6 +222,7 @@ Page 36 panel 6:  Gilbert has found Jed, who is what was hidden in the
 Corinthian's trunk.  Boot is British for trunk.
 
 Contributors include:
+    Originally written by Greg Morrow
 	Tom White (twhite@mozart.AMD.COM) found the issue of _Swamp Thing_ with
 the Bogeyman and checked _Hellblazer_ for the Family Man.  He also identified
 _In Cold Blood_.  And noted a part of the origin of Fun Land's hat.  Stop this
@@ -223,3 +254,5 @@ literary antecedents of Fun Land's dream.
 	William Sherman <sherman@math.ucla.edu> chimed in with a late
 identification of "Lydia"; identified the coathanger routine; corrected the
 Capote reference; and sang "Moon River" for us.
+    Beth Winter <renfri@astercity.net> for the Don't look now reference.
+	Ralf Hildebrandt added more details
