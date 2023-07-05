@@ -3,5 +3,5 @@
 
                              Issue 75: "The Tempest"
 
-                            Neil Gaiman, Michael Zulli
+                            Neil Gaiman, Charles Vess
 

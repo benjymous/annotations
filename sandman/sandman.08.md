@@ -47,7 +47,8 @@ Burgess cast his spell.  The weakened Dream was unable to resist the call.
 Another hint at this prequel is given in _Sandman_ #47.  Note that
 Dream is carrying all his tools at the time of his capture.  Neil has said
 that he is interested in writing a miniseries about these events after
-the main series is concluded.
+the main series is concluded, which indeed happened 17 years after the end of
+The Sandman with the release of Overture in 2013.
 
 Intro, page 2, paragraph 4:  The information that the Order was embroiled in a
 scandal when Sykes and Cripps was also mentioned in Sandman
@@ -276,4 +277,5 @@ pointed out Harry's picture and puns on the comedian.
     Timothy Tan aka TiTan <*> -M2001- <*> 083285@bud.cc.swin.edu.au
 	"Kai'Ckul" <oshinsky@webspan.net> wrote about Washington Square Park
 	Ralf Hildebrandt added many more details
+	Richard Munn added the note about Overture
 

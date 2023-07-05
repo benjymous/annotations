@@ -2,7 +2,7 @@
 
                                 Issue 74: "Exiles"
 
-                            Neil Gaiman, Jon J Muth / Michael Zulli [??]
+                            Neil Gaiman, Jon J Muth
 
 This story is similar to #39, _Soft Places_.
 
