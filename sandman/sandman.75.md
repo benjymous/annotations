@@ -1,7 +1,5 @@
+## The Annotated Sandman
 
-                              The Annotated Sandman
+## Issue 75: "The Tempest"
 
-                             Issue 75: "The Tempest"
-
-                            Neil Gaiman, Charles Vess
-
+##### Neil Gaiman, Charles Vess

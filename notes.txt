@@ -1,0 +1,12 @@
+regex to replace (email@addr) with <email@addr>
+
+\(([^\s]+?@[^\s]+?)\)
+<$1>
+
+Replace page panel
+
+^Page (\d+) [pP]anel (\d):
+### Page $1\n#### Panel $2\n
+
+
+
