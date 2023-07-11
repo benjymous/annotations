@@ -16,7 +16,7 @@ The two part parallel each other in structure; compare particularly #41 and #45,
 
 **Cover**: Any art historians out there? Two items that catch the eye are a Rembrandt-like portrait and the head of a Greek or Greek-revival statue.
 
-1: Blossom for a Lady
+### 1: _Blossom for a Lady_
 
 ### Page 1
 
@@ -60,7 +60,8 @@ The two part parallel each other in structure; compare particularly #41 and #45,
 
   Rhodocanakis? Rhodo- is a combinational form meaning "rose". Note the contrast between Naxos's weather and the next scene.
 
-2: Rain in the Doorway
+### 2: _Rain in the Doorway_
+
 **Source**: _Rain in The Doorway_ is a book by Thorne Smith, which is described as:
 
 > a really funny (in more than one sense) fantasy novel from 1933. It begins with a man standing in the doorway of a department store to escape a torrential downpour. Rain dripping down his nose, he feels depressed and dissatisfied... and the doorway behind him opens, a hand reaches out to grab him and he's drawn through into another universe. It seems much like ours, except that people take things much less seriously... as with all Thorne Smith books (he's best known for _Topper_) there is much drunkenness and nudity and silly dialog.
@@ -85,7 +86,7 @@ The two part parallel each other in structure; compare particularly #41 and #45,
 
   **Natter**: British slang for chatty small talk.
 
-**The rhino**: Uncertain slang, probably having to do with the animal's horn.
+  **The rhino**: Uncertain slang, probably having to do with the animal's horn.
 
 - #### Panel 3
 
@@ -101,13 +102,13 @@ The two part parallel each other in structure; compare particularly #41 and #45,
 
   **The Wayward Bus**: A 1957 movie directed by Victor Vicas, starring Joan Collins and Jayne Mansfield, a generally dreary adaptation of John Steinbeck's novel about passengers on a bus. There is no "Rita Marlowe" in the novel, and no actress of that name appearing in any major role in the film. It is more than possible that Delirium is confused.
 
-Delirium might be thinking of Marilyn Monroe in _Bus Stop_. Monroe played a young girl dissatisfied with her life who takes a bus to the big city and hooks up with a cowboy there. Del may be mixing Monroe's name up with that of Rita Haywood, another actress of similar presence.
+  Delirium might be thinking of Marilyn Monroe in _Bus Stop_. Monroe played a young girl dissatisfied with her life who takes a bus to the big city and hooks up with a cowboy there. Del may be mixing Monroe's name up with that of Rita Haywood, another actress of similar presence.
 
 - #### Panel 7
 
   Possibly long-term foreshadowing, given Destruction's comments in 48:17.4
 
-3: Not Her Sister
+### 3: _Not Her Sister_
 
 ### Page 9
 
@@ -117,25 +118,25 @@ Delirium might be thinking of Marilyn Monroe in _Bus Stop_. Monroe played a youn
 
 - #### Panel 3-4
 
-This scene is reminiscent of similar scenes in comics and movies, and is repeated by Dream in 45:16.6. In the 1977 movie _Star Wars_, Obi-Wan Kenobi uses the "Force" on stormtroopers to convince them that "these aren't the droids you're looking for". In _Hellblazer_, street magician John Constantine, an expert at instant hypnosis, bulls his way into a university club by convincing the doorman that he is a guest of a member, and is dressed formally.
+  This scene is reminiscent of similar scenes in comics and movies, and is repeated by Dream in 45:16.6. In the 1977 movie _Star Wars_, Obi-Wan Kenobi uses the "Force" on stormtroopers to convince them that "these aren't the droids you're looking for". In _Hellblazer_, street magician John Constantine, an expert at instant hypnosis, bulls his way into a university club by convincing the doorman that he is a guest of a member, and is dressed formally.
 
 - #### Panel 4
 
   **Note the graffiti**: "pervy" referring to an illustration of nipple chains; "stop defacing public property"; "Going down" next to genitals, referring to oral sex.
 
-Aqueous humor, from the Latin meaning "watery fluid", is the watery, transparent material between the cornea and lens. Vitreous humor, from the Latin meaning "glassy fluid", is the gelatinous, transparent material between the lens and the retina.
+  Aqueous humor, from the Latin meaning "watery fluid", is the watery, transparent material between the cornea and lens. Vitreous humor, from the Latin meaning "glassy fluid", is the gelatinous, transparent material between the lens and the retina.
 
 - #### Panel 5
 
   The song is "Tear in Your Hand" by Tori Amos, from the album _little earthquakes_. The next line is
 
-> If you need me, me and Neil will be hanging out with the Dream King
-> Neil says hi, by the way.
+  > If you need me, me and Neil will be hanging out with the Dream King
+  > Neil says hi, by the way.
 
-Neil is acknowledged in the liner notes of the album. The lyrics on page 10 are also from this song. Note the legal information at the end of the lettercol this issue.
+  Neil is acknowledged in the liner notes of the album. The lyrics on page 10 are also from this song. Note the legal information at the end of the lettercol this issue.
 
-**Freddie....**: A reference to Freddie Mercury of Queen, a bisexual
-man who died of AIDS in 1991. One of Queen's most popular songs is "Another One Bites the Dust."
+  **Freddie....**: A reference to Freddie Mercury of Queen, a bisexual
+  man who died of AIDS in 1991. One of Queen's most popular songs is "Another One Bites the Dust."
 
 ### Page 10
 
@@ -157,7 +158,7 @@ man who died of AIDS in 1991. One of Queen's most popular songs is "Another One 
 
   Obviously, this is Desire, another of Delirium's siblings.
 
-4: Want/Not Want
+### 4: _Want/Not Want_
 
 ### Page 13
 
@@ -165,7 +166,7 @@ man who died of AIDS in 1991. One of Queen's most popular songs is "Another One 
 
   Note Desire's change of clothing. It is not normally so unambiguous in its sexuality. The clothing appears to date from the 1920's "flapper" style.
 
-The unusual pattern on the "walls" are the cells of the Threshold, Desire's stronghold, which is in the form of its body. What part of the body are they in? The cells seems to resemble skin cells, I think.
+  The unusual pattern on the "walls" are the cells of the Threshold, Desire's stronghold, which is in the form of its body. What part of the body are they in? The cells seems to resemble skin cells, I think.
 
 ### Page 14
 
@@ -187,7 +188,7 @@ The unusual pattern on the "walls" are the cells of the Threshold, Desire's stro
 
   Delirium is wrong. Not-wanting is a kind of wanting.
 
-5: The View from the Back of Mirrors
+### 5: _The View from the Back of Mirrors_
 
 ### Page 16
 
@@ -195,7 +196,7 @@ The unusual pattern on the "walls" are the cells of the Threshold, Desire's stro
 
   **Silver flecks**: "Floater" is the common term for tiny bits of matter which float in the vitreous humor. Natural floaters are flakes of detached retina or the remains of a vein which fed parts of the eye during gestation and subsequently withered. Other floaters are small parasites who found their way into the eye and couldn't get back out.
 
-Floaters accumulate with age or with physical trauma.
+  Floaters accumulate with age or with physical trauma.
 
 - #### Panel 4
 
@@ -221,7 +222,8 @@ Note Despair's use of pain to distract her from unpleasant topics.
 
   An extreme example of the eye motif. (Consider also _Seduction of the Innocent_, a 1950's, anti-comics diatribe, which featured much discussion of the "injury to the eye" motif.)
 
-6: Journal of the Plague Year
+### 6: _Journal of the Plague Year_
+
 _Journal of the Plague Year_ is by Daniel Defoe (better known for _Robinson Crusoe_). Defoe lived from c.1661-1731, so he was a young child during the plague of 1665.
 
 ### Page 21
@@ -230,11 +232,11 @@ _Journal of the Plague Year_ is by Daniel Defoe (better known for _Robinson Crus
 
   The plague was actually spread by fleas, which were, of course, carried by dogs and cats. Rats, however, are generally credited with first bringing bubonic plague to Europe.
 
-There were three forms of plague in the epidemics. Bubonic was the most common and the least lethal, with a fatality rate of 60-90% depending on treatment and surrounding conditions. Septicemic and pneumonic plague were both nearly 100% lethal.
+  There were three forms of plague in the epidemics. Bubonic was the most common and the least lethal, with a fatality rate of 60-90% depending on treatment and surrounding conditions. Septicemic and pneumonic plague were both nearly 100% lethal.
 
-The Black Plague killed about 25 million people, amounting to some 20-45% of the people of Europe in the years 1348-1351; the figure is conventionally given as one-third. Peasants and clergy were the most affected.
+  The Black Plague killed about 25 million people, amounting to some 20-45% of the people of Europe in the years 1348-1351; the figure is conventionally given as one-third. Peasants and clergy were the most affected.
 
-The London Plague of 1665 claimed more than 70,000 lives out of a population of about 500,000. The plague had been virtually unknown in England for more than a century previous.
+  The London Plague of 1665 claimed more than 70,000 lives out of a population of about 500,000. The plague had been virtually unknown in England for more than a century previous.
 
 - #### Panel 2
 
@@ -250,7 +252,7 @@ The London Plague of 1665 claimed more than 70,000 lives out of a population of 
 
   **Wheel**: A symbol from Indian philosophy, representing the cycle of life: birth, growth, death, decay. In other words, change.
 
-Note that we cannot see Destruction's eyes clearly.
+  Note that we cannot see Destruction's eyes clearly.
 
 ### Page 23
 
@@ -262,7 +264,8 @@ Note that we cannot see Destruction's eyes clearly.
 
   This fixes Destruction's departure c. 1695. Historical significance?
 
-7: "The Number You Have Dialed..."
+### 7: _"The Number You Have Dialed..."_
+
 This is a quote from a telephone industry recording informing the dialer that the number she is trying to reach is out of service.
 
 ## Credits

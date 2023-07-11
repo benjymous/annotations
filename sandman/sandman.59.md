@@ -18,9 +18,9 @@
 
   **silver cord**: a reference to Ecclesiastes 12:6:
 
-> Or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern.
+  > Or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern.
 
-The most common interpretation is that "silver cord" here is the spinal cord. Some traditions have posited a "silver cord" as a mystical link between body and soul. Puck's quote is also an echo: the verse from Ecclesiastes was used in the funeral service at the end of "A Game of You" -- 37:17:4.
+  The most common interpretation is that "silver cord" here is the spinal cord. Some traditions have posited a "silver cord" as a mystical link between body and soul. Puck's quote is also an echo: the verse from Ecclesiastes was used in the funeral service at the end of "A Game of You" -- 37:17:4.
 
 - #### Panel 5
 
@@ -110,7 +110,7 @@ Madonna, Roseanne Arnold, and Queen Elizabeth.
 
   Redrawing 21:13:6, although from a different perspective.
 
-Note Morpheus' different appearance when he's being drawn by Kelley Jones as opposed to Mike Dringenberg.
+  Note Morpheus' different appearance when he's being drawn by Kelley Jones as opposed to Mike Dringenberg.
 
 - #### Panel 4
 

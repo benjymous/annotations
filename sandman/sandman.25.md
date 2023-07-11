@@ -37,11 +37,12 @@ Not yet reprinted in any other form
 
 - #### Panel 1-3
 
-In August 1990, Iraq, led by Saddam Hussein, invaded Kuwait, taking the many foreign citizens there hostage, including Charles Rowland's father, apparently. However, by December, which is the date of this story, most of the hostages had been released, although I don't remember the exact time when the last healthy males were freed.
+  In August 1990, Iraq, led by Saddam Hussein, invaded Kuwait, taking the many foreign citizens there hostage, including Charles Rowland's father, apparently. However, by December, which is the date of this story, most of the hostages had been released, although I don't remember the exact time when the last healthy males were freed.
 
 - #### Panel 5
 
-  San.: Sanatorium. Perhaps the infirmary for sick students.
+  **San.**: Sanatorium. Perhaps the infirmary for sick students.
+
   From context, "natter" = "chat".
 
 ### Page 6
@@ -54,9 +55,9 @@ In August 1990, Iraq, led by Saddam Hussein, invaded Kuwait, taking the many for
 
 - #### Panel 1-2
 
-_The Scarlet Pimpernel_ (by Baroness Orczy) was an adventure tale featuring a masked hero, a master of disguise, who helped spirit French nobles to England during the French Revolution.
+  _The Scarlet Pimpernel_ (by Baroness Orczy) was an adventure tale featuring a masked hero, a master of disguise, who helped spirit French nobles to England during the French Revolution.
 
-The titular character was one of the earliest examples of a hero with a secret identity; as such, it is historically important to comic books. As the Pimpernel's secret identity was a foppish nobleman, the book almost certainly helped Bill Finger create the "playboy Bruce Wayne" image for Batman. A scarlet pimpernel is, incidentally, a small red flower.
+  The titular character was one of the earliest examples of a hero with a secret identity; as such, it is historically important to comic books. As the Pimpernel's secret identity was a foppish nobleman, the book almost certainly helped Bill Finger create the "playboy Bruce Wayne" image for Batman. A scarlet pimpernel is, incidentally, a small red flower.
 
 - #### Panel 3
 
@@ -132,13 +133,13 @@ Exemplified for Americans by the title character in the movie _Mary Poppins_.
 
 - #### Panel 4-5
 
-This hearkens back to _Sandman_ #23, where Lucifer disclaimed responsibility for sinners.
+  This hearkens back to [Sandman #23](sandman.23.md), where Lucifer disclaimed responsibility for sinners.
 
 ### Page 18
 
 - #### Panel 2-4
 
-Skinner (I believe) is taking a meat fork and is apparently piercing or cutting off Charles' right nipple. Note that they are also burning his back against the grill.
+  Skinner (I believe) is taking a meat fork and is apparently piercing or cutting off Charles' right nipple. Note that they are also burning his back against the grill.
 
 ### Page 19
 
@@ -154,7 +155,7 @@ Skinner (I believe) is taking a meat fork and is apparently piercing or cutting 
 
 - #### Panel 9; page 21
 
-This is Death in easily her oddest outfit ever.
+  This is Death in easily her oddest outfit ever.
 
 ### Page 23
 
@@ -166,15 +167,15 @@ This is Death in easily her oddest outfit ever.
 
   British public schools have a tradition of "fagging" in which the elder boys, 16-18 or so, would select a younger boy to be his "fag" or personal servant. The fag would fetch and carry for the elder, and clean his room and uniform. The elder boy would often beat or otherwise treat the younger in a sadistic manner. This was supposed to be "character-building." (As Calvin the comic-strip star says, mimicking his father: "Calvin, go do something you hate. Being miserable builds character.")
 
-We may also note that standard British usage uses "fag" or "faggot" to mean cigarettes, breadsticks, lumber, and fireplace logs, as well as "homosexual". American usage of "fag" is derogatory and is exactly limited to "homosexual". British "faggot" formerly referred to a wretched old woman, whence "fag": to copulate with a whore, another obsolete usage. Much information on the world may be gathered from the British slang dictionary, _The Faber Dictionary of Euphemisms_.
+  We may also note that standard British usage uses "fag" or "faggot" to mean cigarettes, breadsticks, lumber, and fireplace logs, as well as "homosexual". American usage of "fag" is derogatory and is exactly limited to "homosexual". British "faggot" formerly referred to a wretched old woman, whence "fag": to copulate with a whore, another obsolete usage. Much information on the world may be gathered from the British slang dictionary, _The Faber Dictionary of Euphemisms_.
 
 - #### Panel 3
 
   **Cogito ergo sum**: I think, therefore I am (Latin), first stated by Descartes, a seventeenth century AD French philosopher and mathematician. Protagoras was a fifth century BC classical Greek philosopher.
 
-My source credits him as the first Sophist; Werner Jaeger's _Paideia_, however, denies him this, calling him only one of the most prominent.
+  My source credits him as the first Sophist; Werner Jaeger's _Paideia_, however, denies him this, calling him only one of the most prominent.
 
-Note that Charles and Edwin's conversation on this page should probably be considered the theme of the issue.
+  Note that Charles and Edwin's conversation on this page should probably be considered the theme of the issue.
 
 ## Credits
 

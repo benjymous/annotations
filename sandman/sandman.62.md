@@ -10,9 +10,9 @@
 
   This is the only first panel in the story so far that has _not_ had a string or thread of some sort. This issue hearkens back to "Men of Good Fortune" ("The Doll's House" part 4) and "The Season of Mists" part 4: "interlude" issues, not done by the regular artist for the main arc, thematically related to it but not advancing the main plot. The lack of a string may emphasize that this issue is a sidebar.
 
-Note the black gutters; the page borders seem to switch between black and white somewhat at random. The borders in the main story are significant, but they don't seem to be here.
+  Note the black gutters; the page borders seem to switch between black and white somewhat at random. The borders in the main story are significant, but they don't seem to be here.
 
-This whole opening sequence, with Rose waking up uncomfortably on a plane to England and being met by a lawyer holding a sign, echoes Rose's first appearance in issue #10.
+  This whole opening sequence, with Rose waking up uncomfortably on a plane to England and being met by a lawyer holding a sign, echoes Rose's first appearance in issue #10.
 
 ### Page 2
 
@@ -44,13 +44,13 @@ This whole opening sequence, with Rose waking up uncomfortably on a plane to Eng
 
   Megan Schreiber found out about the '45 Rebellion:
 
-> The '45 Rebellion (courtesy the Encyclopedia Americana, 1998 edition)
->
-> "In 1745, during the War of the Austrian Succession (1741-1748), when Britain was ranged with Austria against France and Prussia, there took place another Jacobite rising, known as "The Forty-five." What distinguished it from its predecessor was that The Fifteen had organization but no leader, while The Forty-five had no organization but a leader in Princes Charles Edward, the Bonnie Prince Charlie of history and romance.
->
-> The pretender's early success was phenomenal. He landed in the west of Scotland on July 12 with seven followers, gathered Highland recruits as he marched south, captured Edinburgh on September 17, and defeated the forces of George II at Prestonpans on September 21. After a few weeks' stay in Edinburgh he invaded England with 6,000 men and got as far as Derby in his planned advance to London.
->
-> At Derby, however, the Highland chiefs who formed his main support refused to advance further, although the evidence indicates that had they done so London would probably have fallen into their hands. Turning back, Charles Edward soon realized that a rebellion on the defensive has already failed. He was driven to the north of Scotland, where on April 16, 1746, at Colloden, near Inverness, his forces were decisively defeated by those of the Duke of Cumberland, a younger son of George II. Charles Edward escaped to France, but his party was severely punished."
+  > The '45 Rebellion (courtesy the Encyclopedia Americana, 1998 edition)
+  >
+  > "In 1745, during the War of the Austrian Succession (1741-1748), when Britain was ranged with Austria against France and Prussia, there took place another Jacobite rising, known as "The Forty-five." What distinguished it from its predecessor was that The Fifteen had organization but no leader, while The Forty-five had no organization but a leader in Princes Charles Edward, the Bonnie Prince Charlie of history and romance.
+  >
+  > The pretender's early success was phenomenal. He landed in the west of Scotland on July 12 with seven followers, gathered Highland recruits as he marched south, captured Edinburgh on September 17, and defeated the forces of George II at Prestonpans on September 21. After a few weeks' stay in Edinburgh he invaded England with 6,000 men and got as far as Derby in his planned advance to London.
+  >
+  > At Derby, however, the Highland chiefs who formed his main support refused to advance further, although the evidence indicates that had they done so London would probably have fallen into their hands. Turning back, Charles Edward soon realized that a rebellion on the defensive has already failed. He was driven to the north of Scotland, where on April 16, 1746, at Colloden, near Inverness, his forces were decisively defeated by those of the Duke of Cumberland, a younger son of George II. Charles Edward escaped to France, but his party was severely punished."
 
 ### Page 5
 
@@ -84,15 +84,15 @@ This whole opening sequence, with Rose waking up uncomfortably on a plane to Eng
 
   "Blockbuster" is a long-running TV show hosted by Bob Holness.
 
-They test whether 2 heads are better than one, by having a team of one play against a team of two. (NB. 3 contestants).
+  They test whether 2 heads are better than one, by having a team of one play against a team of two. (NB. 3 contestants).
 
-It's essentially a quiz-board game. Teams "win" squares by answering questions.
+  It's essentially a quiz-board game. Teams "win" squares by answering questions.
 
-Then they choose which square to attempt next.
+  Then they choose which square to attempt next.
 
-All the squares have letters on and the questions are phrased like "Which P is the capital of France?".
+  All the squares have letters on and the questions are phrased like "Which P is the capital of France?".
 
-Hence the old joke "I'll have a P please, Bob" meaning to attempt the P square, but when the old ladies say it it means "pee" as in piss.
+  Hence the old joke "I'll have a P please, Bob" meaning to attempt the P square, but when the old ladies say it it means "pee" as in piss.
 
 ### Page 10
 
@@ -102,9 +102,9 @@ For those who don't read letter columns (or who will read this story in book for
 
 - #### Panel 1-2
 
-There's been speculation on the net that this "Helena" is Helena Kosmatos, the Golden Age Fury and (post-Crisis at least) Lyta Hall's lost mother. If so, it would fit in with the difficulty of saying her last name. Certainly the actions described here are those one would expect of a Fury. Also, there is some resemblance to the photo in 57:19:8.
+  There's been speculation on the net that this "Helena" is Helena Kosmatos, the Golden Age Fury and (post-Crisis at least) Lyta Hall's lost mother. If so, it would fit in with the difficulty of saying her last name. Certainly the actions described here are those one would expect of a Fury. Also, there is some resemblance to the photo in 57:19:8.
 
-      Note the women's names. The Greek writers who portrayed the Furies as a trio of women named them Tisiphone, Alecto, and Megaera. Amelia -- Alecto; Magda -- Megaera; and the Golden Age Fury was shown as receiving her powers specifically from Tisiphone.
+  Note the women's names. The Greek writers who portrayed the Furies as a trio of women named them Tisiphone, Alecto, and Megaera. Amelia -- Alecto; Magda -- Megaera; and the Golden Age Fury was shown as receiving her powers specifically from Tisiphone.
 
 - #### Panel 3
 
@@ -148,7 +148,7 @@ When Rose encounters the Hecateae we also see an owl and a pussycat; the owl her
 
   Alex Burgess, too, was last seen at the end of issue #1.
 
-Note the Piglet doll in bed with him. The picture by the bed is of Ethel Cripps, the mistress of Alex's father Roderick. The picture's been seen in 1:15:4 and 7:9:4. Of the books in the bookcase, "Good Omens" is of course the collaboration between Neil Gaiman and Terry Pratchett; "The Doll's House" is by Ibsen and echoes Rose's previous story; "To Kill" is probably "To Kill a Mockingbird", by Harper Lee; no refs on "Fish Paste" or "Timularo".
+  Note the Piglet doll in bed with him. The picture by the bed is of Ethel Cripps, the mistress of Alex's father Roderick. The picture's been seen in 1:15:4 and 7:9:4. Of the books in the bookcase, "Good Omens" is of course the collaboration between Neil Gaiman and Terry Pratchett; "The Doll's House" is by Ibsen and echoes Rose's previous story; "To Kill" is probably "To Kill a Mockingbird", by Harper Lee; no refs on "Fish Paste" or "Timularo".
 
 ### Page 23
 

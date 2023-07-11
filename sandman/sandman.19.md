@@ -50,22 +50,22 @@ Winner of 1991 World Fantasy Award in the short story category
 
   It is uncertain in what exact order Shakespeare wrote his plays. One listing gives:
 
-- A Midsummer Night's Dream
-- Richard II
-- Love's Labour Lost
-- Romeo and Juliet
+  - A Midsummer Night's Dream
+  - Richard II
+  - Love's Labour Lost
+  - Romeo and Juliet
 
-While another speculates:
+  While another speculates:
 
-- Romeo and Juliet
-- Richard II
-- A Midsummer Night's Dream
-- King John
-- Merchant of Venice
-- 1 Henry IV
-- 2 Henry IV
+  - Romeo and Julie
+  - Richard II
+  - A Midsummer Night's Dream
+  - King John
+  - Merchant of Venice
+  - 1 Henry IV
+  - 2 Henry IV
 
-Based on these, it seems likely enough that Gaiman was thinking of _Romeo and Juliet_ when Burbage asks for a lover most tragic. Since this performance of _Dream_ occurred earlier than any historical performance, it might well have preceded _Romeo and Juliet_ in any ordering.
+  Based on these, it seems likely enough that Gaiman was thinking of _Romeo and Juliet_ when Burbage asks for a lover most tragic. Since this performance of _Dream_ occurred earlier than any historical performance, it might well have preceded _Romeo and Juliet_ in any ordering.
 
 - #### Panel 4
 
@@ -98,11 +98,11 @@ Based on these, it seems likely enough that Gaiman was thinking of _Romeo and Ju
 
 - #### Panel 6; page 5 panel 1-3
 
-Who is Wendel, and why is he an outline on an earthen mound?
+  Who is Wendel, and why is he an outline on an earthen mound?
 
-<toth@puli.bke.hu> says:
+  <toth@puli.bke.hu> says:
 
-> "Wendel is a Celtic god and smith related to Wayland. There is an actual mound in England called "Wendel's Mound". I believe there may also be story about him in one of Rudyard Kipling's "Puck" books, which would be appropriate given the context."
+  > "Wendel is a Celtic god and smith related to Wayland. There is an actual mound in England called "Wendel's Mound". I believe there may also be story about him in one of Rudyard Kipling's "Puck" books, which would be appropriate given the context."
 
 ### Page 6
 
@@ -150,7 +150,7 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
 
   Act I Scene 2 lines 11-21. A group of comic-relief craftsmen are preparing a play for the post-wedding revels. Part of the humor is in the play they chose; it would hardly seem to be an obvious comedy. Each of the craftsmen's names refers to their profession: Quince is from "quoins" or wedges, and is a carpenter, while the bottom in Nick Bottom refers to the reel on which thread is wound. Bottom is a major character in the play; he is played by Will Kemp whom we saw earlier trying to enhance his role. That's irony for you; Kemp is acting as Bottom would.
 
-"Pyramus and Thisbe" is the Italian poem which Romeo and Juliet is based on.
+  "Pyramus and Thisbe" is the Italian poem which Romeo and Juliet is based on.
 
 - #### Panel 4
 
@@ -194,7 +194,7 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
 
 - #### Panel 4
 
-  This arrangement was, of course, hinted at in _Sandman_ #13.
+  This arrangement was, of course, hinted at in [Sandman #13](sandman.13.md).
 
 - #### Panel 5
 
@@ -228,8 +228,9 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
 
 - #### Panel 7-8
 
-Act III Scene 1 lines 109-112 (panel 7); 115-116 (panel 8).
-Puck has changed Bottom's head for an ass (appropriate to the character, who is a foolish and vain man). Bottom has frightened away the other players.
+  Act III Scene 1 lines 109-112 (panel 7); 115-116 (panel 8).
+
+  Puck has changed Bottom's head for an ass (appropriate to the character, who is a foolish and vain man). Bottom has frightened away the other players.
 
 ### Page 14
 
@@ -251,9 +252,9 @@ Puck has changed Bottom's head for an ass (appropriate to the character, who is 
 
   Note that Auberon is well over 200 cm. The traditions of Shakespeare's time, and our own, are that fairies, and Oberon, are tiny. A good example of this is Tinkerbell, in the JM Barrie _Peter Pan_ mythic cycle. This is a result of Christian meddling in pre-Christian myths. In particular, the direct source for Oberon comes from Celtic legends, where the Sidhe (faerie) were tall and noble. This doubles as the source that JRR Tolkien used for his elves in _The Lord of the Rings_.
 
-An alternate explanation is that the "fair folk" were bizarre and ugly, but if they heard you call them that, you'd get dry-gulched on the way home from the pub some Saturday night.
+  An alternate explanation is that the "fair folk" were bizarre and ugly, but if they heard you call them that, you'd get dry-gulched on the way home from the pub some Saturday night.
 
-Those interested in the folklore of European fairies are advised to find _A Field Guide to the Little People_, by Nancy Arrowsmith with George Moorse, 1977. This is an extensively researched general reference work on fairies in traditional folklore.
+  Those interested in the folklore of European fairies are advised to find _A Field Guide to the Little People_, by Nancy Arrowsmith with George Moorse, 1977. This is an extensively researched general reference work on fairies in traditional folklore.
 
 - #### Panel 2
 
@@ -275,11 +276,11 @@ Those interested in the folklore of European fairies are advised to find _A Fiel
 
 - #### Panel 3-4
 
-Christopher Marlowe was charged with blasphemy in 1593 with Thomas Kyd, but he was stabbed to death (reportedly in a dispute over a tavern bill) before they were brought to trial. His killer, a fellow spy, was immediately pardoned, leading some historians to speculate that Marlowe was silenced by the Government (for whom he was spying).
+  Christopher Marlowe was charged with blasphemy in 1593 with Thomas Kyd, but he was stabbed to death (reportedly in a dispute over a tavern bill) before they were brought to trial. His killer, a fellow spy, was immediately pardoned, leading some historians to speculate that Marlowe was silenced by the Government (for whom he was spying).
 
 - #### Panel 5-6
 
-Titania is giving Hamnet an apple; as seen in _The Books of Magic_ #3, this means that Hamnet becomes hers to do with as she will. As also seen in that text, when Tim Hunter visits Faerie in the present day, Titania has a page named Hamnet, whom we assume is the same child.
+  Titania is giving Hamnet an apple; as seen in _The Books of Magic_ #3, this means that Hamnet becomes hers to do with as she will. As also seen in that text, when Tim Hunter visits Faerie in the present day, Titania has a page named Hamnet, whom we assume is the same child.
 
 ### Page 17
 
@@ -329,11 +330,11 @@ Titania is giving Hamnet an apple; as seen in _The Books of Magic_ #3, this mean
 
   Act V Scene 1 line 1-4 (we have skipped Act IV scene 2).
 
-Theseus is expressing doubt at the mad tale Lysander and Hermia (who have been reunited) and Demetrius (who's been doctored with the love potion) and Helena tell.
+  Theseus is expressing doubt at the mad tale Lysander and Hermia (who have been reunited) and Demetrius (who's been doctored with the love potion) and Helena tell.
 
 - #### Panel 2-5
 
-Act V Scene 1 lines 7-17.
+  Act V Scene 1 lines 7-17.
 
 - #### Panel 6
 
@@ -377,7 +378,7 @@ The standard ending to fairy stories has those who ventured into the fairy world
 
 - #### Panel 5 and final caption
 
-These two add credence to the virtual certitude that it was Will Shakespeare's son Hamnet in _Books of Magic_ #3. Hamnet died in 1596 in Stratford-on-Avon. This seems to be the only hard information. One author speculates that once Shakespeare established himself in London he sent for his wife and children, Hamnet became ill in London and was returned to Stratford to die.
+  These two add credence to the virtual certitude that it was Will Shakespeare's son Hamnet in _Books of Magic_ #3. Hamnet died in 1596 in Stratford-on-Avon. This seems to be the only hard information. One author speculates that once Shakespeare established himself in London he sent for his wife and children, Hamnet became ill in London and was returned to Stratford to die.
 
 ## Credits
 

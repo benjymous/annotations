@@ -60,13 +60,13 @@ The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberl
 
   Rose is referring to a movie called _The Stepford Wives_, which was based on a novel of the same name by Ira Levin, who also did _Rosemary's Baby_. The movie dates from the 70s or early 80s. In it, the women of the town of Stepford become "perfect" wives, devoted to house, husband, and children to the exclusion of all considerations of self.
 
-It turns out that the men have replaced their wives with robots (although in the sequel, this was retconned to drugging them). It has been described as "a feminist fear film about what men really want." The phrase "Stepford Wife" entered the language for a while, meaning someone who turns their back on individuality to mechanically fulfill societal expectations, the feminist equivalent of an "Uncle Tom."
+  It turns out that the men have replaced their wives with robots (although in the sequel, this was retconned to drugging them). It has been described as "a feminist fear film about what men really want." The phrase "Stepford Wife" entered the language for a while, meaning someone who turns their back on individuality to mechanically fulfill societal expectations, the feminist equivalent of an "Uncle Tom."
 
 - #### Panel 3-4
 
-We will meet Gilbert later. Gilbert is based upon the author Gilbert Keith (G.K.) Chesterton, who was popular in the early third of this century. He wrote a few novels, including the Father Brown mysteries, more short stories, and even more newspaper articles. We would call him a columnist today. He was a convert to Catholicism and quite a fiery figure of his time. He considered that many of the essential truths are embodied in paradox, and was famous for writing apparent absurdities in his stories that often turned out to be perfectly reasonable. He was a talented writer, in whose works characters are often secondary to the ideas they espouse. The line about the six-foot pencil is from one of Chesterton's essays about lying in bed.
+  We will meet Gilbert later. Gilbert is based upon the author Gilbert Keith (G.K.) Chesterton, who was popular in the early third of this century. He wrote a few novels, including the Father Brown mysteries, more short stories, and even more newspaper articles. We would call him a columnist today. He was a convert to Catholicism and quite a fiery figure of his time. He considered that many of the essential truths are embodied in paradox, and was famous for writing apparent absurdities in his stories that often turned out to be perfectly reasonable. He was a talented writer, in whose works characters are often secondary to the ideas they espouse. The line about the six-foot pencil is from one of Chesterton's essays about lying in bed.
 
-This panel is doubtlessly an allusion to opening verse from E.A. Poe's poem "The Raven".
+  This panel is doubtlessly an allusion to opening verse from E.A. Poe's poem "The Raven".
 
 ### Page 7
 
@@ -74,7 +74,7 @@ This panel is doubtlessly an allusion to opening verse from E.A. Poe's poem "The
 
   Here we see Hal in his Dolly persona.
 
-Hal/dolly's cross dressing is somewhat paralleled by the "hooked 'actresses'" in #13 Men of good fortune (page 11), and both of these sexual confusions are paralleled by Desire's androgyny (who, as you will remember, is behind the whole vortex story arc.) this allusion within allusion resembles Arabian Nights, which I believe was the subject of at least one issue later in the series.
+  Hal/dolly's cross dressing is somewhat paralleled by the "hooked 'actresses'" in #13 Men of good fortune (page 11), and both of these sexual confusions are paralleled by Desire's androgyny (who, as you will remember, is behind the whole vortex story arc.) this allusion within allusion resembles Arabian Nights, which I believe was the subject of at least one issue later in the series.
 
 - #### Panel 5
 
@@ -126,7 +126,7 @@ Hal/dolly's cross dressing is somewhat paralleled by the "hooked 'actresses'" in
 
 We meet Gilbert at last. In particular, notice his response to Rose's question about his name.
 
-### Page 16-17:
+### Page 16-17
 
 This is a double page spread. The song in the background is the same song from page 11.
 

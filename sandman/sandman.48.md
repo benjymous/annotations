@@ -6,7 +6,7 @@
 
 **Notes**: See #41. It's hard to break this one down into sections, but I think it goes: 1: 1-6; 2: 7; 3: 8-10; 4: 11; 5: 12-13; 6: 14-15; 7: 16; 8: 17-24. Trouble spots are the break between 3: and 4: and 7: and 8: and a number of breaks seem to fall in the middle of pages, which is inconsistent with what we've seen before.
 
-1: Journey's End
+### 1: _Journey's End_
 
 ### Page 1
 
@@ -16,7 +16,7 @@
 
 - #### Panel 2-3
 
-Note that the color separators got Dream's cloak pin correct, but screwed up Del's eyes again.
+  Note that the color separators got Dream's cloak pin correct, but screwed up Del's eyes again.
 
 ### Page 2
 
@@ -48,7 +48,7 @@ Del is retelling the story; her physical changes reflect her state at each point
 
   **Despair**: This is the first we've heard that she's a replacement. See Lance Smith's Sandman FAQ.
 
-2: Brains, a Heart, a Ride in a Balloon
+### 2: _Brains, a Heart, a Ride in a Balloon_
 
 ### Page 7
 
@@ -56,7 +56,7 @@ Del is retelling the story; her physical changes reflect her state at each point
 
   A reference to _The [Wonderful] Wizard of Oz_, by L. Frank Baum. The Scarecrow was seeking a brain, the Tin Man a heart. A balloon ride figures prominently in Dorothy's quest to return home. (The book is thought by some to be allegory or satire of American politics.)
 
-3: Dinner
+### 3: _Dinner_
 
 ### Page 8
 
@@ -70,10 +70,10 @@ Del is retelling the story; her physical changes reflect her state at each point
 
   The cathedral may be the still-unfinished St. John the Divine. The "pavement artist in Paris" recalls Dick van Dyke's character Bert in _Mary Poppins_; Bert was a jack-of-all-trades, like Destruction. The cave-painting site may be Altamira, Spain. From the _Academic American Encyclopedia_ by Grolier Electronic Publishing, Inc. copyright 1993:
 
-> prehistoric art--PALEOLITHIC ART--Types of Art
->
-> [...]
-> The first report of cave art was in 1879, when the painted ceiling at Altamira was discovered. The claim that this represented Stone Age art, however, aroused general disbelief. Although cave paintings had been noticed before, it seemed impossible that art of such sophistication and excellence should have been the work of primitive people. After the Altamira finds had been dismissed as forgeries, new finds were made, some of them in caves that had been sealed since the Stone Age. These subsequent discoveries, like that at La Mouthe in the Dordogne region of France, slowly overcame opposition. Finally, at the beginning of this century, Paleolithic art was recognized as authentic. To date, about 230 caves containing cave art are known; the great majority are in France and Spain, although a number have also been found in Italy, Portugal, and the USSR. Anatolian sites are still under investigation. One of the reasons for the concentration of cave art in western Europe may be the presence there of many limestone cliffs containing caves and rockshelters.
+  > prehistoric art--PALEOLITHIC ART--Types of Art
+  >
+  > [...]
+  > The first report of cave art was in 1879, when the painted ceiling at Altamira was discovered. The claim that this represented Stone Age art, however, aroused general disbelief. Although cave paintings had been noticed before, it seemed impossible that art of such sophistication and excellence should have been the work of primitive people. After the Altamira finds had been dismissed as forgeries, new finds were made, some of them in caves that had been sealed since the Stone Age. These subsequent discoveries, like that at La Mouthe in the Dordogne region of France, slowly overcame opposition. Finally, at the beginning of this century, Paleolithic art was recognized as authentic. To date, about 230 caves containing cave art are known; the great majority are in France and Spain, although a number have also been found in Italy, Portugal, and the USSR. Anatolian sites are still under investigation. One of the reasons for the concentration of cave art in western Europe may be the presence there of many limestone cliffs containing caves and rockshelters.
 
 - #### Panel 4
 
@@ -85,7 +85,7 @@ Del is retelling the story; her physical changes reflect her state at each point
 
   Greek coffee is very thick and strong.
 
-4: Something New
+### 4: _Something New_
 
 ### Page 11
 
@@ -101,12 +101,12 @@ Del is retelling the story; her physical changes reflect her state at each point
 
   Destruction's denial of _anyone's_ responsibility can be argued, of course.
 
-5: The Illusion of Permanence
+### 5: _The Illusion of Permanence_
 
 Page 12-13 (A double page spread): Hmm. Gaiman is speaking in "thematic voice" again.
 Compare Destruction's perception of time passing quickly with Dream's complaint in #1 that time passed as slowly for him in his seventy-year imprisonment as it did for everyone else.
 
-6: A Wreath of Bright Stars
+### 6: _A Wreath of Bright Stars_
 
 ### Page 14-15
 
@@ -116,13 +116,13 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 
 - #### Panel 1-5
 
-More thematic voice. Has Destruction fooled himself into ignorance of the consequences of his choice?
+  More thematic voice. Has Destruction fooled himself into ignorance of the consequences of his choice?
 
 - #### Panel 5
 
   Delirium's creation, seen clearly here, is a winged Cerebus. Cerebus is an anthropomorphic aardvark, the central character of Dave Sim's _Cerebus_ epic. Sim and Gaiman are friends; Sim has parodied Gaiman's characters as the "Clueless".
 
-7: Echoes of Darkness
+### 7: _Echoes of Darkness_
 
 ### Page 16
 
@@ -138,7 +138,7 @@ More thematic voice. Has Destruction fooled himself into ignorance of the conseq
 
   IMHO, Hatred is not the opposite of Desire. Indifference is the opposite of Desire. Hatred is merely Desire of a different quality.
 
-8: Up. Out.
+### 8: _Up. Out._
 
 ### Page 17
 
@@ -157,11 +157,11 @@ More thematic voice. Has Destruction fooled himself into ignorance of the conseq
   **Baklava**: a Greek/Turkish sweet pastry.
   **Taramasalata**: a fish pate made from roe. From the OED:
 
-> taramosalata (,tr&schwa.m&schwa.s&schwa.'la:t&schwa.). Also taramasa- lata. [a. mod.Gr., f. ~\(p\(u preserved roe (ad. Turk. tarama soft roe, red caviare) + ~\(\\ ~\( SALAD.] A Greek fish pate made (traditionally) from the roe of the grey mullet or from smoked cod's roe, mixed with garlic, lemon juice, olive oil, etc.
->
-> Also ellipt. as tarama.
->
-> 1910 Z. D. FERRIMAN Home Life in Hellas iv. 181 Red caviar..is pounded with garlic and lemon juice into what is called tarama salata. 1958 R. LIDDELL Morea II. iii. 70 A vinegary taramosalata, a preparation of salted fish eggs and oil, which is always Lenten food in Greece. 1964 Spectator 8 May 645/1 A Greek fish pate, taramasalata. 1972 Harper's & Queen Apr. 92/1, I quite often add tarama to go with the avocado. 1978 Chicago June 233/1 Dinnertime favorites include saganaki,..taramosalata, red caviar, etc.
+  > taramosalata (,tr&schwa.m&schwa.s&schwa.'la:t&schwa.). Also taramasa- lata. [a. mod.Gr., f. ~\(p\(u preserved roe (ad. Turk. tarama soft roe, red caviare) + ~\(\\ ~\( SALAD.] A Greek fish pate made (traditionally) from the roe of the grey mullet or from smoked cod's roe, mixed with garlic, lemon juice, olive oil, etc.
+  >
+  > Also ellipt. as tarama.
+  >
+  > 1910 Z. D. FERRIMAN Home Life in Hellas iv. 181 Red caviar..is pounded with garlic and lemon juice into what is called tarama salata. 1958 R. LIDDELL Morea II. iii. 70 A vinegary taramosalata, a preparation of salted fish eggs and oil, which is always Lenten food in Greece. 1964 Spectator 8 May 645/1 A Greek fish pate, taramasalata. 1972 Harper's & Queen Apr. 92/1, I quite often add tarama to go with the avocado. 1978 Chicago June 233/1 Dinnertime favorites include saganaki,..taramosalata, red caviar, etc.
 
 ### Page 21
 
@@ -175,18 +175,18 @@ More thematic voice. Has Destruction fooled himself into ignorance of the conseq
 
   Destruction's remark resonates with many different sources. "UP AND OUT" was the destination of the Great Glass Elevator at the end of Roald Dahl's _Charlie and the Chocolate Factory_. At the end of C.S. Lewis' _The Last Battle_, characters at the destruction of Narnia go "further up and further in". Cordwainer Smith used "up and out" to refer to the navigation of space in his "Instrumentality of Mankind" series.
 
-We may also note the classic exchange between parent and child:
+  We may also note the classic exchange between parent and child:
 
-> Parent: "Where did you go?"
-> Child: "Out."
-> Parent: "What did you do?"
-> Child: "Nothing."
+  > Parent: "Where did you go?"
+  > Child: "Out."
+  > Parent: "What did you do?"
+  > Child: "Nothing."
 
-Barbie recalls saying this herself in #37.
-Robert P. Smith wrote a book of exactly this title.
-This is inverted in Alan Moore's Halo Jones series, which ends with
+  Barbie recalls saying this herself in #37.
+  Robert P. Smith wrote a book of exactly this title.
+  This is inverted in Alan Moore's Halo Jones series, which ends with
 
-"Where did she go? Out. What did she do? Everything!"
+  "Where did she go? Out. What did she do? Everything!"
 
 ## Credits
 

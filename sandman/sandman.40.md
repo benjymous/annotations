@@ -21,9 +21,9 @@ Last year he had Jill do him a sketch of Death, and then he sent a copy of it to
 
 - #### Panel 1
 
-  This is Lyta Hall, with her son Daniel. See _Sandman_ #12. She is recounting the story of "Goldilocks and the Three Bears" in a somewhat bowdlerized version; compare to the version of "Little Red Riding Hood" Gilbert tells in _The Doll's House_.
+  This is Lyta Hall, with her son Daniel. See [Sandman #12](sandman.12.md). She is recounting the story of "Goldilocks and the Three Bears" in a somewhat bowdlerized version; compare to the version of "Little Red Riding Hood" Gilbert tells in _The Doll's House_.
 
-The stylized rabbit doll on the couch is one of the characters in Purcell's "Sam and Max" series; Thompson is evidently a fan.
+  The stylized rabbit doll on the couch is one of the characters in Purcell's "Sam and Max" series; Thompson is evidently a fan.
 
 - #### Panel 6
 
@@ -31,8 +31,7 @@ The stylized rabbit doll on the couch is one of the characters in Purcell's "Sam
 
 ### Page 2
 
-It may be worth
-noting that Lyta is still acting as a storyteller here, and that Daniel doesn't go to sleep till after she's been telling stories for a while.
+It may be worth noting that Lyta is still acting as a storyteller here, and that Daniel doesn't go to sleep till after she's been telling stories for a while.
 
 - #### Panel 1
 
@@ -66,7 +65,7 @@ noting that Lyta is still acting as a storyteller here, and that Daniel doesn't 
 
   This is Matthew the raven, of course; the "secret" to which he refers is the "House of Secrets" of which Abel is the caretaker.
 
-As defined by Alan Moore in _Swamp Thing_, in the first major revision of Cain and Abel, a secret must be kept; Cain, of the "House of Mystery", dispenses mysteries which may be shared and pondered.
+  As defined by Alan Moore in _Swamp Thing_, in the first major revision of Cain and Abel, a secret must be kept; Cain, of the "House of Mystery", dispenses mysteries which may be shared and pondered.
 
 - #### Panel 6
 
@@ -90,34 +89,37 @@ As defined by Alan Moore in _Swamp Thing_, in the first major revision of Cain a
 
 - #### Panel 2
 
-  Something Nasty in the Basement was first mentioned in _Sandman_ #10. "Eyes too big for his": stomach completes the saying.
+  Something Nasty in the Basement was first mentioned in [Sandman #10](sandman.10.md). "Eyes too big for his": stomach completes the saying.
 
 ### Page 7
 
 - #### Panel 1-3
 
-**Corvidae**: A family of birds including crows, ravens, and jays, of the suborder Oscines, containing songbirds with well-developed vocal organs.
-**Raven**: Corvus corax, and similar species.
-**Crow**: Corvus brachyrhynchos, et al. Jackdaw: Corvus monedula. Rook: Corvus frugilegus.
-**Magpie**: Pica pica or P. nuttali.
+  **Corvidae**: A family of birds including crows, ravens, and jays, of the suborder Oscines, containing songbirds with well-developed vocal organs.
+
+  **Raven**: Corvus corax, and similar species.
+
+  **Crow**: Corvus brachyrhynchos, et al. Jackdaw: Corvus monedula. Rook: Corvus frugilegus.
+
+  **Magpie**: Pica pica or P. nuttali.
 
 From Baring-Gould and Baring-Gould, _The Annotated Mother Goose_ (1962):
 
-> In most European countries, it is thought to be lucky to meet one magpie, raven, or crow:
->
-> One's lucky,
-> Two's unlucky,
-> Three is health,
-> Four is wealth,
-> Five is sickness
-> And six is death.
->
-> But in Maine, people say:
->
-> One crow sorrow,
-> Two crows joy,
-> Three crows a letter,
-> Four crows a boy.
+  > In most European countries, it is thought to be lucky to meet one magpie, raven, or crow:
+  >
+  > One's lucky,
+  > Two's unlucky,
+  > Three is health,
+  > Four is wealth,
+  > Five is sickness
+  > And six is death.
+  >
+  > But in Maine, people say:
+  >
+  > One crow sorrow,
+  > Two crows joy,
+  > Three crows a letter,
+  > Four crows a boy.
 
 ### Page 8
 
@@ -137,7 +139,7 @@ From Baring-Gould and Baring-Gould, _The Annotated Mother Goose_ (1962):
 
 ### Page 10-11
 
-a two-page spread. Cain's information on rooks is accurate.
+  A two-page spread. Cain's information on rooks is accurate.
 
 - #### Panel 3
 
@@ -148,13 +150,14 @@ a two-page spread. Cain's information on rooks is accurate.
 - #### Panel 3
 
   Note the skeleton with hat in the background.
+
   **Pecked to death**: Cain murders Abel over and over again.
 
 - #### Panel 6
 
   In the Bible, the original Cain and Abel were indeed the sons of Eve (and Adam). Eve, in the Dreaming, represents archetypes:
 
-"Everybody's mother", for example.
+  "Everybody's mother", for example.
 
 ### Page 13
 
@@ -174,7 +177,7 @@ a two-page spread. Cain's information on rooks is accurate.
 
   Nameless, Lilith, and Eve obviously form a maiden, mother, crone motif. Eve's commentary that the Lilim (-im is the plural indicator in Hebrew) have haunted the nights of the sons of Adam suggests that Lilith dwells in dreams, and is therefore this Eve. Eve's comment about Eve and her cave also suggests that she is this Eve as well.
 
-The Lilim are more traditionally identified with succubi, demons that have sex with men as they dream and so drain them.
+  The Lilim are more traditionally identified with succubi, demons that have sex with men as they dream and so drain them.
 
 ### Page 17
 
@@ -182,7 +185,7 @@ The Lilim are more traditionally identified with succubi, demons that have sex w
 
   Adam had three wives, but married only once: The truth of stories is not the cold analytical truth of the scientist's laboratory.
 
-Adam married many women, for women have many aspects, but he married only once as well; that is the truth of this tale.
+  Adam married many women, for women have many aspects, but he married only once as well; that is the truth of this tale.
 
 - #### Panel 4
 
@@ -190,7 +193,7 @@ Adam married many women, for women have many aspects, but he married only once a
 
 - #### Panel 6
 
-  **Wolf**: A reference to _Sandman_ #38?
+  **Wolf**: A reference to [Sandman #38](sandman.38.md)?
 
 ### Page 18
 
@@ -214,7 +217,7 @@ Adam married many women, for women have many aspects, but he married only once a
 
 - #### Panel 1
 
-  The letters of commission were first seen in _Sandman_ #2.
+  The letters of commission were first seen in [Sandman #2](sandman.02.md).
 
 - #### Panel 2
 
@@ -240,17 +243,17 @@ Adam married many women, for women have many aspects, but he married only once a
 
   The chess piece rook does come two to a player, four to a board. Chess is idealized battle. The rook's counting rhyme says "four for a boy". Eve is contemplating the apparent equation of male and fighting.
 
-(Note that "rook" is from the Persian "rookh", warrior, and is only coincidentally the same spelling as the bird.)
+  (Note that "rook" is from the Persian "rookh", warrior, and is only coincidentally the same spelling as the bird.)
 
 - #### Panel 5-7
 
-There is irony in the acceptance of Abel's story and the secret of the Parliament of Rooks. (Note that the Parliament of Storytellers was split on Abel's story: Cain fell upon Abel and slew him, but the rest left the storyteller alone in the house.)
+  There is irony in the acceptance of Abel's story and the secret of the Parliament of Rooks. (Note that the Parliament of Storytellers was split on Abel's story: Cain fell upon Abel and slew him, but the rest left the storyteller alone in the house.)
 
 ### Page 23
 
 - #### Panel 5-6
 
-Cain is making reference to the fiction genre of mystery, often called "whodunnits".
+  Cain is making reference to the fiction genre of mystery, often called "whodunnits".
 
 ### Page 24
 

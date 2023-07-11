@@ -24,17 +24,17 @@ Not yet reprinted in any other form
 
   Also note the labyrinthine structure and signs of ancient decay in Destiny's garden.
 
-It may be that Destiny's garden is a reference to the short story "The Garden of Forking Paths" by Jorge Luis Borges, an Argentine writer known in literary circles and often mentioned in the same breath as Gabriel Garcia Marques, Italo Calvino and Umberto Eco. This story is a meditation on time, destiny, and death. It will be found in the collection _Ficciones_.
+  It may be that Destiny's garden is a reference to the short story "The Garden of Forking Paths" by Jorge Luis Borges, an Argentine writer known in literary circles and often mentioned in the same breath as Gabriel Garcia Marques, Italo Calvino and Umberto Eco. This story is a meditation on time, destiny, and death. It will be found in the collection _Ficciones_.
 
-The title "The Garden of Forking Paths" refers to a labyrinth which is in fact a book. Ts'ui Pe^n, the ancestor of one of the characters, was a Chinese bureaucrat who retired to write a book and to construct a maze in which anyone could lose themselves. The book and the maze were the same thing. It is concerned with the bifurcation of reality into possible futures and the simultaneous existence of possible realities and lives, using the metaphor of paths in a maze.
+  The title "The Garden of Forking Paths" refers to a labyrinth which is in fact a book. Ts'ui Pe^n, the ancestor of one of the characters, was a Chinese bureaucrat who retired to write a book and to construct a maze in which anyone could lose themselves. The book and the maze were the same thing. It is concerned with the bifurcation of reality into possible futures and the simultaneous existence of possible realities and lives, using the metaphor of paths in a maze.
 
-One of the characters says
+  One of the characters says
 
-> "_The Garden of Forking Paths_ is a picture, incomplete yet not false, of the universe such as Ts'ui Pe^n conceived it to be. Differing from Newton and Schopenhauer, [he] did not think of time as absolute and uniform. He believed in an infinite series of times, in a dizzily growing, ever spreading network of diverging, converging and parallel times. This web of time -- the strands of which approach one another, bifurcate, intersect or ignore each other through the centuries -- embraces every possibility."
+  > "_The Garden of Forking Paths_ is a picture, incomplete yet not false, of the universe such as Ts'ui Pe^n conceived it to be. Differing from Newton and Schopenhauer, [he] did not think of time as absolute and uniform. He believed in an infinite series of times, in a dizzily growing, ever spreading network of diverging, converging and parallel times. This web of time -- the strands of which approach one another, bifurcate, intersect or ignore each other through the centuries -- embraces every possibility."
 
-The possible connection to Destiny's book and garden is easy to see; the garden seems as important to him as the book, and both are symbols of his power and of destiny in general. It is also speculated that, to some degree, Borges was talking about James Joyce's final novel _Finnegans Wake_, because of the description of it as a confusing, contradictory, circular dream, a model of the world in which virtually any situation or story can be mirrored.
+  The possible connection to Destiny's book and garden is easy to see; the garden seems as important to him as the book, and both are symbols of his power and of destiny in general. It is also speculated that, to some degree, Borges was talking about James Joyce's final novel _Finnegans Wake_, because of the description of it as a confusing, contradictory, circular dream, a model of the world in which virtually any situation or story can be mirrored.
 
-His role as owner of The book that contains everything (a favourite theme of JLB e.g. in _The Book of Sand_, _Library of Babel_ and elsewhere), then we have Destiny's blindness. In fact, it's not clear whether Destiny is blind; anyway, Borges was.
+  His role as owner of The book that contains everything (a favourite theme of JLB e.g. in _The Book of Sand_, _Library of Babel_ and elsewhere), then we have Destiny's blindness. In fact, it's not clear whether Destiny is blind; anyway, Borges was.
 
 - #### Panel 3
 
@@ -114,7 +114,7 @@ Her music has been compared to Kate Bush; it is quite good, low impact acoustic 
 
 Neil Gaiman is mentioned in her song "Tear in Your Hand" on the second album. He had not actually met Tori by the time this issue was produced, but later appearances of Delirium (and, I'm told, upcoming reminiscences about Delight) show her influence strongly.
 
-Kathy Acker is the author of _Empire of the Senseless_ (as seen in _Sandman_ #16) as well as other works. A color picture of her can be found in issue #4 of Mondo 2000 magazine. Her hair is blonde and she apparently has a propensity for wearing black.
+Kathy Acker is the author of _Empire of the Senseless_ (as seen in [Sandman #16](sandman.16.md)) as well as other works. A color picture of her can be found in issue #4 of Mondo 2000 magazine. Her hair is blonde and she apparently has a propensity for wearing black.
 
 As for the relation with Delirium, she was quoted as saying Burroughs had been a major influence on her work, though Foucault, Deleuze, and Guattari became more important. She is kown as a postmodernist and a feminist writer. She has spent time in London, though she is now back in the US, in San Francisco. (Delirium has a fondness for that place.) She was born in New York.
 
@@ -139,7 +139,7 @@ Thus writes "Kai'Ckul" <oshinsky@webspan.net>:
 
 - #### Panel 1
 
-  Desire has tawny eyes (which is reminiscent of the Paginarum Fulvarum from _Sandman_ #1). However, her eyes were colored blue in her appearances in the _Doll's House_ storyline. Desire is often drawn in the style of Patrick Nagel, whose flatly colored portraits of women often have yellow eyes.
+  Desire has tawny eyes (which is reminiscent of the Paginarum Fulvarum from [Sandman #1](sandman.01.md)). However, her eyes were colored blue in her appearances in the _Doll's House_ storyline. Desire is often drawn in the style of Patrick Nagel, whose flatly colored portraits of women often have yellow eyes.
 
 ### Page 10
 
@@ -187,7 +187,7 @@ Also, note that Delirium was once Delight, though we are not told explicitly the
 
 - #### Panel 2
 
-  We saw hints of Dream's relationship with Calliope in _Sandman_ #17.
+  We saw hints of Dream's relationship with Calliope in [Sandman #17](sandman.17.md).
 
 - #### Panel 3
 
@@ -195,7 +195,7 @@ Also, note that Delirium was once Delight, though we are not told explicitly the
 
 - #### Panel 3,5
 
-This is in reference to Nada's earlier appearances in _Sandman_ #4 and #9.
+  This is in reference to Nada's earlier appearances in [Sandman #4](sandman.04.md) and #9.
 
 ### Page 19
 
@@ -207,7 +207,7 @@ This is in reference to Nada's earlier appearances in _Sandman_ #4 and #9.
 
 - #### Panel 1
 
-  In reference to Lucifer's perceived humiliation in the loss of a demon to Dream in _Sandman_ #4.
+  In reference to Lucifer's perceived humiliation in the loss of a demon to Dream in [Sandman #4](sandman.04.md).
 
 ## Credits
 

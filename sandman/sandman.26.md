@@ -17,7 +17,7 @@ Not yet reprinted in any other form
 
 - #### Panel 2
 
-  The guardians of the gate are as seen before; Cluracan of Faerie is new to _Sandman_. The realm of Faerie has played a large role in two previous Gaiman works, _Sandman_ #19 and _Books of Magic_ #3.
+  The guardians of the gate are as seen before; Cluracan of Faerie is new to _Sandman_. The realm of Faerie has played a large role in two previous Gaiman works, [Sandman #19](sandman.19.md) and _Books of Magic_ #3.
 
 Cluracan (with accents over the 'u' and second 'a') is a diminutive old-man fairy of Ireland, traditionally believed to inhabit wine cellars. he takes care that the beer barrels and wine casks are not left running, and for reward is always given his supper. In County Cork, the cluracan is often associated with the leprechaun, but this is because of the physical similarity and the fact that both know the whereabouts of hidden treasure.
 
@@ -25,15 +25,15 @@ Cluracan (with accents over the 'u' and second 'a') is a diminutive old-man fair
 
 - #### Panel 2
 
-  The Lord and Lady of Faerie were seen in _Sandman_ #19, and bear the traditional names Auberon and Titania. Nuala is new.
+  The Lord and Lady of Faerie were seen in [Sandman #19](sandman.19.md), and bear the traditional names Auberon and Titania. Nuala is new.
 
 ### Page 3
 
-I will only note any beings who were not seen in _Sandman_ #24. A knowledge of what has gone before is essential to the understanding of the events of this issue. The servitor here, and the female one on page 5, are dressed in nightclothes, and one infers that Dream has summoned two dreamers to act as servants at his banquet.
+I will only note any beings who were not seen in [Sandman #24](sandman.24.md). A knowledge of what has gone before is essential to the understanding of the events of this issue. The servitor here, and the female one on page 5, are dressed in nightclothes, and one infers that Dream has summoned two dreamers to act as servants at his banquet.
 
 - #### Panel 1
 
-  Symbolically, Mjolnir is an agent of destruction, fertility, and resurrection. It was used to hallow brides before weddings; its phallic nature is obvious here. It was also used to raise Thor's goats from the dead, and is able to shrink so that it may be hidden inside Thor's shirt as needed. Perhaps rubbing is how it is made to return to normal size. As the story goes, Loki made a bet with the dwarves in which they would have to produce three objects for the Aesir. If the gods were pleased, then Loki would lose his head. As the dwarves worked at their forges to produce the gifts, Loki came in the form of a biting fly or a bee to harass them, which introduced flaws into each gift. Thus Mjolnir had a short handle (for more, see the annotation to _Sandman_ #24). To compensate, the dwarves further gifted Thor with a magic glove (of strength? Possibly also a belt of strength? What were the other gifts?) Although Loki lost the bet, the dwarves were not allowed to take his head, since they were not allowed to harm his neck.
+  Symbolically, Mjolnir is an agent of destruction, fertility, and resurrection. It was used to hallow brides before weddings; its phallic nature is obvious here. It was also used to raise Thor's goats from the dead, and is able to shrink so that it may be hidden inside Thor's shirt as needed. Perhaps rubbing is how it is made to return to normal size. As the story goes, Loki made a bet with the dwarves in which they would have to produce three objects for the Aesir. If the gods were pleased, then Loki would lose his head. As the dwarves worked at their forges to produce the gifts, Loki came in the form of a biting fly or a bee to harass them, which introduced flaws into each gift. Thus Mjolnir had a short handle (for more, see the annotation to [Sandman #24](sandman.24.md)). To compensate, the dwarves further gifted Thor with a magic glove (of strength? Possibly also a belt of strength? What were the other gifts?) Although Loki lost the bet, the dwarves were not allowed to take his head, since they were not allowed to harm his neck.
 
 ### Page 4
 
@@ -49,7 +49,7 @@ Pain is a facet of flirtation, to a demon.
 
 ### Page 7
 
-This is a splash panel. Note the figures below the angels; we did not see these beings in _Sandman_ #24, where the gods were introduced. We infer these to be more figures interested in obtaining Hell. The leftmost figure resembles the traditional depiction of wizards, with long beard and astrologically-bedecked pointy hat. He is possibly the wizard Merlin, of the Arthurian cycle. The others' identities are not readily apparent.
+This is a splash panel. Note the figures below the angels; we did not see these beings in [Sandman #24](sandman.24.md), where the gods were introduced. We infer these to be more figures interested in obtaining Hell. The leftmost figure resembles the traditional depiction of wizards, with long beard and astrologically-bedecked pointy hat. He is possibly the wizard Merlin, of the Arthurian cycle. The others' identities are not readily apparent.
 
 ### Page 8
 
@@ -97,7 +97,7 @@ This is a splash panel. Note the figures below the angels; we did not see these 
 
 - #### Panel 3-4
 
-Dream's lines here are reminiscent of the lines uttered by the heroine of _Sandman_ #18: "I am a cat, and I keep my own counsel."
+Dream's lines here are reminiscent of the lines uttered by the heroine of [Sandman #18](sandman.18.md): "I am a cat, and I keep my own counsel."
 
 ### Page 16
 

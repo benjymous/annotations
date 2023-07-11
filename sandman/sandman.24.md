@@ -11,7 +11,7 @@ Season of Mists Chapter 3
 
 Not yet reprinted in any other form
 
-**Note**: I have a bootleg copy of the script for this issue; I'll be interpolating notes from it as I did for _Sandman_ #17.
+**Note**: I have a bootleg copy of the script for this issue; I'll be interpolating notes from it as I did for [Sandman #17](sandman.17.md).
 
 ### Page 1
 
@@ -61,7 +61,7 @@ This is probably a passage from the Elder Edda, a long saga in Old Icelandic tha
 
 - #### Panel 1
 
-  These are Dream, Matthew, Lucien, and Cain. Lucien "sits like someone who doesn't sit very often and isn't very good at it." Cain is supposed to look much more like Berni Wrightson's 1972 model; _Sandman_ #22 is described as the "total destruction of everything [Cain] felt he was"; I disagree with that description for reasons given in that annotation. Note the eyes in the background shadow; this is a "grotesque thingie", looking at Dream in surprise. His return was supposed to be extremely unexpected, though I get no sense of this from the published work.
+  These are Dream, Matthew, Lucien, and Cain. Lucien "sits like someone who doesn't sit very often and isn't very good at it." Cain is supposed to look much more like Berni Wrightson's 1972 model; [Sandman #22](sandman.22.md) is described as the "total destruction of everything [Cain] felt he was"; I disagree with that description for reasons given in that annotation. Note the eyes in the background shadow; this is a "grotesque thingie", looking at Dream in surprise. His return was supposed to be extremely unexpected, though I get no sense of this from the published work.
 
 ### Page 8
 
@@ -105,13 +105,13 @@ The Silver City is new. It has also appeared in _The Books of Magic_ #1. My own 
 
   Remiel is one of the 7 archangels who attend the throne of god, as stated in Enoch 1:20. He is called Jeremiel or Uriel in various translations of IV Esdras, and described as "one of the holy angels whom God has set over those who rise [from the dead]."
 
-Duma, which may mean "silence", is an angel of death in Jewish folklore, to whom one has to give account. He is the angel of silence and the stillness of death. He is also the tutelary angel of Egypt and of vindication, and at least one source calls him a "Prince of Hell", ie, one of the Fallen angels. _The Zohar_ speaks of him as having "tens of thousands of angels of destruction" under him, and as being "chief of demons in Gehinnon [Hell; a more familiar spelling is "Gehenna"] with 12,000 myriads of attendants, all charged with the punishment of the souls of sinners." Dumah is also the name given to the guardian of the 14th gate, through which the goddess Ishtar passed on her journey to the underworld in Babylonian mythology. I am told that Neil did not know of the sources listing Duma as one of the fallen when he was writing this story!
+  Duma, which may mean "silence", is an angel of death in Jewish folklore, to whom one has to give account. He is the angel of silence and the stillness of death. He is also the tutelary angel of Egypt and of vindication, and at least one source calls him a "Prince of Hell", ie, one of the Fallen angels. _The Zohar_ speaks of him as having "tens of thousands of angels of destruction" under him, and as being "chief of demons in Gehinnon [Hell; a more familiar spelling is "Gehenna"] with 12,000 myriads of attendants, all charged with the punishment of the souls of sinners." Dumah is also the name given to the guardian of the 14th gate, through which the goddess Ishtar passed on her journey to the underworld in Babylonian mythology. I am told that Neil did not know of the sources listing Duma as one of the fallen when he was writing this story!
 
 ### Page 16
 
 - #### Panel 1
 
-  This is Azazel, who once believed himself to be one of the three rules of Hell. We saw him earlier in _Sandman_ #4.
+  This is Azazel, who once believed himself to be one of the three rules of Hell. We saw him earlier in [Sandman #4](sandman.04.md).
 
 - #### Panel 4
 
@@ -123,23 +123,23 @@ Duma, which may mean "silence", is an angel of death in Jewish folklore, to whom
 
   Merkin, mother of spiders: Merkin \Mer"kin\, n. Originally, a wig; afterwards, a mop for cleaning cannon.
 
-According to several of my friends, independently, (although I've never found a dictionary that backs this up) a "merkin" is a specific type of wig applied to a part of the female anatomy that's usually not visible...
+  According to several of my friends, independently, (although I've never found a dictionary that backs this up) a "merkin" is a specific type of wig applied to a part of the female anatomy that's usually not visible...
 
-Gaiman recommends Witkin's "Amour" as a source.
+  Gaiman recommends Witkin's "Amour" as a source.
 
 - #### Panel 3
 
-  We saw Choronzon once before, in _Sandman_ #4. He held Dream's helmet, and was bested in a game of reality.
+  We saw Choronzon once before, in [Sandman #4](sandman.04.md). He held Dream's helmet, and was bested in a game of reality.
 
 - #### Panel 5
 
-  Nada was seen in _Sandman_ #4, 9; she is an erstwhile lover of Dream, whom he cruelly imprisoned in Hell.
+  Nada was seen in [Sandman #4](sandman.04.md), 9; she is an erstwhile lover of Dream, whom he cruelly imprisoned in Hell.
 
 ### Page 18
 
 - #### Panel 1
 
-  In _Sandman_ #22, page 22, we saw Dream's castle in the sea; here's it's on a hill. This should surprise no one.
+  In [Sandman #22](sandman.22.md), page 22, we saw Dream's castle in the sea; here's it's on a hill. This should surprise no one.
 
 - #### Panel 2
 
@@ -151,7 +151,7 @@ Gaiman recommends Witkin's "Amour" as a source.
 
 - #### Panel 4
 
-  This is Eve's cave, where Matthew dwells when Dream does not need him. Eve was referenced in the annotation to _Sandman_ #2. The cave is characterized as being on the border of dream and nightmare.
+  This is Eve's cave, where Matthew dwells when Dream does not need him. Eve was referenced in the annotation to [Sandman #2](sandman.02.md). The cave is characterized as being on the border of dream and nightmare.
 
 - #### Panel 5-7
 
@@ -161,7 +161,7 @@ Notice Eve's youthing.
 
 - #### Panel 2
 
-  This is a statue of the griffon who guards the Dreaming's gates. Apparently, Gaiman was not satisfied with Kelley's rendition of the griffon in _Sandman_ #18, as he instructs him to check out a reference and get it right. Note that the script explicitly states this is a statue, from which the voice of the griffon at the gate comes. We may note that griffons classically have eagle's wings as well as eagle's heads.
+  This is a statue of the griffon who guards the Dreaming's gates. Apparently, Gaiman was not satisfied with Kelley's rendition of the griffon in [Sandman #18](sandman.18.md), as he instructs him to check out a reference and get it right. Note that the script explicitly states this is a statue, from which the voice of the griffon at the gate comes. We may note that griffons classically have eagle's wings as well as eagle's heads.
 
 ### Page 21
 
@@ -169,7 +169,7 @@ Notice Eve's youthing.
 
   The dragon, griffon, and winged horse are the usual guardians of the Dreaming gate. The script characterizes the dragon as a wyvern; the difference is negligible. It characterizes the winged horse as a hippogriff; this is wrong, as a hippogriff, the offspring of a griffon and a horse, traditionally has an eagle's head. Note the human headed beasts on the walls.
 
-They are the winged bulls which appeared on Assyrian palaces. They are made of the bearded head of a man, the body of a lian, the wings of an eagle, and the feet of a bull, although here they appear similar to sphinxes. Ezekiel's vision may have been associated with these figures carved into the sides of walls.
+  They are the winged bulls which appeared on Assyrian palaces. They are made of the bearded head of a man, the body of a lian, the wings of an eagle, and the feet of a bull, although here they appear similar to sphinxes. Ezekiel's vision may have been associated with these figures carved into the sides of walls.
 
 ### Page 22
 
@@ -181,15 +181,15 @@ They are the winged bulls which appeared on Assyrian palaces. They are made of t
 
   This god is a figure in Japanese Shinto mythology.
 
-Izanagi (the male who invites) and his younger sister Izanami (the female who invites) were born soon after the separation of Heaven and Earth, and are the primeval creator gods of the cycle. They are the ancestors of many Shinto gods as well as of the principal islands of Japan. Izanami is also called the Great Spirit of the Land of Night. The two gods parted on poor terms, with Izanami threatening to strangle a thousand people a day, and Izanagi threatening to have a thousand and five hundred women giving birth per day if she followed through.
+  Izanagi (the male who invites) and his younger sister Izanami (the female who invites) were born soon after the separation of Heaven and Earth, and are the primeval creator gods of the cycle. They are the ancestors of many Shinto gods as well as of the principal islands of Japan. Izanami is also called the Great Spirit of the Land of Night. The two gods parted on poor terms, with Izanami threatening to strangle a thousand people a day, and Izanagi threatening to have a thousand and five hundred women giving birth per day if she followed through.
 
-After visiting the underworld one time, Izanagi washed himself. The sun goddess, Amaterasu Omikami (Great-Sky-Shiner, or the Great Shining Heaven) resulted from his washing his left eye, the moon god (Moon-Darkness-Possessor) from the right eye, and Susano-o-No-Mikato (Brave-Swift-Impetuous-Male) from his nose.
+  After visiting the underworld one time, Izanagi washed himself. The sun goddess, Amaterasu Omikami (Great-Sky-Shiner, or the Great Shining Heaven) resulted from his washing his left eye, the moon god (Moon-Darkness-Possessor) from the right eye, and Susano-o-No-Mikato (Brave-Swift-Impetuous-Male) from his nose.
 
-Susano-O-No-Mikoto is the god of thunderstorms, who always shouts. He is both good and evil, often displaying the traits of a trickster. He was annoyed by some small thing, and destroyed Amaterasu's fields. His excesses caused her to hide in a cave, plunging the entire world into darkness, creating winter. She was eventually lured back with a sword, jewel, and mirror, that eventually became the Imperial Regalia.
+  Susano-O-No-Mikoto is the god of thunderstorms, who always shouts. He is both good and evil, often displaying the traits of a trickster. He was annoyed by some small thing, and destroyed Amaterasu's fields. His excesses caused her to hide in a cave, plunging the entire world into darkness, creating winter. She was eventually lured back with a sword, jewel, and mirror, that eventually became the Imperial Regalia.
 
-Gaiman's portrayal of the storm god, who would appear otherwise to have much in common with Thor, is noticeably affected by Westerners' myths of Japan. The affected speech pattern and characterization in later issues are respectively stereotypical views of the _Chinese_ Imperial Court, and of the modern Japanese economic expansion.
+  Gaiman's portrayal of the storm god, who would appear otherwise to have much in common with Thor, is noticeably affected by Westerners' myths of Japan. The affected speech pattern and characterization in later issues are respectively stereotypical views of the _Chinese_ Imperial Court, and of the modern Japanese economic expansion.
 
-Two good sources for this material are the Nihongi, the Chronicle of Japan, and Joseph Campbell's _The Masks of God: Oriental Mythology_.
+  Two good sources for this material are the Nihongi, the Chronicle of Japan, and Joseph Campbell's _The Masks of God: Oriental Mythology_.
 
 ### Page 23
 

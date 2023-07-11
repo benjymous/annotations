@@ -54,7 +54,7 @@ foreshadowing.
 
 - #### Panel 2
 
-  The Silver City is where the angels dwell. Although it is later stated that the Silver City is not Heaven, it may be treated as a euphemism for Heaven. It appears in both _Sandman_ #24 and _Books of Magic_ #1. The Fields of Paradise probably harkens back to the Greek Elysian Fields, where only the finest dead go.
+  The Silver City is where the angels dwell. Although it is later stated that the Silver City is not Heaven, it may be treated as a euphemism for Heaven. It appears in both [Sandman #24](sandman.24.md) and _Books of Magic_ #1. The Fields of Paradise probably harkens back to the Greek Elysian Fields, where only the finest dead go.
 
 - #### Panel 3
 
@@ -124,7 +124,7 @@ What the Seraph says is a well known prayer, known as the "Kadosh," but the rest
 
 - #### Panel 5-7
 
-This sequence is especially reminiscent of Milton's _Paradise Lost_.
+  This sequence is especially reminiscent of Milton's _Paradise Lost_.
 
 ### Page 16
 
@@ -136,7 +136,7 @@ This sequence is especially reminiscent of Milton's _Paradise Lost_.
 
 - #### Panel 1-2
 
-This gate would appear to be made from flesh. The pillars resemble human intestines.
+  This gate would appear to be made from flesh. The pillars resemble human intestines.
 
 - #### Panel 3
 
@@ -146,7 +146,7 @@ This gate would appear to be made from flesh. The pillars resemble human intesti
 
 - #### Panel 2-3
 
-Again, revisionists and apologists have often cast Lucifer as a long-suffering victim of sin's effects, rather than the agent of sinning. Lucifer need not be being truthful here, though he equally well might be, or possibly somewhere in between.
+  Again, revisionists and apologists have often cast Lucifer as a long-suffering victim of sin's effects, rather than the agent of sinning. Lucifer need not be being truthful here, though he equally well might be, or possibly somewhere in between.
 
 ### Page 19
 
@@ -167,14 +167,14 @@ Perhaps the most reasonable guess is that Dream and Lucifer exited Hell through 
   We saw this creature in the previous issue, although she was not identified there.
   Thus spoke <emble@aol.com>:
 
-> Mazikeen, or Shedeem.
-> A species of beings in Jewish mythology resembling the Arabian Jinn said to be agents of magic and enchantment. When Adam fell, says the Talmud, he was excommunicated for 130 years, during which time he begat demons and spectres.
->
-> There's a sub-entry:
-> Swells out like the Mazikeen ass.
-> The allusion is to a Jewish tradition that a servant, whose task it was to rouse the neighborhood to midnight prayer, one night mounted a stray ass and neglected his duty. As he rode along the ass grew bigger and bigger, till at last it towered as high as the tallest edifice, where it left the man, and there next morning he was found.
->
-> Neither of these are terribly fitting or helpful, but at least it's a reference - and this is Brewer's, so it's very likely that this is where Neil got the name.
+  > Mazikeen, or Shedeem.
+  > A species of beings in Jewish mythology resembling the Arabian Jinn said to be agents of magic and enchantment. When Adam fell, says the Talmud, he was excommunicated for 130 years, during which time he begat demons and spectres.
+  >
+  > There's a sub-entry:
+  > Swells out like the Mazikeen ass.
+  > The allusion is to a Jewish tradition that a servant, whose task it was to rouse the neighborhood to midnight prayer, one night mounted a stray ass and neglected his duty. As he rode along the ass grew bigger and bigger, till at last it towered as high as the tallest edifice, where it left the man, and there next morning he was found.
+  >
+  > Neither of these are terribly fitting or helpful, but at least it's a reference - and this is Brewer's, so it's very likely that this is where Neil got the name.
 
 - #### Panel 2
 
@@ -186,8 +186,7 @@ Perhaps the most reasonable guess is that Dream and Lucifer exited Hell through 
 
 - #### Panel 4
 
-  "Lucifer, where you go, I will follow. Let me go with you.
-  Please. I must stay by your side for ever."
+  "Lucifer, where you go, I will follow. Let me go with you. Please. I must stay by your side for ever."
 
 - #### Panel 5
 
@@ -212,7 +211,7 @@ Perhaps the most reasonable guess is that Dream and Lucifer exited Hell through 
 
 - #### Panels 1,4,5
 
-Note that Dream is cutting Lucifer's wings off several inches above their root, although in panel 5, Lucifer's wounds are clearly at the skin's surface, with no remnant of the wings. Probably, Dream cut high and sloppy to remove the major portion of the wings--can't have them flopping about during surgery--then went back off-panel and excised more carefully.
+  Note that Dream is cutting Lucifer's wings off several inches above their root, although in panel 5, Lucifer's wounds are clearly at the skin's surface, with no remnant of the wings. Probably, Dream cut high and sloppy to remove the major portion of the wings--can't have them flopping about during surgery--then went back off-panel and excised more carefully.
 
 ## Credits
 

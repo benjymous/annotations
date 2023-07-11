@@ -30,7 +30,7 @@ First story in anthology, "Worlds' End"
 
   **Abdera**: according to Brewer's _Dictionary of Phrase and Fable_, a Thracian seaport, proverbial for stupid inhabitants although it produced several noted philosophers. No refs on the particular story.
 
-The name Menton may be a reference to Minneapolis-area guitarist and vocalist Todd Menton, who certainly either knows Gaiman or knows friends of his.
+  The name Menton may be a reference to Minneapolis-area guitarist and vocalist Todd Menton, who certainly either knows Gaiman or knows friends of his.
 
 ### Page 7
 
@@ -44,7 +44,7 @@ The name Menton may be a reference to Minneapolis-area guitarist and vocalist To
 
   As we will learn, the travelers in this inn tell stories.
 
-This is Brant's, although not one that follows traditional narrative style.
+  This is Brant's, although not one that follows traditional narrative style.
 
 - #### Panel 5
 
@@ -68,7 +68,7 @@ This is Brant's, although not one that follows traditional narrative style.
 
 - #### Panels 1 & 5
 
-Note the close-ups on the eyes. This recurs through-out the rest of this issue.
+  Note the close-ups on the eyes. This recurs through-out the rest of this issue.
 
 ### Page 11
 
@@ -104,9 +104,10 @@ Note the close-ups on the eyes. This recurs through-out the rest of this issue.
 
   C.f. page 11 panel 3, and page 21 panel 3. All three of them have blue eyes.
 
-### Page 18 #### Panel 1
+### Page 18
+#### Panel 1
 
-At this point in the story, I was getting the eerie feeling that the city would actually turn out to be a small part of a person's face. Here, the bridge reminded me of the middle section of the man's glasses. Maybe it's just me, though...
+  At this point in the story, I was getting the eerie feeling that the city would actually turn out to be a small part of a person's face. Here, the bridge reminded me of the middle section of the man's glasses. Maybe it's just me, though...
 
 ### Page 19
 
@@ -114,7 +115,7 @@ At this point in the story, I was getting the eerie feeling that the city would 
 
   from Gaiman's introduction to Lovecraft, H. P. _The Dream Cycle of H. P. Lovecraft: Dreams of Terror and Death_: Del Rey, 1995, page x.
 
-> "There's something about Lovecraft's fiction, about his worlds, that is oddly alluring for a writer of fantasy and horror. I've written three Lovecraftian stories: one obliquely, in _Sandman_—a quiet, dreamlike story (it's the first story in the _World's End_ collection. You can tell it's Lovecraftian, because I use the word "cyclopean" in it) . . . "
+  > "There's something about Lovecraft's fiction, about his worlds, that is oddly alluring for a writer of fantasy and horror. I've written three Lovecraftian stories: one obliquely, in _Sandman_—a quiet, dreamlike story (it's the first story in the _World's End_ collection. You can tell it's Lovecraftian, because I use the word "cyclopean" in it) . . . "
 
 ### Page 20
 

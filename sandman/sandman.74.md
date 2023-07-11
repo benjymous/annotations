@@ -47,6 +47,7 @@ The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's know
 - #### Panel 2
 
   Morpheus refers to 39:21.1 -- the story "Soft Places".
+  
   The young man was Marco Polo.
 
 ### Page 15
@@ -71,7 +72,7 @@ The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's know
 
 - #### Panels 1-4
 
-These horsemen were also seen in #39. However, these men appear to be Roman soldiers, whereas the Soft Places horsemen where dressed as Mongols.
+  These horsemen were also seen in #39. However, these men appear to be Roman soldiers, whereas the Soft Places horsemen where dressed as Mongols.
 
 ### Page 21
 

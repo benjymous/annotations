@@ -7,7 +7,7 @@
 First story in anthology _Distant Mirrors_
 Not yet reprinted in any other form
 
-**Sources**: A note in _Sandman_ #31 indicates that the title of this anthology came from Barbara Tuchman's text _A Distant Mirror: The Calamitous 14th Century_.
+**Sources**: A note in [Sandman #31](sandman.31.md) indicates that the title of this anthology came from Barbara Tuchman's text _A Distant Mirror: The Calamitous 14th Century_.
 
 This note also indicates that Simon Schama's _History of the French Revolution_ and John Paxton's _Companion to the French Revolution_ were two of Gaiman's major influences for this story. Additional help was derived from _The Encyclopedia Britannica_, Ninth Ed., 1890 (!).
 
@@ -15,13 +15,13 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 - #### Panel 1
 
-  Though this does not resemble the house of _Sandman_ #1, this is 'Fawney Rig', the future dwelling of Roderick Burgess. Neil declaims: "It is the same house: more wings and bits were added in 1810 (by Lady Johanna) and in 1875 (by the industrialist from whom Burgess later built the house)."
+  Though this does not resemble the house of [Sandman #1](sandman.01.md), this is 'Fawney Rig', the future dwelling of Roderick Burgess. Neil declaims: "It is the same house: more wings and bits were added in 1810 (by Lady Johanna) and in 1875 (by the industrialist from whom Burgess later built the house)."
 
-Gaiman has also said that the house was named by Lady Johanna after the manner in which she acquired it. Unfortunately, this is not explicated here. Wych Cross is probably related to the wych elm.
+  Gaiman has also said that the house was named by Lady Johanna after the manner in which she acquired it. Unfortunately, this is not explicated here. Wych Cross is probably related to the wych elm.
 
 - #### Panel 2
 
-  Dream and the reader met Lady Johanna in _Sandman_ #13.
+  Dream and the reader met Lady Johanna in [Sandman #13](sandman.13.md).
 
 - #### Panel 4
 
@@ -57,7 +57,7 @@ Gaiman has also said that the house was named by Lady Johanna after the manner i
 
   This is from a popular song of the Revolution in Paris.
 
-It translates as "That (they?) will go, the aristocrats, to the lamppost." Public lighting was a recent civic improvement, and quite handy for dispatching unwanted nobility. The song may be found in _Les Miserables_. Note the visible spine and trachea/esophagus of the head.
+  It translates as "That (they?) will go, the aristocrats, to the lamppost." Public lighting was a recent civic improvement, and quite handy for dispatching unwanted nobility. The song may be found in _Les Miserables_. Note the visible spine and trachea/esophagus of the head.
 
 ### Page 5
 
@@ -83,17 +83,16 @@ It translates as "That (they?) will go, the aristocrats, to the lamppost." Publi
 
   Lots of cabbages in this issue... In french, le chou, pronounced more or less like "shoe". Often used as a term of endearment, such as in "mon petit chou", my little cabbage. The Carmagnole is a revolutionary dance from the countryside. Some lines:
 
-> "Dansons la Carmagnole, vive le son, vive le son
-> Dansons la Carmagnole, vive le son du canon"
->
-> "Let's dance the Carmagnole, hail to the sound, hail to the sound
-> Let's dance the Carmagnole, hail to the sound of the gun"
+  > "Dansons la Carmagnole, vive le son, vive le son
+  > Dansons la Carmagnole, vive le son du canon"
+  >
+  > "Let's dance the Carmagnole, hail to the sound, hail to the sound
+  > Let's dance the Carmagnole, hail to the sound of the gun"
 
-**And a description from Dickens**:
+  **And a description from Dickens**:
 
-> "While those were down, the rest linked hand in hand, and all spun round together : then the ring broke, and in separate rings of two and four they turned and turned until they all stopped at once, began again, struck, clutched, and tore, and then reversed the spin, and all spun round another way. Suddenly they stopped again, paused, struck out the time afresh, formed into lines the width of the public way, and, with their heads low down and their hands high up, swooped screaming off. No fight could have been half so terrible as this dance. ... This was the Carmagnole."
-
-      				--Dickens, _A Tale of Two Cities_
+  > "While those were down, the rest linked hand in hand, and all spun round together : then the ring broke, and in separate rings of two and four they turned and turned until they all stopped at once, began again, struck, clutched, and tore, and then reversed the spin, and all spun round another way. Suddenly they stopped again, paused, struck out the time afresh, formed into lines the width of the public way, and, with their heads low down and their hands high up, swooped screaming off. No fight could have been half so terrible as this dance. ... This was the Carmagnole."
+  > --Dickens, _A Tale of Two Cities_
 
 ### Page 7
 
@@ -127,9 +126,9 @@ It translates as "That (they?) will go, the aristocrats, to the lamppost." Publi
 
   **Tricoteuses**: knitters, feminine, from tricoter, to knit.
 
-Probably a reference to Madame Defarge, a character in the novel _A Tale of Two Cities_ by Charles Dickens, which is set partially in revolutionary France.
+  Probably a reference to Madame Defarge, a character in the novel _A Tale of Two Cities_ by Charles Dickens, which is set partially in revolutionary France.
 
-Defarge was a spy and a trictoteuse, concealing secret messages in her scarves while she watched the Terror, needles a-clicking. _Tale_ would be called a historical novel nowadays, as it features fictional doings against a backdrop of the real persons and events of the era.
+  Defarge was a spy and a trictoteuse, concealing secret messages in her scarves while she watched the Terror, needles a-clicking. _Tale_ would be called a historical novel nowadays, as it features fictional doings against a backdrop of the real persons and events of the era.
 
 ### Page 9
 
@@ -139,7 +138,7 @@ Defarge was a spy and a trictoteuse, concealing secret messages in her scarves w
 
 - #### Panel 7-9
 
-St. Just is quoting _Common Sense_.
+  St. Just is quoting _Common Sense_.
 
 ### Page 10
 
@@ -173,15 +172,15 @@ St. Just is quoting _Common Sense_.
 
 - #### Panel 2-3
 
-Charles Genevieve Louis Auguste Andre Timothee d'Eon de Beaumont, le Chevalier d'Eon, 1728-1810. d'Eon masqueraded as lady in waiting under the name Lia de Beaumont at the court of the Czarina in 1755, but was in reality a French spy. The Chevalier was a distinguished soldier and diplomat, including ambassador to England. d'Eon's sex (and sexuality) was indeterminate, and was the subject of much discussion and wagering in England and France. Doctors in attendance at a post-mortem examination disagreed, some postulating that d'Eon was male, others that d'Eon was hermaphroditic.
+  Charles Genevieve Louis Auguste Andre Timothee d'Eon de Beaumont, le Chevalier d'Eon, 1728-1810. d'Eon masqueraded as lady in waiting under the name Lia de Beaumont at the court of the Czarina in 1755, but was in reality a French spy. The Chevalier was a distinguished soldier and diplomat, including ambassador to England. d'Eon's sex (and sexuality) was indeterminate, and was the subject of much discussion and wagering in England and France. Doctors in attendance at a post-mortem examination disagreed, some postulating that d'Eon was male, others that d'Eon was hermaphroditic.
 
-d'Eon's exploits are in some ways reminiscent of the Scarlet Pimpernel, who has been referred to before.
+  d'Eon's exploits are in some ways reminiscent of the Scarlet Pimpernel, who has been referred to before.
 
-There have been several books written by or about the Chevalier, including volumes of d'Eon's diplomatic memoirs, but an entry in the People's Almanac is probably most accessible to a mass audience.
+  There have been several books written by or about the Chevalier, including volumes of d'Eon's diplomatic memoirs, but an entry in the People's Almanac is probably most accessible to a mass audience.
 
-Sir Frances Dashwood seduced Empress Anne of Russia in 1729 by pretending to be King Charles XII of Sweden. Dashwood lived from 1708-1781, and founded the historical Hellfire Club, a model for Marvel Comics' version of same. The Hellfire Club included Benjamin Franklin as one of its members and featured clerically-themed orgies, in which the attendees were dressed as priests and nuns. Dashwood was also a Satanist and a politician.
+  Sir Frances Dashwood seduced Empress Anne of Russia in 1729 by pretending to be King Charles XII of Sweden. Dashwood lived from 1708-1781, and founded the historical Hellfire Club, a model for Marvel Comics' version of same. The Hellfire Club included Benjamin Franklin as one of its members and featured clerically-themed orgies, in which the attendees were dressed as priests and nuns. Dashwood was also a Satanist and a politician.
 
-No reference for the Medenham Monks, though this is likely to be the same group as the Hellfire Club.
+  No reference for the Medenham Monks, though this is likely to be the same group as the Hellfire Club.
 
 - #### Panel 6
 
@@ -203,7 +202,7 @@ No reference for the Medenham Monks, though this is likely to be the same group 
 
 - #### Panel 2-5
 
-This is reminiscent of Edgar Allan Poe's _The Purloined Letter_.
+  This is reminiscent of Edgar Allan Poe's _The Purloined Letter_.
 
 ### Page 19
 

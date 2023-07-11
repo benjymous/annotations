@@ -108,13 +108,13 @@
 
   According to report, the artwork in this panel originally had a red cape peeping out from the back of Clark Kent's suit, and there were other heroes visible in the background. The editor of the Superman titles felt this was disrespectful and ordered it cropped.
 
-Clark Kent is referring to old stories that are now no longer part of official continuity. In the 1970s, Superman's secret identity was a TV news anchorman rather than a newspaper reporter. The story where Superman got an ant's head was _Action Comics_ #296, and where he became a gorilla was possibly _Action_ #218, and where he had to fly forwards in time was possibly _Action_ #387.
+  Clark Kent is referring to old stories that are now no longer part of official continuity. In the 1970s, Superman's secret identity was a TV news anchorman rather than a newspaper reporter. The story where Superman got an ant's head was _Action Comics_ #296, and where he became a gorilla was possibly _Action_ #218, and where he had to fly forwards in time was possibly _Action_ #387.
 
-Also, notice that Superman implies that that particular dream of his is recurring, corresponding to the two (or three?) versions of the Superman TV show, the most famous being the one starring George Reeves and the most recent being "Lois & Clark: The New Adventures of Superman" with Dean Cain.
+  Also, notice that Superman implies that that particular dream of his is recurring, corresponding to the two (or three?) versions of the Superman TV show, the most famous being the one starring George Reeves and the most recent being "Lois & Clark: The New Adventures of Superman" with Dean Cain.
 
-The green man with the blue cape is a superhero called the Martian Manhunter.
+  The green man with the blue cape is a superhero called the Martian Manhunter.
 
-He's the only one of the three who hasn't been portrayed by "an actor on a strange television version of (his) life". He was last seen in 5:14-15.
+  He's the only one of the three who hasn't been portrayed by "an actor on a strange television version of (his) life". He was last seen in 5:14-15.
 
 - #### Panel 2
 

@@ -35,9 +35,11 @@ We are back to the real storyline after last issue's side trip, in Dodge County,
 
   The "I am John's coathanger" routine probably refers to a series of articles Reader's Digest once did, in the 50's, with titles like "I Am John's Kidneys", "I Am John's Liver" and so on. They were narrated from the point of view of the parts of a human body, and gave an informal introduction to what these organs were about, what was harmful to them, and so on. The coathanger very likely refers to the titular method of back alley abortionists. Scarlett O'Hara was the heroine of the novel/movie _Gone with the Wind_ and the reprehensible sequel _Scarlett_.
 
-- #### Panel 4 On the right is Chris Carter from the proto-Industrial group Throbbing Gristle (not Cc creator of the X-Files)
+- #### Panel 4
 
-![](trbbnggrsl.jpg) ![](Sandman_Chris.jpg)
+  On the right is Chris Carter from the proto-Industrial group Throbbing Gristle (not Cc creator of the X-Files)
+
+  ![](trbbnggrsl.jpg) ![](Sandman_Chris.jpg)
 
 ### Page 4
 
@@ -53,7 +55,7 @@ We are back to the real storyline after last issue's side trip, in Dodge County,
 
 - #### Panel 4
 
-  Confirmation that Barnaby and Clarice were killed in _Sandman_ #12.
+  Confirmation that Barnaby and Clarice were killed in [Sandman #12](sandman.12.md).
 
 ### Page 7
 
@@ -62,7 +64,7 @@ We are back to the real storyline after last issue's side trip, in Dodge County,
   Gilbert's claim about Perrault is in fact inaccurate, in a most strange way.
   As near as I can figure, Gaiman had done his research, but confused things a little. The original oral tale, one with variations to be found as far away as China, most probably ended with strong sexual connotations, but with the girl surviving and killing the wolf. Perrault, the first to write a variation of the story down, quite likely was the first to _change_ the ending to the down note of the wolf eating the girl (however, he added a witty poem at the end which explained and illuminated the preceding unhappy tale; Perrault also added the red cap). The Grimm brothers combined a variation of Perrault's with the ending of another tale in which the the prey escapes _from_ the belly of the predator. However, many other folk tales _were_ prettified by writers.
 
-Funland does and says some of the same stuff as the story when he attacks her on page 29 (calling her a slut, telling her she won't need her dress any more, etc.)
+  Funland does and says some of the same stuff as the story when he attacks her on page 29 (calling her a slut, telling her she won't need her dress any more, etc.)
 
 ### Page 8
 
@@ -116,7 +118,7 @@ I cannot identify any of these pictures. I suspect that they include famous seri
 
 - #### Panel 5-7
 
-The Bogeyman appeared, and was killed, in _Swamp Thing_ #44. His shtick was as described here.
+  The Bogeyman appeared, and was killed, in _Swamp Thing_ #44. His shtick was as described here.
 
 ### Page 15
 
@@ -156,9 +158,9 @@ The name broken across two panels is "Hello Little Girl", the inference being th
 
   "Needs must, when the devil drives" is a quote. Rabelais may have it in this particular form. It appears slightly altered in Shakespeare, _All's Well That Ends Well_, Act I, Scene 3, Lines 27-30:
 
-> COUNTESS Tell me thy reason why thou wilt marry. LAVATCH My poor body, madam, requires it. I am driven on by the flesh, and he must needs go that the devil drives.
+  > COUNTESS Tell me thy reason why thou wilt marry. LAVATCH My poor body, madam, requires it. I am driven on by the flesh, and he must needs go that the devil drives.
 
-It has often appeared in comics, notably in one of _Swamp Thing_ ##25-27, when Etrigan appeared.
+  It has often appeared in comics, notably in one of _Swamp Thing_ ##25-27, when Etrigan appeared.
 
 - #### Panel 8
 
@@ -178,7 +180,7 @@ The inference is that this is Disney World, or some similar theme park. Conspira
 
 - #### Panel 1-3
 
-The song is "Venus in Furs", by the Velvet Underground.
+  The song is "Venus in Furs", by the Velvet Underground.
 
 - #### Panel 4
 
@@ -196,7 +198,7 @@ The song is "Venus in Furs", by the Velvet Underground.
 
 - #### Panel 6-7
 
-The inference is that the preoperative transsexuals are male-to-female only. Preoperative transsexuals of this sort take female hormones so that their breasts enlarge and their bodies become more female in appearance, but they retain their male genitals. Many such, in fact, finance their last operations by appearing in specialty, so-called "she-male", pornography. In panel 7, the victim's "left-lean" penis appears in silhouette.
+  The inference is that the preoperative transsexuals are male-to-female only. Preoperative transsexuals of this sort take female hormones so that their breasts enlarge and their bodies become more female in appearance, but they retain their male genitals. Many such, in fact, finance their last operations by appearing in specialty, so-called "she-male", pornography. In panel 7, the victim's "left-lean" penis appears in silhouette.
 
 ### Page 24
 
@@ -214,13 +216,13 @@ The inference is that the preoperative transsexuals are male-to-female only. Pre
 
   "There is no sanity clause" is a pun. Santa Claus is an American mythic figure associated with Christmas, and American and British common law make special provisions for insane criminals.
 
-**Will Hooper notes**:
+  Will Hooper notes:
 
-> Serial killers do not meet the criteria for a NGI (Not Guilty by reason of Insanity) plea, that criteria being that, due to mental illness, the accused was incapable of discerning the difference between right/wrong or legal/illegal. Serial Killers, or Serial Sexual Psychopaths (Sociopaths,) are quite able to see that their actions are illegal; they simply don't care. As examples, look to Ted Bundy (jailed, then executed), John Wayne Gacy (jailed, then executed), and Jeffrey Dahmer (jailed, murdered in prison.) The reason I am familiar with this stuff is that my father is a forensic psychiatrist, and he works at a secure hospital for the criminally insane. One of the major components of his job is evaluating and testifying about the mental state of accused violent offenders, and treating NGI patients in the hospital.
+  > Serial killers do not meet the criteria for a NGI (Not Guilty by reason of Insanity) plea, that criteria being that, due to mental illness, the accused was incapable of discerning the difference between right/wrong or legal/illegal. Serial Killers, or Serial Sexual Psychopaths (Sociopaths,) are quite able to see that their actions are illegal; they simply don't care. As examples, look to Ted Bundy (jailed, then executed), John Wayne Gacy (jailed, then executed), and Jeffrey Dahmer (jailed, murdered in prison.) The reason I am familiar with this stuff is that my father is a forensic psychiatrist, and he works at a secure hospital for the criminally insane. One of the major components of his job is evaluating and testifying about the mental state of accused violent offenders, and treating NGI patients in the hospital.
 
-The Candy Man's statement is, of course, ironic in the extreme, since he's ignoring the _slight_ abnormality of _killing_.
+  The Candy Man's statement is, of course, ironic in the extreme, since he's ignoring the _slight_ abnormality of _killing_.
 
-Fans of "there is no sanity clause" are advised to look at the Marx Brothers film _A Night at the Opera_, as well as in Walt Kelly's comic strip _Pogo_. We may note that Neil Gaiman is alleged to have a Groucho bust in his office, and likes to work with late night movies on, so it's a good bet that he was inspired by _Opera_.
+  Fans of "there is no sanity clause" are advised to look at the Marx Brothers film _A Night at the Opera_, as well as in Walt Kelly's comic strip _Pogo_. We may note that Neil Gaiman is alleged to have a Groucho bust in his office, and likes to work with late night movies on, so it's a good bet that he was inspired by _Opera_.
 
 - #### Panel 4
 
@@ -238,9 +240,9 @@ Of course women are naked under their clothes.
 
   In the original comic edition, some speech balloons fell off the original art. They were restored in the trade paperback reprint. The young man with Fun Land is talking, and the missing balloons read:
 
-> I dunno. I thought maybe if I came here, I'd meet some other people with the same problem. People I could _talk_ to, who'd understand. Who'd _help_ me. But no one else has really been _interested_.
+  > I dunno. I thought maybe if I came here, I'd meet some other people with the same problem. People I could _talk_ to, who'd understand. Who'd _help_ me. But no one else has really been _interested_.
 
-Thus revealing great irony in Fun Land's subsequent absconding.
+  Thus revealing great irony in Fun Land's subsequent absconding.
 
 ### Page 29
 
@@ -262,13 +264,13 @@ Thus revealing great irony in Fun Land's subsequent absconding.
 
 - #### Panel 4-5
 
-These incidents and variations of them have actually taken place in the US and possibly elsewhere.
+  These incidents and variations of them have actually taken place in the US and possibly elsewhere.
 
 ### Page 34
 
 - #### Panel 1
 
-  We may recall that the Corinthian's mouth-eyes were seen in _Sandman_ #10 when Lucien is giving Dream the census results.
+  We may recall that the Corinthian's mouth-eyes were seen in [Sandman #10](sandman.10.md) when Lucien is giving Dream the census results.
 
 ### Page 36
 

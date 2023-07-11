@@ -71,18 +71,21 @@ This, of course, is good ol' Death, Dream's older sister. Recall that her symbol
 
   This is the theme song from the television series M\*A\*S\*H.
 
-The words were never sung on the television show, although they were in the original movie. The panel pictures a shattered facade; we may note that "Shattered Visage" was the name of the graphic novel published by DC that was a sequel to the television series _The Prisoner_.
+  The words were never sung on the television show, although they were in the original movie. The panel pictures a shattered facade; we may note that "Shattered Visage" was the name of the graphic novel published by DC that was a sequel to the television series _The Prisoner_.
 
 ### Page 19
 
 - #### Panel 2
 
-  **Metamorphae**: Those who are beyond shape. Morphogenic:
-  Shape creating. Metaplasm: That which is beyond being formed. Note that the -morph- morpheme comes from Morpheus ("Shaper"), an appellation for Dream.
+  **Metamorphae**: Those who are beyond shape.
+
+  **Morphogenic**:  Shape creating.
+  
+  **Metaplasm**: That which is beyond being formed. Note that the -morph- morpheme comes from Morpheus ("Shaper"), an appellation for Dream.
 
 - #### Panel 2-3
 
-Presumably this refers back to an event in _Metamorpho_.
+  Presumably this refers back to an event in _Metamorpho_.
 
 ### Page 20
 
@@ -106,16 +109,15 @@ Presumably this refers back to an event in _Metamorpho_.
 
   This issue is all about facades, false faces. Note that Rainie has to look behind the facade of the sun to the face of Ra.
 
-We may note that Rainie's apartment throughout this issue has been grey, box-like, oppressive, in start contrast to Rainie's physical colorfulness. However, once she escapes her apartment, her colors complement and blend with the outside world; her own personality perks up a bit, too.
+  We may note that Rainie's apartment throughout this issue has been grey, box-like, oppressive, in start contrast to Rainie's physical colorfulness. However, once she escapes her apartment, her colors complement and blend with the outside world; her own personality perks up a bit, too.
 
 ### Page 24
 
 - #### Panel 4-6
 
-"Be seeing you..." is a line often used in the television series _The Prisoner_. The "interrogation" of Death across the phone is vaguely reminiscent of the series. _The Prisoner_ also featured a nameless intelligence agency.
+  "Be seeing you..." is a line often used in the television series _The Prisoner_. The "interrogation" of Death across the phone is vaguely reminiscent of the series. _The Prisoner_ also featured a nameless intelligence agency.
 
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
-- Jim W Lai <jwtlai@watcgl.waterloo.edu> added _Prisoner_ notes and color
-  symbolism.
+- Jim W Lai <jwtlai@watcgl.waterloo.edu> added _Prisoner_ notes and color symbolism.

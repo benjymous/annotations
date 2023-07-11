@@ -30,17 +30,17 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
   We see Destiny's eyes!
 
-Yet in one of the Brief Lives issues (i forget, they're in the car) they specifically say Destiny is blind and has no eyes.
+  Yet in one of the Brief Lives issues (i forget, they're in the car) they specifically say Destiny is blind and has no eyes.
 
-As a matter of fact we never see his eyes any time beyond this i think. What's going on here (I may seem to be a bit picky, but Destiny has always been my favorite character).
+  As a matter of fact we never see his eyes any time beyond this i think. What's going on here (I may seem to be a bit picky, but Destiny has always been my favorite character).
 
-When we see him actually, he seems well, young, sensitive, not innocent but not the fatalistic persona we usually see him as either. Now this may be the change in artistry we see so often and changes in personal types seen just as much, but whenever we HAVE seen him up close (Orpheus, Seasons of Mist Intro, Necropolis of Despair's and Brief Lives) he has remained the same. An old man with closed eyes, now this, once again, whats going on here?
+  When we see him actually, he seems well, young, sensitive, not innocent but not the fatalistic persona we usually see him as either. Now this may be the change in artistry we see so often and changes in personal types seen just as much, but whenever we HAVE seen him up close (Orpheus, Seasons of Mist Intro, Necropolis of Despair's and Brief Lives) he has remained the same. An old man with closed eyes, now this, once again, whats going on here?
 
-Matthew Noel's thoughts: It seems to me that the reality storm that took place with the conflicting Destiny's might have something to do with this. In the Kindly Ones, when all the Destiny's come together or cease to exist or whatever, the annotations mention certain things about whether the Destiny who now exists is in fact the original that we all knew and loved. For instance, there was talk about the scene of the new Dream facing the Corinthian with the blood on his throne, and how it was deliberately drawn differently than it was when Destiny saw it in his book. In the annotations, there is mention that perhaps this is because this Destiny that we now see may not be the same as before.
+  Matthew Noel's thoughts: It seems to me that the reality storm that took place with the conflicting Destiny's might have something to do with this. In the Kindly Ones, when all the Destiny's come together or cease to exist or whatever, the annotations mention certain things about whether the Destiny who now exists is in fact the original that we all knew and loved. For instance, there was talk about the scene of the new Dream facing the Corinthian with the blood on his throne, and how it was deliberately drawn differently than it was when Destiny saw it in his book. In the annotations, there is mention that perhaps this is because this Destiny that we now see may not be the same as before.
 
-Well, this would seem to continue to work with this new view of Destiny. Perhaps the Destiny that remained after the reality storm is a younger Destiny who is maybe warmer (I don't know about anybody else, but it always seemed to me that the 'regular' Destiny seemed to take some enjoyment in telling people, specifically Dream, things about his destiny that he didn't really want to know... while this Destiny seems at least a bit sad for his brother...), younger (the new Dream would affect anything that could dream, right? Maybe that gives the whole universe a fresher look at their lives and destiny?), and one who has eyes that could see (also an effect of a new Dream, perhaps?).
+  Well, this would seem to continue to work with this new view of Destiny. Perhaps the Destiny that remained after the reality storm is a younger Destiny who is maybe warmer (I don't know about anybody else, but it always seemed to me that the 'regular' Destiny seemed to take some enjoyment in telling people, specifically Dream, things about his destiny that he didn't really want to know... while this Destiny seems at least a bit sad for his brother...), younger (the new Dream would affect anything that could dream, right? Maybe that gives the whole universe a fresher look at their lives and destiny?), and one who has eyes that could see (also an effect of a new Dream, perhaps?).
 
-Interesting on the Dialogue of the Family while others are waking Death says it's not for eating its a table decoration, and earlier Mathew said that's what the all the food is there for.
+  Interesting on the Dialogue of the Family while others are waking Death says it's not for eating its a table decoration, and earlier Mathew said that's what the all the food is there for.
 
 ### Page 5
 
@@ -70,7 +70,7 @@ Interesting on the Dialogue of the Family while others are waking Death says it'
 
   Cheshire is the most popular cheese historically in England. It's also the oldest. It's very salty after a brief exposure, though one tends not to notice at first. It's a member of the cheddar family, but it can't really be made outside Chester county in England because of the high salt content in the soil there.
 
-Wensleydale is a blue veined, rich cream cheese. It has perhaps the best aftertaste of any cheese. Neither of the cheeses looks like the wheel in Destruction's hand.
+  Wensleydale is a blue veined, rich cream cheese. It has perhaps the best aftertaste of any cheese. Neither of the cheeses looks like the wheel in Destruction's hand.
 
 ### Page 11
 
@@ -114,9 +114,9 @@ Mazikeen has a heart tattooed on her left breast.
 
   I believe the young oriental boy throwing the blue roses in honor of Dream's passing barge is actually the reincarnated Nada. The age is about right.
 
-As Morpheus's funereal barge goes over the waterfall, the figurehead keeps changing. Notice when it becomes the hand holding the Ruby, it's being clutched very violently, reminiscent of the end of the Preludes and Nocturnes storyline when Dr. Dee crushed the Ruby with his bare hand, returning its power to Morpheus. In The Wake trade paperback, this sequence is expanded to stretch over three pages, and when that particular form of the barge is drawn, Zulli gave it two hands, and they're cradling the ruby much more gently. Also, in the trade, Zulli saw fit to include a version of the barge with Morpheus's visage as the figure head, with short hair, which appears between the Helm-barge and the Ruby-barge.
+  As Morpheus's funereal barge goes over the waterfall, the figurehead keeps changing. Notice when it becomes the hand holding the Ruby, it's being clutched very violently, reminiscent of the end of the Preludes and Nocturnes storyline when Dr. Dee crushed the Ruby with his bare hand, returning its power to Morpheus. In The Wake trade paperback, this sequence is expanded to stretch over three pages, and when that particular form of the barge is drawn, Zulli gave it two hands, and they're cradling the ruby much more gently. Also, in the trade, Zulli saw fit to include a version of the barge with Morpheus's visage as the figure head, with short hair, which appears between the Helm-barge and the Ruby-barge.
 
-Perhaps these figureheads correspond to various important points in Morpheus's existence (his falling-out with Orpheus, his imprisonment, the destruction of the ruby and the beginning of this chronicle)?
+  Perhaps these figureheads correspond to various important points in Morpheus's existence (his falling-out with Orpheus, his imprisonment, the destruction of the ruby and the beginning of this chronicle)?
 
 ### Page 19
 

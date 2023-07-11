@@ -26,7 +26,11 @@ Gaiman and Pinkwater have been known to hang out on each other's discussion fora
 
   Cluracan was of course last seen in issue 56; his sister Nuala in issue 52.
 
-Page 7 panels 3-5: In 47:14:4 we see (in a panel from Destiny's book, whose location in time is uncertain) a white-haired, white-clad Dream that looks somewhat like this figure. It's unclear as yet whether this is a plot point or just an echo.
+### Page 7
+
+- #### Panels 3-5
+
+  In 47:14:4 we see (in a panel from Destiny's book, whose location in time is uncertain) a white-haired, white-clad Dream that looks somewhat like this figure. It's unclear as yet whether this is a plot point or just an echo.
 
 ### Page 9
 
@@ -50,47 +54,47 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
   The recipe is from _Macbeth_ act IV scene 1:
 
-> **First Witch** Round about the cauldron go;<br/>
-> In the poison'd entrails throw.<br/>
-> Toad, that under cold stone<br/>
-> Days and nights has thirty-one<br/>
-> Swelter'd venom sleeping got,<br/>
-> Boil thou first i' the charmed pot.<br/>
->
-> **ALL** Double, double toil and trouble;<br/>
-> Fire burn, and cauldron bubble.<br/>
->
-> **Second Witch** Fillet of a fenny snake,<br/>
-> In the cauldron boil and bake;<br/>
-> Eye of newt and toe of frog,<br/>
-> Wool of bat and tongue of dog,<br/>
-> Adder's fork and blind-worm's sting,<br/>
-> Lizard's leg and owlet's wing,<br/>
-> For a charm of powerful trouble,<br/>
-> Like a hell-broth boil and bubble.<br/>
->
-> **ALL** Double, double toil and trouble;<br/>
-> Fire burn and cauldron bubble.<br/>
->
-> **Third Witch** Scale of dragon, tooth of wolf,<br/>
-> Witches' mummy, maw and gulf<br/>
-> Of the ravin'd salt-sea shark,<br/>
-> Root of hemlock digg'd i' the dark,<br/>
-> Liver of blaspheming Jew,<br/>
-> Gall of goat, and slips of yew<br/>
-> Silver'd in the moon's eclipse,<br/>
-> Nose of Turk and Tartar's lips,<br/>
-> Finger of birth-strangled babe<br/>
-> Ditch-deliver'd by a drab,<br/>
-> Make the gruel thick and slab:<br/>
-> Add thereto a tiger's chaudron,<br/>
-> For the ingredients of our cauldron.<br/>
->
-> **ALL** Double, double toil and trouble;<br/>
-> Fire burn and cauldron bubble.<br/>
->
-> **Second Witch** Cool it with a baboon's blood,<br/>
-> Then the charm is firm and good.
+  > **First Witch** Round about the cauldron go;<br/>
+  > In the poison'd entrails throw.<br/>
+  > Toad, that under cold stone<br/>
+  > Days and nights has thirty-one<br/>
+  > Swelter'd venom sleeping got,<br/>
+  > Boil thou first i' the charmed pot.<br/>
+  >
+  > **ALL** Double, double toil and trouble;<br/>
+  > Fire burn, and cauldron bubble.<br/>
+  >
+  > **Second Witch** Fillet of a fenny snake,<br/>
+  > In the cauldron boil and bake;<br/>
+  > Eye of newt and toe of frog,<br/>
+  > Wool of bat and tongue of dog,<br/>
+  > Adder's fork and blind-worm's sting,<br/>
+  > Lizard's leg and owlet's wing,<br/>
+  > For a charm of powerful trouble,<br/>
+  > Like a hell-broth boil and bubble.<br/>
+  >
+  > **ALL** Double, double toil and trouble;<br/>
+  > Fire burn and cauldron bubble.<br/>
+  >
+  > **Third Witch** Scale of dragon, tooth of wolf,<br/>
+  > Witches' mummy, maw and gulf<br/>
+  > Of the ravin'd salt-sea shark,<br/>
+  > Root of hemlock digg'd i' the dark,<br/>
+  > Liver of blaspheming Jew,<br/>
+  > Gall of goat, and slips of yew<br/>
+  > Silver'd in the moon's eclipse,<br/>
+  > Nose of Turk and Tartar's lips,<br/>
+  > Finger of birth-strangled babe<br/>
+  > Ditch-deliver'd by a drab,<br/>
+  > Make the gruel thick and slab:<br/>
+  > Add thereto a tiger's chaudron,<br/>
+  > For the ingredients of our cauldron.<br/>
+  >
+  > **ALL** Double, double toil and trouble;<br/>
+  > Fire burn and cauldron bubble.<br/>
+  >
+  > **Second Witch** Cool it with a baboon's blood,<br/>
+  > Then the charm is firm and good.
 
 ### Page 15
 

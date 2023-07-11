@@ -44,9 +44,9 @@ Second story in the anthology "Worlds' End"
 
   A noble family of Imperial Rome bore the name "Aurelius". The city of Aurelia seems to be modeled on Rome in a number of ways.
 
-**Carnifex**: Latin for "executioner" (literally "meat-maker").
+  **Carnifex**: Latin for "executioner" (literally "meat-maker").
 
-The statue on the right resembles a real-life statue (of Apollo? Augustus Caesar? - can't remember). The statue was made, I think, by Michaelangelo.
+  The statue on the right resembles a real-life statue (of Apollo? Augustus Caesar? - can't remember). The statue was made, I think, by Michaelangelo.
 
 ### Page 4
 
@@ -84,7 +84,7 @@ The statue on the right resembles a real-life statue (of Apollo? Augustus Caesar
 
 - #### Panel 8
 
-  **Roman legend had it that the city was founded by twins who became gods**: Romulus and Remus.
+  Roman legend had it that the city was founded by twins who became gods: Romulus and Remus.
 
 ### Page 16
 
@@ -110,7 +110,7 @@ The statue on the right resembles a real-life statue (of Apollo? Augustus Caesar
 
   That tower doesn't look like it has as much room upstairs as was shown on page 21...
 
-**An inconsistency**: on page 21 panel 9, the Psychopomp & Cluracan go _down_ into the room, via a hole in the floor; yet here, the Psychopomp is falling out of a window at the _top_ of a building.
+  An inconsistency: on page 21 panel 9, the Psychopomp & Cluracan go _down_ into the room, via a hole in the floor; yet here, the Psychopomp is falling out of a window at the _top_ of a building.
 
 ### Page 25
 

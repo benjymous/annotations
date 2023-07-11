@@ -30,7 +30,7 @@
 
   James Branch Cabell (1879-1958) was a great early fantasist.
 
-Gaiman has referred to him a few times before. The Storisende editions were a uniform hardcover collection of his works. (They are named for the capital of Cabell's fictional French county, Poictesme; the pun on "Story's End" is obvious.)
+  Gaiman has referred to him a few times before. The Storisende editions were a uniform hardcover collection of his works. (They are named for the capital of Cabell's fictional French county, Poictesme; the pun on "Story's End" is obvious.)
 
 - #### Panel 3
 
@@ -64,7 +64,7 @@ Gaiman has referred to him a few times before. The Storisende editions were a un
 
   Note the panel border here. Rose has left the waking world.
 
-As mentioned in an earlier annotation, a dream in which you go down into a basement signifies a confrontation of something in your unconscious - usually a fear or something unpleasant. Here, Rose is probably confronting the fact that Jack Holdaway may not love her. (Naturally, Desire is there, since Rose is talking about love!)
+  As mentioned in an earlier annotation, a dream in which you go down into a basement signifies a confrontation of something in your unconscious - usually a fear or something unpleasant. Here, Rose is probably confronting the fact that Jack Holdaway may not love her. (Naturally, Desire is there, since Rose is talking about love!)
 
 ### Page 6
 
@@ -84,7 +84,7 @@ As mentioned in an earlier annotation, a dream in which you go down into a basem
 
   Jack Holdaway's line from 64:23:9: "Very perceptive."
 
-In "Brief Lives" part 1 (41:12:5) and part 2 (42:19:4) Desire lights a cigarette with its sigil, a heart. That heart was red, however, and did not have a flip-top.
+  In "Brief Lives" part 1 (41:12:5) and part 2 (42:19:4) Desire lights a cigarette with its sigil, a heart. That heart was red, however, and did not have a flip-top.
 
 - #### Panel 5
 
@@ -110,7 +110,11 @@ In "Brief Lives" part 1 (41:12:5) and part 2 (42:19:4) Desire lights a cigarette
 
   In "The Doll's House", the Corinthian's eye-sockets were filled with pointed canines; here they have normal human dentition.
 
-Page 12 panels 1-5: The traditional method of dealing with shape-changing is to keep an unwavering grip no matter what shape is taken, even a flame. See the ballad "Tam Lin", and Odysseus vs. Proteus in the _Odyssey_.
+### Page 12
+
+- #### Panels 1-5
+
+  The traditional method of dealing with shape-changing is to keep an unwavering grip no matter what shape is taken, even a flame. See the ballad "Tam Lin", and Odysseus vs. Proteus in the _Odyssey_.
 
 - #### Panel 6
 

@@ -43,17 +43,17 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 - #### Panel 4-5
 
-Barbie's life will be more fully explored in a later storyline.
+  Barbie's life will be more fully explored in a later storyline.
 
 - #### Panel 6
 
-  **Two books have readable titles**: [Empire of the Senseless](http://www.amazon.de/exec/obidos/ASIN/0802131794) and [Sleeping in Flame](http://www.amazon.de/exec/obidos/ASIN/0679727779). "Sleeping in Flame" is by Jonathon Carroll, an American writer often writing from Vienna who writes surreal, fantastic, and often horrific fiction. This particular book is a modern retelling of the Rumpleskiltskin fairy tale. Carroll has a reputation for using dreams or fictions becoming reality, and it is rumored that Neil Gaiman had to rework the plot of _The Doll's House_ after reading a Carroll book that used his original idea. _Empire of the Senseless_ was written by Kathy Acker in 1988. Perhaps coincidentally, she dedicates the book to her tattooist. It is described as a postmodern novel, and "not a pretty story." Neil indicates that Shirley Jackson's _We Have Always Lived in the Castle_ and M.R. James' _Ghost Stories of an Antiquary_ were in the script but didn't make it into the panel. He notes that this should help people identify Zelda's short story extract from _Sandman_ #15 and the title of this issue.
+  **Two books have readable titles**: [Empire of the Senseless](http://www.amazon.de/exec/obidos/ASIN/0802131794) and [Sleeping in Flame](http://www.amazon.de/exec/obidos/ASIN/0679727779). "Sleeping in Flame" is by Jonathon Carroll, an American writer often writing from Vienna who writes surreal, fantastic, and often horrific fiction. This particular book is a modern retelling of the Rumpleskiltskin fairy tale. Carroll has a reputation for using dreams or fictions becoming reality, and it is rumored that Neil Gaiman had to rework the plot of _The Doll's House_ after reading a Carroll book that used his original idea. _Empire of the Senseless_ was written by Kathy Acker in 1988. Perhaps coincidentally, she dedicates the book to her tattooist. It is described as a postmodern novel, and "not a pretty story." Neil indicates that Shirley Jackson's _We Have Always Lived in the Castle_ and M.R. James' _Ghost Stories of an Antiquary_ were in the script but didn't make it into the panel. He notes that this should help people identify Zelda's short story extract from [Sandman #15](sandman.15.md) and the title of this issue.
 
 ### Page 18
 
 - #### Panel 2-3
 
-We saw Judy, and the massacre, in _Sandman_ #6. We will see Donna in a later storyline.
+  We saw Judy, and the massacre, in [Sandman #6](sandman.06.md). We will see Donna in a later storyline.
 
 - #### Panel 6
 
@@ -93,7 +93,7 @@ We saw Judy, and the massacre, in _Sandman_ #6. We will see Donna in a later sto
 
 - #### Panel 7
 
-  Another of the unspoken rules that govern the Endless, apparently. Disaster of some sort would strike were Dream to slay kin of the Endless. We saw a possible hint to this in _Sandman_ #10, where Rose is warned of the "Kindly Ones", and a later issue also uses the Eumenides as a threat.
+  Another of the unspoken rules that govern the Endless, apparently. Disaster of some sort would strike were Dream to slay kin of the Endless. We saw a possible hint to this in [Sandman #10](sandman.10.md), where Rose is warned of the "Kindly Ones", and a later issue also uses the Eumenides as a threat.
 
 ### Page 23
 

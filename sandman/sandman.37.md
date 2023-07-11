@@ -29,7 +29,7 @@ Not yet reprinted in any other form
 
 - #### Panel 5; page 3 panel 1
 
-The web of coincidence. Rose was a dream vortex, and evidently her one display of power, in _The Doll's House_, somehow helped restrain the Cuckoo, probably by causing Barbie to stop visiting the skerry.
+  The web of coincidence. Rose was a dream vortex, and evidently her one display of power, in _The Doll's House_, somehow helped restrain the Cuckoo, probably by causing Barbie to stop visiting the skerry.
 
 ### Page 3
 
@@ -49,7 +49,7 @@ The web of coincidence. Rose was a dream vortex, and evidently her one display o
 
   The Dorothy Option is a reference to _The Wizard of Oz_; probably more directly to the movie than the book. In the movie, Dorothy is returned home safely; her sojourn to Oz was that greatest of cliches, Just A Dream. The irony in this option is obvious; recall also that Dorothy was from Kansas, where Barbie is in the present time of this story. We may also note that Barbie's trip to the Land while a hurricane battered New York echoes Dorothy's trip to Oz in a tornado.
 
-Further, the movie version is often used as a source for campy quotes. The movie's star, Judy Garland, is a role model for many transvestite men, and the Emerald City, a location in the film, is a gay slang name for San Francisco.
+  Further, the movie version is often used as a source for campy quotes. The movie's star, Judy Garland, is a role model for many transvestite men, and the Emerald City, a location in the film, is a gay slang name for San Francisco.
 
 ### Page 8
 
@@ -59,11 +59,11 @@ Further, the movie version is often used as a source for campy quotes. The movie
 
 - #### Panel 4
 
-  As mentioned earlier, Foxglove, Hazel, and Thessaly form a maiden-mother-crone triune. This was evident in _Sandman_ #34, which is in some ways a parallel to this chapter.
+  As mentioned earlier, Foxglove, Hazel, and Thessaly form a maiden-mother-crone triune. This was evident in [Sandman #34](sandman.34.md), which is in some ways a parallel to this chapter.
 
 - #### Panel 5-6
 
-When this issue appeared, Gaiman asked, on the GEnie forum, whether readers would be interested in seeing Thessaly again. The sparks between them, in this exchange and elsewhere, have let to some speculation that Thessaly was the unknown romance mentioned in recent _Sandman_ issues.
+  When this issue appeared, Gaiman asked, on the GEnie forum, whether readers would be interested in seeing Thessaly again. The sparks between them, in this exchange and elsewhere, have let to some speculation that Thessaly was the unknown romance mentioned in recent _Sandman_ issues.
 
 ### Page 9
 
@@ -95,7 +95,7 @@ When this issue appeared, Gaiman asked, on the GEnie forum, whether readers woul
 
   Note the heavy-handed irony in Alvin's last name.
 
-Additionally, "Mr. Man" is common gay parlance used to address someone who is being over-assertive or butch.
+  Additionally, "Mr. Man" is common gay parlance used to address someone who is being over-assertive or butch.
 
 ### Page 12
 
@@ -133,7 +133,7 @@ Additionally, "Mr. Man" is common gay parlance used to address someone who is be
 
   The quote is from the Bible, Ecclesiastes 12:6-7. Verse eight is ironic in context:
 
-> 'Vanity of vanities', says the preacher, 'all is vanity.'
+  > 'Vanity of vanities', says the preacher, 'all is vanity.'
 
 - #### Panel 5
 
@@ -163,7 +163,7 @@ One is invited to reflect upon Barbie's idea while recalling the Land, and the G
 
 - #### Panel 2-3
 
-Barbie's experience was with an extreme example of a comic book store, but there are many stores that could use cleaning, whose staffs could use training, and which could be made less actively anti-feminine.
+  Barbie's experience was with an extreme example of a comic book store, but there are many stores that could use cleaning, whose staffs could use training, and which could be made less actively anti-feminine.
 
 ### Page 23
 

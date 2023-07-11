@@ -97,7 +97,7 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 - #### Panel 4
 
-  This is a double page spread. "Major Arcana" originally referred to the non-suited cards in a Tarot deck. Here the term refers to the more important denizens of the Dreaming. This refers back to the introduction to _Sandman_ #8, where we saw a high-number Tarot card with a representation of Dream on it.
+  This is a double page spread. "Major Arcana" originally referred to the non-suited cards in a Tarot deck. Here the term refers to the more important denizens of the Dreaming. This refers back to the introduction to [Sandman #8](sandman.08.md), where we saw a high-number Tarot card with a representation of Dream on it.
 
 ### Page 13
 
@@ -107,15 +107,15 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 - #### Panel 2-3
 
-The first known appearances of the Corinthian and Fiddler's Green. Note that there is something unusual about the Corinthian's eyes. Doesn't Corinthian look like Oscar Wilde here? Well just remember about Dorian Gray, young, dandy, and blase, creature from nightmares himself, he continues beautiful, while his portrait gets older and wicker.
+  The first known appearances of the Corinthian and Fiddler's Green. Note that there is something unusual about the Corinthian's eyes. Doesn't Corinthian look like Oscar Wilde here? Well just remember about Dorian Gray, young, dandy, and blase, creature from nightmares himself, he continues beautiful, while his portrait gets older and wicker.
 
-Caleb Carr wrote a popular novel in 1994 set in 1896 new york city, in which a criminal psychiatrist or "alienist" as they were called at the time, hunts down a serial killer with a taste for young boy whores. His signature was the cutting out of their eyes. There are some strong parallels here with the Corinthian - first, the novel is populated with real historical characters, like Theodore Roosevelt as the police commissioner - something Gaiman himself likes to do. Second, the Corinthian is a character that has skulked about through history cutting people's eyes out (see Cor's appearance in Brief Lives where he cuts out the eyes of the ape being dissected by the scientist in Victorian England).
+  Caleb Carr wrote a popular novel in 1994 set in 1896 new york city, in which a criminal psychiatrist or "alienist" as they were called at the time, hunts down a serial killer with a taste for young boy whores. His signature was the cutting out of their eyes. There are some strong parallels here with the Corinthian - first, the novel is populated with real historical characters, like Theodore Roosevelt as the police commissioner - something Gaiman himself likes to do. Second, the Corinthian is a character that has skulked about through history cutting people's eyes out (see Cor's appearance in Brief Lives where he cuts out the eyes of the ape being dissected by the scientist in Victorian England).
 
-Although 1896 is too early for the Corinthian to be out of dreams on his own, we know that he's always been a 'naughty' character. I think Gaiman plucked him out of this novel for use in Sandman. (this was contributed by Simon Cheesman)
+  Although 1896 is too early for the Corinthian to be out of dreams on his own, we know that he's always been a 'naughty' character. I think Gaiman plucked him out of this novel for use in Sandman. (this was contributed by Simon Cheesman)
 
-The Corinithian could not have been taken from The Alienist, because Sandman#10 came out at least three years before the Alienist was written! The Alienist wasn't written until 1994 as you note: Sandman#10 came out in 1990/1991! <Kull29@aol.com>
+  The Corinithian could not have been taken from The Alienist, because Sandman#10 came out at least three years before the Alienist was written! The Alienist wasn't written until 1994 as you note: Sandman#10 came out in 1990/1991! <Kull29@aol.com>
 
-According to the online _Oxford English Dictionary_ 2d. ed., Fiddler's Green is "a sailor's elysium, in which wine, women, and song figure prominently." Citations date back to 1825. In one citation, tailors and musicians are cantoned (or quartered) in Fiddler's Green. Also according to the online OED, Corinthian relates to the Greek city of Corinth. It is also one of the three Grecian orders of columns, a type of brass or bronze, whence also a meaning equivalent to "brassy" or "brazen," as effrontery, an excessively elegant literary style, an amateur yachtsman, and a variety of bagatelle. Further, and probably the meaning most apt here, it refers to a wealthy or fashionable man, or one who is profligate, idle, or licentious.
+  According to the online _Oxford English Dictionary_ 2d. ed., Fiddler's Green is "a sailor's elysium, in which wine, women, and song figure prominently." Citations date back to 1825. In one citation, tailors and musicians are cantoned (or quartered) in Fiddler's Green. Also according to the online OED, Corinthian relates to the Greek city of Corinth. It is also one of the three Grecian orders of columns, a type of brass or bronze, whence also a meaning equivalent to "brassy" or "brazen," as effrontery, an excessively elegant literary style, an amateur yachtsman, and a variety of bagatelle. Further, and probably the meaning most apt here, it refers to a wealthy or fashionable man, or one who is profligate, idle, or licentious.
 
 ### Page 14
 
@@ -175,7 +175,7 @@ The Three-in-One Goddess. See issue 2.
 
 - #### Panel 5-6
 
-Morpheus is watching the scene (dreaming it?) from the doll's house in the corner of the room, just as Rose was watching his kingdom's affairs in her dreams.
+  Morpheus is watching the scene (dreaming it?) from the doll's house in the corner of the room, just as Rose was watching his kingdom's affairs in her dreams.
 
 ### Page 23
 
@@ -185,7 +185,7 @@ Morpheus is watching the scene (dreaming it?) from the doll's house in the corne
 
 - #### Panel 4,5,6
 
-Here we have Unity symbolically transferring the powers of the vortex to Rose, using annullet (Lucien's words). So here we have a magical ring!
+  Here we have Unity symbolically transferring the powers of the vortex to Rose, using annullet (Lucien's words). So here we have a magical ring!
 
 ### Page 24
 

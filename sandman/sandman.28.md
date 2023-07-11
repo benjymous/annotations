@@ -40,7 +40,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
   Dream appears in his Kai'ckul guise for his dinner with Nada.
 
-Note also the amazing appearing/disappearing candelabra, which may be seen in page 4 panels 3 and 4 and page 5 panel 3, but which is missing in this panel, page 4 panel 5, page 5 panel 5, page 7 panel 5 and page 8 panel 5.
+  Note also the amazing appearing/disappearing candelabra, which may be seen in page 4 panels 3 and 4 and page 5 panel 3, but which is missing in this panel, page 4 panel 5, page 5 panel 5, page 7 panel 5 and page 8 panel 5.
 
 ### Page 4
 
@@ -48,26 +48,27 @@ Note also the amazing appearing/disappearing candelabra, which may be seen in pa
 
   **The Chinese characters mean**:
 
-- lake (hu)
-- dragon (long) [albeit not very accurately written]
-- painting (hua)
+  - lake (hu)
+  - dragon (long) [albeit not very accurately written]
+  - painting (hua)
 
-Of course, lakes figure quite largely in Chinese landscape paintings, and the dragon is a prominent symbol in Chinese culture, but they seem inconsonant with the painting of the birds.
+  Of course, lakes figure quite largely in Chinese landscape paintings, and the dragon is a prominent symbol in Chinese culture, but they seem inconsonant with the painting of the birds.
 
-The other characters in the square block are the artist's signature, conventionally stamped with a Chinese seal, but I can't quite make them out.
+  The other characters in the square block are the artist's signature, conventionally stamped with a Chinese seal, but I can't quite make them out.
 
-The birds are a crane and a raven, perhaps?
+  The birds are a crane and a raven, perhaps?
 
 ### Page 5
 
 - #### Panel 5
 
   Hint, boys'n'girls. This is NOT how to apologize to anyone.
+
   Dream, as we have long recognized, ain't terribly bright. Jim Lai speculates:
 
-> Of course Dream isn't good at expressing himself in words. He belongs to the preliterate era, the subconscious, which is seldom direct (except perhaps in action), preferring symbolic meaning.
+  > Of course Dream isn't good at expressing himself in words. He belongs to the preliterate era, the subconscious, which is seldom direct (except perhaps in action), preferring symbolic meaning.
 
-We may also note that this panel has a different angle on the room; the room is not changing decor (except for the candelabra).
+  We may also note that this panel has a different angle on the room; the room is not changing decor (except for the candelabra).
 
 ### Page 6
 
@@ -77,7 +78,7 @@ We may also note that this panel has a different angle on the room; the room is 
 
 - #### Panel 3
 
-  **Oubliette**: "Forgotten-small", from French, meaning a hidden prison such as found in certain old castles, accessible only from above. Note that this contradicts the image of Nada's cell as seen in both _Sandman_ #4 and #23.
+  **Oubliette**: "Forgotten-small", from French, meaning a hidden prison such as found in certain old castles, accessible only from above. Note that this contradicts the image of Nada's cell as seen in both [Sandman #4](sandman.04.md) and #23.
 
 ### Page 7
 
@@ -153,7 +154,7 @@ Nada is being reincarnated (as a boy, as we see in page 16 panel 5). Is Dream pr
 
   **Crack a tube**: Open a can of beer. "Sheila" is fairly uncouth slang for girl, roughly equivalent to Americans' "chick" or "babe".
 
-Never-you-minds: rhyming slang for "behinds". Rhyming slang is a form of Australian (arising from Cockney) slang in which a word or phrase is replaced by a word or phrase which rhymes with it and whose literal meaning somehow resonates with the meaning of the replaced word or phrase. Thus, "trouble and strife" means "wife".
+  **Never-you-minds**: rhyming slang for "behinds". Rhyming slang is a form of Australian (arising from Cockney) slang in which a word or phrase is replaced by a word or phrase which rhymes with it and whose literal meaning somehow resonates with the meaning of the replaced word or phrase. Thus, "trouble and strife" means "wife".
 
 ### Page 19
 
@@ -163,7 +164,7 @@ Never-you-minds: rhyming slang for "behinds". Rhyming slang is a form of Austral
 
 - #### Panel 5
 
-  ** 'Strewth**: Long-time _Hellblazer_ readers recognize this as "God's truth", a minor expletive. The shortening occurred because of a general reluctance to use the word "God". Similar examples include the obsolete " 'sblood"; "geez", from Jesus; and "zounds", from "Christ's wounds" via " 'swounds".
+  **'Strewth**: Long-time _Hellblazer_ readers recognize this as "God's truth", a minor expletive. The shortening occurred because of a general reluctance to use the word "God". Similar examples include the obsolete " 'sblood"; "geez", from Jesus; and "zounds", from "Christ's wounds" via " 'swounds".
 
 ### Page 20
 
@@ -171,7 +172,7 @@ Never-you-minds: rhyming slang for "behinds". Rhyming slang is a form of Austral
 
   **Pom**: slang meaning British. Of uncertain origin, with many proposed acronymic histories, from "Prisoner of Mother England" (Australia's colonization was originally for the purposes of serving as a penal colony; English newcomers would therefore be "pommies"). It may also somehow arise from "pomegranate". Folk etymologies are notoriously unreliable, however. The short version of the OED labels the etymology unknown.
 
-Why, though, is Lucifer identifiably British? Probably he has a British accent, but why? (Note that his teeth in panel 4 seem to be quite white and straight, indications that he's not a victim of the British orthodontal industry (or lack thereof), although he might have a nasty overbite in panel 3. Smilies where appropriate :-) Obviously, Lucifer is a pog (Prisoner of God); Australia was Britain's Hell.
+  Why, though, is Lucifer identifiably British? Probably he has a British accent, but why? (Note that his teeth in panel 4 seem to be quite white and straight, indications that he's not a victim of the British orthodontal industry (or lack thereof), although he might have a nasty overbite in panel 3. Smilies where appropriate :-) Obviously, Lucifer is a pog (Prisoner of God); Australia was Britain's Hell.
 
 - #### Panel 3-5
 
@@ -205,15 +206,15 @@ One is tempted to say "the Road to Hell is paved with good intentions" in respon
 
 ### Page 24
 
-This is Destiny, in his Garden of Forking Paths. See _Sandman_ #21 for more detail.
+This is Destiny, in his Garden of Forking Paths. See [Sandman #21](sandman.21.md) for more detail.
 
 - #### Panel 2-3
 
-Is Destiny deliberately walking along a joint in the stone floor of his garden?
+  Is Destiny deliberately walking along a joint in the stone floor of his garden?
 
 - #### Panel 4
 
-  We saw this book shelved in Lucien's library in _Sandman_ #22. Others more familiar with Chesterton than I have said that the quote is typically Chestertonian, although it does not seem to be closer to the corresponding work, _The Man Who Was Thursday_, than it does to the rest of the Chesterton oeuvre.
+  We saw this book shelved in Lucien's library in [Sandman #22](sandman.22.md). Others more familiar with Chesterton than I have said that the quote is typically Chestertonian, although it does not seem to be closer to the corresponding work, _The Man Who Was Thursday_, than it does to the rest of the Chesterton oeuvre.
 
 ## Credits
 

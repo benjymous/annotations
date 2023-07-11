@@ -7,7 +7,7 @@
 Second story in anthology _Distant Mirrors_
 Not yet reprinted in any other form
 
-**Sources**: A note in _Sandman_ #31 indicates that the title of this anthology came from Barbara Tuchman's text _A Distant Mirror: The Calamitous 14th Century_.
+**Sources**: A note in [Sandman #31](sandman.31.md) indicates that the title of this anthology came from Barbara Tuchman's text _A Distant Mirror: The Calamitous 14th Century_.
 
 Gaiman drew this story based primarily upon the chapter on Augustus in Suetonius' _The Twelve Caesars_, trans. by Robert Graves, with additional help from _The Encyclopedia Britannica_, Ninth Ed., 1890 (!).
 
@@ -101,7 +101,7 @@ Balsamic and red wine vinegar are red. White wine and grain vinegars are clear; 
 
 - #### Panel 3
 
-  We have seen the Gates of Horn and Ivory in _Sandman_ #2, et al., where they were described as Augustus gives here. They may be seen in Virgil's Aeneid Book 6.
+  We have seen the Gates of Horn and Ivory in [Sandman #2](sandman.02.md), et al., where they were described as Augustus gives here. They may be seen in Virgil's Aeneid Book 6.
 
 - #### Panel 4
 
@@ -119,7 +119,7 @@ Balsamic and red wine vinegar are red. White wine and grain vinegars are clear; 
 
 - #### Panel 1-3
 
-It should now be clear that the boy of the grey flashbacks is Augustus; the uncle (really great uncle) is Julius Caesar, the warrior and dictator of Rome.
+  It should now be clear that the boy of the grey flashbacks is Augustus; the uncle (really great uncle) is Julius Caesar, the warrior and dictator of Rome.
 
 - #### Panel 6
 
@@ -133,7 +133,7 @@ It should now be clear that the boy of the grey flashbacks is Augustus; the uncl
 
 - #### Panel 3-4
 
-The mysteries of Eleusis were originally a Greek tradition, in nature somewhat between a religious coming-of-age ritual and initiation into a secret brotherhood like the Masons. It is believed by some that hallucinogens were used in the initiation rites.
+  The mysteries of Eleusis were originally a Greek tradition, in nature somewhat between a religious coming-of-age ritual and initiation into a secret brotherhood like the Masons. It is believed by some that hallucinogens were used in the initiation rites.
 
 - #### Panel 5
 
@@ -141,7 +141,7 @@ The mysteries of Eleusis were originally a Greek tradition, in nature somewhat b
 
 - #### Panel 6
 
-  Nor were the Seven (Endless) ever mentioned anywhere prior to _Sandman_ #1, of course. [Good heavens! A retcon! Shoot the sacrilegious cur who wrote this! :-]
+  Nor were the Seven (Endless) ever mentioned anywhere prior to [Sandman #1](sandman.01.md), of course. [Good heavens! A retcon! Shoot the sacrilegious cur who wrote this! :-]
 
 - #### Panel 7
 
@@ -220,10 +220,11 @@ The phrase "Mad dogs and Englishmen stay out in the midday sun", I had thought, 
 
 - #### Panel 5-6
 
-The competing prophecies bit sounds like David Eddings' fantasy cycle _The Belgariad_. The first prophecy is the one that came true.
-I have no refs for Roman prophecies, although Tanaqui hints:
+  The competing prophecies bit sounds like David Eddings' fantasy cycle _The Belgariad_. The first prophecy is the one that came true.
 
-> No? Not even for the famous story of the destruction of the Sybilline Books? Graves includes a prophecy about the "Hairy Men" (Caesars) of Rome.
+  I have no refs for Roman prophecies, although Tanaqui hints:
+
+  > No? Not even for the famous story of the destruction of the Sybilline Books? Graves includes a prophecy about the "Hairy Men" (Caesars) of Rome.
 
 - #### Panel 7
 
@@ -259,9 +260,9 @@ I have no refs for Roman prophecies, although Tanaqui hints:
 
   There is no historical evidence to support the assertion that Julius sodomized Augustus. A digression: The modern concept of homo/hetero sexuality is quite recent. Prior to this, in classical Greece and Rome for example, many individuals practiced intra-sex and inter-sex intercourse. The reasons they did this were cultural, as is the modern categorization of sexuality as having a preferred gender. Among males (who were culturally dominant), using another being of whatever gender as a receptacle for one's sperm was a symbol of power over that individual. Any pleasure derived from the act was almost incidental. Thus, Julius is in some sense exerting his dominance over Octavian even as he enjoys his orgasm. To digress further, among Spartans, a man was expected to take a young male lover, and to train him up in the ways of Spartan manhood, a sort of mentoring. So Julius may have been abusing Octavian, but he was not a pedophilic "sex fiend" as Americans think of such today.
 
-We may also note that Julius might have been guilty even by his own culture's prejudices in "keeping Octavian close" and thus attempting to possess him.
+  We may also note that Julius might have been guilty even by his own culture's prejudices in "keeping Octavian close" and thus attempting to possess him.
 
-**Historical note**: Julius received criticism during his lifetime for having allegedly "prostituted" himself to the king of Bithynia, in Asia. By "prostituted", I presume he submitted to sodomy. In Roman terms, the only way that was wrong was that it was in fact submission, that it gave political advantage to the other king, and that reflected badly on Rome.
+  **Historical note**: Julius received criticism during his lifetime for having allegedly "prostituted" himself to the king of Bithynia, in Asia. By "prostituted", I presume he submitted to sodomy. In Roman terms, the only way that was wrong was that it was in fact submission, that it gave political advantage to the other king, and that reflected badly on Rome.
 
 ### Page 24
 

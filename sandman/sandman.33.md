@@ -67,13 +67,13 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 - #### Panel 5-7
 
-Long ago, in the olden days, as Barbie says, a pregnancy test involves injecting some of the mother's blood (possibly urine) into a female rabbit. After 24 hours, the rabbit was killed (or died on its own), and the ovaries were examined visually. If the ovaries displayed signs of hyper-ovulation, this indicated the presence of particular hormones in the woman's blood, and thus that she was pregnant.
+  Long ago, in the olden days, as Barbie says, a pregnancy test involves injecting some of the mother's blood (possibly urine) into a female rabbit. After 24 hours, the rabbit was killed (or died on its own), and the ovaries were examined visually. If the ovaries displayed signs of hyper-ovulation, this indicated the presence of particular hormones in the woman's blood, and thus that she was pregnant.
 
-Note that using "the rabbit died" as a synonym for pregnancy is something of a sick joke: The rabbit always died when the test was performed. Nowadays, fairly reliable tests have been developed that check for certain hormones in the prospective mother's urine (usually recommending the first urine of the morning, so the urine has collected for a longer period of time and is richer in hormones and protein content.)
+  Note that using "the rabbit died" as a synonym for pregnancy is something of a sick joke: The rabbit always died when the test was performed. Nowadays, fairly reliable tests have been developed that check for certain hormones in the prospective mother's urine (usually recommending the first urine of the morning, so the urine has collected for a longer period of time and is richer in hormones and protein content.)
 
 - #### Panel 8-9
 
-_Sandman_ #37 has a short section in the letter column about this sequence; one reader wrote in saying that Barbie was wrong about the use of anesthesia in and the pain of abortions. Assistant Editor Alisa Kwitney, whom I've plagiarized before, checked with Planned Parenthood, and confirmed that individuals' responses to abortion vary considerably, but that Barbie's was a common reaction.
+  [Sandman #37](sandman.37.md) has a short section in the letter column about this sequence; one reader wrote in saying that Barbie was wrong about the use of anesthesia in and the pain of abortions. Assistant Editor Alisa Kwitney, whom I've plagiarized before, checked with Planned Parenthood, and confirmed that individuals' responses to abortion vary considerably, but that Barbie's was a common reaction.
 
 ### Page 5
 
@@ -85,7 +85,7 @@ _Sandman_ #37 has a short section in the letter column about this sequence; one 
 
 - #### Panel 4
 
-  Cotton wool in unspun cotton, roughly the same form as cotton balls, without being formed into balls. The "wool" does not refer to sheep's wool, but instead to the state of the fibers, much as in "steel wool". Note that "Wundawool" makes a reappearance in _Sandman_ #36, an additional clue to the parallel structure of chapters in the story. Why would anyone want to use "wool" that came in different flavours??? It's not like anyone would want to taste it, or anything. Perhaps Barbie's mind is wandering?
+  Cotton wool in unspun cotton, roughly the same form as cotton balls, without being formed into balls. The "wool" does not refer to sheep's wool, but instead to the state of the fibers, much as in "steel wool". Note that "Wundawool" makes a reappearance in [Sandman #36](sandman.36.md), an additional clue to the parallel structure of chapters in the story. Why would anyone want to use "wool" that came in different flavours??? It's not like anyone would want to taste it, or anything. Perhaps Barbie's mind is wandering?
 
 - #### Panel 6
 
@@ -99,11 +99,11 @@ _Sandman_ #37 has a short section in the letter column about this sequence; one 
 
 - #### Panel 2-5
 
-Note the borders of these panels.
+  Note the borders of these panels.
 
 - #### Panel 3-5
 
-The talk show host is David Letterman, who is noted for having a gap between his front teeth (and really bad hair).
+  The talk show host is David Letterman, who is noted for having a gap between his front teeth (and really bad hair).
 
 - #### Panel 5
 
@@ -119,15 +119,15 @@ This sequence is said to be reminiscent of the wardrobe which transports the chi
 
   Raymond Chandler was a pioneer in the hard-boiled detective style, and _The Long Goodbye_ is one of his greater works. The maguffin is a question of identity, and the novel reflects on how identity affects relationships. One of the featured characters disguises himself, and encounters the protagonist, Philip Marlowe, in both guises. At one point, he says "An act is all there is. There isn't anything else. In here--[taps chest with lighter]--there isn't anything." Now compare this will George's actions on the next page.
 
-The title of _The Long Goodbye_ may also be echoed in the end of this storyline.
+  The title of _The Long Goodbye_ may also be echoed in the end of this storyline.
 
 - #### Panel 3
 
   Claudia, the "young girl" vampire in Anne Rice's "Interview with a Vampire", also used to brush her hair 100 times.
 
-**iphigenia notices**:
+  **iphigenia notices**:
 
-> Interview With the Vampire was first published in 1976, long before Game of You. The 100-strokes thing is not unusual at all; it's a time honored beauty technique for improving the condition of one's hair. Note, however, that it's now considered detrimental as it causes quite a bit of stress to the hair and overstimulates oil production in the scalp.
+  > Interview With the Vampire was first published in 1976, long before Game of You. The 100-strokes thing is not unusual at all; it's a time honored beauty technique for improving the condition of one's hair. Note, however, that it's now considered detrimental as it causes quite a bit of stress to the hair and overstimulates oil production in the scalp.
 
 ### Page 10-11
 
@@ -141,11 +141,11 @@ This sequence, particularly the use of the utility knife in stripping away the s
 
 - #### Panel 2-4
 
-Wanda's dream starts off without contractions, but picks them up again in panel 6. "Nice dresses" is probably Wanda's internal code for being a women. The exact significance of the boys is unknown, but they were probably fellow members of the "weird group" at Alvin's school, and because Wanda identified with them when she was Alvin, she projects her own transsexual intents onto them in her dream. Or not. It's open to interpretation.
+  Wanda's dream starts off without contractions, but picks them up again in panel 6. "Nice dresses" is probably Wanda's internal code for being a women. The exact significance of the boys is unknown, but they were probably fellow members of the "weird group" at Alvin's school, and because Wanda identified with them when she was Alvin, she projects her own transsexual intents onto them in her dream. Or not. It's open to interpretation.
 
 - #### Panel 5-6
 
-Recall that Alvin had wet dreams about making out with "Weirdzo Lila Lake" (really Bizarro Lois Lane). Note that Alvin's hair has gotten short.
+  Recall that Alvin had wet dreams about making out with "Weirdzo Lila Lake" (really Bizarro Lois Lane). Note that Alvin's hair has gotten short.
 
 ### Page 13
 
@@ -173,9 +173,9 @@ Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's 
 
 - #### Panel 3-6
 
-Foxglove's real name is Donna Cavanagh, whose ex-lover was Judy, who was killed in _Sandman_ #6. Donna was mentioned in that issue, but not seen. Judy also knew Rose, who was at the center of _The Doll's House_, where we met Barbie.
+  Foxglove's real name is Donna Cavanagh, whose ex-lover was Judy, who was killed in [Sandman #6](sandman.06.md). Donna was mentioned in that issue, but not seen. Judy also knew Rose, who was at the center of _The Doll's House_, where we met Barbie.
 
-Note that Foxglove is sitting in what amounts to a spotlight, possibly explaining the bright color of her nipples.
+  Note that Foxglove is sitting in what amounts to a spotlight, possibly explaining the bright color of her nipples.
 
 - #### Panel 5
 
@@ -183,7 +183,7 @@ Note that Foxglove is sitting in what amounts to a spotlight, possibly explainin
 
 - #### Panel 6
 
-  Note that Judy blinded herself in _Sandman_ #6, thus appearing here without visible eyes.
+  Note that Judy blinded herself in [Sandman #6](sandman.06.md), thus appearing here without visible eyes.
 
 ### Page 17
 

@@ -41,7 +41,8 @@ Not yet reprinted in any other form
 - #### Panel 1
 
   "Veratyr" is an appelation for Odin meaning "Lord of Men".
-  Kvasir is a dwarf, who was referenced in the annotation to _Sandman_ #24.
+
+  Kvasir is a dwarf, who was referenced in the annotation to [Sandman #24](sandman.24.md).
 
 ### Page 4-5
 
@@ -113,10 +114,10 @@ Remiel's speech on this page is a swipe of a speech preached upon the Mount of O
 
   The skull in Dream's souvenir chest is that of the Corinthian, from _The Doll's House_. Note the penny: There is a giant penny in Batman's Batcave, a souvenir of one of his early cases, although it is unlikely that Dream would have a copy.
 
-<jurph@gondor.org> says:
+  <jurph@gondor.org> says:
 
-> The city in a bottle is indeed Baghdad ("Ramadan") and the pocket watch belongs to Prez ("The Golden Boy", world's end #5), as seen on page 24, panel 2. Its history is given in the preceding few pages.
-> There is also a tankard shown. Perhaps this is the tankard Dream first drank from when meeting Hob Gadling?
+  > The city in a bottle is indeed Baghdad ("Ramadan") and the pocket watch belongs to Prez ("The Golden Boy", world's end #5), as seen on page 24, panel 2. Its history is given in the preceding few pages.
+  > There is also a tankard shown. Perhaps this is the tankard Dream first drank from when meeting Hob Gadling?
 
 ### Page 22
 

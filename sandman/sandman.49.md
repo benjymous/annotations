@@ -6,7 +6,7 @@
 
 **Notes**: See #41. This issue is the coda for the arc, reprising all that we've seen before and reiterating "change" as the theme. The briefness of life reinforces the change embodied by Destruction. The emphasis upon change is meant to point out the change in Dream since his imprisonment, as remarked by Orpheus in 49:3.3 and by Destruction in 47:24.2 and 48:17.5. It is perhaps worth noting that the epilog does not strictly begin until 3: or 4:. 1: and 2: are necessarily a part of the central story and are themselves reprised in 7:. Despair's reappearance in 4: is a strict reprise of her role in #41.
 
-1: Farewells
+### 1: _Farewells_
 
 ### Page 1
 
@@ -18,27 +18,27 @@
 
   **House across the bay**: Destruction's house, as made clear last issue.
 
-2: Answered Prayers
+### 2: _Answered Prayers_
 
-3: The Flowers of Romance
+### 3: _The Flowers of Romance_
 
 ### Page 6
 
 - #### Panel 1-6
 
-As remarked by Desire on 10.5, these are new flowers.
+  As remarked by Desire on 10.5, these are new flowers.
 
-The creation of a new flower (or similar thing) is a common element in many mythic cycles. There are several examples in the familiar Greek myths. Note the technique of narrow divided vertical panels with gutters.
+  The creation of a new flower (or similar thing) is a common element in many mythic cycles. There are several examples in the familiar Greek myths. Note the technique of narrow divided vertical panels with gutters.
 
-This is typically used in, for example, action shots to indicate very rapid passage of time. Each gutter is an instant of time, and the close spacing indicates rapidity. Here, perhaps, the shear number of gutters is meant to indicate a long pause as the blood drops and the flowers grow.
+  This is typically used in, for example, action shots to indicate very rapid passage of time. Each gutter is an instant of time, and the close spacing indicates rapidity. Here, perhaps, the shear number of gutters is meant to indicate a long pause as the blood drops and the flowers grow.
 
-In any case, it doesn't work, as the continuity from panel to panel indicates that the whole set of panels is a single instant.
+  In any case, it doesn't work, as the continuity from panel to panel indicates that the whole set of panels is a single instant.
 
 - #### Panel 9
 
   Again, see Special #1 or Graves or another classical Greek myth text for details.
 
-4: Journey's End
+### 4: _Journey's End_
 
 ### Page 7
 
@@ -74,7 +74,7 @@ In any case, it doesn't work, as the continuity from panel to panel indicates th
 
   Is that Etain (43:13) in the mirror behind Despair?
 
-5: The Gates of Horn
+### 5: _The Gates of Horn_
 
 **Note**: The gates' purpose is as given in classical mythology. See the annotation to #2 for citations from Homer and Virgil.
 
@@ -84,11 +84,11 @@ In any case, it doesn't work, as the continuity from panel to panel indicates th
 
   Skull and...spine: As seen clearly in 23:1.3 and remarked in 4:14.2.
 
-Gertrude Jobes' _Dictionary of Mythology, Folklore, and Symbols_ mentions three attendants of Morpheus (a Roman name of Dream): Icelos (dreams that appear real), Phantasos (false or strange dreams), and Phobetor (alarming dreams).
+  Gertrude Jobes' _Dictionary of Mythology, Folklore, and Symbols_ mentions three attendants of Morpheus (a Roman name of Dream): Icelos (dreams that appear real), Phantasos (false or strange dreams), and Phobetor (alarming dreams).
 
-Other sources indicate that Morpheus, Icalus/Phobetor, and Phantasus were the children of Hypnos. [Lance Smith has accumulated some fairly exhaustive notes on the Greek sources of Dream and the other Endless.]
+  Other sources indicate that Morpheus, Icalus/Phobetor, and Phantasus were the children of Hypnos. [Lance Smith has accumulated some fairly exhaustive notes on the Greek sources of Dream and the other Endless.]
 
-6: Things Unlooked For
+### 6: _Things Unlooked For_
 
 ### Page 14
 
@@ -100,40 +100,40 @@ Other sources indicate that Morpheus, Icalus/Phobetor, and Phantasus were the ch
 
 - #### Panel 1-2
 
-The Cryptogeographica (lit. "hidden earth writing", meaning "maps of imagined places"):
+  The Cryptogeographica (lit. "hidden earth writing", meaning "maps of imagined places"):
 
-- **Ousland City from Top to Bottom**: No refs.
-- **Poictesme**: From James Branch Cabell's fantasy.
-- **Kadath**: From H.P. Lovecraft's _Dream-quest of Unknown Kadath_.
-- **Puddleby**: From Hugh Lofting's Doctor Doolittle tales.
-- **Sardathrion**: From a short story (title uncertain, either "Sardathrion" or "Time and the Gods") by Lord Dunsany, the gods' summer home, destroyed by Time.
-- **Saffron Park**: The starting and ending points for G K Chesterton's _The Man Who Was Thursday_.
-- **Hobbiton**: From J.R.R. Tolkien's Middle-Earth stories.
-- **The Land**: Despite the generic name, probably from Stephen Donaldson's two fantasy trilogies.
-- **Flora of Neverland**: From J.M. Barrie's Peter Pan stories.
-- **The Night Land**: From fantasy works by William Hope Hodgson (1875-1918), including an eponymous novel.
-- **One Night in Baghdad**: See #50; probably from 1,001 Arabian Nights.
+  - **Ousland City from Top to Bottom**: No refs.
+  - **Poictesme**: From James Branch Cabell's fantasy.
+  - **Kadath**: From H.P. Lovecraft's _Dream-quest of Unknown Kadath_.
+  - **Puddleby**: From Hugh Lofting's Doctor Doolittle tales.
+  - **Sardathrion**: From a short story (title uncertain, either "Sardathrion" or "Time and the Gods") by Lord Dunsany, the gods' summer home, destroyed by Time.
+  - **Saffron Park**: The starting and ending points for G K Chesterton's _The Man Who Was Thursday_.
+  - **Hobbiton**: From J.R.R. Tolkien's Middle-Earth stories.
+  - **The Land**: Despite the generic name, probably from Stephen Donaldson's two fantasy trilogies.
+  - **Flora of Neverland**: From J.M. Barrie's Peter Pan stories.
+  - **The Night Land**: From fantasy works by William Hope Hodgson (1875-1918), including an eponymous novel.
+  - **One Night in Baghdad**: See #50; probably from 1,001 Arabian Nights.
 
-  The title may be a pun on Murray Head's song "One Night in Bangkok" from the musical _Chess_.
+    The title may be a pun on Murray Head's song "One Night in Bangkok" from the musical _Chess_.
 
-- **Noumaria on 7 Livres a Da**y: No refs. A "livre" is a pre-19th century French monetary unit. The title is taken from the original cheap traveling guidebook _Europe on Five Dollars a Day_.
-- **Hy-Brasil by Night**: Hy-Brasil (or Hy-Breasil) is the Summer Country from Celtic myth or an island in the Atlantic whose inhabitants were said to be so morally pure that the island cut its gross earthly connections and could only be seen by those free of worldly desires. Brazil gets its name from this legend. Hy-Brasil is used by James Branch Cabell and in the movie _Erik the Viking_, and is also referenced in the Peter S Beagle novel _The Folk of the Air_ and the R A Lafferty novel _The Fire is Green_.
-- **Los Angeles Underground Railway Map 1932**: No strong refs. LA is building a light rail system (which will include underground sections), and at one time had an extensive trolley network. In 1932, the Summer Olympics were held in Los Angeles, which would presumably have prompted an increase in tourism and a corresponding increase in guidebooks.
-- **[From]mer's [Guide to H]ell**: A popular travel guide produces an edition for Milton and Dante.
-- **[N]arnia**: From C.S. Lewis' fantasy.
-- **[Hitchhiker]'s Guide [to the] Galaxy**: From Douglas Adams' humorous SF. Neil has written a companion to the series.
-- **Road Trips to [the] Emerald City**: From L. Frank Baum's (and others) Oz fantasies (note that one such work was _The Road to Oz_ and one was _The Emerald City of Oz_.)
-- **Alleys and Bradstreets**: No strong refs. A "Bradstreet" is a particular brand of travel guide.
-- **Great Hotels on the Moon**: No refs, but an inhabitable moon was a common subject of proto-SF, particularly in the 18th and 19th centuries.
+  - **Noumaria on 7 Livres a Da**y: No refs. A "livre" is a pre-19th century French monetary unit. The title is taken from the original cheap traveling guidebook _Europe on Five Dollars a Day_.
+  - **Hy-Brasil by Night**: Hy-Brasil (or Hy-Breasil) is the Summer Country from Celtic myth or an island in the Atlantic whose inhabitants were said to be so morally pure that the island cut its gross earthly connections and could only be seen by those free of worldly desires. Brazil gets its name from this legend. Hy-Brasil is used by James Branch Cabell and in the movie _Erik the Viking_, and is also referenced in the Peter S Beagle novel _The Folk of the Air_ and the R A Lafferty novel _The Fire is Green_.
+  - **Los Angeles Underground Railway Map 1932**: No strong refs. LA is building a light rail system (which will include underground sections), and at one time had an extensive trolley network. In 1932, the Summer Olympics were held in Los Angeles, which would presumably have prompted an increase in tourism and a corresponding increase in guidebooks.
+  - **[From]mer's [Guide to H]ell**: A popular travel guide produces an edition for Milton and Dante.
+  - **[N]arnia**: From C.S. Lewis' fantasy.
+  - **[Hitchhiker]'s Guide [to the] Galaxy**: From Douglas Adams' humorous SF. Neil has written a companion to the series.
+  - **Road Trips to [the] Emerald City**: From L. Frank Baum's (and others) Oz fantasies (note that one such work was _The Road to Oz_ and one was _The Emerald City of Oz_.)
+  - **Alleys and Bradstreets**: No strong refs. A "Bradstreet" is a particular brand of travel guide.
+  - **Great Hotels on the Moon**: No refs, but an inhabitable moon was a common subject of proto-SF, particularly in the 18th and 19th centuries.
 
-  Robert Heinlein, who wrote a number of works set on a colonized moon, often had characters staying in hotels there, particularly the Raffles (itself a reference to the fictional thief).
+    Robert Heinlein, who wrote a number of works set on a colonized moon, often had characters staying in hotels there, particularly the Raffles (itself a reference to the fictional thief).
 
-- **Camp Cusack Guide**: No refs. Possibly a reference to any one of a number of slasher films, which always seemed to be set in summer camps.
-- **Ampersand**: No refs. An ampersand is the "and" sign, and once was considered a letter of the alphabet.
-- **Mu A to Z**: Mu is a lost continent in the vein of Atlantis, envisioned by the crackpot Colonel James Churchward, who wrote _The Lost Continent of Mu_, which was ostensibly the translation of ancient writings of the civilization of Mu. The title comes from _London A to Z_, the most reliable and most widely used London map publication. The title is a nice little pun, as "mu" is a letter of the Greek alphabet. "Mu" is also a word from Zen Buddhism, referring to a question that makes no sense or that cannot be answered sensibly. The classic example of this is "May a dog have Buddha nature?".
-- **Cloud Cu[ckoo-Land]**: A translation of "Nephelokokkugia", a name coined by the Greek comic playwright Aristophanes.
+  - **Camp Cusack Guide**: No refs. Possibly a reference to any one of a number of slasher films, which always seemed to be set in summer camps.
+  - **Ampersand**: No refs. An ampersand is the "and" sign, and once was considered a letter of the alphabet.
+  - **Mu A to Z**: Mu is a lost continent in the vein of Atlantis, envisioned by the crackpot Colonel James Churchward, who wrote _The Lost Continent of Mu_, which was ostensibly the translation of ancient writings of the civilization of Mu. The title comes from _London A to Z_, the most reliable and most widely used London map publication. The title is a nice little pun, as "mu" is a letter of the Greek alphabet. "Mu" is also a word from Zen Buddhism, referring to a question that makes no sense or that cannot be answered sensibly. The classic example of this is "May a dog have Buddha nature?".
+  - **Cloud Cu[ckoo-Land]**: A translation of "Nephelokokkugia", a name coined by the Greek comic playwright Aristophanes.
 
-See also _The Dictionary of Imaginary Places_ by Alberto Manguel and Gianni Guadalupi.
+  See also _The Dictionary of Imaginary Places_ by Alberto Manguel and Gianni Guadalupi.
 
 - #### Panel 3
 
@@ -147,7 +147,7 @@ See also _The Dictionary of Imaginary Places_ by Alberto Manguel and Gianni Guad
 
   **Real life**: Mervyn's talent for putting his foot in his mouth shows through again, as Dream is probably "overreacting" to the knowledge that the Kindly Ones will demand his death for spilling family blood.
 
-7: Brief Lives
+### 7: _Brief Lives_
 
 ### Page 19
 

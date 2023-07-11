@@ -85,7 +85,7 @@ Note the potential ambiguity in the discussion of cheeks, given the prominent ap
 
 - #### Panel 2
 
-  First appearance of Thessaly. Thessaly is also the name of a region in Greece. Note the moon-like size and shape of Thessaly's glasses; this possibly symbolism will be more apparent in _Sandman_ #34.
+  First appearance of Thessaly. Thessaly is also the name of a region in Greece. Note the moon-like size and shape of Thessaly's glasses; this possibly symbolism will be more apparent in [Sandman #34](sandman.34.md).
 
 - #### Panel 7
 
@@ -189,15 +189,15 @@ Note the yellow liquid on the ground & dripping off the lady's skirt; apparently
 
   _Breakfast at Tiffany's_ is a novel by Truman Capote, later made into a movie starring Audrey Hepburn.
 
-_Breakfast at Tiffany's_ was about a woman (Hepburn's character, in the movie), who would always go window shopping at Tiffany's (a high-class department story in New York. See my annotation on page 10, panel 3).
+  _Breakfast at Tiffany's_ was about a woman (Hepburn's character, in the movie), who would always go window shopping at Tiffany's (a high-class department story in New York. See my annotation on page 10, panel 3).
 
-This is what Barbie is referring to when she says "Breakfast first. Window shopping later".
+  This is what Barbie is referring to when she says "Breakfast first. Window shopping later".
 
 - #### Panel 2
 
   Wanda is correct. Sleep deprivation studies have shown conclusively that people who are prevented from entering REM sleep, the dreaming phase, become psychotic in a matter of weeks.
 
-Note Wanda's wording: "You go koo-koo." Or Cuckoo.
+  Note Wanda's wording: "You go koo-koo." Or Cuckoo.
 
 - #### Panel 7
 
@@ -205,11 +205,11 @@ Note Wanda's wording: "You go koo-koo." Or Cuckoo.
 
 - #### Panel 8-9
 
-What Wanda is _really_ referring to here are the Bizarros, a group of imperfect duplicates of Superman and his supporting cast, including Lois Lane. The Bizarros, particularly "Bizarro Superman #1" and "Bizarro Lois #1" appeared in quite a few Superman stories, mostly in the 1960s, before being made "never-was" by the events of _Crisis on Infinite Earths_ in 1985.
+  What Wanda is _really_ referring to here are the Bizarros, a group of imperfect duplicates of Superman and his supporting cast, including Lois Lane. The Bizarros, particularly "Bizarro Superman #1" and "Bizarro Lois #1" appeared in quite a few Superman stories, mostly in the 1960s, before being made "never-was" by the events of _Crisis on Infinite Earths_ in 1985.
 
-See below for how the Bizarros became "Weirdzos".
+  See below for how the Bizarros became "Weirdzos".
 
-See also page 17 panel 8.
+  See also page 17 panel 8.
 
 ### Page 17
 
@@ -217,7 +217,7 @@ See also page 17 panel 8.
 
   Wanda's description of the "Wierdzos" is apparently an accurate description of the Bizarros.
 
-"Hyperman" is obviously an analog of Superman. Similarly, "Lila Lake" is an analog of "Lois Lane". (Note the initials of both names.)
+  "Hyperman" is obviously an analog of Superman. Similarly, "Lila Lake" is an analog of "Lois Lane". (Note the initials of both names.)
 
 - #### Panel 4
 
@@ -277,7 +277,7 @@ Martin Tenbones has grown since the Doll's House, where he was no more than ches
 
 - #### Panel 1
 
-  Luz, as we see, is a dodo, Prinado a monkey in a bellboy suit, and Wilkinson a rat in a trenchcoat and press hat. Wilkinson's attire and manner of talking suggest John Constantine, the main character of DC's _Hellblazer_, who also appeared in _Sandman_ #3.
+  Luz, as we see, is a dodo, Prinado a monkey in a bellboy suit, and Wilkinson a rat in a trenchcoat and press hat. Wilkinson's attire and manner of talking suggest John Constantine, the main character of DC's _Hellblazer_, who also appeared in [Sandman #3](sandman.03.md).
 
 ### Page 23
 
@@ -285,7 +285,7 @@ Martin Tenbones has grown since the Doll's House, where he was no more than ches
 
   Note what appear to be many keyholes on Barbie's door; New York residents have multiple deadbolts and police locks to help keep thieves out.
 
-Note also the man standing in the background. Is he merely loitering, or is he interested in what happens to Barbie?
+  Note also the man standing in the background. Is he merely loitering, or is he interested in what happens to Barbie?
 
 ### Page 24
 
@@ -295,15 +295,15 @@ Note also the man standing in the background. Is he merely loitering, or is he i
 
 - #### Panel 4-5
 
-The birds of the apparitions are probably supposed to be cuckoos.
+  The birds of the apparitions are probably supposed to be cuckoos.
 
 ### Page 25
 
 - #### Panel 4 & 5
 
-Note that the bird is apparently unafraid of George.
+  Note that the bird is apparently unafraid of George.
 
-Does he own it? And why is he eating it?
+  Does he own it? And why is he eating it?
 
 - #### Panel 8
 

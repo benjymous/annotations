@@ -6,7 +6,7 @@
 
 **Notes**: See #41. The first two chapters in this issue are strongly demonstrative of the primary theme of "Brief Lives". Chapter titles in this issue seem to be mostly descriptive. Note that the fourth chapter, which is "Bored, She Makes Little Frogs" (pg 10 panel 3--pg 12) if we believe the title page, follows the fifth chapter, "Truth or Consequences, and Other Places" (pg 9--pg 10 panel 2). This break is also unusual for not coinciding with a page break.
 
-1: The People Who Remember Atlantis
+### 1: _The People Who Remember Atlantis_
 
 ### Page 1
 
@@ -14,17 +14,17 @@
 
   The saber-toothed tiger (genus Smilodon) is not, taxonomically speaking, a tiger, or even a feline.
 
-"Echo-Atlantises" may be intended to refer to the Atlantises of Aquaman and Arion, two other DC comics. In the former, set in the present day, Atlantis comprises two sunken cities inhabited by amphibious humans.
+  "Echo-Atlantises" may be intended to refer to the Atlantises of Aquaman and Arion, two other DC comics. In the former, set in the present day, Atlantis comprises two sunken cities inhabited by amphibious humans.
 
-In the latter, the title character rules as the last mage-king of a dying Atlantis, set 45,000 years ago. (There is an Arion mini-series set in the present day which does not concern Atlantis.) _Books of Magic_ #1 also refers to the several Atlantises.
+  In the latter, the title character rules as the last mage-king of a dying Atlantis, set 45,000 years ago. (There is an Arion mini-series set in the present day which does not concern Atlantis.) _Books of Magic_ #1 also refers to the several Atlantises.
 
 - #### Panel 3
 
   The "great lizards" are dinosaurs; "dinosaur" comes from Greek roots meaning "terrible lizard". Pictured is a dinosaur with a collar.
 
-The dinosaur used could be any one of a large lineage of carnivorous, bipedal dinosaurs, including the famed Tyrannosaurus rex.
+  The dinosaur used could be any one of a large lineage of carnivorous, bipedal dinosaurs, including the famed Tyrannosaurus rex.
 
-2: Concerning Mammoths, and Falling Walls
+### 2: _Concerning Mammoths, and Falling Walls_
 
 ### Page 2
 
@@ -42,18 +42,17 @@ The dinosaur used could be any one of a large lineage of carnivorous, bipedal di
 
 - #### Panel 4
 
-  **Freud**: Sigmund Freud (1856-1939), founder of modern
-  psychoanalysis.
+  **Freud**: Sigmund Freud (1856-1939), founder of modern psychoanalysis.
 
-Note another "Post no bills" notice, and the "lost cat" poster.
+  Note another "Post no bills" notice, and the "lost cat" poster.
 
-"Miss Kitty" was a character on the long-running television drama "Gunsmoke". This is not a coincidence!
+  "Miss Kitty" was a character on the long-running television drama "Gunsmoke". This is not a coincidence!
 
 - #### Panel 5
 
   **Mammoths**: Large elephantine creatures that thrived during the last Ice Age ("that interminable winter"). Now extinct.
 
-Note the "Sweeney Todd" poster: "Sweeney Todd" is a project Gaiman is doing with Michael Zulli. Note also the "Cats" poster, with the legend "still here". "Cats" is a long-running Broadway musical. The poster below and to the left of the "Cats" poster may be for "Jesus Christ Superstar", another long-running Broadway musical. The inclusion of these two plays is also not coincidental.
+  Note the "Sweeney Todd" poster: "Sweeney Todd" is a project Gaiman is doing with Michael Zulli. Note also the "Cats" poster, with the legend "still here". "Cats" is a long-running Broadway musical. The poster below and to the left of the "Cats" poster may be for "Jesus Christ Superstar", another long-running Broadway musical. The inclusion of these two plays is also not coincidental.
 
 ### Page 3
 
@@ -73,7 +72,7 @@ Note that the "still here" legend on the "Cats" poster is still visible.
 
   Look, a theme!
 
-3: Who Controls Transportation?
+### 3: _Who Controls Transportation?_
 
 ### Page 8
 
@@ -85,7 +84,8 @@ Note that the "still here" legend on the "Cats" poster is still visible.
 
   Delirium is reading NATIONAL GEOGRAPHIC upside-down.
 
-5: Truth or Consequences, and Other Places
+### 5: _Truth or Consequences, and Other Places_
+
 "Truth or Consequences" is a town in New Mexico.
 
 ### Page 9
@@ -94,7 +94,7 @@ Note that the "still here" legend on the "Cats" poster is still visible.
 
   **Body and Blood**: An oath referring to the Christian mass, an unusual choice for someone who was in ancient Babylon, but he keeps up with the times.
 
-4: Bored, She Makes Little Frogs
+### 4: _Bored, She Makes Little Frogs_
 
 ### Page 12
 
@@ -102,7 +102,8 @@ Note that the "still here" legend on the "Cats" poster is still visible.
 
   Note that Del has changed clothes and hair, as she often does between issues. "The lawyer" was Capax; the others will soon appear.
 
-6: Ancestral Voices Prophesying
+### 6: _Ancestral Voices Prophesying_
+
 From Coleridge's "Xanadu".
 
 ### Page 13
@@ -121,7 +122,7 @@ From Coleridge's "Xanadu".
 
   Quotes from the poem.
 
-7: The Dogs of Art
+### 7: _The Dogs of Art_
 
 A transformation of the poetic image "the dogs of war", from William Shakespeare's _Julius Caesar_, Act Three, Scene 1, line 274 or 276 (count varies), as spoken by Antony: "Cry `Havoc!' and let slip the dogs of war." See the Appendix for the full text. "Dogs" in this case are fastening devices, although the word probably derives from a metaphorical use of the canine.
 
@@ -129,14 +130,13 @@ A transformation of the poetic image "the dogs of war", from William Shakespeare
 
 - #### Panel 2
 
-  This is the missing Endless, Destruction, as should be
-  obvious from several of his remarks.
+  This is the missing Endless, Destruction, as should be obvious from several of his remarks.
 
 - #### Panel 4
 
   **Barnabas**: An early Christian who abandoned his property to join the Apostles, journeying with Paul on some of his missionary work.
 
-Clement of Alexandria attributed an anti-Jewish tract to him that was actually written much later. Barnabas is from Hebrew "son of exhortation".
+  Clement of Alexandria attributed an anti-Jewish tract to him that was actually written much later. Barnabas is from Hebrew "son of exhortation".
 
 ### Page 19
 
@@ -144,7 +144,7 @@ Clement of Alexandria attributed an anti-Jewish tract to him that was actually w
 
   Note the sword in Destruction's gallery. Its presence here explains why it is not seen in any other gallery.
 
-8: "When I Dream, Sometimes I Remember How to Fly" See also the Vertigo Preview.
+### 8: _"When I Dream, Sometimes I Remember How to Fly" See also the Vertigo Preview._
 
 ### Page 20
 

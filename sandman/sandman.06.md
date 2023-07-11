@@ -23,7 +23,7 @@ Bette's hands may be shaking, or those may be motion lines.
 
   The woman is Judy, we will find out shortly. She is wearing a number of pins and buttons, only two of which are visible here. One reads "Rude Girl," and the other consists of an "A" inscribed in a circle, which is a symbol of anarchy. This is Judy's first known appearance. "Rude Boys" and "Rude Girls" were members of the late 70's, early 80's punk and/or gay scene in Britain. In particular, fans of two-tone or ska music, originally from Jamaica, were referred to as "Rudies."
 
-The term "Rudies," "Rude Boys" or "Rude Girls" has been in use in Jamaica since the early sixties, more than ten years before you sited them in the annotations. The term came to popularity with the Jamaican film "Rude Boy," in the mid '70's, but has been around since the times of Desmond Dekker and Frederick "Toots" Hibbert (the guy who invented the term reggae, or "reggay"), back in '62 or so.
+  The term "Rudies," "Rude Boys" or "Rude Girls" has been in use in Jamaica since the early sixties, more than ten years before you sited them in the annotations. The term came to popularity with the Jamaican film "Rude Boy," in the mid '70's, but has been around since the times of Desmond Dekker and Frederick "Toots" Hibbert (the guy who invented the term reggae, or "reggay"), back in '62 or so.
 
 - #### Panel 3
 
@@ -33,13 +33,13 @@ The term "Rudies," "Rude Boys" or "Rude Girls" has been in use in Jamaica since 
 
   Johnny Carson is a late-night talk show host. Panel 6-7: Judy is a lesbian and Donna is her lover; they've had a fight. Joy Division is a techno-punk/New Wave/gothic band from the late 70's- early 80's.
 
-The term "Joy Division" is taken from the slang, referring to the prostitution sections of Nazi/Axis concentration camps. The lead singer of Joy Division -- Ian Curtis -- committed suicide. The rest of the band formed New Order, which further engendered Electronic, Revenge, and The Other Two! [sic].
+  The term "Joy Division" is taken from the slang, referring to the prostitution sections of Nazi/Axis concentration camps. The lead singer of Joy Division -- Ian Curtis -- committed suicide. The rest of the band formed New Order, which further engendered Electronic, Revenge, and The Other Two! [sic].
 
-eddietomb@yahoo.com comments:
+  eddietomb@yahoo.com comments:
 
-> Joy Division had a song on their second album "Closer" called "Twenty Four Hours". It is likely that the band's name appearing on Judy's jacket was added as an in-joke of sorts, to compliment the title, and not vice versa.
+  > Joy Division had a song on their second album "Closer" called "Twenty Four Hours". It is likely that the band's name appearing on Judy's jacket was added as an in-joke of sorts, to compliment the title, and not vice versa.
 
-The symbol is actually two traditional female symbols interlocked. The male symbol is a circle with an arrow pointing about 30 degrees clockwise of vertical, like the second female symbol on the jacket. This is clearly a lesbian symbol. Bette's expressed attitude (disapproval but tolerance) toward lesbianism is one shared by a great many Americans (generalization: typically small town Christians). Donna will appear later in the series.
+  The symbol is actually two traditional female symbols interlocked. The male symbol is a circle with an arrow pointing about 30 degrees clockwise of vertical, like the second female symbol on the jacket. This is clearly a lesbian symbol. Bette's expressed attitude (disapproval but tolerance) toward lesbianism is one shared by a great many Americans (generalization: typically small town Christians). Donna will appear later in the series.
 
 ### Page 3
 
@@ -84,7 +84,7 @@ The symbol is actually two traditional female symbols interlocked. The male symb
 
 - #### Panel 3-6
 
-"Secret Hearts" is a fictional soap opera, a genre of American daytime television primarily concerned with overblown romantic activity. Soap operas are serial in nature. "Secret Hearts" actually has antecedents in the DC universe. It was the title of an old DC romance comic. Later, Supergirl acted on the soap opera "Secret Hearts" while her strip was running in _Superman Family_. This was pre-Crisis, of course. The balloons in panels 4-6 are parodies of soap opera dialog. If one siamese twin becomes HIV positive, the other one by necessity is as well. The illustration in panel 6 is an example of how sex is used to advertise everything, even canned peas.
+  "Secret Hearts" is a fictional soap opera, a genre of American daytime television primarily concerned with overblown romantic activity. Soap operas are serial in nature. "Secret Hearts" actually has antecedents in the DC universe. It was the title of an old DC romance comic. Later, Supergirl acted on the soap opera "Secret Hearts" while her strip was running in _Superman Family_. This was pre-Crisis, of course. The balloons in panels 4-6 are parodies of soap opera dialog. If one siamese twin becomes HIV positive, the other one by necessity is as well. The illustration in panel 6 is an example of how sex is used to advertise everything, even canned peas.
 
 - #### Panel 7
   Mrs. Cavanagh has not yet appeared again. Cavanagh is more typically spelled -naugh.
@@ -125,7 +125,11 @@ Another fictional example of an American television genre, the children's variet
 
 - #### Panel 4 One of the buttons on Judy's jacket appears to read "Sex Pletch." This is likely to mean "Sex Pistols," one of the early British punk bands.
 
-Page 12-13 panel 1: This is a double page spread. Dyke is slang for lesbian.
+### Page 12-13
+
+- #### Panel 1
+
+  This is a double page spread. Dyke is slang for lesbian.
 
 - #### Panel 3
 
@@ -139,9 +143,9 @@ Page 12-13 panel 1: This is a double page spread. Dyke is slang for lesbian.
 
   This is a right hand passing the severed finger to Dee so it might be Mark's hand. Notice, however, the placement of the fingernail on the hand's index finger, an anatomical impossibility.
 
-A comment on this by eddietomb@yahoo.com:
+  A comment on this by eddietomb@yahoo.com:
 
-> This is actually not the right hand's index finger. It is meant to be a continuation of the severed finger, which bends 45 degrees at the point where the thumb is holding it. The fact that it seems to be drawn as the right hand's index finger is probably a mistake of the inker.
+  > This is actually not the right hand's index finger. It is meant to be a continuation of the severed finger, which bends 45 degrees at the point where the thumb is holding it. The fact that it seems to be drawn as the right hand's index finger is probably a mistake of the inker.
 
 - #### Panel 9 Fundamentalism is a sect of Christianity which believes in the literal word of the Bible. Armageddon is the prophesied end of the world.
 
@@ -176,7 +180,7 @@ The theme music is indeed correct for the 60s television show "The Addams Family
 
 - #### Panel 4-6
 
-The text in the background is mostly unreadable except for occasional short words like "BIG". At the bottom, the text reads, more or less "...sheep come walking [scratched out misspellings of "knocking"] knocking toking on my clocking electric dreams of t.v. screens fiends of chiefs and cheese and late-nit[e]/commercials that don't make sense walking in electric dreams and robots dreams of comic book canibal [sic] sheep/wolves emty [sic]/ ...coats...tether [?] and wandering floors with water and silks"
+  The text in the background is mostly unreadable except for occasional short words like "BIG". At the bottom, the text reads, more or less "...sheep come walking [scratched out misspellings of "knocking"] knocking toking on my clocking electric dreams of t.v. screens fiends of chiefs and cheese and late-nit[e]/commercials that don't make sense walking in electric dreams and robots dreams of comic book canibal [sic] sheep/wolves emty [sic]/ ...coats...tether [?] and wandering floors with water and silks"
 
 ### Page 16
 
@@ -186,13 +190,13 @@ In this sequence, the three women take the roles of the Hecateae, reintroduced i
 
   Kate seems to be referring to Arkham Asylum here, where John Dee just came from. Bette is in the role of Atropos, who cuts the thread of each person's life as it ends, in Greek mythology.
 
-While the clock image has appeared previously, I direct you to Sandman Issue #10 "the Doll's House", page 19 panel 1. The ceiling is a giant watch /clock, implying a connection between time and the Hecatae. Since the three women in issue #6, page 16 are playing the role of the Hecatae, they are giving a watch/clock as well.
+  While the clock image has appeared previously, I direct you to Sandman Issue #10 "the Doll's House", page 19 panel 1. The ceiling is a giant watch /clock, implying a connection between time and the Hecatae. Since the three women in issue #6, page 16 are playing the role of the Hecatae, they are giving a watch/clock as well.
 
 ### Page 17
 
 - #### Panel 5,7
 
-No one dies here. We clearly see all six people in the diner alive on page 19.
+  No one dies here. We clearly see all six people in the diner alive on page 19.
 
 ### Page 18
 
@@ -238,7 +242,7 @@ The sign in the upper left reads "Please and Thank You are the magic words."
 
 - #### Panel 1
 
-  In the lower left corner there is an old clock. Exactly the same clock can be found in [issue 4](sandman.04.html) ("A Hope In Hell") on page 11, panel 3, also in the lower left corner.
+  In the lower left corner there is an old clock. Exactly the same clock can be found in [Sandman #4](sandman.04.md) ("A Hope In Hell") on page 11, panel 3, also in the lower left corner.
 
 ### Page 24
 

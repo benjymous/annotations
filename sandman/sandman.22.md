@@ -32,9 +32,9 @@ Not yet reprinted in any other form
 
   Avernus is a volcanic crater lake near Naples, Italy; it is mythologically the entrance to Hades. Gehenna is Hebrew for "valley of Hinnom", where sacrifices to Moloch (a non-Jewish deity) were made (II Kings 23:10). It has become identified with any place of extreme suffering.
 
-Hades is from Greek mythology, being either the realm of the dead, or the god ruling that realm. Tartarus is a sunless abyss (recall the Sunless Lands from an earlier issue?) below Hades where Zeus imprisoned the Titans. Abaddon is from a Hebrew word meaning destruction, and is identified with the depths of Hell and the destroying angel of the bottomless pit of Rev 9:11. Sheol is the Hebraic afterlife, the concept of consciousness after death actually arising quite late in Jewish theology. We will also note that inferno is simply Latin for hell; and that Dante Alighieri's _Inferno_ has served as a source for much of Gaiman's vision of Hell.
+  Hades is from Greek mythology, being either the realm of the dead, or the god ruling that realm. Tartarus is a sunless abyss (recall the Sunless Lands from an earlier issue?) below Hades where Zeus imprisoned the Titans. Abaddon is from a Hebrew word meaning destruction, and is identified with the depths of Hell and the destroying angel of the bottomless pit of Rev 9:11. Sheol is the Hebraic afterlife, the concept of consciousness after death actually arising quite late in Jewish theology. We will also note that inferno is simply Latin for hell; and that Dante Alighieri's _Inferno_ has served as a source for much of Gaiman's vision of Hell.
 
-Note the columns belching forth smoke and flame, resembling mills and factories. An anti-industrial symbol?
+  Note the columns belching forth smoke and flame, resembling mills and factories. An anti-industrial symbol?
 
 - #### Panel 2
 
@@ -44,17 +44,17 @@ Note the columns belching forth smoke and flame, resembling mills and factories.
 
 - #### Panel 1
 
-  The Library of Unwritten Stories. Psmith and Jeeves were favorite characters of comedy of manners author P.G. Wodehouse. Highly recommended farce. Raymond Chandler is a well-known American detective fiction author, one of the creators of the hard-boiled detective archetype. Lord Dunsany helped create the fantasy genre in the early part of this century. Erasmus Fry is a fictional writer created by Gaiman in _Sandman_ #17. Charles Dickens was a 19th century populist fiction writer; _The Mystery of Edwin Drood_ was an unfinished work of his. Sir Arthur Conan Doyle was a late 19th-early 20th century writer whose creation Sherlock Holmes is listed by Harlan Ellison as one of the five fictional characters known to every person on the planet (The others being Tarzan, Robin Hood, Superman, and Mickey Mouse).
+  The Library of Unwritten Stories. Psmith and Jeeves were favorite characters of comedy of manners author P.G. Wodehouse. Highly recommended farce. Raymond Chandler is a well-known American detective fiction author, one of the creators of the hard-boiled detective archetype. Lord Dunsany helped create the fantasy genre in the early part of this century. Erasmus Fry is a fictional writer created by Gaiman in [Sandman #17](sandman.17.md). Charles Dickens was a 19th century populist fiction writer; _The Mystery of Edwin Drood_ was an unfinished work of his. Sir Arthur Conan Doyle was a late 19th-early 20th century writer whose creation Sherlock Holmes is listed by Harlan Ellison as one of the five fictional characters known to every person on the planet (The others being Tarzan, Robin Hood, Superman, and Mickey Mouse).
 
-Holmes, by the way, has appeared in the DCU universe from time to time. He appeared before the Crisis in Action Comics#283, Joker#6, and Sherlock Holmes#1. After the Crisis, he appeared in Detective Comics#572 and Eclipso#7-8.
+  Holmes, by the way, has appeared in the DCU universe from time to time. He appeared before the Crisis in Action Comics#283, Joker#6, and Sherlock Holmes#1. After the Crisis, he appeared in Detective Comics#572 and Eclipso#7-8.
 
-Conan Doyle virtually invented the "consulting detective" archetype. James Branch Cabell was another early fantasist; Poictesme was his creation. G.K. Chesterton was a colorful author of the early 20th century; Fiddler's Green took his form in _The Doll's House_. Chesteron wrote a book entitled _The Man Who Was Thursday_, and left unfinished _The Man Who Was October_. He also contributed to the forming of the mystery genre with his amateur detective Father Brown. J.R.R. Tolkien elevated the fairy tale (or "high fantasy") to literature with his _Hobbit_ and _Lord of the Rings_ books. _The Lost Road_ was an abandoned time travel story which would have linked his fictional world with our day and age, complementing C.S. Lewis's Space Trilogy. Lewis Carroll (a pen name for Charles Dodgson) wrote _Alice's Adventures in Wonderland_ and _Through the Looking Glass_; Lucien is replacing _Alice's Journey Behind the Moon_.
+  Conan Doyle virtually invented the "consulting detective" archetype. James Branch Cabell was another early fantasist; Poictesme was his creation. G.K. Chesterton was a colorful author of the early 20th century; Fiddler's Green took his form in _The Doll's House_. Chesteron wrote a book entitled _The Man Who Was Thursday_, and left unfinished _The Man Who Was October_. He also contributed to the forming of the mystery genre with his amateur detective Father Brown. J.R.R. Tolkien elevated the fairy tale (or "high fantasy") to literature with his _Hobbit_ and _Lord of the Rings_ books. _The Lost Road_ was an abandoned time travel story which would have linked his fictional world with our day and age, complementing C.S. Lewis's Space Trilogy. Lewis Carroll (a pen name for Charles Dodgson) wrote _Alice's Adventures in Wonderland_ and _Through the Looking Glass_; Lucien is replacing _Alice's Journey Behind the Moon_.
 
-I like to think that Lucien's record collection includes _Traveling Wilburys Volume Two_ with both Roy Orbison and Del Shannon. See the Appendix for more background on the works in the Library.
+  I like to think that Lucien's record collection includes _Traveling Wilburys Volume Two_ with both Roy Orbison and Del Shannon. See the Appendix for more background on the works in the Library.
 
 - #### Panel 5-6
 
-"The Raven" was a poem by author Edgar Allan Poe, who almost singlehandedly created both mystery and the modern horror genre. It's central characters were an author and a raven who quoth "Nevermore" rather often. The movie _The Raven_, referred to here, is a camp classic featuring a duel between wizards Vincent Price and Boris Karloff, with Peter Lorre playing a sort of inept sidekick who is out for his own interests throughout the movie and ends up being turned into a raven. The movie also features a very young Jack Nicholson in a minor role.
+  "The Raven" was a poem by author Edgar Allan Poe, who almost singlehandedly created both mystery and the modern horror genre. It's central characters were an author and a raven who quoth "Nevermore" rather often. The movie _The Raven_, referred to here, is a camp classic featuring a duel between wizards Vincent Price and Boris Karloff, with Peter Lorre playing a sort of inept sidekick who is out for his own interests throughout the movie and ends up being turned into a raven. The movie also features a very young Jack Nicholson in a minor role.
 
 ### Page 3
 
@@ -68,11 +68,11 @@ I like to think that Lucien's record collection includes _Traveling Wilburys Vol
 
 ### Page 5
 
-This is a recap of _Sandman_ #9.
+This is a recap of [Sandman #9](sandman.09.md).
 
 ### Page 6
 
-This is a recap of _Sandman_ #4.
+This is a recap of [Sandman #4](sandman.04.md).
 
 ### Page 7
 
@@ -98,9 +98,9 @@ This is a recap of _Sandman_ #4.
 
   Samael ("Poison Angel") was the principal angel of death in medieval Jewish folklore, where he is under the control of God. Many alternate spellings exist. In the Targum, an Aramaic paraphrasing/translation of the Old Testament, Samael is identified with Lucifer, According to "Man Myth and Magic: an illustrated encyclopedia of mythology religion and the unknown", Samael was "incorrectly identified with Lucifer.". Robert Graves, a British poet, classicist, and translator, and much-admired writer of several works of and about myth and historical novels such as _I, Claudius_, translates Samael as "Venom of God". Hebrew myth calls Samael "Chief of all Satans" ("Satan" = "Adversary") and "the greatest prince in heaven".
 
-Gustav Davidson's _A Dictionary of Angels_, 1967, also referencing Francis Barrett's _The Magus_, 1801, and S.L.Mather's _The Greater Key of Solomon_, 1889, breaks "Samael" down into /sam/ "poison" and /-el/ "angel". In Rabbinic literature, Samael is chief of the Satans and the angel of death. Glenn Carnagey, however, claims that "Samael" comes from the active participle of "shamah", "be high, lofty", affixed with /-el/ "god", and notes that the Hebrew word for angel is "malach". The /sh/ phoneme has shifted to an /s/ articulation, as with Shatan -> Satan.
+  Gustav Davidson's _A Dictionary of Angels_, 1967, also referencing Francis Barrett's _The Magus_, 1801, and S.L.Mather's _The Greater Key of Solomon_, 1889, breaks "Samael" down into /sam/ "poison" and /-el/ "angel". In Rabbinic literature, Samael is chief of the Satans and the angel of death. Glenn Carnagey, however, claims that "Samael" comes from the active participle of "shamah", "be high, lofty", affixed with /-el/ "god", and notes that the Hebrew word for angel is "malach". The /sh/ phoneme has shifted to an /s/ articulation, as with Shatan -> Satan.
 
-Gnostic myths, however, have Samael as the "Blind God", a different Yahweh who made this flawed creation. This Samael may also be seen in the later work of Philip K. Dick, the late author of such notable science fiction works as _Do Androids Dream of Electric Sheep_, later to be filmed as _Blade Runner_.
+  Gnostic myths, however, have Samael as the "Blind God", a different Yahweh who made this flawed creation. This Samael may also be seen in the later work of Philip K. Dick, the late author of such notable science fiction works as _Do Androids Dream of Electric Sheep_, later to be filmed as _Blade Runner_.
 
 - #### Panel 8
 
@@ -134,9 +134,9 @@ This is from Genesis 4:15-16, King James translation, and tells of Cain's punish
 
   "But my lord Lucifer"; this creature has teeth, so should be able to make "l" sounds with no difficulty. In general, though, labial sounds like "m" have been shifted back in the mouth, since the creature has a problem with its lips.
 
-I <Mortis5555@aol.com> think the reason she can't say an 'L' sound is because she has no tongue.
+  I <Mortis5555@aol.com> think the reason she can't say an 'L' sound is because she has no tongue.
 
-Or at least not a whole tongue. Also, Gaiman seems to imagine most of these characters with English accents, so then the sound she might be making instead of "er" would be more like "uh". (probably why it's spelled "Ruszcivah" instead of "Ruszciver"). He might be intending it to sound more like "Uszcivah".
+  Or at least not a whole tongue. Also, Gaiman seems to imagine most of these characters with English accents, so then the sound she might be making instead of "er" would be more like "uh". (probably why it's spelled "Ruszcivah" instead of "Ruszciver"). He might be intending it to sound more like "Uszcivah".
 
 ### Page 11
 
@@ -150,7 +150,7 @@ No direct confirmation of Lucifer's story. Gnostics included several early heret
 
 These are Lyta Hall and her son; Carla is a new character.
 
-We last saw Lyta and the child in _Sandman_ #12, q.v. It is worth noting that Daniel is linked not only to Dream by his gestation, but also to the Triple Goddess through his grandmother, who was bound to the Furies by an agreement made in World War II that granted her superpowers with which to fight the Nazis. Lyta inherited those powers.
+We last saw Lyta and the child in [Sandman #12](sandman.12.md), q.v. It is worth noting that Daniel is linked not only to Dream by his gestation, but also to the Triple Goddess through his grandmother, who was bound to the Furies by an agreement made in World War II that granted her superpowers with which to fight the Nazis. Lyta inherited those powers.
 
 ### Page 14
 
@@ -169,9 +169,9 @@ We last saw Lyta and the child in _Sandman_ #12, q.v. It is worth noting that Da
 
 - #### Panel 2
 
-  This is Hob Gadling, from _Sandman_ #13. Queen Elizabeth I (Queen Bess) quotes from a common version of the tale of Roger Bacon's mechanical head. Supposedly, Bacon built a mechanical head, but could not get it to speak. He went to sleep, but instructed his apprentice to wake him if the head began to speak. After some time, the head spoke, and said "Time is", but the apprentice was too afraid of his master to dare to wake him. A second time, the head spoke, saying "Time was", and again the apprentice feared to disturb his master's slumber. Finally, the head said "Time's past", then exploded, and with this, the apprentice woke his master, but the head could not be repaired and never spoke again. What punishments Bacon inflicted upon his apprentice are lost along with the slaggard's name.
+  This is Hob Gadling, from [Sandman #13](sandman.13.md). Queen Elizabeth I (Queen Bess) quotes from a common version of the tale of Roger Bacon's mechanical head. Supposedly, Bacon built a mechanical head, but could not get it to speak. He went to sleep, but instructed his apprentice to wake him if the head began to speak. After some time, the head spoke, and said "Time is", but the apprentice was too afraid of his master to dare to wake him. A second time, the head spoke, saying "Time was", and again the apprentice feared to disturb his master's slumber. Finally, the head said "Time's past", then exploded, and with this, the apprentice woke his master, but the head could not be repaired and never spoke again. What punishments Bacon inflicted upon his apprentice are lost along with the slaggard's name.
 
-Note that Hob dreams of himself with a beard but is actually clean-shaven.
+  Note that Hob dreams of himself with a beard but is actually clean-shaven.
 
 - #### Panel 6
 
@@ -181,7 +181,7 @@ Note that Hob dreams of himself with a beard but is actually clean-shaven.
 
 - #### Panel 1
 
-  **Neil Gaiman says**: "Hob Gadling's toast is original (although I suspect I had Ambrose and Nathaniel's pledge from Hope Mirlees' novel _Lud in the Mist_ in the back of my head somewhere when I wrote it; the rhythms are similar)." See the appendix for a commentary on Mirlees.
+  Neil Gaiman says: "Hob Gadling's toast is original (although I suspect I had Ambrose and Nathaniel's pledge from Hope Mirlees' novel _Lud in the Mist_ in the back of my head somewhere when I wrote it; the rhythms are similar)." See the appendix for a commentary on Mirlees.
 
 - #### Panel 7
 
@@ -193,11 +193,11 @@ Note that Hob dreams of himself with a beard but is actually clean-shaven.
 
   This refers to events in the first several issues of _The Demon_, the newest version of that title. The "little yellow rhymer" is Etrigan, the lead character of that book.
 
-Panel 3f: Originally, the trinity consisted of Lucifer, Azazel, and Beelzebub; Azazel was replaced by Belial; then Etrigan's coalition deposed all three. Lucifer is saying here that he was never forced to share power, that he merely couldn't be bothered to put down the rebels.
+  Panel 3f: Originally, the trinity consisted of Lucifer, Azazel, and Beelzebub; Azazel was replaced by Belial; then Etrigan's coalition deposed all three. Lucifer is saying here that he was never forced to share power, that he merely couldn't be bothered to put down the rebels.
 
-It is perhaps important to note that DC's Hell has no set continuity at this moment. _The Demon_, at least, has stayed out of Hell since _Season of Mists_ concluded, but a major plot device in _Hellblazer_ depends on the triumvirate being intact and stable.
+  It is perhaps important to note that DC's Hell has no set continuity at this moment. _The Demon_, at least, has stayed out of Hell since _Season of Mists_ concluded, but a major plot device in _Hellblazer_ depends on the triumvirate being intact and stable.
 
-It is not known if Gaiman likes sharing Hell with other authors (particularly Alan Grant of _The Demon_, whose vision of Hell is primarily humorous, and even includes room for "Stanley and His Monster"), but given the hissy Gaiman allegedly threw over Death's unauthorized appearance in _Captain Atom_, it's a fair bet that he'd prefer to have "first refusal" rights on any story dealing with demesnes that figure in _Sandman_.
+  It is not known if Gaiman likes sharing Hell with other authors (particularly Alan Grant of _The Demon_, whose vision of Hell is primarily humorous, and even includes room for "Stanley and His Monster"), but given the hissy Gaiman allegedly threw over Death's unauthorized appearance in _Captain Atom_, it's a fair bet that he'd prefer to have "first refusal" rights on any story dealing with demesnes that figure in _Sandman_.
 
 ### Page 20
 

@@ -8,7 +8,7 @@
 
 **Insert**: This issue contains a special insert, "Death Talks about Life", by Gaiman, art by Dave McKean. I have no particular notes, save that the information presented is accurate within the limitations of the medium. And it can save your life.
 
-1: Life Isn't Pleasant, Petrified
+### 1: _Life Isn't Pleasant, Petrified_
 
 ### Page 1
 
@@ -20,27 +20,27 @@
 
 - #### Panel 1-6
 
-The poem is in some ways reminiscent of Lewis Carroll, particularly of _Sylvie and Bruno_, two verses of which are reproduced here:
+  The poem is in some ways reminiscent of Lewis Carroll, particularly of _Sylvie and Bruno_, two verses of which are reproduced here:
 
-> He thought he saw an Elephant
-> That practised on a fife:
-> He looked again and found it was
-> A letter from his wife.
-> "At length I realize," he said,
-> "The bitterness of life!"
->
-> He thought he saw a Buffalo
-> Upon the chimney-piece
-> He look again and found it was
-> His sister's husband's niece.
-> "Unless you leave this house," he said,
-> "I'll send for the Police!"
+  > He thought he saw an Elephant
+  > That practised on a fife:
+  > He looked again and found it was
+  > A letter from his wife.
+  > "At length I realize," he said,
+  > "The bitterness of life!"
+  >
+  > He thought he saw a Buffalo
+  > Upon the chimney-piece
+  > He look again and found it was
+  > His sister's husband's niece.
+  > "Unless you leave this house," he said,
+  > "I'll send for the Police!"
 
-While there may not be exact parallels, there is a certain similarity in rhythm and sense that may be apparent. The poem is written in iambic tetrameter, although the rhythm is strained to breaking in several places (the misplaced stress in line eight, for example). (English lends itself to iambic form; I am told, for example, that Greek is a "three beat" language.) Note that it has nine lines, which may be a parallel with the nine parts of _Brief Lives_; Spenser's _Faerie Queene_ was written in nine-line stanzas. Basilisk: A mythical reptile with poisonous breath and a petrifying gaze.
+  While there may not be exact parallels, there is a certain similarity in rhythm and sense that may be apparent. The poem is written in iambic tetrameter, although the rhythm is strained to breaking in several places (the misplaced stress in line eight, for example). (English lends itself to iambic form; I am told, for example, that Greek is a "three beat" language.) Note that it has nine lines, which may be a parallel with the nine parts of _Brief Lives_; Spenser's _Faerie Queene_ was written in nine-line stanzas. Basilisk: A mythical reptile with poisonous breath and a petrifying gaze.
 
-**Cockatrice**: The offspring of an egg laid by a rooster and hatched by a toad, resulting in a creature which is partly rooster, partly reptile.
+  **Cockatrice**: The offspring of an egg laid by a rooster and hatched by a toad, resulting in a creature which is partly rooster, partly reptile.
 
-Its touch is petrifying.
+  Its touch is petrifying.
 
 ### Page 3
 
@@ -48,9 +48,9 @@ Its touch is petrifying.
 
   **Doggerel**: a pun. Note Barnabas's coiled tail, indicating that he's probably a Spitz breed, akin to huskies, corgis, and other working dogs. Spitz are characterized by "foxy" heads, such as Barnabas's large, triangular ears and long, narrow muzzle.
 
-2: The Parting of the Ways
+### 2: _The Parting of the Ways_
 
-3: The Trouble with Mortals
+### 3: _The Trouble with Mortals_
 
 ### Page 8
 
@@ -58,13 +58,13 @@ Its touch is petrifying.
 
   **Faramond**: a change in spelling from earlier appearances.
 
-If it's not a typo, it's probably an acknowledgement that spelling was inconsistent prior to the development of mass publishing, coupled with the inherent uncertainty of transliterating a name from one alphabet to another.
+  If it's not a typo, it's probably an acknowledgement that spelling was inconsistent prior to the development of mass publishing, coupled with the inherent uncertainty of transliterating a name from one alphabet to another.
 
 - #### Panel 5
 
   Pharamond's "trouble with mortals" is ironic considering the theme of _Brief Lives_.
 
-4: Dreamings of Meeting or Meetings of Dreaming?
+### 4: _Dreamings of Meeting or Meetings of Dreaming?_
 
 ### Page 9
 
@@ -96,7 +96,7 @@ If it's not a typo, it's probably an acknowledgement that spelling was inconsist
 
   The ancient Egyptians revered cats, and mummified cats have been found in Egyptian tombs.
 
-5: The Trouble with Gods
+### 5: _The Trouble with Gods_
 
 Compare with Section 3.
 
@@ -106,7 +106,7 @@ Compare with Section 3.
 
 The cat being euthanized is probably Chloe Russell's cat (#43, #49).
 
-6: Mervyn Sets Him Straight
+### 6: _Mervyn Sets Him Straight_
 
 ### Page 16
 
@@ -137,7 +137,7 @@ The cat being euthanized is probably Chloe Russell's cat (#43, #49).
 
   Note the mirror in the place of Dream's sigil.
 
-7: "Have You Got Anything with a Happy Ending?"
+### 7: _"Have You Got Anything with a Happy Ending?"_
 
 ### Page 19
 
@@ -155,7 +155,7 @@ Needless to say, it would be interesting to see the script to this issue to see 
 
 [15 or 16 is the usual age given as a guide to the artists.]
 
-8: Tempus Frangit.
+### 8: _Tempus Frangit._
 
 Latin for "time breaks" or "time shatters"; the inscription on Delirium's unusual sundial. Formed by parallel with "tempus fugit", or "time flies", a common saying.
 

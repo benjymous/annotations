@@ -23,11 +23,11 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
   The year, as we can deduce from page 5 panel 4, is 1389. Note the background chatter prominently placed throughout the story. The theme of each snippet is repeated at least once, across a time frame of many centuries. This supports the contention that the theme of the story is uttered by Hob on page 23.
 
-Note that a poll tax, in England, is a flat tax assessed on an individual basis. In the USA, a poll tax is a tax to be paid in order to vote, and has been declared unconstitutional.
+  Note that a poll tax, in England, is a flat tax assessed on an individual basis. In the USA, a poll tax is a tax to be paid in order to vote, and has been declared unconstitutional.
 
-John Ball and Wat Tyler were leaders of the Peasant's Revolt in 1381. They were captured and killed by the authorities (the aristocracy); the rebellion only lasted a week or so as an organized force. John Ball is at least one source for the quote "When Adam dug and Eve span, who was then a gentleman?"
+  John Ball and Wat Tyler were leaders of the Peasant's Revolt in 1381. They were captured and killed by the authorities (the aristocracy); the rebellion only lasted a week or so as an organized force. John Ball is at least one source for the quote "When Adam dug and Eve span, who was then a gentleman?"
 
-The two Popes are Urban VI and Clement VII. Pope Gregory XI moved the papacy from Avignon back to Rome in 1377. Then he died, and a mob of people gathered outside the Vatican and insisted that the next pope be Italian; Urban VI was chosen. Several French cardinals, after leaving Rome, got together and elected their own pope, Clement VII, who based himself in Avignon. The split in the church lasted until 1417.
+  The two Popes are Urban VI and Clement VII. Pope Gregory XI moved the papacy from Avignon back to Rome in 1377. Then he died, and a mob of people gathered outside the Vatican and insisted that the next pope be Italian; Urban VI was chosen. Several French cardinals, after leaving Rome, got together and elected their own pope, Clement VII, who based himself in Avignon. The split in the church lasted until 1417.
 
 - #### Panel 2
 
@@ -37,7 +37,7 @@ The two Popes are Urban VI and Clement VII. Pope Gregory XI moved the papacy fro
 
   First known appearance of Hob (Robert) Gadling, who appears throughout this issue as well as later in the series. The Black Death was the name of an outbreak of bubonic plague which killed one third the population of Europe at its greatest extent. "Buckingham" apparently refers to Thomas of Gloucester, earl (or duke) of Buckingham, son of Edward III and uncle to the king, Richard II. Thomas sought to dominate Richard II, and had the upper hand at this time, but lost power in 1390. I still have yet to identify a specific campaign of Gloucester in Burgundy, which is a province in France.
 
-The Hundred Year's War was at an ebb during Richard II's reign, so the Burgundy campaign may have been part of the struggle between Burgundy and Orleans for control of the French throne, at that time held by Charles VI, "The Mad". Perhaps Buckingham led an English unit allied with one or the other side.
+  The Hundred Year's War was at an ebb during Richard II's reign, so the Burgundy campaign may have been part of the struggle between Burgundy and Orleans for control of the French throne, at that time held by Charles VI, "The Mad". Perhaps Buckingham led an English unit allied with one or the other side.
 
 ### Page 2
 
@@ -45,9 +45,9 @@ The Hundred Year's War was at an ebb during Richard II's reign, so the Burgundy 
 
   One of these is Geoffrey Chaucer, the author of _Canterbury Tales_. Chaucer lived from c. 1340-1400. He is evidently writing _The Canterbury Tales_ at this time; historical sources say that it was written soon after 1387. The other, from panel 3, is named "Edmund", but is not Edmund Spenser, author of _The Faerie Queene_, who was born in c.1552. He may be the writer of _Piers Plowman_, which is generally considered to be the work of William Langland. At least one version of the full name of the work is _The Vision of William Concerning Piers the Plowman, together with Vita de Do-wel, Do-bet, et Do-best, secundum Wit et Resoun_. _Plowman_ was published in three editions in the fourteenth century, the first in 1362, the second in 1378, and the third (after this scene) in 1398. _Plowman_ is a tale to instruct the reader in morals. At least one Edmund of this period was another of Richard II's uncles, the Duke of York, although he is not likely to be in a working class tavern.
 
-"Langue des travaillistes" is "language of the socialists". Here we should probably assume that Gaiman meant "travailleurs", which means "workers". English is the language Edmund means, since the English were the lower classes under the French-speaking Norman upper classes. "La belle francais" is "the beautiful French." "Filthy tales..." is an accurate description of _The Canterbury Tales_.
+  "Langue des travaillistes" is "language of the socialists". Here we should probably assume that Gaiman meant "travailleurs", which means "workers". English is the language Edmund means, since the English were the lower classes under the French-speaking Norman upper classes. "La belle francais" is "the beautiful French." "Filthy tales..." is an accurate description of _The Canterbury Tales_.
 
-As I just happen to have a friend who knows medieval French (and boy, are the corporations knocking on her door with job offers for that skill!), I asked her to correct "Edmund's" modern French into fourteenth century Anglo-Norman. Recall that spelling had not been formalized yet. "Travailleurs" would go to "traveillieur" or "travilleur". "Francais" would probably go to something like "fraunces".
+  As I just happen to have a friend who knows medieval French (and boy, are the corporations knocking on her door with job offers for that skill!), I asked her to correct "Edmund's" modern French into fourteenth century Anglo-Norman. Recall that spelling had not been formalized yet. "Travailleurs" would go to "traveillieur" or "travilleur". "Francais" would probably go to something like "fraunces".
 
 - #### Panel 3
 
@@ -75,7 +75,7 @@ As I just happen to have a friend who knows medieval French (and boy, are the co
 
 - #### Panel 7
 
-  Death calls Dream "little brother". In _Sandman_ #24, in contrast, she calls him "big brother". He is little, as he is younger; he is big, as he is physically larger. Geoffrey Chaucer was indeed an important diplomat at King Richard's court.
+  Death calls Dream "little brother". In [Sandman #24](sandman.24.md), in contrast, she calls him "big brother". He is little, as he is younger; he is big, as he is physically larger. Geoffrey Chaucer was indeed an important diplomat at King Richard's court.
 
 "Tu juges mal la nature humaine" translates as "you judge human nature badly." "Tu juges mal" would remain much the same, but "la nature humaine" is most likely incorrect, however, and is probably "humanite (accent grave)" or possibly "la nature des homs" (hommes is spelled "omes," "umes," "humes," "homes," "homs," "ums," "hons," "hums," "ommes," "honmes," "huems," "ouemes," and rarely "hommes.")
 
@@ -173,7 +173,7 @@ As I just happen to have a friend who knows medieval French (and boy, are the co
 
 - #### Panel 1-2
 
-Presumably the quote from the play _Faustus_ is accurate. We may note that Beelzebub is a name of the devil, or the name of a major demon.
+  Presumably the quote from the play _Faustus_ is accurate. We may note that Beelzebub is a name of the devil, or the name of a major demon.
 
 - #### Panel 5
 
@@ -231,17 +231,17 @@ The French Revolution has begun in 1789, following the successful revolt of most
 
   _King Lear_ is one of Shakespeare's plays, Goneril one of Lear's daughters. Sarah Siddons (1755-1831) was a famous English actress. About this time a director/scholar did convert _Lear_ into a comedy to promote his own ideas of morality. As Dream "predicts", the modification did not last more than a few decades.
 
-I take "Great Stories" to mean a class of tales fundamental to human nature (including, no doubt, "boy meets girl, boy loses girl, boy finds girl again" and the mixed-up twins farce).
+  I take "Great Stories" to mean a class of tales fundamental to human nature (including, no doubt, "boy meets girl, boy loses girl, boy finds girl again" and the mixed-up twins farce).
 
 ### Page 19
 
 - #### Panel 4
 
-  We have not yet met Jack Constantine. He is the fourth known true Constantine, the others being Kon-stan-teyn, the founder of the line, seen in _Hellblazer_ Annual #1; Lady Johanna, seen here and in a later issue; and John himself, seen every month in _Hellblazer_, in _Sandman_ #3, and irregularly in _Swamp Thing_. I exclude John's father, sister, and niece, as they do not follow the Constantine pattern of nasty lives ending in nasty deaths. Recently, another Constantine, a pirate, has appeared in _Swamp Thing_; this one is much nastier and lacks the subtlety of the true Constantines, as well as their orientation toward the occult.
+  We have not yet met Jack Constantine. He is the fourth known true Constantine, the others being Kon-stan-teyn, the founder of the line, seen in _Hellblazer_ Annual #1; Lady Johanna, seen here and in a later issue; and John himself, seen every month in _Hellblazer_, in [Sandman #3](sandman.03.md), and irregularly in _Swamp Thing_. I exclude John's father, sister, and niece, as they do not follow the Constantine pattern of nasty lives ending in nasty deaths. Recently, another Constantine, a pirate, has appeared in _Swamp Thing_; this one is much nastier and lacks the subtlety of the true Constantines, as well as their orientation toward the occult.
 
 - #### Panel 6
 
-  We have seen Dream pull this trick before, in _Sandman_ #1.
+  We have seen Dream pull this trick before, in [Sandman #1](sandman.01.md).
 
 ### Page 20
 
@@ -283,11 +283,11 @@ I take "Great Stories" to mean a class of tales fundamental to human nature (inc
 
 - #### Panel 4
 
-  Lady Johanna's mission for Dream is chronicled later in the series. Blood is Jason Blood, the human host of the Demon, Etrigan. See _Sandman_ #4. At this time, Blood is amnesiac, unaware of either Etrigan or his own immortality.
+  Lady Johanna's mission for Dream is chronicled later in the series. Blood is Jason Blood, the human host of the Demon, Etrigan. See [Sandman #4](sandman.04.md). At this time, Blood is amnesiac, unaware of either Etrigan or his own immortality.
 
 - #### Panel 5
 
-  We saw Mad Hettie in _Sandman_ #3. She has also appeared in a John Constantine sequence in _Swamp Thing_.
+  We saw Mad Hettie in [Sandman #3](sandman.03.md). She has also appeared in a John Constantine sequence in _Swamp Thing_.
 
 ### Page 23
 

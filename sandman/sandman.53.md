@@ -14,9 +14,7 @@ Third story in anthology, "Worlds' End"
 
   This is not the same person who brought Brant the stew in 51:9: the neckerchief is green instead of red, and there is no beard stubble.
 
-**Call me Jim**: An allusion to the opening line of Herman Melville's _Moby-
-Dick_, "Call me Ishmael"; possibly combined with Joseph Conrad's _Lord
-Jim_.
+  **Call me Jim**: An allusion to the opening line of Herman Melville's _Moby-Dick_, "Call me Ishmael"; possibly combined with Joseph Conrad's _Lord Jim_.
 
 ### Page 2
 
@@ -28,7 +26,7 @@ Jim_.
 
   The title is a pun on the English philosopher Thomas Hobbes (1588-1679), whose best-known work was called _Leviathan_.
 
-**Leviathan**: A great sea monster referred to in the Bible; see for instance Isaiah 27:1.
+  **Leviathan**: A great sea monster referred to in the Bible; see for instance Isaiah 27:1.
 
 ### Page 5
 
@@ -46,14 +44,13 @@ Jim_.
 
 - #### Panel 7
 
-  _Salt Water Ballads_: By the English poet John Masefield (1878-1967); first published in 1902.
+  **Salt Water Ballads**: By the English poet John Masefield (1878-1967); first published in 1902.
 
 ### Page 10
 
 - #### Panel 5-6
 
-Rhyming slang. "Khyber [Pass]" -- "Ass". "Apples and
-Pears" -- "stairs".
+  Rhyming slang. "Khyber [Pass]" -- "Ass". "Apples and Pears" -- "stairs".
 
 ### Page 11
 

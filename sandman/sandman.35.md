@@ -12,14 +12,14 @@ Not yet reprinted in any other form
 The title of this chapter is taken from the Velvet Underground song of the same name, from their third self-titled album. Two lines from this song are evocative of this series, and may have been in the back of Neil's mind when he created the Cuckoo:
 
 > "Met myself in a dream.
-
-     Let me tell you it was all right"
+>
+> Let me tell you it was all right"
 
 ### Page 1
 
 - #### Panel 2-3
 
-The Land is full of fantastic elements, such as the Trees and the Tweeners, which verge on being archetypes of the genre; that is their point. The Land takes much of its form from principles abstracted from Barbie's earliest books, as seen later. The Trees may be a direct reference to J.R.R. Tolkien's Ents, from _The Lord of the Rings_.
+  The Land is full of fantastic elements, such as the Trees and the Tweeners, which verge on being archetypes of the genre; that is their point. The Land takes much of its form from principles abstracted from Barbie's earliest books, as seen later. The Trees may be a direct reference to J.R.R. Tolkien's Ents, from _The Lord of the Rings_.
 
 - #### Panel 3
 
@@ -41,7 +41,7 @@ The Land is full of fantastic elements, such as the Trees and the Tweeners, whic
 
 - #### Panel 1
 
-  This was foreshadowed in _Sandman_ #32 page 1.
+  This was foreshadowed in [Sandman #32](sandman.32.md) page 1.
 
 ### Page 5
 
@@ -65,7 +65,7 @@ The Land is full of fantastic elements, such as the Trees and the Tweeners, whic
 
 - #### Panel 5
 
-  Barbie's face painting was prominently seen in _Sandman_ #32.
+  Barbie's face painting was prominently seen in [Sandman #32](sandman.32.md).
   Her remark about not wanting anything permanent should not be overlooked.
 
 ### Page 7
@@ -84,7 +84,7 @@ The text of the scroll is presumably taken from a specific reference work on bir
 
 - #### Panel 1-4
 
-This will be explained more fully later.
+  This will be explained more fully later.
 
 ### Page 11
 

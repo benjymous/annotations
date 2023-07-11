@@ -56,14 +56,14 @@ Many of the dominant elements of the Land are revealed as elements from Barbara'
 
 - #### Panel 1
 
-  **The books are**:
+  The books are:
 
-- [The Wizard of Oz](http://www.amazon.de/exec/obidos/ASIN/0812523350), by L. Frank Baum.
-  Audiences are probably more familiar with the wretched film, but there was a series of children's books of infinitely more scope and imagination.
-- Then there are [The Magician's Nephew](http://www.amazon.de/exec/obidos/ASIN/0064471101), by C.S. Lewis, and something called _Narnia_. Lewis wrote a series of books, including _Nephew_, set in a magical land called Narnia. _Nephew_ is the next-to-last book in the series, but chronicles the creation of Narnia.
-  There was no book in the series entitled _Narnia_, and there has never been an omnibus volume with that title, although there has been at least one two-volume edition with the title _The Chronicles of Narnia_. Narnia is full of Christian religious imagery, including a messianic lion named Aslan.
-- Next is J.R.R. Tolkien's [The Lord of the Rings](http://www.amazon.de/exec/obidos/ASIN/0345340426); this was originally published as a long trilogy, against Tolkien's wishes, but has since been available in several different editions of a single bound volume. _Lord of the Rings_ is perhaps the most classic work of modern fantasy; certainly, it's the most scholarly, as Tolkien was a philologist who made his world by drawing heavily upon his knowledge of languages and myth.
-- Finally, there is a work entitled [Witches](http://www.amazon.de/exec/obidos/ASIN/0141301104), a Roald Dahl novel later made into a movie by Jim Henson.
+  - [The Wizard of Oz](http://www.amazon.de/exec/obidos/ASIN/0812523350), by L. Frank Baum.
+    Audiences are probably more familiar with the wretched film, but there was a series of children's books of infinitely more scope and imagination.
+  - Then there are [The Magician's Nephew](http://www.amazon.de/exec/obidos/ASIN/0064471101), by C.S. Lewis, and something called _Narnia_. Lewis wrote a series of books, including _Nephew_, set in a magical land called Narnia. _Nephew_ is the next-to-last book in the series, but chronicles the creation of Narnia.
+    There was no book in the series entitled _Narnia_, and there has never been an omnibus volume with that title, although there has been at least one two-volume edition with the title _The Chronicles of Narnia_. Narnia is full of Christian religious imagery, including a messianic lion named Aslan.
+  - Next is J.R.R. Tolkien's [The Lord of the Rings](http://www.amazon.de/exec/obidos/ASIN/0345340426); this was originally published as a long trilogy, against Tolkien's wishes, but has since been available in several different editions of a single bound volume. _Lord of the Rings_ is perhaps the most classic work of modern fantasy; certainly, it's the most scholarly, as Tolkien was a philologist who made his world by drawing heavily upon his knowledge of languages and myth.
+  - Finally, there is a work entitled [Witches](http://www.amazon.de/exec/obidos/ASIN/0141301104), a Roald Dahl novel later made into a movie by Jim Henson.
 
 - #### Panel 3
 
@@ -75,7 +75,7 @@ Many of the dominant elements of the Land are revealed as elements from Barbara'
 
   They Might Be Giants is an alternative rock duo made up of John Linnell and John Flansburgh. They take their name from a 1970s George C. Scott film, in which Scott's character becomes convinced that he is Sherlock Holmes. The title of that film is from Cervantes' [Don Quixote](http://www.amazon.de/exec/obidos/ASIN/0192834835); when questioned about his delusions, Scott's character cites Quixote's statement, "I don't fight windmills because they _are_ giants, I fight them because they _might_ be giants." In other words, his "delusion" is the result of a conscious choice. The entire movie, obviously, is about a question of identity, and hence reflects on this storyline.
 
-"The Nightgown of the Sullen Moon" was originally released on the 4-song EP _They'll Need a Crane_ (Restless/Bar None 72611-2), and is also on the collection [Miscellaneous T](http://www.amazon.com/exec/obidos/ASIN/B000003BIU) (Restless/Bar None 72646-2).
+  "The Nightgown of the Sullen Moon" was originally released on the 4-song EP _They'll Need a Crane_ (Restless/Bar None 72611-2), and is also on the collection [Miscellaneous T](http://www.amazon.com/exec/obidos/ASIN/B000003BIU) (Restless/Bar None 72646-2).
 
 - #### Panel 2
 
@@ -87,7 +87,7 @@ Many of the dominant elements of the Land are revealed as elements from Barbara'
 
   Jim Morrison, the famous dead one, was the lead singer of the Doors, and is a shining testament to the wonders of hard core drug abuse.
 
-Note the radio station call letters.
+  Note the radio station call letters.
 
 ### Page 9
 
@@ -100,7 +100,7 @@ Note that the three women walk in step and perform the same actions.
 - #### Panel 3
 
   In Greece, Thessaly was infamous for its witches. The 2nd century Latin writer Apuleius wrote, in "The Golden Ass", about Thessalian witches would would gnaw off the faces of the dead to use in necromantic spells. These witches' rites were methods of commanding higher powers, as reflected in Thessaly's attitude, where modern Wiccans (neo-witches), and Christian prayer, petition the aid of higher powers. It is implied that Thessaly is the last of those witches.
-  Judy died in _Sandman_ #6, after a fight with Donna (Foxglove).
+  Judy died in [Sandman #6](sandman.06.md), after a fight with Donna (Foxglove).
 
 ### Page 10
 
@@ -126,7 +126,7 @@ Note the parallel between cuckoos and Hazel's pregnancy.
 
 - #### Panel 7-8
 
-Aww, cute.
+  Aww, cute.
 
 ### Page 15
 
@@ -135,9 +135,9 @@ Aww, cute.
   Rutger Hauer is a fairly decent actor typecast into appearing in mostly B-class action films.
   With regards to the third (self-titled) Velvet Underground LP, it has been said:
 
-> "The Velvet Underground never sold many records, but every person who bought one of their albums started their own band."
+  > "The Velvet Underground never sold many records, but every person who bought one of their albums started their own band."
 
-They were originally a band put together by Andy Warhol, part of his exploration/manipulation of popular culture in the 1960s, although his exact influence on the band is debatable.
+  They were originally a band put together by Andy Warhol, part of his exploration/manipulation of popular culture in the 1960s, although his exact influence on the band is debatable.
 
 - #### Panel 2
 
@@ -165,11 +165,11 @@ They were originally a band put together by Andy Warhol, part of his exploration
 
   The Hierogram (Holy-Writing) is marked with Japanese katakana (one of the Japanese alphabets). The characters spell out "do-rii-mi-n-gu", or "Dreaming". The leftmost side of the first character should have a vertical stroke, not slanted, and the last character should have only two tickmarks on the side, not three.
 
-There is a Cuckoo Stone in England, which may have influenced this denouement. There is a legend about a cuckoo landing on the Cuckoo Stone at a certain time of year.
+  There is a Cuckoo Stone in England, which may have influenced this denouement. There is a legend about a cuckoo landing on the Cuckoo Stone at a certain time of year.
 
-The name of the Isle of Thorns may be a reference to the "thorn" character of Old English, a relic of runic alphabets such as Icelandic.
+  The name of the Isle of Thorns may be a reference to the "thorn" character of Old English, a relic of runic alphabets such as Icelandic.
 
-A thorn looks like a combination of 'p' and 'b', and represents a voiceless 'th' sound. Thorns would thus be connected with the katakana letters.
+  A thorn looks like a combination of 'p' and 'b', and represents a voiceless 'th' sound. Thorns would thus be connected with the katakana letters.
 
 ### Page 23
 
@@ -197,7 +197,7 @@ Specifying Hurricane Lisa-with-a-'S' may be a reference to Liza Minelli, a promi
 
 ### Page 30-32
 
-IMHO, this is just about the best artistic representation ofDream in the series.
+IMHO, this is just about the best artistic representation of Dream in the series.
 
 ### Page 31
 
@@ -205,7 +205,7 @@ IMHO, this is just about the best artistic representation ofDream in the series.
 
   "Murphy" was the being by whom the inhabitants of the Land swore, as if by "God". The OED has the definition "Illiterate perversion of Morpheus", with an 18th century citation.
 
-One is also drawn to consider "Murphy's Law"--"If anything can go wrong, it will"; the storyline features a number of accidents and failures, including Martin Tenbones's death, Hazel's pregnancy, George's failure to anticipate Thessaly's presence, and developments in the final chapter.
+One is also drawn to consider "Murphy's Law" -- "If anything can go wrong, it will"; the storyline features a number of accidents and failures, including Martin Tenbones's death, Hazel's pregnancy, George's failure to anticipate Thessaly's presence, and developments in the final chapter.
 
 ### Page 34
 
@@ -217,7 +217,7 @@ This sequence is reminiscent of a similar one in the last Narnia book, _The Last
 
   Alianora, a variant spelling of Eleanor, is a creation of James Branch Cabell, and appeared in his Poictesme stories, in part as the mother of one of the branches of Manuel the Redeemer's family. Her character is most prominent in _Figures of Earth_. Can one of my Cabell sources give me a brief description of her thematic role?
 
-Cabell is one of Gaiman's strongest influences.
+  Cabell is one of Gaiman's strongest influences.
 
 - #### Panel 2
 

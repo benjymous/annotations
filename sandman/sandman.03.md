@@ -47,7 +47,7 @@ This woman will be identified later. This is her first known appearance.
 
 - #### Panel 3-4
 
-The lyrics are from a Patsy Cline song, "Sweet Dreams," also covered by Elvis Costello on the album "Almost Blue." The lyrics may have also appeared in the comic _Badlands_ #4. The song is considered a classic "proof" of a singer's a capella ("without accompaniment") abilities.
+  The lyrics are from a Patsy Cline song, "Sweet Dreams," also covered by Elvis Costello on the album "Almost Blue." The lyrics may have also appeared in the comic _Badlands_ #4. The song is considered a classic "proof" of a singer's a capella ("without accompaniment") abilities.
 
 - #### Panel 4
 

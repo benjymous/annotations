@@ -78,7 +78,8 @@ This sequence, where Matthew visits each of the characters in the Dreaming in tu
 
 ### Page 11
 
-- ####pane 3
+- #### Panel 3
+
   Note the crescent moon, a female symbol. The women in this story are frequently accompanied by them.
 
 ### Page 12
@@ -91,8 +92,8 @@ This sequence, where Matthew visits each of the characters in the Dreaming in tu
 
   Lucien is quoting T.S. Eliot's poem _Whispers of Immortality_:
 
-> "Webster was much possessed by death / And saw the skull beneath the skin; /
-> And breastless creatures under ground / Leaned backward with a lipless grin."
+  > "Webster was much possessed by death / And saw the skull beneath the skin; /
+  > And breastless creatures under ground / Leaned backward with a lipless grin."
 
 ### Page 13
 
@@ -142,7 +143,7 @@ This sequence, where Matthew visits each of the characters in the Dreaming in tu
 
   The Fury did not wear this costume in "The Young All-Stars".
 
-The couple that adopted her was the superheroine Miss America and an Admiral Steve Trevor, created by Roy Thomas pretty much in order that Lyta could keep the surname "Trevor".
+  The couple that adopted her was the superheroine Miss America and an Admiral Steve Trevor, created by Roy Thomas pretty much in order that Lyta could keep the surname "Trevor".
 
 ### Page 20
 

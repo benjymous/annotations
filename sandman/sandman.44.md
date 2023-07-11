@@ -6,7 +6,7 @@
 
 **Notes**: See #41. The subtheme of the issue is color. Note that Del has not changed clothing since the middle of last issue.
 
-1: The Other Side of the Sky
+### 1: _The Other Side of the Sky_
 
 ### Page 1
 
@@ -18,7 +18,7 @@
 
   **Borealis**: The Aurora Borealis, or Northern Lights, a glowing atmospheric display visible in the highest northern latitudes caused by charged particles in the solar wind interacting with Earth's magnetic field. There is an Aurora Australis in the highest latitudes of the Southern Hemisphere as well. Retinal purple: rhodopsin, the eye pigment which is sensitive to light and dark, found in the rods of the eye.
 
-**Firework yellow**: Possibly achieved by including sodium, which burns with a bright yellow flame. (There are two, closely-spaced, yellow lines in the sodium spectrum.) VDU green: the color of many Video Display Units, such as some computer terminals; possibly specifically the Amstrad PCW 8256/8512, a word processor popular with British writers.
+  **Firework yellow**: Possibly achieved by including sodium, which burns with a bright yellow flame. (There are two, closely-spaced, yellow lines in the sodium spectrum.) VDU green: the color of many Video Display Units, such as some computer terminals; possibly specifically the Amstrad PCW 8256/8512, a word processor popular with British writers.
 
 - #### Panel 3
 
@@ -34,7 +34,7 @@
 
   **Cerulean**: A deep sky blue. From the Latin caelum, "sky". In other words, the sky turns sky blue, a tautology.
 
-2: A Bear and His Shadow
+### 2: _A Bear and His Shadow_
 
 ### Page 3
 
@@ -42,7 +42,7 @@
 
   **Leib-Olmai**: Lapp for "Alder Man". A mythical bear-man or bear-god. He protected the bear, a holy animal, and provided good luck to hunters that honored him. If hunters did snub Lieb, they would often lose their prey and occasionally Lieb might help a bear if it were to attack the hunters. He is a bit of a male chauvinist. Lapp women were not allowed to walk around a tent where hunting equipment is kept.
 
-3: Departed Secrets
+### 3: _Departed Secrets_
 
 ### Page 7
 
@@ -54,7 +54,7 @@
 
   **Smack**: slang for heroin. Raw heroin is brown; when processed, it becomes white.
 
-4: "Twinkle's a Nice Word. So's Viridian."
+### 4: _"Twinkle's a Nice Word. So's Viridian."_
 
 ### Page 9
 
@@ -62,7 +62,7 @@
 
   Del's balloon should be multicolored.
 
-5: Three Keys
+### 5: _Three Keys_
 
 ### Page 10
 
@@ -88,7 +88,7 @@
 
   **Ishtar**: A Babylonian goddess. See the Appendix to the annotation for #45. Note that the manager's list does not say "Ishtar" in the appropriate place, but rather "Ca" plus obscured letters. Significance?
 
-6: A Treatise on Optics
+### 6: _A Treatise on Optics_
 
 ### Page 17
 
@@ -120,15 +120,15 @@
   The stone is Dream's ruby, of course.
   **wight**:
 
-1. a living being, CREATURE, MAN
-2. [archaic]: a preternatural being (as a fairy or witch)
-3. courage in warfare
+  1. a living being, CREATURE, MAN
+  2. [archaic]: a preternatural being (as a fairy or witch)
+  3. courage in warfare
 
-It evidently also has the unlisted meaning "monster; undead creature; creature of darkness"; this usage derives its modern presence from J.R.R.Tolkien's use of "barrow wights" in _The Lord of the Rings_.
+  It evidently also has the unlisted meaning "monster; undead creature; creature of darkness"; this usage derives its modern presence from J.R.R.Tolkien's use of "barrow wights" in _The Lord of the Rings_.
 
-It seemed strange to me that Tolkien should have given the word a new meaning, and indeed it seems as he has used the archaic sense of the word.
+  It seemed strange to me that Tolkien should have given the word a new meaning, and indeed it seems as he has used the archaic sense of the word.
 
-In the Norwegian translation of L.O.T.R., this word is translated as "vette", which still means a preternatural (and usually sinister or dangerous) being. The word vaettr (old Norse for vette) is mentioned in the etymology of "wight" in Webster's.
+  In the Norwegian translation of L.O.T.R., this word is translated as "vette", which still means a preternatural (and usually sinister or dangerous) being. The word vaettr (old Norse for vette) is mentioned in the etymology of "wight" in Webster's.
 
 - #### Panel 5
 
@@ -140,31 +140,31 @@ In the Norwegian translation of L.O.T.R., this word is translated as "vette", wh
 
   **Invisible College**: A phrase dating back to at least 1646, possibly coined by Robert Boyle. Thomas Birch notes in reference to Boyle's Works that "the Invisible College probably refer[s] to that assembly of learned and curious gentlemen, who...at length gave birth to the Royal Society." Dream and the others are therefore standing in front of the Royal Society.
 
-Note that an "Invisible College" appears in Mary Gentle's works, and an "Unseen University" in Terry Pratchett's; both of these writers are close associates of Gaiman's. Alfred Bester also made use of an "Unknown University".
+  Note that an "Invisible College" appears in Mary Gentle's works, and an "Unseen University" in Terry Pratchett's; both of these writers are close associates of Gaiman's. Alfred Bester also made use of an "Unknown University".
 
 - #### Panel 3
 
   The ballad "Diddle Diddle, or the Country Lovers", from 1680. Also known as "Lavender Blue", a cover version by Dinah Shore from the Disney movie _So Dear to my Heart_ (1948). The version presented in Peter Blood-Patterson's _Rise Up Singing_ goes:
 
-> Lavender's blue, dilly dilly, lavender's green,
-> When I am king, dilly dilly, you shall be queen.
-> Who told you so, dilly dilly, who told you so?
-> 'Twas my own heart, dilly dilly, that told me so.
->
-> Call up your men, dilly dilly, set them to work,
-> Some with a rake, dilly dilly, some with a fork,
-> Some to make hay, dilly dilly, some to thresh corn,
-> While you and I, dilly dilly, keep ourselves warm.
+  > Lavender's blue, dilly dilly, lavender's green,
+  > When I am king, dilly dilly, you shall be queen.
+  > Who told you so, dilly dilly, who told you so?
+  > 'Twas my own heart, dilly dilly, that told me so.
+  >
+  > Call up your men, dilly dilly, set them to work,
+  > Some with a rake, dilly dilly, some with a fork,
+  > Some to make hay, dilly dilly, some to thresh corn,
+  > While you and I, dilly dilly, keep ourselves warm.
 
 - #### Panel 4
 
   **Homo sylvestris**: An obsolete classification of the orangutan, meaning "man of the woods", which is also the literal translation of the Malay phrase which became the common name. Note that taxonomy did not begin to standardize until the 1732 publication of Carl von Linne's great botanical treatise on the subject.
 
-The earliest known citation of "orangutan" in English dates from 1691.
+  The earliest known citation of "orangutan" in English dates from 1691.
 
-In 1699, Edward Tyson published a treatise on the anatomy of what he called an Orang-Outang (which was actually a baby chimpanzee), based on a dissection he performed in June and July 1698. The chimp had come from Angola and had died on the ship two months earlier in April. The skeleton was displayed for many years at the British Museum, and may still be visible there. The body pictured here is clearly an adult orangutan. ObPratchett: Ook!
+  In 1699, Edward Tyson published a treatise on the anatomy of what he called an Orang-Outang (which was actually a baby chimpanzee), based on a dissection he performed in June and July 1698. The chimp had come from Angola and had died on the ship two months earlier in April. The skeleton was displayed for many years at the British Museum, and may still be visible there. The body pictured here is clearly an adult orangutan. ObPratchett: Ook!
 
-Tyson's dissection is thought to be one of the earliest in England, and may be used to fix the earliest possible date of the scene. Note that Despair met Destruction (in #41) in 1665, and remarks at that time that the last time she saw him would be "thirty years on". Allowing some slop in her figure, we can place the family meeting at which Destruction announced his departure around 1700, of which more in the appendix.
+  Tyson's dissection is thought to be one of the earliest in England, and may be used to fix the earliest possible date of the scene. Note that Despair met Destruction (in #41) in 1665, and remarks at that time that the last time she saw him would be "thirty years on". Allowing some slop in her figure, we can place the family meeting at which Destruction announced his departure around 1700, of which more in the appendix.
 
 - #### Panel 5
 
@@ -174,13 +174,13 @@ Tyson's dissection is thought to be one of the earliest in England, and may be u
 
 - #### Panel 3-6
 
-See Appendix. Note that Destruction's quote in panel 5 dates from a 1706 edition of _Opticks_, which suggests that the date of the family meeting should be pushed even further back. Destruction's concern over the intraconvertibility of matter and light is probably related to Einstein's famous equation governing the conversion of matter into energy, a reaction which powers atomic weapons. Thus, Destruction sees the asking of Newton's question as the precursor to the inevitable creation of weapons of mass destruction.
+  See Appendix. Note that Destruction's quote in panel 5 dates from a 1706 edition of _Opticks_, which suggests that the date of the family meeting should be pushed even further back. Destruction's concern over the intraconvertibility of matter and light is probably related to Einstein's famous equation governing the conversion of matter into energy, a reaction which powers atomic weapons. Thus, Destruction sees the asking of Newton's question as the precursor to the inevitable creation of weapons of mass destruction.
 
 - #### Panel 7
 
   The Corinthian, of course, likes to eat eyes with his eyeteeth.
 
-7: The Perils of Smoking in Bed?
+### 7: _The Perils of Smoking in Bed?_
 
 ## Credits
 

@@ -103,11 +103,11 @@ This is Hal's dream.
 
   Pictured and referred to are Bette Davis, Judy Garland, and Marilyn Monroe. I suspect Hal dreams their secret is that they are all men, too.
 
-These three figures are major inspirations for drag queens such as Hal, as well as other aspects of gay culture. Judy Garland, and especially her role in _The Wizard of Oz_, has provided the gay community with the symbol of the rainbow, and San Francisco (a Mecca for gay men) is often referred to as "Oz". Being a "friend of Dorothy" is gay slang for being gay.
+  These three figures are major inspirations for drag queens such as Hal, as well as other aspects of gay culture. Judy Garland, and especially her role in _The Wizard of Oz_, has provided the gay community with the symbol of the rainbow, and San Francisco (a Mecca for gay men) is often referred to as "Oz". Being a "friend of Dorothy" is gay slang for being gay.
 
-The other two have a somewhat less strong connection. Bette's physical gestures and her classic "bitch" nature are copied by drag queens. Marilyn has a low singing voice which is easy to mimic. Her apotheosis with respect to straight America is probably not particularly relevant.
+  The other two have a somewhat less strong connection. Bette's physical gestures and her classic "bitch" nature are copied by drag queens. Marilyn has a low singing voice which is easy to mimic. Her apotheosis with respect to straight America is probably not particularly relevant.
 
-The flamboyant public nature of the stars, combined with their more private off-screen lives, reflects the dichotomy of their gay fans' lives.
+  The flamboyant public nature of the stars, combined with their more private off-screen lives, reflects the dichotomy of their gay fans' lives.
 
 - #### Panel 5
 
@@ -137,10 +137,11 @@ The flamboyant public nature of the stars, combined with their more private off-
 
   Dream's responsibilities include protecting the Dreaming.
 
-His responsibilities are part of what he represents as one of the Endless.
+  His responsibilities are part of what he represents as one of the Endless.
 
-They are probably not imposed by some external figure.
-Matthew's dislike of hospitals stems from the abuse his body underwent in his former life. See issues of _Swamp Thing_.
+  They are probably not imposed by some external figure.
+
+  Matthew's dislike of hospitals stems from the abuse his body underwent in his former life. See issues of _Swamp Thing_.
 
 ### Page 12
 
@@ -168,7 +169,7 @@ Zelda's and Chantal's dreams begin to intersect. Chantal's dream is a recursive 
 
 - #### Panel 1-3
 
-Hal is recalling a former lover, Robert. Hal is obviously homosexual and not just a transvestite. The song If I Were a Bell is from the Broadway musical ["Guys and Dolls"](http://uk.imdb.com/M/title-substring?title=Guys+and+Dolls&tv=both) and it occurs when the romantic leads, Sky Masterson and Sarah Brown, are on a romantic getaway together. She sings it to express how happy she is. A common stereotype is that gay people enjoy showtunes.
+  Hal is recalling a former lover, Robert. Hal is obviously homosexual and not just a transvestite. The song If I Were a Bell is from the Broadway musical ["Guys and Dolls"](http://uk.imdb.com/M/title-substring?title=Guys+and+Dolls&tv=both) and it occurs when the romantic leads, Sky Masterson and Sarah Brown, are on a romantic getaway together. She sings it to express how happy she is. A common stereotype is that gay people enjoy showtunes.
 
 ### Page 15
 
@@ -196,12 +197,12 @@ Again, we see _a_ Doll's House.
 
 - #### Panel 8-9
 
-See issues of _Swamp Thing_ for what Matt Cable, who became the raven, did. Gilbert's quote is from Christopher Marlowe, _The Jew of Malta_ (c. 1589) IV.i.40:
+  See issues of _Swamp Thing_ for what Matt Cable, who became the raven, did. Gilbert's quote is from Christopher Marlowe, _The Jew of Malta_ (c. 1589) IV.i.40:
 
-> **Friar Barnadine:** Thou hast committed -
-> **Barabus:** Fornication? But that was in another country: and besides, the wench is dead.
+  > **Friar Barnadine:** Thou hast committed -
+  > **Barabus:** Fornication? But that was in another country: and besides, the wench is dead.
 
-Note that we saw Kit Marlowe in _Sandman_ #13, in 1589, although there did not appear to be a reference to this work.
+  Note that we saw Kit Marlowe in [Sandman #13](sandman.13.md), in 1589, although there did not appear to be a reference to this work.
 
 ### Page 24
 

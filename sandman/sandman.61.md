@@ -26,7 +26,7 @@
 
   Zelda was last seen in issue #15, "The Doll's House" part 6.
 
-She was blond in that issue, although her hair could have been bleached. "The Doll's House" featured a gay man named Hal, who moved west; before this, many people on the net thought that Rose's dying friend was him -- almost certainly an intentional bit of misdirection on Gaiman's part. Given the theme of gender that runs through "The Kindly Ones", Rose's friend would have to be a woman, though.
+  She was blond in that issue, although her hair could have been bleached. "The Doll's House" featured a gay man named Hal, who moved west; before this, many people on the net thought that Rose's dying friend was him -- almost certainly an intentional bit of misdirection on Gaiman's part. Given the theme of gender that runs through "The Kindly Ones", Rose's friend would have to be a woman, though.
 
 - #### Panel 4
 
@@ -92,15 +92,15 @@ She was blond in that issue, although her hair could have been bleached. "The Do
 
   In Norse myth, Ragnarok was brought on when the god Balder was killed. Seven years of constant winter (Finbulvinter) ensued, and then the end of the world.
 
-It was Loki that tricked a blind God, I don't remember which, into shooting an arrow of mistletoe at Balder.
+  It was Loki that tricked a blind God, I don't remember which, into shooting an arrow of mistletoe at Balder.
 
-The story was that the Gods had heard that Ragnarok would be impossible as long as Balder was alive. So the Gods went out to all living and dead creatures, and asked them not to kill Balder. They all promised to do so.
+  The story was that the Gods had heard that Ragnarok would be impossible as long as Balder was alive. So the Gods went out to all living and dead creatures, and asked them not to kill Balder. They all promised to do so.
 
-But the gods forgot the mistletoe.
+  But the gods forgot the mistletoe.
 
-So Loki, being jealous of everyone more popular then him, took his revenge.
+  So Loki, being jealous of everyone more popular then him, took his revenge.
 
-The Gods were all playing about, shooting things at Balder, and having fun when he didn't die, when Loki shows up.
+  The Gods were all playing about, shooting things at Balder, and having fun when he didn't die, when Loki shows up.
 
 ### Page 24
 

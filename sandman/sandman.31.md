@@ -7,7 +7,7 @@
 Third story in anthology _Distant Mirrors_
 Not yet reprinted in any other form
 
-**Sources**: A note in _Sandman_ #31 indicates that the title of this anthology came from Barbara Tuchman's text _A Distant Mirror: The Calamitous 14th Century_.
+**Sources**: A note in [Sandman #31](sandman.31.md) indicates that the title of this anthology came from Barbara Tuchman's text _A Distant Mirror: The Calamitous 14th Century_.
 
 Historical fact in this story comes from Herbert Asbury's _The Barbary Coast_ and William Drury's _Norton I, Emperor of the United States_. It was inspired by Catherine Caufield's _The Emperor of the United States of America and Other Magnificent British Eccentrics_.
 
@@ -147,7 +147,7 @@ Note that Delirium's word balloon is uncolored, no doubt an oversight.
 
 - #### Panel 4
 
-  Delirium has expressed the dislike of being laughed at before, in _Sandman_ #21 page 17 panel 5, and does so again in a later issue.
+  Delirium has expressed the dislike of being laughed at before, in [Sandman #21](sandman.21.md) page 17 panel 5, and does so again in a later issue.
 
 - #### Panel 5
 
@@ -244,7 +244,7 @@ Pain seems to be a regular character in the Vertigo universe. In the recent seri
 
   Another painting that is reminiscent of a real-life painting.
 
-Unfortunately, I can't remember which painting it is reminiscent of... (Again, I am uncertain whether the painting existed at this point in time.)
+  Unfortunately, I can't remember which painting it is reminiscent of... (Again, I am uncertain whether the painting existed at this point in time.)
 
 - #### Panel 8:
 
@@ -256,7 +256,7 @@ A wonderful bit of wisdom.
 
   The Kindly Ones are the Eumenides, or the Furies, an aspect of the three-in-one goddess, dedicated to revenge and punishment. This is aftershadowing; Desire's, ahem, _desire_ for revenge will later result in the storyline of _The Doll's House_.
 
-**"Get down and lick, Pain.**: Probably a reference to bootlicking; may also refer to the licking of wounds.
+  **"Get down and lick, Pain.**: Probably a reference to bootlicking; may also refer to the licking of wounds.
 
 ### Page 22
 
@@ -268,21 +268,21 @@ A wonderful bit of wisdom.
 
   Tom O'Bedlam: From "Bethelem", referring to a notorious insane asylum for men in England. The name means a madman. Mad Maudlin or Mary Maudlin is the female counterpart, from the asylum of "Mary Magdalene". There may be a character by this name in William Shakespeare's works.
 
-The modern usage of "bedlam" arises from Tom O'Bedlam. Tom O'Bedlam is also an old folk song, probably of English origin. Robert Silverberg, a noted SF author, recently wrong a novel of the same name, using lines from the song as chapter titles. "Filk" versions of the song are also known to exist.
+  The modern usage of "bedlam" arises from Tom O'Bedlam. Tom O'Bedlam is also an old folk song, probably of English origin. Robert Silverberg, a noted SF author, recently wrong a novel of the same name, using lines from the song as chapter titles. "Filk" versions of the song are also known to exist.
 
-One sampling of the song:
+  One sampling of the song:
 
-> "For to find my Tom O'Bedlam,
-> "Ten thousand miles I'll travel;
-> "Mad Maudlin goes on dirty toes
-> "For to save her shoes from gravel..."
+  > "For to find my Tom O'Bedlam,
+  > "Ten thousand miles I'll travel;
+  > "Mad Maudlin goes on dirty toes
+  > "For to save her shoes from gravel..."
 
-Another, the chorus:
+  Another, the chorus:
 
-> "While I do sing: Any food,
-> "Any feeding, drink, or clothing?
-> "Come, dame or maid, be not afraid,
-> "Poor Tom will injure nothing."
+  > "While I do sing: Any food,
+  > "Any feeding, drink, or clothing?
+  > "Come, dame or maid, be not afraid,
+  > "Poor Tom will injure nothing."
 
 ### Page 23
 
@@ -298,12 +298,13 @@ Another, the chorus:
 
 - #### Panel 2-3
 
-The legend of the Tzaddikim appears to be accurate.
+  The legend of the Tzaddikim appears to be accurate.
 
-Webster's Ninth Collegiate (1991) defines 'tzaddik' as a variation of 'zaddik', and 'zaddik' as "1) a righteous and saintly person by Jewish religious standards; 2) the spiritual leader of a modern Hasidic community." One other fictional reference has been found, a novel titled _The Last of the Just_, author unknown. This source postulates fifty Tzaddikim, instead of thirty-six. The fifty's sufferings and burdens redeem the entire Jewish people, and possibly all of humanity. If there are less than fifty at any time, the world is tossed into chaotic times. The novel is set during World War II, where many of the Tzaddikim die in the Nazi death camps. Chaos begets chaos.
+  Webster's Ninth Collegiate (1991) defines 'tzaddik' as a variation of 'zaddik', and 'zaddik' as "1) a righteous and saintly person by Jewish religious standards; 2) the spiritual leader of a modern Hasidic community." One other fictional reference has been found, a novel titled _The Last of the Just_, author unknown. This source postulates fifty Tzaddikim, instead of thirty-six. The fifty's sufferings and burdens redeem the entire Jewish people, and possibly all of humanity. If there are less than fifty at any time, the world is tossed into chaotic times. The novel is set during World War II, where many of the Tzaddikim die in the Nazi death camps. Chaos begets chaos.
 
-**A linguistic note**: In Hebrew, [-im] is the plural ending. Thus, one Tzaddik, but thirty-six Tzaddikim. The root TzDK (Semitic languages use vowel changes to mark part of speech and conjugations and declensions, and so are generally meaningless in talking about the language's vocabulary) means "justice" or "righteousness".
-There may be a corresponding group of those who do only evil.
+  A linguistic note: In Hebrew, [-im] is the plural ending. Thus, one Tzaddik, but thirty-six Tzaddikim. The root TzDK (Semitic languages use vowel changes to mark part of speech and conjugations and declensions, and so are generally meaningless in talking about the language's vocabulary) means "justice" or "righteousness".
+
+  There may be a corresponding group of those who do only evil.
 
 - #### Panel 7
 

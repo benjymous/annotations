@@ -19,23 +19,23 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
   **Old Country**: Immigrants to America are often portrayed as referring to their original homeland as the Old Country.
 
-**Palaver**: From Portuguese palavra (originally from Latin, of course), meaning talk, conversation, particularly at length or with little content.
+  **Palaver**: From Portuguese palavra (originally from Latin, of course), meaning talk, conversation, particularly at length or with little content.
 
 - #### Panel 3-4
 
-**Chrissakes**: Christ's sake. The Christian religion holds that it is a sin to take their god's name in vain, although this is a sin observed more often in the breach than in the keeping. It is also a tradition that the holy name has power over those with magic in their blood.
+  **Chrissakes**: Christ's sake. The Christian religion holds that it is a sin to take their god's name in vain, although this is a sin observed more often in the breach than in the keeping. It is also a tradition that the holy name has power over those with magic in their blood.
 
-The storyteller and his granddaughter have made no appearances other than this story.
+  The storyteller and his granddaughter have made no appearances other than this story.
 
 - #### Panel 5
 
   **Asafoetida**: Also asafetida, a highly scented, dark yellow gum resin with a bitter acrid taste obtained from the roots of several plants of the genus _Ferula_ found in Central Asia. Some species of _Ferula_ are found in the Mediterranean area as well, but these are not noted as yielding asafoetida. The plants are typically tall with divided leaves. _Ferula_ are umbelliferous, related to carrots, celery, parsnips, and herbs such as parsley. The word is from medieval Latin asa, "gum" (a borrowing from Persian "aza") + fetida, "stinking".
 
-Asafoetida is the primary flavoring ingredient of Worcestershire sauce, along with anchovies. It is also used to test the responses of infants, since its odor is an inducer of lachrymose behavior patterns. (It makes babies cry.)
+  Asafoetida is the primary flavoring ingredient of Worcestershire sauce, along with anchovies. It is also used to test the responses of infants, since its odor is an inducer of lachrymose behavior patterns. (It makes babies cry.)
 
-Like the highly scented garlic, asafoetida is traditionally a repellent of vampires and/or werewolves.
+  Like the highly scented garlic, asafoetida is traditionally a repellent of vampires and/or werewolves.
 
-Burial at a crossroads is traditionally a method of ensuring that the undead do not rise again to torment the living. One tradition holds that the rising undead will not know which way to go upon rising and cannot leave the crossroads; an alternate tradition holds that crossroads are sacred grounds, due to their shape.
+  Burial at a crossroads is traditionally a method of ensuring that the undead do not rise again to torment the living. One tradition holds that the rising undead will not know which way to go upon rising and cannot leave the crossroads; an alternate tradition holds that crossroads are sacred grounds, due to their shape.
 
 - #### Panel 6
 
@@ -43,7 +43,7 @@ Burial at a crossroads is traditionally a method of ensuring that the undead do 
 
 ### Page 2
 
-Real forests, true bears, true wolves: Akin to Platonic forms, the creatures and places in stories are the true essence of the creature or place, without the rounded-off corners or the compromises required of things that exist. A wolf such as you might meet is hardly more than a dog who has not forgotten how to hunt; a wolf such as you might hear about is a shaggy beast, born to the hunt, little more than hunger and fangs and burning eyes, a creature who might someday hunt you.
+  **Real forests, true bears, true wolves**: Akin to Platonic forms, the creatures and places in stories are the true essence of the creature or place, without the rounded-off corners or the compromises required of things that exist. A wolf such as you might meet is hardly more than a dog who has not forgotten how to hunt; a wolf such as you might hear about is a shaggy beast, born to the hunt, little more than hunger and fangs and burning eyes, a creature who might someday hunt you.
 
 ### Page 3
 
@@ -73,11 +73,11 @@ Real forests, true bears, true wolves: Akin to Platonic forms, the creatures and
 
   **Koschei**: From the _Dictionary of Mythology, Folklore, and Symbols_ (Jobes, 1961), Koschei is an evil, immortal Slavic spirit with a secret weakness (presumably that he kept his life in his heart), finally slain by a hero. He is compared to the Shinto spirit-snake Koshi, the Minotaur of Greek myth, and Jormungandr, the Midgard Serpent of Norse myth.
 
-The _Facts on File Encyclopedia of World Mythology and Legend_ (Mercatante, 1988) notes:
+  The _Facts on File Encyclopedia of World Mythology and Legend_ (Mercatante, 1988) notes:
 
-> In Russian folklore, an evil wizard whose soul is hidden in a duck's egg. Though often called deathless or immortal, Kostchei could die if one could find where the egg that contained his soul was hidden. If the egg was destroyed Kostchei also would be destroyed. In Stravinsky's ballet L' Oiseau de feu (The Firebird) Ivan, the hero, finds the egg in the hollow of a tree and destroys it, causing Kostchei and his evil court to disappear forever. Kotstchei appears in James Branch Cabell's novel _Jurgen_. Variant spellings; Koschey, Katschei.
+  > In Russian folklore, an evil wizard whose soul is hidden in a duck's egg. Though often called deathless or immortal, Kostchei could die if one could find where the egg that contained his soul was hidden. If the egg was destroyed Kostchei also would be destroyed. In Stravinsky's ballet L' Oiseau de feu (The Firebird) Ivan, the hero, finds the egg in the hollow of a tree and destroys it, causing Kostchei and his evil court to disappear forever. Kotstchei appears in James Branch Cabell's novel _Jurgen_. Variant spellings; Koschey, Katschei.
 
-_The Red Fairy Book_ recounts a tale wherein Koschei is killed when his head is struck by a horse, a horse the hero received from Baba Yaga. After Koschei's head is cracked, the hero removes his head and burns it. In one version of the story, Koschei is the king of the snakes. No refs on the Cloak of Night. The Drum Inescapable is also referred to in _Books of Magic_, Book III, page 27, panel 6. A wyvern is a draconian creature; one guards the center of the Dreaming. Yggdrasil is the World Oak of Norse myth. In hunts, assistants beating drums are often sent to drive quarry before them so that the huntsmen may slay them with less of a chase; thus, the significance of the Drum Inescapable.
+  _The Red Fairy Book_ recounts a tale wherein Koschei is killed when his head is struck by a horse, a horse the hero received from Baba Yaga. After Koschei's head is cracked, the hero removes his head and burns it. In one version of the story, Koschei is the king of the snakes. No refs on the Cloak of Night. The Drum Inescapable is also referred to in _Books of Magic_, Book III, page 27, panel 6. A wyvern is a draconian creature; one guards the center of the Dreaming. Yggdrasil is the World Oak of Norse myth. In hunts, assistants beating drums are often sent to drive quarry before them so that the huntsmen may slay them with less of a chase; thus, the significance of the Drum Inescapable.
 
 ### Page 5
 
@@ -111,19 +111,19 @@ _The Red Fairy Book_ recounts a tale wherein Koschei is killed when his head is 
 
 - #### Panel 5-6
 
-I have no idea what the small bone carved into the shape of a small bone means. Perhaps a charm of some sort? The wooden finger-ring makes its second appearance.
+  I have no idea what the small bone carved into the shape of a small bone means. Perhaps a charm of some sort? The wooden finger-ring makes its second appearance.
 
 - #### Panel 7
 
   **Celeste**: From Latin meaning "heavenly".
 
-**Michael Jackson**: A pop star whose popularity with teen culture waxes and wanes in an unpredictable fashion; also noted for his eccentric habits, his androgyny, and his extensive plastic surgery.
+  **Michael Jackson**: A pop star whose popularity with teen culture waxes and wanes in an unpredictable fashion; also noted for his eccentric habits, his androgyny, and his extensive plastic surgery.
 
 ### Page 8
 
 - #### Panel 1-2
 
-Vassily did not slay the peddler woman, nor was she eaten by a beast, nor was her pack taken by bandits. Who, then, killed her? Perhaps Vassily's father?
+  Vassily did not slay the peddler woman, nor was she eaten by a beast, nor was her pack taken by bandits. Who, then, killed her? Perhaps Vassily's father?
 
 - #### Panel 4
 
@@ -137,7 +137,7 @@ Vassily did not slay the peddler woman, nor was she eaten by a beast, nor was he
 
 - #### Panel 1-3
 
-It is traditional for heroes to be beset by monsters while on the road, and the villainous innkeeper is a staple of the genre.
+  It is traditional for heroes to be beset by monsters while on the road, and the villainous innkeeper is a staple of the genre.
 
 - #### Panel 7
 
@@ -165,9 +165,9 @@ It is traditional for heroes to be beset by monsters while on the road, and the 
 
 - #### Panel 3-5
 
-The old man believes in fairies, is more than a century and a half in age, and can rip his granddaughter's throat out with his teeth. The storyteller becomes the story.
+  The old man believes in fairies, is more than a century and a half in age, and can rip his granddaughter's throat out with his teeth. The storyteller becomes the story.
 
-Post-modern: At least one definition proclaims this to be a style which consciously uses complex forms with allusion to historic styles. Its application to this story, or to _Sandman_ as a whole, is left as an exercise to the literary critics.
+  Post-modern: At least one definition proclaims this to be a style which consciously uses complex forms with allusion to historic styles. Its application to this story, or to _Sandman_ as a whole, is left as an exercise to the literary critics.
 
 - #### Panel 6
 
@@ -187,7 +187,7 @@ Post-modern: At least one definition proclaims this to be a style which consciou
 
 ### Page 15
 
-Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives in a hut which has chicken legs, and flies across the night sky in a mortar which she drives with a pestle. She is a great sorceress and, generally, evil. Baba Yaga, or a facsimile thereof, appears in _Books of Magic_, Book III.
+  Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives in a hut which has chicken legs, and flies across the night sky in a mortar which she drives with a pestle. She is a great sorceress and, generally, evil. Baba Yaga, or a facsimile thereof, appears in _Books of Magic_, Book III.
 
 ### Page 17
 
@@ -229,8 +229,9 @@ Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives i
 
 - #### Panel 7
 
-  **Dwarrow, nightgaunt**: "Dwarrow" is probably a variant of the dwarves (dvergar, in Old Icelandic) of Norse myth. "Nightgaunts", faceless flying humanoid servants of the god Nodens, appeared in stories by H.P. Lovecraft, an early horror author. In particular, they may have appeared in "The Dream-Quest of Unknown Kadeth". They tickled people into submission and could transport them to "the Dreamlands", a Lovecraftian analog to the Dreaming.
-  Again note Vassily's teeth and eyes.
+    **Dwarrow, nightgaunt**: "Dwarrow" is probably a variant of the dwarves (dvergar, in Old Icelandic) of Norse myth. "Nightgaunts", faceless flying humanoid servants of the god Nodens, appeared in stories by H.P. Lovecraft, an early horror author. In particular, they may have appeared in "The Dream-Quest of Unknown Kadeth". They tickled people into submission and could transport them to "the Dreamlands", a Lovecraftian analog to the Dreaming.
+
+    Again note Vassily's teeth and eyes.
 
 ### Page 20
 
@@ -280,7 +281,7 @@ Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives i
 
 - #### Panel 4-5
 
-Celeste is manifestly wrong about the story, as the storyteller is right (and lit-crits be damned!)
+  Celeste is manifestly wrong about the story, as the storyteller is right (and lit-crits be damned!)
 
 - #### Panel 6
 

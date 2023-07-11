@@ -16,9 +16,9 @@
 
   Nybbas as found in the online Brewster's The Dictionary of Phrase and Fable:
 
-> Devil's Cabinet (The). Belphego, the Devil's ambassador in France; Hutgin, in Italy; Belial, in Turkey; Tharung, in Spain; and Martinet, in Switzerland. His grand almoner is Dagon; chief of the eunuchs is Succor Benoth; banker is Asmodeus; theatrical manager is Kobal; master of ceremonies, Verdelet; court fool is Nybbas. (Victor Hugo: "Toilers of the Sea")
+  > Devil's Cabinet (The). Belphego, the Devil's ambassador in France; Hutgin, in Italy; Belial, in Turkey; Tharung, in Spain; and Martinet, in Switzerland. His grand almoner is Dagon; chief of the eunuchs is Succor Benoth; banker is Asmodeus; theatrical manager is Kobal; master of ceremonies, Verdelet; court fool is Nybbas. (Victor Hugo: "Toilers of the Sea")
 
-I don't know that Hugo's work, but I guess the original reference could be much older...
+  I don't know that Hugo's work, but I guess the original reference could be much older...
 
 ### Page 4
 
@@ -82,15 +82,15 @@ I don't know that Hugo's work, but I guess the original reference could be much 
 
   **Aye, there's the rub**: Lucifer is making a reference to the famous soliloquy from _Hamlet_, act III scene 1.
 
-> "...To die, to sleep;<br>
-> To sleep: perchance to dream: ay, there's the rub;<br>
-> For in that sleep of death what dreams may come<br>
-> When we have shuffled off this mortal coil,<br>
-> Must give us pause:"<br>
+  > "...To die, to sleep;<br>
+  > To sleep: perchance to dream: ay, there's the rub;<br>
+  > For in that sleep of death what dreams may come<br>
+  > When we have shuffled off this mortal coil,<br>
+  > Must give us pause:"<br>
 
-Mazikeen's lines:
+  Mazikeen's lines:
 
-> "Where are you going this time?" "I will follow you for ever...I must."
+  > "Where are you going this time?" "I will follow you for ever...I must."
 
 ### Page 17
 
@@ -118,7 +118,7 @@ Mazikeen's lines:
 
   **Banshees**: female ghosts that wail for the dead. Some sources have it that those who hear them will die soon, too. Harpies: monsters from Greek myth, with bodies like eagles, women's heads, and snakes for hair.
 
-(Does anyone at this point really need me to define "furies"?)
+  (Does anyone at this point really need me to define "furies"?)
 
 ### Page 20
 
@@ -180,15 +180,15 @@ Mazikeen's lines:
 
   Interesting to note that the two issues which Hempel inked are the first and the last.
 
-While we're talking about Sandman here, there was a question at the end of The Kindly Ones. Neil mentioned it himself, in the Writer's Comments section he usually includes for the trade p/backs. "Who was Loki & Puck working for?"
+  While we're talking about Sandman here, there was a question at the end of The Kindly Ones. Neil mentioned it himself, in the Writer's Comments section he usually includes for the trade p/backs. "Who was Loki & Puck working for?"
 
-Personally, I think it might have been Dream, himself. At the end of A Season of Mists, he tells Loki that he owes him a favour. I think Dream asked Loki to either a) bring Daniel to the Dreaming, or b) do a) and burn away his immortality as well.
+  Personally, I think it might have been Dream, himself. At the end of A Season of Mists, he tells Loki that he owes him a favour. I think Dream asked Loki to either a) bring Daniel to the Dreaming, or b) do a) and burn away his immortality as well.
 
-Then, if it's a), Loki decides to chuck Daniel in the fire, to double-cross Dream. (It's his nature, after all.) So Dream asks the Corinthian to get Daniel, 'cos Loki isn't going to bring him back.
+  Then, if it's a), Loki decides to chuck Daniel in the fire, to double-cross Dream. (It's his nature, after all.) So Dream asks the Corinthian to get Daniel, 'cos Loki isn't going to bring him back.
 
-If it's b), then the Eye Guy is Dream's failsafe plan, in the case Loki decides not to bring him back.
+  If it's b), then the Eye Guy is Dream's failsafe plan, in the case Loki decides not to bring him back.
 
-Not sure where Puck fits into all this. Maybe Dream asked him to fetch Daniel as well? Or maybe Loki asked him to help, after Dream told him what to do. Anyway, it fits. What do you think?
+  Not sure where Puck fits into all this. Maybe Dream asked him to fetch Daniel as well? Or maybe Loki asked him to help, after Dream told him what to do. Anyway, it fits. What do you think?
 
 ## Credits
 

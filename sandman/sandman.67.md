@@ -20,7 +20,7 @@
 
 - #### Panel 3
 
-  **This statement about time seems a bit odd**: in 64:20:2 Dream says it has been five days, and defeating Loki took only a short time after that. On the other hand, quite a bit more time has passed in the waking world since then. We don't know how long it took the Corinthian and Daniel to come from Swartalfheim to the Dreaming.
+  This statement about time seems a bit odd: in 64:20:2 Dream says it has been five days, and defeating Loki took only a short time after that. On the other hand, quite a bit more time has passed in the waking world since then. We don't know how long it took the Corinthian and Daniel to come from Swartalfheim to the Dreaming.
 
 - #### Panel 5
 

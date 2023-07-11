@@ -11,12 +11,11 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 7
 
-  The Morningstar is Lucifer Morningstar, the ruler of Hell.
+  The Morningstar is Lucifer Morningstar, the ruler of Hell
+
   Isaiah 14:12 reads "How art thou fallen from heaven, O Lucifer, son of the morning! How art thou cut down to the ground, which didst weaken the nations!" (King James translation) or "How you are fallen from heaven, O Day Star, son of Dawn!" (Revised Standard). The pocket edition of the OED includes in its definition of Lucifer, "The morning star; the planet Venus when it appears in the sky before sunrise. Now only poetic."
 
-Milton may have also used the appellation "Morningstar" for Lucifer, probably in _Paradise Lost_. In addition, a character in Roger Zelazny's book _Jack of Shadows_ is called Morningstar, and occupies a role analogous to Lucifer.
-
-Am I the only one who thinks that in this issue Lucifer looks a little like Mark Hamill (Luke Skywalker) in Star Wars?
+  Milton may have also used the appellation "Morningstar" for Lucifer, probably in _Paradise Lost_. In addition, a character in Roger Zelazny's book _Jack of Shadows_ is called Morningstar, and occupies a role analogous to Lucifer.
 
 ### Page 4
 
@@ -26,7 +25,7 @@ This is not the same gatekeeper as seen elsewhere; first known appearance of Squ
 
 - #### Panel 5
 
-  **A new title for Morpheus**: "King of the Nightmare Realms".
+  A new title for Morpheus: "King of the Nightmare Realms".
 
 ### Page 5
 
@@ -72,7 +71,7 @@ This is not the same gatekeeper as seen elsewhere; first known appearance of Squ
 
 - #### Panel 3
 
-  In the lower left corner there is an old clock on Lucifer's table. Exactly the same clock can be found in [issue 6](sandman.06.html) ("24 hours")on page 22, panel 1, also in the lower left corner.
+  In the lower left corner there is an old clock on Lucifer's table. Exactly the same clock can be found in [Sandman #6](sandman.06.md) ("24 hours")on page 22, panel 1, also in the lower left corner.
 
 ### Page 14
 
@@ -82,19 +81,19 @@ This is not the same gatekeeper as seen elsewhere; first known appearance of Squ
 
 - #### Panel 6-7
 
-This is the demon from _Sandman_ #1, here identified for the first time as Choronzon, who appears in the writings of Aleister Crowley. He is credited in legend as having seriously injured Aleister Crowley during a summoning which Crowley did "deep in the Sahara desert." According to the story, Crowley was less-than-attentive to the construction of the protective circle, and suffered dire consequences.
+  This is the demon from [Sandman #1](sandman.01.md), here identified for the first time as Choronzon, who appears in the writings of Aleister Crowley. He is credited in legend as having seriously injured Aleister Crowley during a summoning which Crowley did "deep in the Sahara desert." According to the story, Crowley was less-than-attentive to the construction of the protective circle, and suffered dire consequences.
 
-Added by <legion@cistron.nl> :
+  Added by <legion@cistron.nl> :
 
-> However, it is fairly certain that Crowley took the name from the writings of the 15th century astrologist, alchemist and magician John Dee. According to his stories, he was taught the angelic scripture (Enochian) by an angel. In these scriptures Coronzon (also Coronzom, or Choronzon) was the name of a mighty demon (perhaps Lucifer) who rebelled against God.
+  > However, it is fairly certain that Crowley took the name from the writings of the 15th century astrologist, alchemist and magician John Dee. According to his stories, he was taught the angelic scripture (Enochian) by an angel. In these scriptures Coronzon (also Coronzom, or Choronzon) was the name of a mighty demon (perhaps Lucifer) who rebelled against God.
 
 ### Page 15
 
 - #### Panel 7
 
-  The game of reality is not one I have seen before. Gaiman has a gift for inventing totally new things that sound completely right, such as the ritual that invoked Morpheus in _Sandman_ #1 and the tale in _Sandman_ #9. A somewhat similar game, except that the participants actually transform themselves rather than merely discussing it, is played in T.H. White's _The Sword in the Stone_. The game of reality is quite similar thematically to the Riddle Game of old, which is exemplified in J.R.R. Tolkien's _The Hobbit_.
+  The game of reality is not one I have seen before. Gaiman has a gift for inventing totally new things that sound completely right, such as the ritual that invoked Morpheus in [Sandman #1](sandman.01.md) and the tale in [Sandman #9](sandman.09.md). A somewhat similar game, except that the participants actually transform themselves rather than merely discussing it, is played in T.H. White's _The Sword in the Stone_. The game of reality is quite similar thematically to the Riddle Game of old, which is exemplified in J.R.R. Tolkien's _The Hobbit_.
 
-Choronzon could have easily responded to "hope" such as Doubt, or Despair, both killers of hope. Maybe that's why Lucifer was so angry at him for losing...
+  Choronzon could have easily responded to "hope" such as Doubt, or Despair, both killers of hope. Maybe that's why Lucifer was so angry at him for losing...
 
 ### Page 18
 
@@ -112,9 +111,9 @@ Choronzon could have easily responded to "hope" such as Doubt, or Despair, both 
 
   "I am hope." Hope was supposed to be the only thing that remained in Pandora's Box after she opened it. No wonder Choronzon couldn't think of anything to counter it.
 
-(The story goes, the Gods of Olympus wanted to punish mankind, and so created Pandora, the first woman, and gave her a gift of an exquisitely decorated, sealed box. They didn't tell her what was in the box, however, and forbade her to open it.
+  (The story goes, the Gods of Olympus wanted to punish mankind, and so created Pandora, the first woman, and gave her a gift of an exquisitely decorated, sealed box. They didn't tell her what was in the box, however, and forbade her to open it.
 
-Eventually Pandora's curiosity got the better of her, and she opened the box. Something brushed against her face, and she heard a sound like thousands of hornets. Pandora had unleashed Hate, Avarice, Jealousy, Lust and all the other evils into the world. Only one Hope remained inside, and only Hope can counter-act the wickedness of Mankind today.)
+  Eventually Pandora's curiosity got the better of her, and she opened the box. Something brushed against her face, and she heard a sound like thousands of hornets. Pandora had unleashed Hate, Avarice, Jealousy, Lust and all the other evils into the world. Only one Hope remained inside, and only Hope can counter-act the wickedness of Mankind today.)
 
 ### Page 20
 

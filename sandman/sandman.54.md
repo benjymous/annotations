@@ -18,7 +18,7 @@ Fourth story in anthology, "Worlds' End"
 
   Note the bright star visible through the window, reminiscent of the Star of Bethlehem. I haven't had the opportunity to read _Prez_ #1; I've been told that the many parallels between Prez and Jesus were present in the original comic, rather than being Gaiman's invention.
 
-Perhaps here is the place to note that in Joe Simon and Jerry Grandenetti's original _Prez_ series, Prez was a fool who managed to be simultaneously naive and paranoid. The series was a savage parody of the '60s youth movements, quite unlike Gaiman's portrayal of the character.
+  Perhaps here is the place to note that in Joe Simon and Jerry Grandenetti's original _Prez_ series, Prez was a fool who managed to be simultaneously naive and paranoid. The series was a savage parody of the '60s youth movements, quite unlike Gaiman's portrayal of the character.
 
 - #### Panel 3
 
@@ -44,9 +44,10 @@ This continues the religious theme in this issue.
 
 - #### Panel 4
 
-  ### Page 6 #### Panel 5: This parallels a story in which Satan tempts
+### Page 6
 
-Jesus, found in chapter 4 of Matthew and Luke.
+- #### Panel 5:
+  This parallels a story in which Satan tempts Jesus, found in chapter 4 of Matthew and Luke.
 
 ### Page 7
 
@@ -70,7 +71,7 @@ Jesus, found in chapter 4 of Matthew and Luke.
 
   This panel is essentially the cover of _Prez_ #1. This would seem to be the 1972 election. The caption here is inconsistent with the one on 3:4; either this one should read "nineteenth" or that one should read "seven".
 
-I think this panel is actually a reference to the various miracles performed by Jesus during His time on Earth. (E.g. giving sight to the blind, giving hearing to the deaf, curing disease, etc.)
+  I think this panel is actually a reference to the various miracles performed by Jesus during His time on Earth. (E.g. giving sight to the blind, giving hearing to the deaf, curing disease, etc.)
 
 ### Page 10
 
@@ -119,8 +120,7 @@ I think this panel is actually a reference to the various miracles performed by 
 - #### Panel 6
 
   When Satan tempted Jesus in the high place, Jesus replied:
-  "It is written, Thou shalt worship the Lord thy God, and only him shalt thou
-  serve." (Luke 4:8)
+  "It is written, Thou shalt worship the Lord thy God, and only him shalt thou serve." (Luke 4:8)
 
 ### Page 16
 
@@ -132,23 +132,23 @@ I think this panel is actually a reference to the various miracles performed by 
 
 - #### Panels 1-3:
 
-This seems to be adapted from a Taoist story.
+  This seems to be adapted from a Taoist story.
 
-From _CHUANG TZU: Basic writings_ (Columbia Press, 1964, Trans:Burton Watson):
+  From _CHUANG TZU: Basic writings_ (Columbia Press, 1964, Trans:Burton Watson):
 
-> Once, when Chuang Tzu was fishing in the P'u River, the king of Ch'u sent two officials to go and announce to him: "I would like to trouble you with the administration of my realm."
->
-> Chuang Tzu held on to the fishing pole and, without turning his head,
-> said, "I have heard that there is a sacred tortoise in Ch'u that has
-> been dead for three thousand years. The king keeps it wrapped in cloth
-> and boxed, and stores it in the ancestral temple. Now would this tortoise
-> rather be dead and have its bones left behind and honored? Or would it
-> rather be alive and dragging its tail in the mud?"
->
-> "It would rather be alive and dragging its tail in the mud," said the
-> two officials.
->
-> Chuang Tzu said, "Go away! I'll drag my tail in the mud!"
+  > Once, when Chuang Tzu was fishing in the P'u River, the king of Ch'u sent two officials to go and announce to him: "I would like to trouble you with the administration of my realm."
+  >
+  > Chuang Tzu held on to the fishing pole and, without turning his head,
+  > said, "I have heard that there is a sacred tortoise in Ch'u that has
+  > been dead for three thousand years. The king keeps it wrapped in cloth
+  > and boxed, and stores it in the ancestral temple. Now would this tortoise
+  > rather be dead and have its bones left behind and honored? Or would it
+  > rather be alive and dragging its tail in the mud?"
+  >
+  > "It would rather be alive and dragging its tail in the mud," said the
+  > two officials.
+  >
+  > Chuang Tzu said, "Go away! I'll drag my tail in the mud!"
 
 - #### Panel 8
 
@@ -176,7 +176,7 @@ From _CHUANG TZU: Basic writings_ (Columbia Press, 1964, Trans:Burton Watson):
 
   A reference to the "Blind Watchmaker" theory: just as the existence of a watch implies the existence of a watchmaker, so does the existence of complex human beings imply the existence of a divine Creator.
 
-Again, continuing the religious overtones of this story.
+  Again, continuing the religious overtones of this story.
 
 - #### Panel 9
 

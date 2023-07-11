@@ -103,12 +103,12 @@ This has the flavor of one of Kipling's Just-So stories.
 
 - #### Panel 1-2
 
-So what could be the differences in the women's story?
+  So what could be the differences in the women's story?
 
-<JBird66680@aol.com> says:
+  <JBird66680@aol.com> says:
 
-> I always thought that it had something to do with the fact that she refused dream three times, but the men thought it was because of her sense of duty.
-> Perhaps the women felt that she really refused him and didn't give in, but was raped by Dream, then killed herself. Maybe the women would realize that the reality behind the story would not be so romantic as the tale that the men idealized, because their [the women's] own reality would be less of a fairy tale [with the hardships of marriage and childbirth and caring for the family] than the fantasies that the men embraced. but anyway, i always thought rape would be the major difference between the stories.
+  > I always thought that it had something to do with the fact that she refused dream three times, but the men thought it was because of her sense of duty.
+  > Perhaps the women felt that she really refused him and didn't give in, but was raped by Dream, then killed herself. Maybe the women would realize that the reality behind the story would not be so romantic as the tale that the men idealized, because their [the women's] own reality would be less of a fairy tale [with the hardships of marriage and childbirth and caring for the family] than the fantasies that the men embraced. but anyway, i always thought rape would be the major difference between the stories.
 
 ## Credits
 

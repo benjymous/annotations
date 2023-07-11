@@ -46,8 +46,7 @@ The view shown is the entrance to the Minnesota Renaissance Festival held in Sha
 
 - #### Panel 3
 
-  This is the ending of Kipling's poem "The Sack of the Gods".
-  We know, of course, that at least some souls do reincarnate; Nada did at the end of "The Season of Mists", and if Gaiman follows Alan Moore's theology in _Swamp Thing_ Annual #2, then it's an option for blessed souls in Heaven.
+  This is the ending of Kipling's poem "The Sack of the Gods".   We know, of course, that at least some souls do reincarnate; Nada did at the end of "The Season of Mists", and if Gaiman follows Alan Moore's theology in _Swamp Thing_ Annual #2, then it's an option for blessed souls in Heaven.
 
 ### Page 22
 

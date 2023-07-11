@@ -6,7 +6,7 @@
 
 **Notes**: See #41. For references on Ishtar and Ancient Near Eastern rites, consult the appendix. This issue, the middle one of the arc, has many points in common with #41, the first one of the arc.
 
-1: The Things We Do to Be Loved
+### 1: _The Things We Do to Be Loved_
 
 ### Page 1
 
@@ -24,7 +24,7 @@
 
   **Shooting up**: Taking heroin, which is administered via syringe.
 
-2: Her Hands Do Not Go to the Moon
+### 2: _Her Hands Do Not Go to the Moon_
 
 ### Page 5
 
@@ -40,7 +40,7 @@
 
 Del's actions here are reminiscent of Dream's punishment of Alex Burgess in #1. It is evident that the Endless have the ability to cloud people's minds (as in #41 and #44, as well as on page 16, for example).
 
-3: The Driving Instructor
+### 3: _The Driving Instructor_
 
 ### Page 6
 
@@ -52,13 +52,13 @@ Del's actions here are reminiscent of Dream's punishment of Alex Burgess in #1. 
 
   Matthew is referring to the incident in Swamp Thing #27, where he was possessed by the spirit of his wife's uncle, the evil sorceror-scientist-supervillain Anton Arcane.
 
-4: Tiffany Watches I
+### 4: _Tiffany Watches I_
 
 ### Page 7
 
 - #### Panel 1-5
 
-Tiffany's activities here make it clear that she's doing cocaine. The >snf< noise in panel 1: coke is usually snorted through the nose. In panel 2, Tiffany is collecting coke residue left on the mirror (mirrors are used to prepare lines for sniffing because they are flat and untextured). In panel 4, she's rubbing the residue into her gums where it will be absorbed.
+  Tiffany's activities here make it clear that she's doing cocaine. The >snf< noise in panel 1: coke is usually snorted through the nose. In panel 2, Tiffany is collecting coke residue left on the mirror (mirrors are used to prepare lines for sniffing because they are flat and untextured). In panel 4, she's rubbing the residue into her gums where it will be absorbed.
 
 - #### Panel 2
 
@@ -82,7 +82,7 @@ Tiffany's activities here make it clear that she's doing cocaine. The >snf< nois
 
   There's a parallel here, since Madonna was married to a "Sean"--Sean Penn--for a short time.
 
-5: White Knights and/or Pond-Scum
+### 5: _White Knights and/or Pond-Scum_
 
 Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recognized as a compound noun. There are three stages in the life of an English compound noun. In the first, two words become associated with a single meaning, as in "pond scum". After a while, the written form becomes hyphenated, as it is here. Finally, the two original words are jammed together as a single word: "pondscum".
 
@@ -100,7 +100,7 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
   **Blow**: cocaine.
 
-6: Are Dalmations Flowers?
+### 6: _Are Dalmations Flowers?_
 
 ### Page 10
 
@@ -117,7 +117,7 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
   **101 Dalmatians**: A full-length cartoon by Walt Disney Studios. There are, in fact, 101 Dalmatians, mostly puppies, in the film. "Dalmatiums" are a type of flower. Dalmatia is a region in Yugoslavia along the Adriatic.
 
-7: Nancy Displays Her Erudition
+### 7: _Nancy Displays Her Erudition_
 
 ### Page 11
 
@@ -130,8 +130,7 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
 - #### Panel 5-6
 
-**Oprah" and "Donahue**: American talk shows, often
-devoted to the latest sensationalistic book, scam, or fad. The "Donahue" topic given in 13.5 is a good parody of a typical show. The hosts' full names are Oprah Winfrey and Phil Donahue.
+  **Oprah" and "Donahue**: American talk shows, often devoted to the latest sensationalistic book, scam, or fad. The "Donahue" topic given in 13.5 is a good parody of a typical show. The hosts' full names are Oprah Winfrey and Phil Donahue.
 
 ### Page 13
 
@@ -139,11 +138,9 @@ devoted to the latest sensationalistic book, scam, or fad. The "Donahue" topic g
 
   **Mai Lai**: Possibly an amalgam of "mai tai", a kind of rum drink (to which Tiffany refers), and "My Lai", a village in South Vietnam where American military forces engaged in a massacre of civilians.
 
-8: Wham Bam Thank You Ma'am
+### 8: _Wham Bam Thank You Ma'am_
 
-Slang for something quickly and abruptly started and accomplished;
-originally referring to the legendary speed of men during the sex act.
-Notable as a shouted lyric near the end of David Bowie's "Suffragette City".
+Slang for something quickly and abruptly started and accomplished; originally referring to the legendary speed of men during the sex act. Notable as a shouted lyric near the end of David Bowie's "Suffragette City".
 
 ### Page 14
 
@@ -155,9 +152,7 @@ Notable as a shouted lyric near the end of David Bowie's "Suffragette City".
 
 - #### Panel 6
 
-  **Under Pressure**: A song written and performed by David
-  Bowie and Queen. (Recall the mention of Queen frontsman Freddie Mercury in
-  #41.) The song is about closeted homosexuals.
+  **Under Pressure**: A song written and performed by David   Bowie and Queen. (Recall the mention of Queen frontsman Freddie Mercury in #41.) The song is about closeted homosexuals.
 
 ### Page 16
 
@@ -165,7 +160,7 @@ Notable as a shouted lyric near the end of David Bowie's "Suffragette City".
 
   Recall that Del pulled the same trick in #41.
 
-9: Tiffany Watches II
+### 9: _Tiffany Watches II_
 
 Note the ironic change in meaning of "watches" from section 4.
 

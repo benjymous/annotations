@@ -54,7 +54,7 @@ Not yet reprinted in any other form
 
 - #### Panel 4, 6-8
 
-Another obviously Doran sequence. Keep in mind that Gaiman usually writes in full script; this is a good example of Gaiman's technical skill and flexibility, to write to a particular artist's style.
+  Another obviously Doran sequence. Keep in mind that Gaiman usually writes in full script; this is a good example of Gaiman's technical skill and flexibility, to write to a particular artist's style.
 
 ### Page 11
 
@@ -80,7 +80,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
   Gwas-y-gog: Welsh, meaning literally "Servant of the cuckoo"; it is also the name of a little brown bird, which may be the one known as "hedge-sparrow" in English.
 
-Why Welsh? Probably because of the rich influence Welsh culture has had on English folktales, and probably because of the existence of that little brown bird, as a real-life antecedent.
+  Why Welsh? Probably because of the rich influence Welsh culture has had on English folktales, and probably because of the existence of that little brown bird, as a real-life antecedent.
 
 - #### Panel 2
 
@@ -116,13 +116,13 @@ Why Welsh? Probably because of the rich influence Welsh culture has had on Engli
 
   **Gorgo**: the Greek root /gorgos/ means "grim, fierce, terrible". This may refer simply to the Gorgon Medusa, one of three horrifyingly grotesque daughters of the sea-god Phorkys in Greek myth, slain by Perseus; variant spellings occasionally left off the 'n'. Also, a common variant for Gorgas "sea-nymphs" is Gorgides, with an implied singular Gorgo.
 
-**Mormo**: A Greek bogeyman/bugbear, used to frighten children. Lamachus (who?) had the Mormo on his helmet. She is definitely feminine, possibly akin to the Lamia.
+  **Mormo**: A Greek bogeyman/bugbear, used to frighten children. Lamachus (who?) had the Mormo on his helmet. She is definitely feminine, possibly akin to the Lamia.
 
-**Ereschigal**: Ereshkigal, variously known as Allatu/Allatum ("Alatu" is Akkadian for "goddess"), or Gula (Sumerian for "Queen"), is a deity native to the Fertile Crescent, and therefore worshipped in some form by the Sumerians, Babylonians, Assyrians, Hittites, Hurians, and so on. She is generally spoken of as the chief Babylonian goddess of the underworld, sister of Ishtar/Inanna, and shares the throne of the underworld Irkalla with Nergal (familiar as a demon to readers of the comic book _Hellblazer_). Gorgo, if taken as "sea nymph", Mormo, and Ereshkigal form a Maiden- Mother-Crone triplet.
+  **Ereschigal**: Ereshkigal, variously known as Allatu/Allatum ("Alatu" is Akkadian for "goddess"), or Gula (Sumerian for "Queen"), is a deity native to the Fertile Crescent, and therefore worshipped in some form by the Sumerians, Babylonians, Assyrians, Hittites, Hurians, and so on. She is generally spoken of as the chief Babylonian goddess of the underworld, sister of Ishtar/Inanna, and shares the throne of the underworld Irkalla with Nergal (familiar as a demon to readers of the comic book _Hellblazer_). Gorgo, if taken as "sea nymph", Mormo, and Ereshkigal form a Maiden- Mother-Crone triplet.
 
-Note that Foxglove, Hazel, and Thessaly also form a Maiden-Mother-Crone triplet.
+  Note that Foxglove, Hazel, and Thessaly also form a Maiden-Mother-Crone triplet.
 
-This chant is very similar to the one H.P. Lovecraft used in "Horror at Red Hook."
+  This chant is very similar to the one H.P. Lovecraft used in "Horror at Red Hook."
 
 ### Page 19
 
@@ -146,7 +146,7 @@ This chant is very similar to the one H.P. Lovecraft used in "Horror at Red Hook
 
 - #### Panel 1-3
 
-The bag lady, possibly mad, recognizes what happened to the moon. Is it a consequence of her madness, or is it simply as she says in panel 3, that no one bothers to look at the sky any more?
+  The bag lady, possibly mad, recognizes what happened to the moon. Is it a consequence of her madness, or is it simply as she says in panel 3, that no one bothers to look at the sky any more?
 
 - #### Panel 6
 
@@ -162,22 +162,22 @@ The bag lady, possibly mad, recognizes what happened to the moon. Is it a conseq
 
   Goody Two-Shoes: A cliche meaning a do-gooder; often used derisively. It arises from an anonymous allegory published in English in 1766 under the somewhat unwieldy title:
 
-> "The history of little Goody Two-Shoes:
->
-> Otherwise called, Mrs. Margery Two-Shoes.
-> With the means by which she acquired her learning and wisdom,
-> And in consequence thereof her estate;
-> Set forth at large for the benefit of those,
-> Who from a state of rags and care,
-> And having shoes but half a pair;
-> Their fortunes and their fame would fix,
-> And gallop in a coach and six."
+  > "The history of little Goody Two-Shoes:
+  >
+  > Otherwise called, Mrs. Margery Two-Shoes.
+  > With the means by which she acquired her learning and wisdom,
+  > And in consequence thereof her estate;
+  > Set forth at large for the benefit of those,
+  > Who from a state of rags and care,
+  > And having shoes but half a pair;
+  > Their fortunes and their fame would fix,
+  > And gallop in a coach and six."
 
-It is by reputation simplistic and moralistic; the heroine exemplifies the type of person her name came to represent. "Goody" itself is short for "Goodwife", and was used in a sense roughly equivalent to "Mrs." Margaret Hamilton: Played the Wicked Witch of the West in the movie version of _The Wizard of Oz_.
+  It is by reputation simplistic and moralistic; the heroine exemplifies the type of person her name came to represent. "Goody" itself is short for "Goodwife", and was used in a sense roughly equivalent to "Mrs." Margaret Hamilton: Played the Wicked Witch of the West in the movie version of _The Wizard of Oz_.
 
 - #### Panel 5-6
 
-George should be enjoined from speaking except with Thessaly's permission; see page 16 panel 1. This is hand waved away in the next issue.
+  George should be enjoined from speaking except with Thessaly's permission; see page 16 panel 1. This is hand waved away in the next issue.
 
 ## Credits
 

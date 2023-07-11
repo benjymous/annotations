@@ -64,9 +64,9 @@
 
   The name "Eblis" derives from Arabic myth. Eblis was a spirit of fire, to be the head of angels (he is referred to in Sura 18 of the Qu'ran).
 
-When Eblis refused to bow to Adam (because Adam was made of clay), God cast him out of heaven. Eblis then vowed to seduce man to forsake God. Thus he became Satan or the Devil. We can compare this to Lucifer Morningstar in the Christian religion.
+  When Eblis refused to bow to Adam (because Adam was made of clay), God cast him out of heaven. Eblis then vowed to seduce man to forsake God. Thus he became Satan or the Devil. We can compare this to Lucifer Morningstar in the Christian religion.
 
-"O'Shaughnessy" derives from Arthur W. E. O'Shaughnessy, a mid-19th- century poet. Most of his work is deservedly obscure, but one poem, entitled "Ode", has achieved a modest fame. Its theme is that art and dreams shape the world, and that poets and musicians are the world's true kings. It has thus been understandably popular with poets and musicians, and has been set to music several times.
+  "O'Shaughnessy" derives from Arthur W. E. O'Shaughnessy, a mid-19th- century poet. Most of his work is deservedly obscure, but one poem, entitled "Ode", has achieved a modest fame. Its theme is that art and dreams shape the world, and that poets and musicians are the world's true kings. It has thus been understandably popular with poets and musicians, and has been set to music several times.
 
 - #### Panel 7
 
@@ -78,21 +78,21 @@ When Eblis refused to bow to Adam (because Adam was made of clay), God cast him 
 
   The same question was asked of Mistress Veltis when she entered the same room, in "Cerements". [Insert exact reference here.] Also, the room was described as having "six silver cerements" hanging from the walls.
 
-Coupled with Eblis' answer to the voice, this leads me to believe that each cerement is meant for one of the seven Endless.
+  Coupled with Eblis' answer to the voice, this leads me to believe that each cerement is meant for one of the seven Endless.
 
-Possibilities for who the missing _seventh_ cerement is meant for, (and reasons against):
+  Possibilities for who the missing _seventh_ cerement is meant for, (and reasons against):
 
-- Death: she is supposed to be the last of the Endless to leave the
-  universe, (#20, page 20, panel 6, among others), and so cannot die. (But
-  we have not been explicitly told she can't die.)
+  - Death: she is supposed to be the last of the Endless to leave the
+    universe, (#20, page 20, panel 6, among others), and so cannot die. (But
+    we have not been explicitly told she can't die.)
 
-- Despair: Despair was killed at one point. (But there is no reason why
-  she can't die again.)
+  - Despair: Despair was killed at one point. (But there is no reason why
+    she can't die again.)
 
-- Destruction: he has "given up" his job as an Endless, and so isn't
-  permitted a funeral with the required cerement. (But just because
-  Destruction has "given up", doesn't mean that he has stopped being an
-  Endless.)
+  - Destruction: he has "given up" his job as an Endless, and so isn't
+    permitted a funeral with the required cerement. (But just because
+    Destruction has "given up", doesn't mean that he has stopped being an
+    Endless.)
 
 ### Page 10
 

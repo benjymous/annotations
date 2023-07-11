@@ -23,9 +23,9 @@ First story reprinted in trade paperback _Dream Country_
 
   Trichino- is the stem for "hair" from Greek. Its meaning has also been extended to signify worms, particularly hairlike nematodes.
 
-In the script, Gaiman describes the trichinobezoar as a "fossilized tribble covered in slime" and notes that a photo he had seen quite resembled what Jones had drawn. Jones notes later that he found a description in "Paracelsus Book". Paracelsus was a sixteenth century Swiss physician.
+  In the script, Gaiman describes the trichinobezoar as a "fossilized tribble covered in slime" and notes that a photo he had seen quite resembled what Jones had drawn. Jones notes later that he found a description in "Paracelsus Book". Paracelsus was a sixteenth century Swiss physician.
 
-![](bezoar.jpg)
+  ![](bezoar.jpg)
 
 ### Page 2
 
@@ -47,9 +47,9 @@ In the script, Gaiman describes the trichinobezoar as a "fossilized tribble cove
 
 - #### Panel 3-4
 
-Fry's explanation of bezoars is accurate, as shown above.
+  Fry's explanation of bezoars is accurate, as shown above.
 
-John Dee has had some background provided in an earlier annotation.
+  John Dee has had some background provided in an earlier annotation.
 
 ### Page 5
 
@@ -93,21 +93,21 @@ There were nine Muses in Greek mythology of whom Calliope was the Muse of epic p
 
   "Camenae" are the Roman equivalent to the Muses. Calliope is indicating that the Muses are the daughters of the three-in-one goddess, which contradicts most classical sources.
 
-However, in the script, Gaiman comments that an earlier version of the Muses had only three women. So, to some extent, the nine Muses _are_ 'daughters' of the triple goddess.
+  However, in the script, Gaiman comments that an earlier version of the Muses had only three women. So, to some extent, the nine Muses _are_ 'daughters' of the triple goddess.
 
-Gaiman here notes that pages 9 and 10 were intended to face each other, but misplaced ads in the original comic prevented this, and it was not corrected for the collection.
+  Gaiman here notes that pages 9 and 10 were intended to face each other, but misplaced ads in the original comic prevented this, and it was not corrected for the collection.
 
-He also notes that Calliope, while more comfortable with her nakedness, is not entirely comfortable, as the Muses were always depicted in light shifts. (Parenthetically, he adds that the Graces were not.) Jones' notes indicate that the angles he uses in this sequence were intended to contrast Calliope and the emptiness of the attic.
+  He also notes that Calliope, while more comfortable with her nakedness, is not entirely comfortable, as the Muses were always depicted in light shifts. (Parenthetically, he adds that the Graces were not.) Jones' notes indicate that the angles he uses in this sequence were intended to contrast Calliope and the emptiness of the attic.
 
 - #### Panel 4
 
   "Beautiful Voice" is the translation of "Calliope".
 
-Gaiman indicates that Melete is the crone, Mneme the mother, and Aiode the maiden. He notes that these three were a form of the Muses that predate the nine children of Zeus and Mnemosyne, and unilaterally decided that the Nine were the daughters of the Three. Jones notes that he used his neighbor as a model for Melete.
+  Gaiman indicates that Melete is the crone, Mneme the mother, and Aiode the maiden. He notes that these three were a form of the Muses that predate the nine children of Zeus and Mnemosyne, and unilaterally decided that the Nine were the daughters of the Three. Jones notes that he used his neighbor as a model for Melete.
 
-From Poe's "How to Write a Blackwood Article":
+  From Poe's "How to Write a Blackwood Article":
 
-> PIQUANT FACTS FOR SIMILES. There were originally but three Muses--Melete, Mneme, Aoede--meditation, memory, and singing.
+  > PIQUANT FACTS FOR SIMILES. There were originally but three Muses--Melete, Mneme, Aoede--meditation, memory, and singing.
 
 - #### Panel 6
 
@@ -133,22 +133,22 @@ From Poe's "How to Write a Blackwood Article":
 
   Gaiman says Madoc's title is from a riddle that appears in _The Books of Magic_ #4 From page 33:
 
-> The Fool: A riddle. I sat with my love, and I drank with my
-> love, and my love she gave me light. I'll give any man a
-> pint o'wine, that'll read my riddle right.
-> Only I don't _have_ a pint of wine. Do you give up?
-> Tim Hunter: I don't understand the question.
-> The Fool: How about your friend?
-> Mister E: It is an evil rhyme, and it has an evil answer.
-> The Fool: Oh _so?_ But can you riddle it?
-> Mister E: I sat in a chair made of my love's bones, drank from her
-> skull, and saw by the light of a candle made from her fat.
-> There. Are you satisfied, fool? Let us leave this place,
-> Timothy Hunter.
+  > The Fool: A riddle. I sat with my love, and I drank with my
+  > love, and my love she gave me light. I'll give any man a
+  > pint o'wine, that'll read my riddle right.
+  > Only I don't _have_ a pint of wine. Do you give up?
+  > Tim Hunter: I don't understand the question.
+  > The Fool: How about your friend?
+  > Mister E: It is an evil rhyme, and it has an evil answer.
+  > The Fool: Oh _so?_ But can you riddle it?
+  > Mister E: I sat in a chair made of my love's bones, drank from her
+  > skull, and saw by the light of a candle made from her fat.
+  > There. Are you satisfied, fool? Let us leave this place,
+  > Timothy Hunter.
 
-It may be that the "true" answer to this riddle is "wine". The teller sits with a bottle of wine and drinks from it; a candle is stuck in a wine bottle and lit. This is why the Fool doesn't have a pint of wine, he drank it.
+  It may be that the "true" answer to this riddle is "wine". The teller sits with a bottle of wine and drinks from it; a candle is stuck in a wine bottle and lit. This is why the Fool doesn't have a pint of wine, he drank it.
 
-Mister E, as a consequence of his character, may simply be taking the most evil interpretation that he can.
+  Mister E, as a consequence of his character, may simply be taking the most evil interpretation that he can.
 
 - #### Panel 6
 
@@ -160,15 +160,15 @@ Mister E, as a consequence of his character, may simply be taking the most evil 
 
   Gaiman describes the two men discussing the Booker Prize as "psuedy types"; this is misspelled. The Booker Prize may be considered a British counterpart to the American Pulitzer Prize, although it is much more literary in nature and is restricted to fiction by UK and Commonwealth authors. Some who have won include Anita Brookner, Kazuo Ishiguro, and Iris Murdoch.
 
-The woman speaking of the "beautiful book" is wearing a t-shirt with the face of Pinhead, a character from auteur Clive Barker's _Hellraiser_ movies. Madoc is modeled on Barker's amazing success, to some extent.
+  The woman speaking of the "beautiful book" is wearing a t-shirt with the face of Pinhead, a character from auteur Clive Barker's _Hellraiser_ movies. Madoc is modeled on Barker's amazing success, to some extent.
 
-Rick's characterization of himself as a feminist writer is again cruelly ironic. The woman he's talking to is described in the script as having "long black hair". Her final question is one authors, reputedly, get all the time, and really, really hate.
+  Rick's characterization of himself as a feminist writer is again cruelly ironic. The woman he's talking to is described in the script as having "long black hair". Her final question is one authors, reputedly, get all the time, and really, really hate.
 
 - #### Panel 3
 
   **TLS**: Times Literary Supplement, a literati must-read. It is a weekly supplement to the great metropolitan newspaper, the Times of London.
 
-The collection title is, in Gaiman's words, "an oblique James Branch Cabell reference...a chapter he never got around to writing in _Figures of Earth_"."
+  The collection title is, in Gaiman's words, "an oblique James Branch Cabell reference...a chapter he never got around to writing in _Figures of Earth_"."
 
 - #### Panel 4
 
@@ -212,8 +212,8 @@ The collection title is, in Gaiman's words, "an oblique James Branch Cabell refe
 
   Gaiman notes that "Here Comes a Candle" was the title of his friend Pete Atkins' first published short story, although he did not know that at the time he wrote this. The phrase itself comes from a nursery rhyme:
 
-> "Here comes a candle to light you to bed
-> And here comes a chopper to chop off your head."
+  > "Here comes a candle to light you to bed
+  > And here comes a chopper to chop off your head."
 
 ### Page 17
 
@@ -239,7 +239,7 @@ The collection title is, in Gaiman's words, "an oblique James Branch Cabell refe
 
 - #### Panel 4
 
-  **Gaiman wrote his note over the first two lines**: "A city in which the streets are paved with time," and "A train full of silent women, plunging forever through the twilight". Maybe he was referring to the "A Tale of Two Cities" in World's End, which has a train that is largely deserted. (Or maybe not.)
+  Gaiman wrote his note over the first two lines: "A city in which the streets are paved with time," and "A train full of silent women, plunging forever through the twilight". Maybe he was referring to the "A Tale of Two Cities" in World's End, which has a train that is largely deserted. (Or maybe not.)
 
 - #### Panel 5
 
@@ -255,11 +255,11 @@ The collection title is, in Gaiman's words, "an oblique James Branch Cabell refe
 
   This is the same character as from the opening of the story.
 
-"An old man... who owned the universe and kept it in a jam jar..." Odin gives Dream a "notional universe", contained in what appears to be a glass sphere, in the Season of Mists arc. [Insert exact reference here] Note the writing on the wall, apparently done in blood. The words "a PAN" can be made out in panel 2, and "WEASELS" appears in panel 3. Since one of Madoc's mutterings is about a "weasel on holiday" (page 19, panel 5), perhaps Madoc is making the writing.
+  "An old man... who owned the universe and kept it in a jam jar..." Odin gives Dream a "notional universe", contained in what appears to be a glass sphere, in the Season of Mists arc. [Insert exact reference here] Note the writing on the wall, apparently done in blood. The words "a PAN" can be made out in panel 2, and "WEASELS" appears in panel 3. Since one of Madoc's mutterings is about a "weasel on holiday" (page 19, panel 5), perhaps Madoc is making the writing.
 
 - #### Panel 3
 
-  A sestina is a poem of six six-line stanzas and a three line concluding envoy (short stanza). Each stanza has a key word as the final word in a line, each stanza having the words in a different order. The envoy has one key word in the middle and at the end of each line. Two readers wrote sestinas of the given form, which were published in the letter column in _Sandman_ #21. One of those readers is Elizabeth Holden, a R.A.C. mainstay.
+  A sestina is a poem of six six-line stanzas and a three line concluding envoy (short stanza). Each stanza has a key word as the final word in a line, each stanza having the words in a different order. The envoy has one key word in the middle and at the end of each line. Two readers wrote sestinas of the given form, which were published in the letter column in [Sandman #21](sandman.21.md). One of those readers is Elizabeth Holden, a R.A.C. mainstay.
 
 - #### Panel 4
 
@@ -271,11 +271,11 @@ The collection title is, in Gaiman's words, "an oblique James Branch Cabell refe
 
   Cargo cults were discovered among the peoples of the Pacific islands during and after World War II, based on the unbelievable amounts of goods ("cargo") brought to these islands by the various armed forces.
 
-Raymond Lulli was a 13th century Spanish theologian and philosopher.
+  Raymond Lulli was a 13th century Spanish theologian and philosopher.
 
-He was the creator of a numerologic system which involved wheel-shaped diagrams with letters at the perimeter. Lullism is discussed in Martin Gardner's _Science, Good, Bad, and Bogus_. Paracelsus, mentioned above, apparently used the Latinized name Philippus Aurelus Paracelsus, and the birth name Theophrastus Bombastus von Hohenheim. The two could not have been contemporaries. Incidentally, Theophrastus was a fourth century BC Greek natural philosopher. Both Lulli & Paracelsus are treated in Frances Yates' book _The Art of Memory_ ; they both had systems.
+  He was the creator of a numerologic system which involved wheel-shaped diagrams with letters at the perimeter. Lullism is discussed in Martin Gardner's _Science, Good, Bad, and Bogus_. Paracelsus, mentioned above, apparently used the Latinized name Philippus Aurelus Paracelsus, and the birth name Theophrastus Bombastus von Hohenheim. The two could not have been contemporaries. Incidentally, Theophrastus was a fourth century BC Greek natural philosopher. Both Lulli & Paracelsus are treated in Frances Yates' book _The Art of Memory_ ; they both had systems.
 
-There was a great chemist(?) named Celsus. Paracelsus/von Hohenheim created his alias to show that he was even greater than Celsus ("para - Celsus"). [More info to be included on Celsus at a later date.]
+  There was a great chemist(?) named Celsus. Paracelsus/von Hohenheim created his alias to show that he was even greater than Celsus ("para - Celsus"). [More info to be included on Celsus at a later date.]
 
 ### Page 22
 

@@ -38,7 +38,9 @@
 
   And now Remiel is starting to swear, too. Maybe it's the result of having just visited Lucifer?
 
-Pp. 8-9: I don't recognize either of these characters.
+## Pages 8-9
+
+I don't recognize either of these characters.
 
 ### Page 10
 
@@ -76,15 +78,15 @@ This is "Puss in Boots". I don't have on me a specific reference to her story.
 
   Carmilla Bristol seems to be fictional.
 
-On the TV set, there are books on the TV shows "The Golden Girls" and "Bewitched". Not too sure about the Bewitched reference, but weren't there three "Golden Girls"? (plus Estelle Getty, of course, who played the mother of one of the three).
-A quick note about why Rose Walker is studying the triple goddesses in the TV show "Bewitched":
-The main character, Sam, was a witch.
+  On the TV set, there are books on the TV shows "The Golden Girls" and "Bewitched". Not too sure about the Bewitched reference, but weren't there three "Golden Girls"? (plus Estelle Getty, of course, who played the mother of one of the three).
+  A quick note about why Rose Walker is studying the triple goddesses in the TV show "Bewitched":
+  The main character, Sam, was a witch.
 
-Her mother, Endora, was also a witch.
+  Her mother, Endora, was also a witch.
 
-In later episodes, Darren and Sam had a daughter, and she also had witching powers.
+  In later episodes, Darren and Sam had a daughter, and she also had witching powers.
 
-So, we have 3 witches.
+  So, we have 3 witches.
 
 ### Page 16
 
@@ -124,9 +126,9 @@ So, we have 3 witches.
 
   According to Brewer's _Dictionary of Phrase and Fable_:
 
-> **Abudah**:
->
-> Thackeray's allusion, "Like Abudah, he is always looking out for the Fury, and knows that the night will come with the inevitable hag with it," is to a merchant of Baghdad, haunted every night by an old hag described in Ridley's TALES OF THE GENII.
+  > **Abudah**:
+  >
+  > Thackeray's allusion, "Like Abudah, he is always looking out for the Fury, and knows that the night will come with the inevitable hag with it," is to a merchant of Baghdad, haunted every night by an old hag described in Ridley's TALES OF THE GENII.
 
 ## Credits
 

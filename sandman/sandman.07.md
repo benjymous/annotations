@@ -49,7 +49,7 @@ These people are walk-ons.
 
 - #### Panel 2-3
 
-Dee enters the Dreamtime dressed as Julius Caesar; the three ladies are probably not the Hecateae, but are simply denizens of the dreamtime. Shakespeare's play _Julius Caesar_ does not include a dream such as Dee's.
+  Dee enters the Dreamtime dressed as Julius Caesar; the three ladies are probably not the Hecateae, but are simply denizens of the dreamtime. Shakespeare's play _Julius Caesar_ does not include a dream such as Dee's.
 
 ### Page 10
 
@@ -78,9 +78,9 @@ Dee enters the Dreamtime dressed as Julius Caesar; the three ladies are probably
 
 - #### Panel 1
 
-  It would appear that Eve is in fact the Raven Woman of [issue #2](sandman.02.html). Note the raven. Eve has previously appeared in the DC humor mag _Plop!_ in the 1970s, along with Cain and Abel. Panel 2: "Rag-shag Lord of Nowhere-at-all" sounds like a quote. Panel 3: These three characters are, left to right, Abel, Cain, and Gregory, for whose descriptions see the annotation to [issue #2](sandman.02.html). Panel 4: "Spittle-arsed poxy-pale wanker" is a peculiarly British thing for Dee to be saying. An arse is an ass; poxy is probably related to the diseases of smallpox and chicken pox, or possibly to any of a variety of venereal diseases. A wanker is a self-important idiot; "wanking off" is masturbation, so a wanker is one who prefers masturbation to sex. A North American would probably use "asshole." Panel 5: Destiny was the host of one of DC's mystery titles in the late 70s or early 80s. The first appearance of Destiny was specifically Weird Mystery Tales #1. He has also appeared in _Elvira's House of Mystery_. Marv Wolfman used him for appearances in _Superman_ (Superman#352) and _The New Teen Titans_.
+  It would appear that Eve is in fact the Raven Woman of [issue #2](sandman.02.md). Note the raven. Eve has previously appeared in the DC humor mag _Plop!_ in the 1970s, along with Cain and Abel. Panel 2: "Rag-shag Lord of Nowhere-at-all" sounds like a quote. Panel 3: These three characters are, left to right, Abel, Cain, and Gregory, for whose descriptions see the annotation to [issue #2](sandman.02.md). Panel 4: "Spittle-arsed poxy-pale wanker" is a peculiarly British thing for Dee to be saying. An arse is an ass; poxy is probably related to the diseases of smallpox and chicken pox, or possibly to any of a variety of venereal diseases. A wanker is a self-important idiot; "wanking off" is masturbation, so a wanker is one who prefers masturbation to sex. A North American would probably use "asshole." Panel 5: Destiny was the host of one of DC's mystery titles in the late 70s or early 80s. The first appearance of Destiny was specifically Weird Mystery Tales #1. He has also appeared in _Elvira's House of Mystery_. Marv Wolfman used him for appearances in _Superman_ (Superman#352) and _The New Teen Titans_.
 
-In these, it was established that he was more powerful than Superman and not obligated to obey Zeus or Kronos. The character may have had his genesis in the 1960s edition of _The Spectre_. In issues #8-10, the Spectre made some grievous error and was chained by the mysterious voice that resurrected him to a "book of destiny". He was forced to follow mortals around and try to get them to change their destiny, which was written in the book. In effect, the Spectre was demoted to "pseudo-horror anthology host." It has been theorized that Destiny was created from inventory stories for this incarnation of the Spectre; all it would require was slight redrawing, some relettering, and a new color scheme. Destiny was mentioned in [Sandman #1](sandman.01.html) as one of the "Endless", of whom we will see more later.
+  In these, it was established that he was more powerful than Superman and not obligated to obey Zeus or Kronos. The character may have had his genesis in the 1960s edition of _The Spectre_. In issues #8-10, the Spectre made some grievous error and was chained by the mysterious voice that resurrected him to a "book of destiny". He was forced to follow mortals around and try to get them to change their destiny, which was written in the book. In effect, the Spectre was demoted to "pseudo-horror anthology host." It has been theorized that Destiny was created from inventory stories for this incarnation of the Spectre; all it would require was slight redrawing, some relettering, and a new color scheme. Destiny was mentioned in [Sandman #1](sandman.01.md) as one of the "Endless", of whom we will see more later.
 
 ### Page 16
 
@@ -95,6 +95,7 @@ In these, it was established that he was more powerful than Superman and not obl
   This is the Scarecrow, Jonathan Crane, who was explained in #5. They are in an asylum for the criminally insane, Arkham Asylum, which also was explained earlier in this series.
 
 - #### Panel 7
+
   "There's no place like home", is a quote from "The Wizard of Oz", which also had a scarecrow in it.
 
 ### Page 23

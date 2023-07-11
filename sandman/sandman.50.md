@@ -67,7 +67,7 @@ An abridged version of the opening of the Arabian Nights, akin to the invocation
 
   **Ramadan**: The ninth month of the Moslem lunar calendar.
 
-**Zubaidah**: Haroun's senior wife.
+  **Zubaidah**: Haroun's senior wife.
 
 ### Page 9
 
@@ -107,9 +107,9 @@ An abridged version of the opening of the Arabian Nights, akin to the invocation
 
   **Phoenix**: A mythical bird which lives one thousand years, then dies in flame and is reborn from its own ashes. There are no eggs in the traditional version of the story, nor is there a phoenix in my source for the Arabian Nights.
 
-Sorcha <sorcha_obrien@esatclear.ie> found this the Encyclopaedia Britannica under the entry on the phoenix:
+  Sorcha <sorcha_obrien@esatclear.ie> found this the Encyclopaedia Britannica under the entry on the phoenix:
 
-> in ancient Egypt and in classical antiquity, a fabulous bird associated with the worship of the sun. The Egyptian phoenix was said to be as large as an eagle, with brilliant scarlet and gold plumage and a melodious cry. Only one phoenix existed at any time, and it was very long-lived--no ancient authority gave it a life span of less than 500 years. As its end approached, the phoenix fashioned a nest of aromatic boughs and spices, set it on fire, and was consumed in the flames. From the pyre miraculously sprang a new phoenix, which, after embalming its father's ashes in an egg of myrrh, flew with the ashes to Heliopolis ("City of the Sun") in Egypt, where it deposited them on the altar in the temple of the Egyptian god of the sun, Re. A variant of the story made the dying phoenix fly to Heliopolis and immolate itself in the altar fire, from which the young phoenix then rose.
+  > In ancient Egypt and in classical antiquity, a fabulous bird associated with the worship of the sun. The Egyptian phoenix was said to be as large as an eagle, with brilliant scarlet and gold plumage and a melodious cry. Only one phoenix existed at any time, and it was very long-lived--no ancient authority gave it a life span of less than 500 years. As its end approached, the phoenix fashioned a nest of aromatic boughs and spices, set it on fire, and was consumed in the flames. From the pyre miraculously sprang a new phoenix, which, after embalming its father's ashes in an egg of myrrh, flew with the ashes to Heliopolis ("City of the Sun") in Egypt, where it deposited them on the altar in the temple of the Egyptian god of the sun, Re. A variant of the story made the dying phoenix fly to Heliopolis and immolate itself in the altar fire, from which the young phoenix then rose.
 
 ### Page 15
 
@@ -132,9 +132,9 @@ Sorcha <sorcha_obrien@esatclear.ie> found this the Encyclopaedia Britannica unde
   **Sulaiman ben Daoud**: Solomon, son of David. From the
   _Goetia_, the Lesser Key of Solomon:
 
-> These be the 72 Mighty Kings and Princes in which King Solomon Commanded into a Vessel of Brass, together with their Legions. Of whom Belial, Bileth, Asmoday, and Gaap, were Chief. And it is to be noted that Solomon did this because of their pride, for he never declared other reason why he thus bound them. And when he had bound them up and sealed the Vessel, he by Divine Power did chase them all into a deep Lake or Hole in Babylon. And they of Babylon, wondering to see such a thing, they did then go wholly into the Lake, to break the Vessel open, expecting to find great store of Treasure therein. But when they had broken it open, out flew the Chief Spirits immediately, with their Legions following them; and they were all restored to their places expect Belial, who entered into a certain Image, and thence gave answers unto those who did offer Sacrifices unto him, and did worship the Image as their God, etc.
+  > These be the 72 Mighty Kings and Princes in which King Solomon Commanded into a Vessel of Brass, together with their Legions. Of whom Belial, Bileth, Asmoday, and Gaap, were Chief. And it is to be noted that Solomon did this because of their pride, for he never declared other reason why he thus bound them. And when he had bound them up and sealed the Vessel, he by Divine Power did chase them all into a deep Lake or Hole in Babylon. And they of Babylon, wondering to see such a thing, they did then go wholly into the Lake, to break the Vessel open, expecting to find great store of Treasure therein. But when they had broken it open, out flew the Chief Spirits immediately, with their Legions following them; and they were all restored to their places expect Belial, who entered into a certain Image, and thence gave answers unto those who did offer Sacrifices unto him, and did worship the Image as their God, etc.
 
-The globe is probably a reference to this story. Imprisonment of ifrits is common in the Arabian Nights, most familiarly in the story of "Aladdin and the Lamp".
+  The globe is probably a reference to this story. Imprisonment of ifrits is common in the Arabian Nights, most familiarly in the story of "Aladdin and the Lamp".
 
 ### Page 21
 
@@ -142,13 +142,13 @@ The globe is probably a reference to this story. Imprisonment of ifrits is commo
 
   The story is "The Fisherman and the Jinnee". Naturally Dream knows it. Dream calls himself neither foolish nor boastful nor lonely.
 
-_Distant Mirrors_ is meant to reflect Dream as he once was.
+  _Distant Mirrors_ is meant to reflect Dream as he once was.
 
 - #### Panel 6
 
   Flying carpets are a staple of the Arabian Nights.
 
-Master Arabian weavers were apparently so talented that they purposefully wove a single flaw into each carpet, feeling that it would be disrespectful to Allah to create something perfect.
+  Master Arabian weavers were apparently so talented that they purposefully wove a single flaw into each carpet, feeling that it would be disrespectful to Allah to create something perfect.
 
 ### Page 22
 
@@ -180,7 +180,7 @@ Master Arabian weavers were apparently so talented that they purposefully wove a
 
   Of course there's a story. This is the Arabian Nights.
 
-Note that all of Haroun and Dream's encounters in the marketplace involve stories as well as material goods.
+  Note that all of Haroun and Dream's encounters in the marketplace involve stories as well as material goods.
 
 ### Page 27
 
@@ -204,7 +204,7 @@ Baghdad was bombed repeatedly during the Gulf War, and on at least two occasions
 
 ## Credits
 
-- Originally collated and edited by Greg Morrow and David Goldfarb
+- Originally collated and edited by Greg Morrow and David Goldfarb.
 - Torsten Wesley Adair <torsten@cwis.unomaha.edu> passed along information about the adaptation of the story.
 - August Paul Yang (wntrmute@jhunix5.hcf.jhu.edu) identified the Seal of Solomon.
 - Edward Liu <el24+@andrew.cmu.edu> identified Arabian Night references, using the Zipes edition.

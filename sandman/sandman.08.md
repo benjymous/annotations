@@ -8,7 +8,7 @@ Referred to by Gaiman as the epilogue to _More than Rubies_
 Eighth story reprinted in _Preludes and Nocturnes_
 First story reprinted in _The Doll's House_
 
-**Note**: _The Doll's House_ and _Sandman_ #8 both contain an introduction written by Neil Gaiman explaining the story thus far. The introduction does not appear in _Preludes and Nocturnes_. _Sandman_ #8 also contains words of praise for _Sandman_ (and Neil Gaiman) from many writers and artists, both of comic books and mainstream fiction. The introduction is illustrated by original art by Mike Dringenberg in #8. The illustrations in _The Doll's House_ are different and more general. The notes below about the illustrations refer to the ones in #8.
+**Note**: _The Doll's House_ and [Sandman #8](sandman.08.md) both contain an introduction written by Neil Gaiman explaining the story thus far. The introduction does not appear in _Preludes and Nocturnes_. [Sandman #8](sandman.08.md) also contains words of praise for _Sandman_ (and Neil Gaiman) from many writers and artists, both of comic books and mainstream fiction. The introduction is illustrated by original art by Mike Dringenberg in #8. The illustrations in _The Doll's House_ are different and more general. The notes below about the illustrations refer to the ones in #8.
 
 ### Intro, page 1
 
@@ -19,12 +19,12 @@ First story reprinted in _The Doll's House_
 - Paragraph 4:
   The figure is Destiny.
 - Paragraph 10:
-  Neil Gaiman says that the name of Roderick Burgess's house, Fawney Rig, is significant, being "named by Lady Johanna after the manner in which she acquired it." Fawney Rig is a con in which a gilded brass ring is sold for less than it is supposedly worth (if it were gold), but much more than what it is actually worth. The ring would be dropped and picked up before the mark, so it was also referred to as fawney-bouncing. Lady Johanna's con was presumably done on a larger, more complex scale. Lady Johanna Constantine is an ancestor of John Constantine, whom we met in _Sandman_ #3. We will meet Lady Johanna in later issues.
+  Neil Gaiman says that the name of Roderick Burgess's house, Fawney Rig, is significant, being "named by Lady Johanna after the manner in which she acquired it." Fawney Rig is a con in which a gilded brass ring is sold for less than it is supposedly worth (if it were gold), but much more than what it is actually worth. The ring would be dropped and picked up before the mark, so it was also referred to as fawney-bouncing. Lady Johanna's con was presumably done on a larger, more complex scale. Lady Johanna Constantine is an ancestor of John Constantine, whom we met in [Sandman #3](sandman.03.md). We will meet Lady Johanna in later issues.
   The [Grim] Reaper is a traditional appellation for Death, in this form usually represented as a skeletal figure in a dark robe, wielding a scythe.
 - Paragraph 13:
   We will assume that the reader recognizes and recalls events from earlier issues.
 - Paragraph 14:
-  This, however, is new information. My interpretation is that Dream was engaged in some form of conflict with forces unknown when Burgess cast his spell. The weakened Dream was unable to resist the call. Another hint at this prequel is given in _Sandman_ #47. Note that Dream is carrying all his tools at the time of his capture. Neil has said that he is interested in writing a miniseries about these events after the main series is concluded, which indeed happened 17 years after the end of The Sandman with the release of Overture in 2013.
+  This, however, is new information. My interpretation is that Dream was engaged in some form of conflict with forces unknown when Burgess cast his spell. The weakened Dream was unable to resist the call. Another hint at this prequel is given in [Sandman #47](sandman.47.md). Note that Dream is carrying all his tools at the time of his capture. Neil has said that he is interested in writing a miniseries about these events after the main series is concluded, which indeed happened 17 years after the end of The Sandman with the release of Overture in 2013.
 
 ## Intro page 2
 
@@ -40,25 +40,25 @@ First story reprinted in _The Doll's House_
   Dream is sitting in a fountain, which is dry in summer only during a drought, which are not uncommon. The dark circular structures on the bottom are caps on the fountainheads. Many people use the fountain in exactly the way Dream is. Considering the lack of crowds, this scene is set on a weekday, or early in the morning.
   Note the birds. The linkage of Dream with birds is a common motif.
 
-Thus writes "Kai'Ckul" <oshinsky@webspan.net>:
+  Thus writes "Kai'Ckul" <oshinsky@webspan.net>:
 
-> Firstly, I would like to say how terribly strange it was for me to be literally sitting in Washington Square Park, reading "The Sound Of Her Wings" for the first time. I realized it immediately, and it was one of those "weird shit" moments that Rose Walker always babbles on about. My point, though, is that I found this story immediately interesting, Death in Washington Square Park, since i really dislike that place, since:
->
-> a) it is dirty
-> b) it is either very, very, crowded or very, very empty
-> c) drug dealers lurk around every corner, and so the cops are always hassling everyone there
-> d) the fountain _never_ works (even in the summer) and (most importantly)
-> e) to quote friend of mine: 'every time I go to Washington Square, someone dies.'
-> 'no, really. it's either an O.D. or a heart attack or something, but every damn time I've been there (which is fairly often, and accurate) there's been a corpse there waiting for me.'
->
-> Anyway, the point is, Washington Square Park, which I tend to frequent, is a place where many Goths hang out, many of whom look much like Morpheus and Death or their human counterparts, Robert Smith and Souixie Souix. It doesn't matter whether or not Morpheus or Death have wings, real or metaphorical, since they would if we were to suppose them to and wouldn't if we didn't. I'm rambling on, but initially meant to say that Many people who look very much like the two hang there, death is always about, and no one seems to notice.
+  > Firstly, I would like to say how terribly strange it was for me to be literally sitting in Washington Square Park, reading "The Sound Of Her Wings" for the first time. I realized it immediately, and it was one of those "weird shit" moments that Rose Walker always babbles on about. My point, though, is that I found this story immediately interesting, Death in Washington Square Park, since i really dislike that place, since:
+  >
+  > a) it is dirty
+  > b) it is either very, very, crowded or very, very empty
+  > c) drug dealers lurk around every corner, and so the cops are always hassling everyone there
+  > d) the fountain _never_ works (even in the summer) and (most importantly)
+  > e) to quote friend of mine: 'every time I go to Washington Square, someone dies.'
+  > 'no, really. it's either an O.D. or a heart attack or something, but every damn time I've been there (which is fairly often, and accurate) there's been a corpse there waiting for me.'
+  >
+  > Anyway, the point is, Washington Square Park, which I tend to frequent, is a place where many Goths hang out, many of whom look much like Morpheus and Death or their human counterparts, Robert Smith and Souixie Souix. It doesn't matter whether or not Morpheus or Death have wings, real or metaphorical, since they would if we were to suppose them to and wouldn't if we didn't. I'm rambling on, but initially meant to say that Many people who look very much like the two hang there, death is always about, and no one seems to notice.
 
 ### Page 3
 
 - #### Panel 6
 
   The young woman is Death, Dream's older sister. Note that Death has subsequently been portrayed with a mark around one of her eyes. Mike Dringenberg credits "Cinnamon" as the visual inspiration for Death in _The Doll's House_.
-  As we learn later, Death attends all deaths. She is seen attending many deaths in the course of the rest of the series. It is perhaps worth noting that she was not seen at Roderick Burgess's death, nor at the deaths in the diner in _Sandman_ #6; Neil, presumably, had not decided exactly how he wanted to use her. Note, also, that the conversation does not take place in a "gallery", a method of formal communication between the Endless demonstrated later in _The Doll's House_.
+  As we learn later, Death attends all deaths. She is seen attending many deaths in the course of the rest of the series. It is perhaps worth noting that she was not seen at Roderick Burgess's death, nor at the deaths in the diner in [Sandman #6](sandman.06.md); Neil, presumably, had not decided exactly how he wanted to use her. Note, also, that the conversation does not take place in a "gallery", a method of formal communication between the Endless demonstrated later in _The Doll's House_.
 
 ### Page 4
 
@@ -138,7 +138,7 @@ This prayer is a traditional Jewish prayer, the "Sh'ma", said in Hebrew. It is e
 
 - #### Panel 7
 
-  Harry finds out about the afterlife, but we don't. We have learned before that there is a Hell, for example; other DC books, particularly _Swamp Thing_, have shown other aspects of the afterlife. _Season of Mists_, in _Sandman_ #21-28, is directly concerned with Hell.
+  Harry finds out about the afterlife, but we don't. We have learned before that there is a Hell, for example; other DC books, particularly _Swamp Thing_, have shown other aspects of the afterlife. _Season of Mists_, in [Sandman #21](sandman.21.md)-28, is directly concerned with Hell.
 
 ### Page 15
 
@@ -166,9 +166,9 @@ This prayer is a traditional Jewish prayer, the "Sh'ma", said in Hebrew. It is e
 
   **"The Sunless Lands"** would appear to be an appelation for the afterlives. It may be from Greek mythology, the most pleasant section of Hades, where the virtuous dwelt after death. It may also refer to the Sumerian/Babylonian afterlife, which was dusty, dark, and sterile, according to Enkidu's vision in the "Epic of Gilgamesh".
 
-Note the interesting characterization of Dream as more terrible than Death. Quite true, considering that Dream can make a person's life a living nightmare (c.f. Alex Burgess in #1, pp 38-40); whereas Death merely takes people's lives.
+  Note the interesting characterization of Dream as more terrible than Death. Quite true, considering that Dream can make a person's life a living nightmare (c.f. Alex Burgess in #1, pp 38-40); whereas Death merely takes people's lives.
 
-"No one here gets out alive" is from a Doors song, "Five to One", from the album _Waiting for the Sun_ (1968). It was also the title of Doors lead singer Jim Morrison's biography, by Jerry Hopkins and Daniel Sugarman, Warner Books, 1980. Note that it may not be original with Morrison, as he was known to widely use literary sources in his writing.
+  "No one here gets out alive" is from a Doors song, "Five to One", from the album _Waiting for the Sun_ (1968). It was also the title of Doors lead singer Jim Morrison's biography, by Jerry Hopkins and Daniel Sugarman, Warner Books, 1980. Note that it may not be original with Morrison, as he was known to widely use literary sources in his writing.
 
 ### Page 18
 
@@ -184,15 +184,15 @@ Note the interesting characterization of Dream as more terrible than Death. Quit
 
 - #### Panel 4
 
-  **Note the graffito**: "Dreams make no promises". In conjunction with the dead man, this may be seen as a contrast between the siblings' realms.
+  Note the graffito: "Dreams make no promises". In conjunction with the dead man, this may be seen as a contrast between the siblings' realms.
 
 ### Page 19
 
 - #### Panel 4; page 20 panel 1-2
 
-The song to Death is a verse taken from a papyrus, c. 2000 BC, which contains a work called "Dialogue of a Misanthrope with His Soul". The most accessible reference for this is Joseph Campbell's _Oriental Mythology_. Campbell cites 19th century German works for his information.
+  The song to Death is a verse taken from a papyrus, c. 2000 BC, which contains a work called "Dialogue of a Misanthrope with His Soul". The most accessible reference for this is Joseph Campbell's _Oriental Mythology_. Campbell cites 19th century German works for his information.
 
-Note that now we know Dream to be "many thousands of years" old; we should by now have the idea that he is immortal and has always existed.
+  Note that now we know Dream to be "many thousands of years" old; we should by now have the idea that he is immortal and has always existed.
 
 ### Page 21
 
@@ -228,6 +228,6 @@ Note that now we know Dream to be "many thousands of years" old; we should by no
 - Lance Smith <lsmith@atto.cs.umn.edu> explained the Fawney Rig con.
 - Nils Helge Kielland Brobakk <nilsbr@ifi.uio.no> pointed out the connection with #47, corrected some typos, asked for a transcription, and pointed out Harry's picture and puns on the comedian.
 - Timothy Tan aka TiTan <_> -M2001- <_> 083285@bud.cc.swin.edu.au
-- "Kai'Ckul" <oshinsky@webspan.net> wrote about Washington Square Park
-- Ralf Hildebrandt added many more details
-- Richard Munn added the note about Overture
+- "Kai'Ckul" <oshinsky@webspan.net> wrote about Washington Square Park.
+- Ralf Hildebrandt added many more details.
+- Richard Munn added the note about Overture.

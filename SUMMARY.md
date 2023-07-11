@@ -1,5 +1,3 @@
-Hello World
-
 
 - Preludes and Nocturnes
     - [Issue #01](sandman/sandman.01.md)
@@ -37,7 +35,7 @@ Hello World
     - [Issue #27](sandman/sandman.27.md)
     - [Issue #28](sandman/sandman.28.md)
 
-- Fables and Reflections#
+- Fables and Reflections
     - [Vertigo Preview - Fear of Falling](sandman/sandman-vertigopreview.md)
     - [Issue #29](sandman/sandman.29.md)
     - [Issue #30](sandman/sandman.30.md)
@@ -78,7 +76,7 @@ Hello World
     - [Issue #54](sandman/sandman.54.md)
     - [Issue #55](sandman/sandman.55.md)
     - [Issue #56](sandman/sandman.56.md)
-    
+
 - The Kindly Ones
     - [Vertigo Jam - The Castle](sandman/sandman-vertigojam1.md)
     - [Issue #57](sandman/sandman.57.md)
@@ -94,6 +92,7 @@ Hello World
     - [Issue #67](sandman/sandman.67.md)
     - [Issue #68](sandman/sandman.68.md)
     - [Issue #69](sandman/sandman.69.md)
+
 - The Wake
     - [Issue #70](sandman/sandman.70.md)
     - [Issue #71](sandman/sandman.71.md)

@@ -120,13 +120,13 @@ Puck mentions the phrase "jot nor tittle." This is a Biblical reference, from Ma
 
   _Princess Daisy_ is a real novel, a best-seller in 1980.
 
-Rose's novel was written by Erasmus Fry. We first heard of him in issue #17, "Calliope" -- it was he who captured the muse of that name and held her prisoner. The plot of the book as Rose describes it has obvious parallels to her situation.
+  Rose's novel was written by Erasmus Fry. We first heard of him in issue #17, "Calliope" -- it was he who captured the muse of that name and held her prisoner. The plot of the book as Rose describes it has obvious parallels to her situation.
 
 - #### Panel 7
 
   Robert Aickman (1914-1981): author of, among others, _Painted Devils_, _Cold Hand in Mine_, and _The Story of our Inland Waterways_.
 
-His "strange stories" could be described as horror or dark fantasy. They didn't use shock or gore, though, but rather created a mood of the unusual and eerie. Shirley Jackson (1919-1965): best known for the novel _The Haunting of Hill House_ and the short story "The Lottery". _We Have Always Lived in the Castle_ concerns two girls who live alone and outcast after the death by poison of their parents; it has a similar concern for mood over thrill to Aickman's stories.
+  His "strange stories" could be described as horror or dark fantasy. They didn't use shock or gore, though, but rather created a mood of the unusual and eerie. Shirley Jackson (1919-1965): best known for the novel _The Haunting of Hill House_ and the short story "The Lottery". _We Have Always Lived in the Castle_ concerns two girls who live alone and outcast after the death by poison of their parents; it has a similar concern for mood over thrill to Aickman's stories.
 
 ### Page 22
 

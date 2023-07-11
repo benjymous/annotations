@@ -51,12 +51,12 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
   The Dreamtime is one name of Morpheus' realm. It is also the name of an astral-space-like realm in Australian aboriginal myth. "Dreamscape" is the name of a moderately good film from the early 80s with Dennis Quaid, as well as being the obvious choice for a word that means "the landscape of the dream realm." The Gates of Horn and Ivory are evidently the entry points to Morpheus' stronghold in the Dreamtime. True dreams exit through the Gate of Horn, and false dreams through the Gate of Ivory. This conceit dates back at least to Greek and Roman mythology:
 
   > Dreams surely are difficult, confusing, and not everything in them is brought to pass for mankind. For fleeting dreams have two gates: one is fashioned of horn and one of ivory. Those which pass through the one of sawn ivory are deceptive, bringing tidings which come to nought, but those which issue from the one of polished bone bring true results when a mortal sees them.
-
-          -- Homer, Iliad XIX p560
+  >
+  > -- Homer, Iliad XIX p560
 
   > There are two gates of sleep. One is of horn, easy passage for the shades of truth; the other, of gleaming white ivory, permits false dreams to ascend to the upper air.
-
-          -- Virgil, Eclogues VI p893
+  >
+  > -- Virgil, Eclogues VI p893
 
   The gates may originate in a misunderstanding of Greek, or in a Greek pun. In Greek (transliterated to the Roman alphabet), ivory = elephas but elephairo = to deceive. Horn = karas; karanoo = to achieve.
 
@@ -77,13 +77,14 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
   Arkham Asylum is an institution in the DC universe. Most of Batman's villains, for example, are imprisoned there. It was the subject of a graphic novel by Grant Morrison and Dave McKean. The name arises from the work of HP Lovecraft, an early horror writer, who used the fictional Arkham, Massachusetts as a setting for many of his tales. Following his death, an Arkham Press was founded in his honor, primarily for the purpose of keeping his stories in print. Arkham was also used as the name of a town in some 1960s appearances of the Spectre.
 
-- #### Panel 3-4 Ethel Dee was born Ethel Cripps, whom we saw in issue #1.
+- #### Panel 3-4
+  Ethel Dee was born Ethel Cripps, whom we saw in issue #1.
 
   The letter balloon between panel 3 and panel 4 is incorrectly drawn. The first part is correctly identified as being said by the Asylum administrator, Doctor Huntoon. The second part is actually said by Ethel Dee. Dr. Huntoon has appeared before, in a Rick Veitch issue of _Swamp Thing_. He has the nickname "Piggy." Dr. Destiny (whose name may or may not have been given before as John Dee) has fought the Justice League of America on the order of ten times. He originally appeared as a normal human being who had invented anti-gravity (this from _JLA_ #5, "When Gravity Went Wild"). Subsequently, he invented a "materioptikon", which turned dreams into reality. Later, he invented a ruby materioptikon, and a dream materioptikon. At that point, it became necessary to remove his power to dream, which caused him to waste away to a human skeleton.
 
   It has been suggested that John Dee is the son of Ruthven Sykes.
 
-Although Dee's coloration, which is not consistent with earlier appearances, suggests that he might have non-Caucasian blood, this is not consistent with his surname, which is the same as what is presumably his mother's married name. There may be some relationship with the historical Dr. John Dee, the court astrologer of Queen Elizabeth I and the inventor/discoverer of the Enochian Keys (no clue what they are, though).
+  Although Dee's coloration, which is not consistent with earlier appearances, suggests that he might have non-Caucasian blood, this is not consistent with his surname, which is the same as what is presumably his mother's married name. There may be some relationship with the historical Dr. John Dee, the court astrologer of Queen Elizabeth I and the inventor/discoverer of the Enochian Keys (no clue what they are, though).
 
 ### Page 12-13
 

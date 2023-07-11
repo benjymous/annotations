@@ -10,7 +10,7 @@
 
 The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoid" from 1954.
 
-1: Cooking Considered as One of the Fine Arts
+### 1: _Cooking Considered as One of the Fine Arts_
 
 ### Page 1
 
@@ -18,11 +18,12 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 
   Note the ecologically-correct webbed shopping bag.
 
-- #### Panel 4 As theorized in #48 page 16, the Endless embody both their name and their opposite. Hence, Destruction includes creation, which explains his sculpture, painting, and cooking.
+- #### Panel 4
+  As theorized in #48 page 16, the Endless embody both their name and their opposite. Hence, Destruction includes creation, which explains his sculpture, painting, and cooking.
 
-Eleni Petrakou <tulpoeid@hotmail.com> tends to disagree:
+  Eleni Petrakou <tulpoeid@hotmail.com> tends to disagree:
 
-> I think the one with sculpture is a joke, since the work seems awful; it's rather like him trying to react to his own identity.
+  > I think the one with sculpture is a joke, since the work seems awful; it's rather like him trying to react to his own identity.
 
 ### Page 2
 
@@ -36,7 +37,7 @@ Eleni Petrakou <tulpoeid@hotmail.com> tends to disagree:
 
   Barnabas is a _real_ dog. Admittedly, he's a real _talking_ dog, but he's not a human in a dog's body the way Matthew is a human in a raven's body (the superficial characterization of #40 aside, Matthew still _acts_ human). Incidentally, chocolate is not particularly healthy for dogs; they have trouble digesting it and they, like the rest of the Carnivora, overreact to stimulants.
 
-2: "My Envelope Isn't Any Good Anymore"
+### 2: _"My Envelope Isn't Any Good Anymore"_
 
 ### Page 5
 
@@ -44,19 +45,19 @@ Eleni Petrakou <tulpoeid@hotmail.com> tends to disagree:
 
   Note the curlicues used for Del's eyes. The envelope is addressed to "Santa Claus/The North Pole".
 
-See Appendix for discussion on Santa Claus.
+  See Appendix for discussion on Santa Claus.
 
-3: Where All Mazes Meet
+### 3: _Where All Mazes Meet_
 
 ### Page 6
 
 - #### Panel 3-7
 
-This sequence is reminiscent of _The Chronicles of Amber_, by Roger Zelazny. In that book, the members of the royal family of the eternal city Amber are able to walk among the shadowy reflections of Amber, adding and subtracting bits of reality until they get to a reflection which matches their desired destination. Gaiman's description of Dream and Delirium's walk is very similar to Zelazny's description of shadow-manipulation.
+  This sequence is reminiscent of _The Chronicles of Amber_, by Roger Zelazny. In that book, the members of the royal family of the eternal city Amber are able to walk among the shadowy reflections of Amber, adding and subtracting bits of reality until they get to a reflection which matches their desired destination. Gaiman's description of Dream and Delirium's walk is very similar to Zelazny's description of shadow-manipulation.
 
-Note that the maze gradually changes from man-made to naturally grown.
+  Note that the maze gradually changes from man-made to naturally grown.
 
-4: The Other Side of the Coin
+### 4: _The Other Side of the Coin_
 
 Note that throughout this sequence, Dream stays on the path, Destiny stays off the path, and Delirium charts her own course.
 
@@ -76,7 +77,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 - #### Panel 2-5
 
-Note the white core to Del's balloons. In panel 4, Del's eyes should be the same color. (Del is repeating what she said in #21.)
+  Note the white core to Del's balloons. In panel 4, Del's eyes should be the same color. (Del is repeating what she said in #21.)
 
 ### Page 12
 
@@ -84,7 +85,7 @@ Note the white core to Del's balloons. In panel 4, Del's eyes should be the same
 
   Del's eyes should be the same color again.
 
-5: Life as a Glass of Bitter Wine
+### 5: _Life as a Glass of Bitter Wine_
 
 ### Page 13
 
@@ -106,7 +107,7 @@ Note the white core to Del's balloons. In panel 4, Del's eyes should be the same
 
   It seems probable that this is a depiction of a event; the color of Dream's clothing and hair is significant.
 
-6: Cherries Are Counted, and a Bargain Is Made
+### 6: _Cherries Are Counted, and a Bargain Is Made_
 
 ### Page 15
 
@@ -140,7 +141,7 @@ Note the white core to Del's balloons. In panel 4, Del's eyes should be the same
 
   This island, Destruction's refuge, was seen in #41.
 
-7: An Unlikely Growth
+### 7: _An Unlikely Growth_
 
 ### Page 24
 

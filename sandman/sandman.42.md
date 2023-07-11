@@ -6,7 +6,7 @@
 
 **Notes**: See #41.
 
-1: It Always Rains on the Unloved From "Peanuts", the comic strip written by Charles Schulz, as said by Charlie Brown, a karmically oppressed child.
+### 1: _It Always Rains on the Unloved From "Peanuts", the comic strip written by Charles Schulz, as said by Charlie Brown, a karmically oppressed child._
 
 ### Page 1
 
@@ -14,9 +14,9 @@
 
   We have not yet been told the identity of Dream's lover.
 
-We know that she has appeared before, that she is not one of his former lovers, that the relationship lasted a "handful of months", and that she is in the "waking world". I lean toward Thessaly, given the above and that Neil asked his GEnie forum if they were interested in seeing her again, about the time he was planning _Convergence_.
+  We know that she has appeared before, that she is not one of his former lovers, that the relationship lasted a "handful of months", and that she is in the "waking world". I lean toward Thessaly, given the above and that Neil asked his GEnie forum if they were interested in seeing her again, about the time he was planning _Convergence_.
 
-2: Wet Dreams
+### 2: _Wet Dreams_
 
 "Wet dreams" is a pun here; it actually refers to dreams that result in orgasm. There is a demented song by Kip Adotta called "Wet Dream", consisting mostly of fish puns.
 
@@ -46,7 +46,7 @@ We know that she has appeared before, that she is not one of his former lovers, 
 
   **Dead balloon**: The more usual phrase is "went over like a lead balloon".
 
-3: A Fishing Expedition
+### 3: _A Fishing Expedition_
 
 Source? "Fishing expedition" is the term used when detectives in detective fiction cause trouble because they don't have any questions to ask, i.e., they're fishing for clues.
 
@@ -68,7 +68,7 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
   Abel's song is a popular WW I shanty. Drop the stutter and the "mm hm er" bits and he's got the chorus correct.
 
-4: She Kisses Wyverns (The Disneyland Analogy)
+### 4: _She Kisses Wyverns (The Disneyland Analogy)_
 
 ### Page 11
 
@@ -86,7 +86,7 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
   Note that Delirium's clothing has changed. Her clothing changes at least once an issue.
 
-5: Dinner Etiquette and Chocolate Lovers
+### 5: _Dinner Etiquette and Chocolate Lovers_
 
 ### Page 13
 
@@ -94,9 +94,9 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
   Apparently, Neil meant for the servitor's name to be Taramis, not Tamaris. Lance Smith writes:
 
-> Taramis? Not Taranis? Or maybe Tarani? (Taranis is a Gaulish deity that the Romans likened to Jupiter, though it may have been a death goddess.
->
-> Tarani is Sanskrit for savior and is a title for the sun.)
+  > Taramis? Not Taranis? Or maybe Tarani? (Taranis is a Gaulish deity that the Romans likened to Jupiter, though it may have been a death goddess.
+  >
+  > Tarani is Sanskrit for savior and is a title for the sun.)
 
 ### Page 14
 
@@ -119,7 +119,7 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
   Note the "brief lives" reference, an example of a common motif. The phrase "copulating desperately" was also used in 5:18.3, in a scene with Mervyn Pumpkinhead.
 
-6: Desire Swears by the First Circle
+### 6: _Desire Swears by the First Circle_
 
 ### Page 19
 
@@ -135,7 +135,8 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
   **Gleet**: Inflammation of a bodily orifice or the discharge therefrom, as from a venereal disease.
 
-7: "Things Are Changing"
+### 7: _"Things Are Changing"_
+
 Possibly a reference to a Bob Dylan song.
 
 ### Page 20
@@ -144,7 +145,7 @@ Possibly a reference to a Bob Dylan song.
 
   We know from Sp1:5.4 that Delight had become Delirium by at least Greece's Heroic Age.
 
-8: What Can Possibly Go Wrong?
+### 8: _What Can Possibly Go Wrong?_
 
 A common statement by main characters, inevitably disastrously wrong.
 

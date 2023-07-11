@@ -28,7 +28,7 @@
 
   At the end of "The Season of Mists", Dream's old love Nada was reborn into the body of a boy in Hong Kong. This may be the same boy.
 
-The art style here is much more Japanese than Chinese.
+  The art style here is much more Japanese than Chinese.
 
 - #### Panel 5
 
