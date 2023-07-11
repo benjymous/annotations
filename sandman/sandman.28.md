@@ -22,23 +22,23 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 - #### Panel 2
 
-The central figure, the most humanoid of the demons, is probably Choronzon. The fish have a number of symbolic meanings in Christianity. Jesus and his followers were known as "fishers of men" (see Matthew 4:19), symbolizing human souls as fish; the fish was also a symbol of the early Christian church, and, by extension, of Jesus himself.
+  The central figure, the most humanoid of the demons, is probably Choronzon. The fish have a number of symbolic meanings in Christianity. Jesus and his followers were known as "fishers of men" (see Matthew 4:19), symbolizing human souls as fish; the fish was also a symbol of the early Christian church, and, by extension, of Jesus himself.
 
 - #### Panel 3
 
-We may have seen the big slug-like demon before.
+  We may have seen the big slug-like demon before.
 
 ### Page 2
 
 - #### Panel 3
 
-Note that Duma has no genitals, though he does have nipples. Does he have a navel? See below. That's the key to Hell lying on his stomach.
+  Note that Duma has no genitals, though he does have nipples. Does he have a navel? See below. That's the key to Hell lying on his stomach.
 
 ### Page 3
 
 - #### Panel 7
 
-Dream appears in his Kai'ckul guise for his dinner with Nada.
+  Dream appears in his Kai'ckul guise for his dinner with Nada.
 
 Note also the amazing appearing/disappearing candelabra, which may be seen in page 4 panels 3 and 4 and page 5 panel 3, but which is missing in this panel, page 4 panel 5, page 5 panel 5, page 7 panel 5 and page 8 panel 5.
 
@@ -46,7 +46,7 @@ Note also the amazing appearing/disappearing candelabra, which may be seen in pa
 
 - #### Panel 5
 
-**The Chinese characters mean**:
+  **The Chinese characters mean**:
 
 - lake (hu)
 - dragon (long) [albeit not very accurately written]
@@ -62,8 +62,8 @@ The birds are a crane and a raven, perhaps?
 
 - #### Panel 5
 
-Hint, boys'n'girls. This is NOT how to apologize to anyone.
-Dream, as we have long recognized, ain't terribly bright. Jim Lai speculates:
+  Hint, boys'n'girls. This is NOT how to apologize to anyone.
+  Dream, as we have long recognized, ain't terribly bright. Jim Lai speculates:
 
 > Of course Dream isn't good at expressing himself in words. He belongs to the preliterate era, the subconscious, which is seldom direct (except perhaps in action), preferring symbolic meaning.
 
@@ -73,23 +73,23 @@ We may also note that this panel has a different angle on the room; the room is 
 
 - #### Panel 2
 
-"Kissed it all better" sounds peculiarly modern, and idiomatic, for a queen of millennia-past Africa.
+  "Kissed it all better" sounds peculiarly modern, and idiomatic, for a queen of millennia-past Africa.
 
 - #### Panel 3
 
-**Oubliette**: "Forgotten-small", from French, meaning a hidden prison such as found in certain old castles, accessible only from above. Note that this contradicts the image of Nada's cell as seen in both _Sandman_ #4 and #23.
+  **Oubliette**: "Forgotten-small", from French, meaning a hidden prison such as found in certain old castles, accessible only from above. Note that this contradicts the image of Nada's cell as seen in both _Sandman_ #4 and #23.
 
 ### Page 7
 
 - #### Panel 5
 
-Another print, but of what? Probably a photostat. Is there a horse figure in the center?
+  Another print, but of what? Probably a photostat. Is there a horse figure in the center?
 
 ### Page 8
 
 - #### Panel 4
 
-This is the most definite statement that Dream could quit that I have seen, although we have seen strong indications that he could die or be removed. He would be replaced in any event by another incarnation of Dream.
+  This is the most definite statement that Dream could quit that I have seen, although we have seen strong indications that he could die or be removed. He would be replaced in any event by another incarnation of Dream.
 
 ### Page 9
 
@@ -99,45 +99,45 @@ These are drawn in the classical Japanese "Ukiyo-E" (or "Floating World") style.
 
 - #### Panel 6
 
-**Floating Bridge of Heaven**: Probably the rainbow, which Izanagi and Izanami stood on when they created the island Onogoro.
+  **Floating Bridge of Heaven**: Probably the rainbow, which Izanagi and Izanami stood on when they created the island Onogoro.
 
 ### Page 10
 
 - #### Panel 3
 
-The Floating Kingdom is probably the divine home on the island Onogoro.
+  The Floating Kingdom is probably the divine home on the island Onogoro.
 
 - #### Panel 7
 
-Loki, of course, has a long enmity with storm god Thor. We may note that he is the "fire-bringer" archetype in Norse myth, which explains his unusual coiffure.
+  Loki, of course, has a long enmity with storm god Thor. We may note that he is the "fire-bringer" archetype in Norse myth, which explains his unusual coiffure.
 
 ### Page 11
 
 - #### Panel 4
 
-Dream has never explicitly carried out his stated intention here. May we assume that he did it off panel?
+  Dream has never explicitly carried out his stated intention here. May we assume that he did it off panel?
 
 ### Page 12
 
 - #### Panel 2
 
-Cluracan is making reference to Egyptian hieroglyphics here, which are indeed pictographic in form.
+  Cluracan is making reference to Egyptian hieroglyphics here, which are indeed pictographic in form.
 
 - #### Panel 9
 
-**Unseely Court**: One of the courts of Faerie, based on Celtic myth, often written "Unseelie". This is the court of the dark fairies, with the Seelie Court being the court of the light fairies. There is some correspondence between dark and evil, and light and good, but it is not exact.
+  **Unseely Court**: One of the courts of Faerie, based on Celtic myth, often written "Unseelie". This is the court of the dark fairies, with the Seelie Court being the court of the light fairies. There is some correspondence between dark and evil, and light and good, but it is not exact.
 
 ### Page 14
 
 - #### Panel 1
 
-Why forbid the small glamour when it clearly provides relief to Nuala? All visitors to Dream's realm cloak themselves in small illusions of whatever sort, but those illusions are generally the product of their dreams. In any case, Dream has shown himself before to be autocratic in his own realm, and has put his dignity before the concerns of others. Nuala's glamour affords her control over her own image; Dream allows no one else control of any sort in his realm; compare the difficulty of "lucid dreaming". Additionally, the forbiddance will serve to remind Nuala that she is a servant, not a guest.
+  Why forbid the small glamour when it clearly provides relief to Nuala? All visitors to Dream's realm cloak themselves in small illusions of whatever sort, but those illusions are generally the product of their dreams. In any case, Dream has shown himself before to be autocratic in his own realm, and has put his dignity before the concerns of others. Nuala's glamour affords her control over her own image; Dream allows no one else control of any sort in his realm; compare the difficulty of "lucid dreaming". Additionally, the forbiddance will serve to remind Nuala that she is a servant, not a guest.
 
 ### Page 15
 
 - #### Panel 1
 
-The first choice would probably be to go on to Heaven or the equivalent afterlife--that "undiscover'd country from whose bourne no traveler returns", ignorance of which makes that choice harder.
+  The first choice would probably be to go on to Heaven or the equivalent afterlife--that "undiscover'd country from whose bourne no traveler returns", ignorance of which makes that choice harder.
 
 ### Page 16-17
 
@@ -147,11 +147,11 @@ Nada is being reincarnated (as a boy, as we see in page 16 panel 5). Is Dream pr
 
 - #### Panel 1
 
-This is our old friend, Lucifer, ex-ruler of Hell.
+  This is our old friend, Lucifer, ex-ruler of Hell.
 
 - #### Panel 3
 
-**Crack a tube**: Open a can of beer. "Sheila" is fairly uncouth slang for girl, roughly equivalent to Americans' "chick" or "babe".
+  **Crack a tube**: Open a can of beer. "Sheila" is fairly uncouth slang for girl, roughly equivalent to Americans' "chick" or "babe".
 
 Never-you-minds: rhyming slang for "behinds". Rhyming slang is a form of Australian (arising from Cockney) slang in which a word or phrase is replaced by a word or phrase which rhymes with it and whose literal meaning somehow resonates with the meaning of the replaced word or phrase. Thus, "trouble and strife" means "wife".
 
@@ -159,17 +159,17 @@ Never-you-minds: rhyming slang for "behinds". Rhyming slang is a form of Austral
 
 - #### Panel 3
 
-**Worse for wear**: Drunk.
+  **Worse for wear**: Drunk.
 
 - #### Panel 5
 
-** 'Strewth**: Long-time _Hellblazer_ readers recognize this as "God's truth", a minor expletive. The shortening occurred because of a general reluctance to use the word "God". Similar examples include the obsolete " 'sblood"; "geez", from Jesus; and "zounds", from "Christ's wounds" via " 'swounds".
+  ** 'Strewth**: Long-time _Hellblazer_ readers recognize this as "God's truth", a minor expletive. The shortening occurred because of a general reluctance to use the word "God". Similar examples include the obsolete " 'sblood"; "geez", from Jesus; and "zounds", from "Christ's wounds" via " 'swounds".
 
 ### Page 20
 
 - #### Panel 1
 
-**Pom**: slang meaning British. Of uncertain origin, with many proposed acronymic histories, from "Prisoner of Mother England" (Australia's colonization was originally for the purposes of serving as a penal colony; English newcomers would therefore be "pommies"). It may also somehow arise from "pomegranate". Folk etymologies are notoriously unreliable, however. The short version of the OED labels the etymology unknown.
+  **Pom**: slang meaning British. Of uncertain origin, with many proposed acronymic histories, from "Prisoner of Mother England" (Australia's colonization was originally for the purposes of serving as a penal colony; English newcomers would therefore be "pommies"). It may also somehow arise from "pomegranate". Folk etymologies are notoriously unreliable, however. The short version of the OED labels the etymology unknown.
 
 Why, though, is Lucifer identifiably British? Probably he has a British accent, but why? (Note that his teeth in panel 4 seem to be quite white and straight, indications that he's not a victim of the British orthodontal industry (or lack thereof), although he might have a nasty overbite in panel 3. Smilies where appropriate :-) Obviously, Lucifer is a pog (Prisoner of God); Australia was Britain's Hell.
 
@@ -181,11 +181,11 @@ Lucifer's talking to the Creator, here.
 
 - #### Panel 3
 
-Remiel refers to the perfection of the name of God. Note that Duma does appear to have a navel.
+  Remiel refers to the perfection of the name of God. Note that Duma does appear to have a navel.
 
 - #### Panel 4
 
-Remiel seems to be indicating an unexpected affection for Duma.
+  Remiel seems to be indicating an unexpected affection for Duma.
 
 ### Page 23
 
@@ -193,15 +193,15 @@ One is tempted to say "the Road to Hell is paved with good intentions" in respon
 
 - #### Panel 2
 
-This hearkens back to part one of the tale, where Hell is introduced as a place that couldn't get any worse. It's an ironic contrast.
+  This hearkens back to part one of the tale, where Hell is introduced as a place that couldn't get any worse. It's an ironic contrast.
 
 - #### Panel 5
 
-"All is for the best, in this best of all possible worlds" is a theme made vicious and repeated fun of in Voltaire's magnificent and successful satire, _Candide_.
+  "All is for the best, in this best of all possible worlds" is a theme made vicious and repeated fun of in Voltaire's magnificent and successful satire, _Candide_.
 
 - #### Panel 6
 
-**Irony**: Nothing can end happily, in Hell. The demon shown here was also seen in the beginning of this tale, as hard at work then as now.
+  **Irony**: Nothing can end happily, in Hell. The demon shown here was also seen in the beginning of this tale, as hard at work then as now.
 
 ### Page 24
 
@@ -213,7 +213,7 @@ Is Destiny deliberately walking along a joint in the stone floor of his garden?
 
 - #### Panel 4
 
-We saw this book shelved in Lucien's library in _Sandman_ #22. Others more familiar with Chesterton than I have said that the quote is typically Chestertonian, although it does not seem to be closer to the corresponding work, _The Man Who Was Thursday_, than it does to the rest of the Chesterton oeuvre.
+  We saw this book shelved in Lucien's library in _Sandman_ #22. Others more familiar with Chesterton than I have said that the quote is typically Chestertonian, although it does not seem to be closer to the corresponding work, _The Man Who Was Thursday_, than it does to the rest of the Chesterton oeuvre.
 
 ## Credits
 

@@ -12,7 +12,7 @@
 
 - #### Panel 2
 
-The saber-toothed tiger (genus Smilodon) is not, taxonomically speaking, a tiger, or even a feline.
+  The saber-toothed tiger (genus Smilodon) is not, taxonomically speaking, a tiger, or even a feline.
 
 "Echo-Atlantises" may be intended to refer to the Atlantises of Aquaman and Arion, two other DC comics. In the former, set in the present day, Atlantis comprises two sunken cities inhabited by amphibious humans.
 
@@ -20,7 +20,7 @@ In the latter, the title character rules as the last mage-king of a dying Atlant
 
 - #### Panel 3
 
-The "great lizards" are dinosaurs; "dinosaur" comes from Greek roots meaning "terrible lizard". Pictured is a dinosaur with a collar.
+  The "great lizards" are dinosaurs; "dinosaur" comes from Greek roots meaning "terrible lizard". Pictured is a dinosaur with a collar.
 
 The dinosaur used could be any one of a large lineage of carnivorous, bipedal dinosaurs, including the famed Tyrannosaurus rex.
 
@@ -30,20 +30,20 @@ The dinosaur used could be any one of a large lineage of carnivorous, bipedal di
 
 - #### Panel 1
 
-**Capax**: From Latin, meaning "capable; able to take or receive; able to understanding; able to deal with or endure".
+  **Capax**: From Latin, meaning "capable; able to take or receive; able to understanding; able to deal with or endure".
 
 - #### Panel 2
 
-**Marquis de Sade**: Donatien Alphonse Francois, Comte de Sade (1740-1814), a French soldier turned novelist, infamous for the unusual sex acts described within his works. De Sade is eponymous for the psychological term "sadism".
+  **Marquis de Sade**: Donatien Alphonse Francois, Comte de Sade (1740-1814), a French soldier turned novelist, infamous for the unusual sex acts described within his works. De Sade is eponymous for the psychological term "sadism".
 
 - #### Panel 3
 
-Note the ads on the newsstand. "Post no bills" is an old phrase, meaning, roughly, "this ain't no damn bulletin board so put your fuckin' yard sale notice someplace else, asshole" (the New York translation).
+  Note the ads on the newsstand. "Post no bills" is an old phrase, meaning, roughly, "this ain't no damn bulletin board so put your fuckin' yard sale notice someplace else, asshole" (the New York translation).
 
 - #### Panel 4
 
-**Freud**: Sigmund Freud (1856-1939), founder of modern
-psychoanalysis.
+  **Freud**: Sigmund Freud (1856-1939), founder of modern
+  psychoanalysis.
 
 Note another "Post no bills" notice, and the "lost cat" poster.
 
@@ -51,7 +51,7 @@ Note another "Post no bills" notice, and the "lost cat" poster.
 
 - #### Panel 5
 
-**Mammoths**: Large elephantine creatures that thrived during the last Ice Age ("that interminable winter"). Now extinct.
+  **Mammoths**: Large elephantine creatures that thrived during the last Ice Age ("that interminable winter"). Now extinct.
 
 Note the "Sweeney Todd" poster: "Sweeney Todd" is a project Gaiman is doing with Michael Zulli. Note also the "Cats" poster, with the legend "still here". "Cats" is a long-running Broadway musical. The poster below and to the left of the "Cats" poster may be for "Jesus Christ Superstar", another long-running Broadway musical. The inclusion of these two plays is also not coincidental.
 
@@ -65,13 +65,13 @@ Note that the "still here" legend on the "Cats" poster is still visible.
 
 - #### Panel 1
 
-Note that the "still here" legend is now obscured.
+  Note that the "still here" legend is now obscured.
 
 ### Page 5
 
 - #### Panel 2
 
-Look, a theme!
+  Look, a theme!
 
 3: Who Controls Transportation?
 
@@ -79,11 +79,11 @@ Look, a theme!
 
 - #### Panel 2
 
-**Aisleen**: related to Aileen (Irish "Helen", "light") or Aisling (pronounced "Ashling", the Irish word for "dream", also a class of poetry featuring a dream vision representing Ireland).
+  **Aisleen**: related to Aileen (Irish "Helen", "light") or Aisling (pronounced "Ashling", the Irish word for "dream", also a class of poetry featuring a dream vision representing Ireland).
 
 - #### Panel 5
 
-Delirium is reading NATIONAL GEOGRAPHIC upside-down.
+  Delirium is reading NATIONAL GEOGRAPHIC upside-down.
 
 5: Truth or Consequences, and Other Places
 "Truth or Consequences" is a town in New Mexico.
@@ -92,7 +92,7 @@ Delirium is reading NATIONAL GEOGRAPHIC upside-down.
 
 - #### Panel 8
 
-**Body and Blood**: An oath referring to the Christian mass, an unusual choice for someone who was in ancient Babylon, but he keeps up with the times.
+  **Body and Blood**: An oath referring to the Christian mass, an unusual choice for someone who was in ancient Babylon, but he keeps up with the times.
 
 4: Bored, She Makes Little Frogs
 
@@ -100,7 +100,7 @@ Delirium is reading NATIONAL GEOGRAPHIC upside-down.
 
 - #### Panel 6
 
-Note that Del has changed clothes and hair, as she often does between issues. "The lawyer" was Capax; the others will soon appear.
+  Note that Del has changed clothes and hair, as she often does between issues. "The lawyer" was Capax; the others will soon appear.
 
 6: Ancestral Voices Prophesying
 From Coleridge's "Xanadu".
@@ -109,17 +109,17 @@ From Coleridge's "Xanadu".
 
 - #### Panel 1
 
-**Etain of the Second Look**: Possibly the wife of Cuchulain, a figure of Irish myth. Her name translates as "Shining One", and in Celtic myth, she is roughly analogous to Persephone. In her somewhat strange and inconsistent legends, she is a summer maid and a moon goddess. One character central to her legends is Mirdir, a lord of the underworld who has a castle on the Isle of Man, where he is protected by three anti-social cranes. Etain would be welcome to seek refuge there. The "second look" may be the Second Sight, an ability to foresee the future. Etain is a self-portrait of Jill Thompson; her apartment is also Jill's.
+  **Etain of the Second Look**: Possibly the wife of Cuchulain, a figure of Irish myth. Her name translates as "Shining One", and in Celtic myth, she is roughly analogous to Persephone. In her somewhat strange and inconsistent legends, she is a summer maid and a moon goddess. One character central to her legends is Mirdir, a lord of the underworld who has a castle on the Isle of Man, where he is protected by three anti-social cranes. Etain would be welcome to seek refuge there. The "second look" may be the Second Sight, an ability to foresee the future. Etain is a self-portrait of Jill Thompson; her apartment is also Jill's.
 
 ### Page 14
 
 - #### Panel 2
 
-**Coleridge**: A reference to the origin of the poem "Xanadu", explained elsewhere.
+  **Coleridge**: A reference to the origin of the poem "Xanadu", explained elsewhere.
 
 - #### Panel 3
 
-Quotes from the poem.
+  Quotes from the poem.
 
 7: The Dogs of Art
 
@@ -129,12 +129,12 @@ A transformation of the poetic image "the dogs of war", from William Shakespeare
 
 - #### Panel 2
 
-This is the missing Endless, Destruction, as should be
-obvious from several of his remarks.
+  This is the missing Endless, Destruction, as should be
+  obvious from several of his remarks.
 
 - #### Panel 4
 
-**Barnabas**: An early Christian who abandoned his property to join the Apostles, journeying with Paul on some of his missionary work.
+  **Barnabas**: An early Christian who abandoned his property to join the Apostles, journeying with Paul on some of his missionary work.
 
 Clement of Alexandria attributed an anti-Jewish tract to him that was actually written much later. Barnabas is from Hebrew "son of exhortation".
 
@@ -142,7 +142,7 @@ Clement of Alexandria attributed an anti-Jewish tract to him that was actually w
 
 - #### Panel 2
 
-Note the sword in Destruction's gallery. Its presence here explains why it is not seen in any other gallery.
+  Note the sword in Destruction's gallery. Its presence here explains why it is not seen in any other gallery.
 
 8: "When I Dream, Sometimes I Remember How to Fly" See also the Vertigo Preview.
 
@@ -150,29 +150,29 @@ Note the sword in Destruction's gallery. Its presence here explains why it is no
 
 - #### Panel 2
 
-**Aeroplane**: an archaic or British spelling of "airplane".
+  **Aeroplane**: an archaic or British spelling of "airplane".
 
 ### Page 21
 
 - #### Panel 5
 
-The little girl is deliberately drawn to resemble John Tenniel's original illustrations of the title character of _Alice's Adventures in Wonderland_.
+  The little girl is deliberately drawn to resemble John Tenniel's original illustrations of the title character of _Alice's Adventures in Wonderland_.
 
 ### Page 23
 
 - #### Panel 3
 
-Dream is his office, and he collects titles, but perhaps he does not have a name as such.
+  Dream is his office, and he collects titles, but perhaps he does not have a name as such.
 
 ### Page 24
 
 - #### Panel 3
 
-The car is identifiably a Morgan, a classy old British car. Note that a certain number of Morgans were manufactured for export to countries with normal driving laws, thus the left-side steering wheels.
+  The car is identifiably a Morgan, a classy old British car. Note that a certain number of Morgans were manufactured for export to countries with normal driving laws, thus the left-side steering wheels.
 
 - #### Panel 6
 
-Change is also an important theme of Brief Lives; we see that Del and Dream are changing. Change is an aspect of Destruction's realm.
+  Change is also an important theme of Brief Lives; we see that Del and Dream are changing. Change is an aspect of Destruction's realm.
 
 ## Credits
 

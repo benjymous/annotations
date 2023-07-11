@@ -23,35 +23,35 @@ The participants and action of this scene will become clearer later in this issu
 
 - #### Panel 4
 
-Lycius is a real historical figure. See Suetonius, _Augustus_, 43.3. "Avgvst": In Roman writing, the letters "u" and "v" had not differentiated, and were written with the same symbol. The sounds themselves were not as distinct, /v/ being a bilabial liquid (semi-vowel) akin to /w/.
+  Lycius is a real historical figure. See Suetonius, _Augustus_, 43.3. "Avgvst": In Roman writing, the letters "u" and "v" had not differentiated, and were written with the same symbol. The sounds themselves were not as distinct, /v/ being a bilabial liquid (semi-vowel) akin to /w/.
 
 ### Page 2
 
 - #### Panel 1
 
-The Roman Senate could vote anyone the status of divinity, and did so for Julius and Augustus Caesar, Augustus' wife Livia, and others, although not for all emperors. Note the design on the guard's shield: an eagle on a field of broken arrows, I believe; is this the coat of arms of Imperial Rome?
+  The Roman Senate could vote anyone the status of divinity, and did so for Julius and Augustus Caesar, Augustus' wife Livia, and others, although not for all emperors. Note the design on the guard's shield: an eagle on a field of broken arrows, I believe; is this the coat of arms of Imperial Rome?
 
 - #### Panel 2
 
-This is indeed the full name of the Emperor Augustus (who was named after his famous uncle, Caius Julius Caesar). I cannot be definitive about the design on the medallion that allows Lycius into the palace; it appears to be some sort of mythical beast. It bears some resemblance to the wolf nursing Romulus and Remus (the mythical founders of Rome).
+  This is indeed the full name of the Emperor Augustus (who was named after his famous uncle, Caius Julius Caesar). I cannot be definitive about the design on the medallion that allows Lycius into the palace; it appears to be some sort of mythical beast. It bears some resemblance to the wolf nursing Romulus and Remus (the mythical founders of Rome).
 
 - #### Panel 4
 
-**Livia**: Augustus' second wife, and the mother of his stepson Tiberius, who would become emperor. Livia's influence upon the political life of Rome was significant.
+  **Livia**: Augustus' second wife, and the mother of his stepson Tiberius, who would become emperor. Livia's influence upon the political life of Rome was significant.
 
 ### Page 3
 
 - #### Panel 1
 
-This is the Emperor Augustus, born 63 BC, became emperor 27 BC, died 14 AD. The name (title, really) Augustus means something like "majestic" or "sacred", from a Latin word meaning "to increase". The English word "august" comes directly from the name, as does the month of August. Subsequent Roman emperors took the title Augustus upon their ascension to imperial rank.
+  This is the Emperor Augustus, born 63 BC, became emperor 27 BC, died 14 AD. The name (title, really) Augustus means something like "majestic" or "sacred", from a Latin word meaning "to increase". The English word "august" comes directly from the name, as does the month of August. Subsequent Roman emperors took the title Augustus upon their ascension to imperial rank.
 
 - #### Panel 4
 
-Note that Augustus chooses a name that was probably his childhood name.
+  Note that Augustus chooses a name that was probably his childhood name.
 
 - #### Panel 5
 
-With the inclusion of bones, the soap is going to contain calcium hydroxide as well as sodium hydroxide. I think.
+  With the inclusion of bones, the soap is going to contain calcium hydroxide as well as sodium hydroxide. I think.
 
 ### Page 4
 
@@ -65,55 +65,55 @@ Balsamic and red wine vinegar are red. White wine and grain vinegars are clear; 
 
 - #### Panel 1
 
-Mars was the Roman war god, analogous to Greek Ares. The temple of Mars Ultor (Avenging Mars) has ruins still existing in the Roman forum of Augustus, and is pictured on coins, but the drawing does not appear to have been modeled after the historical data.
+  Mars was the Roman war god, analogous to Greek Ares. The temple of Mars Ultor (Avenging Mars) has ruins still existing in the Roman forum of Augustus, and is pictured on coins, but the drawing does not appear to have been modeled after the historical data.
 
 - #### Panel 2
 
-This dates the story at c. 5 AD, rather late in Augustus' career; the general policies of his reign (which stem from revelations later in this issue) would almost certainly have been formed by this time.
+  This dates the story at c. 5 AD, rather late in Augustus' career; the general policies of his reign (which stem from revelations later in this issue) would almost certainly have been formed by this time.
 
 - #### Panel 3
 
-Augustus' line is taken from the adage "Augustus found Rome in brick and left is in marble", which may be found in both Suetonius and Graves' _I Claudius_.
+  Augustus' line is taken from the adage "Augustus found Rome in brick and left is in marble", which may be found in both Suetonius and Graves' _I Claudius_.
 
 - #### Panel 5
 
-**Vomitorium**: The word orgy comes from the Roman practice of having enormous parties where guests would eat delicacies until they were stuffed. They would go to the aptly named vomitorium and induce vomiting, then go back and continue eating. The sexual definition of "orgy" comes in later periods as the parties expand to include debauchery as well as gluttony.
+  **Vomitorium**: The word orgy comes from the Roman practice of having enormous parties where guests would eat delicacies until they were stuffed. They would go to the aptly named vomitorium and induce vomiting, then go back and continue eating. The sexual definition of "orgy" comes in later periods as the parties expand to include debauchery as well as gluttony.
 
 ### Page 6
 
 - #### Panel 1
 
-This is an ancient trick still practiced today by street beggars, bartenders, and lounge musicians alike.
+  This is an ancient trick still practiced today by street beggars, bartenders, and lounge musicians alike.
 
 - #### Panel 2
 
-I do not know the history of Augustus' ban.
+  I do not know the history of Augustus' ban.
 
 - #### Panel 3
 
-Lycius is of noble birth, an Equestrian rather than a Senator. He was reputedly only two feet tall, extremely light but with a Stentorian voice.
+  Lycius is of noble birth, an Equestrian rather than a Senator. He was reputedly only two feet tall, extremely light but with a Stentorian voice.
 
 - #### Panel 4
 
-**Pylades**: a pantomime dancer, banished on one occasion by Augustus but later restored. Pylades was also the name of the cousin and proverbial loyal friend of Orestes (from Aeschylus).
+  **Pylades**: a pantomime dancer, banished on one occasion by Augustus but later restored. Pylades was also the name of the cousin and proverbial loyal friend of Orestes (from Aeschylus).
 
 ### Page 7
 
 - #### Panel 3
 
-We have seen the Gates of Horn and Ivory in _Sandman_ #2, et al., where they were described as Augustus gives here. They may be seen in Virgil's Aeneid Book 6.
+  We have seen the Gates of Horn and Ivory in _Sandman_ #2, et al., where they were described as Augustus gives here. They may be seen in Virgil's Aeneid Book 6.
 
 - #### Panel 4
 
-Plutarch, _Brutus_, 36, speaks of a phantom who appeared and told Brutus they [sic--probably Brutus and Augustus] would meet at Philippi.
+  Plutarch, _Brutus_, 36, speaks of a phantom who appeared and told Brutus they [sic--probably Brutus and Augustus] would meet at Philippi.
 
 - #### Panel 5
 
-Plautus was a playwright of the second century B.C. _Menaechmus_ (also known as _Menaechmi_) is a comedy by Plautus about a mixed-up set of twins. This was one of the major inspirations for William Shakespeare's magnificent _The Comedy of Errors_ (OK, I saw the Flying Karamazov Brothers version, which wasn't pure Shakespeare, but it was still great). The musical _A Funny Thing Happened on the Way to the Forum_ (made into a movie with the incomparable Zero Mostel) is based on several other of Plautus' works. Lycius' dream is perfectly transparent wish-fulfillment.
+  Plautus was a playwright of the second century B.C. _Menaechmus_ (also known as _Menaechmi_) is a comedy by Plautus about a mixed-up set of twins. This was one of the major inspirations for William Shakespeare's magnificent _The Comedy of Errors_ (OK, I saw the Flying Karamazov Brothers version, which wasn't pure Shakespeare, but it was still great). The musical _A Funny Thing Happened on the Way to the Forum_ (made into a movie with the incomparable Zero Mostel) is based on several other of Plautus' works. Lycius' dream is perfectly transparent wish-fulfillment.
 
 - #### Panel 6
 
-Augustus' recounting of his ancestry is, unsurprisingly, correct.
+  Augustus' recounting of his ancestry is, unsurprisingly, correct.
 
 ### Page 8
 
@@ -123,13 +123,13 @@ It should now be clear that the boy of the grey flashbacks is Augustus; the uncl
 
 - #### Panel 6
 
-Livia, whom Augustus adored, sought to assure her children's future power, and engaged in deceitful machinations against Augustus' children, including Julia. For details, see the Appendix or Sue., _Aug._ 66.
+  Livia, whom Augustus adored, sought to assure her children's future power, and engaged in deceitful machinations against Augustus' children, including Julia. For details, see the Appendix or Sue., _Aug._ 66.
 
 ### Page 9
 
 - #### Panel 1
 
-Marcus was a common Roman name, so this may simply be an "everyman" character rather than someone we should recognize.
+  Marcus was a common Roman name, so this may simply be an "everyman" character rather than someone we should recognize.
 
 - #### Panel 3-4
 
@@ -137,86 +137,86 @@ The mysteries of Eleusis were originally a Greek tradition, in nature somewhat b
 
 - #### Panel 5
 
-Terminus is not normally reckoned more powerful than Jupiter, but his altar stone could not be moved, not for lack of trying, to build the temple of Jupiter Optimus Maximus, remaining in the temple, and in a sense forcing Jupiter to bow to Terminus. The festival of Terminalia, celebrated in February, is dedicated to Terminus.
+  Terminus is not normally reckoned more powerful than Jupiter, but his altar stone could not be moved, not for lack of trying, to build the temple of Jupiter Optimus Maximus, remaining in the temple, and in a sense forcing Jupiter to bow to Terminus. The festival of Terminalia, celebrated in February, is dedicated to Terminus.
 
 - #### Panel 6
 
-Nor were the Seven (Endless) ever mentioned anywhere prior to _Sandman_ #1, of course. [Good heavens! A retcon! Shoot the sacrilegious cur who wrote this! :-]
+  Nor were the Seven (Endless) ever mentioned anywhere prior to _Sandman_ #1, of course. [Good heavens! A retcon! Shoot the sacrilegious cur who wrote this! :-]
 
 - #### Panel 7
 
-The coin, I think, bears Augustus' likeness. Can anyone verifiy the legends of Augustus' divine origins? [Julius?] Caesar claimed descent from Venus, and built a temple to Venus Genetrix ("originatrix"). Augustus was divine Julius' adopted son, an additional route to divinity.
+  The coin, I think, bears Augustus' likeness. Can anyone verifiy the legends of Augustus' divine origins? [Julius?] Caesar claimed descent from Venus, and built a temple to Venus Genetrix ("originatrix"). Augustus was divine Julius' adopted son, an additional route to divinity.
 
 ### Page 10
 
 - #### Panel 1
 
-Mercury is the Roman god analogous to Hermes of the Greeks.
-He is the patron of thieves, medicine, and heralds. Apollo is equivalent to his Greek namesake, the god of the sun, poetry, and the arts.
+  Mercury is the Roman god analogous to Hermes of the Greeks.
+  He is the patron of thieves, medicine, and heralds. Apollo is equivalent to his Greek namesake, the god of the sun, poetry, and the arts.
 
 - #### Panel 5
 
-**Gaul**: Pre-Carolingian name for France. The "stormy coasts" would be the coast along the North Sea (I think) and the English Channel. The Dead Sea, in the desert of Judea, is a salt lake with a strong and unpleasant odor. Also, the soldiers stationed in Judea hated it, thought the inhabitants were barbarians and stunk on top of that.
+  **Gaul**: Pre-Carolingian name for France. The "stormy coasts" would be the coast along the North Sea (I think) and the English Channel. The Dead Sea, in the desert of Judea, is a salt lake with a strong and unpleasant odor. Also, the soldiers stationed in Judea hated it, thought the inhabitants were barbarians and stunk on top of that.
 
 - #### Panel 6
 
-**Corn**: What Americans call "corn" is one specific grain, originally native to the Americas. In Pre-Columbian English, though, "corn" meant any grain, particularly the most important local grain, usually wheat, and retains some portion of that meaning in British English today. It is used in that sense here.
+  **Corn**: What Americans call "corn" is one specific grain, originally native to the Americas. In Pre-Columbian English, though, "corn" meant any grain, particularly the most important local grain, usually wheat, and retains some portion of that meaning in British English today. It is used in that sense here.
 
 ### Page 11
 
 - #### Panel 3
 
-**Brass men**: The great bronze colossus Talos of Crete, created by Hephaestus (Daedalus in some accounts) and given by Zeus to Minos to guard Crete, with a cork in his ankle holding in his motive fluid. Dragon's teeth: Cadmus (and others) sowed dragon's teeth, from which arose armed soldiers. This is said to be a metaphor for alphabetic writing, invaluable in organizing large armies.
+  **Brass men**: The great bronze colossus Talos of Crete, created by Hephaestus (Daedalus in some accounts) and given by Zeus to Minos to guard Crete, with a cork in his ankle holding in his motive fluid. Dragon's teeth: Cadmus (and others) sowed dragon's teeth, from which arose armed soldiers. This is said to be a metaphor for alphabetic writing, invaluable in organizing large armies.
 
 - #### Panel 5
 
-Julius Caesar invaded the British Islands, so the Britons were not unknown to the Romans. Julius invaded in three successive years in the fifty-somethings BC, failing each time. Tiberius also tried and Claudius eventually conquered England, but not Scotland or Wales, which retain some significant measure of their independence even today, despite the difficulties this causes the English Parliament. They just don't do what they're told....
+  Julius Caesar invaded the British Islands, so the Britons were not unknown to the Romans. Julius invaded in three successive years in the fifty-somethings BC, failing each time. Tiberius also tried and Claudius eventually conquered England, but not Scotland or Wales, which retain some significant measure of their independence even today, despite the difficulties this causes the English Parliament. They just don't do what they're told....
 
 The phrase "Mad dogs and Englishmen stay out in the midday sun", I had thought, had originated in much more recent times, particularly the colonial period of India. Noel Coward, a quintessential Englishman, wrote a song with the name "Mad dogs and Englishmen..." and once posed for _Life_ magazine in full evening dress at noon in the Mojave desert. It's probably just an anachronistic joke of Gaiman's.
 
 - #### Panel 6
 
-**Copper As**: A coin, as is a sestercius (normally written sestertius) and a dupondius. "Clipping" in numismatics refers to the practice of shaving the edge of a coin to obtain some fraction of its precious metal in addition to its monetary value. The grooves on the edges of many modern coins (such as the American quarter) were originally used to prevent clipping, and are now merely obsolete ornamentation.
+  **Copper As**: A coin, as is a sestercius (normally written sestertius) and a dupondius. "Clipping" in numismatics refers to the practice of shaving the edge of a coin to obtain some fraction of its precious metal in addition to its monetary value. The grooves on the edges of many modern coins (such as the American quarter) were originally used to prevent clipping, and are now merely obsolete ornamentation.
 
 ### Page 12
 
 - #### Panel 2
 
-I do not know of the nature of Augustus' illness.
+  I do not know of the nature of Augustus' illness.
 
 - #### Panel 5
 
-Julius Caesar was assassinated by Brutus, Cassius, and a group of conspirators on the steps of the Roman Senate in 44 BC. The conspirators believed he was amassing too much personal power, and would make himself king (a specific term in Roman culture, effectively differing from dictator only in being hereditary). The events were made archetype by William Shakespeare in his play _Julius Caesar_.
+  Julius Caesar was assassinated by Brutus, Cassius, and a group of conspirators on the steps of the Roman Senate in 44 BC. The conspirators believed he was amassing too much personal power, and would make himself king (a specific term in Roman culture, effectively differing from dictator only in being hereditary). The events were made archetype by William Shakespeare in his play _Julius Caesar_.
 
 ### Page 13
 
 - #### Panel 1
 
-Cicero was a great speaker and writer, and a contemporary of Caesar. Note the slaves in the background.
+  Cicero was a great speaker and writer, and a contemporary of Caesar. Note the slaves in the background.
 
 - #### Panel 3
 
-"Augustus" and "augur" both eventually come from "augere", which originally meant "to increase", though little trace of this meaning lingers in its daughters.
+  "Augustus" and "augur" both eventually come from "augere", which originally meant "to increase", though little trace of this meaning lingers in its daughters.
 
 - #### Panel 4
 
-Augustus indeed named the month after himself, much as Julius Caesar named July after himself. Sextilus (usually written "Sextilis") essentially means "sixth month"; the old Roman calendar began in March, about the time of the spring equinox. Tiberius was Augustus' stepson, and succeeded him as emperor. Augustus' statement is extremely ironic; August will change but the empire lives on. Tiberius and his successors did stick their own names in place of Augustus' but it didn't stick.
+  Augustus indeed named the month after himself, much as Julius Caesar named July after himself. Sextilus (usually written "Sextilis") essentially means "sixth month"; the old Roman calendar began in March, about the time of the spring equinox. Tiberius was Augustus' stepson, and succeeded him as emperor. Augustus' statement is extremely ironic; August will change but the empire lives on. Tiberius and his successors did stick their own names in place of Augustus' but it didn't stick.
 
 ### Page 14
 
 - #### Panel 2
 
-I believe western civilization has trained most of us to think that "Emperors" are higher ranking than "Kings" (viz., the British _Empire_ versus the King of England); however, the words had much more specific meanings when they were young. "Emperor" comes from "imperator", "commander", a military title of the Republic achieving royal status only with Augustus. Kings would have been higher, because the rank was hereditary. The Senate gave Augustus every possible incentive to remain in charge when he showed signs of wanted to revive the Republic.
+  I believe western civilization has trained most of us to think that "Emperors" are higher ranking than "Kings" (viz., the British _Empire_ versus the King of England); however, the words had much more specific meanings when they were young. "Emperor" comes from "imperator", "commander", a military title of the Republic achieving royal status only with Augustus. Kings would have been higher, because the rank was hereditary. The Senate gave Augustus every possible incentive to remain in charge when he showed signs of wanted to revive the Republic.
 
 ### Page 15
 
 - #### Panel 3
 
-Like their predecessors, the Greeks, the Romans had a plethora of deities for every occasion, Fortuna being the goddess of luck, eventually lending her name to the English word "fortune".
+  Like their predecessors, the Greeks, the Romans had a plethora of deities for every occasion, Fortuna being the goddess of luck, eventually lending her name to the English word "fortune".
 
 - #### Panel 4
 
-Marcus Lepidus was a member of the second triumvirate with Marc Antony and a young Octavian (Augustus). See Richard Weigel, _Lepidus: The Forgotten Triumvir_, Rutledge, October 1992.
+  Marcus Lepidus was a member of the second triumvirate with Marc Antony and a young Octavian (Augustus). See Richard Weigel, _Lepidus: The Forgotten Triumvir_, Rutledge, October 1992.
 
 - #### Panel 5-6
 
@@ -227,37 +227,37 @@ I have no refs for Roman prophecies, although Tanaqui hints:
 
 - #### Panel 7
 
-Beyond the sunset would be to the west, suggested that the golden ziggurats lie within the Mayan, Aztec, and Incan empires. Additionally, the diamond fields in southern Africa are the richest in the world, and the only place where they can be picked up, instead of mined.
+  Beyond the sunset would be to the west, suggested that the golden ziggurats lie within the Mayan, Aztec, and Incan empires. Additionally, the diamond fields in southern Africa are the richest in the world, and the only place where they can be picked up, instead of mined.
 
 - #### Panel 9
 
-Augustus picked the first prophecy, by inference. I think he picked it because Julius would have picked the second....
+  Augustus picked the first prophecy, by inference. I think he picked it because Julius would have picked the second....
 
 ### Page 18
 
 - #### Panel 3
 
-This would seem to contradict what we saw in _The Season of Mists_, which was full of old gods who had not died. We may note, however, that there are still people who follow the Egyptian and Norse pantheons, albeit not in any great numbers. The Graeco-Roman Mysteries do appear to lack for adherents and were missing from _Season_.
+  This would seem to contradict what we saw in _The Season of Mists_, which was full of old gods who had not died. We may note, however, that there are still people who follow the Egyptian and Norse pantheons, albeit not in any great numbers. The Graeco-Roman Mysteries do appear to lack for adherents and were missing from _Season_.
 
 ### Page 19
 
 - #### Panel 1
 
-**Aristeas of Marmora**: a dramatic poet and famous seer, the son of Pratinas. His named is usually spelled Aristias. He contended with Sophocles (the Greeks were big on theatrical competitions), writing two Satyric [sic] plays and three others, possibly tragedies, including one called _Orpheus_.
+  **Aristeas of Marmora**: a dramatic poet and famous seer, the son of Pratinas. His named is usually spelled Aristias. He contended with Sophocles (the Greeks were big on theatrical competitions), writing two Satyric [sic] plays and three others, possibly tragedies, including one called _Orpheus_.
 
 - #### Panel 3
 
-The Roman god of dreams was Morpheus, by which name Dream has often been known.
+  The Roman god of dreams was Morpheus, by which name Dream has often been known.
 
 - #### Panel 6
 
-I know of no myths about Terminus, so I have no information to give you about his motivations here.
+  I know of no myths about Terminus, so I have no information to give you about his motivations here.
 
 ### Page 23
 
 - #### Panel 4
 
-There is no historical evidence to support the assertion that Julius sodomized Augustus. A digression: The modern concept of homo/hetero sexuality is quite recent. Prior to this, in classical Greece and Rome for example, many individuals practiced intra-sex and inter-sex intercourse. The reasons they did this were cultural, as is the modern categorization of sexuality as having a preferred gender. Among males (who were culturally dominant), using another being of whatever gender as a receptacle for one's sperm was a symbol of power over that individual. Any pleasure derived from the act was almost incidental. Thus, Julius is in some sense exerting his dominance over Octavian even as he enjoys his orgasm. To digress further, among Spartans, a man was expected to take a young male lover, and to train him up in the ways of Spartan manhood, a sort of mentoring. So Julius may have been abusing Octavian, but he was not a pedophilic "sex fiend" as Americans think of such today.
+  There is no historical evidence to support the assertion that Julius sodomized Augustus. A digression: The modern concept of homo/hetero sexuality is quite recent. Prior to this, in classical Greece and Rome for example, many individuals practiced intra-sex and inter-sex intercourse. The reasons they did this were cultural, as is the modern categorization of sexuality as having a preferred gender. Among males (who were culturally dominant), using another being of whatever gender as a receptacle for one's sperm was a symbol of power over that individual. Any pleasure derived from the act was almost incidental. Thus, Julius is in some sense exerting his dominance over Octavian even as he enjoys his orgasm. To digress further, among Spartans, a man was expected to take a young male lover, and to train him up in the ways of Spartan manhood, a sort of mentoring. So Julius may have been abusing Octavian, but he was not a pedophilic "sex fiend" as Americans think of such today.
 
 We may also note that Julius might have been guilty even by his own culture's prejudices in "keeping Octavian close" and thus attempting to possess him.
 
@@ -267,11 +267,11 @@ We may also note that Julius might have been guilty even by his own culture's pr
 
 - #### Panel 2
 
-This indicates that Lycius was writing (presumably near his death) at c. 62 AD.
+  This indicates that Lycius was writing (presumably near his death) at c. 62 AD.
 
 - #### Panel 4
 
-Pictured in the background are Tiberius, Caligula, Claudius, and Nero. Tiberius, emperor, 14-37, was ruthless, but evil may be too strong a word; those interested are invited to read a book or something. Caligula, emperor, 37-41, was, or became, mad, though some scholars can support their claims that he was an effective ruler, and not necessarily guilty of many of the excesses attributed to him, and had only the quotient of megalomania one would expect to be caused by his having been raised as a favorite and indulged by all of Rome. He was slain by his guardsmen. Claudius, emperor, 41-54, had a speech defect and was the Jimmy Carter of the first century. Foolish is a harsh word indeed; Suetonius, in fact, characterizes him as an able administrator. Claudius's life (including the reigns of his predecessors) is chronicled in _I Claudius_, an historical novel by Robert Graves, made into a popular public television series (shown in America on "Masterpiece Theatre"), now available on videocassette. Under Graves' hand, Claudius is portrayed as an extremely intelligent man who emphasized his limp and stutter so as to appear harmless and be protected from the machinations of Livia. Nero, emperor, 54-68, was an emperor famed for his excesses, whose reign could be described as disastrous.
+  Pictured in the background are Tiberius, Caligula, Claudius, and Nero. Tiberius, emperor, 14-37, was ruthless, but evil may be too strong a word; those interested are invited to read a book or something. Caligula, emperor, 37-41, was, or became, mad, though some scholars can support their claims that he was an effective ruler, and not necessarily guilty of many of the excesses attributed to him, and had only the quotient of megalomania one would expect to be caused by his having been raised as a favorite and indulged by all of Rome. He was slain by his guardsmen. Claudius, emperor, 41-54, had a speech defect and was the Jimmy Carter of the first century. Foolish is a harsh word indeed; Suetonius, in fact, characterizes him as an able administrator. Claudius's life (including the reigns of his predecessors) is chronicled in _I Claudius_, an historical novel by Robert Graves, made into a popular public television series (shown in America on "Masterpiece Theatre"), now available on videocassette. Under Graves' hand, Claudius is portrayed as an extremely intelligent man who emphasized his limp and stutter so as to appear harmless and be protected from the machinations of Livia. Nero, emperor, 54-68, was an emperor famed for his excesses, whose reign could be described as disastrous.
 
 ## Credits
 

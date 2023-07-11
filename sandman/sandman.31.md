@@ -29,15 +29,15 @@ Other important themes touched on in this trilogy include responsibility in many
 
 - #### Panel 1
 
-This is Joshua Norton, of whom we will learn more shortly.
+  This is Joshua Norton, of whom we will learn more shortly.
 
 - #### Panel 3
 
-The bloated female figure on the bed is Despair, one of the seven Endless and the younger sister to Dream.
+  The bloated female figure on the bed is Despair, one of the seven Endless and the younger sister to Dream.
 
 - #### Panel 4
 
-The formal means by which the Endless make contact with each other is by the caller's standing in a gallery in its domain and using a symbol (sigil) of the one to be called. The ring with a hook is Despair's sigil. Dream's sigil has been seen in the past to be his helmet.
+  The formal means by which the Endless make contact with each other is by the caller's standing in a gallery in its domain and using a symbol (sigil) of the one to be called. The ring with a hook is Despair's sigil. Dream's sigil has been seen in the past to be his helmet.
 
 ### Page 2
 
@@ -51,11 +51,11 @@ In the credit box, Gaiman takes the title PJF, probably meaning Pre-Joycean Fell
 
 - #### Panel 4
 
-It is perhaps noteworthy that Despair is so certain that Desire and Delirium will cooperate with her.
+  It is perhaps noteworthy that Despair is so certain that Desire and Delirium will cooperate with her.
 
 - #### Panel 5
 
-The "brother" is the missing Endless, whose identity will be made clear in the _Sandman_ Special #1. An upcoming storyline will feature the search for the missing brother.
+  The "brother" is the missing Endless, whose identity will be made clear in the _Sandman_ Special #1. An upcoming storyline will feature the search for the missing brother.
 
 ### Page 4
 
@@ -63,19 +63,19 @@ Norton's background as given here seems to be correct.
 
 - #### Panel 2
 
-Norton and other wealthy businessman cornered the market on rice in San Francisco, expecting to make a huge profit through their monopoly. Their fortunes and hopes were dashed when a Japanese ship sailed into port, loaded with rice, shortly before they were to sell.
+  Norton and other wealthy businessman cornered the market on rice in San Francisco, expecting to make a huge profit through their monopoly. Their fortunes and hopes were dashed when a Japanese ship sailed into port, loaded with rice, shortly before they were to sell.
 
 ### Page 5
 
 - #### Panel 5
 
-The "oldest sister" is Death, of course. The map has some remarkable flaws. The modern map has borders between Nevada and Arizona, Missouri and Arkansas, Michigan's Upper Peninsula and Wisconsin, and Ohio and Kentucky. The missing border between Nevada and Arizona may be an accurate representations of the period's pre-statehood territorial boundaries, but borders had long since been set for the other cases, particularly Kentucky and Ohio, which dates back at least to 1792, and probably back to the earliest colonial days.
+  The "oldest sister" is Death, of course. The map has some remarkable flaws. The modern map has borders between Nevada and Arizona, Missouri and Arkansas, Michigan's Upper Peninsula and Wisconsin, and Ohio and Kentucky. The missing border between Nevada and Arizona may be an accurate representations of the period's pre-statehood territorial boundaries, but borders had long since been set for the other cases, particularly Kentucky and Ohio, which dates back at least to 1792, and probably back to the earliest colonial days.
 
 ### Page 6
 
 - #### Panel 5
 
-The [San Francisco] Daily Evening Bulletin was published between 8 Oct 1855 and 18 May 1895, becoming The Bulletin on 20 May 1895, continuing through to 19 Sept 1928, when it ceased publication. It was published every day except Sunday.
+  The [San Francisco] Daily Evening Bulletin was published between 8 Oct 1855 and 18 May 1895, becoming The Bulletin on 20 May 1895, continuing through to 19 Sept 1928, when it ceased publication. It was published every day except Sunday.
 
 ### Page 7
 
@@ -93,7 +93,7 @@ From the [Emperor Norton Webpage](http://www.zpub.com/sf/history/nort.html):
 
 - #### Panel 6
 
-In the mid-1800's, newspapers did not have to compete with television, and had also not undergone the homogenization that modern culture has seen. (This, of course, is demeaning to and not representative of the many fine alternative papers existing today; the point is that all newspapers were alternative, in some sense, long ago.) Accordingly, it is not surprising that a newspaper would publicize something as daft as Norton's proclamation; it was bound to get people's attention.
+  In the mid-1800's, newspapers did not have to compete with television, and had also not undergone the homogenization that modern culture has seen. (This, of course, is demeaning to and not representative of the many fine alternative papers existing today; the point is that all newspapers were alternative, in some sense, long ago.) Accordingly, it is not surprising that a newspaper would publicize something as daft as Norton's proclamation; it was bound to get people's attention.
 
 Incidentally, the figure shadowed against the wall in this panel is Norton himself, as made evident on the next page.
 
@@ -101,7 +101,7 @@ Incidentally, the figure shadowed against the wall in this panel is Norton himse
 
 - #### Panel 3
 
-Grown-up: An unusual concept to apply to the Endless.
+  Grown-up: An unusual concept to apply to the Endless.
 
 (BUT! : Death tells Dream that Delirium is "just a kid" in Brief Lives. Of course, this flies in the face of earlier descriptions of the Endless, most notably in The Season of Mists, where it is said "the Endless to not measure time like we do".)
 
@@ -109,13 +109,13 @@ Grown-up: An unusual concept to apply to the Endless.
 
 - #### Panel 1
 
-The second September. This is Samuel Langhorne Clemens (Nov 1835-1910, making him 28 at this time), who would one day become the foremost writer and humorist of his day under the pen name of Mark Twain. It has been verified that Twain was indeed working for a San Francisco newspaper during this period, having left Virginia City and arrived in San Francisco earlier in 1864; there is a book of collected essays from his work on this paper. He did not apparently write about the Emperor, however, nor is there any confirmation that he knew him.
+  The second September. This is Samuel Langhorne Clemens (Nov 1835-1910, making him 28 at this time), who would one day become the foremost writer and humorist of his day under the pen name of Mark Twain. It has been verified that Twain was indeed working for a San Francisco newspaper during this period, having left Virginia City and arrived in San Francisco earlier in 1864; there is a book of collected essays from his work on this paper. He did not apparently write about the Emperor, however, nor is there any confirmation that he knew him.
 
 My source has "Langhorn" as the proper spelling for Clemens' second name; however, common usage prefers the '-e' ending.
 
 - #### Panel 4
 
-Note the sign on the building; The Morning Call was the newspaper Clemens was working for.
+  Note the sign on the building; The Morning Call was the newspaper Clemens was working for.
 
 ### Page 10
 
@@ -127,7 +127,7 @@ The Golden Gate Bridge, between San Francisco and Sausalito, is the most famous 
 
 - #### Panel 1
 
-This is Delirium, the youngest Endless. Her multicolored hair and partially shaved scalp are significant anachronisms.
+  This is Delirium, the youngest Endless. Her multicolored hair and partially shaved scalp are significant anachronisms.
 
 - #### Panel 2-3
 
@@ -135,43 +135,43 @@ San Francisco had, and has, a large Chinese population; its "Chinatown" is anoth
 
 - #### Panel 5
 
-Clemens is recounting what will become one of his most famous stories, "The Celebrated Jumping Frog of Calaveras County". This is an anachronism, as Twain had not yet heard the story.
+  Clemens is recounting what will become one of his most famous stories, "The Celebrated Jumping Frog of Calaveras County". This is an anachronism, as Twain had not yet heard the story.
 
 Note that Delirium's word balloon is uncolored, no doubt an oversight.
 
 - #### Panel 6
 
-Note Delirium's uneasy relationship with Dream, to be expanded upon in later issues.
+  Note Delirium's uneasy relationship with Dream, to be expanded upon in later issues.
 
 ### Page 12
 
 - #### Panel 4
 
-Delirium has expressed the dislike of being laughed at before, in _Sandman_ #21 page 17 panel 5, and does so again in a later issue.
+  Delirium has expressed the dislike of being laughed at before, in _Sandman_ #21 page 17 panel 5, and does so again in a later issue.
 
 - #### Panel 5
 
-Note Delirium's creation.
+  Note Delirium's creation.
 
 ### Page 13
 
 - #### Panel 2
 
-I cannot confirm this Imperial decree. However, judging by his later character, Clemens would have been delighted with the appointment, and in any case, it was most apt in its description of the role Twain would play in American literature.
+  I cannot confirm this Imperial decree. However, judging by his later character, Clemens would have been delighted with the appointment, and in any case, it was most apt in its description of the role Twain would play in American literature.
 
 - #### Panel 4
 
-The frog is Delirium's creature.
+  The frog is Delirium's creature.
 
 ### Page 14
 
 - #### Panel 1
 
-The third September.
+  The third September.
 
 - #### Panel 2
 
-**Wuz**: of course, "was" and "wuz" are pronounced exactly alike. Believe it or not, there is actually a word in the language that describes the practice of using non-standard spelling to suggest dialect, even though the pronunciation suggested by the non-standard spelling is in fact the standard pronunciation, such as using "-in' " for "-ing". Unfortunately :-( I can't remember the word.... The practice works because the mental ear has been trained to "hear" non-standard spellings with non-standard pronunciation.
+  **Wuz**: of course, "was" and "wuz" are pronounced exactly alike. Believe it or not, there is actually a word in the language that describes the practice of using non-standard spelling to suggest dialect, even though the pronunciation suggested by the non-standard spelling is in fact the standard pronunciation, such as using "-in' " for "-ing". Unfortunately :-( I can't remember the word.... The practice works because the mental ear has been trained to "hear" non-standard spellings with non-standard pronunciation.
 
 - #### Panel 3-4
 
@@ -185,26 +185,26 @@ The Emperor issued his own money, and exchanged it for US currency. Most people 
 
 - #### Panel 1
 
-It would appear that Norton has a chamberlain, a Chinese named Ah How. No refs. His speech pattern is completely cliched: here he excessively praises Norton and denigrates himself; in the very next panel, he utters a paraphrasing of a proverb, possibly Confucian. Part of the training as an official of the Imperial Court was the study of Chinese literature and poetry. Phrasing advice in terms of metaphor and allegory was not uncommon. Here, the analogy was stated in an unusually direct manner, possibly for the benefit of Western-trained thinkers, who are not so used to dissecting oblique statements.
+  It would appear that Norton has a chamberlain, a Chinese named Ah How. No refs. His speech pattern is completely cliched: here he excessively praises Norton and denigrates himself; in the very next panel, he utters a paraphrasing of a proverb, possibly Confucian. Part of the training as an official of the Imperial Court was the study of Chinese literature and poetry. Phrasing advice in terms of metaphor and allegory was not uncommon. Here, the analogy was stated in an unusually direct manner, possibly for the benefit of Western-trained thinkers, who are not so used to dissecting oblique statements.
 
 - #### Panel 2
 
-**Tong wars**: Chinese crime organizations are known as tongs.
-There is a legend about an incident in Chinatown where two opposing Tongs were verging on open violence, when Norton walked along and simply told the people to leave in peace. And they did so, perhaps defeated by his presence.
+  **Tong wars**: Chinese crime organizations are known as tongs.
+  There is a legend about an incident in Chinatown where two opposing Tongs were verging on open violence, when Norton walked along and simply told the people to leave in peace. And they did so, perhaps defeated by his presence.
 
 - #### Panel 3
 
-Note Ah How's queue, the long ponytail. The custom of wearing the hair this way originated among the Manchu people. When the Manchu conquered the rest of China, ending the Han (or Ming--conflicting accounts) dynasty and beginning the Ching dynasty, the last imperial dynasty, they forced the conquered people to adopt the queue as a sign of submission. The order was by Dorgan, uncle of and regent for the first Ch'ing emperor Shun-Chih. Later, the queue became a symbol of Chinese culture.
+  Note Ah How's queue, the long ponytail. The custom of wearing the hair this way originated among the Manchu people. When the Manchu conquered the rest of China, ending the Han (or Ming--conflicting accounts) dynasty and beginning the Ching dynasty, the last imperial dynasty, they forced the conquered people to adopt the queue as a sign of submission. The order was by Dorgan, uncle of and regent for the first Ch'ing emperor Shun-Chih. Later, the queue became a symbol of Chinese culture.
 
 Opium is a narcotic derived from the poppy; heroin and morphine are both derived from opium. Opium was a vice brought from the Orient, and opium dens were a feature in many "Chinatowns" until about the turn of the century. The vice was forced upon the Chinese, as a result of the Opium Wars, with Britain, of 1840-1842. The vice persisted until 1907, as a means of balancing trade between the British Empire and China, as China did not particularly want foreign goods. Perhaps ironically, the Tongs today have ties with the opium trade; the Tongs originally were formed for the purpose of being pro-Imperial China.
 
 - #### Panel 4
 
-Ah How's speech in this panel reflects how ignorant white men thought all Chinese immigrants spoke, another cliche.
+  Ah How's speech in this panel reflects how ignorant white men thought all Chinese immigrants spoke, another cliche.
 
 - #### Panel 5
 
-As we shall see, the Cobweb Palace (for which I have seen no hard refs) is a place where reality and unreality touch. Neil Gaiman confirms that the Cobweb Palace is a real place; the most complete description is in Asbury's _Barbary Coast_.
+  As we shall see, the Cobweb Palace (for which I have seen no hard refs) is a place where reality and unreality touch. Neil Gaiman confirms that the Cobweb Palace is a real place; the most complete description is in Asbury's _Barbary Coast_.
 
 The Cobweb Palace is not a "Soft Place", as originally speculated, despite its fantastic elements. "Soft places" are large and indeterminate in location; the Cobweb Palace is neither.
 
@@ -214,21 +214,21 @@ A Cobweb Palace is featured in Akira Kurosawa's _Throne of Blood_, an adaptation
 
 - #### Panel 1
 
-The parrot is at least semi-intelligent.
+  The parrot is at least semi-intelligent.
 
 - #### Panel 3
 
-The Palace is full of cages. Is this symbolic of the trap laid for Norton? See also page 19 panel 2-3. The picture directly above the bar-keeper's head is similar to "Olympia" (Manet). It is, however, not an exact copy: the original "Olympia" has a negro maid standing behind her, whereas this one doesn't. I have know idea whether this is an anachronism.
+  The Palace is full of cages. Is this symbolic of the trap laid for Norton? See also page 19 panel 2-3. The picture directly above the bar-keeper's head is similar to "Olympia" (Manet). It is, however, not an exact copy: the original "Olympia" has a negro maid standing behind her, whereas this one doesn't. I have know idea whether this is an anachronism.
 
 - #### Panel 4
 
-A hock is any white Rhine wine, from a variety called Hochheimer. California's wine industry had not yet become important, although this could still be a local vintage; the Californian wine industry has evinced considerable disinterest in the geographical significance of wine names.
+  A hock is any white Rhine wine, from a variety called Hochheimer. California's wine industry had not yet become important, although this could still be a local vintage; the Californian wine industry has evinced considerable disinterest in the geographical significance of wine names.
 
 ### Page 17
 
 - #### Panel 1
 
-Gaiman says the King of Pain was a real person; I have no refs for him, save perhaps for the song "King of Pain" from the Police's album _Synchronicity_. Wolfsbane and aconite, as well as monkshood, are all names for the same plant. Aconite is an analgesic in small doses, and a poison in larger ones.
+  Gaiman says the King of Pain was a real person; I have no refs for him, save perhaps for the song "King of Pain" from the Police's album _Synchronicity_. Wolfsbane and aconite, as well as monkshood, are all names for the same plant. Aconite is an analgesic in small doses, and a poison in larger ones.
 
 ### Page 19
 
@@ -236,13 +236,13 @@ Pain seems to be a regular character in the Vertigo universe. In the recent seri
 
 - #### Panel 2
 
-The King of Pain told those who bought the liniment he sold outside the Pacific Clinical Infirmary that if they covered their bodies with the ointment as he did, they would need no clothes. He himself wore a bright red union suit, a heavy velour robe, a ostrich-feathered plug hat, and a heavy sword; he was probably the most ornate personage in the San Francisco of his time.
+  The King of Pain told those who bought the liniment he sold outside the Pacific Clinical Infirmary that if they covered their bodies with the ointment as he did, they would need no clothes. He himself wore a bright red union suit, a heavy velour robe, a ostrich-feathered plug hat, and a heavy sword; he was probably the most ornate personage in the San Francisco of his time.
 
 ### Page 19
 
 - #### Panel 2
 
-Another painting that is reminiscent of a real-life painting.
+  Another painting that is reminiscent of a real-life painting.
 
 Unfortunately, I can't remember which painting it is reminiscent of... (Again, I am uncertain whether the painting existed at this point in time.)
 
@@ -254,7 +254,7 @@ A wonderful bit of wisdom.
 
 - #### Panel 5
 
-The Kindly Ones are the Eumenides, or the Furies, an aspect of the three-in-one goddess, dedicated to revenge and punishment. This is aftershadowing; Desire's, ahem, _desire_ for revenge will later result in the storyline of _The Doll's House_.
+  The Kindly Ones are the Eumenides, or the Furies, an aspect of the three-in-one goddess, dedicated to revenge and punishment. This is aftershadowing; Desire's, ahem, _desire_ for revenge will later result in the storyline of _The Doll's House_.
 
 **"Get down and lick, Pain.**: Probably a reference to bootlicking; may also refer to the licking of wounds.
 
@@ -262,11 +262,11 @@ The Kindly Ones are the Eumenides, or the Furies, an aspect of the three-in-one 
 
 - #### Panel 1
 
-The January of the title.
+  The January of the title.
 
 - #### Panel 6
 
-Tom O'Bedlam: From "Bethelem", referring to a notorious insane asylum for men in England. The name means a madman. Mad Maudlin or Mary Maudlin is the female counterpart, from the asylum of "Mary Magdalene". There may be a character by this name in William Shakespeare's works.
+  Tom O'Bedlam: From "Bethelem", referring to a notorious insane asylum for men in England. The name means a madman. Mad Maudlin or Mary Maudlin is the female counterpart, from the asylum of "Mary Magdalene". There may be a character by this name in William Shakespeare's works.
 
 The modern usage of "bedlam" arises from Tom O'Bedlam. Tom O'Bedlam is also an old folk song, probably of English origin. Robert Silverberg, a noted SF author, recently wrong a novel of the same name, using lines from the song as chapter titles. "Filk" versions of the song are also known to exist.
 
@@ -288,13 +288,13 @@ Another, the chorus:
 
 - #### Panel 4
 
-The lesson is (see page 5 panel 3) is at least partly that dreams are not "nothing", and also partly that Dream is of a different class of being than Despair, the elder Endless instead of the younger. The younger are more fragile. Despair's slowness to learn may be due to the self-absorption of those in despair, isolating her from external reality.
+  The lesson is (see page 5 panel 3) is at least partly that dreams are not "nothing", and also partly that Dream is of a different class of being than Despair, the elder Endless instead of the younger. The younger are more fragile. Despair's slowness to learn may be due to the self-absorption of those in despair, isolating her from external reality.
 
 ### Page 24
 
 - #### Panel 1
 
-This is Death, again. No refs for the Hastings Society.
+  This is Death, again. No refs for the Hastings Society.
 
 - #### Panel 2-3
 
@@ -307,7 +307,7 @@ There may be a corresponding group of those who do only evil.
 
 - #### Panel 7
 
-See the appendix for obituaries of Joshua Norton.
+  See the appendix for obituaries of Joshua Norton.
 
 ## Credits
 

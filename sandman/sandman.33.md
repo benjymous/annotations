@@ -41,29 +41,29 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 - #### Panel 6
 
-Note that Hazel's appearance has "softened" greatly since the previous issue.
+  Note that Hazel's appearance has "softened" greatly since the previous issue.
 
 ### Page 2
 
 - #### Panel 1
 
-Note the checkerboard pattern along the top of Barbie's walls: yet another reference to a game/games.
+  Note the checkerboard pattern along the top of Barbie's walls: yet another reference to a game/games.
 
 ### Page 3
 
 - #### Panel 4
 
-Hazel works in a restaurant or something; we find out later that she's "a chef", which suggests something on a higher plane than McDonald's.
+  Hazel works in a restaurant or something; we find out later that she's "a chef", which suggests something on a higher plane than McDonald's.
 
 - #### Panel 9
 
-**Note for people who really should know better**: Hazel is wrong, and having sex while standing up is not an effective method of birth control. Odd that a lesbian, who lives in the bad parts of New York, doesn't know about proper contraception.
+  **Note for people who really should know better**: Hazel is wrong, and having sex while standing up is not an effective method of birth control. Odd that a lesbian, who lives in the bad parts of New York, doesn't know about proper contraception.
 
 ### Page 4
 
 - #### Panel 2
 
-Women who live together, or close to each other, often have synchronal menstrual periods, due to pheromones.
+  Women who live together, or close to each other, often have synchronal menstrual periods, due to pheromones.
 
 - #### Panel 5-7
 
@@ -79,23 +79,23 @@ _Sandman_ #37 has a short section in the letter column about this sequence; one 
 
 - #### Panel 2
 
-It looks to me like "dicks" got changed to "dorks", which is a pretty sad editorial change in a "mature readers" title. There is a lettering correction mark between the d and the o. Note that "dork" is, however, English slang for "penis", at about the same social level as "dick", so Gaiman may have slipped one past Karen again. (He replaced "shit" with "felching" in Books of Magic; "felching" is far more obscene than "shit", albeit more obscure.)
+  It looks to me like "dicks" got changed to "dorks", which is a pretty sad editorial change in a "mature readers" title. There is a lettering correction mark between the d and the o. Note that "dork" is, however, English slang for "penis", at about the same social level as "dick", so Gaiman may have slipped one past Karen again. (He replaced "shit" with "felching" in Books of Magic; "felching" is far more obscene than "shit", albeit more obscure.)
 
 ### Page 6
 
 - #### Panel 4
 
-Cotton wool in unspun cotton, roughly the same form as cotton balls, without being formed into balls. The "wool" does not refer to sheep's wool, but instead to the state of the fibers, much as in "steel wool". Note that "Wundawool" makes a reappearance in _Sandman_ #36, an additional clue to the parallel structure of chapters in the story. Why would anyone want to use "wool" that came in different flavours??? It's not like anyone would want to taste it, or anything. Perhaps Barbie's mind is wandering?
+  Cotton wool in unspun cotton, roughly the same form as cotton balls, without being formed into balls. The "wool" does not refer to sheep's wool, but instead to the state of the fibers, much as in "steel wool". Note that "Wundawool" makes a reappearance in _Sandman_ #36, an additional clue to the parallel structure of chapters in the story. Why would anyone want to use "wool" that came in different flavours??? It's not like anyone would want to taste it, or anything. Perhaps Barbie's mind is wandering?
 
 - #### Panel 6
 
-Barbie is slipping into the Dreaming for the first time in two years.
+  Barbie is slipping into the Dreaming for the first time in two years.
 
 ### Page 7
 
 - #### Panel 1
 
-Nuala was introduced in _Season of Mists_. She is an elf-maid given Dream by the rulers of Faerie.
+  Nuala was introduced in _Season of Mists_. She is an elf-maid given Dream by the rulers of Faerie.
 
 - #### Panel 2-5
 
@@ -107,7 +107,7 @@ The talk show host is David Letterman, who is noted for having a gap between his
 
 - #### Panel 5
 
-Another facet of the Game of Barbie.
+  Another facet of the Game of Barbie.
 
 ### Page 8
 
@@ -117,13 +117,13 @@ This sequence is said to be reminiscent of the wardrobe which transports the chi
 
 - #### Panel 2
 
-Raymond Chandler was a pioneer in the hard-boiled detective style, and _The Long Goodbye_ is one of his greater works. The maguffin is a question of identity, and the novel reflects on how identity affects relationships. One of the featured characters disguises himself, and encounters the protagonist, Philip Marlowe, in both guises. At one point, he says "An act is all there is. There isn't anything else. In here--[taps chest with lighter]--there isn't anything." Now compare this will George's actions on the next page.
+  Raymond Chandler was a pioneer in the hard-boiled detective style, and _The Long Goodbye_ is one of his greater works. The maguffin is a question of identity, and the novel reflects on how identity affects relationships. One of the featured characters disguises himself, and encounters the protagonist, Philip Marlowe, in both guises. At one point, he says "An act is all there is. There isn't anything else. In here--[taps chest with lighter]--there isn't anything." Now compare this will George's actions on the next page.
 
 The title of _The Long Goodbye_ may also be echoed in the end of this storyline.
 
 - #### Panel 3
 
-Claudia, the "young girl" vampire in Anne Rice's "Interview with a Vampire", also used to brush her hair 100 times.
+  Claudia, the "young girl" vampire in Anne Rice's "Interview with a Vampire", also used to brush her hair 100 times.
 
 **iphigenia notices**:
 
@@ -151,15 +151,15 @@ Recall that Alvin had wet dreams about making out with "Weirdzo Lila Lake" (real
 
 - #### Panel 1
 
-This is "Weirdzo Hyperman #1" (really Bizarro Superman #1). Note that the Bizarros never had a comic book of their own, although they have had a series or two in various anthology comics. Bizarros talk in a sort of meaning-reversed and inverted manner.
+  This is "Weirdzo Hyperman #1" (really Bizarro Superman #1). Note that the Bizarros never had a comic book of their own, although they have had a series or two in various anthology comics. Bizarros talk in a sort of meaning-reversed and inverted manner.
 
 - #### Panel 2
 
-Alvin is a man again. Part of the Game of Wanda and Alvin is that Alvin is afraid to go through the final stage of becoming Wanda.
+  Alvin is a man again. Part of the Game of Wanda and Alvin is that Alvin is afraid to go through the final stage of becoming Wanda.
 
 - #### Panel 3
 
-The remark about innocence is most likely a misphrasing of the old saw "Ignorance of the law is no excuse."
+  The remark about innocence is most likely a misphrasing of the old saw "Ignorance of the law is no excuse."
 
 ### Page 14-15
 
@@ -169,7 +169,7 @@ Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's 
 
 - #### Panel 1
 
-**Foxglove sleeps without dreaming**: But immediately starts dreaming. This is obviously due to the influence of the cuckoo, but is still a jarring transition.
+  **Foxglove sleeps without dreaming**: But immediately starts dreaming. This is obviously due to the influence of the cuckoo, but is still a jarring transition.
 
 - #### Panel 3-6
 
@@ -179,21 +179,21 @@ Note that Foxglove is sitting in what amounts to a spotlight, possibly explainin
 
 - #### Panel 5
 
-Judy died in this outfit.
+  Judy died in this outfit.
 
 - #### Panel 6
 
-Note that Judy blinded herself in _Sandman_ #6, thus appearing here without visible eyes.
+  Note that Judy blinded herself in _Sandman_ #6, thus appearing here without visible eyes.
 
 ### Page 17
 
 - #### Panel 2
 
-Judy was in the diner when John Dee walked in because she had had a fight with Donna, in which she had hit Donna. There isn't much to the Game of Foxglove, just some trauma left over from Judy's death, but Fox has mostly worked through that, and knows who she is more than most of the other characters in the story, as we shall see. In fact, while Wanda's change of name is fundamental to her question of identity, Foxglove's change of name indicates that she's answered her question of identity.
+  Judy was in the diner when John Dee walked in because she had had a fight with Donna, in which she had hit Donna. There isn't much to the Game of Foxglove, just some trauma left over from Judy's death, but Fox has mostly worked through that, and knows who she is more than most of the other characters in the story, as we shall see. In fact, while Wanda's change of name is fundamental to her question of identity, Foxglove's change of name indicates that she's answered her question of identity.
 
 - #### Panel 5
 
-Note the irony in Judy's final remark.
+  Note the irony in Judy's final remark.
 
 ### Page 18
 
@@ -201,29 +201,29 @@ The Game of Thessaly is really limited to the question of "who is Thessaly", sin
 
 - #### Panel 1
 
-Note that "Thessaly sleeps", not "Thessaly dreams".
+  Note that "Thessaly sleeps", not "Thessaly dreams".
 
 ### Page 19
 
 - #### Panel 5
 
-Note the light from the fire in her hands casts shadows and changes the coloring of Thessaly's fire. It is unlikely, IMHO, that the blond hair and blackened hands reveal anything in particular about her.
+  Note the light from the fire in her hands casts shadows and changes the coloring of Thessaly's fire. It is unlikely, IMHO, that the blond hair and blackened hands reveal anything in particular about her.
 
 - #### Panel 6
 
-Apparently, George has been hurt by the death of one of "his" birds.
+  Apparently, George has been hurt by the death of one of "his" birds.
 
 ### Page 21
 
 - #### Panel 1
 
-Note Luz's gender. "Luz" is Spanish for light, and is grammatically feminine. Also note that Princess Barbara talks in the same style as the other inhabitants of the Land.
+  Note Luz's gender. "Luz" is Spanish for light, and is grammatically feminine. Also note that Princess Barbara talks in the same style as the other inhabitants of the Land.
 
 ### Page 23
 
 - #### Panel 1
 
-Wilkinson sounds just like Martin Tenbones did on page 3 of the previous issue, doesn't he? Note that the issue is only 23 pages, probably because the previous one ran a page over.
+  Wilkinson sounds just like Martin Tenbones did on page 3 of the previous issue, doesn't he? Note that the issue is only 23 pages, probably because the previous one ran a page over.
 
 ## Credits
 

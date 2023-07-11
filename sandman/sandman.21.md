@@ -18,11 +18,11 @@ Not yet reprinted in any other form
 
 - #### Panel 1
 
-Destiny is the eldest of the Endless.
+  Destiny is the eldest of the Endless.
 
 - #### Panel 2
 
-Also note the labyrinthine structure and signs of ancient decay in Destiny's garden.
+  Also note the labyrinthine structure and signs of ancient decay in Destiny's garden.
 
 It may be that Destiny's garden is a reference to the short story "The Garden of Forking Paths" by Jorge Luis Borges, an Argentine writer known in literary circles and often mentioned in the same breath as Gabriel Garcia Marques, Italo Calvino and Umberto Eco. This story is a meditation on time, destiny, and death. It will be found in the collection _Ficciones_.
 
@@ -38,11 +38,11 @@ His role as owner of The book that contains everything (a favourite theme of JLB
 
 - #### Panel 3
 
-Note the crosstalk between Dream and Destiny's spheres...
+  Note the crosstalk between Dream and Destiny's spheres...
 
 - #### Panel 6
 
-...although there is no real crosstalk between Death's and Destiny's spheres.
+  ...although there is no real crosstalk between Death's and Destiny's spheres.
 
 ### Page 2
 
@@ -52,11 +52,11 @@ These are the Three Witches, of course. As the Fates, they spin, measure, and en
 
 - #### Panel 3
 
-Grey Ladies is another appellation for the Three.
+  Grey Ladies is another appellation for the Three.
 
 - #### Panel 4
 
-This is a prophecy. Pay attention.
+  This is a prophecy. Pay attention.
 
 ### Page 3
 
@@ -72,25 +72,25 @@ Destiny's hall would appear to be drawn from reference. Can anyone ID it?
 
 - #### Panel 1
 
-I suspect the specific form of the painting of Death has some reference.
+  I suspect the specific form of the painting of Death has some reference.
 
 - #### Panel 4
 
-Death in Western culture is often represented as a robed skeleton carrying a scythe.
+  Death in Western culture is often represented as a robed skeleton carrying a scythe.
 
 - #### Panel 5
 
-See far, far below why is this appropriate attire.
+  See far, far below why is this appropriate attire.
 
 ### Page 6
 
 - #### Panel 1
 
-Again, the form of Dream's portrait may be significant.
+  Again, the form of Dream's portrait may be significant.
 
 - #### Panel 2
 
-Note that Dream appears exactly as Destiny expects him to; this a property of Dream we have seen before. Note that this property does not extend to Death. Also, note the small clue about the Prodigal (the missing Endless).
+  Note that Dream appears exactly as Destiny expects him to; this a property of Dream we have seen before. Note that this property does not extend to Death. Also, note the small clue about the Prodigal (the missing Endless).
 
 ### Page 7
 
@@ -133,19 +133,19 @@ Thus writes "Kai'Ckul" <oshinsky@webspan.net>:
 
 - #### Panel 4
 
-Note Delirium's mismatched eyes.
+  Note Delirium's mismatched eyes.
 
 ### Page 9
 
 - #### Panel 1
 
-Desire has tawny eyes (which is reminiscent of the Paginarum Fulvarum from _Sandman_ #1). However, her eyes were colored blue in her appearances in the _Doll's House_ storyline. Desire is often drawn in the style of Patrick Nagel, whose flatly colored portraits of women often have yellow eyes.
+  Desire has tawny eyes (which is reminiscent of the Paginarum Fulvarum from _Sandman_ #1). However, her eyes were colored blue in her appearances in the _Doll's House_ storyline. Desire is often drawn in the style of Patrick Nagel, whose flatly colored portraits of women often have yellow eyes.
 
 ### Page 10
 
 - #### Panel 2
 
-Coleridge was a heavy user of the psychoactive poppy derivative opium (also known as laudanum), under the influence of which he wrote many of his best-known works, the most famous being the incomplete poem "Kublai Khan".
+  Coleridge was a heavy user of the psychoactive poppy derivative opium (also known as laudanum), under the influence of which he wrote many of his best-known works, the most famous being the incomplete poem "Kublai Khan".
 
 Opium contains 22 alkaloid compounds, including morphine, codeine, and papaverine; heroin is also derived from opium. These compounds act at central nervous receptor sites normally activated by natural compounds related to endorphins (natural pain-killers). Morphine's etymological relationship to Dream has been explicated elsewhere.
 
@@ -155,43 +155,43 @@ Also, note that Delirium was once Delight, though we are not told explicitly the
 
 - #### Panel 3
 
-Trioditis as an appelation for the Three. The Graeae were three sisters of the Gorgons. Some tales represent them as being beautiful, but grey-haired from birth. Others say they were deformed, having but one eye and one tooth between them. Their shared name means "the grey ones" or "the crones".
+  Trioditis as an appelation for the Three. The Graeae were three sisters of the Gorgons. Some tales represent them as being beautiful, but grey-haired from birth. Others say they were deformed, having but one eye and one tooth between them. Their shared name means "the grey ones" or "the crones".
 
 - #### Panel 4
 
-Apparently, Destiny's Realm _is_ the Fates, at least in some sense. Note that Despair appears to equate the Fates with the Grey Women, although this is not precisely true. Destiny's "Choose?" is ambiguous.
+  Apparently, Destiny's Realm _is_ the Fates, at least in some sense. Note that Despair appears to equate the Fates with the Grey Women, although this is not precisely true. Destiny's "Choose?" is ambiguous.
 
 ### Page 14
 
 - #### Panel 1
 
-Note Destiny's evanescent servitors. We will see Dream's servitors in a later issue.
+  Note Destiny's evanescent servitors. We will see Dream's servitors in a later issue.
 
 ### Page 16
 
 - #### Panel 3
 
-At least one source alleges that the Greeks believed that butterflies were attracted to flames. The word "Psyche" is the personification of the human soul, rendered as a female figure in art. The source claims that in time psyche also came to mean butterfly.
+  At least one source alleges that the Greeks believed that butterflies were attracted to flames. The word "Psyche" is the personification of the human soul, rendered as a female figure in art. The source claims that in time psyche also came to mean butterfly.
 
 ### Page 17
 
 - #### Panel 6
 
-We may note that many shamanic religions believe the use of hallucinogens (delirium-inducers?) brings visions and knowledge.
+  We may note that many shamanic religions believe the use of hallucinogens (delirium-inducers?) brings visions and knowledge.
 
 - #### Panel 9
 
-Desire explains itself on the next page.
+  Desire explains itself on the next page.
 
 ### Page 18
 
 - #### Panel 2
 
-We saw hints of Dream's relationship with Calliope in _Sandman_ #17.
+  We saw hints of Dream's relationship with Calliope in _Sandman_ #17.
 
 - #### Panel 3
 
-This is new, and will be more fully developed in a later storyline.
+  This is new, and will be more fully developed in a later storyline.
 
 - #### Panel 3,5
 
@@ -201,13 +201,13 @@ This is in reference to Nada's earlier appearances in _Sandman_ #4 and #9.
 
 - #### Panel 6
 
-Does Desire actually feel regret at this moment?
+  Does Desire actually feel regret at this moment?
 
 ### Page 23
 
 - #### Panel 1
 
-In reference to Lucifer's perceived humiliation in the loss of a demon to Dream in _Sandman_ #4.
+  In reference to Lucifer's perceived humiliation in the loss of a demon to Dream in _Sandman_ #4.
 
 ## Credits
 

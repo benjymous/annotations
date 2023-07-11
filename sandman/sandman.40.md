@@ -21,13 +21,13 @@ Last year he had Jill do him a sketch of Death, and then he sent a copy of it to
 
 - #### Panel 1
 
-This is Lyta Hall, with her son Daniel. See _Sandman_ #12. She is recounting the story of "Goldilocks and the Three Bears" in a somewhat bowdlerized version; compare to the version of "Little Red Riding Hood" Gilbert tells in _The Doll's House_.
+  This is Lyta Hall, with her son Daniel. See _Sandman_ #12. She is recounting the story of "Goldilocks and the Three Bears" in a somewhat bowdlerized version; compare to the version of "Little Red Riding Hood" Gilbert tells in _The Doll's House_.
 
 The stylized rabbit doll on the couch is one of the characters in Purcell's "Sam and Max" series; Thompson is evidently a fan.
 
 - #### Panel 6
 
-Lyta is financially secure, both on her own and through her late husband's estate. Thus, she doesn't need a job, and apparently doesn't get out much.
+  Lyta is financially secure, both on her own and through her late husband's estate. Thus, she doesn't need a job, and apparently doesn't get out much.
 
 ### Page 2
 
@@ -36,61 +36,61 @@ noting that Lyta is still acting as a storyteller here, and that Daniel doesn't 
 
 - #### Panel 1
 
-**Carla**: Mentioned in #22.
+  **Carla**: Mentioned in #22.
 
 - #### Panel 4
 
-**Melrose**: Melrose Avenue in LA. It is worth noting that LA was Lyta's old stomping grounds during the "Infinity Inc" days.
+  **Melrose**: Melrose Avenue in LA. It is worth noting that LA was Lyta's old stomping grounds during the "Infinity Inc" days.
 
 - #### Panel 6
 
-**Get out of his crib**: Irony.
+  **Get out of his crib**: Irony.
 
 ### Page 3
 
 - #### Panel 1
 
-Be sure to note that Daniel's body is still in the crib; it is his mental self which is out.
+  Be sure to note that Daniel's body is still in the crib; it is his mental self which is out.
 
 - #### Panel 3
 
-He is walking into the Dreaming; note that there are more than 26 letters in the alphabet.
+  He is walking into the Dreaming; note that there are more than 26 letters in the alphabet.
 
 - #### Panel 4
 
-This is Gregory the Gargoyle, as seen before.
+  This is Gregory the Gargoyle, as seen before.
 
 ### Page 4
 
 - #### Panel 1
 
-This is Matthew the raven, of course; the "secret" to which he refers is the "House of Secrets" of which Abel is the caretaker.
+  This is Matthew the raven, of course; the "secret" to which he refers is the "House of Secrets" of which Abel is the caretaker.
 
 As defined by Alan Moore in _Swamp Thing_, in the first major revision of Cain and Abel, a secret must be kept; Cain, of the "House of Mystery", dispenses mysteries which may be shared and pondered.
 
 - #### Panel 6
 
-**Dwell in nightmares**: rings a bell; perhaps one of DC's mystery books?
+  **Dwell in nightmares**: rings a bell; perhaps one of DC's mystery books?
 
 ### Page 5
 
 - #### Panel 2
 
-It is important to ponder why Dream, whose realm appears to be second only to Delirium's in chaos, is intrinsically a maker of rules.
+  It is important to ponder why Dream, whose realm appears to be second only to Delirium's in chaos, is intrinsically a maker of rules.
 
 - #### Panel 5
 
-This is Abel.
+  This is Abel.
 
 ### Page 6
 
 - #### Panel 1
 
-Note the stuffed crocodile hanging from the ceiling. This is probably a reference to the corkindrill hanging from the ceiling of Merlin's cottage in T.H. White's _The Sword in the Stone_. (It is worth noting that Neil's buddy Terry Pratchett included a similar hanging crocodile in _The Light Fantastic_, a work which significantly preceded #40.) Note also the curiously carved walking stick, the mirror and skull, the crystal ball and fish bookend, and other decorations in the room.
+  Note the stuffed crocodile hanging from the ceiling. This is probably a reference to the corkindrill hanging from the ceiling of Merlin's cottage in T.H. White's _The Sword in the Stone_. (It is worth noting that Neil's buddy Terry Pratchett included a similar hanging crocodile in _The Light Fantastic_, a work which significantly preceded #40.) Note also the curiously carved walking stick, the mirror and skull, the crystal ball and fish bookend, and other decorations in the room.
 
 - #### Panel 2
 
-Something Nasty in the Basement was first mentioned in _Sandman_ #10. "Eyes too big for his": stomach completes the saying.
+  Something Nasty in the Basement was first mentioned in _Sandman_ #10. "Eyes too big for his": stomach completes the saying.
 
 ### Page 7
 
@@ -123,17 +123,17 @@ From Baring-Gould and Baring-Gould, _The Annotated Mother Goose_ (1962):
 
 - #### Panel 2
 
-A more explicit reference to Dream's love affair.
+  A more explicit reference to Dream's love affair.
 
 ### Page 9
 
 - #### Panel 4
 
-Vincent Price is a renowned actor in horror films, with a distinctive voice.
+  Vincent Price is a renowned actor in horror films, with a distinctive voice.
 
 - #### Panel 5
 
-Cain obviously predates Price; note who does or does not sound like whom in his statement. "Old ham": Ham is a derogatory term for over-emotive actors; Price may be considered hammy by some.
+  Cain obviously predates Price; note who does or does not sound like whom in his statement. "Old ham": Ham is a derogatory term for over-emotive actors; Price may be considered hammy by some.
 
 ### Page 10-11
 
@@ -141,18 +141,18 @@ a two-page spread. Cain's information on rooks is accurate.
 
 - #### Panel 3
 
-**Collective nouns**: There exist long lists of collectives in various nodes of "triviaspace". Some are "official", and may be found in dictionaries, while some are the invention of the individual author.
+  **Collective nouns**: There exist long lists of collectives in various nodes of "triviaspace". Some are "official", and may be found in dictionaries, while some are the invention of the individual author.
 
 ### Page 12
 
 - #### Panel 3
 
-Note the skeleton with hat in the background.
-**Pecked to death**: Cain murders Abel over and over again.
+  Note the skeleton with hat in the background.
+  **Pecked to death**: Cain murders Abel over and over again.
 
 - #### Panel 6
 
-In the Bible, the original Cain and Abel were indeed the sons of Eve (and Adam). Eve, in the Dreaming, represents archetypes:
+  In the Bible, the original Cain and Abel were indeed the sons of Eve (and Adam). Eve, in the Dreaming, represents archetypes:
 
 "Everybody's mother", for example.
 
@@ -160,19 +160,19 @@ In the Bible, the original Cain and Abel were indeed the sons of Eve (and Adam).
 
 - #### Panel 3
 
-See the Appendix for the antecedents of Eve's tale.
+  See the Appendix for the antecedents of Eve's tale.
 
 ### Page 15
 
 - #### Panel 1
 
-**Midrash**: A collection of early Jewish interpretation and commentary on the Bible.
+  **Midrash**: A collection of early Jewish interpretation and commentary on the Bible.
 
 ### Page 16
 
 - #### Panel 3
 
-Nameless, Lilith, and Eve obviously form a maiden, mother, crone motif. Eve's commentary that the Lilim (-im is the plural indicator in Hebrew) have haunted the nights of the sons of Adam suggests that Lilith dwells in dreams, and is therefore this Eve. Eve's comment about Eve and her cave also suggests that she is this Eve as well.
+  Nameless, Lilith, and Eve obviously form a maiden, mother, crone motif. Eve's commentary that the Lilim (-im is the plural indicator in Hebrew) have haunted the nights of the sons of Adam suggests that Lilith dwells in dreams, and is therefore this Eve. Eve's comment about Eve and her cave also suggests that she is this Eve as well.
 
 The Lilim are more traditionally identified with succubi, demons that have sex with men as they dream and so drain them.
 
@@ -180,27 +180,27 @@ The Lilim are more traditionally identified with succubi, demons that have sex w
 
 - #### Panel 1
 
-Adam had three wives, but married only once: The truth of stories is not the cold analytical truth of the scientist's laboratory.
+  Adam had three wives, but married only once: The truth of stories is not the cold analytical truth of the scientist's laboratory.
 
 Adam married many women, for women have many aspects, but he married only once as well; that is the truth of this tale.
 
 - #### Panel 4
 
-Note Daniel's skull (Matthew's rat's skull?), and the pictures on the wall behind. Is the one on the left Cubist? Are the others visual references to anything?
+  Note Daniel's skull (Matthew's rat's skull?), and the pictures on the wall behind. Is the one on the left Cubist? Are the others visual references to anything?
 
 - #### Panel 6
 
-**Wolf**: A reference to _Sandman_ #38?
+  **Wolf**: A reference to _Sandman_ #38?
 
 ### Page 18
 
 - #### Panel 4
 
-This style of art bears some resemblance to Japanese SD or Super-Deformed style. Jill Thompson has done a picture of the Li'l Endless with all of the Endless in this junior form.
+  This style of art bears some resemblance to Japanese SD or Super-Deformed style. Jill Thompson has done a picture of the Li'l Endless with all of the Endless in this junior form.
 
 - #### Panel 6
 
-**Remotely human**: Cain and Abel are part of "the oldest story"; they and the Endless predate humanity. It is the nature of stories and storytellers to conform to their audience, however, as seen here.
+  **Remotely human**: Cain and Abel are part of "the oldest story"; they and the Endless predate humanity. It is the nature of stories and storytellers to conform to their audience, however, as seen here.
 
 **Pablum**: a trademark for a kind of infants' cereal (appropriate for Daniel, don't you think?), taken from pabulum (Latin for food), and often used derogatively to characterize something as having no substance. Li'l: A contraction for "little", often used, as here, as a diminutive.
 
@@ -208,37 +208,37 @@ This style of art bears some resemblance to Japanese SD or Super-Deformed style.
 
 - #### Panel 3
 
-Death's invitation to Abel is because Abel is dead, of course.
+  Death's invitation to Abel is because Abel is dead, of course.
 
 ### Page 20
 
 - #### Panel 1
 
-The letters of commission were first seen in _Sandman_ #2.
+  The letters of commission were first seen in _Sandman_ #2.
 
 - #### Panel 2
 
-Note the appearance of the guardians of Dream's gate.
+  Note the appearance of the guardians of Dream's gate.
 
 ### Page 21
 
 - #### Panel 1
 
-When stutterers are distracted from what they're saying, as Abel is when telling stories, their stutters often improve.
+  When stutterers are distracted from what they're saying, as Abel is when telling stories, their stutters often improve.
 
 - #### Panel 2
 
-Matthew just doesn't get it.
+  Matthew just doesn't get it.
 
 - #### Panel 3
 
-Tom-tit, dicky-bird, and harrier are all sorts of birds.
+  Tom-tit, dicky-bird, and harrier are all sorts of birds.
 
 ### Page 22
 
 - #### Panel 4
 
-The chess piece rook does come two to a player, four to a board. Chess is idealized battle. The rook's counting rhyme says "four for a boy". Eve is contemplating the apparent equation of male and fighting.
+  The chess piece rook does come two to a player, four to a board. Chess is idealized battle. The rook's counting rhyme says "four for a boy". Eve is contemplating the apparent equation of male and fighting.
 
 (Note that "rook" is from the Persian "rookh", warrior, and is only coincidentally the same spelling as the bird.)
 
@@ -256,11 +256,11 @@ Cain is making reference to the fiction genre of mystery, often called "whodunni
 
 - #### Panel 1
 
-Note the Vogue cover.
+  Note the Vogue cover.
 
 - #### Panel 2
 
-Note the cigarette pack in the ad.
+  Note the cigarette pack in the ad.
 
 ## Credits
 

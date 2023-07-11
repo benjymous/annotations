@@ -19,31 +19,31 @@ Her characterization here as a terrified isolated agoraphobe is new.
 
 - #### Panel 1
 
-Mulligan is a new character of little importance beyond this story.
+  Mulligan is a new character of little importance beyond this story.
 
 - #### Panel 8
 
-"Company" is a slang term for the Central Intelligence Agency, the chief United States intelligence service. It has been somewhat generalized in fiction to mean any intelligence agency, since authors usually refrain from mentioning the CIA directly.
+  "Company" is a slang term for the Central Intelligence Agency, the chief United States intelligence service. It has been somewhat generalized in fiction to mean any intelligence agency, since authors usually refrain from mentioning the CIA directly.
 
 ### Page 4
 
 - #### Panel 3
 
-"Put on a brave face." Also notice all the "masks" in Rainie's apartment. Faces and facades are obviously the theme of the issue.
+  "Put on a brave face." Also notice all the "masks" in Rainie's apartment. Faces and facades are obviously the theme of the issue.
 
 ### Page 5
 
 - #### Panel 2
 
-Della would also appear to be a new character.
+  Della would also appear to be a new character.
 
 - #### Panel 3
 
-Triangle may, however, date from the old _Metamorpho_ series.
+  Triangle may, however, date from the old _Metamorpho_ series.
 
 - #### Panel 5
 
-Leonardo Da Vinci was, of course, a famous Italian Renaissance artist and designer.
+  Leonardo Da Vinci was, of course, a famous Italian Renaissance artist and designer.
 
 ### Page 6
 
@@ -53,13 +53,13 @@ This is what we have seen before of Rainie's origin.
 
 - #### Panel 6
 
-Ra is an old Egyptian god of the sun, sometimes identified with Amon; he was later replaced as supreme deity by Osiris. He is typically represented as a hawk-headed man.
+  Ra is an old Egyptian god of the sun, sometimes identified with Amon; he was later replaced as supreme deity by Osiris. He is typically represented as a hawk-headed man.
 
 ### Page 7
 
 - #### Panel 1
 
-Apep the serpent is another figure from Egyptian mythology, typically represented as an enemy of Ra.
+  Apep the serpent is another figure from Egyptian mythology, typically represented as an enemy of Ra.
 
 ### Page 15
 
@@ -69,7 +69,7 @@ This, of course, is good ol' Death, Dream's older sister. Recall that her symbol
 
 - #### Panel 8
 
-This is the theme song from the television series M\*A\*S\*H.
+  This is the theme song from the television series M\*A\*S\*H.
 
 The words were never sung on the television show, although they were in the original movie. The panel pictures a shattered facade; we may note that "Shattered Visage" was the name of the graphic novel published by DC that was a sequel to the television series _The Prisoner_.
 
@@ -77,8 +77,8 @@ The words were never sung on the television show, although they were in the orig
 
 - #### Panel 2
 
-**Metamorphae**: Those who are beyond shape. Morphogenic:
-Shape creating. Metaplasm: That which is beyond being formed. Note that the -morph- morpheme comes from Morpheus ("Shaper"), an appellation for Dream.
+  **Metamorphae**: Those who are beyond shape. Morphogenic:
+  Shape creating. Metaplasm: That which is beyond being formed. Note that the -morph- morpheme comes from Morpheus ("Shaper"), an appellation for Dream.
 
 - #### Panel 2-3
 
@@ -88,23 +88,23 @@ Presumably this refers back to an event in _Metamorpho_.
 
 - #### Panel 3
 
-About or before this time, Death appeared in an unauthorized- by-Gaiman crossover with Captain Atom. In that story, this version of Death was described as the incarnation of "death as compassionate release", while other incarnations of death (such as the Black Racer and Nekron) were described in other ways. As Death said there, "It's a big concept, there's room for more than one of us." This paragraph may refer back to that appearance; Gaiman was reportedly incensed at the use of the character.
+  About or before this time, Death appeared in an unauthorized- by-Gaiman crossover with Captain Atom. In that story, this version of Death was described as the incarnation of "death as compassionate release", while other incarnations of death (such as the Black Racer and Nekron) were described in other ways. As Death said there, "It's a big concept, there's room for more than one of us." This paragraph may refer back to that appearance; Gaiman was reportedly incensed at the use of the character.
 
 ### Page 21
 
 - #### Panel 5
 
-Note the title of the anthology.
+  Note the title of the anthology.
 
 - #### Panel 7
 
-Note the gender of Apep.
+  Note the gender of Apep.
 
 ### Page 23
 
 - #### Panel 3
 
-This issue is all about facades, false faces. Note that Rainie has to look behind the facade of the sun to the face of Ra.
+  This issue is all about facades, false faces. Note that Rainie has to look behind the facade of the sun to the face of Ra.
 
 We may note that Rainie's apartment throughout this issue has been grey, box-like, oppressive, in start contrast to Rainie's physical colorfulness. However, once she escapes her apartment, her colors complement and blend with the outside world; her own personality perks up a bit, too.
 

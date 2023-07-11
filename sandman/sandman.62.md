@@ -8,7 +8,7 @@
 
 - #### Panel 1
 
-This is the only first panel in the story so far that has _not_ had a string or thread of some sort. This issue hearkens back to "Men of Good Fortune" ("The Doll's House" part 4) and "The Season of Mists" part 4: "interlude" issues, not done by the regular artist for the main arc, thematically related to it but not advancing the main plot. The lack of a string may emphasize that this issue is a sidebar.
+  This is the only first panel in the story so far that has _not_ had a string or thread of some sort. This issue hearkens back to "Men of Good Fortune" ("The Doll's House" part 4) and "The Season of Mists" part 4: "interlude" issues, not done by the regular artist for the main arc, thematically related to it but not advancing the main plot. The lack of a string may emphasize that this issue is a sidebar.
 
 Note the black gutters; the page borders seem to switch between black and white somewhat at random. The borders in the main story are significant, but they don't seem to be here.
 
@@ -18,31 +18,31 @@ This whole opening sequence, with Rose waking up uncomfortably on a plane to Eng
 
 - #### Panel 4
 
-"Austin" is a real British car maker; not being a connoisseur of British cars, I don't recognize this particular model.
+  "Austin" is a real British car maker; not being a connoisseur of British cars, I don't recognize this particular model.
 
 - #### Panel 5
 
-One wonders where all the snow that we saw back in #59 went.
+  One wonders where all the snow that we saw back in #59 went.
 
 ### Page 3
 
 - #### Panel 3
 
-The 1989 film _Awakenings_, based on a book by neurologist Oliver Sacks. In the text page of issue #4, Gaiman mentions the book as one of his influences in creating the series.
+  The 1989 film _Awakenings_, based on a book by neurologist Oliver Sacks. In the text page of issue #4, Gaiman mentions the book as one of his influences in creating the series.
 
 - #### Panel 4
 
-Wych Cross is of course the town where Lady Johanna Constantine resided, and where centuries later Dream was imprisoned. This is a minor retcon, as there was no previous indication that Unity Kinkaid's nursing home was anywhere near it. The inn called the "White Hart" may be a reference to a book by Arthur C. Clarke; then again it may just be a common name for an inn.
+  Wych Cross is of course the town where Lady Johanna Constantine resided, and where centuries later Dream was imprisoned. This is a minor retcon, as there was no previous indication that Unity Kinkaid's nursing home was anywhere near it. The inn called the "White Hart" may be a reference to a book by Arthur C. Clarke; then again it may just be a common name for an inn.
 
 ### Page 4
 
 - #### Panel 1
 
-Paul McGuire was last seen all the way back in issue #1.
+  Paul McGuire was last seen all the way back in issue #1.
 
 - #### Panel 4
 
-Megan Schreiber found out about the '45 Rebellion:
+  Megan Schreiber found out about the '45 Rebellion:
 
 > The '45 Rebellion (courtesy the Encyclopedia Americana, 1998 edition)
 >
@@ -56,33 +56,33 @@ Megan Schreiber found out about the '45 Rebellion:
 
 - #### Panel 4
 
-Of course, three. What other number could be chosen?
+  Of course, three. What other number could be chosen?
 
 ### Page 6
 
 - #### Panel 7
 
-Of course, the last time Rose was in this broom closet she found the Hecateae inside.
+  Of course, the last time Rose was in this broom closet she found the Hecateae inside.
 
 ### Page 7
 
 - #### Panel 2
 
-...and here she finds somebody else.
+  ...and here she finds somebody else.
 
 ### Page 8
 
 - #### Panel 2
 
-That checkers game must be a little dull; with the pieces on oppositely-colored squares it's impossible to make a jump...
+  That checkers game must be a little dull; with the pieces on oppositely-colored squares it's impossible to make a jump...
 
 - #### Panel 3
 
-Here we see that "Maiden" and "Crone" are relative terms. Note that Amelia and Magda have a strong visual resemblance to Mildred and Mordred of the Three Witches.
+  Here we see that "Maiden" and "Crone" are relative terms. Note that Amelia and Magda have a strong visual resemblance to Mildred and Mordred of the Three Witches.
 
 - #### Panel 4
 
-"Blockbuster" is a long-running TV show hosted by Bob Holness.
+  "Blockbuster" is a long-running TV show hosted by Bob Holness.
 
 They test whether 2 heads are better than one, by having a team of one play against a team of two. (NB. 3 contestants).
 
@@ -108,17 +108,17 @@ There's been speculation on the net that this "Helena" is Helena Kosmatos, the G
 
 - #### Panel 3
 
-The most effective method of lying, of course, is to tell the truth in such a way that you are not believed.
+  The most effective method of lying, of course, is to tell the truth in such a way that you are not believed.
 
 ### Page 20
 
 - #### Panel 4
 
-Unity Kinkaid gave Rose this ring in "The Doll's House" part 1 -- specifically 10:23:4.
+  Unity Kinkaid gave Rose this ring in "The Doll's House" part 1 -- specifically 10:23:4.
 
 - #### Panel 5
 
-This is 10:23:5 reproduced.
+  This is 10:23:5 reproduced.
 
 - #### Panel 7-8
 
@@ -128,25 +128,25 @@ When Rose encounters the Hecateae we also see an owl and a pussycat; the owl her
 
 - #### Panel 2
 
-The owl was the familiar of Athena, Greek goddess of wisdom.
+  The owl was the familiar of Athena, Greek goddess of wisdom.
 
 ### Page 22
 
 - #### Panel 1
 
-Quentin Crisp, English gay writer.
+  Quentin Crisp, English gay writer.
 
 - #### Panel 3
 
-It's said that "More light, more light" were the final words of Goethe.
+  It's said that "More light, more light" were the final words of Goethe.
 
 - #### Panel 4
 
-_The Tempest_, act IV scene 1.
+  _The Tempest_, act IV scene 1.
 
 - #### Panel 5
 
-Alex Burgess, too, was last seen at the end of issue #1.
+  Alex Burgess, too, was last seen at the end of issue #1.
 
 Note the Piglet doll in bed with him. The picture by the bed is of Ethel Cripps, the mistress of Alex's father Roderick. The picture's been seen in 1:15:4 and 7:9:4. Of the books in the bookcase, "Good Omens" is of course the collaboration between Neil Gaiman and Terry Pratchett; "The Doll's House" is by Ibsen and echoes Rose's previous story; "To Kill" is probably "To Kill a Mockingbird", by Harper Lee; no refs on "Fish Paste" or "Timularo".
 
@@ -154,7 +154,7 @@ Note the Piglet doll in bed with him. The picture by the bed is of Ethel Cripps,
 
 - #### Panel 3
 
-Those who've read issue #1 know for certain that they are not.
+  Those who've read issue #1 know for certain that they are not.
 
 ## Credits
 

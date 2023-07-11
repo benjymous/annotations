@@ -16,7 +16,7 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 
 - #### Panel 2
 
-Note the ecologically-correct webbed shopping bag.
+  Note the ecologically-correct webbed shopping bag.
 
 - #### Panel 4 As theorized in #48 page 16, the Endless embody both their name and their opposite. Hence, Destruction includes creation, which explains his sculpture, painting, and cooking.
 
@@ -28,13 +28,13 @@ Eleni Petrakou <tulpoeid@hotmail.com> tends to disagree:
 
 - #### Panel 6
 
-Is this meant to represent Ishtar?
+  Is this meant to represent Ishtar?
 
 ### Page 3
 
 - #### Panel 6
 
-Barnabas is a _real_ dog. Admittedly, he's a real _talking_ dog, but he's not a human in a dog's body the way Matthew is a human in a raven's body (the superficial characterization of #40 aside, Matthew still _acts_ human). Incidentally, chocolate is not particularly healthy for dogs; they have trouble digesting it and they, like the rest of the Carnivora, overreact to stimulants.
+  Barnabas is a _real_ dog. Admittedly, he's a real _talking_ dog, but he's not a human in a dog's body the way Matthew is a human in a raven's body (the superficial characterization of #40 aside, Matthew still _acts_ human). Incidentally, chocolate is not particularly healthy for dogs; they have trouble digesting it and they, like the rest of the Carnivora, overreact to stimulants.
 
 2: "My Envelope Isn't Any Good Anymore"
 
@@ -42,7 +42,7 @@ Barnabas is a _real_ dog. Admittedly, he's a real _talking_ dog, but he's not a 
 
 - #### Panel 2
 
-Note the curlicues used for Del's eyes. The envelope is addressed to "Santa Claus/The North Pole".
+  Note the curlicues used for Del's eyes. The envelope is addressed to "Santa Claus/The North Pole".
 
 See Appendix for discussion on Santa Claus.
 
@@ -64,13 +64,13 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 - #### Panel 3
 
-The statue of Destruction is facing in the opposite direction as the statues of the rest of the family. There is no obvious path leading to it.
+  The statue of Destruction is facing in the opposite direction as the statues of the rest of the family. There is no obvious path leading to it.
 
 ### Page 10
 
 - #### Panel 6
 
-Del may be imitating the posture of her statue.
+  Del may be imitating the posture of her statue.
 
 ### Page 11
 
@@ -82,7 +82,7 @@ Note the white core to Del's balloons. In panel 4, Del's eyes should be the same
 
 - #### Panel 2
 
-Del's eyes should be the same color again.
+  Del's eyes should be the same color again.
 
 5: Life as a Glass of Bitter Wine
 
@@ -90,21 +90,21 @@ Del's eyes should be the same color again.
 
 - #### Panel 2
 
-Delirium considers Destiny's "little flappy things" equivalent to Dream's ravens or Despair's rats (#41).
+  Delirium considers Destiny's "little flappy things" equivalent to Dream's ravens or Despair's rats (#41).
 
 ### Page 14
 
 - #### Panel 1
 
-This event (as yet undetailed) occurs just before #1 and is referred to in the "What Has Gone Before" introduction to _The Doll's House_.
+  This event (as yet undetailed) occurs just before #1 and is referred to in the "What Has Gone Before" introduction to _The Doll's House_.
 
 - #### Panel 2
 
-See Dream's description in #21, and the _Death: The High Cost of Living_ miniseries. According to Jill Thompson, the ox drover is no one particularly important, but was also mentioned in issue #2, page 17, panel 4.
+  See Dream's description in #21, and the _Death: The High Cost of Living_ miniseries. According to Jill Thompson, the ox drover is no one particularly important, but was also mentioned in issue #2, page 17, panel 4.
 
 - #### Panel 3
 
-It seems probable that this is a depiction of a event; the color of Dream's clothing and hair is significant.
+  It seems probable that this is a depiction of a event; the color of Dream's clothing and hair is significant.
 
 6: Cherries Are Counted, and a Bargain Is Made
 
@@ -112,33 +112,33 @@ It seems probable that this is a depiction of a event; the color of Dream's clot
 
 - #### Panel 2
 
-Dream's cloak pin is supposed to be colored silver. It is not Dream's ruby, which was destroyed in #7.
+  Dream's cloak pin is supposed to be colored silver. It is not Dream's ruby, which was destroyed in #7.
 
 - #### Panel 3
 
-Orpheus as "not very old": All lives are brief, from the perspective of the Endless.
+  Orpheus as "not very old": All lives are brief, from the perspective of the Endless.
 
 - #### Panel 5
 
-Note that Del has given the flower wings.
+  Note that Del has given the flower wings.
 
 ### Page 19
 
 - #### Panel 3
 
-Delirium is using an old counting rhyme which is supposed to reveal your occupation when you grow up. (Modern readers may be familiar with its use as a title for a couple of works: _Tinker, Tailor, Soldier, Spy_ by John LeCarre and _Rich Man, Poor Man_ and _Beggarman, Thief_, novels and television miniseries by Irwin Shaw.) Del omits "thief" in her rhyme; the continuation in panel 5 is her own invention.
+  Delirium is using an old counting rhyme which is supposed to reveal your occupation when you grow up. (Modern readers may be familiar with its use as a title for a couple of works: _Tinker, Tailor, Soldier, Spy_ by John LeCarre and _Rich Man, Poor Man_ and _Beggarman, Thief_, novels and television miniseries by Irwin Shaw.) Del omits "thief" in her rhyme; the continuation in panel 5 is her own invention.
 
 ### Page 20
 
 - #### Panel 5
 
-See #41 for the source of the epitaph.
+  See #41 for the source of the epitaph.
 
 ### Page 21
 
 - #### Panel 3
 
-This island, Destruction's refuge, was seen in #41.
+  This island, Destruction's refuge, was seen in #41.
 
 7: An Unlikely Growth
 
@@ -146,11 +146,11 @@ This island, Destruction's refuge, was seen in #41.
 
 - #### Panel 1
 
-**Troth**: An archaic term for faithfulness or a promise, especially a promise to marry; extended by similarity to equal "truth".
+  **Troth**: An archaic term for faithfulness or a promise, especially a promise to marry; extended by similarity to equal "truth".
 
 - #### Panel 4
 
-**Dolmades**: a Greek dish, grape leaves stuffed with ground meat. /-es/ is a Greek plural ending.
+  **Dolmades**: a Greek dish, grape leaves stuffed with ground meat. /-es/ is a Greek plural ending.
 
 ## Credits
 

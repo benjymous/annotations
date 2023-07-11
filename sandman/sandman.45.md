@@ -12,17 +12,17 @@
 
 - #### Panel 4
 
-**Roxy Blue**: In the opinion of at least one reviewer, the lamest, saddest attempt ever made to create a generic megahit MTV glam-metal band.
+  **Roxy Blue**: In the opinion of at least one reviewer, the lamest, saddest attempt ever made to create a generic megahit MTV glam-metal band.
 
 ### Page 2
 
 - #### Panel 3
 
-This is foreshadowing. See also page 3 panel 5 and in #44.
+  This is foreshadowing. See also page 3 panel 5 and in #44.
 
 - #### Panel 4
 
-**Shooting up**: Taking heroin, which is administered via syringe.
+  **Shooting up**: Taking heroin, which is administered via syringe.
 
 2: Her Hands Do Not Go to the Moon
 
@@ -30,11 +30,11 @@ This is foreshadowing. See also page 3 panel 5 and in #44.
 
 - #### Panel 1
 
-**Sam Hill**: Euphemism for "hell", deriving from "Salomon", an oath. Ass is green and growing: A variation of the rhyming slang "ass is grass".
+  **Sam Hill**: Euphemism for "hell", deriving from "Salomon", an oath. Ass is green and growing: A variation of the rhyming slang "ass is grass".
 
 - #### Panel 2
 
-"I'm a very good driver" is an oft-quoted line of dialog from the movie _Rain Man_, spoken by Dustin Hoffman's autistic character.
+  "I'm a very good driver" is an oft-quoted line of dialog from the movie _Rain Man_, spoken by Dustin Hoffman's autistic character.
 
 - #### Panel 3-5
 
@@ -46,11 +46,11 @@ Del's actions here are reminiscent of Dream's punishment of Alex Burgess in #1. 
 
 - #### Panel 5
 
-See Lance Smith's Sandman Concordance for an accounting of Dream's ravens.
+  See Lance Smith's Sandman Concordance for an accounting of Dream's ravens.
 
 - #### Panel 6
 
-Matthew is referring to the incident in Swamp Thing #27, where he was possessed by the spirit of his wife's uncle, the evil sorceror-scientist-supervillain Anton Arcane.
+  Matthew is referring to the incident in Swamp Thing #27, where he was possessed by the spirit of his wife's uncle, the evil sorceror-scientist-supervillain Anton Arcane.
 
 4: Tiffany Watches I
 
@@ -62,25 +62,25 @@ Tiffany's activities here make it clear that she's doing cocaine. The >snf< nois
 
 - #### Panel 2
 
-**Lousy movie**: The movie _Ishtar_, a putative comedy, went enormously over-budget, in part because of the cost of its impressive cast, and was roundly panned by the critics.
+  **Lousy movie**: The movie _Ishtar_, a putative comedy, went enormously over-budget, in part because of the cost of its impressive cast, and was roundly panned by the critics.
 
 - #### Panel 3
 
-Tiffany is a chain of jewelry stores known for making fine watches.
+  Tiffany is a chain of jewelry stores known for making fine watches.
 
 - #### Panel 5
 
-Note the similarity between Tiffany, born Alma, and Wanda, born Alvin, of _A Game of You_. Besides the coincidence of names, both left home under unhappy circumstances. This being Gaiman, there's probably a connection.
+  Note the similarity between Tiffany, born Alma, and Wanda, born Alvin, of _A Game of You_. Besides the coincidence of names, both left home under unhappy circumstances. This being Gaiman, there's probably a connection.
 
 ### Page 8
 
 - #### Panel 2
 
-**Like a Virgin**: A song by Madonna (note Tiffany's shirt).
+  **Like a Virgin**: A song by Madonna (note Tiffany's shirt).
 
 - #### Panel 6
 
-There's a parallel here, since Madonna was married to a "Sean"--Sean Penn--for a short time.
+  There's a parallel here, since Madonna was married to a "Sean"--Sean Penn--for a short time.
 
 5: White Knights and/or Pond-Scum
 
@@ -90,15 +90,15 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
 - #### Panel 2
 
-Note that "pond scum" is not hyphenated.
+  Note that "pond scum" is not hyphenated.
 
 - #### Panel 3
 
-Interested parties are invited to check out the alt.tasteless FAQ, as the denizens of that group have coined a word for the act of screwing a hole drilled in someone's head.
+  Interested parties are invited to check out the alt.tasteless FAQ, as the denizens of that group have coined a word for the act of screwing a hole drilled in someone's head.
 
 - #### Panel 4
 
-**Blow**: cocaine.
+  **Blow**: cocaine.
 
 6: Are Dalmations Flowers?
 
@@ -106,16 +106,16 @@ Interested parties are invited to check out the alt.tasteless FAQ, as the denize
 
 - #### Panel 1
 
-Note the driver is making a rude gesture toward Delirium.
-In America, the raised middle finger displayed with the back of the hand toward the target translates as "fuck you". In recent years, this gesture has been adopted in both Britain and England, partially displacing older gestures of similar intent.
+  Note the driver is making a rude gesture toward Delirium.
+  In America, the raised middle finger displayed with the back of the hand toward the target translates as "fuck you". In recent years, this gesture has been adopted in both Britain and England, partially displacing older gestures of similar intent.
 
 - #### Panel 2
 
-Del's sister here is almost certainly Death.
+  Del's sister here is almost certainly Death.
 
 - #### Panel 3
 
-**101 Dalmatians**: A full-length cartoon by Walt Disney Studios. There are, in fact, 101 Dalmatians, mostly puppies, in the film. "Dalmatiums" are a type of flower. Dalmatia is a region in Yugoslavia along the Adriatic.
+  **101 Dalmatians**: A full-length cartoon by Walt Disney Studios. There are, in fact, 101 Dalmatians, mostly puppies, in the film. "Dalmatiums" are a type of flower. Dalmatia is a region in Yugoslavia along the Adriatic.
 
 7: Nancy Displays Her Erudition
 
@@ -123,8 +123,8 @@ Del's sister here is almost certainly Death.
 
 - #### Panel 1
 
-**Suffragette City**: A song by David Bowie. "Suffragette" was the term applied to women who sought to obtain the ability to vote.
-("Suffrage" = "vote", from the Latin for "voting tablet".)
+  **Suffragette City**: A song by David Bowie. "Suffragette" was the term applied to women who sought to obtain the ability to vote.
+  ("Suffrage" = "vote", from the Latin for "voting tablet".)
 
 ### Page 12
 
@@ -137,7 +137,7 @@ devoted to the latest sensationalistic book, scam, or fad. The "Donahue" topic g
 
 - #### Panel 6
 
-**Mai Lai**: Possibly an amalgam of "mai tai", a kind of rum drink (to which Tiffany refers), and "My Lai", a village in South Vietnam where American military forces engaged in a massacre of civilians.
+  **Mai Lai**: Possibly an amalgam of "mai tai", a kind of rum drink (to which Tiffany refers), and "My Lai", a village in South Vietnam where American military forces engaged in a massacre of civilians.
 
 8: Wham Bam Thank You Ma'am
 
@@ -149,21 +149,21 @@ Notable as a shouted lyric near the end of David Bowie's "Suffragette City".
 
 - #### Panel 1
 
-**I Heard It Through the Grapevine**: a song originally popularized by Gladys Knight and the Pips, later taken to the top of the charts by Marvin Gaye. Lyrics are quoted in the third caption of panel 1, the third caption of panel 2, and the caption of page 15 panel 1.
+  **I Heard It Through the Grapevine**: a song originally popularized by Gladys Knight and the Pips, later taken to the top of the charts by Marvin Gaye. Lyrics are quoted in the third caption of panel 1, the third caption of panel 2, and the caption of page 15 panel 1.
 
 ### Page 15
 
 - #### Panel 6
 
-**Under Pressure**: A song written and performed by David
-Bowie and Queen. (Recall the mention of Queen frontsman Freddie Mercury in
-#41.) The song is about closeted homosexuals.
+  **Under Pressure**: A song written and performed by David
+  Bowie and Queen. (Recall the mention of Queen frontsman Freddie Mercury in
+  #41.) The song is about closeted homosexuals.
 
 ### Page 16
 
 - #### Panel 6
 
-Recall that Del pulled the same trick in #41.
+  Recall that Del pulled the same trick in #41.
 
 9: Tiffany Watches II
 
@@ -173,23 +173,23 @@ Note the ironic change in meaning of "watches" from section 4.
 
 - #### Panel 3
 
-**Sister Midnight**: a song from Iggy Pop's album _The Idiot_. Note that David Bowie has partial writing credit for the song, giving him three song references in one issue.
+  **Sister Midnight**: a song from Iggy Pop's album _The Idiot_. Note that David Bowie has partial writing credit for the song, giving him three song references in one issue.
 
 ### Page 22
 
 - #### Panel 4
 
-**Coming**: Slang for ejaculating; often written "cum".
+  **Coming**: Slang for ejaculating; often written "cum".
 
 ### Page 24
 
 - #### Panel 2
 
-Desire's quote is from Job 1:15, 16, 17, 19, where four messengers report disasters to Job, each ending their message with this line. Job lost all his children and property to these disasters, the result of a bet between God and Satan. Note that in both cases, Suffragette City and Job, the bystanders were simply unfortunate enough to get caught up in the struggles of more powerful beings, and were otherwise innocent.
+  Desire's quote is from Job 1:15, 16, 17, 19, where four messengers report disasters to Job, each ending their message with this line. Job lost all his children and property to these disasters, the result of a bet between God and Satan. Note that in both cases, Suffragette City and Job, the bystanders were simply unfortunate enough to get caught up in the struggles of more powerful beings, and were otherwise innocent.
 
 - #### Panel 4
 
-Contrast this ">snf<" with page 7.
+  Contrast this ">snf<" with page 7.
 
 ## Credits
 

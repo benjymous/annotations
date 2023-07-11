@@ -8,49 +8,49 @@
 
 - #### Panel 2
 
-Notice that Daniel is playing with Barbie's old toys from A Game of You: Luz, Wilkinson, and Martin Tenbones.
+  Notice that Daniel is playing with Barbie's old toys from A Game of You: Luz, Wilkinson, and Martin Tenbones.
 
 ### Page 2
 
 - #### Panel 5
 
-Alianore (as long-time readers will remember) is an old lover of Dream's who came to a bad end, although the details are obscure.
+  Alianore (as long-time readers will remember) is an old lover of Dream's who came to a bad end, although the details are obscure.
 
 - #### Panel 6
 
-We've seen the destruction of the Ruby and the Rose-Quartz; in 7:17:9 and 36:26:2, respectively.
+  We've seen the destruction of the Ruby and the Rose-Quartz; in 7:17:9 and 36:26:2, respectively.
 
 ### Page 4
 
 - #### Panel 5
 
-Probably referring to the gathering in part 1 of "The Season of Mists". (22:8:2)
+  Probably referring to the gathering in part 1 of "The Season of Mists". (22:8:2)
 
 ### Page 7
 
 - #### Panel 1
 
-Mazikeen's speech impediments seem to have gotten worse since the last time she had a line. She's saying, "Go away".
+  Mazikeen's speech impediments seem to have gotten worse since the last time she had a line. She's saying, "Go away".
 
 - #### Panel 2
 
-"If you don't go away, I will call the police." "Go away."
+  "If you don't go away, I will call the police." "Go away."
 
 - #### Panel 6
 
-"Go in then. He deserves you."
+  "Go in then. He deserves you."
 
 ### Page 8
 
 - #### Panel 3
 
-Mary Gentian gets around; we saw her first in upstate New York in 6:12-13; then again in New York City in "A Game of You" part 6 (37:12:8). She may also have been the newscaster on the nighttime news in 58:1:5. She is named for British fantasy writer Mary Gentle, just by the by.
+  Mary Gentian gets around; we saw her first in upstate New York in 6:12-13; then again in New York City in "A Game of You" part 6 (37:12:8). She may also have been the newscaster on the nighttime news in 58:1:5. She is named for British fantasy writer Mary Gentle, just by the by.
 
 ### Page 10
 
 - #### Panel 5
 
-HIV can be transmitted when users of intravenously injected drugs share hypodermic needles. Cleaning the needles with bleach kills the virus. Hal is implying that that's how Chantal and Zelda contracted AIDS.
+  HIV can be transmitted when users of intravenously injected drugs share hypodermic needles. Cleaning the needles with bleach kills the virus. Hal is implying that that's how Chantal and Zelda contracted AIDS.
 
 ### Page 11
 
@@ -60,19 +60,19 @@ HIV can be transmitted when users of intravenously injected drugs share hypoderm
 
 - #### Panel 5
 
-Hal is referring to a fashion theory that classifies people into four types associated with the seasons. Each type is meant to look good in certain colors and bad in others. Note Hal's "Gregory" t-shirt.
+  Hal is referring to a fashion theory that classifies people into four types associated with the seasons. Each type is meant to look good in certain colors and bad in others. Note Hal's "Gregory" t-shirt.
 
 ### Page 12
 
 - #### Panel 1
 
-This appears to be the place where Morpheus brought Rose Walker to kill her, in "The Doll's House" part 6 (15:22:5).
+  This appears to be the place where Morpheus brought Rose Walker to kill her, in "The Doll's House" part 6 (15:22:5).
 
 ### Page 13
 
 - #### Panel 3
 
-Lucifer is quoting Edgar Allen Poe's poem "The Raven". The poem completes the line:
+  Lucifer is quoting Edgar Allen Poe's poem "The Raven". The poem completes the line:
 
 > "...nevermore."
 
@@ -80,23 +80,23 @@ Delirium, on the other hand, is (intentionally or not) quoting Matthew the raven
 
 - #### Panel 5
 
-"Los Angeles" is Spanish for "the angels" (the name is actually a shortened version -- originally it was something like "City of Mary, Queen of the Angels") and the city is often known by the nickname Lucifer gives it. No doubt he appreciates the irony involved in the erstwhile devil running a night club in the city of angels.
+  "Los Angeles" is Spanish for "the angels" (the name is actually a shortened version -- originally it was something like "City of Mary, Queen of the Angels") and the city is often known by the nickname Lucifer gives it. No doubt he appreciates the irony involved in the erstwhile devil running a night club in the city of angels.
 
 ### Page 14
 
 - #### Panel 3
 
-In "The Season of Mists" part 2 (23:20:3-5).
+  In "The Season of Mists" part 2 (23:20:3-5).
 
 ### Page 20
 
 - #### Panel 2
 
-Death proposed borrowing a book from Lucien in "Brief Lives" part 6 (46:19:2).
+  Death proposed borrowing a book from Lucien in "Brief Lives" part 6 (46:19:2).
 
 - #### Panel 3
 
-Hope Mirrlees is a British writer of the early 20th century, best known for her fantasy novel _Lud-in-the-Mist_. _A Fly in Amber_ is subtitled, _being an extravagant biography of the romantic antiquary Sir Robert Bruce Cotton_.
+  Hope Mirrlees is a British writer of the early 20th century, best known for her fantasy novel _Lud-in-the-Mist_. _A Fly in Amber_ is subtitled, _being an extravagant biography of the romantic antiquary Sir Robert Bruce Cotton_.
 
 ### Page 24
 

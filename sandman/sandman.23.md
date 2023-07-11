@@ -21,7 +21,7 @@ Not yet reprinted in any other form
 
 - #### Panel 3
 
-Dream's helmet is designed to resemble a gas mask; here we see most clearly that it is not. Note that the trunk appears to be a spinal column; we know from an earlier issue that the helmet was made from the bones of a dead god. We see that that is literally true.
+  Dream's helmet is designed to resemble a gas mask; here we see most clearly that it is not. Note that the trunk appears to be a spinal column; we know from an earlier issue that the helmet was made from the bones of a dead god. We see that that is literally true.
 
 ### Page 2-3
 
@@ -32,37 +32,37 @@ foreshadowing.
 
 - #### Panel 3
 
-What is "Weep-Not"?
+  What is "Weep-Not"?
 
 ### Page 8
 
 - #### Panel 7
 
-Note the beads of sweat on Dream's brow.
+  Note the beads of sweat on Dream's brow.
 
 ### Page 9
 
 - #### Panel 5
 
-In Western tradition, rulers refer to themselves in the first person plural.
+  In Western tradition, rulers refer to themselves in the first person plural.
 
 ### Page 10
 
 - #### Panel 1
 
-What is the "Starving Jubilee"?
+  What is the "Starving Jubilee"?
 
 - #### Panel 2
 
-The Silver City is where the angels dwell. Although it is later stated that the Silver City is not Heaven, it may be treated as a euphemism for Heaven. It appears in both _Sandman_ #24 and _Books of Magic_ #1. The Fields of Paradise probably harkens back to the Greek Elysian Fields, where only the finest dead go.
+  The Silver City is where the angels dwell. Although it is later stated that the Silver City is not Heaven, it may be treated as a euphemism for Heaven. It appears in both _Sandman_ #24 and _Books of Magic_ #1. The Fields of Paradise probably harkens back to the Greek Elysian Fields, where only the finest dead go.
 
 - #### Panel 3
 
-We may note that in Roger Zelazny's Amber series, Amber at first is believed to be the real world, and all other worlds merely shadows of it; later it is learned that the Courts of Chaos sit in polar opposite to Amber, and all worlds are shadows of both. This is reminiscent of Lucifer's description here. We may also note what appears to be a sea of blood; another such sea appeared in the realm of Faerie in _Books of Magic_ #3.
+  We may note that in Roger Zelazny's Amber series, Amber at first is believed to be the real world, and all other worlds merely shadows of it; later it is learned that the Courts of Chaos sit in polar opposite to Amber, and all worlds are shadows of both. This is reminiscent of Lucifer's description here. We may also note what appears to be a sea of blood; another such sea appeared in the realm of Faerie in _Books of Magic_ #3.
 
 - #### Panel 5
 
-The torture of this person, identified on the next page, is reminiscent of the Clive Barker film _Hellraiser_, where evil Cenobites take away, to be tortured those who summon them.
+  The torture of this person, identified on the next page, is reminiscent of the Clive Barker film _Hellraiser_, where evil Cenobites take away, to be tortured those who summon them.
 
 ### Page 11
 
@@ -74,11 +74,11 @@ Breschau of Livonia. No reference for Breschau, but Livonia is a Baltic land. Th
 
 - #### Panel 1
 
-Breschau, obviously, held sway in Livonia c. 900 AD.
+  Breschau, obviously, held sway in Livonia c. 900 AD.
 
 - #### Panel 2
 
-My source appears to indicate that Christianity was not brought to the Baltic regions before 1186 AD (although they would certainly have had contact with it by the German invasions in the 11th century). If this is so, Breschau could not have been Christian.
+  My source appears to indicate that Christianity was not brought to the Baltic regions before 1186 AD (although they would certainly have had contact with it by the German invasions in the 11th century). If this is so, Breschau could not have been Christian.
 
 ### Page 13
 
@@ -90,17 +90,17 @@ My source appears to indicate that Christianity was not brought to the Baltic re
 
 - #### Panel 4
 
-The best guess for the age of the solar system is around 8 billion years, with the entire universe perhaps 18 billion years old. The possible error in the age is ten billion years either way. We have seen in _Swamp Thing_ that aliens who die near Earth go to human afterlives, rather than to the place of their own creed, although _Sandman_ has hinted that the dead go where they think they should. We may note that on Dante's trip through _Inferno_, he met only Italians. We have also seen, with the Endless, at least, that appearance is mostly a question of expectations. At the least, we infer that Lucifer's hell is local to Earth, which also leads us to conclude that the Creator infested ten billion years preparing damnation for only about a quarter million years' worth of humanity's existence. Kind of gives you an exaggerated sense of importance.
+  The best guess for the age of the solar system is around 8 billion years, with the entire universe perhaps 18 billion years old. The possible error in the age is ten billion years either way. We have seen in _Swamp Thing_ that aliens who die near Earth go to human afterlives, rather than to the place of their own creed, although _Sandman_ has hinted that the dead go where they think they should. We may note that on Dante's trip through _Inferno_, he met only Italians. We have also seen, with the Endless, at least, that appearance is mostly a question of expectations. At the least, we infer that Lucifer's hell is local to Earth, which also leads us to conclude that the Creator infested ten billion years preparing damnation for only about a quarter million years' worth of humanity's existence. Kind of gives you an exaggerated sense of importance.
 
 ### Page 15
 
 - #### Panel 1
 
-Samael, as seen before, was Lucifer's angelic name.
+  Samael, as seen before, was Lucifer's angelic name.
 
 - #### Panel 3
 
-The angel with the flaming sword is, I believe, Gabriel.
+  The angel with the flaming sword is, I believe, Gabriel.
 
 Although Gabriel (God's messenger, who holds the flaming sword [although it has been inferred that the flaming sword spoken of is in fact another angel entirely, Azrael, who's name means, i believe "the lord's trumpet" also called by Salman Rushdie, in a pun "the lord's trump" who is not only the angel of death, but also the messenger {hence "trumpet" and "trump" and the connection with Gabriel} of the Apocalypse]) is said to have a flaming sword, it is thought only o be symbolic of his eventual role in the Apocalypse.
 
@@ -120,7 +120,7 @@ What the Seraph says is a well known prayer, known as the "Kadosh," but the rest
 
 - #### Panel 4
 
-Raguel (Friend of God) is one of the seven archangels listed in the Enoch writings. He is an angel of earth, a guard of the 2nd or 4th Heaven. He "takes vengeance on the world of luminaries", which is interpreted to mean that, for cause, he brings other angels to account. His name is also spelled Raguil, Rasuil, Rufael, Suryan, and Akrasiel. Sandalphon (co-brother) is the angel who stands on Earth with his head reaching to the door of Heaven, in Jewish folklore. The extremely late poet Henry Wadsworth Longfellow wrote a poem entitled "Sandalphon" in which the angel "gathers the prayers" of the faithful and turns them into flower "garlands of purple and red". He is the Angel of Glory and the Angel of Prayer.
+  Raguel (Friend of God) is one of the seven archangels listed in the Enoch writings. He is an angel of earth, a guard of the 2nd or 4th Heaven. He "takes vengeance on the world of luminaries", which is interpreted to mean that, for cause, he brings other angels to account. His name is also spelled Raguil, Rasuil, Rufael, Suryan, and Akrasiel. Sandalphon (co-brother) is the angel who stands on Earth with his head reaching to the door of Heaven, in Jewish folklore. The extremely late poet Henry Wadsworth Longfellow wrote a poem entitled "Sandalphon" in which the angel "gathers the prayers" of the faithful and turns them into flower "garlands of purple and red". He is the Angel of Glory and the Angel of Prayer.
 
 - #### Panel 5-7
 
@@ -130,7 +130,7 @@ This sequence is especially reminiscent of Milton's _Paradise Lost_.
 
 - #### Panel 2
 
-Among the torture implements, note the swinging blade on the right; a similar blade was used in Edgar Allan Poe's "The Pit and the Pendulum."
+  Among the torture implements, note the swinging blade on the right; a similar blade was used in Edgar Allan Poe's "The Pit and the Pendulum."
 
 ### Page 17
 
@@ -140,7 +140,7 @@ This gate would appear to be made from flesh. The pillars resemble human intesti
 
 - #### Panel 3
 
-The Demon Etrigan, who is the star of his own series and who has been referenced before, is a rhyming demon.
+  The Demon Etrigan, who is the star of his own series and who has been referenced before, is a rhyming demon.
 
 ### Page 18
 
@@ -152,7 +152,7 @@ Again, revisionists and apologists have often cast Lucifer as a long-suffering v
 
 - #### Panel 2
 
-Limbo is generally assumed to be a realm of nothingness. The Far Realms would appear to be little more than mythical lexical wordplay.
+  Limbo is generally assumed to be a realm of nothingness. The Far Realms would appear to be little more than mythical lexical wordplay.
 
 ### Page 19-20
 
@@ -164,8 +164,8 @@ Perhaps the most reasonable guess is that Dream and Lucifer exited Hell through 
 
 - #### Panel 1
 
-We saw this creature in the previous issue, although she was not identified there.
-Thus spoke <emble@aol.com>:
+  We saw this creature in the previous issue, although she was not identified there.
+  Thus spoke <emble@aol.com>:
 
 > Mazikeen, or Shedeem.
 > A species of beings in Jewish mythology resembling the Arabian Jinn said to be agents of magic and enchantment. When Adam fell, says the Talmud, he was excommunicated for 130 years, during which time he begat demons and spectres.
@@ -178,35 +178,35 @@ Thus spoke <emble@aol.com>:
 
 - #### Panel 2
 
-"No. You are still my Lord. I will not forsake you. I love you, master." Mazikeen is drawn with much more detail this issue; the musculature is clearly evident, where she appeared more skull-like in #22.
+  "No. You are still my Lord. I will not forsake you. I love you, master." Mazikeen is drawn with much more detail this issue; the musculature is clearly evident, where she appeared more skull-like in #22.
 
 - #### Panel 3
 
-Lilith is a demoness in tradition.
+  Lilith is a demoness in tradition.
 
 - #### Panel 4
 
-"Lucifer, where you go, I will follow. Let me go with you.
-Please. I must stay by your side for ever."
+  "Lucifer, where you go, I will follow. Let me go with you.
+  Please. I must stay by your side for ever."
 
 - #### Panel 5
 
-"Sire?"
+  "Sire?"
 
 ### Page 22
 
 - #### Panel 1
 
-Nice tongue-kiss there. Note Mazikeen's trachea.
+  Nice tongue-kiss there. Note Mazikeen's trachea.
 
 - #### Panel 3
 
-Is Lucifer destroying Mazikeen here, or is he sending her on
-to where the other demons are?
+  Is Lucifer destroying Mazikeen here, or is he sending her on
+  to where the other demons are?
 
 - #### Panel 5
 
-Lucifer must lose his wings as the last vestige of his status. Though it is virtually certain that Lucifer could choose to look as if he did not have wings, he must actually have them cut off in order to effect lasting change.
+  Lucifer must lose his wings as the last vestige of his status. Though it is virtually certain that Lucifer could choose to look as if he did not have wings, he must actually have them cut off in order to effect lasting change.
 
 ### Page 23
 

@@ -15,47 +15,47 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 - #### Panel 1
 
-Though this does not resemble the house of _Sandman_ #1, this is 'Fawney Rig', the future dwelling of Roderick Burgess. Neil declaims: "It is the same house: more wings and bits were added in 1810 (by Lady Johanna) and in 1875 (by the industrialist from whom Burgess later built the house)."
+  Though this does not resemble the house of _Sandman_ #1, this is 'Fawney Rig', the future dwelling of Roderick Burgess. Neil declaims: "It is the same house: more wings and bits were added in 1810 (by Lady Johanna) and in 1875 (by the industrialist from whom Burgess later built the house)."
 
 Gaiman has also said that the house was named by Lady Johanna after the manner in which she acquired it. Unfortunately, this is not explicated here. Wych Cross is probably related to the wych elm.
 
 - #### Panel 2
 
-Dream and the reader met Lady Johanna in _Sandman_ #13.
+  Dream and the reader met Lady Johanna in _Sandman_ #13.
 
 - #### Panel 4
 
-As will be seen in a later issue, Dream once swore to have nothing to do with Orpheus, who is his son; he acts covertly, through an agent, in the case to salve his pride.
+  As will be seen in a later issue, Dream once swore to have nothing to do with Orpheus, who is his son; he acts covertly, through an agent, in the case to salve his pride.
 
 ### Page 2
 
 - #### Panel 1
 
-The leaders of the French Revolution instituted a new calendar to emphasize the break with the old ways of government. They began a new numbering of years, redivided the year into new months, and renamed all the days. Thermidor was, obviously, one of the months. See the Appendix for more details.
+  The leaders of the French Revolution instituted a new calendar to emphasize the break with the old ways of government. They began a new numbering of years, redivided the year into new months, and renamed all the days. Thermidor was, obviously, one of the months. See the Appendix for more details.
 
 - #### Panel 5
 
-Montmarat is a neighborhood in Paris, which is notable for a number of cemetaries with the graves of famous personages.
+  Montmarat is a neighborhood in Paris, which is notable for a number of cemetaries with the graves of famous personages.
 
 - #### Panel 6
 
-Is there significance in the thug's one unseeing eye?
+  Is there significance in the thug's one unseeing eye?
 
 ### Page 3
 
 - #### Panel 3
 
-**Aristo**: from aristocrat; the Revolution overthrew the old feudal lords, most of whom died under the guillotine.
+  **Aristo**: from aristocrat; the Revolution overthrew the old feudal lords, most of whom died under the guillotine.
 
 - #### Panel 4
 
-The Committee was the governing body from France during much of the Revolution. It was more autocratic than the king had been, and remained in power by drinking the blood of its enemies, giving rise to the name of the era, the "Reign of Terror".
+  The Committee was the governing body from France during much of the Revolution. It was more autocratic than the king had been, and remained in power by drinking the blood of its enemies, giving rise to the name of the era, the "Reign of Terror".
 
 ### Page 4
 
 - #### Panel 5
 
-This is from a popular song of the Revolution in Paris.
+  This is from a popular song of the Revolution in Paris.
 
 It translates as "That (they?) will go, the aristocrats, to the lamppost." Public lighting was a recent civic improvement, and quite handy for dispatching unwanted nobility. The song may be found in _Les Miserables_. Note the visible spine and trachea/esophagus of the head.
 
@@ -63,25 +63,25 @@ It translates as "That (they?) will go, the aristocrats, to the lamppost." Publi
 
 - #### Panel 4
 
-Will the earlobe grow back, though?
+  Will the earlobe grow back, though?
 
 - #### Panel 9
 
-We have seen earlier that Orpheus is Dream's son. The _Sandman_ Special #1 will have Orpheus' story, although we never learn how his head came to be in Paris.
+  We have seen earlier that Orpheus is Dream's son. The _Sandman_ Special #1 will have Orpheus' story, although we never learn how his head came to be in Paris.
 
 ### Page 6
 
 - #### Panel 4
 
-**Hein**: French for "Eh?"
+  **Hein**: French for "Eh?"
 
 - #### Panel 5
 
-**Bonchance**: Good luck. This is a name; "bonne chance" is "good luck" in spoken French.
+  **Bonchance**: Good luck. This is a name; "bonne chance" is "good luck" in spoken French.
 
 - #### Panel 6
 
-Lots of cabbages in this issue... In french, le chou, pronounced more or less like "shoe". Often used as a term of endearment, such as in "mon petit chou", my little cabbage. The Carmagnole is a revolutionary dance from the countryside. Some lines:
+  Lots of cabbages in this issue... In french, le chou, pronounced more or less like "shoe". Often used as a term of endearment, such as in "mon petit chou", my little cabbage. The Carmagnole is a revolutionary dance from the countryside. Some lines:
 
 > "Dansons la Carmagnole, vive le son, vive le son
 > Dansons la Carmagnole, vive le son du canon"
@@ -99,33 +99,33 @@ Lots of cabbages in this issue... In french, le chou, pronounced more or less li
 
 - #### Panel 1
 
-The Revolution established the honorific "Citizen", much as the Leninists would later adopt "Comrade". Antoine Louis Leon de Richebourg de St. Just (1767-1794) was active in the Committee of Public Safety and organized the Terror. While the comic's depiction vaguely resembles his portrait, St. Just was noted for having an effeminate appearance which is not apparent in the comic rendering.
+  The Revolution established the honorific "Citizen", much as the Leninists would later adopt "Comrade". Antoine Louis Leon de Richebourg de St. Just (1767-1794) was active in the Committee of Public Safety and organized the Terror. While the comic's depiction vaguely resembles his portrait, St. Just was noted for having an effeminate appearance which is not apparent in the comic rendering.
 
 ### Page 8
 
 - #### Panel 1
 
-The Palace of Luxembourg is in Paris, and is named after a European royal family, which is also eponymic of the small European country Luxembourg, located between France, Belgium, and Germany.
+  The Palace of Luxembourg is in Paris, and is named after a European royal family, which is also eponymic of the small European country Luxembourg, located between France, Belgium, and Germany.
 
 - #### Panel 2
 
-Maximilien Francois Marie Isidore de Robespierre was the head of the Committee of Public Safety, and the virtual dictator of the country.
+  Maximilien Francois Marie Isidore de Robespierre was the head of the Committee of Public Safety, and the virtual dictator of the country.
 
 - #### Panel 3
 
-Prairial is another new month; the law was as St. Just states it.
+  Prairial is another new month; the law was as St. Just states it.
 
 - #### Panel 4
 
-Is the quote original to St. Just?
+  Is the quote original to St. Just?
 
 - #### Panel 5
 
-Recall that "make love" used to be what we'd call flirting or romancing, and did not have to involve actual intercourse. However, the French "make love", faire l'amour, has always had the sense of sexual intercourse (or so I am told). A lover, courtly romance style, was "amant", at least up to a century before.
+  Recall that "make love" used to be what we'd call flirting or romancing, and did not have to involve actual intercourse. However, the French "make love", faire l'amour, has always had the sense of sexual intercourse (or so I am told). A lover, courtly romance style, was "amant", at least up to a century before.
 
 - #### Panel 6
 
-**Tricoteuses**: knitters, feminine, from tricoter, to knit.
+  **Tricoteuses**: knitters, feminine, from tricoter, to knit.
 
 Probably a reference to Madame Defarge, a character in the novel _A Tale of Two Cities_ by Charles Dickens, which is set partially in revolutionary France.
 
@@ -135,7 +135,7 @@ Defarge was a spy and a trictoteuse, concealing secret messages in her scarves w
 
 - #### Panel 5
 
-Thomas Paine was an Englishman whose influential pamphlet _Common Sense_ lent strength to the American Revolution. His _Rights of Man_ sparked much interest in the French experiment with liberty, and was answered by Burke in _Reflections on the Revolution in France_. While Paine was in England, he was threatened by intrigue, and fled to France, where he had just been elected as a representative from Calais. He was involved in the process of the Revolution as well as being on the American staff drafting texts on freedom. He was a thorn in Robespierre's side as a devoted follower of liberty and democracy. Accordingly, when the revolutionaries perceived foreign plots against them, he was caught up in the Terror as a scapegoat and was imprisoned.
+  Thomas Paine was an Englishman whose influential pamphlet _Common Sense_ lent strength to the American Revolution. His _Rights of Man_ sparked much interest in the French experiment with liberty, and was answered by Burke in _Reflections on the Revolution in France_. While Paine was in England, he was threatened by intrigue, and fled to France, where he had just been elected as a representative from Calais. He was involved in the process of the Revolution as well as being on the American staff drafting texts on freedom. He was a thorn in Robespierre's side as a devoted follower of liberty and democracy. Accordingly, when the revolutionaries perceived foreign plots against them, he was caught up in the Terror as a scapegoat and was imprisoned.
 
 - #### Panel 7-9
 
@@ -145,31 +145,31 @@ St. Just is quoting _Common Sense_.
 
 - #### Panel 6
 
-Paine indeed escaped the guillotine as described here; he was freed following Robespierre's fall and resumed service in the French government as long as the Revolution endured. Quintidi: "Day Five", in the new calendar.
+  Paine indeed escaped the guillotine as described here; he was freed following Robespierre's fall and resumed service in the French government as long as the Revolution endured. Quintidi: "Day Five", in the new calendar.
 
 - #### Panel 8
 
-No ref for D'Eglantine. Danton was an important early figure in the Revolution who was purged in the Terror. Germinal is another month name.
+  No ref for D'Eglantine. Danton was an important early figure in the Revolution who was purged in the Terror. Germinal is another month name.
 
 ### Page 12
 
 - #### Panel 1
 
-This passage would tend to indicate that St. Just and Johanna did have sex, confirming the French interpretation.
+  This passage would tend to indicate that St. Just and Johanna did have sex, confirming the French interpretation.
 
 - #### Panel 2
 
-St. J\_\_\_: A period shorthand way of writing a name, also providing protection for the writer when writing of important people and sensitive incidents; there are several examples to come. It may be most familiar to American audiences through the works of Edgar Allan Poe.
+  St. J\_\_\_: A period shorthand way of writing a name, also providing protection for the writer when writing of important people and sensitive incidents; there are several examples to come. It may be most familiar to American audiences through the works of Edgar Allan Poe.
 
 - #### Panel 4
 
-**Place de la Revolution**: Now la Place de la Concorde or possibly Place St Michel. No ref on the dance of the beheaded bodies.
+  **Place de la Revolution**: Now la Place de la Concorde or possibly Place St Michel. No ref on the dance of the beheaded bodies.
 
 ### Page 13
 
 - #### Panel 1
 
-True Constantines, of whom Lady Johanna is one, are the sole surviving member of a twin birth. I have a painting ref for Robespierre which vaguely resembles this depiction.
+  True Constantines, of whom Lady Johanna is one, are the sole surviving member of a twin birth. I have a painting ref for Robespierre which vaguely resembles this depiction.
 
 - #### Panel 2-3
 
@@ -185,19 +185,19 @@ No reference for the Medenham Monks, though this is likely to be the same group 
 
 - #### Panel 6
 
-Lady Johanna, in this panel, and also page 15 panel 5, in drawn in a manner which recalls to me Berni Wrightson's Linda Holland, from _Swamp Thing_.
+  Lady Johanna, in this panel, and also page 15 panel 5, in drawn in a manner which recalls to me Berni Wrightson's Linda Holland, from _Swamp Thing_.
 
 ### Page 15
 
 - #### Panel 1
 
-William Pitt the Younger was Prime Minister of Great Britain from 1783-1801 and 1804-1806. He organized England's part in the war of reaction against revolutionary France and served the Revolution as a villain upon whom problems could be blamed.
+  William Pitt the Younger was Prime Minister of Great Britain from 1783-1801 and 1804-1806. He organized England's part in the war of reaction against revolutionary France and served the Revolution as a villain upon whom problems could be blamed.
 
 ### Page 16
 
 - #### Panel 2
 
-Note the corvine bird flying overhead. This is Jessamy, one of Matthew's predecessors. Note also the blood or blood-colored water; Constantines bear a heavy load of death, which the blood symbolizes.
+  Note the corvine bird flying overhead. This is Jessamy, one of Matthew's predecessors. Note also the blood or blood-colored water; Constantines bear a heavy load of death, which the blood symbolizes.
 
 ### Page 18
 
@@ -209,23 +209,23 @@ This is reminiscent of Edgar Allan Poe's _The Purloined Letter_.
 
 - #### Panel 2
 
-Note the slip of the tongue. St. Just is holding a pomander under his nose, a ball containing perfume, used to ward off infection (so believed) and stenches. Note that regular bathing, and the changing of clothes and underwear had not yet come into vogue.
+  Note the slip of the tongue. St. Just is holding a pomander under his nose, a ball containing perfume, used to ward off infection (so believed) and stenches. Note that regular bathing, and the changing of clothes and underwear had not yet come into vogue.
 
 ### Page 20
 
 - #### Panel 1
 
-**The Hebrus**: A Greek river, now called the Maritsa. In myth, Orpheus' head was in fact cast into the Hebrus.
+  **The Hebrus**: A Greek river, now called the Maritsa. In myth, Orpheus' head was in fact cast into the Hebrus.
 
 - #### Panel 6
 
-**Messire**: An ancestral form of the modern "monsieur".
+  **Messire**: An ancestral form of the modern "monsieur".
 
 ### Page 21
 
 - #### Panel 3
 
-Will-they or nil-they: Parallel structure to will-he or nil-he, whence willy-nilly. Romany: Gypsy.
+  Will-they or nil-they: Parallel structure to will-he or nil-he, whence willy-nilly. Romany: Gypsy.
 
 ### Page 23
 
@@ -235,11 +235,11 @@ On 9 Thermidor [1794], St. Just was interrupted after saying but a few words of 
 
 - #### Panel 1
 
-**Naxos**: Confirmed to be a Greek island, one of the Cyclades, between Greece and Turkey.
+  **Naxos**: Confirmed to be a Greek island, one of the Cyclades, between Greece and Turkey.
 
 - #### Panel 4
 
-Refer back to page 9, and the quote from _Common Sense_.
+  Refer back to page 9, and the quote from _Common Sense_.
 
 ## Credits
 

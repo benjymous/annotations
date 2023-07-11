@@ -11,21 +11,21 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 - #### Panel 2
 
-This is Hal talking.
+  This is Hal talking.
 
 - #### Panel 3
 
-They're talking about Jed. He's probably concussed from where the Corinthian would have hit him to knock him out, and dehydrated from being locked in a car trunk for an indeterminate period of time. A "drip" is an IV (from "intravenous"), a fluid-filled bag leading to a needle which is inserted into a vein in the forearm or back of the hand. It's used to supply fluid (typically a saline solution to roughly match the blood plasma), medicines, and nutrition (as the simple sugar glucose).
+  They're talking about Jed. He's probably concussed from where the Corinthian would have hit him to knock him out, and dehydrated from being locked in a car trunk for an indeterminate period of time. A "drip" is an IV (from "intravenous"), a fluid-filled bag leading to a needle which is inserted into a vein in the forearm or back of the hand. It's used to supply fluid (typically a saline solution to roughly match the blood plasma), medicines, and nutrition (as the simple sugar glucose).
 
 ### Page 2
 
 - #### Panel 1
 
-Ken and Barbie are deliberately this cute, ending each other's thoughts and wearing the same clothes.
+  Ken and Barbie are deliberately this cute, ending each other's thoughts and wearing the same clothes.
 
 - #### Panel 4
 
-I'm familiar with the moral tale, but it is quite long and I'll merely say that the point is that God does not abandon you during difficult times, those times are when he supports you the most.
+  I'm familiar with the moral tale, but it is quite long and I'll merely say that the point is that God does not abandon you during difficult times, those times are when he supports you the most.
 
 ### Page 4
 
@@ -57,19 +57,19 @@ Chantal's self-image is flat, all solid colors and lines, a sophisticated-lookin
 
 - #### Panel 2
 
-"They like the same things. She took it to a party. They were a big hit. The perfect couple."
+  "They like the same things. She took it to a party. They were a big hit. The perfect couple."
 
 - #### Panel 3
 
-"Everybody knows about her and the sentence."
+  "Everybody knows about her and the sentence."
 
 - #### Panel 4
 
-"The sentence spent most of last year in Czechoslovakian for political reasons. But it was recently translated back into English. In order to stop the sentence being deported, Chantal has arranged to have it read into the Library of Congress. However--" There are two languages in Czechoslovakia, Czech and Slovak. There is no Czechoslovakian. But this is a dream.
+  "The sentence spent most of last year in Czechoslovakian for political reasons. But it was recently translated back into English. In order to stop the sentence being deported, Chantal has arranged to have it read into the Library of Congress. However--" There are two languages in Czechoslovakia, Czech and Slovak. There is no Czechoslovakian. But this is a dream.
 
 - #### Panel 5
 
-"...when the time comes she discovers that she can no longer read. She has no idea what the sentence is about. Despondent and joyless, Chantal begins to cry." The entire sequence reads like a bizarre parody of a real relationship.
+  "...when the time comes she discovers that she can no longer read. She has no idea what the sentence is about. Despondent and joyless, Chantal begins to cry." The entire sequence reads like a bizarre parody of a real relationship.
 
 - ####Zelda panel 1
 
@@ -77,11 +77,11 @@ Zelda's self-image is childlike, reminiscent of Alice of Lewis Carroll's "Alice'
 
 - #### Panel 2
 
-Chantal as mother figure?
+  Chantal as mother figure?
 
 - #### Panel 3
 
-What does the skull in the cupped hands mean? Above this panel, in the panel of Zelda and Chantal together, there are meant to be two captions. The two captions do not appear in the original comic publication, but were replaced in the trade paperback reprint. The first reads: With Melmoth we walk the corridors of Otranto
+  What does the skull in the cupped hands mean? Above this panel, in the panel of Zelda and Chantal together, there are meant to be two captions. The two captions do not appear in the original comic publication, but were replaced in the trade paperback reprint. The first reads: With Melmoth we walk the corridors of Otranto
 
 **The second reads**:
 
@@ -89,11 +89,11 @@ What does the skull in the cupped hands mean? Above this panel, in the panel of 
 
 - #### Panel 4
 
-I presume that the "Hey, li'l moron" speech is something Zelda's mother abused her with. Zelda doesn't speak; perhaps she stutters? "Godzilla": Godzilla is the star of a series of giant monster movies made cheaply in Japan. Probably here, Zelda's mom is teasing her: "Do you believe in God...zilla?" or Zelda's mind is forming unconscious connections: "Do you believe in God?" becomes "Do you believe in Godzilla?" It is also possible that "Godzilla" is a cruel twist on the name "Zelda," teasing other children might use.
+  I presume that the "Hey, li'l moron" speech is something Zelda's mother abused her with. Zelda doesn't speak; perhaps she stutters? "Godzilla": Godzilla is the star of a series of giant monster movies made cheaply in Japan. Probably here, Zelda's mom is teasing her: "Do you believe in God...zilla?" or Zelda's mind is forming unconscious connections: "Do you believe in God?" becomes "Do you believe in Godzilla?" It is also possible that "Godzilla" is a cruel twist on the name "Zelda," teasing other children might use.
 
 - #### Panel 5
 
-Under the veil appears to be a spider's face. Zelda and Chantal collect spiders.
+  Under the veil appears to be a spider's face. Zelda and Chantal collect spiders.
 
 ### Page 8
 
@@ -101,7 +101,7 @@ This is Hal's dream.
 
 - #### Panel 2
 
-Pictured and referred to are Bette Davis, Judy Garland, and Marilyn Monroe. I suspect Hal dreams their secret is that they are all men, too.
+  Pictured and referred to are Bette Davis, Judy Garland, and Marilyn Monroe. I suspect Hal dreams their secret is that they are all men, too.
 
 These three figures are major inspirations for drag queens such as Hal, as well as other aspects of gay culture. Judy Garland, and especially her role in _The Wizard of Oz_, has provided the gay community with the symbol of the rainbow, and San Francisco (a Mecca for gay men) is often referred to as "Oz". Being a "friend of Dorothy" is gay slang for being gay.
 
@@ -111,31 +111,31 @@ The flamboyant public nature of the stars, combined with their more private off-
 
 - #### Panel 5
 
-Judy Garland as Dorothy in the movie _The Wizard of Oz_.
+  Judy Garland as Dorothy in the movie _The Wizard of Oz_.
 
 - #### Panel 6
 
-Judy pulls off her face to reveal the face of the Wicked Witch of the West from the same movie. Margaret Hamilton played the Witch, and later went on to do many coffee commercials for Maxwell House brand.
+  Judy pulls off her face to reveal the face of the Wicked Witch of the West from the same movie. Margaret Hamilton played the Witch, and later went on to do many coffee commercials for Maxwell House brand.
 
 - #### Panel 7
 
-The final face revealed is actually the Wizard of the movie, though it's hard to see. Frank Morgan was the actor who played the Wizard. The simple symbology in this sequence is that Hal wears a mask, either when he's being a transvestite, or when he's not, and he wants to stop.
+  The final face revealed is actually the Wizard of the movie, though it's hard to see. Frank Morgan was the actor who played the Wizard. The simple symbology in this sequence is that Hal wears a mask, either when he's being a transvestite, or when he's not, and he wants to stop.
 
 ### Page 9-10
 
 - #### Panel 6
 
-A double page spread. The "Big-Bad-Wolf-Man" is Fun Land, a serial killer who tried to kill Rose. "The pale stranger" is Dream.
+  A double page spread. The "Big-Bad-Wolf-Man" is Fun Land, a serial killer who tried to kill Rose. "The pale stranger" is Dream.
 
 - #### Panel 12
 
-Brevard County is a county in Florida, where Rose is staying.
+  Brevard County is a county in Florida, where Rose is staying.
 
 ### Page 11
 
 - #### Panel 4
 
-Dream's responsibilities include protecting the Dreaming.
+  Dream's responsibilities include protecting the Dreaming.
 
 His responsibilities are part of what he represents as one of the Endless.
 
@@ -158,11 +158,11 @@ Zelda's and Chantal's dreams begin to intersect. Chantal's dream is a recursive 
 
 - #### Panel 3
 
-Zelda's story. This is the beginning of M.R. James' short story "Lost Hearts", although it is slightly misquoted; it should read `1811' instead of `1911'. James is one of the most famous British writers of ghost stories. Another is titled "The Haunted Doll's House". It had been suggested earlier that Zelda's story was _Vanity Fair_ by William Makepeace Thackeray. This is now believed incorrect.
+  Zelda's story. This is the beginning of M.R. James' short story "Lost Hearts", although it is slightly misquoted; it should read `1811' instead of `1911'. James is one of the most famous British writers of ghost stories. Another is titled "The Haunted Doll's House". It had been suggested earlier that Zelda's story was _Vanity Fair_ by William Makepeace Thackeray. This is now believed incorrect.
 
 - #### Panel 4
 
-Zelda's dream image has changed dramatically. Note the lace overlay on the artwork.
+  Zelda's dream image has changed dramatically. Note the lace overlay on the artwork.
 
 ### Page 14
 
@@ -178,7 +178,7 @@ The commentary on Barbara is important in the context of the later storyline. Ha
 
 - #### Panel 1
 
-Two page spread. Another place in Barbara's dreamworld, "The Place of Lost Carnadine". The "carn-" in similar words comes from Latin "caro", meaning flesh. It has also acquired the meaning of "dark red" from the color of flesh. The morpheme "-ine", if it is used here, means "having the nature of".
+  Two page spread. Another place in Barbara's dreamworld, "The Place of Lost Carnadine". The "carn-" in similar words comes from Latin "caro", meaning flesh. It has also acquired the meaning of "dark red" from the color of flesh. The morpheme "-ine", if it is used here, means "having the nature of".
 
 ### Page 21
 
@@ -190,7 +190,7 @@ Again, we see _a_ Doll's House.
 
 - #### Panel 2
 
-Sigmund Freud was an early 20th Century doctor who invented the practice of psychoanalysis. In his theories, much of human behavior is a direct result of the instinct for sex. When the subconscious mind is thinking of sex, the conscious mind tends to transform these thoughts into ones that are more acceptable in some sense. Thus a dream of flying is really a dream of sex. In dreams, almost any object that is longer than it is wide is considered a metaphor for the phallus. Freud recognized the inherent fallacy of this sort of overanalysis with the statement, "Sometimes a cigar is just a cigar." The major flaw in Freud's work is his inability to deconstruct his own sexual hangups.
+  Sigmund Freud was an early 20th Century doctor who invented the practice of psychoanalysis. In his theories, much of human behavior is a direct result of the instinct for sex. When the subconscious mind is thinking of sex, the conscious mind tends to transform these thoughts into ones that are more acceptable in some sense. Thus a dream of flying is really a dream of sex. In dreams, almost any object that is longer than it is wide is considered a metaphor for the phallus. Freud recognized the inherent fallacy of this sort of overanalysis with the statement, "Sometimes a cigar is just a cigar." The major flaw in Freud's work is his inability to deconstruct his own sexual hangups.
 
 ### Page 23
 
@@ -207,7 +207,7 @@ Note that we saw Kit Marlowe in _Sandman_ #13, in 1589, although there did not a
 
 - #### Panel 7
 
-Another reference to rules that govern Dream's behavior. I suspect that the best explanation is that the mere existence of the Endless engenders rules, that rules _are_ because They _are_.
+  Another reference to rules that govern Dream's behavior. I suspect that the best explanation is that the mere existence of the Endless engenders rules, that rules _are_ because They _are_.
 
 ## Credits
 

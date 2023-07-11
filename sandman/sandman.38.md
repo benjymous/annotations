@@ -17,7 +17,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 - #### Panel 1
 
-**Old Country**: Immigrants to America are often portrayed as referring to their original homeland as the Old Country.
+  **Old Country**: Immigrants to America are often portrayed as referring to their original homeland as the Old Country.
 
 **Palaver**: From Portuguese palavra (originally from Latin, of course), meaning talk, conversation, particularly at length or with little content.
 
@@ -29,7 +29,7 @@ The storyteller and his granddaughter have made no appearances other than this s
 
 - #### Panel 5
 
-**Asafoetida**: Also asafetida, a highly scented, dark yellow gum resin with a bitter acrid taste obtained from the roots of several plants of the genus _Ferula_ found in Central Asia. Some species of _Ferula_ are found in the Mediterranean area as well, but these are not noted as yielding asafoetida. The plants are typically tall with divided leaves. _Ferula_ are umbelliferous, related to carrots, celery, parsnips, and herbs such as parsley. The word is from medieval Latin asa, "gum" (a borrowing from Persian "aza") + fetida, "stinking".
+  **Asafoetida**: Also asafetida, a highly scented, dark yellow gum resin with a bitter acrid taste obtained from the roots of several plants of the genus _Ferula_ found in Central Asia. Some species of _Ferula_ are found in the Mediterranean area as well, but these are not noted as yielding asafoetida. The plants are typically tall with divided leaves. _Ferula_ are umbelliferous, related to carrots, celery, parsnips, and herbs such as parsley. The word is from medieval Latin asa, "gum" (a borrowing from Persian "aza") + fetida, "stinking".
 
 Asafoetida is the primary flavoring ingredient of Worcestershire sauce, along with anchovies. It is also used to test the responses of infants, since its odor is an inducer of lachrymose behavior patterns. (It makes babies cry.)
 
@@ -39,7 +39,7 @@ Burial at a crossroads is traditionally a method of ensuring that the undead do 
 
 - #### Panel 6
 
-**MTV**: An American cable network with affiliated networks around the world that primarily plays music videos.
+  **MTV**: An American cable network with affiliated networks around the world that primarily plays music videos.
 
 ### Page 2
 
@@ -49,29 +49,29 @@ Real forests, true bears, true wolves: Akin to Platonic forms, the creatures and
 
 - #### Panel 1
 
-**True folk**: see above.
+  **True folk**: see above.
 
 - #### Panel 2
 
-We infer that the taleteller's name is also Vassily.
+  We infer that the taleteller's name is also Vassily.
 
 - #### Panel 4
 
-The gypsies, or Romany, as they are said to call themselves, are a nomadic European people of a common stock. In tales, they are fortune-tellers, traders, and thieves; bewitching beauties who may steal a man's eye while their cousin steals his purse, or his babe. Heed a gypsy's warning, and beware the curse of a gypsy wisewoman.
+  The gypsies, or Romany, as they are said to call themselves, are a nomadic European people of a common stock. In tales, they are fortune-tellers, traders, and thieves; bewitching beauties who may steal a man's eye while their cousin steals his purse, or his babe. Heed a gypsy's warning, and beware the curse of a gypsy wisewoman.
 
 ### Page 4
 
 - #### Panel 1
 
-Note Vassily's eyes, which here suggest the vertical pupils of a cat. The granddaughter's eyes from pages 1-2 may also suggest this form.
+  Note Vassily's eyes, which here suggest the vertical pupils of a cat. The granddaughter's eyes from pages 1-2 may also suggest this form.
 
 - #### Panel 5
 
-Note Vassily's skill in hunting.
+  Note Vassily's skill in hunting.
 
 - #### Panel 8
 
-**Koschei**: From the _Dictionary of Mythology, Folklore, and Symbols_ (Jobes, 1961), Koschei is an evil, immortal Slavic spirit with a secret weakness (presumably that he kept his life in his heart), finally slain by a hero. He is compared to the Shinto spirit-snake Koshi, the Minotaur of Greek myth, and Jormungandr, the Midgard Serpent of Norse myth.
+  **Koschei**: From the _Dictionary of Mythology, Folklore, and Symbols_ (Jobes, 1961), Koschei is an evil, immortal Slavic spirit with a secret weakness (presumably that he kept his life in his heart), finally slain by a hero. He is compared to the Shinto spirit-snake Koshi, the Minotaur of Greek myth, and Jormungandr, the Midgard Serpent of Norse myth.
 
 The _Facts on File Encyclopedia of World Mythology and Legend_ (Mercatante, 1988) notes:
 
@@ -83,29 +83,29 @@ _The Red Fairy Book_ recounts a tale wherein Koschei is killed when his head is 
 
 - #### Panel 2
 
-Gaje': From context, the Romany word for outsider.
+  Gaje': From context, the Romany word for outsider.
 
 - #### Panel 5
 
-Here, "The People" is likely distinct from "True Folk" and possibly akin to "The Family" of page 1 panel 1.
+  Here, "The People" is likely distinct from "True Folk" and possibly akin to "The Family" of page 1 panel 1.
 
 - #### Panel 9
 
-Value's in Dreams: A convergence.
+  Value's in Dreams: A convergence.
 
 ### Page 6
 
 - #### Panel 3
 
-**Pskoff**: (Also Pskov) A lake and a city in the European part of Russia. Vyatka: Former name of Kirov, another city in the European part of Russia.
+  **Pskoff**: (Also Pskov) A lake and a city in the European part of Russia. Vyatka: Former name of Kirov, another city in the European part of Russia.
 
 - #### Panel 7
 
-The gypsy is not reacting to Vassily's hands, which are normal as far as I can tell, but to what she sees in his eyes.
+  The gypsy is not reacting to Vassily's hands, which are normal as far as I can tell, but to what she sees in his eyes.
 
 - #### Panel 8
 
-The gypsy is making the sign against the evil eye with her left hand, and the sign against the devil with her right.
+  The gypsy is making the sign against the evil eye with her left hand, and the sign against the devil with her right.
 
 ### Page 7
 
@@ -115,7 +115,7 @@ I have no idea what the small bone carved into the shape of a small bone means. 
 
 - #### Panel 7
 
-**Celeste**: From Latin meaning "heavenly".
+  **Celeste**: From Latin meaning "heavenly".
 
 **Michael Jackson**: A pop star whose popularity with teen culture waxes and wanes in an unpredictable fashion; also noted for his eccentric habits, his androgyny, and his extensive plastic surgery.
 
@@ -127,11 +127,11 @@ Vassily did not slay the peddler woman, nor was she eaten by a beast, nor was he
 
 - #### Panel 4
 
-**Forest is home to ghouls and ogres**: Ironic, considering what transpires in the inn.
+  **Forest is home to ghouls and ogres**: Ironic, considering what transpires in the inn.
 
 - #### Panel 5
 
-Note the book.
+  Note the book.
 
 ### Page 9
 
@@ -141,25 +141,25 @@ It is traditional for heroes to be beset by monsters while on the road, and the 
 
 - #### Panel 7
 
-Note the valuable lesson.
+  Note the valuable lesson.
 
 - #### Panel 8
 
-Considering that the inn's fare was characterized as "poor" on the preceding page, we are probably meant to infer that Vassily -ate- the villainous innkeeper. Note that Vassily is wiping his mouth.
+  Considering that the inn's fare was characterized as "poor" on the preceding page, we are probably meant to infer that Vassily -ate- the villainous innkeeper. Note that Vassily is wiping his mouth.
 
 ### Page 10
 
 - #### Panel 1
 
-This is certainly Lucien, Dream's factotum and librarian, among other duties.
+  This is certainly Lucien, Dream's factotum and librarian, among other duties.
 
 - #### Panel 2
 
-Note the remark on the definition of value.
+  Note the remark on the definition of value.
 
 - #### Panel 6
 
-This is the traditional tale of Koshchei.
+  This is the traditional tale of Koshchei.
 
 ### Page 11
 
@@ -171,19 +171,19 @@ Post-modern: At least one definition proclaims this to be a style which consciou
 
 - #### Panel 6
 
-**Raven**: Probably Lucien has employed one of Dream's earlier raven-companions to aid him.
+  **Raven**: Probably Lucien has employed one of Dream's earlier raven-companions to aid him.
 
 ### Page 13
 
 - #### Panel 5
 
-Note Vassily's teeth, as well as his eyes.
+  Note Vassily's teeth, as well as his eyes.
 
 ### Page 14
 
 - #### Panel 7
 
-Again, "The People". Note the figure in the lower right who seems to be in a semihuman shape. Is the figure behind the fire of superhuman height?
+  Again, "The People". Note the figure in the lower right who seems to be in a semihuman shape. Is the figure behind the fire of superhuman height?
 
 ### Page 15
 
@@ -193,90 +193,90 @@ Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives i
 
 - #### Panel 2
 
-Trust the story-teller: Contemplate this, too, as you contemplate the depth of this tale. If the story-teller tells you not to trust him, may you trust his word in this?
+  Trust the story-teller: Contemplate this, too, as you contemplate the depth of this tale. If the story-teller tells you not to trust him, may you trust his word in this?
 
 - #### Panel 3
 
-Scented powder was used to cover up body odor in eras past when folk did not bathe often.
+  Scented powder was used to cover up body odor in eras past when folk did not bathe often.
 
 - #### Panel 4
 
-Men and women, it is said, are driven stark mad by the light of the full moon.
+  Men and women, it is said, are driven stark mad by the light of the full moon.
 
 ### Page 18
 
 - #### Panel 4
 
-Cold iron traditionally has power over those with magic in their blood (particularly the Faerie folk).
+  Cold iron traditionally has power over those with magic in their blood (particularly the Faerie folk).
 
 - #### Panel 7
 
-**True Death**: A storyteller's kind of death, as with the true wolves, or a death final enough to snuff the soul with the body? Or perhaps The People may pass through more than one kind of death, since the gypsy woman's death was not notable enough to be called the True Death.
+  **True Death**: A storyteller's kind of death, as with the true wolves, or a death final enough to snuff the soul with the body? Or perhaps The People may pass through more than one kind of death, since the gypsy woman's death was not notable enough to be called the True Death.
 
 ### Page 19
 
 - #### Panel 2
 
-There are rules to magic, and to the Dreaming, and one of them apparently holds that Lucien cannot steal, but may only purchase.
+  There are rules to magic, and to the Dreaming, and one of them apparently holds that Lucien cannot steal, but may only purchase.
 
 - #### Panel 3
 
-Note that Lucien's glasses seem to distort his face, increasing the apparent size of his features, indicating farsightedness, a curious ailment for a librarian. Compare with his appearance on page 10, panel 6, where his glasses seem to be of the opposite prescription (note the curve of his face, not the size of his eyes).
+  Note that Lucien's glasses seem to distort his face, increasing the apparent size of his features, indicating farsightedness, a curious ailment for a librarian. Compare with his appearance on page 10, panel 6, where his glasses seem to be of the opposite prescription (note the curve of his face, not the size of his eyes).
 
 - #### Panel 5
 
-The continents indeed do move, as the scientists say, although this could not be known to Vassily, who may even be ignorant of the concept of continents. In any case, the continents have been roughly in their current shapes for many millions of years, so the last thief Lucien refers to could not have been an ordinary human (although _Brief Lives_, the subsequent storyline, indicates that seemingly human beings have been around for much longer than commonly believed).
+  The continents indeed do move, as the scientists say, although this could not be known to Vassily, who may even be ignorant of the concept of continents. In any case, the continents have been roughly in their current shapes for many millions of years, so the last thief Lucien refers to could not have been an ordinary human (although _Brief Lives_, the subsequent storyline, indicates that seemingly human beings have been around for much longer than commonly believed).
 
 - #### Panel 7
 
-**Dwarrow, nightgaunt**: "Dwarrow" is probably a variant of the dwarves (dvergar, in Old Icelandic) of Norse myth. "Nightgaunts", faceless flying humanoid servants of the god Nodens, appeared in stories by H.P. Lovecraft, an early horror author. In particular, they may have appeared in "The Dream-Quest of Unknown Kadeth". They tickled people into submission and could transport them to "the Dreamlands", a Lovecraftian analog to the Dreaming.
-Again note Vassily's teeth and eyes.
+  **Dwarrow, nightgaunt**: "Dwarrow" is probably a variant of the dwarves (dvergar, in Old Icelandic) of Norse myth. "Nightgaunts", faceless flying humanoid servants of the god Nodens, appeared in stories by H.P. Lovecraft, an early horror author. In particular, they may have appeared in "The Dream-Quest of Unknown Kadeth". They tickled people into submission and could transport them to "the Dreamlands", a Lovecraftian analog to the Dreaming.
+  Again note Vassily's teeth and eyes.
 
 ### Page 20
 
 - #### Panel 7
 
-**Newfound habit**: Ordinarily, it takes two occurrences to mark a "habit", but Dream may be indulging in sarcasm. Note also that he is dressed in what appears to be formal wear; prior to his capture, he always dressed in clothing appropriate to the highest stratum of society and to his audience.
+  **Newfound habit**: Ordinarily, it takes two occurrences to mark a "habit", but Dream may be indulging in sarcasm. Note also that he is dressed in what appears to be formal wear; prior to his capture, he always dressed in clothing appropriate to the highest stratum of society and to his audience.
 
 ### Page 21
 
 - #### Panel 3
 
-Dream is not unsympathetic to the young man, for he is as besotted by romance. Dream's realm is one of imagination, and Dream takes precedence over Desire when the object of desire is constructed from imagination, as in Vassily's case.
+  Dream is not unsympathetic to the young man, for he is as besotted by romance. Dream's realm is one of imagination, and Dream takes precedence over Desire when the object of desire is constructed from imagination, as in Vassily's case.
 
 - #### Panel 5
 
-The Merrie Comedie of the Redemption of Doctor Faustus, by Christopher Marlowe: Marlowe's most famous work concerns the fall of Doctor Faustus, who sought a long life at the cost of his soul. This is clearly a sequel, one which Marlowe may in fact have planned but never written. Recall that Lucien's library is a library of works never completed. Marlowe appeared in _The Doll's House_, in "Men of Good Fortune".
+  The Merrie Comedie of the Redemption of Doctor Faustus, by Christopher Marlowe: Marlowe's most famous work concerns the fall of Doctor Faustus, who sought a long life at the cost of his soul. This is clearly a sequel, one which Marlowe may in fact have planned but never written. Recall that Lucien's library is a library of works never completed. Marlowe appeared in _The Doll's House_, in "Men of Good Fortune".
 
 ### Page 22
 
 - #### Panel 1
 
-I am told by ladyfriends of mine that menstruation is often accompanied by dreams of blood, though that is certainly not the only possible cause for this dream.
+  I am told by ladyfriends of mine that menstruation is often accompanied by dreams of blood, though that is certainly not the only possible cause for this dream.
 
 - #### Panel 6
 
-**Tokay**: An aromatic wine, made in the region around the town of the same name in Hungary.
+  **Tokay**: An aromatic wine, made in the region around the town of the same name in Hungary.
 
 ### Page 23
 
 - #### Panel 2
 
-Finally, a hint into the nature of The People; a clan of shapechangers or lycanthropes.
+  Finally, a hint into the nature of The People; a clan of shapechangers or lycanthropes.
 
 - #### Panel 3
 
-An adequate description of the mating rituals of a variety of mammalian carnivores.
+  An adequate description of the mating rituals of a variety of mammalian carnivores.
 
 - #### Panel 5
 
-**Sexist**: The sexism of the story is weak and of the second order, but lies in the role of the Duke's daughter as prize, and the power of Vassily to choose his woman; the important sorts of power, to make life's choices, lie with men. This is filtered through a modern perspective, wherein the Duke's daughter does not scream or faint when confronted with strange men in her bedroom, and where a woman of the People may be a better hunter than a man, but the sort of sexism endemic in fairy tales remains.
+  **Sexist**: The sexism of the story is weak and of the second order, but lies in the role of the Duke's daughter as prize, and the power of Vassily to choose his woman; the important sorts of power, to make life's choices, lie with men. This is filtered through a modern perspective, wherein the Duke's daughter does not scream or faint when confronted with strange men in her bedroom, and where a woman of the People may be a better hunter than a man, but the sort of sexism endemic in fairy tales remains.
 
 ### Page 24
 
 - #### Panel 2
 
-**Novaya Zemlya**: Two islands north of the Russian mainland, inside the Arctic Circle. The islands are virtually uninhabited, so I doubt Celeste is seriously claiming that The People are from there; probably she just named the first Russian wilderness that came to mind.
+  **Novaya Zemlya**: Two islands north of the Russian mainland, inside the Arctic Circle. The islands are virtually uninhabited, so I doubt Celeste is seriously claiming that The People are from there; probably she just named the first Russian wilderness that came to mind.
 
 - #### Panel 4-5
 
@@ -284,7 +284,7 @@ Celeste is manifestly wrong about the story, as the storyteller is right (and li
 
 - #### Panel 6
 
-Another reference to value. Note the grandfather's eyes are the same as Vassily's. The storyteller becomes the story.
+  Another reference to value. Note the grandfather's eyes are the same as Vassily's. The storyteller becomes the story.
 
 ## Credits
 

@@ -35,10 +35,10 @@ First story reprinted in _The Doll's House_
 
 - #### Panel 1
 
-This scene occurs in Washington Square Park, in Greenwich Village, New York City. Many specific details in the artwork confirm this. Several people, including this writer, thought that the arch was intended to be L'Arc de Triomphe, in la Place Charles de Gaulle, Paris, France. In fact, that arch is sufficiently larger than the pictured arch that the Washington Square arch could fit underneath it.
-The Washington Square arch is at the north end of the park, near a T-intersection of Waverly Place and the end of Fifth Avenue, as pictured. The issue was probably drawn from life or from photographs since the details match so precisely.
-Dream is sitting in a fountain, which is dry in summer only during a drought, which are not uncommon. The dark circular structures on the bottom are caps on the fountainheads. Many people use the fountain in exactly the way Dream is. Considering the lack of crowds, this scene is set on a weekday, or early in the morning.
-Note the birds. The linkage of Dream with birds is a common motif.
+  This scene occurs in Washington Square Park, in Greenwich Village, New York City. Many specific details in the artwork confirm this. Several people, including this writer, thought that the arch was intended to be L'Arc de Triomphe, in la Place Charles de Gaulle, Paris, France. In fact, that arch is sufficiently larger than the pictured arch that the Washington Square arch could fit underneath it.
+  The Washington Square arch is at the north end of the park, near a T-intersection of Waverly Place and the end of Fifth Avenue, as pictured. The issue was probably drawn from life or from photographs since the details match so precisely.
+  Dream is sitting in a fountain, which is dry in summer only during a drought, which are not uncommon. The dark circular structures on the bottom are caps on the fountainheads. Many people use the fountain in exactly the way Dream is. Considering the lack of crowds, this scene is set on a weekday, or early in the morning.
+  Note the birds. The linkage of Dream with birds is a common motif.
 
 Thus writes "Kai'Ckul" <oshinsky@webspan.net>:
 
@@ -57,74 +57,74 @@ Thus writes "Kai'Ckul" <oshinsky@webspan.net>:
 
 - #### Panel 6
 
-The young woman is Death, Dream's older sister. Note that Death has subsequently been portrayed with a mark around one of her eyes. Mike Dringenberg credits "Cinnamon" as the visual inspiration for Death in _The Doll's House_.
-As we learn later, Death attends all deaths. She is seen attending many deaths in the course of the rest of the series. It is perhaps worth noting that she was not seen at Roderick Burgess's death, nor at the deaths in the diner in _Sandman_ #6; Neil, presumably, had not decided exactly how he wanted to use her. Note, also, that the conversation does not take place in a "gallery", a method of formal communication between the Endless demonstrated later in _The Doll's House_.
+  The young woman is Death, Dream's older sister. Note that Death has subsequently been portrayed with a mark around one of her eyes. Mike Dringenberg credits "Cinnamon" as the visual inspiration for Death in _The Doll's House_.
+  As we learn later, Death attends all deaths. She is seen attending many deaths in the course of the rest of the series. It is perhaps worth noting that she was not seen at Roderick Burgess's death, nor at the deaths in the diner in _Sandman_ #6; Neil, presumably, had not decided exactly how he wanted to use her. Note, also, that the conversation does not take place in a "gallery", a method of formal communication between the Endless demonstrated later in _The Doll's House_.
 
 ### Page 4
 
 - #### Panel 6
 
-**"Mary Poppins"** was a Disney film of the 60s which mixed live action and animation in an unprecedented manner. Death's description of the movie is accurate.
+  **"Mary Poppins"** was a Disney film of the 60s which mixed live action and animation in an unprecedented manner. Death's description of the movie is accurate.
 
 ### Page 5
 
 - #### Panel 2
 
-**Utterly a banker**: "Banker" (or "Merchant Banker") is standard London rhyming slang for "wanker", an unpleasant person (from "wanking off", or masturbation).
+  **Utterly a banker**: "Banker" (or "Merchant Banker") is standard London rhyming slang for "wanker", an unpleasant person (from "wanking off", or masturbation).
 
 - #### Panel 7
 
-Dick van Dyke's line translates to Standard English as "Oh, it's a jolly holiday with you, Mary Poppins!"
+  Dick van Dyke's line translates to Standard English as "Oh, it's a jolly holiday with you, Mary Poppins!"
 
 ### Page 6
 
 - #### Panel 2
 
-Here we clearly see for the first time Death's necklace, which is an ankh, an Egyptian cross that symbolizes life. Note that the chain of the ankh is occasionally missing, as in page 8 panel 3, page 10 panel 2, and others.
+  Here we clearly see for the first time Death's necklace, which is an ankh, an Egyptian cross that symbolizes life. Note that the chain of the ankh is occasionally missing, as in page 8 panel 3, page 10 panel 2, and others.
 
 ### Page 7
 
 - #### Panel 2
 
-As I said earlier, Dream is quick to take revenge, but doubts its value afterward.
+  As I said earlier, Dream is quick to take revenge, but doubts its value afterward.
 
 - #### Panel 3
 
-The recovery of his tools occupies most of Dream's attention in the first major storyline, _More than Rubies_, issues #1-7, reprinted in the trade paperback _Preludes and Nocturnes_.
+  The recovery of his tools occupies most of Dream's attention in the first major storyline, _More than Rubies_, issues #1-7, reprinted in the trade paperback _Preludes and Nocturnes_.
 
 ### Page 9
 
 - #### Panel 4
 
-Dream is an "anthropomorphic personification"; I like that. It means that he is a concept who appears in a form appropriate to those who are conceiving of the concept; i.e. he appears human to humans, as the god of dreams to Martians.
+  Dream is an "anthropomorphic personification"; I like that. It means that he is a concept who appears in a form appropriate to those who are conceiving of the concept; i.e. he appears human to humans, as the god of dreams to Martians.
 
 ### Page 10
 
 - #### Panel 1
 
-Desire is another of Dream's siblings. We are developing a mythology here, so pay attention :-)
+  Desire is another of Dream's siblings. We are developing a mythology here, so pay attention :-)
 
 ### Page 11
 
 - #### Panel 3
 
-Franklin's been wandering around in the background for a while, but he gets named here. This is his first known appearance; he does not appear later, for reasons that will become apparent.
+  Franklin's been wandering around in the background for a while, but he gets named here. This is his first known appearance; he does not appear later, for reasons that will become apparent.
 
 ### Page 12
 
 - #### Panel 5
 
-Dream is at least two hundred years old. We know from his interaction with J'onn J'onzz in #5 that he is at least as old as Martian civilization, which is implied, I believe, to have ended thousands of years ago.
+  Dream is at least two hundred years old. We know from his interaction with J'onn J'onzz in #5 that he is at least as old as Martian civilization, which is implied, I believe, to have ended thousands of years ago.
 
 ### Page 13
 
 - #### Panel 1
 
-**Romany** is the name of the Gypsies for themselves and for their language.
+  **Romany** is the name of the Gypsies for themselves and for their language.
 
 - #### Panel 5
 
-**Yid**: Yiddish is the traditional lingua franca of the Ashkenazic Jews, those who have ancestors that lived in Germany, Europe and Slavic countries. Yiddish is the closest language to early German but is written in Hebraic characters. The Yiddish people were generally called Ashkenazim or Ashkenazic Jews to distinguish them from the Sephardim or Sephardic Jews, Mediterranean Jews of Spanish origin, expelled from Spain due to religious persecution in 1492. "Yid" means "Jew" in Yiddish. It is a strong racial epithet, particularly when used in Europe by a Gentile. The American equivalent is probably "kike". Here, used by a Jew, "Yid" may be seen as self- deprecating humor.
+  **Yid**: Yiddish is the traditional lingua franca of the Ashkenazic Jews, those who have ancestors that lived in Germany, Europe and Slavic countries. Yiddish is the closest language to early German but is written in Hebraic characters. The Yiddish people were generally called Ashkenazim or Ashkenazic Jews to distinguish them from the Sephardim or Sephardic Jews, Mediterranean Jews of Spanish origin, expelled from Spain due to religious persecution in 1492. "Yid" means "Jew" in Yiddish. It is a strong racial epithet, particularly when used in Europe by a Gentile. The American equivalent is probably "kike". Here, used by a Jew, "Yid" may be seen as self- deprecating humor.
 
 ### Page 14
 
@@ -134,37 +134,37 @@ This prayer is a traditional Jewish prayer, the "Sh'ma", said in Hebrew. It is e
 
 - #### Panel 4
 
-Note the painting of the skull, an unusual decoration.
+  Note the painting of the skull, an unusual decoration.
 
 - #### Panel 7
 
-Harry finds out about the afterlife, but we don't. We have learned before that there is a Hell, for example; other DC books, particularly _Swamp Thing_, have shown other aspects of the afterlife. _Season of Mists_, in _Sandman_ #21-28, is directly concerned with Hell.
+  Harry finds out about the afterlife, but we don't. We have learned before that there is a Hell, for example; other DC books, particularly _Swamp Thing_, have shown other aspects of the afterlife. _Season of Mists_, in _Sandman_ #21-28, is directly concerned with Hell.
 
 ### Page 15
 
 - #### Panel 1
 
-Death is often portrayed in Christian tradition as being an angel, often specifically the archangel Uriel. Angels are traditionally portrayed as being winged. (A modern example of a winged Death is in the movie _The Adventures of Baron Munchausen_.) The portrayal of a winged Death may predate Christianity.
+  Death is often portrayed in Christian tradition as being an angel, often specifically the archangel Uriel. Angels are traditionally portrayed as being winged. (A modern example of a winged Death is in the movie _The Adventures of Baron Munchausen_.) The portrayal of a winged Death may predate Christianity.
 
 ### Page 16
 
 - #### Panel 7
 
-The comedian is discussing the Batman story _A Death in the Family_, in which the readers could call a special phone number to vote whether Robin lived or died. By a narrow margin, Robin (the second character to use that name), was voted out.
+  The comedian is discussing the Batman story _A Death in the Family_, in which the readers could call a special phone number to vote whether Robin lived or died. By a narrow margin, Robin (the second character to use that name), was voted out.
 
 - #### Panel 8
 
-Note the puns on the fate of the comedian.
+  Note the puns on the fate of the comedian.
 
 ### Page 17
 
 - #### Panel 2
 
-"Dying on stage" typically means telling jokes that do not succeed. This is a punning reference to that.
+  "Dying on stage" typically means telling jokes that do not succeed. This is a punning reference to that.
 
 - #### Panel 6
 
-**"The Sunless Lands"** would appear to be an appelation for the afterlives. It may be from Greek mythology, the most pleasant section of Hades, where the virtuous dwelt after death. It may also refer to the Sumerian/Babylonian afterlife, which was dusty, dark, and sterile, according to Enkidu's vision in the "Epic of Gilgamesh".
+  **"The Sunless Lands"** would appear to be an appelation for the afterlives. It may be from Greek mythology, the most pleasant section of Hades, where the virtuous dwelt after death. It may also refer to the Sumerian/Babylonian afterlife, which was dusty, dark, and sterile, according to Enkidu's vision in the "Epic of Gilgamesh".
 
 Note the interesting characterization of Dream as more terrible than Death. Quite true, considering that Dream can make a person's life a living nightmare (c.f. Alex Burgess in #1, pp 38-40); whereas Death merely takes people's lives.
 
@@ -174,17 +174,17 @@ Note the interesting characterization of Dream as more terrible than Death. Quit
 
 - #### Panel 5
 
-**"Booful"** is Eastender slang for "beautiful". (Eastenders are from the East End of London.) Aside from this, which may be a dialectical slip on Gaiman's part, the entire issue takes place in New York City.
+  **"Booful"** is Eastender slang for "beautiful". (Eastenders are from the East End of London.) Aside from this, which may be a dialectical slip on Gaiman's part, the entire issue takes place in New York City.
 
 ### Page 19
 
 - #### Panel 1
 
-Death is a "gift".
+  Death is a "gift".
 
 - #### Panel 4
 
-**Note the graffito**: "Dreams make no promises". In conjunction with the dead man, this may be seen as a contrast between the siblings' realms.
+  **Note the graffito**: "Dreams make no promises". In conjunction with the dead man, this may be seen as a contrast between the siblings' realms.
 
 ### Page 19
 
@@ -198,13 +198,13 @@ Note that now we know Dream to be "many thousands of years" old; we should by no
 
 - #### Panel 1
 
-Note that the arch is clearly marked "Erected by the People of the City of New York".
+  Note that the arch is clearly marked "Erected by the People of the City of New York".
 
 ### Page 24
 
 - #### Panel 3
 
-The wings that Dream is hearing are the pigeons'. Note that Dream's Greek manifestation is traditionally portrayed as having wings, but that we have no reason to think that this version of Dream does so, as one correspondent suggested.
+  The wings that Dream is hearing are the pigeons'. Note that Dream's Greek manifestation is traditionally portrayed as having wings, but that we have no reason to think that this version of Dream does so, as one correspondent suggested.
 
 ## Credits
 

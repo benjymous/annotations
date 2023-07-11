@@ -17,7 +17,7 @@ Not yet reprinted in any other form
 
 - #### Panel 2
 
-The guardians of the gate are as seen before; Cluracan of Faerie is new to _Sandman_. The realm of Faerie has played a large role in two previous Gaiman works, _Sandman_ #19 and _Books of Magic_ #3.
+  The guardians of the gate are as seen before; Cluracan of Faerie is new to _Sandman_. The realm of Faerie has played a large role in two previous Gaiman works, _Sandman_ #19 and _Books of Magic_ #3.
 
 Cluracan (with accents over the 'u' and second 'a') is a diminutive old-man fairy of Ireland, traditionally believed to inhabit wine cellars. he takes care that the beer barrels and wine casks are not left running, and for reward is always given his supper. In County Cork, the cluracan is often associated with the leprechaun, but this is because of the physical similarity and the fact that both know the whereabouts of hidden treasure.
 
@@ -25,7 +25,7 @@ Cluracan (with accents over the 'u' and second 'a') is a diminutive old-man fair
 
 - #### Panel 2
 
-The Lord and Lady of Faerie were seen in _Sandman_ #19, and bear the traditional names Auberon and Titania. Nuala is new.
+  The Lord and Lady of Faerie were seen in _Sandman_ #19, and bear the traditional names Auberon and Titania. Nuala is new.
 
 ### Page 3
 
@@ -33,13 +33,13 @@ I will only note any beings who were not seen in _Sandman_ #24. A knowledge of w
 
 - #### Panel 1
 
-Symbolically, Mjolnir is an agent of destruction, fertility, and resurrection. It was used to hallow brides before weddings; its phallic nature is obvious here. It was also used to raise Thor's goats from the dead, and is able to shrink so that it may be hidden inside Thor's shirt as needed. Perhaps rubbing is how it is made to return to normal size. As the story goes, Loki made a bet with the dwarves in which they would have to produce three objects for the Aesir. If the gods were pleased, then Loki would lose his head. As the dwarves worked at their forges to produce the gifts, Loki came in the form of a biting fly or a bee to harass them, which introduced flaws into each gift. Thus Mjolnir had a short handle (for more, see the annotation to _Sandman_ #24). To compensate, the dwarves further gifted Thor with a magic glove (of strength? Possibly also a belt of strength? What were the other gifts?) Although Loki lost the bet, the dwarves were not allowed to take his head, since they were not allowed to harm his neck.
+  Symbolically, Mjolnir is an agent of destruction, fertility, and resurrection. It was used to hallow brides before weddings; its phallic nature is obvious here. It was also used to raise Thor's goats from the dead, and is able to shrink so that it may be hidden inside Thor's shirt as needed. Perhaps rubbing is how it is made to return to normal size. As the story goes, Loki made a bet with the dwarves in which they would have to produce three objects for the Aesir. If the gods were pleased, then Loki would lose his head. As the dwarves worked at their forges to produce the gifts, Loki came in the form of a biting fly or a bee to harass them, which introduced flaws into each gift. Thus Mjolnir had a short handle (for more, see the annotation to _Sandman_ #24). To compensate, the dwarves further gifted Thor with a magic glove (of strength? Possibly also a belt of strength? What were the other gifts?) Although Loki lost the bet, the dwarves were not allowed to take his head, since they were not allowed to harm his neck.
 
 ### Page 4
 
 - #### Panel 2
 
-The tithe was mentioned in _Books of Magic_ #3.
+  The tithe was mentioned in _Books of Magic_ #3.
 
 ### Page 6
 
@@ -55,45 +55,45 @@ This is a splash panel. Note the figures below the angels; we did not see these 
 
 - #### Panel 7
 
-Sif is Thor's wife.
+  Sif is Thor's wife.
 
 ### Page 9
 
 - #### Panel 1
 
-Gregory is the foot off to stage right.
+  Gregory is the foot off to stage right.
 
 ### Page 10
 
 - #### Panel 1
 
-Sawing a person in half is a common illusion practiced by stage magicians. However, Cain here has really cut Abel in twain, not just by illusion.
+  Sawing a person in half is a common illusion practiced by stage magicians. However, Cain here has really cut Abel in twain, not just by illusion.
 
 - #### Panel 7
 
-"Pooey man" is just a childish way of expressing distaste or disgust for the hapless Abel.
+  "Pooey man" is just a childish way of expressing distaste or disgust for the hapless Abel.
 
 - #### Panel 9
 
-The angel Duma may be smiling at Cain's tricks in this panel.
+  The angel Duma may be smiling at Cain's tricks in this panel.
 
 ### Page 12
 
 - #### Panel 1
 
-A stooge bears the brunt of the tricks and jokes perpetrated during an act.
+  A stooge bears the brunt of the tricks and jokes perpetrated during an act.
 
 ### Page 13
 
 - #### Panel 7
 
-Note that Loki is being left essentially alone.
+  Note that Loki is being left essentially alone.
 
 ### Page 15
 
 - #### Panel 1
 
-The warriors in the notional Ragnarok are the legendary Justice Society of America, who went there to save the world, or so they thought, in _Last Days of the JSA_ Special #1. In the ball we can see the Hawkman, a giant (probably Surtur), and Wesley Dodds in his guise as the Sandman. We saw Wesley in the first issue of this series.
+  The warriors in the notional Ragnarok are the legendary Justice Society of America, who went there to save the world, or so they thought, in _Last Days of the JSA_ Special #1. In the ball we can see the Hawkman, a giant (probably Surtur), and Wesley Dodds in his guise as the Sandman. We saw Wesley in the first issue of this series.
 
 - #### Panel 3-4
 
@@ -103,17 +103,17 @@ Dream's lines here are reminiscent of the lines uttered by the heroine of _Sandm
 
 - #### Panel 2
 
-It appears that Jemmy is wearing a bra, like a child playing dress-up.
+  It appears that Jemmy is wearing a bra, like a child playing dress-up.
 
 - #### Panel 3
 
-The forces of Chaos mentioned here are unique to Gaiman.
+  The forces of Chaos mentioned here are unique to Gaiman.
 
 ### Page 17
 
 - #### Panel 2
 
-The Lord of Order here refers to a thread that engendered two stories, in _Justice League_ #6 and _Justice League International_ #7, and later in a crossover between _Justice League America_ and _Justice League Europe_. The agent collecting the dream essences for Order was known as the Grey Man; he rebelled and subsequently attracted the attentions of super-heroes.
+  The Lord of Order here refers to a thread that engendered two stories, in _Justice League_ #6 and _Justice League International_ #7, and later in a crossover between _Justice League America_ and _Justice League Europe_. The agent collecting the dream essences for Order was known as the Grey Man; he rebelled and subsequently attracted the attentions of super-heroes.
 
 ### Page 18
 
@@ -125,7 +125,7 @@ Note the Japanese-style art. One would normally expect Susano-O-No-Mikoto, a boi
 
 - #### Panel 4
 
-Dream's brother is the prodigal Endless, who has been mentioned before, although his identity will not be revealed until _Sandman_ Special #1. His location has not been revealed.
+  Dream's brother is the prodigal Endless, who has been mentioned before, although his identity will not be revealed until _Sandman_ Special #1. His location has not been revealed.
 
 ### Page 24
 

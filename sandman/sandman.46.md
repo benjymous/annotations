@@ -14,7 +14,7 @@
 
 - #### Panel 4
 
-Do not overlook the "eye" reference.
+  Do not overlook the "eye" reference.
 
 ### Page 2
 
@@ -46,7 +46,7 @@ Its touch is petrifying.
 
 - #### Panel 3
 
-**Doggerel**: a pun. Note Barnabas's coiled tail, indicating that he's probably a Spitz breed, akin to huskies, corgis, and other working dogs. Spitz are characterized by "foxy" heads, such as Barnabas's large, triangular ears and long, narrow muzzle.
+  **Doggerel**: a pun. Note Barnabas's coiled tail, indicating that he's probably a Spitz breed, akin to huskies, corgis, and other working dogs. Spitz are characterized by "foxy" heads, such as Barnabas's large, triangular ears and long, narrow muzzle.
 
 2: The Parting of the Ways
 
@@ -56,13 +56,13 @@ Its touch is petrifying.
 
 - #### Panel 1
 
-**Faramond**: a change in spelling from earlier appearances.
+  **Faramond**: a change in spelling from earlier appearances.
 
 If it's not a typo, it's probably an acknowledgement that spelling was inconsistent prior to the development of mass publishing, coupled with the inherent uncertainty of transliterating a name from one alphabet to another.
 
 - #### Panel 5
 
-Pharamond's "trouble with mortals" is ironic considering the theme of _Brief Lives_.
+  Pharamond's "trouble with mortals" is ironic considering the theme of _Brief Lives_.
 
 4: Dreamings of Meeting or Meetings of Dreaming?
 
@@ -70,31 +70,31 @@ Pharamond's "trouble with mortals" is ironic considering the theme of _Brief Liv
 
 - #### Panel 1
 
-It has been seen before (#22, for example) that the castle is the center of the Dreaming; the throne room is entirely consistent, but more explicit.
+  It has been seen before (#22, for example) that the castle is the center of the Dreaming; the throne room is entirely consistent, but more explicit.
 
 - #### Panel 2
 
-**Many doors**: I am reminded of the several hidden paths to the Jeweled Forest in _Tik-Tok of Oz_, by L. Frank Baum, but this is probably not significant.
+  **Many doors**: I am reminded of the several hidden paths to the Jeweled Forest in _Tik-Tok of Oz_, by L. Frank Baum, but this is probably not significant.
 
 ### Page 10
 
 - #### Panel 3
 
-**Bubastis**: See Appendix.
+  **Bubastis**: See Appendix.
 
 - #### Panel 4
 
-**Bast**: See Appendix.
+  **Bast**: See Appendix.
 
 ### Page 11
 
 - #### Panel 3
 
-Note Dream's pupils.
+  Note Dream's pupils.
 
 - #### Panel 5
 
-The ancient Egyptians revered cats, and mummified cats have been found in Egyptian tombs.
+  The ancient Egyptians revered cats, and mummified cats have been found in Egyptian tombs.
 
 5: The Trouble with Gods
 
@@ -112,11 +112,11 @@ The cat being euthanized is probably Chloe Russell's cat (#43, #49).
 
 - #### Panel 1
 
-Note the cigarette-smoking cartoon bats.
+  Note the cigarette-smoking cartoon bats.
 
 - #### Panel 4
 
-More books from Lucien's library:
+  More books from Lucien's library:
 
 - _The Death of Kai Lung_ by Ernest Bramah: See the Appendix.
 - _Chanticleer's Dance_ by Hope Mirrlees: Mirrlees is a favorite author of Gaiman. See annotation #22 for more details.
@@ -129,13 +129,13 @@ More books from Lucien's library:
 
 - #### Panel 3
 
-Mervyn appeared in #5 driving a bus.
+  Mervyn appeared in #5 driving a bus.
 
 ### Page 18
 
 - #### Panel 5
 
-Note the mirror in the place of Dream's sigil.
+  Note the mirror in the place of Dream's sigil.
 
 7: "Have You Got Anything with a Happy Ending?"
 
@@ -143,7 +143,7 @@ Note the mirror in the place of Dream's sigil.
 
 - #### Panel 6
 
-**Note the use of cartoon iconography**: the wavy lines indicating that a character is "steamed", thus angry; the question mark indicating puzzlement. Visual shorthand like this is generally restricted to more "cartoony" works than _Sandman_. (Compare to Scott McCloud's triangle of iconography in _Understanding Comics_.) Shorthand is necessarily more superficial than more explicit characterization. Panel 6 is duplicated in Death's words in panel 5 and her expression in panel 7, and Dream's words in panels 4 and 7.
+  **Note the use of cartoon iconography**: the wavy lines indicating that a character is "steamed", thus angry; the question mark indicating puzzlement. Visual shorthand like this is generally restricted to more "cartoony" works than _Sandman_. (Compare to Scott McCloud's triangle of iconography in _Understanding Comics_.) Shorthand is necessarily more superficial than more explicit characterization. Panel 6 is duplicated in Death's words in panel 5 and her expression in panel 7, and Dream's words in panels 4 and 7.
 
 Needless to say, it would be interesting to see the script to this issue to see how (if) Gaiman described this panel.
 
@@ -163,7 +163,7 @@ Latin for "time breaks" or "time shatters"; the inscription on Delirium's unusua
 
 - #### Panel 4
 
-Whose head is on the upper butterfly?
+  Whose head is on the upper butterfly?
 
 **Saline drip**: Commonly-administered intravenous fluid-replacement, with roughly the same salt content as blood. The IV tube has a device in it through which the fluid can be made to drip at different rates to control the speed at which it is fed into the patient.
 

@@ -12,27 +12,27 @@
 
 - #### Panel 1
 
-**Midnight sun**: Above the Arctic Circle, the lengthening of days that occurs during the summer is so pronounced that there are days in which the sun never sets. The North Pole is the most extreme example of this, receiving six months of sunlight followed by six months of darkness every year.
+  **Midnight sun**: Above the Arctic Circle, the lengthening of days that occurs during the summer is so pronounced that there are days in which the sun never sets. The North Pole is the most extreme example of this, receiving six months of sunlight followed by six months of darkness every year.
 
 - #### Panel 2
 
-**Borealis**: The Aurora Borealis, or Northern Lights, a glowing atmospheric display visible in the highest northern latitudes caused by charged particles in the solar wind interacting with Earth's magnetic field. There is an Aurora Australis in the highest latitudes of the Southern Hemisphere as well. Retinal purple: rhodopsin, the eye pigment which is sensitive to light and dark, found in the rods of the eye.
+  **Borealis**: The Aurora Borealis, or Northern Lights, a glowing atmospheric display visible in the highest northern latitudes caused by charged particles in the solar wind interacting with Earth's magnetic field. There is an Aurora Australis in the highest latitudes of the Southern Hemisphere as well. Retinal purple: rhodopsin, the eye pigment which is sensitive to light and dark, found in the rods of the eye.
 
 **Firework yellow**: Possibly achieved by including sodium, which burns with a bright yellow flame. (There are two, closely-spaced, yellow lines in the sodium spectrum.) VDU green: the color of many Video Display Units, such as some computer terminals; possibly specifically the Amstrad PCW 8256/8512, a word processor popular with British writers.
 
 - #### Panel 3
 
-The strength of Earth's magnetic field fluctuates seasonly, growing stronger during the summer and thus reducing the aurora.
+  The strength of Earth's magnetic field fluctuates seasonly, growing stronger during the summer and thus reducing the aurora.
 
 - #### Panel 4
 
-**Lapps**: The inhabitants of Lapland, a region of northern Scandinavia. Lapps speak a language closely akin to Finnish which is, therefore, unrelated to English.
+  **Lapps**: The inhabitants of Lapland, a region of northern Scandinavia. Lapps speak a language closely akin to Finnish which is, therefore, unrelated to English.
 
 ### Page 2
 
 - #### Panel 1
 
-**Cerulean**: A deep sky blue. From the Latin caelum, "sky". In other words, the sky turns sky blue, a tautology.
+  **Cerulean**: A deep sky blue. From the Latin caelum, "sky". In other words, the sky turns sky blue, a tautology.
 
 2: A Bear and His Shadow
 
@@ -40,7 +40,7 @@ The strength of Earth's magnetic field fluctuates seasonly, growing stronger dur
 
 - #### Panel 5
 
-**Leib-Olmai**: Lapp for "Alder Man". A mythical bear-man or bear-god. He protected the bear, a holy animal, and provided good luck to hunters that honored him. If hunters did snub Lieb, they would often lose their prey and occasionally Lieb might help a bear if it were to attack the hunters. He is a bit of a male chauvinist. Lapp women were not allowed to walk around a tent where hunting equipment is kept.
+  **Leib-Olmai**: Lapp for "Alder Man". A mythical bear-man or bear-god. He protected the bear, a holy animal, and provided good luck to hunters that honored him. If hunters did snub Lieb, they would often lose their prey and occasionally Lieb might help a bear if it were to attack the hunters. He is a bit of a male chauvinist. Lapp women were not allowed to walk around a tent where hunting equipment is kept.
 
 3: Departed Secrets
 
@@ -48,11 +48,11 @@ The strength of Earth's magnetic field fluctuates seasonly, growing stronger dur
 
 - #### Panel 4
 
-**Kruggerrand**: A South African gold coin weighing exactly one ounce of 24 karat gold.
+  **Kruggerrand**: A South African gold coin weighing exactly one ounce of 24 karat gold.
 
 - #### Panel 5
 
-**Smack**: slang for heroin. Raw heroin is brown; when processed, it becomes white.
+  **Smack**: slang for heroin. Raw heroin is brown; when processed, it becomes white.
 
 4: "Twinkle's a Nice Word. So's Viridian."
 
@@ -60,7 +60,7 @@ The strength of Earth's magnetic field fluctuates seasonly, growing stronger dur
 
 - #### Panel 3
 
-Del's balloon should be multicolored.
+  Del's balloon should be multicolored.
 
 5: Three Keys
 
@@ -68,25 +68,25 @@ Del's balloon should be multicolored.
 
 - #### Panel 5
 
-Del refers to _A Season of Mists_.
+  Del refers to _A Season of Mists_.
 
 ### Page 11
 
 - #### Panel 4
 
-Note the various bubble-shapes Del makes. The owl-like creature with the umbrella in the upper left is "Totoro", from the film _My Neighbor Totoro_. Totoro is a magical being who ruled the forest; only children and animals could see him. Below and to the right of the alarm clock is a bubble which is probably Max, the rabbit from Purcell's "Sam and Max" series. Note the cat-shaped bubble and the "c", "a", and "t" bubbles.
+  Note the various bubble-shapes Del makes. The owl-like creature with the umbrella in the upper left is "Totoro", from the film _My Neighbor Totoro_. Totoro is a magical being who ruled the forest; only children and animals could see him. Below and to the right of the alarm clock is a bubble which is probably Max, the rabbit from Purcell's "Sam and Max" series. Note the cat-shaped bubble and the "c", "a", and "t" bubbles.
 
 ### Page 13
 
 - #### Panel 3
 
-**Foreshadowing**: Your guide to quality literature.
+  **Foreshadowing**: Your guide to quality literature.
 
 ### Page 15
 
 - #### Panel 5
 
-**Ishtar**: A Babylonian goddess. See the Appendix to the annotation for #45. Note that the manager's list does not say "Ishtar" in the appropriate place, but rather "Ca" plus obscured letters. Significance?
+  **Ishtar**: A Babylonian goddess. See the Appendix to the annotation for #45. Note that the manager's list does not say "Ishtar" in the appropriate place, but rather "Ca" plus obscured letters. Significance?
 
 6: A Treatise on Optics
 
@@ -94,31 +94,31 @@ Note the various bubble-shapes Del makes. The owl-like creature with the umbrell
 
 - #### Panel 3
 
-The Corinthian is wrongly colored white.
+  The Corinthian is wrongly colored white.
 
 - #### Panel 6
 
-**Pillory**: A wooden device holding the head and hands fast, used to display prisoners for public scorn. Akin to the stocks, which more often held ankles fast.
+  **Pillory**: A wooden device holding the head and hands fast, used to display prisoners for public scorn. Akin to the stocks, which more often held ankles fast.
 
 - #### Panel 7
 
-**Ninny-hammer**: Probably just an extension of "ninny".
+  **Ninny-hammer**: Probably just an extension of "ninny".
 
 ### Page 18
 
 - #### Panel 1
 
-**Transportation**: The practice of deporting English criminals to penal colonies. While the most well-known of these is Australia, the first penal colony there was Port Jackson, founded in 1788, which is evidently significantly after this scene.
+  **Transportation**: The practice of deporting English criminals to penal colonies. While the most well-known of these is Australia, the first penal colony there was Port Jackson, founded in 1788, which is evidently significantly after this scene.
 
 - #### Panel 2
 
-Tyburn Tree (an elm?) was the site of the London gallows.
-It is now known as Speaker's Corner, at the northeast corner of Hyde Park.
+  Tyburn Tree (an elm?) was the site of the London gallows.
+  It is now known as Speaker's Corner, at the northeast corner of Hyde Park.
 
 - #### Panel 4
 
-The stone is Dream's ruby, of course.
-**wight**:
+  The stone is Dream's ruby, of course.
+  **wight**:
 
 1. a living being, CREATURE, MAN
 2. [archaic]: a preternatural being (as a fairy or witch)
@@ -132,19 +132,19 @@ In the Norwegian translation of L.O.T.R., this word is translated as "vette", wh
 
 - #### Panel 5
 
-Dream is wrongly colored human, and the Corinthian's forehead is wrongly colored white.
+  Dream is wrongly colored human, and the Corinthian's forehead is wrongly colored white.
 
 ### Page 19
 
 - #### Panel 1
 
-**Invisible College**: A phrase dating back to at least 1646, possibly coined by Robert Boyle. Thomas Birch notes in reference to Boyle's Works that "the Invisible College probably refer[s] to that assembly of learned and curious gentlemen, who...at length gave birth to the Royal Society." Dream and the others are therefore standing in front of the Royal Society.
+  **Invisible College**: A phrase dating back to at least 1646, possibly coined by Robert Boyle. Thomas Birch notes in reference to Boyle's Works that "the Invisible College probably refer[s] to that assembly of learned and curious gentlemen, who...at length gave birth to the Royal Society." Dream and the others are therefore standing in front of the Royal Society.
 
 Note that an "Invisible College" appears in Mary Gentle's works, and an "Unseen University" in Terry Pratchett's; both of these writers are close associates of Gaiman's. Alfred Bester also made use of an "Unknown University".
 
 - #### Panel 3
 
-The ballad "Diddle Diddle, or the Country Lovers", from 1680. Also known as "Lavender Blue", a cover version by Dinah Shore from the Disney movie _So Dear to my Heart_ (1948). The version presented in Peter Blood-Patterson's _Rise Up Singing_ goes:
+  The ballad "Diddle Diddle, or the Country Lovers", from 1680. Also known as "Lavender Blue", a cover version by Dinah Shore from the Disney movie _So Dear to my Heart_ (1948). The version presented in Peter Blood-Patterson's _Rise Up Singing_ goes:
 
 > Lavender's blue, dilly dilly, lavender's green,
 > When I am king, dilly dilly, you shall be queen.
@@ -158,7 +158,7 @@ The ballad "Diddle Diddle, or the Country Lovers", from 1680. Also known as "Lav
 
 - #### Panel 4
 
-**Homo sylvestris**: An obsolete classification of the orangutan, meaning "man of the woods", which is also the literal translation of the Malay phrase which became the common name. Note that taxonomy did not begin to standardize until the 1732 publication of Carl von Linne's great botanical treatise on the subject.
+  **Homo sylvestris**: An obsolete classification of the orangutan, meaning "man of the woods", which is also the literal translation of the Malay phrase which became the common name. Note that taxonomy did not begin to standardize until the 1732 publication of Carl von Linne's great botanical treatise on the subject.
 
 The earliest known citation of "orangutan" in English dates from 1691.
 
@@ -168,7 +168,7 @@ Tyson's dissection is thought to be one of the earliest in England, and may be u
 
 - #### Panel 5
 
-**Guinea**: An English unit of money equivalent to one pound and one shilling.
+  **Guinea**: An English unit of money equivalent to one pound and one shilling.
 
 ### Page 20
 
@@ -178,7 +178,7 @@ See Appendix. Note that Destruction's quote in panel 5 dates from a 1706 edition
 
 - #### Panel 7
 
-The Corinthian, of course, likes to eat eyes with his eyeteeth.
+  The Corinthian, of course, likes to eat eyes with his eyeteeth.
 
 7: The Perils of Smoking in Bed?
 

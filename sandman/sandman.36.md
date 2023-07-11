@@ -26,37 +26,37 @@ Many of the dominant elements of the Land are revealed as elements from Barbara'
 
 - #### Panel 1
 
-First full appearance of the Cuckoo, whose origin is explained in this issue.
+  First full appearance of the Cuckoo, whose origin is explained in this issue.
 
 ### Page 4
 
 - #### Panel 2
 
-I will admit that -I- fully expected the "abused child" ending. As it stands, I'm dissatisfied with what the Cuckoo really is; it's an inchoate thing, neither inner pain nor parasitical interloper.
+  I will admit that -I- fully expected the "abused child" ending. As it stands, I'm dissatisfied with what the Cuckoo really is; it's an inchoate thing, neither inner pain nor parasitical interloper.
 
 - #### Panel 7
 
-This is a "bande dessine'e `a clef"; a comic book where real references are concealed behind pseudonyms. Perry Porter, the Amazing Spider is really Peter Parker, the Amazing Spider-Man; and Clint Clarke, Hyperman, is really Clark Kent, Superman.
+  This is a "bande dessine'e `a clef"; a comic book where real references are concealed behind pseudonyms. Perry Porter, the Amazing Spider is really Peter Parker, the Amazing Spider-Man; and Clint Clarke, Hyperman, is really Clark Kent, Superman.
 
 ### Page 5
 
 - #### Panel 4
 
-Note the doll's house on the right. The toy on the dresser to the left is a bobbing bird; ideally, it should have its nose in a glass of water. A trick of evaporation causes the bird to bob up and down in perpetuity.
+  Note the doll's house on the right. The toy on the dresser to the left is a bobbing bird; ideally, it should have its nose in a glass of water. A trick of evaporation causes the bird to bob up and down in perpetuity.
 
 - #### Panel 5
 
-"Oh, look, a stuffed rat! Barbie will just -love- this one, don't you think, honey?" As implausible as it might seem for, say, Kenner to manufacture stuffed rats, I am reliably informed that merchants at SCA events have been selling stuffed "plague rats" for years, which are, among other things, popular as cat toys.
+  "Oh, look, a stuffed rat! Barbie will just -love- this one, don't you think, honey?" As implausible as it might seem for, say, Kenner to manufacture stuffed rats, I am reliably informed that merchants at SCA events have been selling stuffed "plague rats" for years, which are, among other things, popular as cat toys.
 
 - #### Panel 7
 
-Say, this looks like a theme rearing its ugly head.
+  Say, this looks like a theme rearing its ugly head.
 
 ### Page 6
 
 - #### Panel 1
 
-**The books are**:
+  **The books are**:
 
 - [The Wizard of Oz](http://www.amazon.de/exec/obidos/ASIN/0812523350), by L. Frank Baum.
   Audiences are probably more familiar with the wretched film, but there was a series of children's books of infinitely more scope and imagination.
@@ -67,25 +67,25 @@ Say, this looks like a theme rearing its ugly head.
 
 - #### Panel 3
 
-"Imaginary fiend"? A typo, or deliberate?
+  "Imaginary fiend"? A typo, or deliberate?
 
 ### Page 8
 
 - #### Panel 1
 
-They Might Be Giants is an alternative rock duo made up of John Linnell and John Flansburgh. They take their name from a 1970s George C. Scott film, in which Scott's character becomes convinced that he is Sherlock Holmes. The title of that film is from Cervantes' [Don Quixote](http://www.amazon.de/exec/obidos/ASIN/0192834835); when questioned about his delusions, Scott's character cites Quixote's statement, "I don't fight windmills because they _are_ giants, I fight them because they _might_ be giants." In other words, his "delusion" is the result of a conscious choice. The entire movie, obviously, is about a question of identity, and hence reflects on this storyline.
+  They Might Be Giants is an alternative rock duo made up of John Linnell and John Flansburgh. They take their name from a 1970s George C. Scott film, in which Scott's character becomes convinced that he is Sherlock Holmes. The title of that film is from Cervantes' [Don Quixote](http://www.amazon.de/exec/obidos/ASIN/0192834835); when questioned about his delusions, Scott's character cites Quixote's statement, "I don't fight windmills because they _are_ giants, I fight them because they _might_ be giants." In other words, his "delusion" is the result of a conscious choice. The entire movie, obviously, is about a question of identity, and hence reflects on this storyline.
 
 "The Nightgown of the Sullen Moon" was originally released on the 4-song EP _They'll Need a Crane_ (Restless/Bar None 72611-2), and is also on the collection [Miscellaneous T](http://www.amazon.com/exec/obidos/ASIN/B000003BIU) (Restless/Bar None 72646-2).
 
 - #### Panel 2
 
-Q-tips are a brand name of cotton-tipped stick, used for a variety of delicate tasks. Wundabuds (and Wundawool) don't exist. As established before, "wool" in this sense is not sheep's wool, but unspun cotton.
+  Q-tips are a brand name of cotton-tipped stick, used for a variety of delicate tasks. Wundabuds (and Wundawool) don't exist. As established before, "wool" in this sense is not sheep's wool, but unspun cotton.
 
 **Note the rat**: visual reference to Wilkinson? Or just a rat?
 
 - #### Panel 3
 
-Jim Morrison, the famous dead one, was the lead singer of the Doors, and is a shining testament to the wonders of hard core drug abuse.
+  Jim Morrison, the famous dead one, was the lead singer of the Doors, and is a shining testament to the wonders of hard core drug abuse.
 
 Note the radio station call letters.
 
@@ -95,26 +95,26 @@ Note that the three women walk in step and perform the same actions.
 
 - #### Panel 2
 
-First revelation of Hazel's last name. Foxglove's birth name was Donna Cavanagh, as seen earlier.
+  First revelation of Hazel's last name. Foxglove's birth name was Donna Cavanagh, as seen earlier.
 
 - #### Panel 3
 
-In Greece, Thessaly was infamous for its witches. The 2nd century Latin writer Apuleius wrote, in "The Golden Ass", about Thessalian witches would would gnaw off the faces of the dead to use in necromantic spells. These witches' rites were methods of commanding higher powers, as reflected in Thessaly's attitude, where modern Wiccans (neo-witches), and Christian prayer, petition the aid of higher powers. It is implied that Thessaly is the last of those witches.
-Judy died in _Sandman_ #6, after a fight with Donna (Foxglove).
+  In Greece, Thessaly was infamous for its witches. The 2nd century Latin writer Apuleius wrote, in "The Golden Ass", about Thessalian witches would would gnaw off the faces of the dead to use in necromantic spells. These witches' rites were methods of commanding higher powers, as reflected in Thessaly's attitude, where modern Wiccans (neo-witches), and Christian prayer, petition the aid of higher powers. It is implied that Thessaly is the last of those witches.
+  Judy died in _Sandman_ #6, after a fight with Donna (Foxglove).
 
 ### Page 10
 
 - #### Panel 1
 
-I suppose one could play games with the interpretations of each woman's remark after leaving the trail of the moon. Panel 1, 3: Note the sun's changing position.
+  I suppose one could play games with the interpretations of each woman's remark after leaving the trail of the moon. Panel 1, 3: Note the sun's changing position.
 
 - #### Panel 3
 
-Thessaly's remarks about the nature of the Land will be explored more thoroughly later.
+  Thessaly's remarks about the nature of the Land will be explored more thoroughly later.
 
 - #### Panel 6
 
-Thessaly recognizes the illogical predictability of coincidence inherent to stories.
+  Thessaly recognizes the illogical predictability of coincidence inherent to stories.
 
 ### Page 13
 
@@ -132,8 +132,8 @@ Aww, cute.
 
 - #### Panel 1
 
-Rutger Hauer is a fairly decent actor typecast into appearing in mostly B-class action films.
-With regards to the third (self-titled) Velvet Underground LP, it has been said:
+  Rutger Hauer is a fairly decent actor typecast into appearing in mostly B-class action films.
+  With regards to the third (self-titled) Velvet Underground LP, it has been said:
 
 > "The Velvet Underground never sold many records, but every person who bought one of their albums started their own band."
 
@@ -141,29 +141,29 @@ They were originally a band put together by Andy Warhol, part of his exploration
 
 - #### Panel 2
 
-There is irony in calling Barbie "Sleeping Beauty". Both are the central figures in fairy tales.
+  There is irony in calling Barbie "Sleeping Beauty". Both are the central figures in fairy tales.
 
 - #### Panel 5
 
-Queen is a slang term for certain types of transvestites and homosexual men.
+  Queen is a slang term for certain types of transvestites and homosexual men.
 
 ### Page 17
 
 - #### Panel 5
 
-The Good Samaritan is a character from the Christian Bible, a heretic who showed that he was nonetheless more truly good than the most pious religious person by helping a stranger. Someone who helps strangers is therefore called a "good Samaritan".
+  The Good Samaritan is a character from the Christian Bible, a heretic who showed that he was nonetheless more truly good than the most pious religious person by helping a stranger. Someone who helps strangers is therefore called a "good Samaritan".
 
 ### Page 18
 
 - #### Panel 5
 
-The Cuckoo explains her power over Luz and Barbie. Her remark about Barbie trying to tell herself the truth is probably a reference to the Tantoblin's message with the cuckoo text.
+  The Cuckoo explains her power over Luz and Barbie. Her remark about Barbie trying to tell herself the truth is probably a reference to the Tantoblin's message with the cuckoo text.
 
 ### Page 19
 
 - #### Panel 1
 
-The Hierogram (Holy-Writing) is marked with Japanese katakana (one of the Japanese alphabets). The characters spell out "do-rii-mi-n-gu", or "Dreaming". The leftmost side of the first character should have a vertical stroke, not slanted, and the last character should have only two tickmarks on the side, not three.
+  The Hierogram (Holy-Writing) is marked with Japanese katakana (one of the Japanese alphabets). The characters spell out "do-rii-mi-n-gu", or "Dreaming". The leftmost side of the first character should have a vertical stroke, not slanted, and the last character should have only two tickmarks on the side, not three.
 
 There is a Cuckoo Stone in England, which may have influenced this denouement. There is a legend about a cuckoo landing on the Cuckoo Stone at a certain time of year.
 
@@ -175,25 +175,25 @@ A thorn looks like a combination of 'p' and 'b', and represents a voiceless 'th'
 
 - #### Panel 3
 
-Finally, George is explained, and we learn that more than one dreamer can share a skerry.
+  Finally, George is explained, and we learn that more than one dreamer can share a skerry.
 
 ### Page 27
 
 - #### Panel 1
 
-"Lally, lally" sounds familiar.
+  "Lally, lally" sounds familiar.
 
 ### Page 28
 
 - #### Panel 4
 
-Lou Reed was the lead singer of the Velvet Underground.
+  Lou Reed was the lead singer of the Velvet Underground.
 
 Specifying Hurricane Lisa-with-a-'S' may be a reference to Liza Minelli, a prominent member of the New York social scene. Pictured are the Statue of Liberty and the World Trade Center.
 
 - #### Panel 5
 
-The "dust storm" was when Thessaly called down the moon to enter the Dreaming. Pictured are the Chrysler building and what is probably the Empire State Building.
+  The "dust storm" was when Thessaly called down the moon to enter the Dreaming. Pictured are the Chrysler building and what is probably the Empire State Building.
 
 ### Page 30-32
 
@@ -203,7 +203,7 @@ IMHO, this is just about the best artistic representation ofDream in the series.
 
 - #### Panel 4
 
-"Murphy" was the being by whom the inhabitants of the Land swore, as if by "God". The OED has the definition "Illiterate perversion of Morpheus", with an 18th century citation.
+  "Murphy" was the being by whom the inhabitants of the Land swore, as if by "God". The OED has the definition "Illiterate perversion of Morpheus", with an 18th century citation.
 
 One is also drawn to consider "Murphy's Law"--"If anything can go wrong, it will"; the storyline features a number of accidents and failures, including Martin Tenbones's death, Hazel's pregnancy, George's failure to anticipate Thessaly's presence, and developments in the final chapter.
 
@@ -215,19 +215,19 @@ This sequence is reminiscent of a similar one in the last Narnia book, _The Last
 
 - #### Panel 1
 
-Alianora, a variant spelling of Eleanor, is a creation of James Branch Cabell, and appeared in his Poictesme stories, in part as the mother of one of the branches of Manuel the Redeemer's family. Her character is most prominent in _Figures of Earth_. Can one of my Cabell sources give me a brief description of her thematic role?
+  Alianora, a variant spelling of Eleanor, is a creation of James Branch Cabell, and appeared in his Poictesme stories, in part as the mother of one of the branches of Manuel the Redeemer's family. Her character is most prominent in _Figures of Earth_. Can one of my Cabell sources give me a brief description of her thematic role?
 
 Cabell is one of Gaiman's strongest influences.
 
 - #### Panel 2
 
-Note Alianora's scar; was this a characteristic of the Cabell Alianora?
+  Note Alianora's scar; was this a characteristic of the Cabell Alianora?
 
 ### Page 37
 
 - #### Panel 2
 
-The connection between Dream and the witch-women of Thessaly has not been revealed.
+  The connection between Dream and the witch-women of Thessaly has not been revealed.
 
 ### Page 39
 

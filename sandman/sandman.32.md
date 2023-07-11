@@ -21,47 +21,47 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 - #### Panel 1
 
-The Cuckoo and its Disciples were first mentioned in _The Doll's House_. Luz was the name of the place where Jacob had his dream of wrestling with an angel. In keeping with _A Game of You_'s name motif, note that upon waking up, Jacob renamed the place Bethel (which means "house of God").
+  The Cuckoo and its Disciples were first mentioned in _The Doll's House_. Luz was the name of the place where Jacob had his dream of wrestling with an angel. In keeping with _A Game of You_'s name motif, note that upon waking up, Jacob renamed the place Bethel (which means "house of God").
 
 - #### Panel 3
 
-The parallel between the captions and the scene indicates that this still form is the Tantoblin; more will be explained in later issues. The Black Guard is another unknown group. Tantoblin: A tart or round pastry, or a lump of excrement.
+  The parallel between the captions and the scene indicates that this still form is the Tantoblin; more will be explained in later issues. The Black Guard is another unknown group. Tantoblin: A tart or round pastry, or a lump of excrement.
 
 ### Page 2
 
 - #### Panel 1
 
-Colonel Knowledge may be equivalent to "carnal knowledge".
+  Colonel Knowledge may be equivalent to "carnal knowledge".
 
 - #### Panel 3
 
-Murphy is someone whose identity you may be able to figure out before it's revealed. We haven't heard of "Murphy" before. Note that it seems to be a god-like being to those of the Land.
+  Murphy is someone whose identity you may be able to figure out before it's revealed. We haven't heard of "Murphy" before. Note that it seems to be a god-like being to those of the Land.
 
 ### Page 3
 
 - #### Panel 1
 
-The Hierogram and the Porpentine were mentioned in _The Doll's House_. Hierogram comes from words meaning "holy writing", and itself means "sacred symbol" or is equated with "hieroglyph" (which also means "holy writing", making the definition nicely circular). Porpentine is the old and obsolete name of a certain [unspecified] fixed star. The OED has a citation for this use from 1503. Porpentine can also be used to mean "porcupine".
+  The Hierogram and the Porpentine were mentioned in _The Doll's House_. Hierogram comes from words meaning "holy writing", and itself means "sacred symbol" or is equated with "hieroglyph" (which also means "holy writing", making the definition nicely circular). Porpentine is the old and obsolete name of a certain [unspecified] fixed star. The OED has a citation for this use from 1503. Porpentine can also be used to mean "porcupine".
 
 - #### Panel 3
 
-The eyes are Martin Tenbones', presumably.
+  The eyes are Martin Tenbones', presumably.
 
 ### Page 4
 
 - #### Panel 1
 
-This is Barbie, who was once married to Ken, but whose marriage ended as a result of events in _The Doll's House_. Note the photos on the wall behind her, which includes photos of tattoos and a male breast with a nipple ring.
+  This is Barbie, who was once married to Ken, but whose marriage ended as a result of events in _The Doll's House_. Note the photos on the wall behind her, which includes photos of tattoos and a male breast with a nipple ring.
 
 ### Page 5
 
 - #### Panel 1
 
-First appearance of Wanda. Note the condition of the hallway, obviously in a rundown tenement.
+  First appearance of Wanda. Note the condition of the hallway, obviously in a rundown tenement.
 
 - #### Panel 2
 
-Barbie's statement jibes with the end of _The Doll's House_.
+  Barbie's statement jibes with the end of _The Doll's House_.
 
 Prior to Rose's becoming the vortex, Barbie had dreamt she was a princess in a fairytale Land. After Rose forced the dreamers in Hal's house into each other's dreams, Barbie stopped dreaming.
 
@@ -71,7 +71,7 @@ Note that Wanda uses alliterative pet names for Barbie.
 
 - #### Panel 6
 
-**Put my face on**: apply makeup. This process is unusually complex for Barbie, as we shall see.
+  **Put my face on**: apply makeup. This process is unusually complex for Barbie, as we shall see.
 
 Note the potential ambiguity in the discussion of cheeks, given the prominent appearance of Barbie's buttocks in this panel.
 
@@ -79,85 +79,85 @@ Note the potential ambiguity in the discussion of cheeks, given the prominent ap
 
 - #### Panel 5
 
-Is Wanda wearing shorts or an oddly shaped skirt?
+  Is Wanda wearing shorts or an oddly shaped skirt?
 
 ### Page 7
 
 - #### Panel 2
 
-First appearance of Thessaly. Thessaly is also the name of a region in Greece. Note the moon-like size and shape of Thessaly's glasses; this possibly symbolism will be more apparent in _Sandman_ #34.
+  First appearance of Thessaly. Thessaly is also the name of a region in Greece. Note the moon-like size and shape of Thessaly's glasses; this possibly symbolism will be more apparent in _Sandman_ #34.
 
 - #### Panel 7
 
-First appearance of Hazel.
+  First appearance of Hazel.
 
 ### Page 8
 
 - #### Panel 1
 
-The structure dominating Hazel and Foxglove's room is a loft, well known to students everywhere. It is essentially a wooden structure which raises a bed frame five or more feet off the floor, creating additional floor space beneath for desks, dressers, or the like. It is much like a bunkbed without a lower bunk. Note the computer setup. Of the posters in the background, one appears to be Jimi Hendrix, a late rock star, and another may be a Patrick Nagel print; the Endless Desire is usually drawn to resemble a Nagel illustration.
+  The structure dominating Hazel and Foxglove's room is a loft, well known to students everywhere. It is essentially a wooden structure which raises a bed frame five or more feet off the floor, creating additional floor space beneath for desks, dressers, or the like. It is much like a bunkbed without a lower bunk. Note the computer setup. Of the posters in the background, one appears to be Jimi Hendrix, a late rock star, and another may be a Patrick Nagel print; the Endless Desire is usually drawn to resemble a Nagel illustration.
 
 - #### Panel 4
 
-Thessaly's "soy-milk" is a nondairy milk substitute for strict vegetarians. It is, as Wanda indicates, obtained from soy beans.
+  Thessaly's "soy-milk" is a nondairy milk substitute for strict vegetarians. It is, as Wanda indicates, obtained from soy beans.
 
 - #### Panel 5
 
-First appearance of Foxglove. She is describing, of course, how one milks a cow. Since we later find out that Fox is a writer, perhaps "eighty" could refer to the number of pages Fox has written in her current novel. Foxglove is a common ornamental flower (Digitalis purpurea). The drug Digitalis is extracted from Foxglove and is used to slow the heart.
+  First appearance of Foxglove. She is describing, of course, how one milks a cow. Since we later find out that Fox is a writer, perhaps "eighty" could refer to the number of pages Fox has written in her current novel. Foxglove is a common ornamental flower (Digitalis purpurea). The drug Digitalis is extracted from Foxglove and is used to slow the heart.
 
 ### Page 9
 
 - #### Panel 3
 
-First appearance of George. Also note that page numbers have disappeared. Since the story runs 25 pages instead of the usual 24, I suspect that the script was being revised while McManus was doing the art, causing a some confusion.
+  First appearance of George. Also note that page numbers have disappeared. Since the story runs 25 pages instead of the usual 24, I suspect that the script was being revised while McManus was doing the art, causing a some confusion.
 
 ### Page 10
 
 - #### Panel 2
 
-Chess, of course, is a board game, echoing the overall title of this issue.
+  Chess, of course, is a board game, echoing the overall title of this issue.
 
 - #### Panel 3
 
-Tiffany's is a high class, New York department store, which is well-known for it's expensive jewelry & perfumes (Breakfast at Tiffany's); hence Wanda's comment (in panel 4) that they "can't afford it".
+  Tiffany's is a high class, New York department store, which is well-known for it's expensive jewelry & perfumes (Breakfast at Tiffany's); hence Wanda's comment (in panel 4) that they "can't afford it".
 
 - #### Panel 6
 
-**Princess Barbara**: irony. Wanda doesn't know that that is how Barbie is known in the Land.
+  **Princess Barbara**: irony. Wanda doesn't know that that is how Barbie is known in the Land.
 
 ### Page 11
 
 - #### Panel 1
 
-This may be the same place where Johanna Constantine met Dream in issue #29, _Thermidor_.
+  This may be the same place where Johanna Constantine met Dream in issue #29, _Thermidor_.
 
 - #### Panel 2
 
-The link between dreams and time is an old one, so to speak. Dreams are often seen to be prophetic (oneiromancy), and the interpretation of dreams is one of the charges of a society's shaman (whatever his title, be it witch doctor or psychiatrist).
+  The link between dreams and time is an old one, so to speak. Dreams are often seen to be prophetic (oneiromancy), and the interpretation of dreams is one of the charges of a society's shaman (whatever his title, be it witch doctor or psychiatrist).
 
 - #### Panel 5
 
-**Skerry**: a rugged, insulated sea-rock or stretch of rocks, covered by the sea at high water and in stormy weather; a rocky islet (from the OED). It is also a small boat.
+  **Skerry**: a rugged, insulated sea-rock or stretch of rocks, covered by the sea at high water and in stormy weather; a rocky islet (from the OED). It is also a small boat.
 
 ### Page 12
 
 - #### Panel 7
 
-According to what Dream says here, and since the Land is a skerry, the skerries are semi-stable, the private dream reserves for those who dream in series of dreams.
+  According to what Dream says here, and since the Land is a skerry, the skerries are semi-stable, the private dream reserves for those who dream in series of dreams.
 
 ### Page 13
 
 - #### Panel 1
 
-More evidence of script revision, with lettering revision marks in the first caption.
+  More evidence of script revision, with lettering revision marks in the first caption.
 
 - #### Panel 2
 
-Note the hook nose and pointed ears of the man in the foreground. This is probably just artistic noodling on McManus's part.
+  Note the hook nose and pointed ears of the man in the foreground. This is probably just artistic noodling on McManus's part.
 
 - #### Panel 3
 
-"Rowley" is a reference to an old Mother Goose rhyme:
+  "Rowley" is a reference to an old Mother Goose rhyme:
 
 > With a Rowley, Powley, Gammon, and Spinach
 > Heigh-Ho for Anthony Rowley.
@@ -166,18 +166,18 @@ Note the hook nose and pointed ears of the man in the foreground. This is probab
 
 - #### Panel 3
 
-**Barbie-Bubullah**: Bubullah is one of the spellings for a Yiddish term of endearment, roughly meaning "baby" or "child". For an annotation for Yiddish see issue #8.
+  **Barbie-Bubullah**: Bubullah is one of the spellings for a Yiddish term of endearment, roughly meaning "baby" or "child". For an annotation for Yiddish see issue #8.
 
 - #### Panel 5
 
-Wanda is referring to two television shows, _The Twilight Zone_ and _The Outer Limits_, both of which were anthology shows featuring science fiction and general weirdness. "We control the vertical" is from the title sequence of _The Outer Limits_.
+  Wanda is referring to two television shows, _The Twilight Zone_ and _The Outer Limits_, both of which were anthology shows featuring science fiction and general weirdness. "We control the vertical" is from the title sequence of _The Outer Limits_.
 
 ### Page 15
 
 - #### Panel 2
 
-Martin Tenbones has indeed found his way to the real world,
-through the unexplained magic of the Plot Device (or perhaps the Porpentine).
+  Martin Tenbones has indeed found his way to the real world,
+  through the unexplained magic of the Plot Device (or perhaps the Porpentine).
 
 - #### Panel 4 & 5
 
@@ -187,7 +187,7 @@ Note the yellow liquid on the ground & dripping off the lady's skirt; apparently
 
 - #### Panel 1
 
-_Breakfast at Tiffany's_ is a novel by Truman Capote, later made into a movie starring Audrey Hepburn.
+  _Breakfast at Tiffany's_ is a novel by Truman Capote, later made into a movie starring Audrey Hepburn.
 
 _Breakfast at Tiffany's_ was about a woman (Hepburn's character, in the movie), who would always go window shopping at Tiffany's (a high-class department story in New York. See my annotation on page 10, panel 3).
 
@@ -195,13 +195,13 @@ This is what Barbie is referring to when she says "Breakfast first. Window shopp
 
 - #### Panel 2
 
-Wanda is correct. Sleep deprivation studies have shown conclusively that people who are prevented from entering REM sleep, the dreaming phase, become psychotic in a matter of weeks.
+  Wanda is correct. Sleep deprivation studies have shown conclusively that people who are prevented from entering REM sleep, the dreaming phase, become psychotic in a matter of weeks.
 
 Note Wanda's wording: "You go koo-koo." Or Cuckoo.
 
 - #### Panel 7
 
-There's something unusual about Wanda, since only boys get the classical "wet dreams"--ejaculations while sleeping, common in adolescents.
+  There's something unusual about Wanda, since only boys get the classical "wet dreams"--ejaculations while sleeping, common in adolescents.
 
 - #### Panel 8-9
 
@@ -215,49 +215,49 @@ See also page 17 panel 8.
 
 - #### Panel 1
 
-Wanda's description of the "Wierdzos" is apparently an accurate description of the Bizarros.
+  Wanda's description of the "Wierdzos" is apparently an accurate description of the Bizarros.
 
 "Hyperman" is obviously an analog of Superman. Similarly, "Lila Lake" is an analog of "Lois Lane". (Note the initials of both names.)
 
 - #### Panel 4
 
-**Mister Boney**: Boney was a common nickname for Napoleon Bonaparte, but this is probably irrelevant given Martin Tenbones' correct name.
+  **Mister Boney**: Boney was a common nickname for Napoleon Bonaparte, but this is probably irrelevant given Martin Tenbones' correct name.
 
 - #### Panel 6
 
-Sindie was alluded to in _The Doll's House_, but not named explicitly. Note the spelling of her name: "Sindie" = "sin". There was a line of "Sindie" dolls in the 1970s (or British "Cindy" dolls still being made) designed to compete directly with Barbie dolls. In effect, she was a "younger version of Barbie", as mentioned in the epilog to _Doll's House_. I'm not sure whether the Sindy/Cindy dolls are still being produced, but I _do_ remember seeing them in a toy-store catalog a few years back.
+  Sindie was alluded to in _The Doll's House_, but not named explicitly. Note the spelling of her name: "Sindie" = "sin". There was a line of "Sindie" dolls in the 1970s (or British "Cindy" dolls still being made) designed to compete directly with Barbie dolls. In effect, she was a "younger version of Barbie", as mentioned in the epilog to _Doll's House_. I'm not sure whether the Sindy/Cindy dolls are still being produced, but I _do_ remember seeing them in a toy-store catalog a few years back.
 
 - #### Panel 7
 
-We do not meet Scarlett, who might be the landlord. There may very well be a connection between Scarlett and the character Scarlett O'Hara of _Gone with the Wind_ (book and film), particularly considering later events of the story.
+  We do not meet Scarlett, who might be the landlord. There may very well be a connection between Scarlett and the character Scarlett O'Hara of _Gone with the Wind_ (book and film), particularly considering later events of the story.
 
 - #### Panel 8
 
-A "Weirdzo" correction of an original Bizarro reference fell off the page before reproduction. See below. Note that Wanda was evidently born male, named Alvin, but now considers herself female. The Game of Wanda is her gender orientation.
+  A "Weirdzo" correction of an original Bizarro reference fell off the page before reproduction. See below. Note that Wanda was evidently born male, named Alvin, but now considers herself female. The Game of Wanda is her gender orientation.
 
 ### Page 18
 
 - #### Panel 1
 
-Martin Tenbones' right eye has apparently been hit. The result of another encounter after scaring the black beggar lady, perhaps?
+  Martin Tenbones' right eye has apparently been hit. The result of another encounter after scaring the black beggar lady, perhaps?
 
 - #### Panel 3
 
-Note the people's reactions to Martin and the smoke coming from the car on the right.
+  Note the people's reactions to Martin and the smoke coming from the car on the right.
 
 ### Page 19
 
 - #### Panel 2
 
-Barbie doesn't recognize herself: Part of the Game of Barbara.
+  Barbie doesn't recognize herself: Part of the Game of Barbara.
 
 - #### Panel 4
 
-Wanda and Barbie mentions toys, just as Barbie becomes aware of Martin Tenbones' presence. This is foreshadowing later revelations.
+  Wanda and Barbie mentions toys, just as Barbie becomes aware of Martin Tenbones' presence. This is foreshadowing later revelations.
 
 - #### Panel 6
 
-Barbie's makeup is starting to run, perhaps from sweat?
+  Barbie's makeup is starting to run, perhaps from sweat?
 
 ### Page 20
 
@@ -267,23 +267,23 @@ Martin Tenbones has grown since the Doll's House, where he was no more than ches
 
 - #### Panel 2
 
-Barbie's makeup is really running now.
+  Barbie's makeup is really running now.
 
 - #### Panel 9
 
-Note that now Barbie is crying, not before, so her makeup wasn't running from tears.
+  Note that now Barbie is crying, not before, so her makeup wasn't running from tears.
 
 ### Page 22
 
 - #### Panel 1
 
-Luz, as we see, is a dodo, Prinado a monkey in a bellboy suit, and Wilkinson a rat in a trenchcoat and press hat. Wilkinson's attire and manner of talking suggest John Constantine, the main character of DC's _Hellblazer_, who also appeared in _Sandman_ #3.
+  Luz, as we see, is a dodo, Prinado a monkey in a bellboy suit, and Wilkinson a rat in a trenchcoat and press hat. Wilkinson's attire and manner of talking suggest John Constantine, the main character of DC's _Hellblazer_, who also appeared in _Sandman_ #3.
 
 ### Page 23
 
 - #### Panel 2
 
-Note what appear to be many keyholes on Barbie's door; New York residents have multiple deadbolts and police locks to help keep thieves out.
+  Note what appear to be many keyholes on Barbie's door; New York residents have multiple deadbolts and police locks to help keep thieves out.
 
 Note also the man standing in the background. Is he merely loitering, or is he interested in what happens to Barbie?
 
@@ -291,7 +291,7 @@ Note also the man standing in the background. Is he merely loitering, or is he i
 
 - #### Panel 2
 
-The Porpentine has changed its appearance from _The Doll's House_.
+  The Porpentine has changed its appearance from _The Doll's House_.
 
 - #### Panel 4-5
 
@@ -307,7 +307,7 @@ Does he own it? And why is he eating it?
 
 - #### Panel 8
 
-The Game of George is simply "What are the Children of the Cuckoo?"
+  The Game of George is simply "What are the Children of the Cuckoo?"
 
 ## Credits
 
