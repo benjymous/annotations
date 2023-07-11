@@ -12,13 +12,13 @@
 
 ### Page 1
 
-#### Panel 4
+- #### Panel 4
 
 Do not overlook the "eye" reference.
 
 ### Page 2
 
-#### Panel 1-6
+- #### Panel 1-6
 
 The poem is in some ways reminiscent of Lewis Carroll, particularly of _Sylvie and Bruno_, two verses of which are reproduced here:
 
@@ -44,7 +44,7 @@ Its touch is petrifying.
 
 ### Page 3
 
-#### Panel 3
+- #### Panel 3
 
 **Doggerel**: a pun. Note Barnabas's coiled tail, indicating that he's probably a Spitz breed, akin to huskies, corgis, and other working dogs. Spitz are characterized by "foxy" heads, such as Barnabas's large, triangular ears and long, narrow muzzle.
 
@@ -54,13 +54,13 @@ Its touch is petrifying.
 
 ### Page 8
 
-#### Panel 1
+- #### Panel 1
 
 **Faramond**: a change in spelling from earlier appearances.
 
 If it's not a typo, it's probably an acknowledgement that spelling was inconsistent prior to the development of mass publishing, coupled with the inherent uncertainty of transliterating a name from one alphabet to another.
 
-#### Panel 5
+- #### Panel 5
 
 Pharamond's "trouble with mortals" is ironic considering the theme of _Brief Lives_.
 
@@ -68,31 +68,31 @@ Pharamond's "trouble with mortals" is ironic considering the theme of _Brief Liv
 
 ### Page 9
 
-#### Panel 1
+- #### Panel 1
 
 It has been seen before (#22, for example) that the castle is the center of the Dreaming; the throne room is entirely consistent, but more explicit.
 
-#### Panel 2
+- #### Panel 2
 
 **Many doors**: I am reminded of the several hidden paths to the Jeweled Forest in _Tik-Tok of Oz_, by L. Frank Baum, but this is probably not significant.
 
 ### Page 10
 
-#### Panel 3
+- #### Panel 3
 
 **Bubastis**: See Appendix.
 
-#### Panel 4
+- #### Panel 4
 
 **Bast**: See Appendix.
 
 ### Page 11
 
-#### Panel 3
+- #### Panel 3
 
 Note Dream's pupils.
 
-#### Panel 5
+- #### Panel 5
 
 The ancient Egyptians revered cats, and mummified cats have been found in Egyptian tombs.
 
@@ -102,7 +102,7 @@ Compare with Section 3.
 
 ### Page 15
 
-#### Panel 5-6
+- #### Panel 5-6
 
 The cat being euthanized is probably Chloe Russell's cat (#43, #49).
 
@@ -110,11 +110,11 @@ The cat being euthanized is probably Chloe Russell's cat (#43, #49).
 
 ### Page 16
 
-#### Panel 1
+- #### Panel 1
 
 Note the cigarette-smoking cartoon bats.
 
-#### Panel 4
+- #### Panel 4
 
 More books from Lucien's library:
 
@@ -127,13 +127,13 @@ More books from Lucien's library:
 
 ### Page 17
 
-#### Panel 3
+- #### Panel 3
 
 Mervyn appeared in #5 driving a bus.
 
 ### Page 18
 
-#### Panel 5
+- #### Panel 5
 
 Note the mirror in the place of Dream's sigil.
 
@@ -141,7 +141,7 @@ Note the mirror in the place of Dream's sigil.
 
 ### Page 19
 
-#### Panel 6
+- #### Panel 6
 
 **Note the use of cartoon iconography**: the wavy lines indicating that a character is "steamed", thus angry; the question mark indicating puzzlement. Visual shorthand like this is generally restricted to more "cartoony" works than _Sandman_. (Compare to Scott McCloud's triangle of iconography in _Understanding Comics_.) Shorthand is necessarily more superficial than more explicit characterization. Panel 6 is duplicated in Death's words in panel 5 and her expression in panel 7, and Dream's words in panels 4 and 7.
 
@@ -149,7 +149,7 @@ Needless to say, it would be interesting to see the script to this issue to see 
 
 ### Page 20
 
-#### Panel 3-4
+- #### Panel 3-4
 
 **Only a kid**: And Death is drawn as, what, a ten year-old?
 
@@ -161,7 +161,7 @@ Latin for "time breaks" or "time shatters"; the inscription on Delirium's unusua
 
 ### Page 21
 
-#### Panel 4
+- #### Panel 4
 
 Whose head is on the upper butterfly?
 
@@ -175,7 +175,7 @@ Whose head is on the upper butterfly?
 
 Del's eyes should be different colors on these pages. The grey tone of her balloons is probably correct, though.
 
-## Credits:
+## Credits
 
 - Originally collated and edited by Greg Morrow.
 - Jacob Solomon Weinstein (jacobw@phoenix.Princeton.EDU) noted Carroll's _Sylvie and Bruno_.

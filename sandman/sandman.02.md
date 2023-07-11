@@ -166,7 +166,7 @@ Note that the Fates give exactly one answer apiece, and it is deliberately incom
 - #### Panel 3
   The mother is Ethel Cripps Dee, the son is John (Dr. Destiny) Dee, the superhumans are the Justice League of America. "Weird" as in "weird sisters" is a old word meaning "fate."
 
-## Credits:
+## Credits
 
 - Originally collated and edited by Greg Morrow.
 - Tom Galloway <tyg@dip.eecs.umich.edu>

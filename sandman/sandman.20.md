@@ -17,47 +17,47 @@ Her characterization here as a terrified isolated agoraphobe is new.
 
 ### Page 2
 
-#### Panel 1
+- #### Panel 1
 
 Mulligan is a new character of little importance beyond this story.
 
-#### Panel 8
+- #### Panel 8
 
 "Company" is a slang term for the Central Intelligence Agency, the chief United States intelligence service. It has been somewhat generalized in fiction to mean any intelligence agency, since authors usually refrain from mentioning the CIA directly.
 
 ### Page 4
 
-#### Panel 3
+- #### Panel 3
 
 "Put on a brave face." Also notice all the "masks" in Rainie's apartment. Faces and facades are obviously the theme of the issue.
 
 ### Page 5
 
-#### Panel 2
+- #### Panel 2
 
 Della would also appear to be a new character.
 
-#### Panel 3
+- #### Panel 3
 
 Triangle may, however, date from the old _Metamorpho_ series.
 
-#### Panel 5
+- #### Panel 5
 
 Leonardo Da Vinci was, of course, a famous Italian Renaissance artist and designer.
 
 ### Page 6
 
-#### Panel 4-5
+- #### Panel 4-5
 
 This is what we have seen before of Rainie's origin.
 
-#### Panel 6
+- #### Panel 6
 
 Ra is an old Egyptian god of the sun, sometimes identified with Amon; he was later replaced as supreme deity by Osiris. He is typically represented as a hawk-headed man.
 
 ### Page 7
 
-#### Panel 1
+- #### Panel 1
 
 Apep the serpent is another figure from Egyptian mythology, typically represented as an enemy of Ra.
 
@@ -67,7 +67,7 @@ This, of course, is good ol' Death, Dream's older sister. Recall that her symbol
 
 ### Page 18
 
-#### Panel 8
+- #### Panel 8
 
 This is the theme song from the television series M\*A\*S\*H.
 
@@ -75,34 +75,34 @@ The words were never sung on the television show, although they were in the orig
 
 ### Page 19
 
-#### Panel 2
+- #### Panel 2
 
 **Metamorphae**: Those who are beyond shape. Morphogenic:
 Shape creating. Metaplasm: That which is beyond being formed. Note that the -morph- morpheme comes from Morpheus ("Shaper"), an appellation for Dream.
 
-#### Panel 2-3
+- #### Panel 2-3
 
 Presumably this refers back to an event in _Metamorpho_.
 
 ### Page 20
 
-#### Panel 3
+- #### Panel 3
 
 About or before this time, Death appeared in an unauthorized- by-Gaiman crossover with Captain Atom. In that story, this version of Death was described as the incarnation of "death as compassionate release", while other incarnations of death (such as the Black Racer and Nekron) were described in other ways. As Death said there, "It's a big concept, there's room for more than one of us." This paragraph may refer back to that appearance; Gaiman was reportedly incensed at the use of the character.
 
 ### Page 21
 
-#### Panel 5
+- #### Panel 5
 
 Note the title of the anthology.
 
-#### Panel 7
+- #### Panel 7
 
 Note the gender of Apep.
 
 ### Page 23
 
-#### Panel 3
+- #### Panel 3
 
 This issue is all about facades, false faces. Note that Rainie has to look behind the facade of the sun to the face of Ra.
 
@@ -110,11 +110,11 @@ We may note that Rainie's apartment throughout this issue has been grey, box-lik
 
 ### Page 24
 
-#### Panel 4-6
+- #### Panel 4-6
 
 "Be seeing you..." is a line often used in the television series _The Prisoner_. The "interrogation" of Death across the phone is vaguely reminiscent of the series. _The Prisoner_ also featured a nameless intelligence agency.
 
-## Credits:
+## Credits
 
 - Originally collated and edited by Greg Morrow.
 - Jim W Lai <jwtlai@watcgl.waterloo.edu> added _Prisoner_ notes and color

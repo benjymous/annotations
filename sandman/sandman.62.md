@@ -6,7 +6,7 @@
 
 ### Page 1
 
-#### Panel 1
+- #### Panel 1
 
 This is the only first panel in the story so far that has _not_ had a string or thread of some sort. This issue hearkens back to "Men of Good Fortune" ("The Doll's House" part 4) and "The Season of Mists" part 4: "interlude" issues, not done by the regular artist for the main arc, thematically related to it but not advancing the main plot. The lack of a string may emphasize that this issue is a sidebar.
 
@@ -16,31 +16,31 @@ This whole opening sequence, with Rose waking up uncomfortably on a plane to Eng
 
 ### Page 2
 
-#### Panel 4
+- #### Panel 4
 
 "Austin" is a real British car maker; not being a connoisseur of British cars, I don't recognize this particular model.
 
-#### Panel 5
+- #### Panel 5
 
 One wonders where all the snow that we saw back in #59 went.
 
 ### Page 3
 
-#### Panel 3
+- #### Panel 3
 
 The 1989 film _Awakenings_, based on a book by neurologist Oliver Sacks. In the text page of issue #4, Gaiman mentions the book as one of his influences in creating the series.
 
-#### Panel 4
+- #### Panel 4
 
 Wych Cross is of course the town where Lady Johanna Constantine resided, and where centuries later Dream was imprisoned. This is a minor retcon, as there was no previous indication that Unity Kinkaid's nursing home was anywhere near it. The inn called the "White Hart" may be a reference to a book by Arthur C. Clarke; then again it may just be a common name for an inn.
 
 ### Page 4
 
-#### Panel 1
+- #### Panel 1
 
 Paul McGuire was last seen all the way back in issue #1.
 
-#### Panel 4
+- #### Panel 4
 
 Megan Schreiber found out about the '45 Rebellion:
 
@@ -54,33 +54,33 @@ Megan Schreiber found out about the '45 Rebellion:
 
 ### Page 5
 
-#### Panel 4
+- #### Panel 4
 
 Of course, three. What other number could be chosen?
 
 ### Page 6
 
-#### Panel 7
+- #### Panel 7
 
 Of course, the last time Rose was in this broom closet she found the Hecateae inside.
 
 ### Page 7
 
-#### Panel 2
+- #### Panel 2
 
 ...and here she finds somebody else.
 
 ### Page 8
 
-#### Panel 2
+- #### Panel 2
 
 That checkers game must be a little dull; with the pieces on oppositely-colored squares it's impossible to make a jump...
 
-#### Panel 3
+- #### Panel 3
 
 Here we see that "Maiden" and "Crone" are relative terms. Note that Amelia and Magda have a strong visual resemblance to Mildred and Mordred of the Three Witches.
 
-#### Panel 4
+- #### Panel 4
 
 "Blockbuster" is a long-running TV show hosted by Bob Holness.
 
@@ -100,51 +100,51 @@ For those who don't read letter columns (or who will read this story in book for
 
 ### Page 19
 
-#### Panel 1-2
+- #### Panel 1-2
 
 There's been speculation on the net that this "Helena" is Helena Kosmatos, the Golden Age Fury and (post-Crisis at least) Lyta Hall's lost mother. If so, it would fit in with the difficulty of saying her last name. Certainly the actions described here are those one would expect of a Fury. Also, there is some resemblance to the photo in 57:19:8.
 
       Note the women's names. The Greek writers who portrayed the Furies as a trio of women named them Tisiphone, Alecto, and Megaera. Amelia -- Alecto; Magda -- Megaera; and the Golden Age Fury was shown as receiving her powers specifically from Tisiphone.
 
-#### Panel 3
+- #### Panel 3
 
 The most effective method of lying, of course, is to tell the truth in such a way that you are not believed.
 
 ### Page 20
 
-#### Panel 4
+- #### Panel 4
 
 Unity Kinkaid gave Rose this ring in "The Doll's House" part 1 -- specifically 10:23:4.
 
-#### Panel 5
+- #### Panel 5
 
 This is 10:23:5 reproduced.
 
-#### Panel 7-8
+- #### Panel 7-8
 
 When Rose encounters the Hecateae we also see an owl and a pussycat; the owl here in particular echoes the one in 10:20:1.
 
 ### Page 21
 
-#### Panel 2
+- #### Panel 2
 
 The owl was the familiar of Athena, Greek goddess of wisdom.
 
 ### Page 22
 
-#### Panel 1
+- #### Panel 1
 
 Quentin Crisp, English gay writer.
 
-#### Panel 3
+- #### Panel 3
 
 It's said that "More light, more light" were the final words of Goethe.
 
-#### Panel 4
+- #### Panel 4
 
 _The Tempest_, act IV scene 1.
 
-#### Panel 5
+- #### Panel 5
 
 Alex Burgess, too, was last seen at the end of issue #1.
 
@@ -152,11 +152,11 @@ Note the Piglet doll in bed with him. The picture by the bed is of Ethel Cripps,
 
 ### Page 23
 
-#### Panel 3
+- #### Panel 3
 
 Those who've read issue #1 know for certain that they are not.
 
-#### Credits
+## Credits
 
 - Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman Annotations.
 - Originally collated and edited by David Goldfarb.

@@ -14,11 +14,11 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 
 ### Page 1
 
-#### Panel 2
+- #### Panel 2
 
 Note the ecologically-correct webbed shopping bag.
 
-#### Panel 4 As theorized in #48 page 16, the Endless embody both their name and their opposite. Hence, Destruction includes creation, which explains his sculpture, painting, and cooking.
+- #### Panel 4 As theorized in #48 page 16, the Endless embody both their name and their opposite. Hence, Destruction includes creation, which explains his sculpture, painting, and cooking.
 
 Eleni Petrakou <tulpoeid@hotmail.com> tends to disagree:
 
@@ -26,13 +26,13 @@ Eleni Petrakou <tulpoeid@hotmail.com> tends to disagree:
 
 ### Page 2
 
-#### Panel 6
+- #### Panel 6
 
 Is this meant to represent Ishtar?
 
 ### Page 3
 
-#### Panel 6
+- #### Panel 6
 
 Barnabas is a _real_ dog. Admittedly, he's a real _talking_ dog, but he's not a human in a dog's body the way Matthew is a human in a raven's body (the superficial characterization of #40 aside, Matthew still _acts_ human). Incidentally, chocolate is not particularly healthy for dogs; they have trouble digesting it and they, like the rest of the Carnivora, overreact to stimulants.
 
@@ -40,7 +40,7 @@ Barnabas is a _real_ dog. Admittedly, he's a real _talking_ dog, but he's not a 
 
 ### Page 5
 
-#### Panel 2
+- #### Panel 2
 
 Note the curlicues used for Del's eyes. The envelope is addressed to "Santa Claus/The North Pole".
 
@@ -50,7 +50,7 @@ See Appendix for discussion on Santa Claus.
 
 ### Page 6
 
-#### Panel 3-7
+- #### Panel 3-7
 
 This sequence is reminiscent of _The Chronicles of Amber_, by Roger Zelazny. In that book, the members of the royal family of the eternal city Amber are able to walk among the shadowy reflections of Amber, adding and subtracting bits of reality until they get to a reflection which matches their desired destination. Gaiman's description of Dream and Delirium's walk is very similar to Zelazny's description of shadow-manipulation.
 
@@ -62,25 +62,25 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 8
 
-#### Panel 3
+- #### Panel 3
 
 The statue of Destruction is facing in the opposite direction as the statues of the rest of the family. There is no obvious path leading to it.
 
 ### Page 10
 
-#### Panel 6
+- #### Panel 6
 
 Del may be imitating the posture of her statue.
 
 ### Page 11
 
-#### Panel 2-5
+- #### Panel 2-5
 
 Note the white core to Del's balloons. In panel 4, Del's eyes should be the same color. (Del is repeating what she said in #21.)
 
 ### Page 12
 
-#### Panel 2
+- #### Panel 2
 
 Del's eyes should be the same color again.
 
@@ -88,21 +88,21 @@ Del's eyes should be the same color again.
 
 ### Page 13
 
-#### Panel 2
+- #### Panel 2
 
 Delirium considers Destiny's "little flappy things" equivalent to Dream's ravens or Despair's rats (#41).
 
 ### Page 14
 
-#### Panel 1
+- #### Panel 1
 
 This event (as yet undetailed) occurs just before #1 and is referred to in the "What Has Gone Before" introduction to _The Doll's House_.
 
-#### Panel 2
+- #### Panel 2
 
 See Dream's description in #21, and the _Death: The High Cost of Living_ miniseries. According to Jill Thompson, the ox drover is no one particularly important, but was also mentioned in issue #2, page 17, panel 4.
 
-#### Panel 3
+- #### Panel 3
 
 It seems probable that this is a depiction of a event; the color of Dream's clothing and hair is significant.
 
@@ -110,33 +110,33 @@ It seems probable that this is a depiction of a event; the color of Dream's clot
 
 ### Page 15
 
-#### Panel 2
+- #### Panel 2
 
 Dream's cloak pin is supposed to be colored silver. It is not Dream's ruby, which was destroyed in #7.
 
-#### Panel 3
+- #### Panel 3
 
 Orpheus as "not very old": All lives are brief, from the perspective of the Endless.
 
-#### Panel 5
+- #### Panel 5
 
 Note that Del has given the flower wings.
 
 ### Page 19
 
-#### Panel 3
+- #### Panel 3
 
 Delirium is using an old counting rhyme which is supposed to reveal your occupation when you grow up. (Modern readers may be familiar with its use as a title for a couple of works: _Tinker, Tailor, Soldier, Spy_ by John LeCarre and _Rich Man, Poor Man_ and _Beggarman, Thief_, novels and television miniseries by Irwin Shaw.) Del omits "thief" in her rhyme; the continuation in panel 5 is her own invention.
 
 ### Page 20
 
-#### Panel 5
+- #### Panel 5
 
 See #41 for the source of the epitaph.
 
 ### Page 21
 
-#### Panel 3
+- #### Panel 3
 
 This island, Destruction's refuge, was seen in #41.
 
@@ -144,15 +144,15 @@ This island, Destruction's refuge, was seen in #41.
 
 ### Page 24
 
-#### Panel 1
+- #### Panel 1
 
 **Troth**: An archaic term for faithfulness or a promise, especially a promise to marry; extended by similarity to equal "truth".
 
-#### Panel 4
+- #### Panel 4
 
 **Dolmades**: a Greek dish, grape leaves stuffed with ground meat. /-es/ is a Greek plural ending.
 
-## Credits:
+## Credits
 
 - Originally collated and edited by Greg Morrow.
 - Enrique Conty (conty@cbnewsl.cb.att.com) pointed out the connection between Destruction and creation and confirmed the existence of Del's little song.

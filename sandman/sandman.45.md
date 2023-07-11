@@ -10,17 +10,17 @@
 
 ### Page 1
 
-#### Panel 4
+- #### Panel 4
 
 **Roxy Blue**: In the opinion of at least one reviewer, the lamest, saddest attempt ever made to create a generic megahit MTV glam-metal band.
 
 ### Page 2
 
-#### Panel 3
+- #### Panel 3
 
 This is foreshadowing. See also page 3 panel 5 and in #44.
 
-#### Panel 4
+- #### Panel 4
 
 **Shooting up**: Taking heroin, which is administered via syringe.
 
@@ -28,15 +28,15 @@ This is foreshadowing. See also page 3 panel 5 and in #44.
 
 ### Page 5
 
-#### Panel 1
+- #### Panel 1
 
 **Sam Hill**: Euphemism for "hell", deriving from "Salomon", an oath. Ass is green and growing: A variation of the rhyming slang "ass is grass".
 
-#### Panel 2
+- #### Panel 2
 
 "I'm a very good driver" is an oft-quoted line of dialog from the movie _Rain Man_, spoken by Dustin Hoffman's autistic character.
 
-#### Panel 3-5
+- #### Panel 3-5
 
 Del's actions here are reminiscent of Dream's punishment of Alex Burgess in #1. It is evident that the Endless have the ability to cloud people's minds (as in #41 and #44, as well as on page 16, for example).
 
@@ -44,11 +44,11 @@ Del's actions here are reminiscent of Dream's punishment of Alex Burgess in #1. 
 
 ### Page 6
 
-#### Panel 5
+- #### Panel 5
 
 See Lance Smith's Sandman Concordance for an accounting of Dream's ravens.
 
-#### Panel 6
+- #### Panel 6
 
 Matthew is referring to the incident in Swamp Thing #27, where he was possessed by the spirit of his wife's uncle, the evil sorceror-scientist-supervillain Anton Arcane.
 
@@ -56,29 +56,29 @@ Matthew is referring to the incident in Swamp Thing #27, where he was possessed 
 
 ### Page 7
 
-#### Panel 1-5
+- #### Panel 1-5
 
 Tiffany's activities here make it clear that she's doing cocaine. The >snf< noise in panel 1: coke is usually snorted through the nose. In panel 2, Tiffany is collecting coke residue left on the mirror (mirrors are used to prepare lines for sniffing because they are flat and untextured). In panel 4, she's rubbing the residue into her gums where it will be absorbed.
 
-#### Panel 2
+- #### Panel 2
 
 **Lousy movie**: The movie _Ishtar_, a putative comedy, went enormously over-budget, in part because of the cost of its impressive cast, and was roundly panned by the critics.
 
-#### Panel 3
+- #### Panel 3
 
 Tiffany is a chain of jewelry stores known for making fine watches.
 
-#### Panel 5
+- #### Panel 5
 
 Note the similarity between Tiffany, born Alma, and Wanda, born Alvin, of _A Game of You_. Besides the coincidence of names, both left home under unhappy circumstances. This being Gaiman, there's probably a connection.
 
 ### Page 8
 
-#### Panel 2
+- #### Panel 2
 
 **Like a Virgin**: A song by Madonna (note Tiffany's shirt).
 
-#### Panel 6
+- #### Panel 6
 
 There's a parallel here, since Madonna was married to a "Sean"--Sean Penn--for a short time.
 
@@ -88,15 +88,15 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
 ### Page 9
 
-#### Panel 2
+- #### Panel 2
 
 Note that "pond scum" is not hyphenated.
 
-#### Panel 3
+- #### Panel 3
 
 Interested parties are invited to check out the alt.tasteless FAQ, as the denizens of that group have coined a word for the act of screwing a hole drilled in someone's head.
 
-#### Panel 4
+- #### Panel 4
 
 **Blow**: cocaine.
 
@@ -104,16 +104,16 @@ Interested parties are invited to check out the alt.tasteless FAQ, as the denize
 
 ### Page 10
 
-#### Panel 1
+- #### Panel 1
 
 Note the driver is making a rude gesture toward Delirium.
 In America, the raised middle finger displayed with the back of the hand toward the target translates as "fuck you". In recent years, this gesture has been adopted in both Britain and England, partially displacing older gestures of similar intent.
 
-#### Panel 2
+- #### Panel 2
 
 Del's sister here is almost certainly Death.
 
-#### Panel 3
+- #### Panel 3
 
 **101 Dalmatians**: A full-length cartoon by Walt Disney Studios. There are, in fact, 101 Dalmatians, mostly puppies, in the film. "Dalmatiums" are a type of flower. Dalmatia is a region in Yugoslavia along the Adriatic.
 
@@ -121,21 +121,21 @@ Del's sister here is almost certainly Death.
 
 ### Page 11
 
-#### Panel 1
+- #### Panel 1
 
 **Suffragette City**: A song by David Bowie. "Suffragette" was the term applied to women who sought to obtain the ability to vote.
 ("Suffrage" = "vote", from the Latin for "voting tablet".)
 
 ### Page 12
 
-#### Panel 5-6
+- #### Panel 5-6
 
 **Oprah" and "Donahue**: American talk shows, often
 devoted to the latest sensationalistic book, scam, or fad. The "Donahue" topic given in 13.5 is a good parody of a typical show. The hosts' full names are Oprah Winfrey and Phil Donahue.
 
 ### Page 13
 
-#### Panel 6
+- #### Panel 6
 
 **Mai Lai**: Possibly an amalgam of "mai tai", a kind of rum drink (to which Tiffany refers), and "My Lai", a village in South Vietnam where American military forces engaged in a massacre of civilians.
 
@@ -147,13 +147,13 @@ Notable as a shouted lyric near the end of David Bowie's "Suffragette City".
 
 ### Page 14
 
-#### Panel 1
+- #### Panel 1
 
 **I Heard It Through the Grapevine**: a song originally popularized by Gladys Knight and the Pips, later taken to the top of the charts by Marvin Gaye. Lyrics are quoted in the third caption of panel 1, the third caption of panel 2, and the caption of page 15 panel 1.
 
 ### Page 15
 
-#### Panel 6
+- #### Panel 6
 
 **Under Pressure**: A song written and performed by David
 Bowie and Queen. (Recall the mention of Queen frontsman Freddie Mercury in
@@ -161,7 +161,7 @@ Bowie and Queen. (Recall the mention of Queen frontsman Freddie Mercury in
 
 ### Page 16
 
-#### Panel 6
+- #### Panel 6
 
 Recall that Del pulled the same trick in #41.
 
@@ -171,27 +171,27 @@ Note the ironic change in meaning of "watches" from section 4.
 
 ### Page 21
 
-#### Panel 3
+- #### Panel 3
 
 **Sister Midnight**: a song from Iggy Pop's album _The Idiot_. Note that David Bowie has partial writing credit for the song, giving him three song references in one issue.
 
 ### Page 22
 
-#### Panel 4
+- #### Panel 4
 
 **Coming**: Slang for ejaculating; often written "cum".
 
 ### Page 24
 
-#### Panel 2
+- #### Panel 2
 
 Desire's quote is from Job 1:15, 16, 17, 19, where four messengers report disasters to Job, each ending their message with this line. Job lost all his children and property to these disasters, the result of a bet between God and Satan. Note that in both cases, Suffragette City and Job, the bystanders were simply unfortunate enough to get caught up in the struggles of more powerful beings, and were otherwise innocent.
 
-#### Panel 4
+- #### Panel 4
 
 Contrast this ">snf<" with page 7.
 
-## Credits:
+## Credits
 
 - Originally collated and edited by Greg Morrow.
 - Lance Smith (lsmith@mega.cs.umn.edu) spotted a rude gesture and Tiffany's coke use, pointed out the congruence of Del's and Dream's interactions with mortals and identified songs.

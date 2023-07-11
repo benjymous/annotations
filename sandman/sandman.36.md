@@ -24,37 +24,37 @@ Many of the dominant elements of the Land are revealed as elements from Barbara'
 
 ### Page 2
 
-#### Panel 1
+- #### Panel 1
 
 First full appearance of the Cuckoo, whose origin is explained in this issue.
 
 ### Page 4
 
-#### Panel 2
+- #### Panel 2
 
 I will admit that -I- fully expected the "abused child" ending. As it stands, I'm dissatisfied with what the Cuckoo really is; it's an inchoate thing, neither inner pain nor parasitical interloper.
 
-#### Panel 7
+- #### Panel 7
 
 This is a "bande dessine'e `a clef"; a comic book where real references are concealed behind pseudonyms. Perry Porter, the Amazing Spider is really Peter Parker, the Amazing Spider-Man; and Clint Clarke, Hyperman, is really Clark Kent, Superman.
 
 ### Page 5
 
-#### Panel 4
+- #### Panel 4
 
 Note the doll's house on the right. The toy on the dresser to the left is a bobbing bird; ideally, it should have its nose in a glass of water. A trick of evaporation causes the bird to bob up and down in perpetuity.
 
-#### Panel 5
+- #### Panel 5
 
 "Oh, look, a stuffed rat! Barbie will just -love- this one, don't you think, honey?" As implausible as it might seem for, say, Kenner to manufacture stuffed rats, I am reliably informed that merchants at SCA events have been selling stuffed "plague rats" for years, which are, among other things, popular as cat toys.
 
-#### Panel 7
+- #### Panel 7
 
 Say, this looks like a theme rearing its ugly head.
 
 ### Page 6
 
-#### Panel 1
+- #### Panel 1
 
 **The books are**:
 
@@ -65,25 +65,25 @@ Say, this looks like a theme rearing its ugly head.
 - Next is J.R.R. Tolkien's [The Lord of the Rings](http://www.amazon.de/exec/obidos/ASIN/0345340426); this was originally published as a long trilogy, against Tolkien's wishes, but has since been available in several different editions of a single bound volume. _Lord of the Rings_ is perhaps the most classic work of modern fantasy; certainly, it's the most scholarly, as Tolkien was a philologist who made his world by drawing heavily upon his knowledge of languages and myth.
 - Finally, there is a work entitled [Witches](http://www.amazon.de/exec/obidos/ASIN/0141301104), a Roald Dahl novel later made into a movie by Jim Henson.
 
-#### Panel 3
+- #### Panel 3
 
 "Imaginary fiend"? A typo, or deliberate?
 
 ### Page 8
 
-#### Panel 1
+- #### Panel 1
 
 They Might Be Giants is an alternative rock duo made up of John Linnell and John Flansburgh. They take their name from a 1970s George C. Scott film, in which Scott's character becomes convinced that he is Sherlock Holmes. The title of that film is from Cervantes' [Don Quixote](http://www.amazon.de/exec/obidos/ASIN/0192834835); when questioned about his delusions, Scott's character cites Quixote's statement, "I don't fight windmills because they _are_ giants, I fight them because they _might_ be giants." In other words, his "delusion" is the result of a conscious choice. The entire movie, obviously, is about a question of identity, and hence reflects on this storyline.
 
 "The Nightgown of the Sullen Moon" was originally released on the 4-song EP _They'll Need a Crane_ (Restless/Bar None 72611-2), and is also on the collection [Miscellaneous T](http://www.amazon.com/exec/obidos/ASIN/B000003BIU) (Restless/Bar None 72646-2).
 
-#### Panel 2
+- #### Panel 2
 
 Q-tips are a brand name of cotton-tipped stick, used for a variety of delicate tasks. Wundabuds (and Wundawool) don't exist. As established before, "wool" in this sense is not sheep's wool, but unspun cotton.
 
 **Note the rat**: visual reference to Wilkinson? Or just a rat?
 
-#### Panel 3
+- #### Panel 3
 
 Jim Morrison, the famous dead one, was the lead singer of the Doors, and is a shining testament to the wonders of hard core drug abuse.
 
@@ -93,44 +93,44 @@ Note the radio station call letters.
 
 Note that the three women walk in step and perform the same actions.
 
-#### Panel 2
+- #### Panel 2
 
 First revelation of Hazel's last name. Foxglove's birth name was Donna Cavanagh, as seen earlier.
 
-#### Panel 3
+- #### Panel 3
 
 In Greece, Thessaly was infamous for its witches. The 2nd century Latin writer Apuleius wrote, in "The Golden Ass", about Thessalian witches would would gnaw off the faces of the dead to use in necromantic spells. These witches' rites were methods of commanding higher powers, as reflected in Thessaly's attitude, where modern Wiccans (neo-witches), and Christian prayer, petition the aid of higher powers. It is implied that Thessaly is the last of those witches.
 Judy died in _Sandman_ #6, after a fight with Donna (Foxglove).
 
 ### Page 10
 
-#### Panel 1
+- #### Panel 1
 
 I suppose one could play games with the interpretations of each woman's remark after leaving the trail of the moon. Panel 1, 3: Note the sun's changing position.
 
-#### Panel 3
+- #### Panel 3
 
 Thessaly's remarks about the nature of the Land will be explored more thoroughly later.
 
-#### Panel 6
+- #### Panel 6
 
 Thessaly recognizes the illogical predictability of coincidence inherent to stories.
 
 ### Page 13
 
-#### Panel 2, 4
+- #### Panel 2, 4
 
 Note the parallel between cuckoos and Hazel's pregnancy.
 
 ### Page 14
 
-#### Panel 7-8
+- #### Panel 7-8
 
 Aww, cute.
 
 ### Page 15
 
-#### Panel 1
+- #### Panel 1
 
 Rutger Hauer is a fairly decent actor typecast into appearing in mostly B-class action films.
 With regards to the third (self-titled) Velvet Underground LP, it has been said:
@@ -139,29 +139,29 @@ With regards to the third (self-titled) Velvet Underground LP, it has been said:
 
 They were originally a band put together by Andy Warhol, part of his exploration/manipulation of popular culture in the 1960s, although his exact influence on the band is debatable.
 
-#### Panel 2
+- #### Panel 2
 
 There is irony in calling Barbie "Sleeping Beauty". Both are the central figures in fairy tales.
 
-#### Panel 5
+- #### Panel 5
 
 Queen is a slang term for certain types of transvestites and homosexual men.
 
 ### Page 17
 
-#### Panel 5
+- #### Panel 5
 
 The Good Samaritan is a character from the Christian Bible, a heretic who showed that he was nonetheless more truly good than the most pious religious person by helping a stranger. Someone who helps strangers is therefore called a "good Samaritan".
 
 ### Page 18
 
-#### Panel 5
+- #### Panel 5
 
 The Cuckoo explains her power over Luz and Barbie. Her remark about Barbie trying to tell herself the truth is probably a reference to the Tantoblin's message with the cuckoo text.
 
 ### Page 19
 
-#### Panel 1
+- #### Panel 1
 
 The Hierogram (Holy-Writing) is marked with Japanese katakana (one of the Japanese alphabets). The characters spell out "do-rii-mi-n-gu", or "Dreaming". The leftmost side of the first character should have a vertical stroke, not slanted, and the last character should have only two tickmarks on the side, not three.
 
@@ -173,25 +173,25 @@ A thorn looks like a combination of 'p' and 'b', and represents a voiceless 'th'
 
 ### Page 23
 
-#### Panel 3
+- #### Panel 3
 
 Finally, George is explained, and we learn that more than one dreamer can share a skerry.
 
 ### Page 27
 
-#### Panel 1
+- #### Panel 1
 
 "Lally, lally" sounds familiar.
 
 ### Page 28
 
-#### Panel 4
+- #### Panel 4
 
 Lou Reed was the lead singer of the Velvet Underground.
 
 Specifying Hurricane Lisa-with-a-'S' may be a reference to Liza Minelli, a prominent member of the New York social scene. Pictured are the Statue of Liberty and the World Trade Center.
 
-#### Panel 5
+- #### Panel 5
 
 The "dust storm" was when Thessaly called down the moon to enter the Dreaming. Pictured are the Chrysler building and what is probably the Empire State Building.
 
@@ -201,7 +201,7 @@ IMHO, this is just about the best artistic representation ofDream in the series.
 
 ### Page 31
 
-#### Panel 4
+- #### Panel 4
 
 "Murphy" was the being by whom the inhabitants of the Land swore, as if by "God". The OED has the definition "Illiterate perversion of Morpheus", with an 18th century citation.
 
@@ -213,19 +213,19 @@ This sequence is reminiscent of a similar one in the last Narnia book, _The Last
 
 ### Page 35
 
-#### Panel 1
+- #### Panel 1
 
 Alianora, a variant spelling of Eleanor, is a creation of James Branch Cabell, and appeared in his Poictesme stories, in part as the mother of one of the branches of Manuel the Redeemer's family. Her character is most prominent in _Figures of Earth_. Can one of my Cabell sources give me a brief description of her thematic role?
 
 Cabell is one of Gaiman's strongest influences.
 
-#### Panel 2
+- #### Panel 2
 
 Note Alianora's scar; was this a characteristic of the Cabell Alianora?
 
 ### Page 37
 
-#### Panel 2
+- #### Panel 2
 
 The connection between Dream and the witch-women of Thessaly has not been revealed.
 
@@ -233,7 +233,7 @@ The connection between Dream and the witch-women of Thessaly has not been reveal
 
 Recall that the apparent landlady of the building is named Scarlett, and now the building is "Gone with the Wind", so to speak.
 
-## Credits:
+## Credits
 
 - Originally collated and edited by Greg Morrow.
 - Gerson Koenig (gmkoenig@acsu.buffalo.edu) passed along useful TMBG information.

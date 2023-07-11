@@ -17,53 +17,53 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 1
 
-#### Panel 2-3
+- #### Panel 2-3
 
 The Land is full of fantastic elements, such as the Trees and the Tweeners, which verge on being archetypes of the genre; that is their point. The Land takes much of its form from principles abstracted from Barbie's earliest books, as seen later. The Trees may be a direct reference to J.R.R. Tolkien's Ents, from _The Lord of the Rings_.
 
-#### Panel 3
+- #### Panel 3
 
 **Pretty party dress**: In fact, this is the same dress Barbie was wearing when we saw her in the Land in _The Doll's House_.
 
 ### Page 2
 
-#### Panel 1
+- #### Panel 1
 
 Wilkinson is singing an old folk song. Tipperary is a location in Ireland.
 
 ### Page 3
 
-#### Panel 3
+- #### Panel 3
 
 Barbie's remarks about the Hieromancer are a clue to the nature of the Land's inhabitants.
 
 ### Page 4
 
-#### Panel 1
+- #### Panel 1
 
 This was foreshadowed in _Sandman_ #32 page 1.
 
 ### Page 5
 
-#### Panel 1
+- #### Panel 1
 
 The dinosaur-like beings carrying the house may be a visual quotation from a short animated film of recent vintage.
 
-#### Panel 2
+- #### Panel 2
 
 Because the Tantoblin made breakfast, I suspect that his name comes from the pastry and not the scatological sense of the word.
 
-#### Panel 3
+- #### Panel 3
 
 The name "Room Patrol" is reminiscent of DC's comic book _Doom Patrol_, another title from the "Mature Readers" line with a British author and a similar editorial feel to _Sandman_.
 
-#### Panel 6
+- #### Panel 6
 
 Wilkinson's speech here is quite reminiscent of John Constantine; Wilkinson is probably meant to be an analog to Constantine, given the similarity in costume and language. I have not identified "Swamp Thing" or "Shade" analogs in the Land; that would complete the DC Mature Readers homages in _A Game of You_.
 
 ### Page 6
 
-#### Panel 5
+- #### Panel 5
 
 Barbie's face painting was prominently seen in _Sandman_ #32.
 Her remark about not wanting anything permanent should not be overlooked.
@@ -72,55 +72,55 @@ Her remark about not wanting anything permanent should not be overlooked.
 
 The text of the scroll is presumably taken from a specific reference work on birds which I have not identified.
 
-#### Panel 3
+- #### Panel 3
 
 These are evidently the Black Guard alluded to before.
 
-#### Panel 5
+- #### Panel 5
 
 There is irony here.
 
 ### Page 9
 
-#### Panel 1-4
+- #### Panel 1-4
 
 This will be explained more fully later.
 
 ### Page 11
 
-#### Panel 2
+- #### Panel 2
 
 No refs for Gniedrig. Probably a German or Polish myth.
 
-#### Panel 7
+- #### Panel 7
 
 The Land has the surface appearance of a children's fantasy land, like Oz or (particularly) Narnia. Wilkinson's remark about "necessaries" points out, even more than the Tantoblin's grisly form, the entirely different style of the Land now that Barbie is full grown.
 
 ### Page 12
 
-#### Panel 3
+- #### Panel 3
 
 This hearkens back to page 9.
 
 ### Page 13
 
-#### Panel 2
+- #### Panel 2
 
 Note the clawed hand. Possibly a Tweener?
 
-#### Panel 5
+- #### Panel 5
 
 **Nobbled**: From context, "torn to little bloody gobbets." Origin unknown.
 
 ### Page 14
 
-#### Panel 3
+- #### Panel 3
 
 Barbie refers to J.R.R. Tolkien's _The Hobbit_, a highly regarded novel. It is that most rare of beasts, a bridge between juvenile and adult fantasy, done with extraordinary skill and mythic sense, style, and scope.
 
 ### Page 18
 
-#### Panel 2
+- #### Panel 2
 
 "Follow the yellow brick road" were the instructions given to Dorothy in _The Wizard of Oz_, the first in a long and excellent series of juvenile fantasy novels (and later made into a execrable movie that inexplicably became a "classic"). References to the tale have shown up many times in _Sandman_, notably in Hal's dream in _The Doll's House_. Dorothy, like Barbie, had three traveling companions, and traversed a forest of dark and malicious demeanor.
 
@@ -128,23 +128,23 @@ Barbie refers to J.R.R. Tolkien's _The Hobbit_, a highly regarded novel. It is t
 
 George attempts to play Wanda in the Game of You, but Wanda refuses.
 
-#### Panel 8
+- #### Panel 8
 
 The consequences of bringing the moon closer to the Earth are pretty severe. Tides would be higher; weather probably wilder. Earthquakes would also be more common.
 
 ### Page 21
 
-#### Panel 6
+- #### Panel 6
 
 'Nana: probably banana.
 
 ### Page 24
 
-#### Panel 3
+- #### Panel 3
 
 This is a big clue to the nature of the inhabitants of the Land (but somewhat misleading about the nature of the Cuckoo).
 
-## Credits:
+## Credits
 
 - Originally collated and edited by Greg Morrow.
 - John Ptacek (ptacek@nucst13.neep.wisc.edu) identified the common thread in _Game of You_'s chapter titles, and identified this issue's title in particular.

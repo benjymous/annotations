@@ -9,21 +9,21 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 1
 
-#### Panel 2
+- #### Panel 2
 
 This is Hal talking.
 
-#### Panel 3
+- #### Panel 3
 
 They're talking about Jed. He's probably concussed from where the Corinthian would have hit him to knock him out, and dehydrated from being locked in a car trunk for an indeterminate period of time. A "drip" is an IV (from "intravenous"), a fluid-filled bag leading to a needle which is inserted into a vein in the forearm or back of the hand. It's used to supply fluid (typically a saline solution to roughly match the blood plasma), medicines, and nutrition (as the simple sugar glucose).
 
 ### Page 2
 
-#### Panel 1
+- #### Panel 1
 
 Ken and Barbie are deliberately this cute, ending each other's thoughts and wearing the same clothes.
 
-#### Panel 4
+- #### Panel 4
 
 I'm familiar with the moral tale, but it is quite long and I'll merely say that the point is that God does not abandon you during difficult times, those times are when he supports you the most.
 
@@ -51,35 +51,35 @@ Chantal's dream occupies the top half of the double-page spread, Zelda's the bot
 
 > oh but chantal comes along and shows me she's my soul sister me and her true gothic heroines secret brides of the faceless slaves of the forbidden house of the nameless night of the castle of dread desire
 
-#### Chantal panel 1
+- ####Chantal panel 1
 
 Chantal's self-image is flat, all solid colors and lines, a sophisticated-looking lady. The style resembles artist Patrick Nagel. The caption reads: "Chantal is having a relationship with a sentence. Just one of those things. A chance meeting that grew into something important for both of them."
 
-#### Panel 2
+- #### Panel 2
 
 "They like the same things. She took it to a party. They were a big hit. The perfect couple."
 
-#### Panel 3
+- #### Panel 3
 
 "Everybody knows about her and the sentence."
 
-#### Panel 4
+- #### Panel 4
 
 "The sentence spent most of last year in Czechoslovakian for political reasons. But it was recently translated back into English. In order to stop the sentence being deported, Chantal has arranged to have it read into the Library of Congress. However--" There are two languages in Czechoslovakia, Czech and Slovak. There is no Czechoslovakian. But this is a dream.
 
-#### Panel 5
+- #### Panel 5
 
 "...when the time comes she discovers that she can no longer read. She has no idea what the sentence is about. Despondent and joyless, Chantal begins to cry." The entire sequence reads like a bizarre parody of a real relationship.
 
-#### Zelda panel 1
+- ####Zelda panel 1
 
 Zelda's self-image is childlike, reminiscent of Alice of Lewis Carroll's "Alice's Adventure's in Wonderland." In the caption, "bone orchard" signifies the pictured graveyard. "Necropolis" is equivalent to "Death" + "City". "Gothic heroines:" "Gothic" is a genre of fiction that uses remote and unusual settings to establish a mood of mystery and horror. _Sandman_ is Gothic fiction. The "forbidden house...of dread desire" is probably a reference to lesbianism.
 
-#### Panel 2
+- #### Panel 2
 
 Chantal as mother figure?
 
-#### Panel 3
+- #### Panel 3
 
 What does the skull in the cupped hands mean? Above this panel, in the panel of Zelda and Chantal together, there are meant to be two captions. The two captions do not appear in the original comic publication, but were replaced in the trade paperback reprint. The first reads: With Melmoth we walk the corridors of Otranto
 
@@ -87,11 +87,11 @@ What does the skull in the cupped hands mean? Above this panel, in the panel of 
 
 > And Chantal says I'm going to take off my veil Zelda and Oh God I know it's going to be my mom saying Oh God Zee you're sick listen Robert do you know wht I found in her room your daughter's disGUSTing
 
-#### Panel 4
+- #### Panel 4
 
 I presume that the "Hey, li'l moron" speech is something Zelda's mother abused her with. Zelda doesn't speak; perhaps she stutters? "Godzilla": Godzilla is the star of a series of giant monster movies made cheaply in Japan. Probably here, Zelda's mom is teasing her: "Do you believe in God...zilla?" or Zelda's mind is forming unconscious connections: "Do you believe in God?" becomes "Do you believe in Godzilla?" It is also possible that "Godzilla" is a cruel twist on the name "Zelda," teasing other children might use.
 
-#### Panel 5
+- #### Panel 5
 
 Under the veil appears to be a spider's face. Zelda and Chantal collect spiders.
 
@@ -99,7 +99,7 @@ Under the veil appears to be a spider's face. Zelda and Chantal collect spiders.
 
 This is Hal's dream.
 
-#### Panel 2
+- #### Panel 2
 
 Pictured and referred to are Bette Davis, Judy Garland, and Marilyn Monroe. I suspect Hal dreams their secret is that they are all men, too.
 
@@ -109,31 +109,31 @@ The other two have a somewhat less strong connection. Bette's physical gestures 
 
 The flamboyant public nature of the stars, combined with their more private off-screen lives, reflects the dichotomy of their gay fans' lives.
 
-#### Panel 5
+- #### Panel 5
 
 Judy Garland as Dorothy in the movie _The Wizard of Oz_.
 
-#### Panel 6
+- #### Panel 6
 
 Judy pulls off her face to reveal the face of the Wicked Witch of the West from the same movie. Margaret Hamilton played the Witch, and later went on to do many coffee commercials for Maxwell House brand.
 
-#### Panel 7
+- #### Panel 7
 
 The final face revealed is actually the Wizard of the movie, though it's hard to see. Frank Morgan was the actor who played the Wizard. The simple symbology in this sequence is that Hal wears a mask, either when he's being a transvestite, or when he's not, and he wants to stop.
 
 ### Page 9-10
 
-#### Panel 6
+- #### Panel 6
 
 A double page spread. The "Big-Bad-Wolf-Man" is Fun Land, a serial killer who tried to kill Rose. "The pale stranger" is Dream.
 
-#### Panel 12
+- #### Panel 12
 
 Brevard County is a county in Florida, where Rose is staying.
 
 ### Page 11
 
-#### Panel 4
+- #### Panel 4
 
 Dream's responsibilities include protecting the Dreaming.
 
@@ -144,11 +144,11 @@ Matthew's dislike of hospitals stems from the abuse his body underwent in his fo
 
 ### Page 12
 
-#### Panel 1-3
+- #### Panel 1-3
 
 Ken's dream is now one of sex.
 
-#### Panel 4-6: Barbie's dream
+- #### Panel 4-6: Barbie's dream
 
 A place, the Brightly Shining Sea, and more characters, possibly villains, Colonel Knowledge and the Heiromancer (equals "one who knows the future through holiness" or "prophet", or possibly "holy wizard"). Colonel Knowledge may be a paranomasiac reference to carnal knowledge. In panel 6, Ken's dream begins to leak into Barbie's.
 
@@ -156,17 +156,17 @@ A place, the Brightly Shining Sea, and more characters, possibly villains, Colon
 
 Zelda's and Chantal's dreams begin to intersect. Chantal's dream is a recursive story. The captions read "Not quite in nightmare, but far from comfortable, Chantal is held like a crashed computer in an infinitely regressive loop of story. It was a dark and stormy night. And the skipper said to the mate, 'Mate, tell me a story....' And this was the story he told:" The story from "it was a dark..." then repeats, then fragments. "It was a dark and stormy night" was referenced in an earlier issue. The recursive story comes from the book _Arm in Arm: A Collection of Stories, Riddles, and Echolalia_ by Remy Charlip.
 
-#### Panel 3
+- #### Panel 3
 
 Zelda's story. This is the beginning of M.R. James' short story "Lost Hearts", although it is slightly misquoted; it should read `1811' instead of `1911'. James is one of the most famous British writers of ghost stories. Another is titled "The Haunted Doll's House". It had been suggested earlier that Zelda's story was _Vanity Fair_ by William Makepeace Thackeray. This is now believed incorrect.
 
-#### Panel 4
+- #### Panel 4
 
 Zelda's dream image has changed dramatically. Note the lace overlay on the artwork.
 
 ### Page 14
 
-#### Panel 1-3
+- #### Panel 1-3
 
 Hal is recalling a former lover, Robert. Hal is obviously homosexual and not just a transvestite. The song If I Were a Bell is from the Broadway musical ["Guys and Dolls"](http://uk.imdb.com/M/title-substring?title=Guys+and+Dolls&tv=both) and it occurs when the romantic leads, Sky Masterson and Sarah Brown, are on a romantic getaway together. She sings it to express how happy she is. A common stereotype is that gay people enjoy showtunes.
 
@@ -176,25 +176,25 @@ The commentary on Barbara is important in the context of the later storyline. Ha
 
 ### Page 16-17
 
-#### panel 1
+- #### Panel 1
 
 Two page spread. Another place in Barbara's dreamworld, "The Place of Lost Carnadine". The "carn-" in similar words comes from Latin "caro", meaning flesh. It has also acquired the meaning of "dark red" from the color of flesh. The morpheme "-ine", if it is used here, means "having the nature of".
 
 ### Page 21
 
-#### Panel 2-3
+- #### Panel 2-3
 
 Again, we see _a_ Doll's House.
 
 ### Page 22
 
-#### Panel 2
+- #### Panel 2
 
 Sigmund Freud was an early 20th Century doctor who invented the practice of psychoanalysis. In his theories, much of human behavior is a direct result of the instinct for sex. When the subconscious mind is thinking of sex, the conscious mind tends to transform these thoughts into ones that are more acceptable in some sense. Thus a dream of flying is really a dream of sex. In dreams, almost any object that is longer than it is wide is considered a metaphor for the phallus. Freud recognized the inherent fallacy of this sort of overanalysis with the statement, "Sometimes a cigar is just a cigar." The major flaw in Freud's work is his inability to deconstruct his own sexual hangups.
 
 ### Page 23
 
-#### Panel 8-9
+- #### Panel 8-9
 
 See issues of _Swamp Thing_ for what Matt Cable, who became the raven, did. Gilbert's quote is from Christopher Marlowe, _The Jew of Malta_ (c. 1589) IV.i.40:
 
@@ -205,11 +205,11 @@ Note that we saw Kit Marlowe in _Sandman_ #13, in 1589, although there did not a
 
 ### Page 24
 
-#### Panel 7
+- #### Panel 7
 
 Another reference to rules that govern Dream's behavior. I suspect that the best explanation is that the mere existence of the Endless engenders rules, that rules _are_ because They _are_.
 
-## Credits:
+## Credits
 
 - Originally collated and edited by Greg Morrow.
 - Michael Kelly <mkelly@wimpy.helios.nd.edu> spotted the resemblance between "Godzilla" and "Zelda."

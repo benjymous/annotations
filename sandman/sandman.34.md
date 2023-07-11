@@ -15,50 +15,50 @@ Not yet reprinted in any other form
 
 ### Page 1
 
-#### Panel 2
+- #### Panel 2
 
 The birds, which were causing or feeding off of the bad dreams of the house's occupants, disappear, quite probably at the exact same time that George was killed (last issue, last scene).
 
 ### Page 2
 
-#### Panel 5
+- #### Panel 5
 
 Note the poster of the angelic figure.
 
 ### Page 4
 
-#### Panel 6
+- #### Panel 6
 
 Thessaly has no sense of humor; this will be elaborated on later. Note that Wanda lives in apartment 2, which is probably a numerological reference to her dual nature (explained later).
 
 ### Page 5
 
-#### Panel 5
+- #### Panel 5
 
 This is one of the few places that Doran's style survived the inking; Wanda's hair in particular, as well as her stance, screams "Doran".
 Note that Barbie lives in apartment 1; fitting, since she is the primary character and the center around whom this arc revolves.
 
 ### Page 6
 
-#### Panel 2
+- #### Panel 2
 
 The Porpentine has changed shape again.
 
 ### Page 7
 
-#### Panel 6
+- #### Panel 6
 
 **Shortcomings**: a pun.
 
 ### Page 10
 
-#### Panel 4, 6-8
+- #### Panel 4, 6-8
 
 Another obviously Doran sequence. Keep in mind that Gaiman usually writes in full script; this is a good example of Gaiman's technical skill and flexibility, to write to a particular artist's style.
 
 ### Page 11
 
-#### Panel 3
+- #### Panel 3
 
 This is probably the same utility knife George used earlier.
 
@@ -70,49 +70,49 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 14
 
-#### Panel 3
+- #### Panel 3
 
 **High Shore of the Silent River**: No refs. In Greek mythology, the River Styx was one of the boundaries between the land of the living and the land of the dead. Other mythological rivers include Acheron, Cocytus, Phlegethon (the River of Fire) and Lethe (the River of Forgetfulness).
 
 ### Page 15
 
-#### Panel 1
+- #### Panel 1
 
 Gwas-y-gog: Welsh, meaning literally "Servant of the cuckoo"; it is also the name of a little brown bird, which may be the one known as "hedge-sparrow" in English.
 
 Why Welsh? Probably because of the rich influence Welsh culture has had on English folktales, and probably because of the existence of that little brown bird, as a real-life antecedent.
 
-#### Panel 2
+- #### Panel 2
 
 George's statement here is unclear. The cuckoo sent him here, but came to him here and seduced him with promises. Is he a creature of the Dreaming, or a man taken over by the Cuckoo's will?
 
-#### Panel 5
+- #### Panel 5
 
 It is a cliche that you pinch yourself to shock yourself out of a dream.
 
 ### Page 16
 
-#### Panel 9
+- #### Panel 9
 
 Is Thessaly referring to Dream's ruby, or to another, similar, stone brought forth from dreams? Most likely the former.
 
 ### Page 17
 
-#### Panel 6
+- #### Panel 6
 
 Even assuming that all four women are capable of menstruation, and assuming that Hazel and Foxglove aren't in sync, it's only about 50% probable that any one of them would be menstruating at any given time (based on a period lasting five days in 30, which is a simplification). Given that Hazel and Fox are in sync, and Thessaly and Wanda are incapable, it's really only about a 1 in 6 chance that menstrual blood would be available. This is perhaps the first time that Gaiman has had a story point depend purely on chance, however elegantly it may have been foreshadowed. Thessaly, it is hinted, is very old. Since ovulation is a linchpin in the menstrual cycle, and since the supply of eggs in the human female is finite and in the hundreds or thousands, it is no surprise that Thessaly has stopped menstruating, even though she retains apparent youth. She's simply run out of eggs.
 
-#### Panel 9
+- #### Panel 9
 
 We have seen no other evidence that Dream bears some sort of prejudice against lesbians or witches. Dream generally spares little time for any mortals.
 
 ### Page 18
 
-#### Panel 3
+- #### Panel 3
 
 Thessaly, Hazel, and Foxglove together make up a maiden, mother, crone triune; this summons the power of the Triple Goddess.
 
-#### Panel 4
+- #### Panel 4
 
 **Gorgo**: the Greek root /gorgos/ means "grim, fierce, terrible". This may refer simply to the Gorgon Medusa, one of three horrifyingly grotesque daughters of the sea-god Phorkys in Greek myth, slain by Perseus; variant spellings occasionally left off the 'n'. Also, a common variant for Gorgas "sea-nymphs" is Gorgides, with an implied singular Gorgo.
 
@@ -126,39 +126,39 @@ This chant is very similar to the one H.P. Lovecraft used in "Horror at Red Hook
 
 ### Page 19
 
-#### Panel 1
+- #### Panel 1
 
 Note the three faces.
 
 ### Page 21
 
-#### Panel 1
+- #### Panel 1
 
 The bag lady says "Moon's gone weirdzo/Look at the son of a bitch." Weirdzo is a reference to the Bizarros, mentioned earlier.
 
 ### Page 22
 
-#### Panel 4
+- #### Panel 4
 
 Lunatic, meaning madman, originally arose from the belief that the full moon influenced madness. Its use here is overtly ironic.
 
 ### Page 23
 
-#### Panel 1-3
+- #### Panel 1-3
 
 The bag lady, possibly mad, recognizes what happened to the moon. Is it a consequence of her madness, or is it simply as she says in panel 3, that no one bothers to look at the sky any more?
 
-#### Panel 6
+- #### Panel 6
 
 **Rabbit hole**: a reference to Lewis Carroll's _Alice's Adventures in Wonderland_, where the heroine falls down a rabbit hole into a strange other world. Stephen King: An extremely popular American writer of horror stories.
 
-#### Panel 7
+- #### Panel 7
 
 Wanda is playing "the game of you".
 
 ### Page 24
 
-#### Panel 2
+- #### Panel 2
 
 Goody Two-Shoes: A cliche meaning a do-gooder; often used derisively. It arises from an anonymous allegory published in English in 1766 under the somewhat unwieldy title:
 
@@ -175,11 +175,11 @@ Goody Two-Shoes: A cliche meaning a do-gooder; often used derisively. It arises 
 
 It is by reputation simplistic and moralistic; the heroine exemplifies the type of person her name came to represent. "Goody" itself is short for "Goodwife", and was used in a sense roughly equivalent to "Mrs." Margaret Hamilton: Played the Wicked Witch of the West in the movie version of _The Wizard of Oz_.
 
-#### Panel 5-6
+- #### Panel 5-6
 
 George should be enjoined from speaking except with Thessaly's permission; see page 16 panel 1. This is hand waved away in the next issue.
 
-## Credits:
+## Credits
 
 - Originally collated and edited by Greg Morrow.
 - Jim W Lai <jwtlai@jeeves.uwaterloo.ca> pointed out the correlation

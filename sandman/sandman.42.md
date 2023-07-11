@@ -10,7 +10,7 @@
 
 ### Page 1
 
-#### Panel 6
+- #### Panel 6
 
 We have not yet been told the identity of Dream's lover.
 
@@ -22,27 +22,27 @@ We know that she has appeared before, that she is not one of his former lovers, 
 
 ### Page 4
 
-#### Panel 5
+- #### Panel 5
 
 Nuala's stone is probably not very significant, although it might be one of the twelve Dreamstones (others including Dream's Ruby and the Porpentine).
 
 ### Page 5
 
-#### Panel 2
+- #### Panel 2
 
 Mervyn has been seen in #5, as a bus driver, and in _Season of Mists_. He is probably derived from Jack Pumpkinhead, a character in L. Frank Baum's Oz books. His name is probably a reference to Mervyn Peake, a British author/illustrator, known for the "Titus" books: _Titus Groan_, _Gormenghast_, and _Titus Alone_. These books are gothic fantasies, set in a large castle.
 
-#### Panel 3
+- #### Panel 3
 
 **Flick it**: A curious euphemism for a supposedly mature book. Obviously meant to be "fuck it"; note that all-caps comic book lettering causes "flick it" and "fuck it" to look very similar.
 
 ### Page 7
 
-#### Panel 4
+- #### Panel 4
 
 **Eleanora**: An alternate spelling for Alianora, who was seen in _A Game of You_. It has been speculated that "Eleanora" is really Eleanor of Aquitaine.
 
-#### Panel 6
+- #### Panel 6
 
 **Dead balloon**: The more usual phrase is "went over like a lead balloon".
 
@@ -52,19 +52,19 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
 ### Page 8
 
-#### Panel 1
+- #### Panel 1
 
 Sub-basement? Did Something Nasty in the Basement get demoted? Promoted?
 
-#### Panel 2
+- #### Panel 2
 
 Note the "hunny" pot, a reference to A.A.Milne's Winnie the Pooh books. Jill Thompson has said that she drew this sequence after Ernest Shepard's illustrations in Milne's books.
 
-#### Panel 3
+- #### Panel 3
 
 The bottle imp may be a reference to the Grimm fairy tale "The Imp in the Bottle" (see also _Doom Patrol_ #54).
 
-#### Panel 4
+- #### Panel 4
 
 Abel's song is a popular WW I shanty. Drop the stutter and the "mm hm er" bits and he's got the chorus correct.
 
@@ -72,17 +72,17 @@ Abel's song is a popular WW I shanty. Drop the stutter and the "mm hm er" bits a
 
 ### Page 11
 
-#### Panel 2
+- #### Panel 2
 
 The wyvern says "She said she was your sister".
 
 ### Page 12
 
-#### Panel 3
+- #### Panel 3
 
 Note the wyvern's delirious eyes.
 
-#### Panel 5
+- #### Panel 5
 
 Note that Delirium's clothing has changed. Her clothing changes at least once an issue.
 
@@ -90,7 +90,7 @@ Note that Delirium's clothing has changed. Her clothing changes at least once an
 
 ### Page 13
 
-#### Panel 4
+- #### Panel 4
 
 Apparently, Neil meant for the servitor's name to be Taramis, not Tamaris. Lance Smith writes:
 
@@ -100,22 +100,22 @@ Apparently, Neil meant for the servitor's name to be Taramis, not Tamaris. Lance
 
 ### Page 14
 
-#### Panel 4
+- #### Panel 4
 
 The female servitor may be another person pulled in from the Dreaming, as in _Season of Mists_, or she may be the Fashion Thing.
 This latter is suggested by the eyepatch (as seen on the other eye in 2:15.1).
 
 ### Page 15
 
-#### Panel 2
+- #### Panel 2
 
 **Del is altering a common playground taunt**: "\<X\> and \<Y\> sittin' in a tree, K-I-S-S-I-N-G /First comes love, then comes marriage, then comes baby in a baby carriage."
 
-#### Panel 4
+- #### Panel 4
 
 **Squidging**: Childish slang for squeezing. Note this balloon should be multicolored.
 
-#### Panel 9
+- #### Panel 9
 
 Note the "brief lives" reference, an example of a common motif. The phrase "copulating desperately" was also used in 5:18.3, in a scene with Mervyn Pumpkinhead.
 
@@ -123,15 +123,15 @@ Note the "brief lives" reference, an example of a common motif. The phrase "copu
 
 ### Page 19
 
-#### Panel 4
+- #### Panel 4
 
 Desire's sigil is, of course, its heart.
 
-#### Panel 5
+- #### Panel 5
 
 First Circle? Other Side of the Sky? Sword and the \<something\>? Note that the Other Side of the Sky might refer to the Faerie realms, or it might refer to Destruction's eventual destination. The First Circle may be the circle of angels seen in _Books of Magic_ #1, while the Sword may be Michael's (or Aziraphale's) fiery sword. Alternately, the First Circle may be a reference to Dante's Inferno, where Hell was a series of concentric rings, which was itself derived from older Fertile Crescent myths, including one where Ishtar passed through a city of circles in the underworld. The oaths may also revere to the Endless themselves: The First Circle is Death, the beginning and the end, and the Sword is Destruction's sigil; the Other Side of the Sky may be Despair's realm on the backs of mirrors.
 
-#### Panel 8
+- #### Panel 8
 
 **Gleet**: Inflammation of a bodily orifice or the discharge therefrom, as from a venereal disease.
 
@@ -140,7 +140,7 @@ Possibly a reference to a Bob Dylan song.
 
 ### Page 20
 
-#### Panel 2
+- #### Panel 2
 
 We know from Sp1:5.4 that Delight had become Delirium by at least Greece's Heroic Age.
 
@@ -150,23 +150,23 @@ A common statement by main characters, inevitably disastrously wrong.
 
 ### Page 21
 
-#### Panel 1
+- #### Panel 1
 
 Note the effect Delirium has had on the Dreaming (see also 41:13.2).
 
 ### Page 23
 
-#### Panel 2
+- #### Panel 2
 
 **Pharamond**: No refs. Possibly an obscure Fertile Crescent figure?
 
 ### Page 24
 
-#### Panel 4
+- #### Panel 4
 
 Interesting color rainbow. The colors run in the real world, from the inside out: violet, blue, green, yellow, orange, red.
 
-## Credits:
+## Credits
 
 - Originally collated and edited by Greg Morrow.
 - Brian Lintz (lintz@buster.cis.udel.edu) and Dani Zweig (dani@netcom.com) spotted Mervyn's earlier appearances.

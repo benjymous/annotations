@@ -10,21 +10,21 @@
 
 ### Page 1
 
-#### Panel 1
+- #### Panel 1
 
 Some recipes from Destruction's table are presented in the Appendix.
 
-#### Panel 2-3
+- #### Panel 2-3
 
 Note that the color separators got Dream's cloak pin correct, but screwed up Del's eyes again.
 
 ### Page 2
 
-#### Panel 1
+- #### Panel 1
 
 Destruction is referring to a cliche of detective fiction, when the detective has gathered all the subjects together to explain the crime and expose the criminal. In particular, this is a reference to Dashiell Hammett's _The Thin Man_ and its high-society detectives Nick and Nora Charles (played by William Powell and Myrna Loy in an excellent movie series).
 
-#### Panel 3
+- #### Panel 3
 
 **Retsina**: A weak Greek white wine, occasionally fortified with ouzo.
 
@@ -34,17 +34,17 @@ Del is retelling the story; her physical changes reflect her state at each point
 
 ### Page 5
 
-#### Panel 2
+- #### Panel 2
 
 **Something**: Delirium doesn't remember why Dream wanted to continue the journey, because Dream never told her, not as such.
 
-#### Panel 4
+- #### Panel 4
 
 The eyes are correct here.
 
 ### Page 6
 
-#### Panel 4
+- #### Panel 4
 
 **Despair**: This is the first we've heard that she's a replacement. See Lance Smith's Sandman FAQ.
 
@@ -52,7 +52,7 @@ The eyes are correct here.
 
 ### Page 7
 
-#### Panel 2
+- #### Panel 2
 
 A reference to _The [Wonderful] Wizard of Oz_, by L. Frank Baum. The Scarecrow was seeking a brain, the Tin Man a heart. A balloon ride figures prominently in Dorothy's quest to return home. (The book is thought by some to be allegory or satire of American politics.)
 
@@ -60,13 +60,13 @@ A reference to _The [Wonderful] Wizard of Oz_, by L. Frank Baum. The Scarecrow w
 
 ### Page 8
 
-#### Panel 7
+- #### Panel 7
 
 Destruction's denial of responsibility can be argued, of course.
 
 ### Page 9
 
-#### Panel 2
+- #### Panel 2
 
 The cathedral may be the still-unfinished St. John the Divine. The "pavement artist in Paris" recalls Dick van Dyke's character Bert in _Mary Poppins_; Bert was a jack-of-all-trades, like Destruction. The cave-painting site may be Altamira, Spain. From the _Academic American Encyclopedia_ by Grolier Electronic Publishing, Inc. copyright 1993:
 
@@ -75,13 +75,13 @@ The cathedral may be the still-unfinished St. John the Divine. The "pavement art
 > [...]
 > The first report of cave art was in 1879, when the painted ceiling at Altamira was discovered. The claim that this represented Stone Age art, however, aroused general disbelief. Although cave paintings had been noticed before, it seemed impossible that art of such sophistication and excellence should have been the work of primitive people. After the Altamira finds had been dismissed as forgeries, new finds were made, some of them in caves that had been sealed since the Stone Age. These subsequent discoveries, like that at La Mouthe in the Dordogne region of France, slowly overcame opposition. Finally, at the beginning of this century, Paleolithic art was recognized as authentic. To date, about 230 caves containing cave art are known; the great majority are in France and Spain, although a number have also been found in Italy, Portugal, and the USSR. Anatolian sites are still under investigation. One of the reasons for the concentration of cave art in western Europe may be the presence there of many limestone cliffs containing caves and rockshelters.
 
-#### Panel 4
+- #### Panel 4
 
 A word balloon fell off the art. Dream says something like "How did you know we were coming?"
 
 ### Page 10
 
-#### Panel 1
+- #### Panel 1
 
 Greek coffee is very thick and strong.
 
@@ -89,15 +89,15 @@ Greek coffee is very thick and strong.
 
 ### Page 11
 
-#### Panel 3
+- #### Panel 3
 
 Del drank the sludge.
 
-#### Panel 4
+- #### Panel 4
 
 Del's lucidity occurred in #47 in a section called "The Other Side of the Coin". Desire swears by the "Other Side of the Sky" in #41, and "The Other Side of the Sky" was a section in #44.
 
-#### Panel 5
+- #### Panel 5
 
 Destruction's denial of _anyone's_ responsibility can be argued, of course.
 
@@ -114,11 +114,11 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 
 ### Page 15
 
-#### Panel 1-5
+- #### Panel 1-5
 
 More thematic voice. Has Destruction fooled himself into ignorance of the consequences of his choice?
 
-#### Panel 5
+- #### Panel 5
 
 Delirium's creation, seen clearly here, is a winged Cerebus. Cerebus is an anthropomorphic aardvark, the central character of Dave Sim's _Cerebus_ epic. Sim and Gaiman are friends; Sim has parodied Gaiman's characters as the "Clueless".
 
@@ -126,15 +126,15 @@ Delirium's creation, seen clearly here, is a winged Cerebus. Cerebus is an anthr
 
 ### Page 16
 
-#### Panel 1
+- #### Panel 1
 
 This recalls Dream's lecture to Desire at the end of _The Doll's House_ (16:22-23).
 
-#### Panel 2
+- #### Panel 2
 
 This doesn't make a lot of sense, since we know Death does not predate _this_ universe.
 
-#### Panel 5
+- #### Panel 5
 
 IMHO, Hatred is not the opposite of Desire. Indifference is the opposite of Desire. Hatred is merely Desire of a different quality.
 
@@ -142,17 +142,17 @@ IMHO, Hatred is not the opposite of Desire. Indifference is the opposite of Desi
 
 ### Page 17
 
-#### Panel 4
+- #### Panel 4
 
 This change has been hinted at elsewhere.
 
 ### Page 19
 
-#### Panel 2
+- #### Panel 2
 
 Note that Del can see her own reflection instead of her sigil. (Compare to 18.2, where her sigil is seen.)
 
-#### Panel 6
+- #### Panel 6
 
 **Baklava**: a Greek/Turkish sweet pastry.
 **Taramasalata**: a fish pate made from roe. From the OED:
@@ -165,17 +165,18 @@ Note that Del can see her own reflection instead of her sigil. (Compare to 18.2,
 
 ### Page 21
 
-#### Panel 2
+- #### Panel 2
 
 Hoboes, tramps, and bums are often portrayed carrying their possessions in a spotted handkerchief tied to the end of a stick. (The ensemble is often called a "tuckerbag" or, in Australia, a "shiralee".) Destruction is merely conforming to cliche.
 
 ### Page 23
 
-#### Panel 2
+- #### Panel 2
 
 Destruction's remark resonates with many different sources. "UP AND OUT" was the destination of the Great Glass Elevator at the end of Roald Dahl's _Charlie and the Chocolate Factory_. At the end of C.S. Lewis' _The Last Battle_, characters at the destruction of Narnia go "further up and further in". Cordwainer Smith used "up and out" to refer to the navigation of space in his "Instrumentality of Mankind" series.
 
 We may also note the classic exchange between parent and child:
+
 > Parent: "Where did you go?"
 > Child: "Out."
 > Parent: "What did you do?"
@@ -187,7 +188,7 @@ This is inverted in Alan Moore's Halo Jones series, which ends with
 
 "Where did she go? Out. What did she do? Everything!"
 
-## Credits:
+## Credits
 
 - Originally collated and edited by Greg Morrow.
 - Lance Smith (lsmith@cs.umn.edu) passed along some salient points from Jill Thompson's interview in _Musings_ #1.

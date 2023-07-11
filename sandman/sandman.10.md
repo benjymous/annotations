@@ -13,37 +13,37 @@ We have learned in earlier issues that Desire is Dream's younger sibling. Despit
 
 ### Page 3
 
-#### Panel 1
+- #### Panel 1
 
 The figure in the lower right is Desire. The face in the "tv screens" may be the Corinthian, who shows up later. There is also some resemblance to Neil Gaiman himself, except that the editor in the letter column in issue 15 says "That was NOT a photo of Neil on page 3. As far as you know."
 
 ### Page 4
 
-#### Panel 1-3
+- #### Panel 1-3
 
 Desire is looking at the symbols of its relatives, the Endless, a group of seven anthropomorphized concepts. The symbols may be, left to right, in descending "age" of the concept. Left to right, they are: Death's ankh, Destiny's book, Dream's helmet. The empty square will acquire more meaning shortly. Then comes Desire's chin, then one we will meet immediately, and another we will meet later.
 
 ### Page 4
 
-#### Panel 2
+- #### Panel 2
 
 Desire says "Big brother, I'm watching you". This is a reference to George Orwell's 1984 ("Big brother is watching you").
 
 ### Page 5
 
-#### Panel 2
+- #### Panel 2
 
 First known appearance of Desire's twin sister Despair, whose sigil is a barbed ring (without immediately apparent symbolism), which was in the sixth square on page 4.
 
-#### Panel 3
+- #### Panel 3
 
 The missing prodigal is the Endless whose symbol is missing from the blank square. We will find out which concept this is much later.
 
-#### Panel 6
+- #### Panel 6
 
 Desire was manipulating Dream and/or Nada in issue 9.
 
-#### Panel 7
+- #### Panel 7
 
 We do not know, but will learn, what a dream vortex is.
 
@@ -53,35 +53,35 @@ First known appearances of Miranda and Rose Walker, who will be very important t
 
 ### Page 6
 
-#### Panel 2
+- #### Panel 2
 
 This is a dream. This should absolutely leap out at you.
 
-#### Panel 3
+- #### Panel 3
 
 London has three airports, of which Heathrow is the largest, and Gatwick the second in importance. It is reputed to be less pleasant to fly from than Heathrow.
 
 ### Page 7
 
-#### Panel 4
+- #### Panel 4
 
 Masterpiece Theater is a television show on American public TV; it perhaps exclusively features British productions of, well, masterpieces of literature adapted to television.
 
-#### Panel 6
+- #### Panel 6
 
 "Car-park" is British; the American equivalent is both "parking lot" and "parking garage".
 
 ### Page 9
 
-#### Panel 1-2
+- #### Panel 1-2
 
 We are seeing Rose's dream; Rose is slipping directly into Dreaming, which is perhaps unusual. The dream sequence is printed sideways on the page. At least two other series, _Cerebus_ ##44-50 and _Fantastic Four_ #252 have used the same format.
 
-#### Panel 2-3
+- #### Panel 2-3
 
 This is the House of Secrets. The characters are Abel, Lucien, and Goldie. For more, see issue 2.
 
-#### Panel 7
+- #### Panel 7
 
 Lucien is taking a census. It struck me as funny that the census rolls include "Something Nasty in the Basement". I can just see the junk mail from Ed McMahon: "On January 23, will I announce 'Mr. Something N. Basement has just won $23 million dollars? Enter now!" It does not appear that Mr. Basement or the Bottle Imp date back to the original run of _House of Secrets_.
 
@@ -89,23 +89,23 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 ### Page 10
 
-#### Panel 5
+- #### Panel 5
 
 Neil Gaiman says "Note the doll": Well isn't it the same doll's house which we find in the room of who-was-to-be-a-dream-vortex, Unity Kinkaid? Just look at the Morpheus in its window on pages 22-23.
 
 ### Page 11-12
 
-#### Panel 4
+- #### Panel 4
 
 This is a double page spread. "Major Arcana" originally referred to the non-suited cards in a Tarot deck. Here the term refers to the more important denizens of the Dreaming. This refers back to the introduction to _Sandman_ #8, where we saw a high-number Tarot card with a representation of Dream on it.
 
 ### Page 13
 
-#### Panel 1
+- #### Panel 1
 
 Brute and Glob appeared in the 1970s run of Sandman. For more, see issue 2.
 
-#### Panel 2-3
+- #### Panel 2-3
 
 The first known appearances of the Corinthian and Fiddler's Green. Note that there is something unusual about the Corinthian's eyes. Doesn't Corinthian look like Oscar Wilde here? Well just remember about Dorian Gray, young, dandy, and blase, creature from nightmares himself, he continues beautiful, while his portrait gets older and wicker.
 
@@ -123,27 +123,27 @@ Annulet is defined on the next page. Rose is the dream vortex. The inference fro
 
 ### Page 16
 
-#### Panel 1
+- #### Panel 1
 
 Unity Kinkaid was first seen in issue #1 as one of the victims of "Sleepy Sickness". Unity looked like China doll, in the "Doll's house", with the doll's house in her room, doll of destiny which made her sleep during almost 70 years, have a child, not knowing a father, being a tool in Desire's games (note that Desire is just playing, just like Corinthian on p. 24), at present in nursing home, which other of doll's houses (side by side with dreaming, Desire's palace, and Abel's house present just in this issue of the story).
 
-#### Panel 4
+- #### Panel 4
 
 One assumes that a genuine doll's house is at least metaphorically related to the "Doll's House" of the title.
 
-#### Panel 6
+- #### Panel 6
 
 Don't we have here a word game borne - born?
 
 ### Page 17
 
-#### Panel 3
+- #### Panel 3
 
 In the mirror we have the anticipation of the visit of three-in-one. Well, witches used to use mirrors for foreseeing the future.
 
 ### Page 18
 
-#### Panel 2
+- #### Panel 2
 
 Dream dressing the night, as Death would say "Doesn't it sound cute?!"
 
@@ -151,39 +151,39 @@ Dream dressing the night, as Death would say "Doesn't it sound cute?!"
 
 The Three-in-One Goddess. See issue 2.
 
-#### Panel 3
+- #### Panel 3
 
 There was a boy named Jed connected with the 1970s Sandman. The "Kindly Ones" are the Eumenides of Greek mythology, also known as the Erinyes, and in English as the Furies. Their names are Tisiphone, Alecto, and Megaera. They punish mortals who dare to compare themselves to gods ("hubris"). Aeschylus named the third play of a trilogy _Eumenides_.
 
 ### Page 20
 
-#### Panel 2
+- #### Panel 2
 
 Jeez, the Three are well-disposed toward Rose. The crone aspect spills the beans even though Rose didn't ask the right questions.
 
-#### Panel 4
+- #### Panel 4
 
 "Daughter, sister, child" is because of the mother, maiden, crone symbolism.
 
 ### Page 21
 
-#### Panel 1
+- #### Panel 1
 
 Broom closet, well,well well, who doesn't know that witches (and Hecate, or three-in-one is their Goddess) use broomsticks to fly?
 
 ### Page 22
 
-#### Panel 5-6
+- #### Panel 5-6
 
 Morpheus is watching the scene (dreaming it?) from the doll's house in the corner of the room, just as Rose was watching his kingdom's affairs in her dreams.
 
 ### Page 23
 
-#### Panel 1
+- #### Panel 1
 
 **Look at the picture and see the dialogue**: "Here you are!"
 
-#### Panel 4,5,6
+- #### Panel 4,5,6
 
 Here we have Unity symbolically transferring the powers of the vortex to Rose, using annullet (Lucien's words). So here we have a magical ring!
 
@@ -191,7 +191,7 @@ Here we have Unity symbolically transferring the powers of the vortex to Rose, u
 
 The Corinthian, we learn, is a sick bastard, and is probably about to kill Davy. We are seeing the world through Corinthian's eyes, as he takes off his dark glasses (panel 5-7) we can see colors. So I think that we are lucky that the story is ending just here!
 
-## Credits:
+## Credits
 
 - Originally collated and edited by Greg Morrow.
 - Matt Rollefson <draphsor@deathstar.Stanford.EDU> suggests that the face on page 3 is the Corinthian. He and Andrew David Weiland <aw1s+@andrew.cmu.edu> elucidated "The Kindly Ones."

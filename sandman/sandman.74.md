@@ -18,7 +18,7 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 ### Page 3
 
-#### Panel 2
+- #### Panel 2
 
 The Nan Shan mountains are the northeastern most boundary of the plateau of Tibet.
 
@@ -28,64 +28,64 @@ The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's know
 
 ### Page 5
 
-#### Panel 1
+- #### Panel 1
 
 According to report, this incident is based on something that happened to Gaiman himself.
 
-#### Panel 4
+- #### Panel 4
 
 No refs on whether there really was or is a town called Wei in western China.
 
 ### Page 6
 
-#### Panel 5
+- #### Panel 5
 
 In Chinese and Japanese mythology foxes are considered spiritual beings with magic powers.
 
 ### Page 14
 
-#### Panel 2
+- #### Panel 2
 
 Morpheus refers to 39:21.1 -- the story "Soft Places".
 The young man was Marco Polo.
 
 ### Page 15
 
-#### Panel 1
+- #### Panel 1
 
 No refs on this story. The parallel with Dream and Orpheus is pretty obvious.
 
 ### Page 16
 
-#### Panel 2
+- #### Panel 2
 
 P'eng Tsu was a scholar reputed to have lived from the 12th to the 2nd century BCE. (Or perhaps from the 2nd century BCE to the 8th CE. My source is unclear.) He is to the Chinese the proverbial long-lived man, much as Methuselah is in the West.
 
 ### Page 18
 
-#### Panel 6
+- #### Panel 6
 
 A famous line from a Japanese poem reads, "As I crossed the bridge of dreams". In that poem the bridge represents death or a vision of death. Master Li has previously met with a Dream who is now dead; now he crosses to the realm of the one who lives.
 
 ### Page 19
 
-#### Panels 1-4
+- #### Panels 1-4
 
 These horsemen were also seen in #39. However, these men appear to be Roman soldiers, whereas the Soft Places horsemen where dressed as Mongols.
 
 ### Page 21
 
-#### Panel 4
+- #### Panel 4
 
 "Tools can be the subtlest of traps" is quoted from the text piece from the "Doll's House" collection. Morpheus said he would never have thought of destroying his ruby (7:20.4); but this Dream, wiser, knows from the start that someday he must dispense with his greatest tool.
 
 ### Page 23
 
-#### Panel 5
+- #### Panel 5
 
 Note that Master Li's cry when he wakes is the same syllable as the laughing mechanical sailor from page 17.
 
-#### Credits
+## Credits
 
 - Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman Annotations.
 - Originally collated and edited by David Goldfarb.

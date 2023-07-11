@@ -27,15 +27,15 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 1
 
-#### Panel 1
+- #### Panel 1
 
 This is Joshua Norton, of whom we will learn more shortly.
 
-#### Panel 3
+- #### Panel 3
 
 The bloated female figure on the bed is Despair, one of the seven Endless and the younger sister to Dream.
 
-#### Panel 4
+- #### Panel 4
 
 The formal means by which the Endless make contact with each other is by the caller's standing in a gallery in its domain and using a symbol (sigil) of the one to be called. The ring with a hook is Despair's sigil. Dream's sigil has been seen in the past to be his helmet.
 
@@ -49,11 +49,11 @@ In the credit box, Gaiman takes the title PJF, probably meaning Pre-Joycean Fell
 
 ### Page 3
 
-#### Panel 4
+- #### Panel 4
 
 It is perhaps noteworthy that Despair is so certain that Desire and Delirium will cooperate with her.
 
-#### Panel 5
+- #### Panel 5
 
 The "brother" is the missing Endless, whose identity will be made clear in the _Sandman_ Special #1. An upcoming storyline will feature the search for the missing brother.
 
@@ -61,25 +61,25 @@ The "brother" is the missing Endless, whose identity will be made clear in the _
 
 Norton's background as given here seems to be correct.
 
-#### Panel 2
+- #### Panel 2
 
 Norton and other wealthy businessman cornered the market on rice in San Francisco, expecting to make a huge profit through their monopoly. Their fortunes and hopes were dashed when a Japanese ship sailed into port, loaded with rice, shortly before they were to sell.
 
 ### Page 5
 
-#### Panel 5
+- #### Panel 5
 
 The "oldest sister" is Death, of course. The map has some remarkable flaws. The modern map has borders between Nevada and Arizona, Missouri and Arkansas, Michigan's Upper Peninsula and Wisconsin, and Ohio and Kentucky. The missing border between Nevada and Arizona may be an accurate representations of the period's pre-statehood territorial boundaries, but borders had long since been set for the other cases, particularly Kentucky and Ohio, which dates back at least to 1792, and probably back to the earliest colonial days.
 
 ### Page 6
 
-#### Panel 5
+- #### Panel 5
 
 The [San Francisco] Daily Evening Bulletin was published between 8 Oct 1855 and 18 May 1895, becoming The Bulletin on 20 May 1895, continuing through to 19 Sept 1928, when it ceased publication. It was published every day except Sunday.
 
 ### Page 7
 
-#### Panel 2-4
+- #### Panel 2-4
 
 This is presumably the correct text of Norton's original proclamation. Note the further information that he was from the British colony in South Africa (The Cape of Good Hope is the southern tip of Africa).
 
@@ -91,7 +91,7 @@ From the [Emperor Norton Webpage](http://www.zpub.com/sf/history/nort.html):
 
       - September 17, 1859
 
-#### Panel 6
+- #### Panel 6
 
 In the mid-1800's, newspapers did not have to compete with television, and had also not undergone the homogenization that modern culture has seen. (This, of course, is demeaning to and not representative of the many fine alternative papers existing today; the point is that all newspapers were alternative, in some sense, long ago.) Accordingly, it is not surprising that a newspaper would publicize something as daft as Norton's proclamation; it was bound to get people's attention.
 
@@ -99,7 +99,7 @@ Incidentally, the figure shadowed against the wall in this panel is Norton himse
 
 ### Page 8
 
-#### Panel 3
+- #### Panel 3
 
 Grown-up: An unusual concept to apply to the Endless.
 
@@ -107,102 +107,102 @@ Grown-up: An unusual concept to apply to the Endless.
 
 ### Page 9
 
-#### Panel 1
+- #### Panel 1
 
 The second September. This is Samuel Langhorne Clemens (Nov 1835-1910, making him 28 at this time), who would one day become the foremost writer and humorist of his day under the pen name of Mark Twain. It has been verified that Twain was indeed working for a San Francisco newspaper during this period, having left Virginia City and arrived in San Francisco earlier in 1864; there is a book of collected essays from his work on this paper. He did not apparently write about the Emperor, however, nor is there any confirmation that he knew him.
 
 My source has "Langhorn" as the proper spelling for Clemens' second name; however, common usage prefers the '-e' ending.
 
-#### Panel 4
+- #### Panel 4
 
 Note the sign on the building; The Morning Call was the newspaper Clemens was working for.
 
 ### Page 10
 
-#### Panel 5-6
+- #### Panel 5-6
 
 The Golden Gate Bridge, between San Francisco and Sausalito, is the most famous bridge in the Bay area. It was constructed during the period 1933-1937. It does _not_ go to Oakland. Norton is foreshadowing the Bay Bridge, opened in 1936, which does cross the Bay to Oakland. Chris Claremont has referred to the bridge as the "Emperor Norton" bridge, in X-Men c. #200, though this usage is otherwise unfamiliar to a native of the city.
 
 ### Page 11
 
-#### Panel 1
+- #### Panel 1
 
 This is Delirium, the youngest Endless. Her multicolored hair and partially shaved scalp are significant anachronisms.
 
-#### Panel 2-3
+- #### Panel 2-3
 
 San Francisco had, and has, a large Chinese population; its "Chinatown" is another landmark of the city. Though the Chinese had emigrated voluntarily, they were treated as badly, or worse, than the black slaves and former slaves; this theme appeared in some of Twain's stories.
 
-#### Panel 5
+- #### Panel 5
 
 Clemens is recounting what will become one of his most famous stories, "The Celebrated Jumping Frog of Calaveras County". This is an anachronism, as Twain had not yet heard the story.
 
 Note that Delirium's word balloon is uncolored, no doubt an oversight.
 
-#### Panel 6
+- #### Panel 6
 
 Note Delirium's uneasy relationship with Dream, to be expanded upon in later issues.
 
 ### Page 12
 
-#### Panel 4
+- #### Panel 4
 
 Delirium has expressed the dislike of being laughed at before, in _Sandman_ #21 page 17 panel 5, and does so again in a later issue.
 
-#### Panel 5
+- #### Panel 5
 
 Note Delirium's creation.
 
 ### Page 13
 
-#### Panel 2
+- #### Panel 2
 
 I cannot confirm this Imperial decree. However, judging by his later character, Clemens would have been delighted with the appointment, and in any case, it was most apt in its description of the role Twain would play in American literature.
 
-#### Panel 4
+- #### Panel 4
 
 The frog is Delirium's creature.
 
 ### Page 14
 
-#### Panel 1
+- #### Panel 1
 
 The third September.
 
-#### Panel 2
+- #### Panel 2
 
 **Wuz**: of course, "was" and "wuz" are pronounced exactly alike. Believe it or not, there is actually a word in the language that describes the practice of using non-standard spelling to suggest dialect, even though the pronunciation suggested by the non-standard spelling is in fact the standard pronunciation, such as using "-in' " for "-ing". Unfortunately :-( I can't remember the word.... The practice works because the mental ear has been trained to "hear" non-standard spellings with non-standard pronunciation.
 
-#### Panel 3-4
+- #### Panel 3-4
 
 'Frisco: The nickname of the city of San Francisco, which is itself Spanish, meaning "Saint Francis". "SF" also sees extensive use in written language. Natives of San Francisco tend to dislike the abbreviation 'Frisco.
 
-#### Panel 4-5
+- #### Panel 4-5
 
 The Emperor issued his own money, and exchanged it for US currency. Most people regarded the Emperor's money as a souvenir (Again, "soo-ven-ear" is exactly how the word is usually pronounced) and were glad to pay its face value in exchange. As noted further along, a number of establishments accepted the Emperor's money as well as US currency. By such means did the Emperor survive.
 
 ### Page 15
 
-#### Panel 1
+- #### Panel 1
 
 It would appear that Norton has a chamberlain, a Chinese named Ah How. No refs. His speech pattern is completely cliched: here he excessively praises Norton and denigrates himself; in the very next panel, he utters a paraphrasing of a proverb, possibly Confucian. Part of the training as an official of the Imperial Court was the study of Chinese literature and poetry. Phrasing advice in terms of metaphor and allegory was not uncommon. Here, the analogy was stated in an unusually direct manner, possibly for the benefit of Western-trained thinkers, who are not so used to dissecting oblique statements.
 
-#### Panel 2
+- #### Panel 2
 
 **Tong wars**: Chinese crime organizations are known as tongs.
 There is a legend about an incident in Chinatown where two opposing Tongs were verging on open violence, when Norton walked along and simply told the people to leave in peace. And they did so, perhaps defeated by his presence.
 
-#### Panel 3
+- #### Panel 3
 
 Note Ah How's queue, the long ponytail. The custom of wearing the hair this way originated among the Manchu people. When the Manchu conquered the rest of China, ending the Han (or Ming--conflicting accounts) dynasty and beginning the Ching dynasty, the last imperial dynasty, they forced the conquered people to adopt the queue as a sign of submission. The order was by Dorgan, uncle of and regent for the first Ch'ing emperor Shun-Chih. Later, the queue became a symbol of Chinese culture.
 
 Opium is a narcotic derived from the poppy; heroin and morphine are both derived from opium. Opium was a vice brought from the Orient, and opium dens were a feature in many "Chinatowns" until about the turn of the century. The vice was forced upon the Chinese, as a result of the Opium Wars, with Britain, of 1840-1842. The vice persisted until 1907, as a means of balancing trade between the British Empire and China, as China did not particularly want foreign goods. Perhaps ironically, the Tongs today have ties with the opium trade; the Tongs originally were formed for the purpose of being pro-Imperial China.
 
-#### Panel 4
+- #### Panel 4
 
 Ah How's speech in this panel reflects how ignorant white men thought all Chinese immigrants spoke, another cliche.
 
-#### Panel 5
+- #### Panel 5
 
 As we shall see, the Cobweb Palace (for which I have seen no hard refs) is a place where reality and unreality touch. Neil Gaiman confirms that the Cobweb Palace is a real place; the most complete description is in Asbury's _Barbary Coast_.
 
@@ -212,21 +212,21 @@ A Cobweb Palace is featured in Akira Kurosawa's _Throne of Blood_, an adaptation
 
 ### Page 16
 
-#### Panel 1
+- #### Panel 1
 
 The parrot is at least semi-intelligent.
 
-#### Panel 3
+- #### Panel 3
 
 The Palace is full of cages. Is this symbolic of the trap laid for Norton? See also page 19 panel 2-3. The picture directly above the bar-keeper's head is similar to "Olympia" (Manet). It is, however, not an exact copy: the original "Olympia" has a negro maid standing behind her, whereas this one doesn't. I have know idea whether this is an anachronism.
 
-#### Panel 4
+- #### Panel 4
 
 A hock is any white Rhine wine, from a variety called Hochheimer. California's wine industry had not yet become important, although this could still be a local vintage; the Californian wine industry has evinced considerable disinterest in the geographical significance of wine names.
 
 ### Page 17
 
-#### Panel 1
+- #### Panel 1
 
 Gaiman says the King of Pain was a real person; I have no refs for him, save perhaps for the song "King of Pain" from the Police's album _Synchronicity_. Wolfsbane and aconite, as well as monkshood, are all names for the same plant. Aconite is an analgesic in small doses, and a poison in larger ones.
 
@@ -234,25 +234,25 @@ Gaiman says the King of Pain was a real person; I have no refs for him, save per
 
 Pain seems to be a regular character in the Vertigo universe. In the recent series "Mythos: The Final Tour" (I think?) He and his aide, Tacky Leatherette, are indeed main characters, and mention "not using the D-word," after Desire's name is mentioned, not wanting to inspire her wrath. Desire does indeed later show up, proving that the endless will... jump series. (Note that Cain and Able do the same, in the DC/Vertigo series, "The House of Secrets" or somesuch.
 
-#### Panel 2
+- #### Panel 2
 
 The King of Pain told those who bought the liniment he sold outside the Pacific Clinical Infirmary that if they covered their bodies with the ointment as he did, they would need no clothes. He himself wore a bright red union suit, a heavy velour robe, a ostrich-feathered plug hat, and a heavy sword; he was probably the most ornate personage in the San Francisco of his time.
 
 ### Page 19
 
-#### Panel 2
+- #### Panel 2
 
 Another painting that is reminiscent of a real-life painting.
 
 Unfortunately, I can't remember which painting it is reminiscent of... (Again, I am uncertain whether the painting existed at this point in time.)
 
-#### Panel 8:
+- #### Panel 8:
 
 A wonderful bit of wisdom.
 
 ### Page 21
 
-#### Panel 5
+- #### Panel 5
 
 The Kindly Ones are the Eumenides, or the Furies, an aspect of the three-in-one goddess, dedicated to revenge and punishment. This is aftershadowing; Desire's, ahem, _desire_ for revenge will later result in the storyline of _The Doll's House_.
 
@@ -260,11 +260,11 @@ The Kindly Ones are the Eumenides, or the Furies, an aspect of the three-in-one 
 
 ### Page 22
 
-#### Panel 1
+- #### Panel 1
 
 The January of the title.
 
-#### Panel 6
+- #### Panel 6
 
 Tom O'Bedlam: From "Bethelem", referring to a notorious insane asylum for men in England. The name means a madman. Mad Maudlin or Mary Maudlin is the female counterpart, from the asylum of "Mary Magdalene". There may be a character by this name in William Shakespeare's works.
 
@@ -286,17 +286,17 @@ Another, the chorus:
 
 ### Page 23
 
-#### Panel 4
+- #### Panel 4
 
 The lesson is (see page 5 panel 3) is at least partly that dreams are not "nothing", and also partly that Dream is of a different class of being than Despair, the elder Endless instead of the younger. The younger are more fragile. Despair's slowness to learn may be due to the self-absorption of those in despair, isolating her from external reality.
 
 ### Page 24
 
-#### Panel 1
+- #### Panel 1
 
 This is Death, again. No refs for the Hastings Society.
 
-#### Panel 2-3
+- #### Panel 2-3
 
 The legend of the Tzaddikim appears to be accurate.
 
@@ -305,11 +305,11 @@ Webster's Ninth Collegiate (1991) defines 'tzaddik' as a variation of 'zaddik', 
 **A linguistic note**: In Hebrew, [-im] is the plural ending. Thus, one Tzaddik, but thirty-six Tzaddikim. The root TzDK (Semitic languages use vowel changes to mark part of speech and conjugations and declensions, and so are generally meaningless in talking about the language's vocabulary) means "justice" or "righteousness".
 There may be a corresponding group of those who do only evil.
 
-#### Panel 7
+- #### Panel 7
 
 See the appendix for obituaries of Joshua Norton.
 
-## Credits:
+## Credits
 
 - Originally collated and edited by Greg Morrow.
 - Dascoser (dascoser.bbs@cybernet.cse.fau.edu) came up with Norton's obit from the Times, and gunthar@vax1.mankato.msus.edu did the same for the San Francisco Chronicle.

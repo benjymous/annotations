@@ -10,11 +10,11 @@
 
 ### Page 1
 
-#### Panel 2
+- #### Panel 2
 
 The pictured woman is Eurydice, Orpheus' wife. This is a fantasy; see Special #1 for a detailed explanation.
 
-#### Panel 3
+- #### Panel 3
 
 **House across the bay**: Destruction's house, as made clear last issue.
 
@@ -24,7 +24,7 @@ The pictured woman is Eurydice, Orpheus' wife. This is a fantasy; see Special #1
 
 ### Page 6
 
-#### Panel 1-6
+- #### Panel 1-6
 
 As remarked by Desire on 10.5, these are new flowers.
 
@@ -34,7 +34,7 @@ This is typically used in, for example, action shots to indicate very rapid pass
 
 In any case, it doesn't work, as the continuity from panel to panel indicates that the whole set of panels is a single instant.
 
-#### Panel 9
+- #### Panel 9
 
 Again, see Special #1 or Graves or another classical Greek myth text for details.
 
@@ -42,35 +42,35 @@ Again, see Special #1 or Graves or another classical Greek myth text for details
 
 ### Page 7
 
-#### Panel 2
+- #### Panel 2
 
 Note the blood marks on Despair's forehead; these are probably from self-mutilation inflicted while Dream met with Destruction or slew Orpheus.
 
-#### Panel 6
+- #### Panel 6
 
 **Messire**: Probably from Late or Vulgar Latin or Old French, the equivalent of Modern French "monsieur", lit. my lord, my sire (male).
 
 ### Page 9
 
-#### Panel 5
+- #### Panel 5
 
 Seen in Despair's mirrors, from right to left: Andros (41:1), unidentified child (Andros's grandchild?), graveyard (Mary Canby's graveyard (21.1)?), a kitten (Chloe's kitten?), and Desire.
 
 ### Page 10
 
-#### Panel 1
+- #### Panel 1
 
 Baby Daniel (#40) is in the mirror to Desire's right.
 
-#### Panel 4
+- #### Panel 4
 
 Baby Daniel in a mirror again.
 
-#### Panel 5
+- #### Panel 5
 
 **Oath**: Sworn in #31. Spilling family blood will bring down the wrath of the Kindly Ones, a punishing aspect of the Triple Goddess. See Aeschylus' trilogy of plays, the _Orestia_ (_Agamemnon_, _Orestes_, _Eumenides_) for details.
 
-#### Panel 6
+- #### Panel 6
 
 Is that Etain (43:13) in the mirror behind Despair?
 
@@ -80,7 +80,7 @@ Is that Etain (43:13) in the mirror behind Despair?
 
 ### Page 11
 
-#### Panel 2
+- #### Panel 2
 
 Skull and...spine: As seen clearly in 23:1.3 and remarked in 4:14.2.
 
@@ -92,13 +92,13 @@ Other sources indicate that Morpheus, Icalus/Phobetor, and Phantasus were the ch
 
 ### Page 14
 
-#### Panel 3
+- #### Panel 3
 
 **Faerie gifts**: The unreliability of the Faerie folk is a traditional feature of folktales. (Refs?)
 
 ### Page 17
 
-#### Panel 1-2
+- #### Panel 1-2
 
 The Cryptogeographica (lit. "hidden earth writing", meaning "maps of imagined places"):
 
@@ -135,15 +135,15 @@ The Cryptogeographica (lit. "hidden earth writing", meaning "maps of imagined pl
 
 See also _The Dictionary of Imaginary Places_ by Alberto Manguel and Gianni Guadalupi.
 
-#### Panel 3
+- #### Panel 3
 
 The cat recalls the folktale Puss in Boots, but in conjunction with the mouse is probably meant to be an archetype of the classic cat-mouse chase. This is probably most familiar to modern readers as exemplified in such cartoons as "Tom and Jerry" and "Itchy and Scratchy".
 
-#### Panel 5
+- #### Panel 5
 
 "Little" and "sky is falling" may be an oblique reference to the story of Chicken Little, who thought the sky was falling.
 
-#### Panel 6
+- #### Panel 6
 
 **Real life**: Mervyn's talent for putting his foot in his mouth shows through again, as Dream is probably "overreacting" to the knowledge that the Kindly Ones will demand his death for spilling family blood.
 
@@ -153,39 +153,39 @@ The cat recalls the folktale Puss in Boots, but in conjunction with the mouse is
 
 This is remembrance, not Dream conversing with Orpheus as he passes through the Dreaming on his way Beyond.
 
-#### Panel 4
+- #### Panel 4
 
 As this is long past, the red stone is probably meant to be Dream's ruby.
 
 ### Page 21
 
-#### Panel 1
+- #### Panel 1
 
 **Mary Canby**: See 41:6.
 
-#### Panel 2
+- #### Panel 2
 
 **Chloe Russell**: See 43:22. Chloe's pet is probably the cat Basht euthanized in 46:15. It has also been speculated that one or the other of Chloe's cats is the young cat of #18.
 
-#### Panel 3
+- #### Panel 3
 
 **Danny Capax**: See 44:6.
 
 ### Page 22
 
-#### Panel 1
+- #### Panel 1
 
 **Tom Flaherty**: See 45:5.
 
-#### Panel 2
+- #### Panel 2
 
 **Tiffany**: See 45:1.
 
-#### Panel 3
+- #### Panel 3
 
 The eye is Desire's.
 
-## Credits:
+## Credits
 
 - Originally collated and edited by Greg Morrow.
 - Dorothy Lindman (f132@untvax.bitnet) developed the "Biblical" reference coding (Issue:Page.panel).

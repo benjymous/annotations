@@ -16,11 +16,11 @@ Not yet reprinted in any other form
 
 ### Page 1
 
-#### Panel 1
+- #### Panel 1
 
 Destiny is the eldest of the Endless.
 
-#### Panel 2
+- #### Panel 2
 
 Also note the labyrinthine structure and signs of ancient decay in Destiny's garden.
 
@@ -36,31 +36,31 @@ The possible connection to Destiny's book and garden is easy to see; the garden 
 
 His role as owner of The book that contains everything (a favourite theme of JLB e.g. in _The Book of Sand_, _Library of Babel_ and elsewhere), then we have Destiny's blindness. In fact, it's not clear whether Destiny is blind; anyway, Borges was.
 
-#### Panel 3
+- #### Panel 3
 
 Note the crosstalk between Dream and Destiny's spheres...
 
-#### Panel 6
+- #### Panel 6
 
 ...although there is no real crosstalk between Death's and Destiny's spheres.
 
 ### Page 2
 
-#### Panel 2f
+- #### Panel 2f
 
 These are the Three Witches, of course. As the Fates, they spin, measure, and end the lives of mortals, but Destiny is Endless. Note the thread; they are measuring, not weaving or cutting.
 
-#### Panel 3
+- #### Panel 3
 
 Grey Ladies is another appellation for the Three.
 
-#### Panel 4
+- #### Panel 4
 
 This is a prophecy. Pay attention.
 
 ### Page 3
 
-#### Panel 2-3
+- #### Panel 2-3
 
 The Endless are not; as we have seen elsewhere, they have both starts and finishes. It has been stated that Destiny is the first of the Endless, while Death will be the last. Note that the thread comes to an end in panel 2 to parallel the statement about things beginning and ending. Also note in panel 3 that only one eye is visible among the Grey Ladies. This incarnation of the Triple Goddess, the Graeae, are represented as having only one eye and one tooth to share among them. Perseus stole their eye and held it hostage in return for the knowledge of the location of the sea god Proteus. Further note that the Grey Ladies appear to each have a full set of teeth.
 
@@ -70,41 +70,41 @@ Destiny's hall would appear to be drawn from reference. Can anyone ID it?
 
 ### Page 5
 
-#### Panel 1
+- #### Panel 1
 
 I suspect the specific form of the painting of Death has some reference.
 
-#### Panel 4
+- #### Panel 4
 
 Death in Western culture is often represented as a robed skeleton carrying a scythe.
 
-#### Panel 5
+- #### Panel 5
 
 See far, far below why is this appropriate attire.
 
 ### Page 6
 
-#### Panel 1
+- #### Panel 1
 
 Again, the form of Dream's portrait may be significant.
 
-#### Panel 2
+- #### Panel 2
 
 Note that Dream appears exactly as Destiny expects him to; this a property of Dream we have seen before. Note that this property does not extend to Death. Also, note the small clue about the Prodigal (the missing Endless).
 
 ### Page 7
 
-#### Panel 1-2
+- #### Panel 1-2
 
 Desire and Despair have been characterized as twins before; note that Destiny appears to summon them nearly simultaneously. Note also Desire's gendering and the "formal attire" of both.
 
-#### Panel 4f
+- #### Panel 4f
 
 Death and Despair miss the missing Endless (another clue) and Desire does not. Naively, we would expect Desire to want _everything_.
 
 ### Page 7
 
-#### Panel 5; page 8 panel 1
+- #### Panel 5; page 8 panel 1
 
 This is, I believe, the first appearance of Delirium, the youngest of the Endless, whom we will learn more about shortly. Note that the picture is of Delirium's former incarnation as Delight. R.A.C. reader Tanaqui C. Weaver claims to be the initial inspiration for Delirium, though she also says that Tori Amos and Kathy Acker are additional inspirations. Delirium's red hair is probably modeled after Tori Amos. It has been speculated that Delirium's mismatched eyes also stem from that source, although several readers have reported that her eyes appear to be the same color in her videos.
 
@@ -131,19 +131,19 @@ Thus writes "Kai'Ckul" <oshinsky@webspan.net>:
 
 ### Page 8
 
-#### Panel 4
+- #### Panel 4
 
 Note Delirium's mismatched eyes.
 
 ### Page 9
 
-#### Panel 1
+- #### Panel 1
 
 Desire has tawny eyes (which is reminiscent of the Paginarum Fulvarum from _Sandman_ #1). However, her eyes were colored blue in her appearances in the _Doll's House_ storyline. Desire is often drawn in the style of Patrick Nagel, whose flatly colored portraits of women often have yellow eyes.
 
 ### Page 10
 
-#### Panel 2
+- #### Panel 2
 
 Coleridge was a heavy user of the psychoactive poppy derivative opium (also known as laudanum), under the influence of which he wrote many of his best-known works, the most famous being the incomplete poem "Kublai Khan".
 
@@ -153,63 +153,63 @@ Also, note that Delirium was once Delight, though we are not told explicitly the
 
 ### Page 13
 
-#### Panel 3
+- #### Panel 3
 
 Trioditis as an appelation for the Three. The Graeae were three sisters of the Gorgons. Some tales represent them as being beautiful, but grey-haired from birth. Others say they were deformed, having but one eye and one tooth between them. Their shared name means "the grey ones" or "the crones".
 
-#### Panel 4
+- #### Panel 4
 
 Apparently, Destiny's Realm _is_ the Fates, at least in some sense. Note that Despair appears to equate the Fates with the Grey Women, although this is not precisely true. Destiny's "Choose?" is ambiguous.
 
 ### Page 14
 
-#### Panel 1
+- #### Panel 1
 
 Note Destiny's evanescent servitors. We will see Dream's servitors in a later issue.
 
 ### Page 16
 
-#### Panel 3
+- #### Panel 3
 
 At least one source alleges that the Greeks believed that butterflies were attracted to flames. The word "Psyche" is the personification of the human soul, rendered as a female figure in art. The source claims that in time psyche also came to mean butterfly.
 
 ### Page 17
 
-#### Panel 6
+- #### Panel 6
 
 We may note that many shamanic religions believe the use of hallucinogens (delirium-inducers?) brings visions and knowledge.
 
-#### Panel 9
+- #### Panel 9
 
 Desire explains itself on the next page.
 
 ### Page 18
 
-#### Panel 2
+- #### Panel 2
 
 We saw hints of Dream's relationship with Calliope in _Sandman_ #17.
 
-#### Panel 3
+- #### Panel 3
 
 This is new, and will be more fully developed in a later storyline.
 
-#### Panel 3,5
+- #### Panel 3,5
 
 This is in reference to Nada's earlier appearances in _Sandman_ #4 and #9.
 
 ### Page 19
 
-#### Panel 6
+- #### Panel 6
 
 Does Desire actually feel regret at this moment?
 
 ### Page 23
 
-#### Panel 1
+- #### Panel 1
 
 In reference to Lucifer's perceived humiliation in the loss of a demon to Dream in _Sandman_ #4.
 
-## Credits:
+## Credits
 
 - Originally collated and edited by Greg Morrow.
 - Jim W Lai <jwtlai@watcgl.waterloo.edu> noted Destiny's garden's structure and explicated the Grey Ladies. He also noted the use of hallucinogens to initiate visions and the Greek myth of butterflies.

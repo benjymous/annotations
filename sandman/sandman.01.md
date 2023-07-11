@@ -158,7 +158,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 31
 
-#### Panel 6; page 32 panel 3
+- #### Panel 6; page 32 panel 3
   Morpheus uses two different methods to acquire food and clothing. It is unclear why, except that perhaps Gaiman is showing us the extent of his powers.
 
 ### Page 32
@@ -181,7 +181,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 - #### Panel 5
   Morpheus' thoughts - hard to see, because (in my copy, at least) the coloration is rather odd - but the thought reads, "And I have showed him fear..." This may be only speculation, but to me this seems reminiscent of a T.S. Eliot quote, from his poem "The Wasteland". The quote reads, "..I will show you fear in a handful of dust." I was reminded of this on first reading, and then, on further investigation of Morpheus' actions directly preceding this, on page 37, was rewarded with the final panel - and those grains falling from his hand, if I am not entirely mistaken, are sand. (And I have showed him fear in a handful of sand.) In fact, I think it should be 'shown' in that form, the pluperfect (I show, I was showing, I showed, I have shown?). Let us consult the might of the OED and see if Gaiman is, indeed, guilty of the carnal sin of bad grammar... no; all is absolved; our deity is returned to infallibility; Showed or Shown are both acceptable.
 
-## Credits:
+## Credits
 
 - Originally collated and edited by Greg Morrow.
 - <jasona@sco.COM> ( Convincing simulation )
