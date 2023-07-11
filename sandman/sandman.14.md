@@ -39,7 +39,7 @@ We are back to the real storyline after last issue's side trip, in Dodge County,
 
   On the right is Chris Carter from the proto-Industrial group Throbbing Gristle (not Cc creator of the X-Files)
 
-  ![](trbbnggrsl.jpg) ![](Sandman_Chris.jpg)
+  ![](images/ThrobbingGristle.jpg) ![](images/ChrisCarterCameo.jpg)
 
 ### Page 4
 

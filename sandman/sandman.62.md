@@ -18,7 +18,9 @@
 
 - #### Panel 4
 
-  "Austin" is a real British car maker; not being a connoisseur of British cars, I don't recognize this particular model.
+  "Austin" is a real British car maker; the car pictured appears to be a 1960s Austin Mini Cooper 998.
+
+  ![](images/MiniCooper.jpg)
 
 - #### Panel 5
 
@@ -165,3 +167,4 @@ When Rose encounters the Hecateae we also see an owl and a pussycat; the owl her
 - Katie Schwarz also noted the echo of Rose's first appearance and the disappearing snow.
 - Megan Schreiber found out about the '45 Rebellion
 - Ralf Hildebrandt added more details.
+- Richard Munn filled in the Austin car reference.

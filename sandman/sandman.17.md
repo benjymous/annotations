@@ -25,7 +25,7 @@ First story reprinted in trade paperback _Dream Country_
 
   In the script, Gaiman describes the trichinobezoar as a "fossilized tribble covered in slime" and notes that a photo he had seen quite resembled what Jones had drawn. Jones notes later that he found a description in "Paracelsus Book". Paracelsus was a sixteenth century Swiss physician.
 
-  ![](bezoar.jpg)
+  ![](images/Bezoar.jpg)
 
 ### Page 2
 

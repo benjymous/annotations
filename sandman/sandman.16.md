@@ -59,6 +59,10 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
   A presumably genuine photo of G.K. Chesterton, who was the inspiration for "Gilbert". Note the signature at lower left.
 
+  A better copy of the original photo:
+
+  ![](images/GKChesterton.jpg)
+
 ### Page 19
 
 - #### Panel 1
@@ -109,3 +113,4 @@ Ninth story reprinted in trade paperback _The Doll's House_
 - Neil Gaiman, via Tanaqui C. Weaver <cen@vax.oxford.ac.uk> expanded on material in Rose's room.
 - David Goldfarb <goldfarb@ocf.berkeley.edu> speculated on the nature of an Endless disaster.
 - Ralf Hildebrandt added more details.
+- Richard Munn included a better quality copy of the G.K. Chesterton photo
