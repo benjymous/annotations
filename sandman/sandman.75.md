@@ -1,4 +1,4 @@
-## The Annotated Sandman
+# The Annotated Sandman
 
 ## Issue 75: "The Tempest"
 

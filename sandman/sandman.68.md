@@ -74,9 +74,9 @@
 
   Lucifer is quoting Edgar Allen Poe's poem "The Raven". The poem completes the line:
 
-> "...nevermore."
+  > "...nevermore."
 
-Delirium, on the other hand, is (intentionally or not) quoting Matthew the raven, who has been saying, "What*ev*er" all through the story (most recently on the page immediately preceding).
+  Delirium, on the other hand, is (intentionally or not) quoting Matthew the raven, who has been saying, "What*ev*er" all through the story (most recently on the page immediately preceding).
 
 - #### Panel 5
 

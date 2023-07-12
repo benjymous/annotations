@@ -103,23 +103,23 @@ It may be worth noting that Lyta is still acting as a storyteller here, and that
 
   **Magpie**: Pica pica or P. nuttali.
 
-From Baring-Gould and Baring-Gould, _The Annotated Mother Goose_ (1962):
+  From Baring-Gould and Baring-Gould, _The Annotated Mother Goose_ (1962):
 
   > In most European countries, it is thought to be lucky to meet one magpie, raven, or crow:
   >
-  > One's lucky,
-  > Two's unlucky,
-  > Three is health,
-  > Four is wealth,
-  > Five is sickness
-  > And six is death.
+  > One's lucky,<br>
+  > Two's unlucky,<br>
+  > Three is health,<br>
+  > Four is wealth,<br>
+  > Five is sickness<br>
+  > And six is death.<br>
   >
-  > But in Maine, people say:
+  > But in Maine, people say:<br>
   >
-  > One crow sorrow,
-  > Two crows joy,
-  > Three crows a letter,
-  > Four crows a boy.
+  > One crow sorrow,<br>
+  > Two crows joy,<br>
+  > Three crows a letter,<br>
+  > Four crows a boy.<br>
 
 ### Page 8
 
@@ -205,7 +205,7 @@ From Baring-Gould and Baring-Gould, _The Annotated Mother Goose_ (1962):
 
   **Remotely human**: Cain and Abel are part of "the oldest story"; they and the Endless predate humanity. It is the nature of stories and storytellers to conform to their audience, however, as seen here.
 
-**Pablum**: a trademark for a kind of infants' cereal (appropriate for Daniel, don't you think?), taken from pabulum (Latin for food), and often used derogatively to characterize something as having no substance. Li'l: A contraction for "little", often used, as here, as a diminutive.
+  **Pablum**: a trademark for a kind of infants' cereal (appropriate for Daniel, don't you think?), taken from pabulum (Latin for food), and often used derogatively to characterize something as having no substance. Li'l: A contraction for "little", often used, as here, as a diminutive.
 
 ### Page 19
 

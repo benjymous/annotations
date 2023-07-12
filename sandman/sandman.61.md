@@ -1,6 +1,6 @@
 # The Annotated Sandman
 
-## Issue 61: "The Kindly Ones:5"
+## Issue 61: "The Kindly Ones: 5"
 
 ##### Neil Gaiman, Marc Hempel, D'Israeli
 

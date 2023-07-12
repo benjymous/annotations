@@ -113,11 +113,13 @@
 - #### Panel 2
 
   Tyburn Tree (an elm?) was the site of the London gallows.
+  
   It is now known as Speaker's Corner, at the northeast corner of Hyde Park.
 
 - #### Panel 4
 
   The stone is Dream's ruby, of course.
+
   **wight**:
 
   1. a living being, CREATURE, MAN
@@ -146,14 +148,14 @@
 
   The ballad "Diddle Diddle, or the Country Lovers", from 1680. Also known as "Lavender Blue", a cover version by Dinah Shore from the Disney movie _So Dear to my Heart_ (1948). The version presented in Peter Blood-Patterson's _Rise Up Singing_ goes:
 
-  > Lavender's blue, dilly dilly, lavender's green,
-  > When I am king, dilly dilly, you shall be queen.
-  > Who told you so, dilly dilly, who told you so?
-  > 'Twas my own heart, dilly dilly, that told me so.
+  > Lavender's blue, dilly dilly, lavender's green,<br>
+  > When I am king, dilly dilly, you shall be queen.<br>
+  > Who told you so, dilly dilly, who told you so?<br>
+  > 'Twas my own heart, dilly dilly, that told me so.<br>
   >
-  > Call up your men, dilly dilly, set them to work,
-  > Some with a rake, dilly dilly, some with a fork,
-  > Some to make hay, dilly dilly, some to thresh corn,
+  > Call up your men, dilly dilly, set them to work,<br>
+  > Some with a rake, dilly dilly, some with a fork,<br>
+  > Some to make hay, dilly dilly, some to thresh corn,<br>
   > While you and I, dilly dilly, keep ourselves warm.
 
 - #### Panel 4

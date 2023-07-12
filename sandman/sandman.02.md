@@ -78,6 +78,7 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
   Arkham Asylum is an institution in the DC universe. Most of Batman's villains, for example, are imprisoned there. It was the subject of a graphic novel by Grant Morrison and Dave McKean. The name arises from the work of HP Lovecraft, an early horror writer, who used the fictional Arkham, Massachusetts as a setting for many of his tales. Following his death, an Arkham Press was founded in his honor, primarily for the purpose of keeping his stories in print. Arkham was also used as the name of a town in some 1960s appearances of the Spectre.
 
 - #### Panel 3-4
+
   Ethel Dee was born Ethel Cripps, whom we saw in issue #1.
 
   The letter balloon between panel 3 and panel 4 is incorrectly drawn. The first part is correctly identified as being said by the Asylum administrator, Doctor Huntoon. The second part is actually said by Ethel Dee. Dr. Huntoon has appeared before, in a Rick Veitch issue of _Swamp Thing_. He has the nickname "Piggy." Dr. Destiny (whose name may or may not have been given before as John Dee) has fought the Justice League of America on the order of ten times. He originally appeared as a normal human being who had invented anti-gravity (this from _JLA_ #5, "When Gravity Went Wild"). Subsequently, he invented a "materioptikon", which turned dreams into reality. Later, he invented a ruby materioptikon, and a dream materioptikon. At that point, it became necessary to remove his power to dream, which caused him to waste away to a human skeleton.
@@ -89,23 +90,33 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 ### Page 12-13
 
 - #### Panel 2-3
+
   This is a double page spread. Lucien, who henceforth often appears in the role of major domo to Morpheus, was the host of a comic called _Tales of Ghost Castle_ which ran for three issues in 1975. Lucien was the guardian and librarian of an abandoned castle, in Transylvania, which fits closely with his role in _Sandman_. "Lucien" is the French equivalent of "Lucian." The name may derive from the Latin word for "light", or may be related to Lucian (A.D. 118-170), a Greek rhetorician and satirist, or to "Lucian the Martyr," (A.D. 240-312), a theologian and Biblical critic.
 
-* **Panel 7**:
+- #### Panel 7
+
   Lucien's library will appear again later.
 
 ### Page 14-15
 
 - #### Panel 2
+
   In this double page spread, the Raven Woman is probably the same as Eve, who appears later in the series, and, as mentioned above, was linked to Cain and Abel both biblically and in _Plop!_.
 
-* **Panel 3**:
+- #### Panel 3
+
   Brute and Glob were servants of the 70s Sandman, a Dr. Garrett who dwelled in dreams, rescued a boy named Jed an awful lot, and died an almost unnoticed death. He was replaced by Hector Hall in the 1980s, a dead member of Infinity Inc. (The Silver Scarab), the son of the Golden Age Hawkman and Hawkgirl, and the lover and husband of Lyta Trevor, the second generation Fury. This will become relevant later.
-* **Panel 4**:
+
+- #### Panel 4
+
   The Fashion Thing is just another inhabitant of Dreamtime, by all indications. She is referred to later.
-* **Panel 7**:
+
+- #### Panel 7
+
   By "do it to you", Cain presumably means his habit of killing Abel, as opposed to any sexual interpretation based on the slang meaning of "doing it".
-* **Panel 11**:
+
+- #### Panel 11
+
   The restriction on gargoyle names may be an unspoken rule from the mystery books.
 
 ### Page 16:
@@ -136,6 +147,7 @@ Irish Celtic myth portrayed the Three as the Morrigan, a triune war goddess whos
 ### Page 18
 
 - #### Panel 3
+
   "Hecateae" is probably the correct Greek plural for "Hecate", although this appears to be an unusual way of referring to that form of the Three.
 
 ### Page 19-20:
@@ -145,10 +157,15 @@ Notice that the ladies are changing position, or into one another's shape, cycli
 ### Page 19
 
 - #### Panel 5
+
   Diana, Mary, and Florence are the Supremes, a three woman vocal group from the 1960s. Diana (Ross) went on to a solo career.
+
 - #### Panel 6
+
   The three Graces are another set of Greek deities. Their name may also be translated as Charities. Individually, they are Aglaia (variantly Pasithea or Charis), Euphrosyne, and Thalia. (Variant spellings exist depending on the source and the method of transliteration from the Greek alphabet.)
+
 - #### Panel 7
+
   In _The Witching Hour_, the three ladies are indeed named as given. Mordred is from Arthurian legends, Arthur's bastard son by his half-sister Morgaine (many possible spellings), thus the reference to its inappropriateness.
 
 ### Page 20

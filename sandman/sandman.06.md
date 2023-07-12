@@ -224,7 +224,9 @@ This page more or less describes typical mammalian pack behavior.
 
   It appears that Mark is really dead.
 
-- #### Panel 3 Dee is recounting the fairy tale of Snow White. He has regressed the audience to childhood.
+- #### Panel 3
+
+  Dee is recounting the fairy tale of Snow White. He has regressed the audience to childhood.
 
 ### Page 21
 

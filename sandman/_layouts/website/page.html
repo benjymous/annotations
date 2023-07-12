@@ -1,0 +1,16 @@
+{% extends template.self %} {% block title %}{% if page.fullTitle %}{{
+page.fullTitle }}{% else %}{{ super() }}{% endif %}{% endblock %} {% block head
+%} {{ super() }}
+
+<style>
+  .markdown-section blockquote {
+    margin: 0;
+    margin-bottom: 0.85em;
+    padding: 0 15px;
+    color: #333333;
+    border-left: 4px solid #ddd;
+    background: #efefef;
+  }
+</style>
+
+{% endblock %}

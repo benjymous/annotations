@@ -1,5 +1,24 @@
 {
+
+  "scripts": {
+
+    "build": "honkit build",
+
+    "serve": "honkit serve"
+
+  },
+
   "devDependencies": {
+
     "honkit": "^4.0.8"
+
+  },
+
+  "dependencies": {
+
+    "@dogatana/honkit-plugin-page-toc-button": "^1.0.0"
+
   }
+
 }
+

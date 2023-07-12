@@ -103,13 +103,14 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 - #### Panel 4
 
   The female servitor may be another person pulled in from the Dreaming, as in _Season of Mists_, or she may be the Fashion Thing.
+
   This latter is suggested by the eyepatch (as seen on the other eye in 2:15.1).
 
 ### Page 15
 
 - #### Panel 2
 
-  **Del is altering a common playground taunt**: "\<X\> and \<Y\> sittin' in a tree, K-I-S-S-I-N-G /First comes love, then comes marriage, then comes baby in a baby carriage."
+  Del is altering a common playground taunt: "\<X\> and \<Y\> sittin' in a tree, K-I-S-S-I-N-G /First comes love, then comes marriage, then comes baby in a baby carriage."
 
 - #### Panel 4
 

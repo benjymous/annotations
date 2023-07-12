@@ -1,6 +1,6 @@
 # The Annotated Sandman
 
-## Issue 65: "The Kindly Ones:9"
+## Issue 65: "The Kindly Ones: 9"
 
 ##### Neil Gaiman, Marc Hempel, Richard Case
 

@@ -1,6 +1,6 @@
 # The Annotated Sandman
 
-## Issue 73:"Sunday Mourning"
+## Issue 73: "Sunday Mourning"
 
 ##### Neil Gaiman, Michael Zulli
 

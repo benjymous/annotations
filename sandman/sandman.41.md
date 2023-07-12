@@ -130,13 +130,12 @@ The two part parallel each other in structure; compare particularly #41 and #45,
 
   The song is "Tear in Your Hand" by Tori Amos, from the album _little earthquakes_. The next line is
 
-  > If you need me, me and Neil will be hanging out with the Dream King
+  > If you need me, me and Neil will be hanging out with the Dream King<br>
   > Neil says hi, by the way.
 
   Neil is acknowledged in the liner notes of the album. The lyrics on page 10 are also from this song. Note the legal information at the end of the lettercol this issue.
 
-  **Freddie....**: A reference to Freddie Mercury of Queen, a bisexual
-  man who died of AIDS in 1991. One of Queen's most popular songs is "Another One Bites the Dust."
+  **Freddie....**: A reference to Freddie Mercury of Queen, a bisexual man who died of AIDS in 1991. One of Queen's most popular songs is "Another One Bites the Dust."
 
 ### Page 10
 
