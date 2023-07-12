@@ -22,7 +22,7 @@
 
 - #### Panel 5
 
-  This echoes "A Game of You" part 2 (issue #33), in which people's tears were drawn in black, giving an impression that their eyes had been pecked out.
+  This echoes "A Game of You" part 2 ([issue #33](sandman.33.md)), in which people's tears were drawn in black, giving an impression that their eyes had been pecked out.
 
 ### Page 3
 
@@ -84,7 +84,7 @@
 
 - #### Panel 4
 
-  See the '70s Jack Kirby _Sandman_ series and part 3 of "The Doll's House" (issue #12) for details.
+  See the '70s Jack Kirby _Sandman_ series and part 3 of "The Doll's House" ([issue #12](sandman.12.md)) for details.
 
 ### Page 19
 
@@ -118,7 +118,7 @@
 
 - #### Panel 2
 
-  John Constantine was last seen in issue #3; the man in the middle is probably Dr. Occult, and the man on the right is the Phantom Stranger. Neither of them have appeared before in this series, although they did have major roles in the _Books of Magic_ miniseries.
+  John Constantine was last seen in issue [#3](sandman.03.md); the man in the middle is probably Dr. Occult, and the man on the right is the Phantom Stranger. Neither of them have appeared before in this series, although they did have major roles in the _Books of Magic_ miniseries.
 
 ### Page 23
 

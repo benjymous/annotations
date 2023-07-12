@@ -4,7 +4,7 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
-**Notes**: See #41. The subtheme of the issue is color. Note that Del has not changed clothing since the middle of last issue.
+**Notes**: See [#41](sandman.41.md). The subtheme of the issue is color. Note that Del has not changed clothing since the middle of last issue.
 
 ### 1: _The Other Side of the Sky_
 
@@ -22,7 +22,7 @@
 
 - #### Panel 3
 
-  The strength of Earth's magnetic field fluctuates seasonly, growing stronger during the summer and thus reducing the aurora.
+  The strength of Earth's magnetic field fluctuates seasonally, growing stronger during the summer and thus reducing the aurora.
 
 - #### Panel 4
 
@@ -86,7 +86,7 @@
 
 - #### Panel 5
 
-  **Ishtar**: A Babylonian goddess. See the Appendix to the annotation for #45. Note that the manager's list does not say "Ishtar" in the appropriate place, but rather "Ca" plus obscured letters. Significance?
+  **Ishtar**: A Babylonian goddess. See the Appendix to the annotation for [#45](sandman.45.md). Note that the manager's list does not say "Ishtar" in the appropriate place, but rather "Ca" plus obscured letters. Significance?
 
 ### 6: _A Treatise on Optics_
 
@@ -113,7 +113,7 @@
 - #### Panel 2
 
   Tyburn Tree (an elm?) was the site of the London gallows.
-  
+
   It is now known as Speaker's Corner, at the northeast corner of Hyde Park.
 
 - #### Panel 4
@@ -166,7 +166,7 @@
 
   In 1699, Edward Tyson published a treatise on the anatomy of what he called an Orang-Outang (which was actually a baby chimpanzee), based on a dissection he performed in June and July 1698. The chimp had come from Angola and had died on the ship two months earlier in April. The skeleton was displayed for many years at the British Museum, and may still be visible there. The body pictured here is clearly an adult orangutan. ObPratchett: Ook!
 
-  Tyson's dissection is thought to be one of the earliest in England, and may be used to fix the earliest possible date of the scene. Note that Despair met Destruction (in #41) in 1665, and remarks at that time that the last time she saw him would be "thirty years on". Allowing some slop in her figure, we can place the family meeting at which Destruction announced his departure around 1700, of which more in the appendix.
+  Tyson's dissection is thought to be one of the earliest in England, and may be used to fix the earliest possible date of the scene. Note that Despair met Destruction (in [#41](sandman.41.md)) in 1665, and remarks at that time that the last time she saw him would be "thirty years on". Allowing some slop in her figure, we can place the family meeting at which Destruction announced his departure around 1700, of which more in the appendix.
 
 - #### Panel 5
 
@@ -214,7 +214,7 @@ The query we're probably most interested in is number 30 in the 1717 edition. Th
 
 As mentioned above, material for _Opticks_ dates back to 1672 with additional material added in 1687. The third book, that includes the queries, was only 5 pages long and was "put together out of scatter'd Papers." There is also some connection between Newton's queries and his lectures on optics as the Lucasian Professor of Mathematics. However, I couldn't find any connection in an annotated copy of his lecture notes.
 
-So I'm afraid this doesn't do much to place the period of the events at the end of issue #44. Despair's remembrance in #41 would put the abdication at about 1695. (My impression was that it was about 30 years from 1665 and not precisely that long.) The dissection of the orangutan is unlikely to be before 1698. Query 30 comes after 1706, though this may only be the first time Newton put it into print.
+So I'm afraid this doesn't do much to place the period of the events at the end of issue #44. Despair's remembrance in [#41](sandman.41.md) would put the abdication at about 1695. (My impression was that it was about 30 years from 1665 and not precisely that long.) The dissection of the orangutan is unlikely to be before 1698. Query 30 comes after 1706, though this may only be the first time Newton put it into print.
 
 Further, Newton is referred to as "young." (Young by Endless standards, standards of the time or our standards?) Newton was born in 1642. He started experimenting with light in 1662. When he first decomposed light is hard to say. We could place it between 1662 and 1672 (when he published his first paper on it). That would give us a range of 20-30 years old. Certainly youngish.
 

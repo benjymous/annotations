@@ -21,7 +21,7 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 1-4
 
-This is not the same gatekeeper as seen elsewhere; first known appearance of Squatterbloat. Squatterbloat speaks in triolets; the rhyme scheme is ABAAABAB, and the first, fourth, and seventh lines are the same, as are the second and eighth. The B lines are a syllable or two longer than the A lines. Note that DC has established that demons who rhyme when they speak are higher in Hell's hierarchy than those who do not.
+  This is not the same gatekeeper as seen elsewhere; first known appearance of Squatterbloat. Squatterbloat speaks in triolets; the rhyme scheme is ABAAABAB, and the first, fourth, and seventh lines are the same, as are the second and eighth. The B lines are a syllable or two longer than the A lines. Note that DC has established that demons who rhyme when they speak are higher in Hell's hierarchy than those who do not.
 
 - #### Panel 5
 
@@ -56,6 +56,12 @@ This is not the same gatekeeper as seen elsewhere; first known appearance of Squ
   Lucifer's wings are problematic. His angelic wings traditionally were torn off as part of his punishment, or were burned off in the descent to Hell. These are, however, bat-like, and may be replacements Lucifer caused to grow.
 
 ### Page 9
+
+**Note** This is Lucifer's first appearance.  In the original monthly publication these two pages were a double page spread.  After adverts were removed for the collections, they no longer fell over two pages, so were redrawn.
+
+  ![](images/LuciferOriginalFirstAppearence.jpg)
+
+  ([image source](https://twitter.com/thejither/status/1552683693738758144?t=8jZXY4PmKVDuByuE6_TKsw&s=19))
 
 - #### Panel 2
 
@@ -139,3 +145,5 @@ This is John Dee, Dr. Destiny, who has been mentioned before. The amulet is the 
 - Tanaqui C. Weaver <tweaver@isis.cs.du.edu> spotted Squatterbloat's poetry and relayed Neil Gaiman's correction on the first mention of Despair.
 - David Henry <UD137927@VM1.NoDak.EDU> recalled the Riddle Game.
 - Ralf Hildebrandt added more details.
+- Richard Munn filled in the details about the first appearance of Lucifer being redrawn.
+-

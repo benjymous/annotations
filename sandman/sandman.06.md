@@ -73,7 +73,7 @@ Bette's hands may be shaking, or those may be motion lines.
 
 - #### Panel 6
 
-  The object to the right of the ruby is the amulet of protection originally obtained from the demon Choronzon in #1.
+  The object to the right of the ruby is the amulet of protection originally obtained from the demon Choronzon in [#1](sandman.01.md).
   Note that it never gets used that we are made aware of, and we do not learn what becomes of it later. It is possible that Morpheus' recovery of his helmet has nullified the trade, and so rendered the amulet powerless. Dee might be holding onto it for sentimental reasons.
 
 ### Page 7
@@ -190,7 +190,7 @@ In this sequence, the three women take the roles of the Hecateae, reintroduced i
 
   Kate seems to be referring to Arkham Asylum here, where John Dee just came from. Bette is in the role of Atropos, who cuts the thread of each person's life as it ends, in Greek mythology.
 
-  While the clock image has appeared previously, I direct you to Sandman Issue #10 "the Doll's House", page 19 panel 1. The ceiling is a giant watch /clock, implying a connection between time and the Hecatae. Since the three women in issue #6, page 16 are playing the role of the Hecatae, they are giving a watch/clock as well.
+  While the clock image has appeared previously, I direct you to [Sandman Issue #10](sandman.10.md) "the Doll's House", page 19 panel 1. The ceiling is a giant watch /clock, implying a connection between time and the Hecatae. Since the three women in [issue #6](sandman.06.md), page 16 are playing the role of the Hecatae, they are giving a watch/clock as well.
 
 ### Page 17
 
@@ -258,7 +258,7 @@ The sign in the upper left reads "Please and Thank You are the magic words."
 
 - #### Panel 6
 
-  "Waiting for the End of the World," which did not actually wind up as the title of Sandman #7 ("24 Hours"), is a song by Elvis Costello on his first album, "My Aim Is True." This is the same songwriter Neil will quote in the title of Sandman # 37, ". . . I woke up and one of us was crying." Neil's Elvis Costello titles perhaps follow Rick Veitch's Swamp Thing title " ... we could be diving for pearls".
+  "Waiting for the End of the World," which did not actually wind up as the title of [Sandman #7](sandman.07.md) ("24 Hours"), is a song by Elvis Costello on his first album, "My Aim Is True." This is the same songwriter Neil will quote in the title of Sandman # 37, ". . . I woke up and one of us was crying." Neil's Elvis Costello titles perhaps follow Rick Veitch's Swamp Thing title " ... we could be diving for pearls".
 
 ## Credits
 

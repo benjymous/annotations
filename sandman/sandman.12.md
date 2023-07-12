@@ -107,7 +107,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 - #### Panel 9
 
-  Note that Jed is younger, like he is in his dreams (see Issue #11).
+  Note that Jed is younger, like he is in his dreams (see [Issue #11](sandman.11.md)).
 
 ### Page 21
 

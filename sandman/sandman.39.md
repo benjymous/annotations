@@ -184,7 +184,7 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 - #### Panel 7
 
-  Another comment on the value of dreams, a motif found extensively in #38.
+  Another comment on the value of dreams, a motif found extensively in [#38](sandman.38.md).
 
 ## Credits
 

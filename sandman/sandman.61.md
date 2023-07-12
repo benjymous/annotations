@@ -24,7 +24,7 @@
 
 - #### Panel 1
 
-  Zelda was last seen in issue #15, "The Doll's House" part 6.
+  Zelda was last seen in [issue #15](sandman.15.md), "The Doll's House" part 6.
 
   She was blond in that issue, although her hair could have been bleached. "The Doll's House" featured a gay man named Hal, who moved west; before this, many people on the net thought that Rose's dying friend was him -- almost certainly an intentional bit of misdirection on Gaiman's part. Given the theme of gender that runs through "The Kindly Ones", Rose's friend would have to be a woman, though.
 
@@ -54,7 +54,7 @@
 
 - #### Panel 2
 
-  Titania's was last seen in issue #52. Her appearance here is identical to that of issue #18, "A Midsummer Night's Dream". This is especially notable because in four Gaiman-written stories it is the first time she's had the same form.
+  Titania's was last seen in [issue #52](sandman.52.md). Her appearance here is identical to that of [issue #18](sandman.18.md), "A Midsummer Night's Dream". This is especially notable because in four Gaiman-written stories it is the first time she's had the same form.
 
 ### Page 14
 
@@ -106,7 +106,7 @@
 
 - #### Panel 6
 
-  This echoes the death by fire of Ruby the driver in #44 ("Brief Lives" part 4); and both of these echo the destruction of Nada's city seen in issue #9.
+  This echoes the death by fire of Ruby the driver in [#44](sandman.44.md) ("Brief Lives" part 4); and both of these echo the destruction of Nada's city seen in issue [#9](sandman.09.md).
 
 ## Credits
 

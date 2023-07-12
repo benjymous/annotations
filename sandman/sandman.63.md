@@ -16,7 +16,7 @@
 
 - #### Panel 4
 
-  The return of a main character from "A Game of You": the witch who called herself Thessaly. She was last seen in the last part of that story, issue #37.
+  The return of a main character from "A Game of You": the witch who called herself Thessaly. She was last seen in the last part of that story, [issue #37](sandman.37.md).
 
 ### Page 3
 
@@ -32,7 +32,7 @@
 
 - #### Panel 1
 
-  Odin was last seen in these pages in "The Season of Mists" chapter 6, issue #27.
+  Odin was last seen in these pages in "The Season of Mists" chapter 6, [issue #27](sandman.27.md).
 
 ### Page 7
 
@@ -56,7 +56,7 @@
 
 - #### Panel 1
 
-  In issue #2 honey is among Dream's ingredients for calling the Hecateae.
+  In issue [#2](sandman.02.md) honey is among Dream's ingredients for calling the Hecateae.
 
 - #### Panel 6
 
@@ -110,4 +110,4 @@ The panel borders here are reminiscent of Celtic designs. As is probably clear, 
 - Lance "Squiddie" Smith (lsmith@cs.umn.edu) identified Larissa's book, and the name "Larissa".
 - Adam Huby (ajh@crosfield.co.uk) gave some more biographical information on Richard Dadd.
 - Greg McElhatton (stu_glmcelha@vax1.acs.jmu.edu) pointed out Lyta's claws of brass.
-- Katie Schwarz (katie@physics.berkeley.edu) also noted the claws, pointed out Dream's ritual from issue #2, and noticed the wall decorations.
+- Katie Schwarz (katie@physics.berkeley.edu) also noted the claws, pointed out Dream's ritual from issue [#2](sandman.02.md), and noticed the wall decorations.

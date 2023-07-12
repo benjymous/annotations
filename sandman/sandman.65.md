@@ -76,7 +76,7 @@
 
 - #### Panel 3
 
-  The lettering for Rose's words on this page and the next is identical to Destiny's in issue #63.
+  The lettering for Rose's words on this page and the next is identical to Destiny's in [issue #63](sandman.63.md).
 
 ### Page 8
 

@@ -134,7 +134,7 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
 - #### Panel 7
 
-  Nuala's crystal in was given her by the last Dream's lover as seen in issue #42 page 4, panel 5.
+  Nuala's crystal in was given her by the last Dream's lover as seen in [issue #42](sandman.42.md) page 4, panel 5.
 
 ### Page 23
 

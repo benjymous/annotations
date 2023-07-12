@@ -66,7 +66,7 @@ Earth, Fire, Water and Air (or sometimes Wind), were four of the Five Elements i
 
 - #### Panel 1
 
-  Looking at the six figures of the Endless in the foreground, the missing one seems to be Despair. It was mentioned in issue #48 that Despair had died and been replaced.
+  Looking at the six figures of the Endless in the foreground, the missing one seems to be Despair. It was mentioned in [issue #48](sandman.48.md) that Despair had died and been replaced.
 
 ### Page 17
 

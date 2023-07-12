@@ -55,7 +55,7 @@ In the credit box, Gaiman takes the title PJF, probably meaning Pre-Joycean Fell
 
 - #### Panel 5
 
-  The "brother" is the missing Endless, whose identity will be made clear in the _Sandman_ Special #1. An upcoming storyline will feature the search for the missing brother.
+  The "brother" is the missing Endless, whose identity will be made clear in the [_Sandman_ Special #1](sandman-special1.md). An upcoming storyline will feature the search for the missing brother.
 
 ### Page 4
 
@@ -81,15 +81,14 @@ Norton's background as given here seems to be correct.
 
 - #### Panel 2-4
 
-This is presumably the correct text of Norton's original proclamation. Note the further information that he was from the British colony in South Africa (The Cape of Good Hope is the southern tip of Africa).
+  This is presumably the correct text of Norton's original proclamation. Note the further information that he was from the British colony in South Africa (The Cape of Good Hope is the southern tip of Africa).
 
-In panel two, note the lettering correction mark in "preemptory". My dictionary lists "preemptive" and not "preemptory"; both would be incorrect. The probable original and correct word is "peremptory", meaning "dictatorial; with authority; not to be denied".
+  In panel two, note the lettering correction mark in "preemptory". My dictionary lists "preemptive" and not "preemptory"; both would be incorrect. The probable original and correct word is "peremptory", meaning "dictatorial; with authority; not to be denied".
 
-From the [Emperor Norton Webpage](http://www.zpub.com/sf/history/nort.html):
+  From the [Emperor Norton Webpage](http://www.zpub.com/sf/history/nort.html):
 
-> At the pre-emptory request of a large majority of the citizens of these United States, I Joshua Norton, formerly of Algoa Bay, Cape of Good Hope, and now for the last nine years and ten months past of San Fransisco, California, declare and proclaim myself the Emperor of These United States.
-
-      - September 17, 1859
+  > At the pre-emptory request of a large majority of the citizens of these United States, I Joshua Norton, formerly of Algoa Bay, Cape of Good Hope, and now for the last nine years and ten months past of San Fransisco, California, declare and proclaim myself the Emperor of These United States.
+  > -- September 17, 1859
 
 - #### Panel 6
 
@@ -103,7 +102,7 @@ Incidentally, the figure shadowed against the wall in this panel is Norton himse
 
   Grown-up: An unusual concept to apply to the Endless.
 
-(BUT! : Death tells Dream that Delirium is "just a kid" in Brief Lives. Of course, this flies in the face of earlier descriptions of the Endless, most notably in The Season of Mists, where it is said "the Endless to not measure time like we do".)
+  (BUT! : Death tells Dream that Delirium is "just a kid" in Brief Lives. Of course, this flies in the face of earlier descriptions of the Endless, most notably in The Season of Mists, where it is said "the Endless to not measure time like we do".)
 
 ### Page 9
 
@@ -111,7 +110,7 @@ Incidentally, the figure shadowed against the wall in this panel is Norton himse
 
   The second September. This is Samuel Langhorne Clemens (Nov 1835-1910, making him 28 at this time), who would one day become the foremost writer and humorist of his day under the pen name of Mark Twain. It has been verified that Twain was indeed working for a San Francisco newspaper during this period, having left Virginia City and arrived in San Francisco earlier in 1864; there is a book of collected essays from his work on this paper. He did not apparently write about the Emperor, however, nor is there any confirmation that he knew him.
 
-My source has "Langhorn" as the proper spelling for Clemens' second name; however, common usage prefers the '-e' ending.
+  My source has "Langhorn" as the proper spelling for Clemens' second name; however, common usage prefers the '-e' ending.
 
 - #### Panel 4
 
@@ -175,7 +174,7 @@ Note that Delirium's word balloon is uncolored, no doubt an oversight.
 
 - #### Panel 3-4
 
-'Frisco: The nickname of the city of San Francisco, which is itself Spanish, meaning "Saint Francis". "SF" also sees extensive use in written language. Natives of San Francisco tend to dislike the abbreviation 'Frisco.
+  **'Frisco**: The nickname of the city of San Francisco, which is itself Spanish, meaning "Saint Francis". "SF" also sees extensive use in written language. Natives of San Francisco tend to dislike the abbreviation 'Frisco.
 
 - #### Panel 4-5
 
@@ -196,7 +195,7 @@ The Emperor issued his own money, and exchanged it for US currency. Most people 
 
   Note Ah How's queue, the long ponytail. The custom of wearing the hair this way originated among the Manchu people. When the Manchu conquered the rest of China, ending the Han (or Ming--conflicting accounts) dynasty and beginning the Ching dynasty, the last imperial dynasty, they forced the conquered people to adopt the queue as a sign of submission. The order was by Dorgan, uncle of and regent for the first Ch'ing emperor Shun-Chih. Later, the queue became a symbol of Chinese culture.
 
-Opium is a narcotic derived from the poppy; heroin and morphine are both derived from opium. Opium was a vice brought from the Orient, and opium dens were a feature in many "Chinatowns" until about the turn of the century. The vice was forced upon the Chinese, as a result of the Opium Wars, with Britain, of 1840-1842. The vice persisted until 1907, as a means of balancing trade between the British Empire and China, as China did not particularly want foreign goods. Perhaps ironically, the Tongs today have ties with the opium trade; the Tongs originally were formed for the purpose of being pro-Imperial China.
+  Opium is a narcotic derived from the poppy; heroin and morphine are both derived from opium. Opium was a vice brought from the Orient, and opium dens were a feature in many "Chinatowns" until about the turn of the century. The vice was forced upon the Chinese, as a result of the Opium Wars, with Britain, of 1840-1842. The vice persisted until 1907, as a means of balancing trade between the British Empire and China, as China did not particularly want foreign goods. Perhaps ironically, the Tongs today have ties with the opium trade; the Tongs originally were formed for the purpose of being pro-Imperial China.
 
 - #### Panel 4
 
@@ -206,9 +205,9 @@ Opium is a narcotic derived from the poppy; heroin and morphine are both derived
 
   As we shall see, the Cobweb Palace (for which I have seen no hard refs) is a place where reality and unreality touch. Neil Gaiman confirms that the Cobweb Palace is a real place; the most complete description is in Asbury's _Barbary Coast_.
 
-The Cobweb Palace is not a "Soft Place", as originally speculated, despite its fantastic elements. "Soft places" are large and indeterminate in location; the Cobweb Palace is neither.
+  The Cobweb Palace is not a "Soft Place", as originally speculated, despite its fantastic elements. "Soft places" are large and indeterminate in location; the Cobweb Palace is neither.
 
-A Cobweb Palace is featured in Akira Kurosawa's _Throne of Blood_, an adaptation of Shakespeare's _Macbeth_. The castle obtained by the Macbeth-analog after slaying his lord is called the Cobweb Palace, and is surrounded by the Cobweb Forest.
+  A Cobweb Palace is featured in Akira Kurosawa's _Throne of Blood_, an adaptation of Shakespeare's _Macbeth_. The castle obtained by the Macbeth-analog after slaying his lord is called the Cobweb Palace, and is surrounded by the Cobweb Forest.
 
 ### Page 16
 
@@ -229,6 +228,11 @@ A Cobweb Palace is featured in Akira Kurosawa's _Throne of Blood_, an adaptation
 - #### Panel 1
 
   Gaiman says the King of Pain was a real person; I have no refs for him, save perhaps for the song "King of Pain" from the Police's album _Synchronicity_. Wolfsbane and aconite, as well as monkshood, are all names for the same plant. Aconite is an analgesic in small doses, and a poison in larger ones.
+
+  In a [blog post in 2011](https://journal.neilgaiman.com/2011/02/king-of-pain-explained-absence-of.html),  Neil Gaiman gave this reference for the King of Pain:
+
+  [Herbert Asbury's The Barbary Coast](https://archive.org/details/barbarycoastinfo0000asbu) p230:
+  > Another habitue of Martin and Horton’s, and an occasional visitor at the Cobweb Palace, was an itinerant healer who called himself the King of Pain. He was probably the most ornate personage in the San Francisco of his time — his customary attire was scarlet underwear, a heavy velour robe, a high hat bedecked with ostrich feathers, and a heavy sword. When he went abroad, he rode in a coal- black coach drawn by six snow-white horses. The King of Pain made a fortune selling aconite liniment from a pitch at Third and Mission streets, but he lost all his money at the gaming tables and finally committed suicide.
 
 ### Page 19
 
@@ -332,6 +336,7 @@ A wonderful bit of wisdom.
 - Neil Gaiman confirmed the existence of the Cobweb Palace.
 - Pat Dorsey (PDORSEY@EAGLE.WESLEYAN.EDU) danced all around the origin of Tom O'Bedlam without quite getting it right, and pointed in the direction of Shakespeare.
 - Ralf Hildebrandt added more details.
+- Richard Munn added the King of Pain reference from Neil Gaiman's blog entry.
 
 ## Appendix
 

@@ -10,7 +10,7 @@
 
   Every Hempel-drawn issue has a string or cord in this panel.
 
-**This issue**: an electrical cord going into a manhole. The man is the angel Remiel, who was last seen at the end of "The Season of Mists", issue #28. **Note the shadow**: his feet do not quite touch the ground.
+**This issue**: an electrical cord going into a manhole. The man is the angel Remiel, who was last seen at the end of "The Season of Mists", [issue #28](sandman.28.md). **Note the shadow**: his feet do not quite touch the ground.
 
 ### Page 2
 
@@ -20,7 +20,7 @@
 
 - #### Panel 4
 
-  See the annotations for issue #24 for more information on Remiel and Duma.
+  See the annotations for [issue #24](sandman.24.md) for more information on Remiel and Duma.
 
 ### Page 5
 
@@ -60,13 +60,13 @@ This is "Puss in Boots". I don't have on me a specific reference to her story.
 
 - #### Panel 9
 
-  This is the first of a number of references to Rose's looking younger than her true age. There's been speculation that she's stopped aging because of giving away her heart at the end of "The Doll's House"; in many tales a being who takes out their heart and hides it gains immortality. Gaiman's own character Mad Hettie (see issue #3, and the "Death" miniseries) has done so.
+  This is the first of a number of references to Rose's looking younger than her true age. There's been speculation that she's stopped aging because of giving away her heart at the end of "The Doll's House"; in many tales a being who takes out their heart and hides it gains immortality. Gaiman's own character Mad Hettie (see [issue #3](sandman.03.md), and the "Death" miniseries) has done so.
 
 ### Page 14
 
 - #### Panel 3
 
-  Those wishing to learn more about Rose's family tree are directed first to issue #1, then to the "Doll's House" story.
+  Those wishing to learn more about Rose's family tree are directed first to [issue #1](sandman.01.md), then to the "Doll's House" story.
 
 - #### Panel 5
 

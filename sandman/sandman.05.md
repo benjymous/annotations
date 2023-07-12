@@ -123,7 +123,7 @@ This is a dream of Mister Miracle. Mister Miracle, who goes by the name "Scott F
 
 ### Page 18
 
-Morpheus while on Earth travels either as a human would (the taxi ride with Constantine and Chas in #3) or through dreams of people along the way. The latter is consistent with how he obtained food in #1, although there it was stated that Morpheus was too weak to create food from the fabric of dreams directly.
+Morpheus while on Earth travels either as a human would (the taxi ride with Constantine and Chas in [#3](sandman.03.md)) or through dreams of people along the way. The latter is consistent with how he obtained food in [#1](sandman.01.md), although there it was stated that Morpheus was too weak to create food from the fabric of dreams directly.
 
 ### Page 19
 

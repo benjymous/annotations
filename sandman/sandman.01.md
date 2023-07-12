@@ -59,7 +59,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 ### Page 7
 
 - #### Panel 6
-  First known appearance of Morpheus, the Sandman. Morpheus has many different names, since every culture has known of him in some form. Morpheus is fairly rarely referred to directly as the Sandman, with the major exception being issue #3. In this shot, he is wearing a helmet; that is not his head.
+  First known appearance of Morpheus, the Sandman. Morpheus has many different names, since every culture has known of him in some form. Morpheus is fairly rarely referred to directly as the Sandman, with the major exception being [issue #3](sandman.03.md). In this shot, he is wearing a helmet; that is not his head.
 
 ### Page 8-9:
 
@@ -105,7 +105,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 ### Page 21
 
 - #### Panel 2
-  First known appearance of Paul McGuire, new second in command of the Order. He will not appear in later issues.
+  First known appearance of Paul McGuire, new second in command of the Order. He will have a brief appearance in later issues.
 
 ### Page 23
 
@@ -177,12 +177,15 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 40
 
+{% alert type="floatright", style="width-40pc" %}
+![](images/TerrorInAHandfulOfDust.jpg)
+{% endalert %}
+
 - #### Panel 5
+
   Morpheus' thoughts - hard to see, because (in my copy, at least) the coloration is rather odd - but the thought reads, "And I have showed him fear..." This may be only speculation, but to me this seems reminiscent of a T.S. Eliot quote, from his poem "The Wasteland". The quote reads, "..I will show you fear in a handful of dust." I was reminded of this on first reading, and then, on further investigation of Morpheus' actions directly preceding this, on page 37, was rewarded with the final panel - and those grains falling from his hand, if I am not entirely mistaken, are sand. (And I have showed him fear in a handful of sand.) In fact, I think it should be 'shown' in that form, the pluperfect (I show, I was showing, I showed, I have shown?). Let us consult the might of the OED and see if Gaiman is, indeed, guilty of the carnal sin of bad grammar... no; all is absolved; our deity is returned to infallibility; Showed or Shown are both acceptable.
 
-  This was confirmed in the Sandman Companion to be based on the T.S. Eliot quote.  The original marketing adverts for _Sandman_ positioned it as a horror comic, with the tagline "I will show you terror in a handful of dust".  Goodness knows what the DC marketing department made of the rest of the run...
-
-  ![](images/TerrorInAHandfulOfDust.jpg)
+  This was confirmed in the Sandman Companion to indeed be based on the T.S. Eliot quote.  The original marketing adverts for _Sandman_ positioned it as a horror comic, with the tagline "I will show you terror in a handful of dust".  Goodness knows what the DC marketing department made of the rest of the run...
 
 ## Credits
 
@@ -198,4 +201,4 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 - Neil Gaiman, via Tanaqui C. Weaver <tweaver@isis.cs.du.edu>
 - Andrew Sigel <sigel@vsscad.enet.dec.com>
 - Ralf Hildebrandt added a note about the title, the connection between Unity and Desire, more info about the Yellow Pages and lots more details and edits
-- Richard Munn confirmed the T.S. Eliot quote
+- Richard Munn confirmed the T.S. Eliot quote, and updated the references to Paul's Return

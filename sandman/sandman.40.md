@@ -35,7 +35,7 @@ It may be worth noting that Lyta is still acting as a storyteller here, and that
 
 - #### Panel 1
 
-  **Carla**: Mentioned in #22.
+  **Carla**: Mentioned in [#22](sandman.22.md).
 
 - #### Panel 4
 

@@ -9,7 +9,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 1:
 
-The black-haired man is Abel, the other Cain. These would be familiar to most long-term readers of comics. Originally, they were the hosts for DC's watered-down versions of EC's mystery series. Cain was the host of _House of Mystery_, Abel the host of _House of Secrets_. Cain and Abel also appeared in _Plop!_, a DC humor title of the 1970s, along with Eve; they were drawn there by Sergio Aragones, who has appeared in Mad and currently does _Groo the Wanderer_, which is why Sergio did the pinup of them in _Sandman_ Special #1.
+The black-haired man is Abel, the other Cain. These would be familiar to most long-term readers of comics. Originally, they were the hosts for DC's watered-down versions of EC's mystery series. Cain was the host of _House of Mystery_, Abel the host of _House of Secrets_. Cain and Abel also appeared in _Plop!_, a DC humor title of the 1970s, along with Eve; they were drawn there by Sergio Aragones, who has appeared in Mad and currently does _Groo the Wanderer_, which is why Sergio did the pinup of them in [_Sandman_ Special #1](sandman-special1.md).
 
 Cain and Abel, of course, are the first two children of the first two people in Genesis, the biblical creation story. Cain slew Abel over a disagreement over their offerings to God, was marked by God, and was sent to live in the Land of Nod. The nursery rhyme of "Winken, Blinken, and Nod" identifies the Land of Nod as the Land of Dreams.
 
@@ -79,7 +79,7 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 - #### Panel 3-4
 
-  Ethel Dee was born Ethel Cripps, whom we saw in issue #1.
+  Ethel Dee was born Ethel Cripps, whom we saw in [issue #1](sandman.01.md).
 
   The letter balloon between panel 3 and panel 4 is incorrectly drawn. The first part is correctly identified as being said by the Asylum administrator, Doctor Huntoon. The second part is actually said by Ethel Dee. Dr. Huntoon has appeared before, in a Rick Veitch issue of _Swamp Thing_. He has the nickname "Piggy." Dr. Destiny (whose name may or may not have been given before as John Dee) has fought the Justice League of America on the order of ten times. He originally appeared as a normal human being who had invented anti-gravity (this from _JLA_ #5, "When Gravity Went Wild"). Subsequently, he invented a "materioptikon", which turned dreams into reality. Later, he invented a ruby materioptikon, and a dream materioptikon. At that point, it became necessary to remove his power to dream, which caused him to waste away to a human skeleton.
 

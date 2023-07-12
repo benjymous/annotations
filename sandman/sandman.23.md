@@ -178,7 +178,7 @@ Perhaps the most reasonable guess is that Dream and Lucifer exited Hell through 
 
 - #### Panel 2
 
-  "No. You are still my Lord. I will not forsake you. I love you, master." Mazikeen is drawn with much more detail this issue; the musculature is clearly evident, where she appeared more skull-like in #22.
+  "No. You are still my Lord. I will not forsake you. I love you, master." Mazikeen is drawn with much more detail this issue; the musculature is clearly evident, where she appeared more skull-like in [#22](sandman.22.md).
 
 - #### Panel 3
 

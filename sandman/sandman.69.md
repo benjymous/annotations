@@ -96,7 +96,7 @@
 
 - #### Panel 5
 
-  Some people have speculated that the donor was Rosemary, the woman shot by Doctor Dee in issue #5. The timing would seem a bit odd, though, since that would mean that issues 2-4 took seven months to happen.
+  Some people have speculated that the donor was Rosemary, the woman shot by Doctor Dee in issue [#5](sandman.05.md). The timing would seem a bit odd, though, since that would mean that issues 2-4 took seven months to happen.
 
 ### Page 18
 

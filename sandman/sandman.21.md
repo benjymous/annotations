@@ -106,28 +106,28 @@ Death and Despair miss the missing Endless (another clue) and Desire does not. N
 
 - #### Panel 5; page 8 panel 1
 
-This is, I believe, the first appearance of Delirium, the youngest of the Endless, whom we will learn more about shortly. Note that the picture is of Delirium's former incarnation as Delight. R.A.C. reader Tanaqui C. Weaver claims to be the initial inspiration for Delirium, though she also says that Tori Amos and Kathy Acker are additional inspirations. Delirium's red hair is probably modeled after Tori Amos. It has been speculated that Delirium's mismatched eyes also stem from that source, although several readers have reported that her eyes appear to be the same color in her videos.
+  This is, I believe, the first appearance of Delirium, the youngest of the Endless, whom we will learn more about shortly. Note that the picture is of Delirium's former incarnation as Delight. R.A.C. reader Tanaqui C. Weaver claims to be the initial inspiration for Delirium, though she also says that Tori Amos and Kathy Acker are additional inspirations. Delirium's red hair is probably modeled after Tori Amos. It has been speculated that Delirium's mismatched eyes also stem from that source, although several readers have reported that her eyes appear to be the same color in her videos.
 
-Tori Amos is from North Carolina, the daughter of a Methodist priest. She went to LA, formed a band, and recorded _Y Kant Tory Read_, which was not a commercial success. She was led by her record company to perform in London, where it was believed that people would be more receptive to her music. Her second album _Little Earthquakes_ has been out on both sides of the pond for a while now, and has had at least one video receive airplay on MTV, as well as a 1 hour special on the same network.
+  Tori Amos is from North Carolina, the daughter of a Methodist priest. She went to LA, formed a band, and recorded _Y Kant Tory Read_, which was not a commercial success. She was led by her record company to perform in London, where it was believed that people would be more receptive to her music. Her second album _Little Earthquakes_ has been out on both sides of the pond for a while now, and has had at least one video receive airplay on MTV, as well as a 1 hour special on the same network.
 
-Her music has been compared to Kate Bush; it is quite good, low impact acoustic music with hard-edged lyrics.
+  Her music has been compared to Kate Bush; it is quite good, low impact acoustic music with hard-edged lyrics.
 
-Neil Gaiman is mentioned in her song "Tear in Your Hand" on the second album. He had not actually met Tori by the time this issue was produced, but later appearances of Delirium (and, I'm told, upcoming reminiscences about Delight) show her influence strongly.
+  Neil Gaiman is mentioned in her song "Tear in Your Hand" on the second album. He had not actually met Tori by the time this issue was produced, but later appearances of Delirium (and, I'm told, upcoming reminiscences about Delight) show her influence strongly.
 
-Kathy Acker is the author of _Empire of the Senseless_ (as seen in [Sandman #16](sandman.16.md)) as well as other works. A color picture of her can be found in issue #4 of Mondo 2000 magazine. Her hair is blonde and she apparently has a propensity for wearing black.
+  Kathy Acker is the author of _Empire of the Senseless_ (as seen in [Sandman #16](sandman.16.md)) as well as other works. A color picture of her can be found in issue #4 of Mondo 2000 magazine. Her hair is blonde and she apparently has a propensity for wearing black.
 
-As for the relation with Delirium, she was quoted as saying Burroughs had been a major influence on her work, though Foucault, Deleuze, and Guattari became more important. She is kown as a postmodernist and a feminist writer. She has spent time in London, though she is now back in the US, in San Francisco. (Delirium has a fondness for that place.) She was born in New York.
+  As for the relation with Delirium, she was quoted as saying Burroughs had been a major influence on her work, though Foucault, Deleuze, and Guattari became more important. She is kown as a postmodernist and a feminist writer. She has spent time in London, though she is now back in the US, in San Francisco. (Delirium has a fondness for that place.) She was born in New York.
 
-Thus writes "Kai'Ckul" <oshinsky@webspan.net>:
+  Thus writes "Kai'Ckul" <oshinsky@webspan.net>:
 
-> Obviously, the Burroughs that Kathy Acker (better known for her book, _Portrait of an Eye_) is William Seward Burroughs (1914-1994) who wrote in a stream-of-consciousness style reminiscent of Delirium's voice. Burroughs was an influence also on Tori Amos, who has come out with many more songs with Gaiman references in them, including but not limited to _Horses_ " ... Maybe Neil'll make me a tree..."
-> _Space Dog_ " ... Seems I keep getting this story twisted, so where's Neil when you need him?"
-> and in her song _Hotel_ she makes a reference to Gaiman's TV miniseries/novel "Neverwhere" ("... hangin' out with the Velvets..."). Getting back to Acker, who recently died of breast cancer, she is a writer who written many stories using appropriated material, i.e. material that was taken from some other source and writer that she has used in her story, and therefore in a new context, to create something radically different than it's intended purpose. This again goes back to William S. Burroughs, who's famous "Cut-Up Technique" that he created with artist Bryon Gysin, used newspaper articles and other found sources of words to mince together to create something new and different. Just thought you'd like to know.
->
-> Also, "Tear in Your Hand" isn't on Tori's second album, it is on her first album.
->
-> Also also, speaking of Coleridge and butterflies and Psyche... Coleridge (who, like Burroughs, was a homosexual and a junkie; and I need not go into that whole Morpheus/Morphine thing) wrote many poems regarding Desire and Despair. He wrote, in particular, the lesbian homo-erotic gothic poem "Christabel," about a girl who gets seduced by a succubus, and a short piece entitled "Psyche," which, coincidentally enough, juxtaposes the Psyche to a butterfly.
-> hmmmmmmm...
+  > Obviously, the Burroughs that Kathy Acker (better known for her book, _Portrait of an Eye_) is William Seward Burroughs (1914-1994) who wrote in a stream-of-consciousness style reminiscent of Delirium's voice. Burroughs was an influence also on Tori Amos, who has come out with many more songs with Gaiman references in them, including but not limited to _Horses_ " ... Maybe Neil'll make me a tree..."
+  > _Space Dog_ " ... Seems I keep getting this story twisted, so where's Neil when you need him?"
+  > and in her song _Hotel_ she makes a reference to Gaiman's TV miniseries/novel "Neverwhere" ("... hangin' out with the Velvets..."). Getting back to Acker, who recently died of breast cancer, she is a writer who written many stories using appropriated material, i.e. material that was taken from some other source and writer that she has used in her story, and therefore in a new context, to create something radically different than it's intended purpose. This again goes back to William S. Burroughs, who's famous "Cut-Up Technique" that he created with artist Bryon Gysin, used newspaper articles and other found sources of words to mince together to create something new and different. Just thought you'd like to know.
+  >
+  > Also, "Tear in Your Hand" isn't on Tori's second album, it is on her first album.
+  >
+  > Also also, speaking of Coleridge and butterflies and Psyche... Coleridge (who, like Burroughs, was a homosexual and a junkie; and I need not go into that whole Morpheus/Morphine thing) wrote many poems regarding Desire and Despair. He wrote, in particular, the lesbian homo-erotic gothic poem "Christabel," about a girl who gets seduced by a succubus, and a short piece entitled "Psyche," which, coincidentally enough, juxtaposes the Psyche to a butterfly.
+  > hmmmmmmm...
 
 ### Page 8
 
@@ -195,7 +195,7 @@ Also, note that Delirium was once Delight, though we are not told explicitly the
 
 - #### Panel 3,5
 
-  This is in reference to Nada's earlier appearances in [Sandman #4](sandman.04.md) and #9.
+  This is in reference to Nada's earlier appearances in [Sandman #4](sandman.04.md) and [#9](sandman.09.md).
 
 ### Page 19
 

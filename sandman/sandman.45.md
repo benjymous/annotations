@@ -4,7 +4,7 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
-**Notes**: See #41. For references on Ishtar and Ancient Near Eastern rites, consult the appendix. This issue, the middle one of the arc, has many points in common with #41, the first one of the arc.
+**Notes**: See [#41](sandman.41.md). For references on Ishtar and Ancient Near Eastern rites, consult the appendix. This issue, the middle one of the arc, has many points in common with [#41](sandman.41.md), the first one of the arc.
 
 ### 1: _The Things We Do to Be Loved_
 
@@ -18,7 +18,7 @@
 
 - #### Panel 3
 
-  This is foreshadowing. See also page 3 panel 5 and in #44.
+  This is foreshadowing. See also page 3 panel 5 and in [#44](sandman.44.md).
 
 - #### Panel 4
 
@@ -38,7 +38,7 @@
 
 - #### Panel 3-5
 
-Del's actions here are reminiscent of Dream's punishment of Alex Burgess in #1. It is evident that the Endless have the ability to cloud people's minds (as in #41 and #44, as well as on page 16, for example).
+Del's actions here are reminiscent of Dream's punishment of Alex Burgess in [#1](sandman.01.md). It is evident that the Endless have the ability to cloud people's minds (as in [#41](sandman.41.md) and [#44](sandman.44.md), as well as on page 16, for example).
 
 ### 3: _The Driving Instructor_
 
@@ -152,13 +152,13 @@ Slang for something quickly and abruptly started and accomplished; originally re
 
 - #### Panel 6
 
-  **Under Pressure**: A song written and performed by David   Bowie and Queen. (Recall the mention of Queen frontsman Freddie Mercury in #41.) The song is about closeted homosexuals.
+  **Under Pressure**: A song written and performed by David   Bowie and Queen. (Recall the mention of Queen frontsman Freddie Mercury in [#41](sandman.41.md).) The song is about closeted homosexuals.
 
 ### Page 16
 
 - #### Panel 6
 
-  Recall that Del pulled the same trick in #41.
+  Recall that Del pulled the same trick in [#41](sandman.41.md).
 
 ### 9: _Tiffany Watches II_
 

@@ -18,7 +18,7 @@
 
 - #### Panel 1
 
-  Note how Daniel's eyes appear to glow. This is perhaps a symptom of his part-immortal nature; they did not when we saw him back in issue #59.
+  Note how Daniel's eyes appear to glow. This is perhaps a symptom of his part-immortal nature; they did not when we saw him back in [issue #59](sandman.59.md).
 
 - #### Panel 4
 
@@ -120,7 +120,7 @@ Puck mentions the phrase "jot nor tittle." This is a Biblical reference, from Ma
 
   _Princess Daisy_ is a real novel, a best-seller in 1980.
 
-  Rose's novel was written by Erasmus Fry. We first heard of him in issue #17, "Calliope" -- it was he who captured the muse of that name and held her prisoner. The plot of the book as Rose describes it has obvious parallels to her situation.
+  Rose's novel was written by Erasmus Fry. We first heard of him in [issue #17](sandman.17.md), "Calliope" -- it was he who captured the muse of that name and held her prisoner. The plot of the book as Rose describes it has obvious parallels to her situation.
 
 - #### Panel 7
 

@@ -32,7 +32,7 @@
 
 - #### Panel 5
 
-  Presumably Dream is the standing figure, looking much as he did in issue #9. Note an Afrikaner tribal god as well as a native one... and note that the actual decision is left quite ambiguous.
+  Presumably Dream is the standing figure, looking much as he did in issue [#9](sandman.09.md). Note an Afrikaner tribal god as well as a native one... and note that the actual decision is left quite ambiguous.
 
 ### Page 3
 

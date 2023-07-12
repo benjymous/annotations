@@ -37,9 +37,11 @@ We are back to the real storyline after last issue's side trip, in Dodge County,
 
 - #### Panel 4
 
-  On the right is Chris Carter from the proto-Industrial group Throbbing Gristle (not Cc creator of the X-Files)
+  On the right is Chris Carter from the proto-Industrial group Throbbing Gristle (not CC creator of the X-Files)
 
-  ![](images/ThrobbingGristle.jpg) ![](images/ChrisCarterCameo.jpg)
+  {% alert type="flexbox", style="flex-2" %}
+  ![Chris Carter's cameo in #14](images/ChrisCarterCameo.jpg) ![Image of the band 'Throbbing Gristle'](images/ThrobbingGristle.jpg)
+  {% endalert %}
 
 ### Page 4
 
@@ -289,7 +291,7 @@ Of course women are naked under their clothes.
 - Steve Simmons <scs@lokkur.dexter.mi.us>, Marcus Brazil <matmnb@lure.latrobe.edu.au>, and Hannu Pajunen <hannu@polaris.utu.fi> identified _The Collector_.
 - The Colonel, Alex (Chaffee?) <chaffee@reed.edu> and Paul Lee <claris!qm!Paul_Lee@ames.arc.nasa.gov> found various incarnations of the motoring devil quote. The Colonel and Tom Galloway <tyg@caen.engin.umich.edu> found citations for the sanity clause. Tom also recalled the incidents the Corinthian remarks on.
 - Jim W Lai <jwtlai@watcgl.waterloo.edu> scrutinized page 23 to find those hidden genitals. Where is that Waldo, anyway? He also checked "grass widow" out.
-- Theresa Martin <thmartin@remus.rutgers.edu> recalled the census results of issue #10.
+- Theresa Martin <thmartin@remus.rutgers.edu> recalled the census results of [issue #10](sandman.10.md).
 - Neil Gaiman himself, as relayed by Tanaqui C. Weaver <cen@vax.oxford.ac.uk> identified the Timbuk 3 song, and pointed out the literary antecedents of Fun Land's dream.
 - William Sherman <sherman@math.ucla.edu> chimed in with a late identification of "Lydia"; identified the coathanger routine; corrected the Capote reference; and sang "Moon River" for us.
 - Beth Winter <renfri@astercity.net> for the Don't look now reference.

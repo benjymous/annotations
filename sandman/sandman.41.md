@@ -6,13 +6,13 @@
 
 **Notes**: _Brief Lives_ is in common use as a title, dating back to the earliest-reported citation, a collection of short biographies by John Aubrey, published in 1813.
 
-Probably because of Delirium's presence, there is a motif of eyes in _Brief Lives_. The dialog is filled with references to eyes, sight, and seeing, and the art is filled with closeups where eyes are clearly visible. The title _Brief Lives_ gives away one of the themes of the book. We see explicitly in #43 that even the long-lived have brief lives; as Death tells Capax, "You lived what anyone gets, Bernie. You got a lifetime." Dream calls Orpheus' life short. We observe the ending of many lives, from Ruby's short span to Capax and even to the goddess Ishtar. In a sense, then, all lives, except those of the Endless, are "brief".
+Probably because of Delirium's presence, there is a motif of eyes in _Brief Lives_. The dialog is filled with references to eyes, sight, and seeing, and the art is filled with closeups where eyes are clearly visible. The title _Brief Lives_ gives away one of the themes of the book. We see explicitly in [#43](sandman.43.md) that even the long-lived have brief lives; as Death tells Capax, "You lived what anyone gets, Bernie. You got a lifetime." Dream calls Orpheus' life short. We observe the ending of many lives, from Ruby's short span to Capax and even to the goddess Ishtar. In a sense, then, all lives, except those of the Endless, are "brief".
 
 Yet even the Endless are not so. Their "lives" have the same turmoil as ephemerals: The troubled younger sister, the estrangement of a brother. We even learn of the "death" and replacement of a incarnation of Despair, and we conclude with Orpheus' quietus, in which Dream effectively summons the Kindly Ones, who are expected put an end to Dream's own brief life.
 
 In fact, the briefness of life is an aspect of the larger theme, which is that of change--change which is personified in the form of Destruction. Everything changes; that is natural law. The change of greatest concern for the story is the change in the main character, Dream. The archetype of change even points out the change to us! _Brief Lives_ starts to pull the larger _Sandman_ story into focus, how Dream changes as a result of his imprisonment, building toward an inevitable conclusion. The story arc is divided into two four-issue parts with an epilog.
 
-The two part parallel each other in structure; compare particularly #41 and #45, where the Endless interact, and #44 and #48, where Ruby dies and Destruction departs while Dream does nothing. The epilog in #49 reprises the theme of the arc with Orpheus' death, and reprises the events of the arc in the "where are they now" segment.
+The two part parallel each other in structure; compare particularly [#41](sandman.41.md) and [#45](sandman.45.md), where the Endless interact, and [#44](sandman.44.md) and [#48](sandman.48.md), where Ruby dies and Destruction departs while Dream does nothing. The epilog in [#49](sandman.49.md) reprises the theme of the arc with Orpheus' death, and reprises the events of the arc in the "where are they now" segment.
 
 **Cover**: Any art historians out there? Two items that catch the eye are a Rembrandt-like portrait and the head of a Greek or Greek-revival statue.
 
@@ -42,7 +42,7 @@ The two part parallel each other in structure; compare particularly #41 and #45,
 
 - #### Panel 4
 
-  Note the gold tooth. The recovery of Orpheus was accomplished by Lady Johanna in 1794, in #29, making his loss c. 1764. The date holds no particular meaning for me.
+  Note the gold tooth. The recovery of Orpheus was accomplished by Lady Johanna in 1794, in [#29](sandman.29.md), making his loss c. 1764. The date holds no particular meaning for me.
 
 ### Page 4
 
@@ -175,7 +175,7 @@ The two part parallel each other in structure; compare particularly #41 and #45,
 
 - #### Panel 4
 
-  This is an image of Destiny's book. Compare to #21, where Delirium confronts Destiny with her knowledge of things that aren't in his book.
+  This is an image of Destiny's book. Compare to [#21](sandman.21.md), where Delirium confronts Destiny with her knowledge of things that aren't in his book.
 
 - #### Panel 6
 
@@ -205,7 +205,7 @@ The two part parallel each other in structure; compare particularly #41 and #45,
 
 - #### Panel 4
 
-  **Pets**: Destiny's garden is full of "little flappy things". Death has two goldfish named Slim and Wandsworth. Dream has ravens, such as Matthew. Destruction keeps dogs, as we will see. Desire does not seem to have pets. Despair has rats. Delirium is acquired by a pet in #48, and has shown a tendency to break apart into butterflies (page 13), or to create frogs (#31, #43) or hummingbirds (page 20).
+  **Pets**: Destiny's garden is full of "little flappy things". Death has two goldfish named Slim and Wandsworth. Dream has ravens, such as Matthew. Destruction keeps dogs, as we will see. Desire does not seem to have pets. Despair has rats. Delirium is acquired by a pet in [#48](sandman.48.md), and has shown a tendency to break apart into butterflies (page 13), or to create frogs ([#31](sandman.31.md), [#43](sandman.43.md)) or hummingbirds (page 20).
 
 ### Page 18-20
 

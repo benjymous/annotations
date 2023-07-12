@@ -38,7 +38,7 @@
 
 - #### Panel 3
 
-  For more information on this necropolis, consult issue #55.
+  For more information on this necropolis, consult [issue #55](sandman.55.md).
 
 ### Page 7
 
@@ -82,17 +82,11 @@
 
   Possibilities for who the missing _seventh_ cerement is meant for, (and reasons against):
 
-  - Death: she is supposed to be the last of the Endless to leave the
-    universe, (#20, page 20, panel 6, among others), and so cannot die. (But
-    we have not been explicitly told she can't die.)
+  - Death: she is supposed to be the last of the Endless to leave the universe, ([#20](sandman.20.md), page 20, panel 6, among others), and so cannot die. (But we have not been explicitly told she can't die.)
 
-  - Despair: Despair was killed at one point. (But there is no reason why
-    she can't die again.)
+  - Despair: Despair was killed at one point. (But there is no reason why she can't die again.)
 
-  - Destruction: he has "given up" his job as an Endless, and so isn't
-    permitted a funeral with the required cerement. (But just because
-    Destruction has "given up", doesn't mean that he has stopped being an
-    Endless.)
+  - Destruction: he has "given up" his job as an Endless, and so isn't permitted a funeral with the required cerement. (But just because Destruction has "given up", doesn't mean that he has stopped being an Endless.)
 
 ### Page 10
 
@@ -138,7 +132,7 @@ Thomas Wilde @ tvs_wanderer@yahoo.com:
 
 - #### Panel 6
 
-  Richard Madoc was last seen in Calliope, (Sandman #17). Note that he wears gloves, and is now in a nursing home. (See "Calliope" for the reason why.)
+  Richard Madoc was last seen in Calliope, ([Sandman #17](sandman.17.md)). Note that he wears gloves, and is now in a nursing home. (See "Calliope" for the reason why.)
 
 ### Page 16
 
@@ -186,7 +180,7 @@ Thomas Wilde @ tvs_wanderer@yahoo.com:
 
 - #### Panel 1
 
-  Alex Burgess is quoting the page from the _Liber Paginarum Fulvarum_ describing Morpheus. In issue #1 he was shown reading that page over and over. Note the Siamese cat on the rocks, probably the cat-prophet from "Dream of a Thousand Cats"; also the figure with the staff further up the stairs, who is quite possibly Odin.
+  Alex Burgess is quoting the page from the _Liber Paginarum Fulvarum_ describing Morpheus. In issue [#1](sandman.01.md) he was shown reading that page over and over. Note the Siamese cat on the rocks, probably the cat-prophet from "Dream of a Thousand Cats"; also the figure with the staff further up the stairs, who is quite possibly Odin.
 
 ## Credits
 

@@ -104,6 +104,10 @@ Winner of 1991 World Fantasy Award in the short story category
 
   > "Wendel is a Celtic god and smith related to Wayland. There is an actual mound in England called "Wendel's Mound". I believe there may also be story about him in one of Rudyard Kipling's "Puck" books, which would be appropriate given the context."
 
+  The true location is the Long Man of Wilmington.  (Neil Gaiman notes in the Sandman Companion that this may have originated as "Wendel's Mound Town")
+
+  ![The Long Man of Wilmington](images/LongManOfWilmington.jpg)
+
 ### Page 6
 
 - #### Panel 1
@@ -394,3 +398,4 @@ The standard ending to fairy stories has those who ventured into the fairy world
 - Ian Lance Taylor (ian@airs.com) did some research into the order of Shakespeare's early plays.
 - <toth@puli.bke.hu> provided more info on Wendel
 - Ralf Hildebrandt added more details.
+- Richard Munn added another note about the true real-world location of Wendel's Mound.

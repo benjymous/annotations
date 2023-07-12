@@ -129,7 +129,7 @@ Note the potential ambiguity in the discussion of cheeks, given the prominent ap
 
 - #### Panel 1
 
-  This may be the same place where Johanna Constantine met Dream in issue #29, _Thermidor_.
+  This may be the same place where Johanna Constantine met Dream in [issue #29](sandman.29.md), _Thermidor_.
 
 - #### Panel 2
 
@@ -166,7 +166,7 @@ Note the potential ambiguity in the discussion of cheeks, given the prominent ap
 
 - #### Panel 3
 
-  **Barbie-Bubullah**: Bubullah is one of the spellings for a Yiddish term of endearment, roughly meaning "baby" or "child". For an annotation for Yiddish see issue #8.
+  **Barbie-Bubullah**: Bubullah is one of the spellings for a Yiddish term of endearment, roughly meaning "baby" or "child". For an annotation for Yiddish see [issue #8](sandman.08.md).
 
 - #### Panel 5
 

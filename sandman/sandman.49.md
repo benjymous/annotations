@@ -4,7 +4,7 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
-**Notes**: See #41. This issue is the coda for the arc, reprising all that we've seen before and reiterating "change" as the theme. The briefness of life reinforces the change embodied by Destruction. The emphasis upon change is meant to point out the change in Dream since his imprisonment, as remarked by Orpheus in 49:3.3 and by Destruction in 47:24.2 and 48:17.5. It is perhaps worth noting that the epilog does not strictly begin until 3: or 4:. 1: and 2: are necessarily a part of the central story and are themselves reprised in 7:. Despair's reappearance in 4: is a strict reprise of her role in #41.
+**Notes**: See [#41](sandman.41.md). This issue is the coda for the arc, reprising all that we've seen before and reiterating "change" as the theme. The briefness of life reinforces the change embodied by Destruction. The emphasis upon change is meant to point out the change in Dream since his imprisonment, as remarked by Orpheus in 49:3.3 and by Destruction in 47:24.2 and 48:17.5. It is perhaps worth noting that the epilog does not strictly begin until 3: or 4:. 1: and 2: are necessarily a part of the central story and are themselves reprised in 7:. Despair's reappearance in 4: is a strict reprise of her role in [#41](sandman.41.md).
 
 ### 1: _Farewells_
 
@@ -12,7 +12,7 @@
 
 - #### Panel 2
 
-  The pictured woman is Eurydice, Orpheus' wife. This is a fantasy; see Special #1 for a detailed explanation.
+  The pictured woman is Eurydice, Orpheus' wife. This is a fantasy; see [Special #1](sandman-special1.md) for a detailed explanation.
 
 - #### Panel 3
 
@@ -36,7 +36,7 @@
 
 - #### Panel 9
 
-  Again, see Special #1 or Graves or another classical Greek myth text for details.
+  Again, see [Special #1](sandman-special1.md) or Graves or another classical Greek myth text for details.
 
 ### 4: _Journey's End_
 
@@ -68,7 +68,7 @@
 
 - #### Panel 5
 
-  **Oath**: Sworn in #31. Spilling family blood will bring down the wrath of the Kindly Ones, a punishing aspect of the Triple Goddess. See Aeschylus' trilogy of plays, the _Orestia_ (_Agamemnon_, _Orestes_, _Eumenides_) for details.
+  **Oath**: Sworn in [#31](sandman.31.md). Spilling family blood will bring down the wrath of the Kindly Ones, a punishing aspect of the Triple Goddess. See Aeschylus' trilogy of plays, the _Orestia_ (_Agamemnon_, _Orestes_, _Eumenides_) for details.
 
 - #### Panel 6
 
@@ -76,7 +76,7 @@
 
 ### 5: _The Gates of Horn_
 
-**Note**: The gates' purpose is as given in classical mythology. See the annotation to #2 for citations from Homer and Virgil.
+**Note**: The gates' purpose is as given in classical mythology. See the annotation to [#2](sandman.02.md) for citations from Homer and Virgil.
 
 ### Page 11
 
@@ -112,7 +112,7 @@
   - **The Land**: Despite the generic name, probably from Stephen Donaldson's two fantasy trilogies.
   - **Flora of Neverland**: From J.M. Barrie's Peter Pan stories.
   - **The Night Land**: From fantasy works by William Hope Hodgson (1875-1918), including an eponymous novel.
-  - **One Night in Baghdad**: See #50; probably from 1,001 Arabian Nights.
+  - **One Night in Baghdad**: See [#50](sandman.50.md); probably from 1,001 Arabian Nights.
 
     The title may be a pun on Murray Head's song "One Night in Bangkok" from the musical _Chess_.
 
@@ -165,7 +165,7 @@ This is remembrance, not Dream conversing with Orpheus as he passes through the 
 
 - #### Panel 2
 
-  **Chloe Russell**: See 43:22. Chloe's pet is probably the cat Basht euthanized in 46:15. It has also been speculated that one or the other of Chloe's cats is the young cat of #18.
+  **Chloe Russell**: See 43:22. Chloe's pet is probably the cat Basht euthanized in 46:15. It has also been speculated that one or the other of Chloe's cats is the young cat of [#18](sandman.18.md).
 
 - #### Panel 3
 

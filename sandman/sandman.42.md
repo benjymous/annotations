@@ -4,7 +4,7 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
-**Notes**: See #41.
+**Notes**: See [#41](sandman.41.md).
 
 ### 1: _It Always Rains on the Unloved From "Peanuts", the comic strip written by Charles Schulz, as said by Charlie Brown, a karmically oppressed child._
 
@@ -30,7 +30,7 @@
 
 - #### Panel 2
 
-  Mervyn has been seen in #5, as a bus driver, and in _Season of Mists_. He is probably derived from Jack Pumpkinhead, a character in L. Frank Baum's Oz books. His name is probably a reference to Mervyn Peake, a British author/illustrator, known for the "Titus" books: _Titus Groan_, _Gormenghast_, and _Titus Alone_. These books are gothic fantasies, set in a large castle.
+  Mervyn has been seen in [#5](sandman.05.md), as a bus driver, and in _Season of Mists_. He is probably derived from Jack Pumpkinhead, a character in L. Frank Baum's Oz books. His name is probably a reference to Mervyn Peake, a British author/illustrator, known for the "Titus" books: _Titus Groan_, _Gormenghast_, and _Titus Alone_. These books are gothic fantasies, set in a large castle.
 
 - #### Panel 3
 

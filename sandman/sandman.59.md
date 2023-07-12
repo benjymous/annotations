@@ -12,7 +12,7 @@
 
 - #### Panel 2
 
-  The return of Loki, last seen at the end of "The Season of Mists" (issue #28), and of Robin Goodfellow, aka Puck, last seen in "A Midsummer Night's Dream" (issue #19).
+  The return of Loki, last seen at the end of "The Season of Mists" ([issue #28](sandman.28.md)), and of Robin Goodfellow, aka Puck, last seen in "A Midsummer Night's Dream" ([issue #19](sandman.19.md)).
 
 - #### Panel 3
 

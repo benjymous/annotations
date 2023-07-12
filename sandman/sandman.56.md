@@ -8,7 +8,7 @@ Tony Harris, Steve Leialoha
 
 Sixth and last story in anthology "Worlds' End"
 
-**Cover**: Note that the sign is a mirror-reversed negative image of the sign from the cover of issue #51.
+**Cover**: Note that the sign is a mirror-reversed negative image of the sign from the cover of [issue #51](sandman.51.md).
 
 ### Page 3
 
@@ -72,7 +72,8 @@ Finally, Delirium and Death. In the introduction to the "Death Gallery", Gaiman 
   The crystal was given to Nuala in issue 42, page 4, panel 5.
 
 ### Page 24
-  The lady behind the bar seems to be wearing a similar pendant to Nuala's (in Brief Lives [Sandman #42](sandman.42.md) - also seen in The Kindly Ones [Sandman #58](sandman.58.md))
+
+The lady behind the bar seems to be wearing a similar pendant to Nuala's (in Brief Lives [Sandman #42](sandman.42.md) - also seen in The Kindly Ones [Sandman #58](sandman.58.md))
 
 ## Credits
 

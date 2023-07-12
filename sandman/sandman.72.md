@@ -62,7 +62,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 - #### Panel 4
 
-  Sitting at the left is Darkseid, a major villain of the mainstream DC Universe. At far right is the Emperor Norton, last seen in issue #31. At the time this issue came out, both of these entities were dead, although Norton rather more permanently so.
+  Sitting at the left is Darkseid, a major villain of the mainstream DC Universe. At far right is the Emperor Norton, last seen in [issue #31](sandman.31.md). At the time this issue came out, both of these entities were dead, although Norton rather more permanently so.
 
 ### Page 9
 

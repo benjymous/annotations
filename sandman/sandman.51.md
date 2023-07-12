@@ -56,6 +56,10 @@ First story in anthology, "Worlds' End"
 
   The man with the beer stein at left foreground is wearing a distinctive hat, the same worn by noted fantasy writer (and friend of Gaiman's) Steven Brust. Neil Gaiman confirms that it's meant as a cameo.
 
+  {% alert type="flexbox", style="flex-2" %}
+  ![Steven Brust's cameo in #51](images/StevenBrustCameo.jpg) ![Steven Brust](images/StevenBrust.jpg)
+  {% endalert %}
+
 - #### Panel 6
 
   There was a knight of the Round Table named Gaheris, brother to Gawaine.
@@ -105,7 +109,7 @@ First story in anthology, "Worlds' End"
   C.f. page 11 panel 3, and page 21 panel 3. All three of them have blue eyes.
 
 ### Page 18
-#### Panel 1
+- #### Panel 1
 
   At this point in the story, I was getting the eerie feeling that the city would actually turn out to be a small part of a person's face. Here, the bridge reminded me of the middle section of the man's glasses. Maybe it's just me, though...
 
@@ -145,3 +149,4 @@ Another inn, in which other tales are told; Gaheris' story turns out to be a sto
 - Lance "Squiddie" Smith (lsmith@cs.umn.edu) noted the Buddy Holly connection, and corrected "Worlds'" vs. "World's". He also explicated the term "free house" and noted Steven Brust's appearance.
 - Timothy Hock Seng Tan for numerous corrections and other stuff.
 - Ralf Hildebrandt added more details.
+- Richard Munn added the Steven Brust reference image

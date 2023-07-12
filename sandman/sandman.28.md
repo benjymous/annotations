@@ -78,7 +78,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 - #### Panel 3
 
-  **Oubliette**: "Forgotten-small", from French, meaning a hidden prison such as found in certain old castles, accessible only from above. Note that this contradicts the image of Nada's cell as seen in both [Sandman #4](sandman.04.md) and #23.
+  **Oubliette**: "Forgotten-small", from French, meaning a hidden prison such as found in certain old castles, accessible only from above. Note that this contradicts the image of Nada's cell as seen in both [Sandman #4](sandman.04.md) and [#23](sandman.24.md).
 
 ### Page 7
 

@@ -16,7 +16,9 @@
 
   "dependencies": {
 
-    "@dogatana/honkit-plugin-page-toc-button": "^1.0.0"
+    "@dogatana/honkit-plugin-page-toc-button": "^1.0.0",
+
+    "honkit-plugin-alert-msg": "^0.0.2"
 
   }
 

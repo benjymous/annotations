@@ -6,7 +6,7 @@ Third story in anthology, "Worlds' End"
 
 ##### Neil Gaiman, Michael Zulli, Dick Giordano, Bryan Talbot, Mark Buckingham
 
-**Cover**: Note the photograph in the lower left, which was used in the cover to issue #51. The covers to "Worlds' End" are nested and inter- relate, just as the stories do.
+**Cover**: Note the photograph in the lower left, which was used in the cover to [issue #51](sandman.51.md). The covers to "Worlds' End" are nested and inter- relate, just as the stories do.
 
 ### Page 1
 

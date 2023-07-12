@@ -4,7 +4,7 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
-**Notes**: See #41. This issue is structurally similar to #42.
+**Notes**: See [#41](sandman.41.md). This issue is structurally similar to [#42](sandman.42.md).
 
 **Insert**: This issue contains a special insert, "Death Talks about Life", by Gaiman, art by Dave McKean. I have no particular notes, save that the information presented is accurate within the limitations of the medium. And it can save your life.
 
@@ -104,7 +104,7 @@ Compare with Section 3.
 
 - #### Panel 5-6
 
-The cat being euthanized is probably Chloe Russell's cat (#43, #49).
+The cat being euthanized is probably Chloe Russell's cat ([#43](sandman.43.md), [#49](sandman.49.md)).
 
 ### 6: _Mervyn Sets Him Straight_
 
@@ -119,9 +119,9 @@ The cat being euthanized is probably Chloe Russell's cat (#43, #49).
   More books from Lucien's library:
 
 - _The Death of Kai Lung_ by Ernest Bramah: See the Appendix.
-- _Chanticleer's Dance_ by Hope Mirrlees: Mirrlees is a favorite author of Gaiman. See annotation #22 for more details.
+- _Chanticleer's Dance_ by Hope Mirrlees: Mirrlees is a favorite author of Gaiman. See annotation [#22](sandman.22.md) for more details.
 - _The Last Voyage of Lemuel Gulliver_ by [Jonathan] Swift: Swift, a late-17th, early-18th century, Irish satirist, is perhaps best-remembered for his _Gulliver's Travels_, a work about a shipwrecked doctor whose encounters with various unusual societies effectively satirized Swift's own society.
-- _The Emperor Over the Sea_ by C.S. Lewis: Lewis has been referenced before (notably #36). He is an early fantasist and Christian writer, noted for his _Chronicles of Narnia_, of which this book is a continuance. The Emperor over the Sea is the one who sent Aslan to free Narnia, by allegory, therefore, the Christian God. King Caspian turns his ship back at the border of the Emperor's kingdom in _Voyage of the Dawn Treader_, the third book. The Emperor's story might very well be about life in the Narnian analog to the kingdom of heaven, since the final Narnia story, _The Last Battle_, chronicles the end of Narnia and the judgment and departure of its inhabitants.
+- _The Emperor Over the Sea_ by C.S. Lewis: Lewis has been referenced before (notably [#36](sandman.36.md)). He is an early fantasist and Christian writer, noted for his _Chronicles of Narnia_, of which this book is a continuance. The Emperor over the Sea is the one who sent Aslan to free Narnia, by allegory, therefore, the Christian God. King Caspian turns his ship back at the border of the Emperor's kingdom in _Voyage of the Dawn Treader_, the third book. The Emperor's story might very well be about life in the Narnian analog to the kingdom of heaven, since the final Narnia story, _The Last Battle_, chronicles the end of Narnia and the judgment and departure of its inhabitants.
 - _Ian and Ann's Book of Days_: No refs.
 - A partial title ending in "Phoenix", written by an author whose name ends in "bit": British children's author Edith Nesbit wrote _The Phoenix and the Carpet_, among others; this book may be _The Sand-Fairy and the Phoenix_, a second encounter between two of her fantastic beasts.
 
@@ -129,7 +129,7 @@ The cat being euthanized is probably Chloe Russell's cat (#43, #49).
 
 - #### Panel 3
 
-  Mervyn appeared in #5 driving a bus.
+  Mervyn appeared in [#5](sandman.05.md) driving a bus.
 
 ### Page 18
 
@@ -181,7 +181,7 @@ Del's eyes should be different colors on these pages. The grey tone of her ballo
 - Jacob Solomon Weinstein (jacobw@phoenix.Princeton.EDU) noted Carroll's _Sylvie and Bruno_.
 - Lance Smith (lsmith@myria.cs.umn.edu) and David Goldfarb (goldfarb@ocf.berkeley.edu) spotted Mervyn's earlier appearance (see also #42 for other eagle-eyed spotters).
 - Lance and Glenn Carnagey (lf7z@ellis.uchicago.edu) collaborated again on the Appendix.
-- Lance also noted the change in Faramon's name and identified a couple of books. David Goldfarb also did the latter.
+- Lance also noted the change in Faramond's name and identified a couple of books. David Goldfarb also did the latter.
 - "Buxom" Bill Sherman <sherman@math.ucla.edu>, Kenneth Jennings <kiii@u.washington.edu>, and Mike Collins (mcollins@nyx.cs.du.edu) noted the aphorism "tempus fugit". Kenneth and Mike also identified the Lewis book, as did Andrew David Weiland <aw1s+@andrew.cmu.edu>.
 - Abhijit Khale (Abhijit_Khale@transarc.com) confirmed the Kai Lung identification. Lance Smith provided most of the information in the Appendix.
 - Jonathan Coxhead (JCoxhead@acorn.co.uk) confirmed the Nesbit identification, as did Alexx Kay (Alexx@world.std.com) who also noted an example of nine-line poetry.

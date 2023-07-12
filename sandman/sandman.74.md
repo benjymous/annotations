@@ -4,7 +4,7 @@
 
 ##### Neil Gaiman, Jon J Muth
 
-This story is similar to #39, _Soft Places_.
+This story is similar to [#39](sandman.39.md), _Soft Places_.
 
 **Cover**: The cover seems to have a lot in common with the "Vertigo Tarot" images, in particular the Two of Cups. It's got the dark, almost earthen-looking frame, and the theme of reversibility. The final version of the Cup 2 has two nude torsos. This cover also has the fossil seashell image in it that shows up in the Tarot quite often. On the other hand, it's in warm colors where the Two of Cups is blue -- perhaps this reflects the desert that dominates the story inside.
 
@@ -47,7 +47,7 @@ The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's know
 - #### Panel 2
 
   Morpheus refers to 39:21.1 -- the story "Soft Places".
-  
+
   The young man was Marco Polo.
 
 ### Page 15
@@ -72,7 +72,7 @@ The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's know
 
 - #### Panels 1-4
 
-  These horsemen were also seen in #39. However, these men appear to be Roman soldiers, whereas the Soft Places horsemen where dressed as Mongols.
+  These horsemen were also seen in [#39](sandman.39.md). However, these men appear to be Roman soldiers, whereas the Soft Places horsemen where dressed as Mongols.
 
 ### Page 21
 
@@ -93,4 +93,4 @@ The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's know
 - Anthony Rickey (pemb0004@sable.ox.ac.uk) referenced the bridge of dreams.
 - Jerry Lee (wrenstar@leland.Stanford.EDU) commented on the Chinese on the cover.
 - Ian McDowell (ikmcdowe@hamlet.uncg.edu) reported on Gaiman and the kitten.
-- Ralf Hildebrandt added the observation on page 19, and the connection with #39
+- Ralf Hildebrandt added the observation on page 19, and the connection with [#39](sandman.39.md)

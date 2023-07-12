@@ -8,28 +8,37 @@ Referred to by Gaiman as the epilogue to _More than Rubies_
 Eighth story reprinted in _Preludes and Nocturnes_
 First story reprinted in _The Doll's House_
 
-**Note**: _The Doll's House_ and [Sandman #8](sandman.08.md) both contain an introduction written by Neil Gaiman explaining the story thus far. The introduction does not appear in _Preludes and Nocturnes_. [Sandman #8](sandman.08.md) also contains words of praise for _Sandman_ (and Neil Gaiman) from many writers and artists, both of comic books and mainstream fiction. The introduction is illustrated by original art by Mike Dringenberg in #8. The illustrations in _The Doll's House_ are different and more general. The notes below about the illustrations refer to the ones in #8.
+**Note**: _The Doll's House_ and [Sandman #8](sandman.08.md) both contain an introduction written by Neil Gaiman explaining the story thus far. The introduction does not appear in _Preludes and Nocturnes_. Sandman #8 also contains words of praise for _Sandman_ (and Neil Gaiman) from many writers and artists, both of comic books and mainstream fiction. The introduction is illustrated by original art by Mike Dringenberg in #8. The illustrations in _The Doll's House_ are different and more general. The notes below about the illustrations refer to the ones in #8.
 
 ### Intro, page 1
 
 - upper right:
+
   The Tarot traditionally has 22 Major Arcana, numbered 0 to 21. The Sandman card is done in the style of one of the Major Arcana, but its number 34 suggests that a larger set of Major Arcana exists than is familiar to our world. This ties in with a remark in _The Doll's House_.
 - Lower right:
+
   The talisman has many features in common with traditional protective circles. The five pointed star inscribed in a circle is typically a pentacle or pentagram. The lettering around the rim is also traditional; this lettering looks to be runic in nature, which strikes me as somewhat odd. Note that all three tools of Dream have representations on the talisman.
 - Paragraph 4:
+
   The figure is Destiny.
 - Paragraph 10:
+
   Neil Gaiman says that the name of Roderick Burgess's house, Fawney Rig, is significant, being "named by Lady Johanna after the manner in which she acquired it." Fawney Rig is a con in which a gilded brass ring is sold for less than it is supposedly worth (if it were gold), but much more than what it is actually worth. The ring would be dropped and picked up before the mark, so it was also referred to as fawney-bouncing. Lady Johanna's con was presumably done on a larger, more complex scale. Lady Johanna Constantine is an ancestor of John Constantine, whom we met in [Sandman #3](sandman.03.md). We will meet Lady Johanna in later issues.
+
   The [Grim] Reaper is a traditional appellation for Death, in this form usually represented as a skeletal figure in a dark robe, wielding a scythe.
+
 - Paragraph 13:
+
   We will assume that the reader recognizes and recalls events from earlier issues.
+
 - Paragraph 14:
+
   This, however, is new information. My interpretation is that Dream was engaged in some form of conflict with forces unknown when Burgess cast his spell. The weakened Dream was unable to resist the call. Another hint at this prequel is given in [Sandman #47](sandman.47.md). Note that Dream is carrying all his tools at the time of his capture. Neil has said that he is interested in writing a miniseries about these events after the main series is concluded, which indeed happened 17 years after the end of The Sandman with the release of Overture in 2013.
 
 ## Intro page 2
 
 - Paragraph 4:
-  The information that the Order was embroiled in a scandal when Sykes and Cripps was also mentioned in Sandman #1,page 14, panel 3 which brings the newspaper com Roderick Burgess and Ethel Cripps and describes scandal, which involves the suicide of the museum administrator, which we see in Sandman#1.
+  The information that the Order was embroiled in a scandal when Sykes and Cripps was also mentioned in [Sandman #1](sandman.01.md), page 14, panel 3 which brings the newspaper com Roderick Burgess and Ethel Cripps and describes scandal, which involves the suicide of the museum administrator, which we see in Sandman #1.
 
 ### Page 1
 
@@ -114,7 +123,7 @@ First story reprinted in _The Doll's House_
 
 - #### Panel 5
 
-  Dream is at least two hundred years old. We know from his interaction with J'onn J'onzz in #5 that he is at least as old as Martian civilization, which is implied, I believe, to have ended thousands of years ago.
+  Dream is at least two hundred years old. We know from his interaction with J'onn J'onzz in [#5](sandman.05.md) that he is at least as old as Martian civilization, which is implied, I believe, to have ended thousands of years ago.
 
 ### Page 13
 

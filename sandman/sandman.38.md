@@ -159,7 +159,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 - #### Panel 6
 
-  This is the traditional tale of Koshchei.
+  This is the traditional tale of Koschei.
 
 ### Page 11
 
@@ -290,7 +290,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
-- Lance Smith (lsmith@cs.umn.edu) reported a vast database on Koshchei's significance, noted some traditions about crossroads, imagined shapes in a little girl's eye, agreed with me about ravens, noted changelings, cited nightgaunts, and wondered about Lucien's optometrist.
+- Lance Smith (lsmith@cs.umn.edu) reported a vast database on Koschei's significance, noted some traditions about crossroads, imagined shapes in a little girl's eye, agreed with me about ravens, noted changelings, cited nightgaunts, and wondered about Lucien's optometrist.
 - The Theme Team consulted on the literary deconstruction of*Convergences*, and consisted of:
   - David Pautler (pautler@ils.nwu.edu)
   - Lance Smith (lsmith@cs.umn.edu)

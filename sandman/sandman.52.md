@@ -58,7 +58,7 @@ Second story in the anthology "Worlds' End"
 
 - #### Panel 1
 
-  Nuala was given to Dream as a gift in that same issue #26.
+  Nuala was given to Dream as a gift in that same [issue #26](sandman.26.md).
 
 - #### Panel 3
 

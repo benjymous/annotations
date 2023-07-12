@@ -58,7 +58,7 @@ These people are walk-ons.
 
 - #### Panel 2
 
-  There is a picture in the background, probably of Ethel Dee, John Dee's mother. The photo is the same which appears in the Sandman #1, p.15, panel 3 and 4, in hands of Ruthven Sykes, and then in the Kindly Ones #6, p.22, panel 5, and p.23 panel 6, in Alec's Burgesses' bedroom on his bed table, which could suggest that she was Alec's mother, and John Dee and Alec would be half-brothers. The inscription on it is "To Roddy (Roderick Burgess) your slave in love Ethel 1927".
+  There is a picture in the background, probably of Ethel Dee, John Dee's mother. The photo is the same which appears in the [Sandman #1](sandman.01.md), p.15, panel 3 and 4, in hands of Ruthven Sykes, and then in the [Kindly Ones #6](sandman.62.md), p.22, panel 5, and p.23 panel 6, in Alec's Burgesses' bedroom on his bed table, which could suggest that she was Alec's mother, and John Dee and Alec would be half-brothers. The inscription on it is "To Roddy (Roderick Burgess) your slave in love Ethel 1927".
 
 - #### Panel 4
 
@@ -85,13 +85,13 @@ These people are walk-ons.
 
 - #### Panel 1
 
-  In the early part of this century, the sham magician Aleister Crowley revived the earlier alternate spelling "magick" to lend an air of mystery to his flummery. Crowley is roughly equivalent to Roderick Burgess, of issue #1.
+  In the early part of this century, the sham magician Aleister Crowley revived the earlier alternate spelling "magick" to lend an air of mystery to his flummery. Crowley is roughly equivalent to Roderick Burgess, of [issue #1](sandman.01.md).
 
 ### Page 22
 
 - #### Panel 2
 
-  This is the Scarecrow, Jonathan Crane, who was explained in #5. They are in an asylum for the criminally insane, Arkham Asylum, which also was explained earlier in this series.
+  This is the Scarecrow, Jonathan Crane, who was explained in [#5](sandman.05.md). They are in an asylum for the criminally insane, Arkham Asylum, which also was explained earlier in this series.
 
 - #### Panel 7
 

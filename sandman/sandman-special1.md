@@ -7,7 +7,7 @@
 Not part of any anthology or storyline
 Not reprinted in any other form
 
-**Note**: This issue was published between _Sandman_ ##31 and 32; it is unassociated with either the _Distant Mirrors_ anthology or the _A Game of You_ storyline.
+**Note**: This issue was published between [_Sandman_ #31](sandman.31.md) and [32](sandman.32.md); it is unassociated with either the _Distant Mirrors_ anthology or the _A Game of You_ storyline.
 
 This issue was published with a glow-in-the-dark cover. The non-glowing portion of the cover was done by Dave McKean, the usual cover artist, and is repeated, left-right reversed, in grey, on the first page of the issue. The glow-in-the-dark overlay shows the outline of a face, presumably Dream's, and the words "in dreams i walk with u". The lettering is undoubtedly McKean's, making it probable that the face is his work as well, although it is in some ways reminiscent of Talbot's work.
 

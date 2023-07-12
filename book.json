@@ -3,5 +3,24 @@
 
   "root": "sandman",
 
-	"plugins" : [ "@dogatana/page-toc-button" ]
+	"plugins" : [
+    "@dogatana/page-toc-button",
+    "alert-msg"
+   ],
+
+   "pluginsConfig": {
+      "alert-msg": {
+        "flexbox": {
+          "className": "flexbox",
+          "icon": null,
+          "label": ""
+        },
+        "floatright": {
+          "className": "floatright",
+          "icon": null,
+          "label": ""
+        }
+      }
+   }
+
 }

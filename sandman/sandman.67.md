@@ -46,7 +46,7 @@
 
 - #### Panel 7
 
-  Dream's statement here is rather curious; on the one occasion that he spoke with Ishtar (issue #45 -- "Brief Lives" part 5) the subject of change did not arise. He told Destruction that he had not changed, and a little bit later, Orpheus.
+  Dream's statement here is rather curious; on the one occasion that he spoke with Ishtar ([issue #45](sandman.45.md) -- "Brief Lives" part 5) the subject of change did not arise. He told Destruction that he had not changed, and a little bit later, Orpheus.
 
 ### Page 9
 
@@ -76,7 +76,7 @@
 
 - #### Panel 6
 
-  It's the return of Barnabas, last seen in issue #49. Note also the "57 Flavors" that Lyta, Carla, and Daniel went to at the start of the story.
+  It's the return of Barnabas, last seen in [issue #49](sandman.49.md). Note also the "57 Flavors" that Lyta, Carla, and Daniel went to at the start of the story.
 
 ### Page 13
 
@@ -88,7 +88,7 @@
 
 - #### Panel 2
 
-  This may well be the same train that took Robert from his city into his city's dream, in the story told in issue #51. If nothing else, it is certainly an echo thereof.
+  This may well be the same train that took Robert from his city into his city's dream, in the story told in [issue #51](sandman.51.md). If nothing else, it is certainly an echo thereof.
 
 ### Page 18
 
@@ -108,7 +108,7 @@
 
 ### Page 23
 
-Panels 1-3 echo in layout, form, and action, page 23 of issue #11 (part 2 of "The Doll's House").
+Panels 1-3 echo in layout, form, and action, page 23 of [issue #11](sandman.11.md) (part 2 of "The Doll's House").
 
 ### Page 24
 
@@ -116,7 +116,7 @@ This page similarly echoes 11:24.
 
 - #### Panel 2
 
-  As we know from the annotations to issue #17, "Eagle Stones" were found in eagle's nests and were required for the hatching of their eggs. The main character in that story, Ric Madoc, wrote a novel with that title.
+  As we know from the annotations to [issue #17](sandman.17.md), "Eagle Stones" were found in eagle's nests and were required for the hatching of their eggs. The main character in that story, Ric Madoc, wrote a novel with that title.
 
 ## Credits
 

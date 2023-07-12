@@ -12,25 +12,25 @@
 
   Note the black gutters; the page borders seem to switch between black and white somewhat at random. The borders in the main story are significant, but they don't seem to be here.
 
-  This whole opening sequence, with Rose waking up uncomfortably on a plane to England and being met by a lawyer holding a sign, echoes Rose's first appearance in issue #10.
+  This whole opening sequence, with Rose waking up uncomfortably on a plane to England and being met by a lawyer holding a sign, echoes Rose's first appearance in [issue #10](sandman.10.md).
 
 ### Page 2
 
 - #### Panel 4
 
-  "Austin" is a real British car maker; the car pictured appears to be a 1960s Austin Mini Cooper 998.
+  "Austin" was a real British car maker. The car pictured appears to be a 1960s Austin Mini Cooper 998.
 
   ![](images/MiniCooper.jpg)
 
 - #### Panel 5
 
-  One wonders where all the snow that we saw back in #59 went.
+  One wonders where all the snow that we saw back in [#59](sandman.59.md) went.
 
 ### Page 3
 
 - #### Panel 3
 
-  The 1989 film _Awakenings_, based on a book by neurologist Oliver Sacks. In the text page of issue #4, Gaiman mentions the book as one of his influences in creating the series.
+  The 1989 film _Awakenings_, based on a book by neurologist Oliver Sacks. In the text page of issue [#4](sandman.04.md), Gaiman mentions the book as one of his influences in creating the series.
 
 - #### Panel 4
 
@@ -40,7 +40,7 @@
 
 - #### Panel 1
 
-  Paul McGuire was last seen all the way back in issue #1.
+  Paul McGuire was last seen all the way back in issue [#1](sandman.01.md).
 
 - #### Panel 4
 
@@ -148,7 +148,7 @@ When Rose encounters the Hecateae we also see an owl and a pussycat; the owl her
 
 - #### Panel 5
 
-  Alex Burgess, too, was last seen at the end of issue #1.
+  Alex Burgess, too, was last seen at the end of issue [#1](sandman.01.md).
 
   Note the Piglet doll in bed with him. The picture by the bed is of Ethel Cripps, the mistress of Alex's father Roderick. The picture's been seen in 1:15:4 and 7:9:4. Of the books in the bookcase, "Good Omens" is of course the collaboration between Neil Gaiman and Terry Pratchett; "The Doll's House" is by Ibsen and echoes Rose's previous story; "To Kill" is probably "To Kill a Mockingbird", by Harper Lee; no refs on "Fish Paste" or "Timularo".
 
@@ -156,7 +156,7 @@ When Rose encounters the Hecateae we also see an owl and a pussycat; the owl her
 
 - #### Panel 3
 
-  Those who've read issue #1 know for certain that they are not.
+  Those who've read issue [#1](sandman.01.md) know for certain that they are not.
 
 ## Credits
 

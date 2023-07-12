@@ -34,7 +34,7 @@ The first panel of each installment of "The Kindly Ones" until the tenth has som
 
 - #### Panel 5
 
-  Possibly an echo of the frogs Delirium makes in "Brief Lives" #3 -- 43:10.5.
+  Possibly an echo of the frogs Delirium makes in ["Brief Lives" #3](sandman.43.md) -- 43:10.5.
 
 - #### Panel 6
 

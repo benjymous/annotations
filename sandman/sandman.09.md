@@ -37,7 +37,7 @@ Now, sure, "Tales in the Sand" was written about four years before Loki is intro
 
 - #### Panel 1
 
-  We saw Nada in Hell in issue #4. We will see her again in later issues.
+  We saw Nada in Hell in [issue #4](sandman.04.md). We will see her again in later issues.
 
 ### Page 8
 
@@ -55,7 +55,7 @@ This has the flavor of one of Kipling's Just-So stories.
 
 - #### Panel 3
 
-  These are Cain and Abel (see #2 of this series); the dispute is approximately the same as is given in Genesis.
+  These are Cain and Abel (see [#2](sandman.02.md) of this series); the dispute is approximately the same as is given in Genesis.
 
 - #### Panel 5
 

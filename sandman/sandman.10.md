@@ -113,7 +113,7 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
   Although 1896 is too early for the Corinthian to be out of dreams on his own, we know that he's always been a 'naughty' character. I think Gaiman plucked him out of this novel for use in Sandman. (this was contributed by Simon Cheesman)
 
-  The Corinithian could not have been taken from The Alienist, because Sandman#10 came out at least three years before the Alienist was written! The Alienist wasn't written until 1994 as you note: Sandman#10 came out in 1990/1991! <Kull29@aol.com>
+  The Corinithian could not have been taken from The Alienist, because [Sandman #10](sandman.10.md) came out at least three years before the Alienist was written! The Alienist wasn't written until 1994 as you note: Sandman #10 came out in 1990/1991! <Kull29@aol.com>
 
   According to the online _Oxford English Dictionary_ 2d. ed., Fiddler's Green is "a sailor's elysium, in which wine, women, and song figure prominently." Citations date back to 1825. In one citation, tailors and musicians are cantoned (or quartered) in Fiddler's Green. Also according to the online OED, Corinthian relates to the Greek city of Corinth. It is also one of the three Grecian orders of columns, a type of brass or bronze, whence also a meaning equivalent to "brassy" or "brazen," as effrontery, an excessively elegant literary style, an amateur yachtsman, and a variety of bagatelle. Further, and probably the meaning most apt here, it refers to a wealthy or fashionable man, or one who is profligate, idle, or licentious.
 
@@ -125,7 +125,7 @@ Annulet is defined on the next page. Rose is the dream vortex. The inference fro
 
 - #### Panel 1
 
-  Unity Kinkaid was first seen in issue #1 as one of the victims of "Sleepy Sickness". Unity looked like China doll, in the "Doll's house", with the doll's house in her room, doll of destiny which made her sleep during almost 70 years, have a child, not knowing a father, being a tool in Desire's games (note that Desire is just playing, just like Corinthian on p. 24), at present in nursing home, which other of doll's houses (side by side with dreaming, Desire's palace, and Abel's house present just in this issue of the story).
+  Unity Kinkaid was first seen in [issue #1](sandman.01.md) as one of the victims of "Sleepy Sickness". Unity looked like China doll, in the "Doll's house", with the doll's house in her room, doll of destiny which made her sleep during almost 70 years, have a child, not knowing a father, being a tool in Desire's games (note that Desire is just playing, just like Corinthian on p. 24), at present in nursing home, which other of doll's houses (side by side with dreaming, Desire's palace, and Abel's house present just in this issue of the story).
 
 - #### Panel 4
 

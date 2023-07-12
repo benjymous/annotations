@@ -4,7 +4,7 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
-**Notes**: See #41. It's hard to break this one down into sections, but I think it goes: 1: 1-6; 2: 7; 3: 8-10; 4: 11; 5: 12-13; 6: 14-15; 7: 16; 8: 17-24. Trouble spots are the break between 3: and 4: and 7: and 8: and a number of breaks seem to fall in the middle of pages, which is inconsistent with what we've seen before.
+**Notes**: See [#41](sandman.41.md). It's hard to break this one down into sections, but I think it goes: 1: 1-6; 2: 7; 3: 8-10; 4: 11; 5: 12-13; 6: 14-15; 7: 16; 8: 17-24. Trouble spots are the break between 3: and 4: and 7: and 8: and a number of breaks seem to fall in the middle of pages, which is inconsistent with what we've seen before.
 
 ### 1: _Journey's End_
 
@@ -95,7 +95,7 @@ Del is retelling the story; her physical changes reflect her state at each point
 
 - #### Panel 4
 
-  Del's lucidity occurred in #47 in a section called "The Other Side of the Coin". Desire swears by the "Other Side of the Sky" in #41, and "The Other Side of the Sky" was a section in #44.
+  Del's lucidity occurred in [#47](sandman.47.md) in a section called "The Other Side of the Coin". Desire swears by the "Other Side of the Sky" in [#41](sandman.41.md), and "The Other Side of the Sky" was a section in [#44](sandman.44.md).
 
 - #### Panel 5
 
@@ -104,7 +104,7 @@ Del is retelling the story; her physical changes reflect her state at each point
 ### 5: _The Illusion of Permanence_
 
 Page 12-13 (A double page spread): Hmm. Gaiman is speaking in "thematic voice" again.
-Compare Destruction's perception of time passing quickly with Dream's complaint in #1 that time passed as slowly for him in his seventy-year imprisonment as it did for everyone else.
+Compare Destruction's perception of time passing quickly with Dream's complaint in [#1](sandman.01.md) that time passed as slowly for him in his seventy-year imprisonment as it did for everyone else.
 
 ### 6: _A Wreath of Bright Stars_
 
@@ -177,13 +177,15 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 
   We may also note the classic exchange between parent and child:
 
-  > Parent: "Where did you go?"
-  > Child: "Out."
-  > Parent: "What did you do?"
+  > Parent: "Where did you go?"<br>
+  > Child: "Out."<br>
+  > Parent: "What did you do?"<br>
   > Child: "Nothing."
 
-  Barbie recalls saying this herself in #37.
+  Barbie recalls saying this herself in [#37](sandman.37.md).
+
   Robert P. Smith wrote a book of exactly this title.
+
   This is inverted in Alan Moore's Halo Jones series, which ends with
 
   "Where did she go? Out. What did she do? Everything!"

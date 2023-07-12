@@ -4,7 +4,7 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
-**Notes**: See #41.
+**Notes**: See [#41](sandman.41.md).
 
 **Cover**: Maps on the cover: The map to the right seems to be a map of China. It is several centuries old, since the typography uses the `long s' form of the letter. The map behind the _Sandman_ logo is unidentified.
 
@@ -19,7 +19,8 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
   Note the ecologically-correct webbed shopping bag.
 
 - #### Panel 4
-  As theorized in #48 page 16, the Endless embody both their name and their opposite. Hence, Destruction includes creation, which explains his sculpture, painting, and cooking.
+
+  As theorized in [#48](sandman.48.md) page 16, the Endless embody both their name and their opposite. Hence, Destruction includes creation, which explains his sculpture, painting, and cooking.
 
   Eleni Petrakou <tulpoeid@hotmail.com> tends to disagree:
 
@@ -35,7 +36,7 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 
 - #### Panel 6
 
-  Barnabas is a _real_ dog. Admittedly, he's a real _talking_ dog, but he's not a human in a dog's body the way Matthew is a human in a raven's body (the superficial characterization of #40 aside, Matthew still _acts_ human). Incidentally, chocolate is not particularly healthy for dogs; they have trouble digesting it and they, like the rest of the Carnivora, overreact to stimulants.
+  Barnabas is a _real_ dog. Admittedly, he's a real _talking_ dog, but he's not a human in a dog's body the way Matthew is a human in a raven's body (the superficial characterization of [#40](sandman.40.md) aside, Matthew still _acts_ human). Incidentally, chocolate is not particularly healthy for dogs; they have trouble digesting it and they, like the rest of the Carnivora, overreact to stimulants.
 
 ### 2: _"My Envelope Isn't Any Good Anymore"_
 
@@ -77,7 +78,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 - #### Panel 2-5
 
-  Note the white core to Del's balloons. In panel 4, Del's eyes should be the same color. (Del is repeating what she said in #21.)
+  Note the white core to Del's balloons. In panel 4, Del's eyes should be the same color. (Del is repeating what she said in [#21](sandman.21.md).)
 
 ### Page 12
 
@@ -97,11 +98,11 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 - #### Panel 1
 
-  This event (as yet undetailed) occurs just before #1 and is referred to in the "What Has Gone Before" introduction to _The Doll's House_.
+  This event (as yet undetailed) occurs just before [#1](sandman.01.md) and is referred to in the "What Has Gone Before" introduction to _The Doll's House_.
 
 - #### Panel 2
 
-  See Dream's description in #21, and the _Death: The High Cost of Living_ miniseries. According to Jill Thompson, the ox drover is no one particularly important, but was also mentioned in issue #2, page 17, panel 4.
+  See Dream's description in [#21](sandman.21.md), and the _Death: The High Cost of Living_ miniseries. According to Jill Thompson, the ox drover is no one particularly important, but was also mentioned in [issue #2](sandman.02.md), page 17, panel 4.
 
 - #### Panel 3
 
@@ -113,7 +114,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 - #### Panel 2
 
-  Dream's cloak pin is supposed to be colored silver. It is not Dream's ruby, which was destroyed in #7.
+  Dream's cloak pin is supposed to be colored silver. It is not Dream's ruby, which was destroyed in [#7](sandman.07.md).
 
 - #### Panel 3
 
@@ -133,13 +134,13 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 - #### Panel 5
 
-  See #41 for the source of the epitaph.
+  See [#41](sandman.41.md) for the source of the epitaph.
 
 ### Page 21
 
 - #### Panel 3
 
-  This island, Destruction's refuge, was seen in #41.
+  This island, Destruction's refuge, was seen in [#41](sandman.41.md).
 
 ### 7: _An Unlikely Growth_
 

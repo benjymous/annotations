@@ -125,7 +125,7 @@ Note the Japanese-style art. One would normally expect Susano-O-No-Mikoto, a boi
 
 - #### Panel 4
 
-  Dream's brother is the prodigal Endless, who has been mentioned before, although his identity will not be revealed until _Sandman_ Special #1. His location has not been revealed.
+  Dream's brother is the prodigal Endless, who has been mentioned before, although his identity will not be revealed until [_Sandman_ Special #1](sandman-special1.md). His location has not been revealed.
 
 ### Page 24
 

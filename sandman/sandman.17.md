@@ -13,7 +13,7 @@ First story reprinted in trade paperback _Dream Country_
 
 - #### Panel 1
 
-  This is the main character, Richard Madoc, who will appear again briefly in The Wake, issue #70, page 15, panels 6 & 7, and issue #72, page 25, panels 3 & 4. R.A.C.'s contact with Gaiman says that he's tried to write another story with Madoc, only to have the muse desert him.
+  This is the main character, Richard Madoc, who will appear again briefly in The Wake, [issue #70](sandman.70.md), page 15, panels 6 & 7, and [issue #72](sandman.72.md), page 25, panels 3 & 4. R.A.C.'s contact with Gaiman says that he's tried to write another story with Madoc, only to have the muse desert him.
 
 - #### Panel 2
 
