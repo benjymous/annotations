@@ -130,7 +130,7 @@ I cannot identify any of these pictures. I suspect that they include famous seri
 
 - #### Panel 5-6
 
-The name broken across two panels is "Hello Little Girl", the inference being that his obsession is young girls.
+  The name broken across two panels is "Hello Little Girl", the inference being that his obsession is young girls.
 
 ### Page 16
 
@@ -160,7 +160,9 @@ The name broken across two panels is "Hello Little Girl", the inference being th
 
   "Needs must, when the devil drives" is a quote. Rabelais may have it in this particular form. It appears slightly altered in Shakespeare, _All's Well That Ends Well_, Act I, Scene 3, Lines 27-30:
 
-  > COUNTESS Tell me thy reason why thou wilt marry. LAVATCH My poor body, madam, requires it. I am driven on by the flesh, and he must needs go that the devil drives.
+  > **COUNTESS** Tell me thy reason why thou wilt marry.
+  >
+  > **LAVATCH** My poor body, madam, requires it. I am driven on by the flesh, and he must needs go that the devil drives.
 
   It has often appeared in comics, notably in one of _Swamp Thing_ ##25-27, when Etrigan appeared.
 
@@ -176,7 +178,7 @@ The name broken across two panels is "Hello Little Girl", the inference being th
 
 - #### Panel 2-5
 
-The inference is that this is Disney World, or some similar theme park. Conspiracy nuts love the idea that Disney hushes up murder at its parks.
+  The inference is that this is Disney World, or some similar theme park. Conspiracy nuts love the idea that Disney hushes up murder at its parks.
 
 ### Page 22
 

@@ -179,6 +179,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
   George should be enjoined from speaking except with Thessaly's permission; see page 16 panel 1. This is hand waved away in the next issue.
 
+
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
@@ -193,3 +194,10 @@ In medieval times, demons were believed to flay their victims and wear their ski
 - Jerry Stratton (jerry@teetot.acusd.edu) quoted Manfred Lurker's _Dictionary of Gods and Goddesses, Devils and Demons_.
 - William Sherman <sherman@math.ucla.edu> referenced Goody Two-Shoes.
 - Ralf Hildebrandt added a note about the chant on p18
+- Richard Munn added the note from the letters page that's listed below in the Appendix.
+
+### Appendix:  From the #34 letters page
+
+  > As for SANDMAN readers being more than passive scholars, I would like to mention here that someone a few letter columns ago caught a nuance that went completely over my head. "Death" is not called "Death" by her siblings for a very real reason, according to Neil.
+
+  This is a very good point - by what name *do* they call her?

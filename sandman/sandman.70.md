@@ -42,6 +42,10 @@
 
 ### Page 7
 
+- #### Panel 2
+
+  Of course, the others have to explain to Despair what must be done, as she is the only one who hasn't done this before.
+
 - #### Panel 6
 
   Naturally, it is Desire who creates the _heart_...
@@ -76,7 +80,7 @@
 
 - #### Panel 1
 
-  The same question was asked of Mistress Veltis when she entered the same room, in "Cerements". [Insert exact reference here.] Also, the room was described as having "six silver cerements" hanging from the walls.
+  The same question was asked of Mistress Veltis when she entered the same room, in "[Cerements](sandman.55.md)". Also, the room was described as having "six silver cerements" hanging from the walls.
 
   Coupled with Eblis' answer to the voice, this leads me to believe that each cerement is meant for one of the seven Endless.
 
@@ -92,25 +96,33 @@
 
 - #### Panel 4
 
-  The image at top right is Edvard Munch's well-known "The Scream"; the one in the middle is William Blake's "Ancient of Days".
+  The image at top right is Edvard Munch's well-known "The Scream"; the one in the middle is William Blake's "Ancient of Days".  The leftmost picture must have relevance too, if that can be identified.
+
+  {% alert type="flexbox", style="flex-2" %}
+  ![ William Blake's "Ancient of Days"](images/AncientOfDays.jpg) ![Edvard Munch's "The Scream"](images/TheScream.jpg)
+  {% endalert %}
 
 ### Page 11
 
+- #### Panel 2
+
+  The contracts were amended, presumably when Dream borrowed them in [Perfect Hosts](sandman.02.md)
+
 - #### Panel 3
 
-  Note that the pictures have changed; they now seem to depict Egyptian funeral customs. Which ties in with the Egyptian sphinxes on either side of Dream's throne.
+  Note that the pictures have changed, or we're seeing different pictures on an adjacent wall; these seem to depict Egyptian funeral customs. Which ties in with the Egyptian sphinxes on either side of Dream's throne.
 
 ### Page 12
 
 - #### Panel 7
 
-  In A Season of Mists, Dream was described as (paraphrasing) "collecting names to himself, as one would friends." [Insert exact reference here] Here, however, the new Dream refuses to be called "Morpheus". Yet another difference between the old and new Dreams.
+  In the [Season of Mists Epilogue](sandman.21.md) page 11, Dream was described as "accumulating names to himself, like others make friends." Here, however, the new Dream refuses to be called "Morpheus". Yet another difference between the old and new Dreams.
 
 ### Page 13
 
 Note that there is no page number.
 
-Note how Eve gets progressively younger. We've also seen this happen in (I think) A Parliament of Rooks. [Insert exact reference.]
+Note how Eve gets progressively younger. We've seen this happen before in [Season of Mists #3](sandman.24.md) page 18 and [The Kindly Ones #1](sandman.57.md) page 16.
 
 - #### Panel 1
 
@@ -144,19 +156,19 @@ Thomas Wilde @ tvs_wanderer@yahoo.com:
 
 - #### Panel 6
 
-  The man with the wing appears to be the same one that appeared in the Kindly Ones, whom Dream talked to. [Insert exact reference here]
+  The man with the swan wing appears to be the same one that appeared in the Kindly Ones, whom Dream talked to. (see [#64](sandman.64.md) page 5)
 
 ### Page 18
 
 - #### Panel 3
 
-  The ring was given to Alex by Rose Walker in The Kindly Ones. [Insert exact reference here]
+  The ring was given to Alex by Rose Walker in [The Kindly Ones #6](sandman.62.md).
 
 ### Page 18
 
 - #### Panel 5
 
-  Audrey was Hob Gadling's last wife/SO. Hob visits her grave in The Kindly Ones. [Insert exact reference here]
+  Audrey was Hob Gadling's last wife/SO. Hob visits her grave in [The Kindly Ones #3](sandman.59.md).
 
 ### Page 20
 
@@ -192,3 +204,4 @@ Thomas Wilde @ tvs_wanderer@yahoo.com:
 - Amy Borden (borden@alexia.lis.uiuc.edu) identified Death's messenger.
 - Timothy Hock Seng Tan <083285@bud.cc.swin.edu.au>
 - Ralf Hildebrandt added more details.
+- Richard Munn added details too.

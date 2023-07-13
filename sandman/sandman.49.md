@@ -116,7 +116,7 @@
 
     The title may be a pun on Murray Head's song "One Night in Bangkok" from the musical _Chess_.
 
-  - **Noumaria on 7 Livres a Da**y: No refs. A "livre" is a pre-19th century French monetary unit. The title is taken from the original cheap traveling guidebook _Europe on Five Dollars a Day_.
+  - **Noumaria on 7 Livres a Day**: No refs. A "livre" is a pre-19th century French monetary unit. The title is taken from the original cheap traveling guidebook _Europe on Five Dollars a Day_.
   - **Hy-Brasil by Night**: Hy-Brasil (or Hy-Breasil) is the Summer Country from Celtic myth or an island in the Atlantic whose inhabitants were said to be so morally pure that the island cut its gross earthly connections and could only be seen by those free of worldly desires. Brazil gets its name from this legend. Hy-Brasil is used by James Branch Cabell and in the movie _Erik the Viking_, and is also referenced in the Peter S Beagle novel _The Folk of the Air_ and the R A Lafferty novel _The Fire is Green_.
   - **Los Angeles Underground Railway Map 1932**: No strong refs. LA is building a light rail system (which will include underground sections), and at one time had an extensive trolley network. In 1932, the Summer Olympics were held in Los Angeles, which would presumably have prompted an increase in tourism and a corresponding increase in guidebooks.
   - **[From]mer's [Guide to H]ell**: A popular travel guide produces an edition for Milton and Dante.

@@ -184,11 +184,17 @@ The Emperor issued his own money, and exchanged it for US currency. Most people 
 
 - #### Panel 1
 
-  It would appear that Norton has a chamberlain, a Chinese named Ah How. No refs. His speech pattern is completely cliched: here he excessively praises Norton and denigrates himself; in the very next panel, he utters a paraphrasing of a proverb, possibly Confucian. Part of the training as an official of the Imperial Court was the study of Chinese literature and poetry. Phrasing advice in terms of metaphor and allegory was not uncommon. Here, the analogy was stated in an unusually direct manner, possibly for the benefit of Western-trained thinkers, who are not so used to dissecting oblique statements.
+  It would appear that Norton has a chamberlain, a Chinese named Ah How. His speech pattern is completely cliched: here he excessively praises Norton and denigrates himself; in the very next panel, he utters a paraphrasing of a proverb, possibly Confucian. Part of the training as an official of the Imperial Court was the study of Chinese literature and poetry. Phrasing advice in terms of metaphor and allegory was not uncommon. Here, the analogy was stated in an unusually direct manner, possibly for the benefit of Western-trained thinkers, who are not so used to dissecting oblique statements.
+
+  In a [2023 blog post](http://emperornortontrust.org/blog/2023/3/20/the-eyes-of-the-emperor-in-1879), the Emperor Norton Trust note that there is evidence of Ah How existing, although his role of "chamberlain" may have just been the news outlet being disrespectful towards Norton:
+  > [I]n January 1867, the Daily Alta California concluded its story of the false arrest of Emperor Norton by reporting that, when the Emperor signed for his belongings, he "caused Ah How, his Grand Chamberlain, to witness his Royal signature."
+  >
+  > The Daily Alta and its editor, Albert Evans, made quite a career in the 1860s of publishing fake proclamations and other fake stories about Emperor Norton. The fact that a Chinese man named Ah How was a noted petty criminal in San Francisco during this period makes it worth asking whether the Alta’s "Grand Chamberlain" bit was just a gag to make Emperor look silly.
 
 - #### Panel 2
 
   **Tong wars**: Chinese crime organizations are known as tongs.
+
   There is a legend about an incident in Chinatown where two opposing Tongs were verging on open violence, when Norton walked along and simply told the people to leave in peace. And they did so, perhaps defeated by his presence.
 
 - #### Panel 3
@@ -298,7 +304,7 @@ A wonderful bit of wisdom.
 
 - #### Panel 1
 
-  This is Death, again. No refs for the Hastings Society.
+  This is Death, again. The Hastings Society held a monthly debate at the Academy of Natural Science.
 
 - #### Panel 2-3
 
@@ -336,7 +342,7 @@ A wonderful bit of wisdom.
 - Neil Gaiman confirmed the existence of the Cobweb Palace.
 - Pat Dorsey (PDORSEY@EAGLE.WESLEYAN.EDU) danced all around the origin of Tom O'Bedlam without quite getting it right, and pointed in the direction of Shakespeare.
 - Ralf Hildebrandt added more details.
-- Richard Munn added the King of Pain reference from Neil Gaiman's blog entry.
+- Richard Munn added the King of Pain reference from Neil Gaiman's blog entry, and the _Ah How_ reference from the Emperor Norton Trust
 
 ## Appendix
 

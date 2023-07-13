@@ -21,7 +21,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 - #### Panel 5
 
-  I suppose I should start keeping a "Canonical list of Sandman danglers". This would obviously be one.
+  I suppose I should start keeping a "Canonical list of Sandman danglers". This would obviously be one.  It was eventually resolved with Overture.
 
 ### Page 9
 
@@ -47,9 +47,18 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 - #### Panel 6
 
-  **Two books have readable titles**: [Empire of the Senseless](http://www.amazon.de/exec/obidos/ASIN/0802131794) and [Sleeping in Flame](http://www.amazon.de/exec/obidos/ASIN/0679727779). "Sleeping in Flame" is by Jonathon Carroll, an American writer often writing from Vienna who writes surreal, fantastic, and often horrific fiction. This particular book is a modern retelling of the Rumpleskiltskin fairy tale. Carroll has a reputation for using dreams or fictions becoming reality, and it is rumored that Neil Gaiman had to rework the plot of _The Doll's House_ after reading a Carroll book that used his original idea. _Empire of the Senseless_ was written by Kathy Acker in 1988. Perhaps coincidentally, she dedicates the book to her tattooist. It is described as a postmodern novel, and "not a pretty story." Neil indicates that Shirley Jackson's _We Have Always Lived in the Castle_ and M.R. James' _Ghost Stories of an Antiquary_ were in the script but didn't make it into the panel. He notes that this should help people identify Zelda's short story extract from [Sandman #15](sandman.15.md) and the title of this issue.
+  **Two books have readable titles**: [Empire of the Senseless](http://www.amazon.de/exec/obidos/ASIN/0802131794) and [Sleeping in Flame](http://www.amazon.de/exec/obidos/ASIN/0679727779).
+
+  _Sleeping in Flame_ is by Jonathon Carroll, an American writer often writing from Vienna who writes surreal, fantastic, and often horrific fiction. This particular book is a modern retelling of the Rumpleskiltskin fairy tale. Carroll has a reputation for using dreams or fictions becoming reality, and it is rumored that Neil Gaiman had to rework the plot of _The Doll's House_ after reading a Carroll book that used his original idea.
+
+   _Empire of the Senseless_ was written by Kathy Acker in 1988. Perhaps coincidentally, she dedicates the book to her tattooist. It is described as a postmodern novel, and "not a pretty story."
+
+   Neil indicates that Shirley Jackson's _We Have Always Lived in the Castle_ and M.R. James' _Ghost Stories of an Antiquary_ were in the script but didn't make it into the panel. He notes that this should help people identify Zelda's short story extract from [Sandman #15](sandman.15.md) and the title of this issue.
 
 ### Page 18
+{% alert type="floatright", style="width-40pc" %}
+![Original photo of G.K. Chesterton](images/GKChesterton.jpg)
+{% endalert %}
 
 - #### Panel 2-3
 
@@ -57,11 +66,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 - #### Panel 6
 
-  A presumably genuine photo of G.K. Chesterton, who was the inspiration for "Gilbert". Note the signature at lower left.
-
-  A better copy of the original photo:
-
-  ![](images/GKChesterton.jpg)
+  A genuine photo of G.K. Chesterton, who was the inspiration for "Gilbert". Note the signature at lower left.
 
 ### Page 19
 
@@ -95,6 +100,8 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
   Desire's costume is in many ways reminiscent of Catwoman's, a villain of Batman's. However, felinity often seems to have an erotic effect, and that may be its purpose here.
 
+  It is also a reference to events that will happen (/have already happened) in Overture
+
 - #### Panel 7
 
   Another of the unspoken rules that govern the Endless, apparently. Disaster of some sort would strike were Dream to slay kin of the Endless. We saw a possible hint to this in [Sandman #10](sandman.10.md), where Rose is warned of the "Kindly Ones", and a later issue also uses the Eumenides as a threat.
@@ -113,4 +120,4 @@ Ninth story reprinted in trade paperback _The Doll's House_
 - Neil Gaiman, via Tanaqui C. Weaver <cen@vax.oxford.ac.uk> expanded on material in Rose's room.
 - David Goldfarb <goldfarb@ocf.berkeley.edu> speculated on the nature of an Endless disaster.
 - Ralf Hildebrandt added more details.
-- Richard Munn included a better quality copy of the G.K. Chesterton photo
+- Richard Munn included a better quality copy of the G.K. Chesterton photo, and the Overture references.

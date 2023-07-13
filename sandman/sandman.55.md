@@ -100,7 +100,10 @@ Earth, Fire, Water and Air (or sometimes Wind), were four of the Five Elements i
 
 - #### Panel 7
 
-  **Bagulkal**: no refs.
+  **Bagulkal**: This word, which seems to be a corruption of the Hebrew, appears in Masonic encyclopedias: (emphasis added)
+    > A significant word in the high degrees. Lenning says it is a corruption of the Hebrew Begoal- kol, meaning all is revealed, to which Mackenzie demurs. Pike says, Bagulkol, with a similar reference to a revelation. Rockwell gives in his manuscript, Bekalkel, without any meaning. The old rituals interpret it as signifying **the faithful guardian of the sacred ark**, a derivation clearly fanciful.
+
+    So in this case, _Bagulkal_ could be the name of the entity guarding the cerements (on page 20.)
 
 ### Page 24
 
@@ -122,3 +125,4 @@ Earth, Fire, Water and Air (or sometimes Wind), were four of the Five Elements i
   concerning Amicus horror films.
 - Julie LaBomascus referenced "Angkou" via Byron Go (byron@netcom.com).
 - Ralf Hildebrandt added more details.
+- Richard Munn added the Bagulkal reference.

@@ -34,7 +34,7 @@ The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's know
 
 - #### Panel 4
 
-  No refs on whether there really was or is a town called Wei in western China.
+  No refs on whether there really was or is a town called Wei in western China.  The Western Wei was a [Chinese Dynasty](https://en.wikipedia.org/wiki/Western_Wei), although the region involved doesn't appear to have a town of that name.
 
 ### Page 6
 
@@ -94,3 +94,4 @@ The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's know
 - Jerry Lee (wrenstar@leland.Stanford.EDU) commented on the Chinese on the cover.
 - Ian McDowell (ikmcdowe@hamlet.uncg.edu) reported on Gaiman and the kitten.
 - Ralf Hildebrandt added the observation on page 19, and the connection with [#39](sandman.39.md)
+- Richard Munn added the possible Western Wei reference
