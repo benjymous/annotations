@@ -121,7 +121,7 @@ Note that the three women walk in step and perform the same actions.
 
 - #### Panel 2, 4
 
-Note the parallel between cuckoos and Hazel's pregnancy.
+  Note the parallel between cuckoos and Hazel's pregnancy.
 
 ### Page 14
 

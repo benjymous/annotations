@@ -12,7 +12,7 @@ Seventh story reprinted in _Preludes and Nocturnes_
 Since I have it online, here's a more complete excerpt:
 
 > She should have died hereafter, there would have been time for such a word. Tomorrow and tomorrow and tomorrow creeps in this petty pace from day to day to the syllable of recorded time; and all our yesterdays are lighted fools....the way to dusty death. Out, out brief candle. Life is but a walking shadow...a poor player who struts and frets his hour upon the stage and is heard no more. It is a tale told by an idiot, full of sound and fury.....signifying --- nothing.<br>
-  -- Macbeth Act 5, Scene 5
+> -- Macbeth Act 5, Scene 5
 
 This story had been teased in the previous issue as having the title "WAITING FOR THE END OF THE WORLD..." which is the name of a song Elvis Costello wrote for his debut album, "My Aim is True". The first verse, here liberally typeset to convey Elvis' rather brutal intonation, shares much of the story's tone, especially perhaps the "murder in the dark" sequence.
 
@@ -66,6 +66,7 @@ These people are walk-ons.
   "Beware the Ides of March" is the admonition given to Caesar at the beginning of Shakespeare's play _Julius Caesar_. The Ides of March are the fifteenth day of that month, the day on which Caesar was killed by the conspirators. The women are now wearing Dream's helmet. Normally when classical studies refer to Shakespeare's plays they use to compare Macbeth with Oedipos Tyrranos by Sophocles. Please note: we have here quotations from Macbeth and "edipian" dream of raping the mother. And John Dee is a Ceasar, like Oedipos was king, as a John Dee forgets that he is a creature of dreams and claims himself the king. Note also that his name Destiny is linked with central issues of Macbeth (there we have Ethel as three witches), exactly as the in the case of Oedipos the King. And finally the quote which you brought out of Macbeth is commonly compared with the quote from Oedipos the King, the intervention of choir in the piece. Unfortunately I don't have it in English, but maybe you can find it. It is the last speech of the choir, which takes place after Oedipos discovered all the truth about him and left in the direction of the palace.
 
 - #### Panel 4; page 11 panel 1
+
   Dee is undergoing the free association often experienced in dreams as the phrase mutates from "Ides of March" to "March of Ideas" to "Brides of Frankenstein". The women now resemble the Bride from the movie "Bride of Frankenstein".
 
 ### Page 14

@@ -47,6 +47,7 @@ This continues the religious theme in this issue.
 ### Page 6
 
 - #### Panel 5:
+
   This parallels a story in which Satan tempts Jesus, found in chapter 4 of Matthew and Luke.
 
 ### Page 7

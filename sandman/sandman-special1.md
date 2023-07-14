@@ -47,7 +47,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 - #### Panels 2-6; page 6 panel 1
 
-Neil Gaiman has said that the names of the Endless in Greek are nouns that describe them, rather than names borrowed from myth. Teleute means "last", or "termination", but is also used in euphemisms for death like English's "come to an end"; Mania means "madness", and Olethros "destruction". Aponoia means "desperation", Epithumia "desire" or "passion", and Potmos, "Destiny, Fate"; Homerically, Potmos was always evil and usually meant death.
+  Neil Gaiman has said that the names of the Endless in Greek are nouns that describe them, rather than names borrowed from myth. Teleute means "last", or "termination", but is also used in euphemisms for death like English's "come to an end"; Mania means "madness", and Olethros "destruction". Aponoia means "desperation", Epithumia "desire" or "passion", and Potmos, "Destiny, Fate"; Homerically, Potmos was always evil and usually meant death.
 
 - #### Panel 4
 
@@ -67,7 +67,7 @@ Evidently the transformation occurred prior to Greece's Heroic Age. The only evi
 
 - #### Panel 4-5
 
-**Hymenaeus**: originally the refrain of a marriage song, but eventually personified into a hero whose marriage was legendarily happy. The marriage songs eventually became invocations to him. The actual words of the ceremony sound perhaps too much like modern Christian ceremony; no refs for actual Greek ceremonies.
+  **Hymenaeus**: originally the refrain of a marriage song, but eventually personified into a hero whose marriage was legendarily happy. The marriage songs eventually became invocations to him. The actual words of the ceremony sound perhaps too much like modern Christian ceremony; no refs for actual Greek ceremonies.
 
 - #### Panel 4
 
@@ -89,7 +89,7 @@ Evidently the transformation occurred prior to Greece's Heroic Age. The only evi
 
 - #### Panel 2-3
 
-Orpheus's legendary talent was his ability to make music that could enchant any audience.
+  Orpheus's legendary talent was his ability to make music that could enchant any audience.
 
 ### Page 14
 
@@ -155,7 +155,7 @@ The middle one looks like the statuette of the Goddess with the Snakes, only thi
 
 - #### Panel 1-2
 
-This is not supported by the original myths; in the heroic tradition of Greece (and later, Rome), the hero almost always made a journey to the land of the Dead, and didn't have to die to come back. Further, Herakles proved (at least in the original) that he had visited the underworld by bringing back the great dog Cerberus...and then he took him _back_. To be true to the Greek originals, Cerberus should have been rendered "Kerberos".
+  This is not supported by the original myths; in the heroic tradition of Greece (and later, Rome), the hero almost always made a journey to the land of the Dead, and didn't have to die to come back. Further, Herakles proved (at least in the original) that he had visited the underworld by bringing back the great dog Cerberus...and then he took him _back_. To be true to the Greek originals, Cerberus should have been rendered "Kerberos".
 
 - #### Panel 4
 
@@ -189,7 +189,7 @@ This is not supported by the original myths; in the heroic tradition of Greece (
 
 - #### Panel 3-6
 
-The gates of the underworld were guarded by the great three-headed dog Cerberus; Orpheus charmed him with his music.
+  The gates of the underworld were guarded by the great three-headed dog Cerberus; Orpheus charmed him with his music.
 
 - #### Panel 4
 
@@ -229,13 +229,13 @@ Although Bulfinch's is a bowdlerized retelling for another age, it retains some 
 
 - #### Panel 3-5
 
-The Furies, also known as the Kindly Ones, are an aspect of the Three-in-One Goddess. The Furies extract terrible punishments from the guilty.
+  The Furies, also known as the Kindly Ones, are an aspect of the Three-in-One Goddess. The Furies extract terrible punishments from the guilty.
 
 ### Page 37
 
 - #### Panel 7-10
 
-Note that this is different than the "standard" explanation. People usually attribute Orpheus' behavior to impatience, lust, or curiosity. Lord, what fools these mortals be!
+  Note that this is different than the "standard" explanation. People usually attribute Orpheus' behavior to impatience, lust, or curiosity. Lord, what fools these mortals be!
 
 ### Page 39
 
@@ -271,7 +271,7 @@ Traditionally, Orpheus died after being torn apart by the Bacchante. His head fl
 
 - #### Panel -3
 
-Parallelism with the snake that slew Eurydice?
+  Parallelism with the snake that slew Eurydice?
 
 This issue also contains a family album of sorts, with full page illustrations
 of the Endless and several denizens of the Dreaming.

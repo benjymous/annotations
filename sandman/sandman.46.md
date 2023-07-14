@@ -104,7 +104,7 @@ Compare with Section 3.
 
 - #### Panel 5-6
 
-The cat being euthanized is probably Chloe Russell's cat ([#43](sandman.43.md), [#49](sandman.49.md)).
+  The cat being euthanized is probably Chloe Russell's cat ([#43](sandman.43.md), [#49](sandman.49.md)).
 
 ### 6: _Mervyn Sets Him Straight_
 
@@ -151,7 +151,7 @@ Needless to say, it would be interesting to see the script to this issue to see 
 
 - #### Panel 3-4
 
-**Only a kid**: And Death is drawn as, what, a ten year-old?
+  **Only a kid**: And Death is drawn as, what, a ten year-old?
 
 [15 or 16 is the usual age given as a guide to the artists.]
 

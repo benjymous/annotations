@@ -48,7 +48,7 @@ Not yet reprinted in any other form
 
 - #### Panel 2f
 
-These are the Three Witches, of course. As the Fates, they spin, measure, and end the lives of mortals, but Destiny is Endless. Note the thread; they are measuring, not weaving or cutting.
+  These are the Three Witches, of course. As the Fates, they spin, measure, and end the lives of mortals, but Destiny is Endless. Note the thread; they are measuring, not weaving or cutting.
 
 - #### Panel 3
 
@@ -62,7 +62,7 @@ These are the Three Witches, of course. As the Fates, they spin, measure, and en
 
 - #### Panel 2-3
 
-The Endless are not; as we have seen elsewhere, they have both starts and finishes. It has been stated that Destiny is the first of the Endless, while Death will be the last. Note that the thread comes to an end in panel 2 to parallel the statement about things beginning and ending. Also note in panel 3 that only one eye is visible among the Grey Ladies. This incarnation of the Triple Goddess, the Graeae, are represented as having only one eye and one tooth to share among them. Perseus stole their eye and held it hostage in return for the knowledge of the location of the sea god Proteus. Further note that the Grey Ladies appear to each have a full set of teeth.
+  The Endless are not; as we have seen elsewhere, they have both starts and finishes. It has been stated that Destiny is the first of the Endless, while Death will be the last. Note that the thread comes to an end in panel 2 to parallel the statement about things beginning and ending. Also note in panel 3 that only one eye is visible among the Grey Ladies. This incarnation of the Triple Goddess, the Graeae, are represented as having only one eye and one tooth to share among them. Perseus stole their eye and held it hostage in return for the knowledge of the location of the sea god Proteus. Further note that the Grey Ladies appear to each have a full set of teeth.
 
 ### Page 4
 
@@ -96,11 +96,11 @@ Destiny's hall would appear to be drawn from reference. Can anyone ID it?
 
 - #### Panel 1-2
 
-Desire and Despair have been characterized as twins before; note that Destiny appears to summon them nearly simultaneously. Note also Desire's gendering and the "formal attire" of both.
+  Desire and Despair have been characterized as twins before; note that Destiny appears to summon them nearly simultaneously. Note also Desire's gendering and the "formal attire" of both.
 
 - #### Panel 4f
 
-Death and Despair miss the missing Endless (another clue) and Desire does not. Naively, we would expect Desire to want _everything_.
+  Death and Despair miss the missing Endless (another clue) and Desire does not. Naively, we would expect Desire to want _everything_.
 
 ### Page 7
 
@@ -225,16 +225,16 @@ Also, note that Delirium was once Delight, though we are not told explicitly the
 
 - And finally, Doug Atkinson (douga@yang.earlham.edu) presents:
 
-  #### TOP 10 REASONS WHY DESTINY CONSIDERS DEATH'S CLOTHING APPROPRIATE:
+#### TOP 10 REASONS WHY DESTINY CONSIDERS DEATH'S CLOTHING APPROPRIATE:
 
-  10. Destiny's a traditionalist, and his idea of what fashion should be crystallized somewhere in the 16th century.
-  11. Destiny harbors a secret dislike for Death, and enjoys getting on her nerves in little ways wherever he can.
-  12. When Destruction left, Destiny drew up a charter of rules for family gatherings, and Death's outfit was in there.
-  13. Since the Endless embody concepts, they affect some sort of cosmic balance, and Death was violating the "equal geekiness" level of cosmic fashion balance. (Dream more than makes up for it in this issue, though, with the tricorner hat.)
-  14. Destiny acquired a truckload of those dresses a while ago, and needs to do _something_ with them.
-  15. Destiny was annoyed because Death was behind on her mail _again_ and missed the "black tie only" line in the announcement of this shindig.
-  16. Destiny likes to go to first causes. When the first race capable of perceiving Death arose, they perceived her in that outfit (as well as all the others in theirs) and, as far as Destiny's concerned, that clinched it. (Destiny's also smug because he got to choose his own outfit, by surreptitious application of Liquid Paper to his book.)
-  17. Destiny realized that he needed to comment on the outfit, so she'd change it, causing a note of this fact in the annotations, and a subsequent irreverent post postulating improbable reasons, in order to fulfill some ineffable cosmic balance.
-  18. One of the creative staff has a petticoat fetish.
-      **AND THE NUMBER ONE REASON WHY DESTINY CONSIDERS DEATH'S CLOTHING APPROPRIATE**:
-  19. Destiny's afraid that seeing Death in the tank top would arouse those incestuous urges again, and he doesn't want a repeat of the "Delight Incident."
+10. Destiny's a traditionalist, and his idea of what fashion should be crystallized somewhere in the 16th century.
+11. Destiny harbors a secret dislike for Death, and enjoys getting on her nerves in little ways wherever he can.
+12. When Destruction left, Destiny drew up a charter of rules for family gatherings, and Death's outfit was in there.
+13. Since the Endless embody concepts, they affect some sort of cosmic balance, and Death was violating the "equal geekiness" level of cosmic fashion balance. (Dream more than makes up for it in this issue, though, with the tricorner hat.)
+14. Destiny acquired a truckload of those dresses a while ago, and needs to do _something_ with them.
+15. Destiny was annoyed because Death was behind on her mail _again_ and missed the "black tie only" line in the announcement of this shindig.
+16. Destiny likes to go to first causes. When the first race capable of perceiving Death arose, they perceived her in that outfit (as well as all the others in theirs) and, as far as Destiny's concerned, that clinched it. (Destiny's also smug because he got to choose his own outfit, by surreptitious application of Liquid Paper to his book.)
+17. Destiny realized that he needed to comment on the outfit, so she'd change it, causing a note of this fact in the annotations, and a subsequent irreverent post postulating improbable reasons, in order to fulfill some ineffable cosmic balance.
+18. One of the creative staff has a petticoat fetish.
+    **AND THE NUMBER ONE REASON WHY DESTINY CONSIDERS DEATH'S CLOTHING APPROPRIATE**:
+19. Destiny's afraid that seeing Death in the tank top would arouse those incestuous urges again, and he doesn't want a repeat of the "Delight Incident."

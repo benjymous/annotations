@@ -95,6 +95,7 @@ The panel borders here are reminiscent of Celtic designs. As is probably clear, 
 ### Page 22
 
 - #### Panels 2-4:
+
   The damaged door lock and the wall decorations (identical to the ones seen in "The Parliament of Rooks") suggest that Daniel and the Corinthian are in Lyta Hall's LA apartment.
 
 ### Page 23

@@ -124,7 +124,7 @@ For those who don't read letter columns (or who will read this story in book for
 
 - #### Panel 7-8
 
-When Rose encounters the Hecateae we also see an owl and a pussycat; the owl here in particular echoes the one in 10:20:1.
+  When Rose encounters the Hecateae we also see an owl and a pussycat; the owl here in particular echoes the one in 10:20:1.
 
 ### Page 21
 

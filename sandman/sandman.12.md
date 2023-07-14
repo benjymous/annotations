@@ -80,6 +80,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 ### Page 12
 
 - #### Panels 4-5
+
   If you squint really hard, the wall reads "Who Watches the Watchmen?", which was the tagline for Alan Moore's and Dave Gibbons's _Watchmen_ series, an extremely important series about superhumans and the Cold War. This phrase was originally coined by Platon.
 
 ### Page 13

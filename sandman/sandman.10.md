@@ -22,7 +22,7 @@ We have learned in earlier issues that Desire is Dream's younger sibling. Despit
 
 - #### Panel 1-3
 
-Desire is looking at the symbols of its relatives, the Endless, a group of seven anthropomorphized concepts. The symbols may be, left to right, in descending "age" of the concept. Left to right, they are: Death's ankh, Destiny's book, Dream's helmet. The empty square will acquire more meaning shortly. Then comes Desire's chin, then one we will meet immediately, and another we will meet later.
+  Desire is looking at the symbols of its relatives, the Endless, a group of seven anthropomorphized concepts. The symbols may be, left to right, in descending "age" of the concept. Left to right, they are: Death's ankh, Destiny's book, Dream's helmet. The empty square will acquire more meaning shortly. Then comes Desire's chin, then one we will meet immediately, and another we will meet later.
 
 ### Page 4
 
@@ -76,11 +76,11 @@ First known appearances of Miranda and Rose Walker, who will be very important t
 
 - #### Panel 1-2
 
-We are seeing Rose's dream; Rose is slipping directly into Dreaming, which is perhaps unusual. The dream sequence is printed sideways on the page. At least two other series, _Cerebus_ ##44-50 and _Fantastic Four_ #252 have used the same format.
+  We are seeing Rose's dream; Rose is slipping directly into Dreaming, which is perhaps unusual. The dream sequence is printed sideways on the page. At least two other series, _Cerebus_ ##44-50 and _Fantastic Four_ #252 have used the same format.
 
 - #### Panel 2-3
 
-This is the House of Secrets. The characters are Abel, Lucien, and Goldie. For more, see issue 2.
+  This is the House of Secrets. The characters are Abel, Lucien, and Goldie. For more, see issue 2.
 
 - #### Panel 7
 

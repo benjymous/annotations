@@ -20,7 +20,7 @@ Third story in anthology, "Worlds' End"
 
 - #### Panel 1
 
-  **The great ship**: Seems to be a reference to a legend about an exceptionally large trading ship.  See [this 2015 post on exoterx](https://esoterx.com/2015/03/05/the-great-ship-of-new-haven-phantoms-puritan-hippies-and-the-reformation/)
+  **The great ship**: Seems to be a reference to a legend about an exceptionally large trading ship. See [this 2015 post on exoterx](https://esoterx.com/2015/03/05/the-great-ship-of-new-haven-phantoms-puritan-hippies-and-the-reformation/)
 
   **Mother Carey**: A supernatural personification of the cruel and threatening seas, An Anglicization of the Latin "Mater Cara", an epithet of the Virgin Mary. ([wikipedia](https://en.wikipedia.org/wiki/Mother_Carey))
 

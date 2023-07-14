@@ -51,7 +51,7 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 - #### Panel 1-2
 
-This is probably a passage from the Elder Edda, a long saga in Old Icelandic that is the source for most Norse myths. The ship of nails is named Naglfar.
+  This is probably a passage from the Elder Edda, a long saga in Old Icelandic that is the source for most Norse myths. The ship of nails is named Naglfar.
 
 - #### Panel 3
 
@@ -155,7 +155,7 @@ The Silver City is new. It has also appeared in _The Books of Magic_ #1. My own 
 
 - #### Panel 5-7
 
-Notice Eve's youthing.
+  Notice Eve's youthing.
 
 ### Page 19
 

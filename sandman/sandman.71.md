@@ -123,6 +123,7 @@
 ### Page 23
 
 - #### Panel 4
+
   According to report, there is a proverbial phrase, "I'll wear a red dress at your funeral". The meaning of this phrase is not quite clear.
 
 ### Page 24

@@ -45,7 +45,7 @@ I will only note any beings who were not seen in [Sandman #24](sandman.24.md). A
 
 - #### Panels 6-7
 
-Pain is a facet of flirtation, to a demon.
+  Pain is a facet of flirtation, to a demon.
 
 ### Page 7
 
@@ -97,7 +97,7 @@ This is a splash panel. Note the figures below the angels; we did not see these 
 
 - #### Panel 3-4
 
-Dream's lines here are reminiscent of the lines uttered by the heroine of [Sandman #18](sandman.18.md): "I am a cat, and I keep my own counsel."
+  Dream's lines here are reminiscent of the lines uttered by the heroine of [Sandman #18](sandman.18.md): "I am a cat, and I keep my own counsel."
 
 ### Page 16
 

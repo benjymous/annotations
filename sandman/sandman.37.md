@@ -154,7 +154,7 @@ Not yet reprinted in any other form
 
 - #### Panel 2-4
 
-One is invited to reflect upon Barbie's idea while recalling the Land, and the Game of You.
+  One is invited to reflect upon Barbie's idea while recalling the Land, and the Game of You.
 
 ### Page 20
 

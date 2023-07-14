@@ -19,11 +19,13 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 ### Page 2
 
 - #### Panel 3
+
   This is Gregory, a gargoyle, albeit a rather draconian one. He was a resident of the _House of Mystery_ with Cain during the long run of this rather mediocre mystery title. He also appeared in _Plop!_ Gregory pops up now and then with Cain and Abel as supporting cast members in _Sandman_.
 
 ### Page 3
 
 - #### Panel 4
+
   Morpheus is here referred to as the Prince of Stories.
 
 ### Page 4
@@ -35,6 +37,7 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
   Cain is distinguished for being the first murderer, and Abel for being the first victim. One of the themes of _Sandman_ is the equation of dreams and stories, or perhaps the use of dreams as a vehicle for stories. Gaiman is first and foremost a storyteller, as opposed to Alan Moore, for example, who is primarily concerned with saying something in his writing and only secondarily concerned with the story.
 
 - #### Panel 4
+
   The Shifting Zones is a reference I do not recognize. The boundaries between the real world, the various afterlives, and such places as the realm of dreams are indistinct and variable (see the Realm of the Just Dead in _Swamp Thing_ Annual #2, reprinted in the tpb _Love and Death_). This may be the simplest explanation of what the Shifting Zones are.
 
 ### Page 5
@@ -70,6 +73,7 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
   Penny Dreadfuls are a British term for dime novels, cheap, sensational novels of crime, adventure or suspense.
 
 - #### Panel 6
+
   The Letters of Commission are evidently new. Note that Abel is emerging from his own picture.
 
 ### Page 8
@@ -143,6 +147,7 @@ Irish Celtic myth portrayed the Three as the Morrigan, a triune war goddess whos
 ### Page 17
 
 - #### Panel 8; page 18 panel 1
+
   _The Witching Hour_ was another DC mystery title hosted by the three ladies pictured in panel 3. The identification of them with the triune goddess is new to Gaiman.
 
 ### Page 18
@@ -172,6 +177,7 @@ Notice that the ladies are changing position, or into one another's shape, cycli
 ### Page 20
 
 - #### Panel 3
+
   I am not aware of any conflict between the Fates and Circe (a magician in the Odyssey, also a villain in Wonder Woman, and the main villainess in War of the Gods).
 
 ### Page 21:
@@ -179,10 +185,15 @@ Notice that the ladies are changing position, or into one another's shape, cycli
 Note that the Fates give exactly one answer apiece, and it is deliberately incomplete.
 
 - #### Panel 1
+
   John Constantine originally appeared in _Swamp Thing_ (#37?), and is the main character in _Hellblazer_. He is a minor magician, a "jumped-up street thug". His tarot card is always "The Hanged Man" or "The Fool." He is of a long line of Constantines who live dirty lives of betrayal and death. He, as well as Morpheus and most of DC's mystic characters, may be seen in the _Books of Magic_, a four issue Prestige Format series written by Gaiman.
+
 - #### Panel 2
+
   This is, of course, Ruthven Sykes from issue 1.
+
 - #### Panel 3
+
   The mother is Ethel Cripps Dee, the son is John (Dr. Destiny) Dee, the superhumans are the Justice League of America. "Weird" as in "weird sisters" is a old word meaning "fate."
 
 ## Credits

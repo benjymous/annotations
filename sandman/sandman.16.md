@@ -58,8 +58,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 18
 
-> [!TIP|style:flat|iconVisibility:hidden|className:floatright width-40pc]
-> ![Original photo of G.K. Chesterton](images/GKChesterton.jpg)
+> [!TIP|style:flat|iconVisibility:hidden|className:floatright width-40pc] ![Original photo of G.K. Chesterton](images/GKChesterton.jpg)
 
 - #### Panel 2-3
 

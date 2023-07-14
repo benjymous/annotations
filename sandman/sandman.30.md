@@ -20,7 +20,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 - #### Panels 1-3
 
-The participants and action of this scene will become clearer later in this issue.
+  The participants and action of this scene will become clearer later in this issue.
 
 - #### Panel 4
 
@@ -58,7 +58,7 @@ The participants and action of this scene will become clearer later in this issu
 
 - #### Panel 3-4
 
-Balsamic and red wine vinegar are red. White wine and grain vinegars are clear; cider vinegar is amber. Distilled vinegars, like the majority of modern vinegars, is clear regardless of its fabric. Roman vinegar of that era was usually vinegar; cheap, weak, or off-vintage wine; or wine that had outlived its usefulness to the trained palate. Vinegar was reputed to possess certain medicinal properties. In Latin, vinegar is "acetum", whence our "acetic acid", the primary component of vinegar.
+  Balsamic and red wine vinegar are red. White wine and grain vinegars are clear; cider vinegar is amber. Distilled vinegars, like the majority of modern vinegars, is clear regardless of its fabric. Roman vinegar of that era was usually vinegar; cheap, weak, or off-vintage wine; or wine that had outlived its usefulness to the trained palate. Vinegar was reputed to possess certain medicinal properties. In Latin, vinegar is "acetum", whence our "acetic acid", the primary component of vinegar.
 
 **Quicker than boiled asparagus**: asparagus is a laxative. This phrase is used often by Claudius in Graves' historical works. Asparagus also cooks very quickly and is boiled for a few minutes at most, which may be a different interpretation of the saying.
 

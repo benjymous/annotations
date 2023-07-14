@@ -224,7 +224,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 - #### Panel 4-5
 
-The French Revolution has begun in 1789, following the successful revolt of most of the British colonies in America six years earlier. "Odd's life" means "God's life"; the alteration was to avoid taking God's name in vain.
+  The French Revolution has begun in 1789, following the successful revolt of most of the British colonies in America six years earlier. "Odd's life" means "God's life"; the alteration was to avoid taking God's name in vain.
 
 ### Page 18
 

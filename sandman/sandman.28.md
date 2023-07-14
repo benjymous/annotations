@@ -96,7 +96,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 - #### Panel 1-2
 
-These are drawn in the classical Japanese "Ukiyo-E" (or "Floating World") style. Westerners might be familiar with this style from the cover of the album _The Best of Emerson, Lake, and Palmer_.
+  These are drawn in the classical Japanese "Ukiyo-E" (or "Floating World") style. Westerners might be familiar with this style from the cover of the album _The Best of Emerson, Lake, and Palmer_.
 
 - #### Panel 6
 
@@ -176,7 +176,7 @@ Nada is being reincarnated (as a boy, as we see in page 16 panel 5). Is Dream pr
 
 - #### Panel 3-5
 
-Lucifer's talking to the Creator, here.
+  Lucifer's talking to the Creator, here.
 
 ### Page 21
 

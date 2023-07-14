@@ -50,7 +50,7 @@ Her characterization here as a terrified isolated agoraphobe is new.
 
 - #### Panel 4-5
 
-This is what we have seen before of Rainie's origin.
+  This is what we have seen before of Rainie's origin.
 
 - #### Panel 6
 

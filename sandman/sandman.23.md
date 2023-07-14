@@ -68,7 +68,7 @@ foreshadowing.
 
 - #### Panel 1-2
 
-Breschau of Livonia. No reference for Breschau, but Livonia is a Baltic land. The Livs (whence "Livonia") were known in Alexander the Great's time. Like the other Baltic regions, Livonia was fought over by Poland, Russia, and the other large powers of the region, as well as being involved in conflicts with other Baltic provinces. It lost the final vestiges of its individuality in 1918, with the formation of Latvia and Estonia. Livonia was divided between the two.
+  Breschau of Livonia. No reference for Breschau, but Livonia is a Baltic land. The Livs (whence "Livonia") were known in Alexander the Great's time. Like the other Baltic regions, Livonia was fought over by Poland, Russia, and the other large powers of the region, as well as being involved in conflicts with other Baltic provinces. It lost the final vestiges of its individuality in 1918, with the formation of Latvia and Estonia. Livonia was divided between the two.
 
 ### Page 12
 
@@ -84,7 +84,7 @@ Breschau of Livonia. No reference for Breschau, but Livonia is a Baltic land. Th
 
 - #### Panel 1-2
 
-"Rimmon-my-petal" is a giant baby with a cobra for an umbilicus. "Ketele" has a wolf's head on an preying mantis's body. No identity given for the third figure. Note the typo: "gong" for "going". Rimmon (The Thunderer) was a Babylonian or Assyrian storm god, often called Adad, and known as Martu by Amorites, Kur-Ga (Great Mountain) by Canaanites, Hadad by Syrians, and Teshub by Hittites.
+  "Rimmon-my-petal" is a giant baby with a cobra for an umbilicus. "Ketele" has a wolf's head on an preying mantis's body. No identity given for the third figure. Note the typo: "gong" for "going". Rimmon (The Thunderer) was a Babylonian or Assyrian storm god, often called Adad, and known as Martu by Amorites, Kur-Ga (Great Mountain) by Canaanites, Hadad by Syrians, and Teshub by Hittites.
 
 ### Page 14
 

@@ -58,7 +58,7 @@
 
 - #### Panel 1-3
 
-Note that the "still here" legend on the "Cats" poster is still visible.
+  Note that the "still here" legend on the "Cats" poster is still visible.
 
 ### Page 4
 

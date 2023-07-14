@@ -148,11 +148,11 @@ This is Hal's dream.
 
 - #### Panel 1-3
 
-Ken's dream is now one of sex.
+  Ken's dream is now one of sex.
 
 - #### Panel 4-6: Barbie's dream
 
-A place, the Brightly Shining Sea, and more characters, possibly villains, Colonel Knowledge and the Heiromancer (equals "one who knows the future through holiness" or "prophet", or possibly "holy wizard"). Colonel Knowledge may be a paranomasiac reference to carnal knowledge. In panel 6, Ken's dream begins to leak into Barbie's.
+  A place, the Brightly Shining Sea, and more characters, possibly villains, Colonel Knowledge and the Heiromancer (equals "one who knows the future through holiness" or "prophet", or possibly "holy wizard"). Colonel Knowledge may be a paranomasiac reference to carnal knowledge. In panel 6, Ken's dream begins to leak into Barbie's.
 
 ### Page 13
 
@@ -186,7 +186,7 @@ The commentary on Barbara is important in the context of the later storyline. Ha
 
 - #### Panel 2-3
 
-Again, we see _a_ Doll's House.
+  Again, we see _a_ Doll's House.
 
 ### Page 22
 

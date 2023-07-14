@@ -128,7 +128,7 @@ This is a recap of [Sandman #4](sandman.04.md).
 
 - #### Panel 6f
 
-This is from Genesis 4:15-16, King James translation, and tells of Cain's punishment by the Creator.
+  This is from Genesis 4:15-16, King James translation, and tells of Cain's punishment by the Creator.
 
 - #### Panel 9
 
@@ -142,13 +142,13 @@ This is from Genesis 4:15-16, King James translation, and tells of Cain's punish
 
 - #### Panel 1-3
 
-No direct confirmation of Lucifer's story. Gnostics included several early heretical Christian sects (possibly the Mandaeic sect) who believed that Christ had no material form. The obvious conclusion to be drawn from panel 3 is that it's not what faith you espouse that determines where you go when you die, which is in direct contradiction to most major faiths' tenets as preached to the living.
+  No direct confirmation of Lucifer's story. Gnostics included several early heretical Christian sects (possibly the Mandaeic sect) who believed that Christ had no material form. The obvious conclusion to be drawn from panel 3 is that it's not what faith you espouse that determines where you go when you die, which is in direct contradiction to most major faiths' tenets as preached to the living.
 
 ### Page 12
 
 - #### Panel 1-2
 
-These are Lyta Hall and her son; Carla is a new character.
+  These are Lyta Hall and her son; Carla is a new character.
 
 We last saw Lyta and the child in [Sandman #12](sandman.12.md), q.v. It is worth noting that Daniel is linked not only to Dream by his gestation, but also to the Triple Goddess through his grandmother, who was bound to the Furies by an agreement made in World War II that granted her superpowers with which to fight the Nazis. Lyta inherited those powers.
 

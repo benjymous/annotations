@@ -56,7 +56,7 @@
 
 - #### Panels 4-5:
 
-"The Kindly Ones" has gone on so long that it's started echoing itself. These two panels echo part of Remiel's meeting with Lucifer, 60:4:6-7.
+  "The Kindly Ones" has gone on so long that it's started echoing itself. These two panels echo part of Remiel's meeting with Lucifer, 60:4:6-7.
 
 - #### Panel 5
 

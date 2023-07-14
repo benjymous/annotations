@@ -40,9 +40,7 @@ We are back to the real storyline after last issue's side trip, in Dodge County,
 
   On the right is Chris Carter from the proto-Industrial group Throbbing Gristle (not CC creator of the X-Files)
 
-  > [!TIP|style:flat|iconVisibility:hidden|className:flex cols-2]
-  > ![Chris Carter's cameo in #14](images/ChrisCarterCameo.jpg)
-  > ![Image of the band 'Throbbing Gristle'](images/ThrobbingGristle.jpg)
+  > [!TIP|style:flat|iconVisibility:hidden|className:flex cols-2] ![Chris Carter's cameo in #14](images/ChrisCarterCameo.jpg) ![Image of the band 'Throbbing Gristle'](images/ThrobbingGristle.jpg)
 
 ### Page 4
 

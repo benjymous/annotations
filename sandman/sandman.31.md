@@ -121,7 +121,7 @@ Incidentally, the figure shadowed against the wall in this panel is Norton himse
 
 - #### Panel 5-6
 
-The Golden Gate Bridge, between San Francisco and Sausalito, is the most famous bridge in the Bay area. It was constructed during the period 1933-1937. It does _not_ go to Oakland. Norton is foreshadowing the Bay Bridge, opened in 1936, which does cross the Bay to Oakland. Chris Claremont has referred to the bridge as the "Emperor Norton" bridge, in X-Men c. #200, though this usage is otherwise unfamiliar to a native of the city.
+  The Golden Gate Bridge, between San Francisco and Sausalito, is the most famous bridge in the Bay area. It was constructed during the period 1933-1937. It does _not_ go to Oakland. Norton is foreshadowing the Bay Bridge, opened in 1936, which does cross the Bay to Oakland. Chris Claremont has referred to the bridge as the "Emperor Norton" bridge, in X-Men c. #200, though this usage is otherwise unfamiliar to a native of the city.
 
 ### Page 11
 
@@ -131,7 +131,7 @@ The Golden Gate Bridge, between San Francisco and Sausalito, is the most famous 
 
 - #### Panel 2-3
 
-San Francisco had, and has, a large Chinese population; its "Chinatown" is another landmark of the city. Though the Chinese had emigrated voluntarily, they were treated as badly, or worse, than the black slaves and former slaves; this theme appeared in some of Twain's stories.
+  San Francisco had, and has, a large Chinese population; its "Chinatown" is another landmark of the city. Though the Chinese had emigrated voluntarily, they were treated as badly, or worse, than the black slaves and former slaves; this theme appeared in some of Twain's stories.
 
 - #### Panel 5
 
@@ -179,7 +179,7 @@ Note that Delirium's word balloon is uncolored, no doubt an oversight.
 
 - #### Panel 4-5
 
-The Emperor issued his own money, and exchanged it for US currency. Most people regarded the Emperor's money as a souvenir (Again, "soo-ven-ear" is exactly how the word is usually pronounced) and were glad to pay its face value in exchange. As noted further along, a number of establishments accepted the Emperor's money as well as US currency. By such means did the Emperor survive.
+  The Emperor issued his own money, and exchanged it for US currency. Most people regarded the Emperor's money as a souvenir (Again, "soo-ven-ear" is exactly how the word is usually pronounced) and were glad to pay its face value in exchange. As noted further along, a number of establishments accepted the Emperor's money as well as US currency. By such means did the Emperor survive.
 
 ### Page 15
 
@@ -261,7 +261,7 @@ Pain seems to be a regular character in the Vertigo universe. In the recent seri
 
 - #### Panel 8:
 
-A wonderful bit of wisdom.
+  A wonderful bit of wisdom.
 
 ### Page 21
 

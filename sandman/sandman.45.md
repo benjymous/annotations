@@ -38,7 +38,7 @@
 
 - #### Panel 3-5
 
-Del's actions here are reminiscent of Dream's punishment of Alex Burgess in [#1](sandman.01.md). It is evident that the Endless have the ability to cloud people's minds (as in [#41](sandman.41.md) and [#44](sandman.44.md), as well as on page 16, for example).
+  Del's actions here are reminiscent of Dream's punishment of Alex Burgess in [#1](sandman.01.md). It is evident that the Endless have the ability to cloud people's minds (as in [#41](sandman.41.md) and [#44](sandman.44.md), as well as on page 16, for example).
 
 ### 3: _The Driving Instructor_
 
@@ -152,7 +152,7 @@ Slang for something quickly and abruptly started and accomplished; originally re
 
 - #### Panel 6
 
-  **Under Pressure**: A song written and performed by David   Bowie and Queen. (Recall the mention of Queen frontsman Freddie Mercury in [#41](sandman.41.md).) The song is about closeted homosexuals.
+  **Under Pressure**: A song written and performed by David Bowie and Queen. (Recall the mention of Queen frontsman Freddie Mercury in [#41](sandman.41.md).) The song is about closeted homosexuals.
 
 ### Page 16
 

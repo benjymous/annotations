@@ -50,7 +50,7 @@ Now, sure, "Tales in the Sand" was written about four years before Loki is intro
 
 - #### Panel 2-3
 
-This has the flavor of one of Kipling's Just-So stories.
+  This has the flavor of one of Kipling's Just-So stories.
 
 ### Page 11
 

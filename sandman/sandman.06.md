@@ -16,7 +16,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 4-5
 
-Bette's hands may be shaking, or those may be motion lines.
+  Bette's hands may be shaking, or those may be motion lines.
 
 ### Page 2
 
@@ -88,6 +88,7 @@ Bette's hands may be shaking, or those may be motion lines.
   "Secret Hearts" is a fictional soap opera, a genre of American daytime television primarily concerned with overblown romantic activity. Soap operas are serial in nature. "Secret Hearts" actually has antecedents in the DC universe. It was the title of an old DC romance comic. Later, Supergirl acted on the soap opera "Secret Hearts" while her strip was running in _Superman Family_. This was pre-Crisis, of course. The balloons in panels 4-6 are parodies of soap opera dialog. If one siamese twin becomes HIV positive, the other one by necessity is as well. The illustration in panel 6 is an example of how sex is used to advertise everything, even canned peas.
 
 - #### Panel 7
+
   Mrs. Cavanagh has not yet appeared again. Cavanagh is more typically spelled -naugh.
 
 ### Page 8
@@ -150,7 +151,7 @@ Another fictional example of an American television genre, the children's variet
 
 - #### Panel 9 Fundamentalism is a sect of Christianity which believes in the literal word of the Bible. Armageddon is the prophesied end of the world.
 
-- #### Panel 10
+  - #### Panel 10
 
   First known appearance of "The Amazing Herschel and Betty".
 

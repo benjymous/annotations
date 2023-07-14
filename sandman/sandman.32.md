@@ -182,7 +182,7 @@ Note the potential ambiguity in the discussion of cheeks, given the prominent ap
 
 - #### Panel 4 & 5
 
-Note the yellow liquid on the ground & dripping off the lady's skirt; apparently, she wet herself.
+  Note the yellow liquid on the ground & dripping off the lady's skirt; apparently, she wet herself.
 
 ### Page 16
 
