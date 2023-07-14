@@ -98,9 +98,10 @@
 
   The image at top right is Edvard Munch's well-known "The Scream"; the one in the middle is William Blake's "Ancient of Days".  The leftmost picture must have relevance too, if that can be identified.
 
-  {% alert type="flexbox", style="flex-2" %}
-  ![ William Blake's "Ancient of Days"](images/AncientOfDays.jpg) ![Edvard Munch's "The Scream"](images/TheScream.jpg)
-  {% endalert %}
+  > [!TIP|style:flat|iconVisibility:hidden|className:flex cols-2]
+  > ![ William Blake's "Ancient of Days"](images/AncientOfDays.jpg)
+  > ![Edvard Munch's "The Scream"](images/TheScream.jpg)
+
 
 ### Page 11
 

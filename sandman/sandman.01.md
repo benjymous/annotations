@@ -178,9 +178,8 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 40
 
-{% alert type="floatright", style="width-40pc" %}
-![Original marketing poster for The Sandman - 'I will show you terror in a handful of dust'](images/TerrorInAHandfulOfDust.jpg)
-{% endalert %}
+> [!TIP|style:flat|iconVisibility:hidden|className:floatright width-40pc]
+> ![Original marketing poster for The Sandman - 'I will show you terror in a handful of dust'](images/TerrorInAHandfulOfDust.jpg)
 
 - #### Panel 5
 

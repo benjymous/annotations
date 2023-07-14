@@ -17,45 +17,43 @@ page.fullTitle }}{% else %}{{ super() }}{% endif %}{% endblock %} {% block head
     padding: 5px;
   }
 
-  .alert.flexbox {
-    background: transparent;
-    border: 1px solid #888 !important;
+  .flex {
+    background: transparent !important;
     padding: 0px 7px 5px 5px;
   }
 
-  .flexbox p {
+  .flex .title,
+  .floatright .title {
+    display: none !important;
+  }
+
+  .flex p {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
   }
 
-  .flexbox p img {
-    padding: 5px;
-    border: white !important;
+  .flex p img {
+    border: none !important;
   }
 
-  .flex-2 p img {
+  .cols-2 p img {
     width: 50%;
   }
 
-  .flex-3 p img {
+  .cols-3 p img {
     width: 33%;
   }
 
-  .flex-4 p img {
+  .cols-4 p img {
     width: 25%;
   }
 
-  .alert.floatright {
+  .floatright {
     float: right;
-    background: transparent;
-    padding: 10px;
+    background: transparent !important;
     overflow: hidden;
-    border: none;
-  }
-
-  .floatright .title {
-    display: none;
+    border: none !important;
   }
 
   .width-40pc {

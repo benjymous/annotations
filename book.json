@@ -3,24 +3,13 @@
 
   "root": "sandman",
 
-	"plugins" : [
-    "@dogatana/page-toc-button",
-    "alert-msg"
-   ],
+  "plugins": ["flexible-alerts"],
 
-   "pluginsConfig": {
-      "alert-msg": {
-        "flexbox": {
-          "className": "flexbox",
-          "icon": null,
-          "label": ""
-        },
-        "floatright": {
-          "className": "floatright",
-          "icon": null,
-          "label": ""
-        }
-      }
-   }
-
+  "pluginsConfig": {
+    "page-toc-button": {
+      "maxTocDepth": 2,
+      "minTocSize": 2,
+      "icon": "<i>§</i>"
+    }
+  }
 }
