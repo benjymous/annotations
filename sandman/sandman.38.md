@@ -5,6 +5,7 @@
 ##### Neil Gaiman, Duncan Eagleson, and Vince Locke
 
 First story in anthology _Convergences_
+
 Not yet reprinted in any other form
 
 **Themes**: _Convergences_ is about storytelling, as is _Sandman_ overall. In particular, _Convergences_ tells tales where the storyteller becomes the story, and where reality intersects with story and with fantasy. And, it may be noted, dreams are where reality and fiction converge.
@@ -43,7 +44,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 2
 
-  **Real forests, true bears, true wolves**: Akin to Platonic forms, the creatures and places in stories are the true essence of the creature or place, without the rounded-off corners or the compromises required of things that exist. A wolf such as you might meet is hardly more than a dog who has not forgotten how to hunt; a wolf such as you might hear about is a shaggy beast, born to the hunt, little more than hunger and fangs and burning eyes, a creature who might someday hunt you.
+**Real forests, true bears, true wolves**: Akin to Platonic forms, the creatures and places in stories are the true essence of the creature or place, without the rounded-off corners or the compromises required of things that exist. A wolf such as you might meet is hardly more than a dog who has not forgotten how to hunt; a wolf such as you might hear about is a shaggy beast, born to the hunt, little more than hunger and fangs and burning eyes, a creature who might someday hunt you.
 
 ### Page 3
 
@@ -187,7 +188,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 15
 
-  Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives in a hut which has chicken legs, and flies across the night sky in a mortar which she drives with a pestle. She is a great sorceress and, generally, evil. Baba Yaga, or a facsimile thereof, appears in _Books of Magic_, Book III.
+Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives in a hut which has chicken legs, and flies across the night sky in a mortar which she drives with a pestle. She is a great sorceress and, generally, evil. Baba Yaga, or a facsimile thereof, appears in _Books of Magic_, Book III.
 
 ### Page 17
 
@@ -229,9 +230,9 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 - #### Panel 7
 
-    **Dwarrow, nightgaunt**: "Dwarrow" is probably a variant of the dwarves (dvergar, in Old Icelandic) of Norse myth. "Nightgaunts", faceless flying humanoid servants of the god Nodens, appeared in stories by H.P. Lovecraft, an early horror author. In particular, they may have appeared in "The Dream-Quest of Unknown Kadeth". They tickled people into submission and could transport them to "the Dreamlands", a Lovecraftian analog to the Dreaming.
+  **Dwarrow, nightgaunt**: "Dwarrow" is probably a variant of the dwarves (dvergar, in Old Icelandic) of Norse myth. "Nightgaunts", faceless flying humanoid servants of the god Nodens, appeared in stories by H.P. Lovecraft, an early horror author. In particular, they may have appeared in "The Dream-Quest of Unknown Kadeth". They tickled people into submission and could transport them to "the Dreamlands", a Lovecraftian analog to the Dreaming.
 
-    Again note Vassily's teeth and eyes.
+  Again note Vassily's teeth and eyes.
 
 ### Page 20
 

@@ -5,6 +5,7 @@
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
 Sixth part of first storyline, _More than Rubies_
+
 Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 1

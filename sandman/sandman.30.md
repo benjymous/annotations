@@ -5,6 +5,7 @@
 ##### Neil Gaiman, Brian Talbot, and Stan Woch
 
 Second story in anthology _Distant Mirrors_
+
 Not yet reprinted in any other form
 
 **Sources**: A note in [Sandman #31](sandman.31.md) indicates that the title of this anthology came from Barbara Tuchman's text _A Distant Mirror: The Calamitous 14th Century_.
@@ -312,7 +313,7 @@ Augustus and Livia both had children by previous marriages, and had no children 
 
 **Augustus had one daughter**: Julia.
 
-Julia was married to Agrippa^1, who was killed; before he died they had five children: Agrippina, Julilla, Gaius, Lucius and Postumus.
+Julia was married to Agrippa ^1, who was killed; before he died they had five children: Agrippina, Julilla, Gaius, Lucius and Postumus.
 
 **Note**: Julilla's real name was Julia, and that's the Julia named by Augustus in panel 6. Everybody named their kids after themselves or their close relatives, so everybody ended up using nicknames, like "Julilla" or "Postumus" ^2. Augustus couldn't bring himself to refer to his daughter Julia by name after her banishment.
 

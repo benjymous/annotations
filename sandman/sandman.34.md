@@ -5,6 +5,7 @@
 ##### Neil Gaiman, Colleen Doran, George Pratt and Dick Giordano
 
 Third part of storyline _A Game of You_
+
 Not yet reprinted in any other form
 
 **Title**: _A Game of You_ clearly refers to the question of identity. Who and what the characters in this story are is a question either to the readers or to the character him, her, or itself, and that is the most important theme the reader should keep in mind when reading this story.
@@ -36,6 +37,7 @@ Not yet reprinted in any other form
 - #### Panel 5
 
   This is one of the few places that Doran's style survived the inking; Wanda's hair in particular, as well as her stance, screams "Doran".
+
   Note that Barbie lives in apartment 1; fitting, since she is the primary character and the center around whom this arc revolves.
 
 ### Page 6
@@ -179,7 +181,6 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
   George should be enjoined from speaking except with Thessaly's permission; see page 16 panel 1. This is hand waved away in the next issue.
 
-
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
@@ -196,8 +197,8 @@ In medieval times, demons were believed to flay their victims and wear their ski
 - Ralf Hildebrandt added a note about the chant on p18
 - Richard Munn added the note from the letters page that's listed below in the Appendix.
 
-### Appendix:  From the #34 letters page
+### Appendix: From the #34 letters page
 
-  > As for SANDMAN readers being more than passive scholars, I would like to mention here that someone a few letter columns ago caught a nuance that went completely over my head. "Death" is not called "Death" by her siblings for a very real reason, according to Neil.
+> As for SANDMAN readers being more than passive scholars, I would like to mention here that someone a few letter columns ago caught a nuance that went completely over my head. "Death" is not called "Death" by her siblings for a very real reason, according to Neil.
 
-  This is a very good point - by what name *do* they call her?
+This is a very good point - by what name _do_ they call her?

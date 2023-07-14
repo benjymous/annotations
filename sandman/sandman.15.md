@@ -5,6 +5,7 @@
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
 Sixth part of long storyline _The Doll's House_
+
 Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 1

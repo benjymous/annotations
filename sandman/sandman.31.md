@@ -5,6 +5,7 @@
 ##### Neil Gaiman and Shawn McManus
 
 Third story in anthology _Distant Mirrors_
+
 Not yet reprinted in any other form
 
 **Sources**: A note in [Sandman #31](sandman.31.md) indicates that the title of this anthology came from Barbara Tuchman's text _A Distant Mirror: The Calamitous 14th Century_.
@@ -187,6 +188,7 @@ The Emperor issued his own money, and exchanged it for US currency. Most people 
   It would appear that Norton has a chamberlain, a Chinese named Ah How. His speech pattern is completely cliched: here he excessively praises Norton and denigrates himself; in the very next panel, he utters a paraphrasing of a proverb, possibly Confucian. Part of the training as an official of the Imperial Court was the study of Chinese literature and poetry. Phrasing advice in terms of metaphor and allegory was not uncommon. Here, the analogy was stated in an unusually direct manner, possibly for the benefit of Western-trained thinkers, who are not so used to dissecting oblique statements.
 
   In a [2023 blog post](http://emperornortontrust.org/blog/2023/3/20/the-eyes-of-the-emperor-in-1879), the Emperor Norton Trust note that there is evidence of Ah How existing, although his role of "chamberlain" may have just been the news outlet being disrespectful towards Norton:
+
   > [I]n January 1867, the Daily Alta California concluded its story of the false arrest of Emperor Norton by reporting that, when the Emperor signed for his belongings, he "caused Ah How, his Grand Chamberlain, to witness his Royal signature."
   >
   > The Daily Alta and its editor, Albert Evans, made quite a career in the 1860s of publishing fake proclamations and other fake stories about Emperor Norton. The fact that a Chinese man named Ah How was a noted petty criminal in San Francisco during this period makes it worth asking whether the Alta’s "Grand Chamberlain" bit was just a gag to make Emperor look silly.
@@ -235,9 +237,10 @@ The Emperor issued his own money, and exchanged it for US currency. Most people 
 
   Gaiman says the King of Pain was a real person; I have no refs for him, save perhaps for the song "King of Pain" from the Police's album _Synchronicity_. Wolfsbane and aconite, as well as monkshood, are all names for the same plant. Aconite is an analgesic in small doses, and a poison in larger ones.
 
-  In a [blog post in 2011](https://journal.neilgaiman.com/2011/02/king-of-pain-explained-absence-of.html),  Neil Gaiman gave this reference for the King of Pain:
+  In a [blog post in 2011](https://journal.neilgaiman.com/2011/02/king-of-pain-explained-absence-of.html), Neil Gaiman gave this reference for the King of Pain:
 
   [Herbert Asbury's The Barbary Coast](https://archive.org/details/barbarycoastinfo0000asbu) p230:
+
   > Another habitue of Martin and Horton’s, and an occasional visitor at the Cobweb Palace, was an itinerant healer who called himself the King of Pain. He was probably the most ornate personage in the San Francisco of his time — his customary attire was scarlet underwear, a heavy velour robe, a high hat bedecked with ostrich feathers, and a heavy sword. When he went abroad, he rode in a coal- black coach drawn by six snow-white horses. The King of Pain made a fortune selling aconite liniment from a pitch at Third and Mission streets, but he lost all his money at the gaming tables and finally committed suicide.
 
 ### Page 19

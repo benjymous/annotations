@@ -5,6 +5,7 @@
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
 First part of first storyline, _More than Rubies_
+
 First story reprinted in _Preludes and Nocturnes_
 
 Another _possible_ Elvis Costello influence is the title to Sandman #1 - there IS an Elvis Costello song entitled "Sleep of the just", though nothing in the lyrics correlates with the story.
@@ -135,7 +136,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 ### Page 27
 
 - #### Panels 6-7
-  Morpheus reaches into his guard's dream (daydream?) and   grabs a handful of sand. This is a power he will manifest many times.
+  Morpheus reaches into his guard's dream (daydream?) and grabs a handful of sand. This is a power he will manifest many times.
 
 ### Page 29
 
@@ -185,7 +186,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
   Morpheus' thoughts - hard to see, because (in my copy, at least) the coloration is rather odd - but the thought reads, "And I have showed him fear..." This may be only speculation, but to me this seems reminiscent of a T.S. Eliot quote, from his poem "The Wasteland". The quote reads, "..I will show you fear in a handful of dust." I was reminded of this on first reading, and then, on further investigation of Morpheus' actions directly preceding this, on page 37, was rewarded with the final panel - and those grains falling from his hand, if I am not entirely mistaken, are sand. (And I have showed him fear in a handful of sand.) In fact, I think it should be 'shown' in that form, the pluperfect (I show, I was showing, I showed, I have shown?). Let us consult the might of the OED and see if Gaiman is, indeed, guilty of the carnal sin of bad grammar... no; all is absolved; our deity is returned to infallibility; Showed or Shown are both acceptable.
 
-  This was confirmed in the Sandman Companion to indeed be based on the T.S. Eliot quote.  The original marketing adverts for _Sandman_ positioned it as a horror comic, with the tagline "I will show you terror in a handful of dust".  Goodness knows what the DC marketing department made of the rest of the run...
+  This was confirmed in the Sandman Companion to indeed be based on the T.S. Eliot quote. The original marketing adverts for _Sandman_ positioned it as a horror comic, with the tagline "I will show you terror in a handful of dust". Goodness knows what the DC marketing department made of the rest of the run...
 
 ## Credits
 

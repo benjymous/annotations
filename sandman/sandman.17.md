@@ -5,6 +5,7 @@
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
 
 First story in anthology _Dream Country_
+
 First story reprinted in trade paperback _Dream Country_
 
 **Note**: The script for this issue, complete with Neil's and Kelley's notes, is printed in the back of _Dream Country_.

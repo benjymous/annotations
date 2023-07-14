@@ -5,7 +5,9 @@
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
 Referred to by Gaiman as the epilogue to _More than Rubies_
+
 Eighth story reprinted in _Preludes and Nocturnes_
+
 First story reprinted in _The Doll's House_
 
 **Note**: _The Doll's House_ and [Sandman #8](sandman.08.md) both contain an introduction written by Neil Gaiman explaining the story thus far. The introduction does not appear in _Preludes and Nocturnes_. Sandman #8 also contains words of praise for _Sandman_ (and Neil Gaiman) from many writers and artists, both of comic books and mainstream fiction. The introduction is illustrated by original art by Mike Dringenberg in #8. The illustrations in _The Doll's House_ are different and more general. The notes below about the illustrations refer to the ones in #8.
@@ -15,12 +17,15 @@ First story reprinted in _The Doll's House_
 - upper right:
 
   The Tarot traditionally has 22 Major Arcana, numbered 0 to 21. The Sandman card is done in the style of one of the Major Arcana, but its number 34 suggests that a larger set of Major Arcana exists than is familiar to our world. This ties in with a remark in _The Doll's House_.
+
 - Lower right:
 
   The talisman has many features in common with traditional protective circles. The five pointed star inscribed in a circle is typically a pentacle or pentagram. The lettering around the rim is also traditional; this lettering looks to be runic in nature, which strikes me as somewhat odd. Note that all three tools of Dream have representations on the talisman.
+
 - Paragraph 4:
 
   The figure is Destiny.
+
 - Paragraph 10:
 
   Neil Gaiman says that the name of Roderick Burgess's house, Fawney Rig, is significant, being "named by Lady Johanna after the manner in which she acquired it." Fawney Rig is a con in which a gilded brass ring is sold for less than it is supposedly worth (if it were gold), but much more than what it is actually worth. The ring would be dropped and picked up before the mark, so it was also referred to as fawney-bouncing. Lady Johanna's con was presumably done on a larger, more complex scale. Lady Johanna Constantine is an ancestor of John Constantine, whom we met in [Sandman #3](sandman.03.md). We will meet Lady Johanna in later issues.

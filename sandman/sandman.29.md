@@ -5,6 +5,7 @@
 ##### Neil Gaiman, Stan Woch, and Dick Giordano
 
 First story in anthology _Distant Mirrors_
+
 Not yet reprinted in any other form
 
 **Sources**: A note in [Sandman #31](sandman.31.md) indicates that the title of this anthology came from Barbara Tuchman's text _A Distant Mirror: The Calamitous 14th Century_.
@@ -277,7 +278,10 @@ The Revolutionary months are, with corresponding dates and sense:
 
 Note that the months' names have similar endings for months in the same season, and the calendar begins on the fall equinox. (Historically, most calendars have begun at the winter solstice or spring equinox.)
 
-^ Referring to wine-making rather than the "old quality" sense. \* At least one source claims a date of 22 December.
+^ Referring to wine-making rather than the "old quality" sense.
+
+\* At least one source claims a date of 22 December.
+
 \+ Alternately, Fervidor.
 
-**Some comments on month names**: If I recall my high school French properly, 'frais' means 'cool' and 'froit' means 'cold'; both would appear to be akin to Frimaire. 'Neiger' means 'to snow', which does not look like Nivo^se, but I'm still willing to bet that they're from the same root word. 'Pluvoir' means 'to rain', and obviously fits with Pluvio^se. Wind is indeed something like 'vent', to go with Vento^se. Germinal is obviously from the same root as 'germinate', meaning to sprout. Prairial is akin to prairie, which is roughly the same as 'meadow'. Messidor: Late June-early July is an awfully peculiar time to be harvesting.... Thermidor is obviously from the same root as 'thermos', meaning heat. Fructidor is from the same root as fruit, and that root originally meant reproduction of any sort, as opposed to the most common modern meaning, which restricts fruiting to plants.
+**Some comments on month names**: If I recall my high school French properly, 'frais' means 'cool' and 'froit' means 'cold'; both would appear to be akin to Frimaire. 'Neiger' means 'to snow', which does not look like Nivôse, but I'm still willing to bet that they're from the same root word. 'Pluvoir' means 'to rain', and obviously fits with Pluviôse. Wind is indeed something like 'vent', to go with Ventôse. Germinal is obviously from the same root as 'germinate', meaning to sprout. Prairial is akin to prairie, which is roughly the same as 'meadow'. Messidor: Late June-early July is an awfully peculiar time to be harvesting.... Thermidor is obviously from the same root as 'thermos', meaning heat. Fructidor is from the same root as fruit, and that root originally meant reproduction of any sort, as opposed to the most common modern meaning, which restricts fruiting to plants.

@@ -5,6 +5,7 @@
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
 Fourth part of first storyline, _More than Rubies_
+
 Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 1
@@ -57,11 +58,11 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 9
 
-**Note** This is Lucifer's first appearance.  In the original monthly publication these two pages were a double page spread.  After adverts were removed for the collections, they no longer fell over two pages, so were redrawn.
+**Note** This is Lucifer's first appearance. In the original monthly publication these two pages were a double page spread. After adverts were removed for the collections, they no longer fell over two pages, so were redrawn.
 
-  ![](images/LuciferOriginalFirstAppearence.jpg)
+![](images/LuciferOriginalFirstAppearence.jpg)
 
-  ([image source](https://twitter.com/thejither/status/1552683693738758144?t=8jZXY4PmKVDuByuE6_TKsw&s=19))
+([image source](https://twitter.com/thejither/status/1552683693738758144?t=8jZXY4PmKVDuByuE6_TKsw&s=19))
 
 - #### Panel 2
 

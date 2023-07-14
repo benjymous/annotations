@@ -5,6 +5,7 @@
 ##### Neil Gaiman, Sam Kieth, and Malcolm Jones III
 
 Fifth part of first storyline, _More than Rubies_
+
 Fifth story reprinted in _Preludes and Nocturnes_
 
 ### Page 1
@@ -107,7 +108,7 @@ This is a dream of Mister Miracle. Mister Miracle, who goes by the name "Scott F
 
 - #### Panel 5
 
-  The new and allegedly funny Justice League series have established that J'onn enjoys Oreo^tm cookies.
+  The new and allegedly funny Justice League series have established that J'onn enjoys Oreo™ cookies.
 
 ### Page 16
 
@@ -134,8 +135,7 @@ Morpheus while on Earth travels either as a human would (the taxi ride with Cons
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
-- Rich Salz <rsalz@bbn.com>, Tom Galloway <tyg@dip.eecs.umich.edu>, and
-- Curtis Hoffmann <currmann@pnet51.orb.mn.org> identified "Funeral March for a Marionette."
+- Rich Salz <rsalz@bbn.com>, Tom Galloway <tyg@dip.eecs.umich.edu>, and Curtis Hoffmann <currmann@pnet51.orb.mn.org> identified "Funeral March for a Marionette."
 - David Goldfarb <goldfarb@ocf.berkeley.edu> spotted the hook on page 3 and also commented on Morpheus' means of travel.
 - Brian D. Rogerson <bdrogers@athena.mit.edu> commented on J'onn and Morpheus' encounter.
 - Philip J. (Da Pope!) Birmingham <birmingh@fnal.fnal.gov> and I talked a great deal about the "City of Focative Mirrors." David Henry
@@ -143,4 +143,4 @@ Morpheus while on Earth travels either as a human would (the taxi ride with Cons
 - R I K <SMB147@PSUVM.PSU.EDU> joked about the warehouse and recalled Grant Morrison's appearance in _Animal Man_.
 - Jacob Levy <ST802099@BROWNVM> objected to my dismissal of the possible existence of Gotham, the State.
 - Ralf Hildebrandt added more details.
-- <Kull29@aol.com> added more details about the origin of Gotham
+- <Kull29@aol.com> added more details about the origin of Gotham.

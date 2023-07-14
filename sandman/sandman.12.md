@@ -5,6 +5,7 @@
 ##### Neil Gaiman, Chris Bachalo, and Malcolm Jones III
 
 Third part of long storyline _The Doll's House_
+
 Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 1

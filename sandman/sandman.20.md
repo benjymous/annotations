@@ -5,6 +5,7 @@
 ##### Neil Gaiman, Colleen Doran, and Malcolm Jones III
 
 Fourth story in anthology _Dream Country_
+
 Fourth story reprinted in trade paperback _Dream Country_
 
 ### Page 1
@@ -79,8 +80,8 @@ This, of course, is good ol' Death, Dream's older sister. Recall that her symbol
 
   **Metamorphae**: Those who are beyond shape.
 
-  **Morphogenic**:  Shape creating.
-  
+  **Morphogenic**: Shape creating.
+
   **Metaplasm**: That which is beyond being formed. Note that the -morph- morpheme comes from Morpheus ("Shaper"), an appellation for Dream.
 
 - #### Panel 2-3

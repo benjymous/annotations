@@ -5,6 +5,7 @@
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
 
 Second story in anthology _Dream Country_
+
 Second story reprinted in trade paperback _Dream Country_
 
 ### Page 10

@@ -5,6 +5,7 @@
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
 Second part of first storyline, _More than Rubies_
+
 Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 1:

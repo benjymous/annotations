@@ -5,6 +5,7 @@
 ##### Neil Gaiman and Shawn McManus
 
 Fourth part of storyline _A Game of You_
+
 Not yet reprinted in any other form
 
 **Title**: _A Game of You_ clearly refers to the question of identity. Who and what the characters in this story are is a question either to the readers or to the character him, her, or itself, and that is the most important theme the reader should keep in mind when reading this story. This issue has a number of parallels with #32, suggesting an overall structure for the storyline, similar to what was done with _The Doll's House_.

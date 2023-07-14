@@ -5,13 +5,14 @@
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
 Seventh part of first storyline, _More than Rubies_
+
 Seventh story reprinted in _Preludes and Nocturnes_
 
 **Title**: "Sound and Fury" is probably a reference to a line from Macbeth.
 Since I have it online, here's a more complete excerpt:
 
-> She should have died hereafter, there would have been time for such a word. Tomorrow and tomorrow and tomorrow creeps in this petty pace from day to day to the syllable of recorded time; and all our yesterdays are lighted fools....the way to dusty death. Out, out brief candle. Life is but a walking shadow...a poor player who struts and frets his hour upon the stage and is heard no more. It is a tale told by an idiot, full of sound and fury.....signifying --- nothing.
->	- Macbeth Act 5, Scene 5
+> She should have died hereafter, there would have been time for such a word. Tomorrow and tomorrow and tomorrow creeps in this petty pace from day to day to the syllable of recorded time; and all our yesterdays are lighted fools....the way to dusty death. Out, out brief candle. Life is but a walking shadow...a poor player who struts and frets his hour upon the stage and is heard no more. It is a tale told by an idiot, full of sound and fury.....signifying --- nothing.<br>
+  -- Macbeth Act 5, Scene 5
 
 This story had been teased in the previous issue as having the title "WAITING FOR THE END OF THE WORLD..." which is the name of a song Elvis Costello wrote for his debut album, "My Aim is True". The first verse, here liberally typeset to convey Elvis' rather brutal intonation, shares much of the story's tone, especially perhaps the "murder in the dark" sequence.
 

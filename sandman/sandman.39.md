@@ -5,6 +5,7 @@
 ##### Neil Gaiman and John Watkiss
 
 Second story in anthology _Convergences_
+
 Not yet reprinted in any other form
 
 **Themes**: _Convergences_ is about storytelling, as is _Sandman_ overall. In particular, _Convergences_ tells tales where the storyteller becomes the story, and where reality intersects with story and with fantasy. And, it may be noted, dreams are where reality and fiction converge.

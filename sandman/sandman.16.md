@@ -5,6 +5,7 @@
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
 Seventh part of long storyline _The Doll's House_
+
 Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 4
@@ -21,7 +22,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 - #### Panel 5
 
-  I suppose I should start keeping a "Canonical list of Sandman danglers". This would obviously be one.  It was eventually resolved with Overture.
+  I suppose I should start keeping a "Canonical list of Sandman danglers". This would obviously be one. It was eventually resolved with Overture.
 
 ### Page 9
 
@@ -51,11 +52,12 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
   _Sleeping in Flame_ is by Jonathon Carroll, an American writer often writing from Vienna who writes surreal, fantastic, and often horrific fiction. This particular book is a modern retelling of the Rumpleskiltskin fairy tale. Carroll has a reputation for using dreams or fictions becoming reality, and it is rumored that Neil Gaiman had to rework the plot of _The Doll's House_ after reading a Carroll book that used his original idea.
 
-   _Empire of the Senseless_ was written by Kathy Acker in 1988. Perhaps coincidentally, she dedicates the book to her tattooist. It is described as a postmodern novel, and "not a pretty story."
+  _Empire of the Senseless_ was written by Kathy Acker in 1988. Perhaps coincidentally, she dedicates the book to her tattooist. It is described as a postmodern novel, and "not a pretty story."
 
-   Neil indicates that Shirley Jackson's _We Have Always Lived in the Castle_ and M.R. James' _Ghost Stories of an Antiquary_ were in the script but didn't make it into the panel. He notes that this should help people identify Zelda's short story extract from [Sandman #15](sandman.15.md) and the title of this issue.
+  Neil indicates that Shirley Jackson's _We Have Always Lived in the Castle_ and M.R. James' _Ghost Stories of an Antiquary_ were in the script but didn't make it into the panel. He notes that this should help people identify Zelda's short story extract from [Sandman #15](sandman.15.md) and the title of this issue.
 
 ### Page 18
+
 {% alert type="floatright", style="width-40pc" %}
 ![Original photo of G.K. Chesterton](images/GKChesterton.jpg)
 {% endalert %}

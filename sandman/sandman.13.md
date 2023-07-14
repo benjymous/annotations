@@ -5,6 +5,7 @@
 ##### Neil Gaiman, Michael Zulli, and [Steve?] Parkhouse
 
 Fourth part of long storyline _The Doll's House_ (but see below)
+
 Sixth story reprinted in trade paperback _The Doll's House_
 
 **General**: This story is unusual, in that it bears the onus of being "The Doll's House part 4", but has no direct relationship to the larger story, being a side trip into the past.
