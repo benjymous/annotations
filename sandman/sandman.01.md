@@ -1,6 +1,7 @@
 # The Annotated Sandman
 
 ## Issue 1: "Sleep of the Just"
+> [!TIP|style:flat|iconVisibility:hidden|className:marginthumb] ![](thumbnails/sandman.01/RCO001.jpg)
 
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
@@ -11,12 +12,14 @@ First story reprinted in _Preludes and Nocturnes_
 Another _possible_ Elvis Costello influence is the title to Sandman #1 - there IS an Elvis Costello song entitled "Sleep of the just", though nothing in the lyrics correlates with the story.
 
 ### Page 1
+> [!TIP|style:flat|iconVisibility:hidden|className:marginthumb] ![](thumbnails/sandman.01/RCO002.jpg)
 
 - #### Panel 2
 
   First known appearance of Dr. John Hathaway, who we will shortly find out is senior curator of the Royal Museum.
 
 ### Page 2
+> [!TIP|style:flat|iconVisibility:hidden|className:marginthumb] ![](thumbnails/sandman.01/RCO003.jpg)
 
 - #### Panel 1
 
@@ -29,6 +32,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
   Magdalene is a college in Cambridge, Magdalen a college in Oxford. Both are pronounced "mauldin" in British usage.
 
 ### Page 3
+> [!TIP|style:flat|iconVisibility:hidden|className:marginthumb] ![](thumbnails/sandman.01/RCO004.jpg)
 
 - #### Panels 1-4
 
@@ -37,6 +41,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
   In one of McFarlane's comic Spawn's early stories, the main character is a certain Billy Kincaid, serial killer of little children. McFarlane himself wrote the Billy Kincaid story. Alan Moore wrote Spawn#8, which featured Kincaid's experiences in Hell. Neil Gaiman wrote Sandman#9 and the Angela Mini-series.
 
 ### Page 4
+> [!TIP|style:flat|iconVisibility:hidden|className:marginthumb] ![](thumbnails/sandman.01/RCO005.jpg)
 
 - #### Panel 1
 
@@ -47,12 +52,14 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
   "Aleister" is Aleister Crowley, the most widely known demonologist and occultist of that era (and probably still today). Roderick Burgess is essentially only Aleister Crowley renamed.
 
 ### Page 5-7:
+> [!TIP|style:flat|iconVisibility:hidden|className:marginthumb] ![](thumbnails/sandman.01/RCO006.jpg)
 
 - Let's look at the materials in the summoning ritual. On page five, the materials are fairly mundane, except in panel 7: A feather pulled from an angel's wing. This would appear to be fairly difficult, and worth a story in its own.
 
   The coin, stick, song, and knife may correspond to the Disk, Wand, Cup, and Sword suits of the Tarot cards. Disks are analogous to modern diamonds, and represent earth and business. Wands became clubs, and represent fire and energy. Cups became hearts, and represent water and emotions, and are a feminine suit. Swords became spades, and represent air and intellect, and are a masculine suit.
 
 ### Page 6
+> [!TIP|style:flat|iconVisibility:hidden|className:marginthumb] ![](thumbnails/sandman.01/RCO007.jpg)
 
 - #### Panel 4
 
