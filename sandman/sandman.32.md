@@ -1,6 +1,9 @@
 # The Annotated Sandman
 
-## Issue 32: "Slaughter on Fifth Avenue"
+## Issue 32  : "Slaughter on Fifth Avenue"
+
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page00.jpg)
+
 
 ##### Neil Gaiman and Shawn McManus
 
@@ -20,6 +23,8 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page01.jpg)
+
 - #### Panel 1
 
   The Cuckoo and its Disciples were first mentioned in _The Doll's House_. Luz was the name of the place where Jacob had his dream of wrestling with an angel. In keeping with _A Game of You_'s name motif, note that upon waking up, Jacob renamed the place Bethel (which means "house of God").
@@ -29,6 +34,8 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
   The parallel between the captions and the scene indicates that this still form is the Tantoblin; more will be explained in later issues. The Black Guard is another unknown group. Tantoblin: A tart or round pastry, or a lump of excrement.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page02.jpg)
 
 - #### Panel 1
 
@@ -40,6 +47,8 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page03.jpg)
+
 - #### Panel 1
 
   The Hierogram and the Porpentine were mentioned in _The Doll's House_. Hierogram comes from words meaning "holy writing", and itself means "sacred symbol" or is equated with "hieroglyph" (which also means "holy writing", making the definition nicely circular). Porpentine is the old and obsolete name of a certain [unspecified] fixed star. The OED has a citation for this use from 1503. Porpentine can also be used to mean "porcupine".
@@ -50,11 +59,15 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page04.jpg)
+
 - #### Panel 1
 
   This is Barbie, who was once married to Ken, but whose marriage ended as a result of events in _The Doll's House_. Note the photos on the wall behind her, which includes photos of tattoos and a male breast with a nipple ring.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page05.jpg)
 
 - #### Panel 1
 
@@ -74,15 +87,19 @@ Note that Wanda uses alliterative pet names for Barbie.
 
   **Put my face on**: apply makeup. This process is unusually complex for Barbie, as we shall see.
 
-Note the potential ambiguity in the discussion of cheeks, given the prominent appearance of Barbie's buttocks in this panel.
+  Note the potential ambiguity in the discussion of cheeks, given the prominent appearance of Barbie's buttocks in this panel.
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page06.jpg)
 
 - #### Panel 5
 
   Is Wanda wearing shorts or an oddly shaped skirt?
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page07.jpg)
 
 - #### Panel 2
 
@@ -93,6 +110,8 @@ Note the potential ambiguity in the discussion of cheeks, given the prominent ap
   First appearance of Hazel.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page08.jpg)
 
 - #### Panel 1
 
@@ -108,11 +127,15 @@ Note the potential ambiguity in the discussion of cheeks, given the prominent ap
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page09.jpg)
+
 - #### Panel 3
 
   First appearance of George. Also note that page numbers have disappeared. Since the story runs 25 pages instead of the usual 24, I suspect that the script was being revised while McManus was doing the art, causing a some confusion.
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page10.jpg)
 
 - #### Panel 2
 
@@ -128,6 +151,8 @@ Note the potential ambiguity in the discussion of cheeks, given the prominent ap
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page11.jpg)
+
 - #### Panel 1
 
   This may be the same place where Johanna Constantine met Dream in [issue #29](sandman.29.md), _Thermidor_.
@@ -142,11 +167,15 @@ Note the potential ambiguity in the discussion of cheeks, given the prominent ap
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page12.jpg)
+
 - #### Panel 7
 
   According to what Dream says here, and since the Land is a skerry, the skerries are semi-stable, the private dream reserves for those who dream in series of dreams.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page13.jpg)
 
 - #### Panel 1
 
@@ -160,10 +189,12 @@ Note the potential ambiguity in the discussion of cheeks, given the prominent ap
 
   "Rowley" is a reference to an old Mother Goose rhyme:
 
-> With a Rowley, Powley, Gammon, and Spinach
-> Heigh-Ho for Anthony Rowley.
+ > With a Rowley, Powley, Gammon, and Spinach<br>
+ > Heigh-Ho for Anthony Rowley.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page14.jpg)
 
 - #### Panel 3
 
@@ -175,6 +206,8 @@ Note the potential ambiguity in the discussion of cheeks, given the prominent ap
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page15.jpg)
+
 - #### Panel 2
 
   Martin Tenbones has indeed found his way to the real world,
@@ -185,6 +218,8 @@ Note the potential ambiguity in the discussion of cheeks, given the prominent ap
   Note the yellow liquid on the ground & dripping off the lady's skirt; apparently, she wet herself.
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page16.jpg)
 
 - #### Panel 1
 
@@ -214,6 +249,8 @@ Note the potential ambiguity in the discussion of cheeks, given the prominent ap
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page17.jpg)
+
 - #### Panel 1
 
   Wanda's description of the "Wierdzos" is apparently an accurate description of the Bizarros.
@@ -238,6 +275,8 @@ Note the potential ambiguity in the discussion of cheeks, given the prominent ap
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page18.jpg)
+
 - #### Panel 1
 
   Martin Tenbones' right eye has apparently been hit. The result of another encounter after scaring the black beggar lady, perhaps?
@@ -247,6 +286,8 @@ Note the potential ambiguity in the discussion of cheeks, given the prominent ap
   Note the people's reactions to Martin and the smoke coming from the car on the right.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page19.jpg)
 
 - #### Panel 2
 
@@ -262,9 +303,13 @@ Note the potential ambiguity in the discussion of cheeks, given the prominent ap
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page20.jpg)
+
 Martin Tenbones has grown since the Doll's House, where he was no more than chest-high to Barbara.
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page21.jpg)
 
 - #### Panel 2
 
@@ -276,11 +321,15 @@ Martin Tenbones has grown since the Doll's House, where he was no more than ches
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page22.jpg)
+
 - #### Panel 1
 
   Luz, as we see, is a dodo, Prinado a monkey in a bellboy suit, and Wilkinson a rat in a trenchcoat and press hat. Wilkinson's attire and manner of talking suggest John Constantine, the main character of DC's _Hellblazer_, who also appeared in [Sandman #3](sandman.03.md).
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page23.jpg)
 
 - #### Panel 2
 
@@ -289,6 +338,8 @@ Martin Tenbones has grown since the Doll's House, where he was no more than ches
   Note also the man standing in the background. Is he merely loitering, or is he interested in what happens to Barbie?
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page24.jpg)
 
 - #### Panel 2
 
@@ -299,6 +350,8 @@ Martin Tenbones has grown since the Doll's House, where he was no more than ches
   The birds of the apparitions are probably supposed to be cuckoos.
 
 ### Page 25
+
+> [!THUMBNAIL] ![](thumbnails/sandman.32/page25.jpg)
 
 - #### Panel 4 & 5
 

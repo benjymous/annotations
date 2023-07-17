@@ -2,6 +2,8 @@
 
 ## Issue 24
 
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page00.jpg)
+
 ##### Neil Gaiman, Kelley Jones, and P. Craig Russell
 
 Season of Mists Chapter 3
@@ -14,6 +16,8 @@ Not yet reprinted in any other form
 **Note**: I have a bootleg copy of the script for this issue; I'll be interpolating notes from it as I did for [Sandman #17](sandman.17.md).
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page01.jpg)
 
 This is characterized as "the ninth century Norwegian idea of what a great palace should be". Kelley is cautioned to "Forget all the Kirbyish SF stuff." Colorist Steve Oliff is also cautioned to "get as far from the brightly coloured Kirby Asgard as you can here: This is the Asgard of the old Norse, a bitter dangerous place." (Jack Kirby was the original artist on Marvel's _The Mighty Thor_, and his unique style was most certainly not traditionally Norse.)
 
@@ -33,11 +37,15 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page02.jpg)
+
 - #### Panel 2
 
   Sigyn, whose name translates as "Victory Giver", is the wife of Loki, whose torment as shown here is well-established in Norse myth. In fact, Gaiman's description is clearly inspired by _Bullfinch's Mythology_. Loki was imprisoned for his causative role in the death of Baldur.
 
 ### Page 4
+
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page04.jpg)
 
 - #### Panel 4
 
@@ -49,6 +57,8 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page05.jpg)
+
 - #### Panel 1-2
 
   This is probably a passage from the Elder Edda, a long saga in Old Icelandic that is the source for most Norse myths. The ship of nails is named Naglfar.
@@ -59,11 +69,15 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page06.jpg)
+
 - #### Panel 1
 
   These are Dream, Matthew, Lucien, and Cain. Lucien "sits like someone who doesn't sit very often and isn't very good at it." Cain is supposed to look much more like Berni Wrightson's 1972 model; [Sandman #22](sandman.22.md) is described as the "total destruction of everything [Cain] felt he was"; I disagree with that description for reasons given in that annotation. Note the eyes in the background shadow; this is a "grotesque thingie", looking at Dream in surprise. His return was supposed to be extremely unexpected, though I get no sense of this from the published work.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page08.jpg)
 
 - #### Panel 1
 
@@ -79,9 +93,13 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page09.jpg)
+
 This is described in the script as Dream's private quarters, which we've never seen before.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page11.jpg)
 
 Chaos and Order are two opposed sets of beings often seen before in DC comics. In one form or another, Dr. Fate is an agent or an actual Lord of Order, as is Amethyst. Hawk and Dove were the incarnations of Lords of Chaos and Order respectively. Generally, Order = Good and Chaos = Bad, though each writer writes Order and Chaos in different and incompatible ways. The major portion of the mythology of Order and Chaos was established by Martin Pasko in Dr. Fate, then completely abrogated by JM deMatteis. Barbara Kesel, Keith Giffen, Paul Kupperburg, William Messner-Loebs, and Grant Morrison have also contributed in comics.
 
@@ -91,15 +109,21 @@ The script suggests blurred photocopies of fractal images for panels representin
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page12.jpg)
+
 - #### Panel 1
 
   Dream is in his gallery. The sigils of the Endless are arrayed left to right in order of age. Destiny's book is first, then Death's ankh. Next we see Dream's face, as if in a mirror, then the missing sigil of the Prodigal, then the heart of Desire. Note: When we saw Desire's gallery, we saw her face for her sigil, and Dream's helmet for his. This suggests an obvious rule for such galleries.
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page14.jpg)
+
 The Silver City is new. It has also appeared in _The Books of Magic_ #1. My own personal feeling is that where the angels dwell is necessarily at least a part of Heaven, but this is not born out by the text. I doubt I need to explain what angels and Heaven are.... The scripts notes that all angels have the same face, and Gaiman suggests Jane Morris, who sat for many of the pre-Raphaelite painters; Barry Windsor-Smith's adaptation of _Red Nails_ used Morris as an inspiration for Valeria.
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page15.jpg)
 
 - #### Panel 1
 
@@ -108,6 +132,8 @@ The Silver City is new. It has also appeared in _The Books of Magic_ #1. My own 
   Duma, which may mean "silence", is an angel of death in Jewish folklore, to whom one has to give account. He is the angel of silence and the stillness of death. He is also the tutelary angel of Egypt and of vindication, and at least one source calls him a "Prince of Hell", ie, one of the Fallen angels. _The Zohar_ speaks of him as having "tens of thousands of angels of destruction" under him, and as being "chief of demons in Gehinnon [Hell; a more familiar spelling is "Gehenna"] with 12,000 myriads of attendants, all charged with the punishment of the souls of sinners." Dumah is also the name given to the guardian of the 14th gate, through which the goddess Ishtar passed on her journey to the underworld in Babylonian mythology. I am told that Neil did not know of the sources listing Duma as one of the fallen when he was writing this story!
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page16.jpg)
 
 - #### Panel 1
 
@@ -118,6 +144,8 @@ The Silver City is new. It has also appeared in _The Books of Magic_ #1. My own 
   Daemon is just another word for demon. Gaiman suggests Joel Peter Witkin for the feel of the congregation of nasties.
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page17.jpg)
 
 - #### Panel 2
 
@@ -136,6 +164,8 @@ The Silver City is new. It has also appeared in _The Books of Magic_ #1. My own 
   Nada was seen in [Sandman #4](sandman.04.md), 9; she is an erstwhile lover of Dream, whom he cruelly imprisoned in Hell.
 
 ### Page 18
+
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page18.jpg)
 
 - #### Panel 1
 
@@ -159,11 +189,15 @@ The Silver City is new. It has also appeared in _The Books of Magic_ #1. My own 
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page19.jpg)
+
 - #### Panel 2
 
   This is a statue of the griffon who guards the Dreaming's gates. Apparently, Gaiman was not satisfied with Kelley's rendition of the griffon in [Sandman #18](sandman.18.md), as he instructs him to check out a reference and get it right. Note that the script explicitly states this is a statue, from which the voice of the griffon at the gate comes. We may note that griffons classically have eagle's wings as well as eagle's heads.
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page21.jpg)
 
 - #### Panel 2
 
@@ -172,6 +206,8 @@ The Silver City is new. It has also appeared in _The Books of Magic_ #1. My own 
   They are the winged bulls which appeared on Assyrian palaces. They are made of the bearded head of a man, the body of a lian, the wings of an eagle, and the feet of a bull, although here they appear similar to sphinxes. Ezekiel's vision may have been associated with these figures carved into the sides of walls.
 
 ### Page 22
+
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page22.jpg)
 
 - #### Panel 2
 
@@ -192,6 +228,8 @@ The Silver City is new. It has also appeared in _The Books of Magic_ #1. My own 
   Two good sources for this material are the Nihongi, the Chronicle of Japan, and Joseph Campbell's _The Masks of God: Oriental Mythology_.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.24/page23.jpg)
 
 - #### Panel 1
 

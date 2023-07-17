@@ -2,6 +2,8 @@
 
 ## Issue 25
 
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page00.jpg)
+
 ##### Neil Gaiman, Matt Wagner, and Malcolm Jones III
 
 Season of Mists Chapter 4
@@ -13,6 +15,8 @@ Not yet reprinted in any other form
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page01.jpg)
+
 - #### Panel 1
 
   We are in the attic of a British boarding school. Visible are a deer head, a sporting team picture, a soccer ball [football], a cricket bat, golf clubs, and a bust. What Americans call soccer, the rest of the world calls football (Fussball in Germany); In Australia, soccer is soccer and "football" is Australian Rules Football. I think that in New Zealand "football" is rugby, but it may be wise to confirm with a New Zealander; cricket (according to Douglas Adams the most stupid game in the universe) is a British game with some superficial resemblance to American baseball game. We have not met Charles Rowland before.
@@ -23,17 +27,23 @@ Not yet reprinted in any other form
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page03.jpg)
+
 - #### Panel 3
 
   It should probably be noted that boarding school students are typically required to wear school uniforms, such as Paine's in this panel.
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page04.jpg)
+
 - #### Panel 1
 
   A headmaster is the rough equivalent of an American principal.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page05.jpg)
 
 - #### Panel 1-3
 
@@ -47,11 +57,15 @@ Not yet reprinted in any other form
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page06.jpg)
+
 - #### Panel 1
 
   St. Hilarion was a follower of St. Antony, born in the 4th century in Tabatha, near Gaza and educated in Alexandria. After his conversion, he returned home (after his parents' death), gave away all his possessions, and became a hermit. He was very austere. He gained renown, and performed many acts of healing. He died in Cyprus at the age of 80. In the Roman Catholic Church, possibly the Church of England as well, his day is 21 October.
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page07.jpg)
 
 - #### Panel 1-2
 
@@ -61,13 +75,15 @@ Not yet reprinted in any other form
 
 - #### Panel 3
 
-  Lights-out: mandatory bedtime for students and soldiers.
+  **Lights-out**: mandatory bedtime for students and soldiers.
 
-Spit-spot: British interjection full of sound and rhythm, meaning nothing.
+  **Spit-spot**: British interjection full of sound and rhythm, meaning nothing.
 
-Exemplified for Americans by the title character in the movie _Mary Poppins_.
+  Exemplified for Americans by the title character in the movie _Mary Poppins_.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page09.jpg)
 
 - #### Panel 2
 
@@ -79,6 +95,8 @@ Exemplified for Americans by the title character in the movie _Mary Poppins_.
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page10.jpg)
+
 - #### Panel 2
 
   **Hunnish**: German. I could not say, however, exactly what allegedly deviant or barbarous acts Germans are wont to perform. The prejudice probably stems from anti-German propaganda or folklore during the World Wars, a period during which "Mother" is likely to have been alive, and young enough to be impressionable.
@@ -89,11 +107,15 @@ Exemplified for Americans by the title character in the movie _Mary Poppins_.
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page11.jpg)
+
 - #### Panel 4
 
   German measles, or rubella, will cause birth defects if contracted during pregnancy.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page13.jpg)
 
 - #### Panel 1
 
@@ -105,6 +127,8 @@ Exemplified for Americans by the title character in the movie _Mary Poppins_.
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page14.jpg)
+
 - #### Panel 2
 
   This is evidently the death of Paine, as recounted on page 12.
@@ -115,17 +139,23 @@ Exemplified for Americans by the title character in the movie _Mary Poppins_.
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page15.jpg)
+
 - #### Panel 1
 
   The headmaster is referring to a Latin proverb, "Mens sana in corpore sano": A sound mind in a sound body. Note the boy between Paine and Charles; he looks like a live boy, and he's not in uniform.
 
 ### Page 16
 
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page16.jpg)
+
 - #### Panel 1
 
   **Carpe diem**: Seize the day (also Latin). It may be noted that this aphorism is the main theme of _Dead Poets Society_, a film set in an American boarding school.
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page17.jpg)
 
 - #### Panel 3
 
@@ -137,11 +167,15 @@ Exemplified for Americans by the title character in the movie _Mary Poppins_.
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page18.jpg)
+
 - #### Panel 2-4
 
   Skinner (I believe) is taking a meat fork and is apparently piercing or cutting off Charles' right nipple. Note that they are also burning his back against the grill.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page19.jpg)
 
 - #### Panel 5
 
@@ -153,11 +187,15 @@ Exemplified for Americans by the title character in the movie _Mary Poppins_.
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page20.jpg)
+
 - #### Panel 9; page 21
 
   This is Death in easily her oddest outfit ever.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.25/page23.jpg)
 
 - #### Panel 1
 

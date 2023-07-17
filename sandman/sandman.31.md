@@ -1,6 +1,8 @@
 # The Annotated Sandman
 
-## Issue 31: "Three Septembers and a January"
+## Issue 31 : "Three Septembers and a January"
+
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page00.jpg)
 
 ##### Neil Gaiman and Shawn McManus
 
@@ -28,6 +30,8 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page01.jpg)
+
 - #### Panel 1
 
   This is Joshua Norton, of whom we will learn more shortly.
@@ -42,6 +46,8 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page02.jpg)
+
 This is a splash panel. Note Dream's period attire; Dream is the only Endless who seems to care about the appropriateness of his appearance. Except for Destruction, who we see in plate armor in the Orpheus special, and in a "swashbuckler's" outfit in Brief Lives (amongst other places; don't have the exact reference)
 
 Death is the only other Endless with any sense of costume, save, perhaps, Destiny.
@@ -49,6 +55,8 @@ Death is the only other Endless with any sense of costume, save, perhaps, Destin
 In the credit box, Gaiman takes the title PJF, probably meaning Pre-Joycean Fellowship. This is a group whose membership primarily overlaps with that of the Scribblies, an sf/fantasy writers group located in Minneapolis, Minnesota, containing such notables as Steven Karl Zoltan Brust, Pamela Dean, Emma Bull, and Will Shetterley (who is known in comics for his _Captain Confederacy_). The Pre-Joycean Fellowship believes that literature can be both accessible and meaningful. They identify James Joyce as the first proponent of the idea that literature must be inaccessible to be meaningful. The term Pre-Joycean was coined in analogy to the Pre-Raphaelite Brotherhood (a turn of the century British artist's group, but I'm probably wrong).
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page03.jpg)
 
 - #### Panel 4
 
@@ -60,6 +68,8 @@ In the credit box, Gaiman takes the title PJF, probably meaning Pre-Joycean Fell
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page04.jpg)
+
 Norton's background as given here seems to be correct.
 
 - #### Panel 2
@@ -68,17 +78,23 @@ Norton's background as given here seems to be correct.
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page05.jpg)
+
 - #### Panel 5
 
   The "oldest sister" is Death, of course. The map has some remarkable flaws. The modern map has borders between Nevada and Arizona, Missouri and Arkansas, Michigan's Upper Peninsula and Wisconsin, and Ohio and Kentucky. The missing border between Nevada and Arizona may be an accurate representations of the period's pre-statehood territorial boundaries, but borders had long since been set for the other cases, particularly Kentucky and Ohio, which dates back at least to 1792, and probably back to the earliest colonial days.
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page06.jpg)
+
 - #### Panel 5
 
   The [San Francisco] Daily Evening Bulletin was published between 8 Oct 1855 and 18 May 1895, becoming The Bulletin on 20 May 1895, continuing through to 19 Sept 1928, when it ceased publication. It was published every day except Sunday.
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page07.jpg)
 
 - #### Panel 2-4
 
@@ -99,6 +115,8 @@ Incidentally, the figure shadowed against the wall in this panel is Norton himse
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page08.jpg)
+
 - #### Panel 3
 
   Grown-up: An unusual concept to apply to the Endless.
@@ -106,6 +124,8 @@ Incidentally, the figure shadowed against the wall in this panel is Norton himse
   (BUT! : Death tells Dream that Delirium is "just a kid" in Brief Lives. Of course, this flies in the face of earlier descriptions of the Endless, most notably in The Season of Mists, where it is said "the Endless to not measure time like we do".)
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page09.jpg)
 
 - #### Panel 1
 
@@ -119,11 +139,15 @@ Incidentally, the figure shadowed against the wall in this panel is Norton himse
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page10.jpg)
+
 - #### Panel 5-6
 
   The Golden Gate Bridge, between San Francisco and Sausalito, is the most famous bridge in the Bay area. It was constructed during the period 1933-1937. It does _not_ go to Oakland. Norton is foreshadowing the Bay Bridge, opened in 1936, which does cross the Bay to Oakland. Chris Claremont has referred to the bridge as the "Emperor Norton" bridge, in X-Men c. #200, though this usage is otherwise unfamiliar to a native of the city.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page11.jpg)
 
 - #### Panel 1
 
@@ -137,13 +161,15 @@ Incidentally, the figure shadowed against the wall in this panel is Norton himse
 
   Clemens is recounting what will become one of his most famous stories, "The Celebrated Jumping Frog of Calaveras County". This is an anachronism, as Twain had not yet heard the story.
 
-Note that Delirium's word balloon is uncolored, no doubt an oversight.
+  In early editions, Delirium's word balloon was uncolored, but this was corrected in later issues.
 
 - #### Panel 6
 
   Note Delirium's uneasy relationship with Dream, to be expanded upon in later issues.
 
 ### Page 12
+
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page12.jpg)
 
 - #### Panel 4
 
@@ -155,6 +181,8 @@ Note that Delirium's word balloon is uncolored, no doubt an oversight.
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page13.jpg)
+
 - #### Panel 2
 
   I cannot confirm this Imperial decree. However, judging by his later character, Clemens would have been delighted with the appointment, and in any case, it was most apt in its description of the role Twain would play in American literature.
@@ -164,6 +192,8 @@ Note that Delirium's word balloon is uncolored, no doubt an oversight.
   The frog is Delirium's creature.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page14.jpg)
 
 - #### Panel 1
 
@@ -182,6 +212,8 @@ Note that Delirium's word balloon is uncolored, no doubt an oversight.
   The Emperor issued his own money, and exchanged it for US currency. Most people regarded the Emperor's money as a souvenir (Again, "soo-ven-ear" is exactly how the word is usually pronounced) and were glad to pay its face value in exchange. As noted further along, a number of establishments accepted the Emperor's money as well as US currency. By such means did the Emperor survive.
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page15.jpg)
 
 - #### Panel 1
 
@@ -219,6 +251,8 @@ Note that Delirium's word balloon is uncolored, no doubt an oversight.
 
 ### Page 16
 
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page16.jpg)
+
 - #### Panel 1
 
   The parrot is at least semi-intelligent.
@@ -233,6 +267,8 @@ Note that Delirium's word balloon is uncolored, no doubt an oversight.
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page17.jpg)
+
 - #### Panel 1
 
   Gaiman says the King of Pain was a real person; I have no refs for him, save perhaps for the song "King of Pain" from the Police's album _Synchronicity_. Wolfsbane and aconite, as well as monkshood, are all names for the same plant. Aconite is an analgesic in small doses, and a poison in larger ones.
@@ -245,6 +281,8 @@ Note that Delirium's word balloon is uncolored, no doubt an oversight.
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page19.jpg)
+
 Pain seems to be a regular character in the Vertigo universe. In the recent series "Mythos: The Final Tour" (I think?) He and his aide, Tacky Leatherette, are indeed main characters, and mention "not using the D-word," after Desire's name is mentioned, not wanting to inspire her wrath. Desire does indeed later show up, proving that the endless will... jump series. (Note that Cain and Able do the same, in the DC/Vertigo series, "The House of Secrets" or somesuch.
 
 - #### Panel 2
@@ -252,6 +290,8 @@ Pain seems to be a regular character in the Vertigo universe. In the recent seri
   The King of Pain told those who bought the liniment he sold outside the Pacific Clinical Infirmary that if they covered their bodies with the ointment as he did, they would need no clothes. He himself wore a bright red union suit, a heavy velour robe, a ostrich-feathered plug hat, and a heavy sword; he was probably the most ornate personage in the San Francisco of his time.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page19.jpg)
 
 - #### Panel 2
 
@@ -265,6 +305,8 @@ Pain seems to be a regular character in the Vertigo universe. In the recent seri
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page21.jpg)
+
 - #### Panel 5
 
   The Kindly Ones are the Eumenides, or the Furies, an aspect of the three-in-one goddess, dedicated to revenge and punishment. This is aftershadowing; Desire's, ahem, _desire_ for revenge will later result in the storyline of _The Doll's House_.
@@ -272,6 +314,8 @@ Pain seems to be a regular character in the Vertigo universe. In the recent seri
   **"Get down and lick, Pain.**: Probably a reference to bootlicking; may also refer to the licking of wounds.
 
 ### Page 22
+
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page22.jpg)
 
 - #### Panel 1
 
@@ -299,11 +343,15 @@ Pain seems to be a regular character in the Vertigo universe. In the recent seri
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page23.jpg)
+
 - #### Panel 4
 
   The lesson is (see page 5 panel 3) is at least partly that dreams are not "nothing", and also partly that Dream is of a different class of being than Despair, the elder Endless instead of the younger. The younger are more fragile. Despair's slowness to learn may be due to the self-absorption of those in despair, isolating her from external reality.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.31/page24.jpg)
 
 - #### Panel 1
 

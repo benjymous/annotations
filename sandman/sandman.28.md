@@ -2,6 +2,8 @@
 
 ## Issue 28
 
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page00.jpg)
+
 ##### Neil Gaiman, Mike Dringenberg, and George Pratt
 
 Season of Mists Epilogue
@@ -20,6 +22,8 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page01.jpg)
+
 - #### Panel 2
 
   The central figure, the most humanoid of the demons, is probably Choronzon. The fish have a number of symbolic meanings in Christianity. Jesus and his followers were known as "fishers of men" (see Matthew 4:19), symbolizing human souls as fish; the fish was also a symbol of the early Christian church, and, by extension, of Jesus himself.
@@ -28,21 +32,23 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
   We may have seen the big slug-like demon before.
 
-### Page 2
+### Page 2-3
 
-- #### Panel 3
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page02-03.jpg)
+
+- #### Panel 3 (left)
 
   Note that Duma has no genitals, though he does have nipples. Does he have a navel? See below. That's the key to Hell lying on his stomach.
 
-### Page 3
-
-- #### Panel 7
+- #### Panel 7 (right)
 
   Dream appears in his Kai'ckul guise for his dinner with Nada.
 
   Note also the amazing appearing/disappearing candelabra, which may be seen in page 4 panels 3 and 4 and page 5 panel 3, but which is missing in this panel, page 4 panel 5, page 5 panel 5, page 7 panel 5 and page 8 panel 5.
 
 ### Page 4
+
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page04.jpg)
 
 - #### Panel 5
 
@@ -60,6 +66,8 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page05.jpg)
+
 - #### Panel 5
 
   Hint, boys'n'girls. This is NOT how to apologize to anyone.
@@ -72,6 +80,8 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page06.jpg)
+
 - #### Panel 2
 
   "Kissed it all better" sounds peculiarly modern, and idiomatic, for a queen of millennia-past Africa.
@@ -82,17 +92,23 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page07.jpg)
+
 - #### Panel 5
 
   Another print, but of what? Probably a photostat. Is there a horse figure in the center?
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page08.jpg)
+
 - #### Panel 4
 
   This is the most definite statement that Dream could quit that I have seen, although we have seen strong indications that he could die or be removed. He would be replaced in any event by another incarnation of Dream.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page09.jpg)
 
 - #### Panel 1-2
 
@@ -104,6 +120,8 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page10.jpg)
+
 - #### Panel 3
 
   The Floating Kingdom is probably the divine home on the island Onogoro.
@@ -114,11 +132,15 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page11.jpg)
+
 - #### Panel 4
 
   Dream has never explicitly carried out his stated intention here. May we assume that he did it off panel?
 
 ### Page 12
+
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page12.jpg)
 
 - #### Panel 2
 
@@ -130,21 +152,28 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page14.jpg)
+
 - #### Panel 1
 
   Why forbid the small glamour when it clearly provides relief to Nuala? All visitors to Dream's realm cloak themselves in small illusions of whatever sort, but those illusions are generally the product of their dreams. In any case, Dream has shown himself before to be autocratic in his own realm, and has put his dignity before the concerns of others. Nuala's glamour affords her control over her own image; Dream allows no one else control of any sort in his realm; compare the difficulty of "lucid dreaming". Additionally, the forbiddance will serve to remind Nuala that she is a servant, not a guest.
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page15.jpg)
+
 - #### Panel 1
 
   The first choice would probably be to go on to Heaven or the equivalent afterlife--that "undiscover'd country from whose bourne no traveler returns", ignorance of which makes that choice harder.
 
 ### Page 16-17
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page16.jpg)
 
 Nada is being reincarnated (as a boy, as we see in page 16 panel 5). Is Dream promising the new him a lifetime of good dreams?
 
 ### Page 18
+
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page18.jpg)
 
 - #### Panel 1
 
@@ -158,6 +187,8 @@ Nada is being reincarnated (as a boy, as we see in page 16 panel 5). Is Dream pr
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page19.jpg)
+
 - #### Panel 3
 
   **Worse for wear**: Drunk.
@@ -167,6 +198,8 @@ Nada is being reincarnated (as a boy, as we see in page 16 panel 5). Is Dream pr
   **'Strewth**: Long-time _Hellblazer_ readers recognize this as "God's truth", a minor expletive. The shortening occurred because of a general reluctance to use the word "God". Similar examples include the obsolete " 'sblood"; "geez", from Jesus; and "zounds", from "Christ's wounds" via " 'swounds".
 
 ### Page 20
+
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page20.jpg)
 
 - #### Panel 1
 
@@ -180,6 +213,8 @@ Nada is being reincarnated (as a boy, as we see in page 16 panel 5). Is Dream pr
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page21.jpg)
+
 - #### Panel 3
 
   Remiel refers to the perfection of the name of God. Note that Duma does appear to have a navel.
@@ -189,6 +224,8 @@ Nada is being reincarnated (as a boy, as we see in page 16 panel 5). Is Dream pr
   Remiel seems to be indicating an unexpected affection for Duma.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page23.jpg)
 
 One is tempted to say "the Road to Hell is paved with good intentions" in response to Remiel's musings.
 
@@ -205,6 +242,8 @@ One is tempted to say "the Road to Hell is paved with good intentions" in respon
   **Irony**: Nothing can end happily, in Hell. The demon shown here was also seen in the beginning of this tale, as hard at work then as now.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.28/page24.jpg)
 
 This is Destiny, in his Garden of Forking Paths. See [Sandman #21](sandman.21.md) for more detail.
 

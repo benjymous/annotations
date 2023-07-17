@@ -1,6 +1,10 @@
 # The Annotated Sandman
 
-## Issue 30: "August"
+## Issue 30 : "August"
+
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page00.jpg)
+
+
 
 ##### Neil Gaiman, Brian Talbot, and Stan Woch
 
@@ -18,6 +22,8 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page01.jpg)
+
 - #### Panels 1-3
 
   The participants and action of this scene will become clearer later in this issue.
@@ -27,6 +33,8 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
   Lycius is a real historical figure. See Suetonius, _Augustus_, 43.3. "Avgvst": In Roman writing, the letters "u" and "v" had not differentiated, and were written with the same symbol. The sounds themselves were not as distinct, /v/ being a bilabial liquid (semi-vowel) akin to /w/.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page02.jpg)
 
 - #### Panel 1
 
@@ -42,6 +50,8 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page03.jpg)
+
 - #### Panel 1
 
   This is the Emperor Augustus, born 63 BC, became emperor 27 BC, died 14 AD. The name (title, really) Augustus means something like "majestic" or "sacred", from a Latin word meaning "to increase". The English word "august" comes directly from the name, as does the month of August. Subsequent Roman emperors took the title Augustus upon their ascension to imperial rank.
@@ -56,13 +66,17 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page04.jpg)
+
 - #### Panel 3-4
 
   Balsamic and red wine vinegar are red. White wine and grain vinegars are clear; cider vinegar is amber. Distilled vinegars, like the majority of modern vinegars, is clear regardless of its fabric. Roman vinegar of that era was usually vinegar; cheap, weak, or off-vintage wine; or wine that had outlived its usefulness to the trained palate. Vinegar was reputed to possess certain medicinal properties. In Latin, vinegar is "acetum", whence our "acetic acid", the primary component of vinegar.
 
-**Quicker than boiled asparagus**: asparagus is a laxative. This phrase is used often by Claudius in Graves' historical works. Asparagus also cooks very quickly and is boiled for a few minutes at most, which may be a different interpretation of the saying.
+  **Quicker than boiled asparagus**: asparagus is a laxative. This phrase is used often by Claudius in Graves' historical works. Asparagus also cooks very quickly and is boiled for a few minutes at most, which may be a different interpretation of the saying.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page05.jpg)
 
 - #### Panel 1
 
@@ -82,6 +96,8 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page06.jpg)
+
 - #### Panel 1
 
   This is an ancient trick still practiced today by street beggars, bartenders, and lounge musicians alike.
@@ -99,6 +115,8 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
   **Pylades**: a pantomime dancer, banished on one occasion by Augustus but later restored. Pylades was also the name of the cousin and proverbial loyal friend of Orestes (from Aeschylus).
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page07.jpg)
 
 - #### Panel 3
 
@@ -118,6 +136,8 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page08.jpg)
+
 - #### Panel 1-3
 
   It should now be clear that the boy of the grey flashbacks is Augustus; the uncle (really great uncle) is Julius Caesar, the warrior and dictator of Rome.
@@ -127,6 +147,8 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
   Livia, whom Augustus adored, sought to assure her children's future power, and engaged in deceitful machinations against Augustus' children, including Julia. For details, see the Appendix or Sue., _Aug._ 66.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page09.jpg)
 
 - #### Panel 1
 
@@ -150,6 +172,8 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page10.jpg)
+
 - #### Panel 1
 
   Mercury is the Roman god analogous to Hermes of the Greeks.
@@ -164,6 +188,8 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
   **Corn**: What Americans call "corn" is one specific grain, originally native to the Americas. In Pre-Columbian English, though, "corn" meant any grain, particularly the most important local grain, usually wheat, and retains some portion of that meaning in British English today. It is used in that sense here.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page11.jpg)
 
 - #### Panel 3
 
@@ -181,6 +207,8 @@ The phrase "Mad dogs and Englishmen stay out in the midday sun", I had thought, 
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page12.jpg)
+
 - #### Panel 2
 
   I do not know of the nature of Augustus' illness.
@@ -190,6 +218,8 @@ The phrase "Mad dogs and Englishmen stay out in the midday sun", I had thought, 
   Julius Caesar was assassinated by Brutus, Cassius, and a group of conspirators on the steps of the Roman Senate in 44 BC. The conspirators believed he was amassing too much personal power, and would make himself king (a specific term in Roman culture, effectively differing from dictator only in being hereditary). The events were made archetype by William Shakespeare in his play _Julius Caesar_.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page13.jpg)
 
 - #### Panel 1
 
@@ -205,11 +235,15 @@ The phrase "Mad dogs and Englishmen stay out in the midday sun", I had thought, 
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page14.jpg)
+
 - #### Panel 2
 
   I believe western civilization has trained most of us to think that "Emperors" are higher ranking than "Kings" (viz., the British _Empire_ versus the King of England); however, the words had much more specific meanings when they were young. "Emperor" comes from "imperator", "commander", a military title of the Republic achieving royal status only with Augustus. Kings would have been higher, because the rank was hereditary. The Senate gave Augustus every possible incentive to remain in charge when he showed signs of wanted to revive the Republic.
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page15.jpg)
 
 - #### Panel 3
 
@@ -237,11 +271,15 @@ The phrase "Mad dogs and Englishmen stay out in the midday sun", I had thought, 
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page18.jpg)
+
 - #### Panel 3
 
   This would seem to contradict what we saw in _The Season of Mists_, which was full of old gods who had not died. We may note, however, that there are still people who follow the Egyptian and Norse pantheons, albeit not in any great numbers. The Graeco-Roman Mysteries do appear to lack for adherents and were missing from _Season_.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page19.jpg)
 
 - #### Panel 1
 
@@ -257,6 +295,8 @@ The phrase "Mad dogs and Englishmen stay out in the midday sun", I had thought, 
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page23.jpg)
+
 - #### Panel 4
 
   There is no historical evidence to support the assertion that Julius sodomized Augustus. A digression: The modern concept of homo/hetero sexuality is quite recent. Prior to this, in classical Greece and Rome for example, many individuals practiced intra-sex and inter-sex intercourse. The reasons they did this were cultural, as is the modern categorization of sexuality as having a preferred gender. Among males (who were culturally dominant), using another being of whatever gender as a receptacle for one's sperm was a symbol of power over that individual. Any pleasure derived from the act was almost incidental. Thus, Julius is in some sense exerting his dominance over Octavian even as he enjoys his orgasm. To digress further, among Spartans, a man was expected to take a young male lover, and to train him up in the ways of Spartan manhood, a sort of mentoring. So Julius may have been abusing Octavian, but he was not a pedophilic "sex fiend" as Americans think of such today.
@@ -266,6 +306,8 @@ The phrase "Mad dogs and Englishmen stay out in the midday sun", I had thought, 
   **Historical note**: Julius received criticism during his lifetime for having allegedly "prostituted" himself to the king of Bithynia, in Asia. By "prostituted", I presume he submitted to sodomy. In Roman terms, the only way that was wrong was that it was in fact submission, that it gave political advantage to the other king, and that reflected badly on Rome.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.30/page24.jpg)
 
 - #### Panel 2
 

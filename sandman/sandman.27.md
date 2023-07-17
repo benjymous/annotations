@@ -2,6 +2,8 @@
 
 ## Issue 27
 
+> [!THUMBNAIL] ![](thumbnails/sandman.27/page00.jpg)
+
 ##### Neil Gaiman, Kelley Jones, and Dick Giordano
 
 Season of Mists Chapter 5
@@ -18,6 +20,8 @@ Not yet reprinted in any other form
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.27/page01.jpg)
+
 - #### Panel 2
 
   It is assumed that the reader recognizes the significant characters, and recalls the significant events, of this storyline.
@@ -28,6 +32,8 @@ Not yet reprinted in any other form
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.27/page02.jpg)
+
 - #### Panel 4
 
   Bast claimed to know the exact whereabouts of the Prodigal Endless.
@@ -37,6 +43,8 @@ Not yet reprinted in any other form
   We saw the bloke in the pointy hat and the faceless guy briefly last issue. According to _Wonder Woman_, the Greek gods have forsaken this plane for another, unknown destination, although similar circumstances did not prevent the folk of Faerie from sending representatives.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.27/page03.jpg)
 
 - #### Panel 1
 
@@ -50,6 +58,8 @@ This is a two page splash panel spread. Note the cherubs spreading the tarpaulin
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.27/page06.jpg)
+
 - #### Panel 1
 
   Thor has a hangover, which has manifested itself as a storm cloud above his head in deference to his nature as God of Thunder.
@@ -59,6 +69,8 @@ This is a two page splash panel spread. Note the cherubs spreading the tarpaulin
   Note that, unsurprisingly, Dream does not sleep.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.27/page09.jpg)
 
 The flip panel effect of Dream and Duma is somewhat odd, since Duma apparently disappears from panels 2 and 3. I reconstruct the sequence as follows:
 
@@ -84,9 +96,13 @@ The flip panel effect of Dream and Duma is somewhat odd, since Duma apparently d
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.27/page10.jpg)
+
 Remiel's speech on this page is a swipe of a speech preached upon the Mount of Olives in the Garden of Gethsemane, the sequence in the Bible where Jesus asks his father if he may avoid the suffering that he will face in the next day. "Let this burden pass" and the cup metaphor are exactly taken from that soliloquy.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.27/page11.jpg)
 
 - #### Panel 1
 
@@ -98,17 +114,23 @@ Remiel's speech on this page is a swipe of a speech preached upon the Mount of O
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.27/page15.jpg)
+
 - #### Panel 4
 
   "Got the balls" is an idiom for "courageous enough". "Balls" is, of course, slang for testicles. This sounds odd coming from a demon.
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.27/page19.jpg)
+
 - #### Panel 4
 
   Did anyone _not_ see this conclusion coming from a couple of light-years away?
 
 ### Page 20
+
+> [!THUMBNAIL] ![](thumbnails/sandman.27/page20.jpg)
 
 - #### Panel 1
 
@@ -121,11 +143,15 @@ Remiel's speech on this page is a swipe of a speech preached upon the Mount of O
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.27/page22.jpg)
+
 - #### Panel 8
 
   Loki's remark will be expounded upon next issue.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.27/page24.jpg)
 
 - #### Panel 2
 

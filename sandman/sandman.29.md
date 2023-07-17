@@ -1,6 +1,8 @@
 # The Annotated Sandman
 
-## Issue 29: "Thermidor"
+## Issue 29 : "Thermidor"
+
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page00.jpg)
 
 ##### Neil Gaiman, Stan Woch, and Dick Giordano
 
@@ -13,6 +15,8 @@ Not yet reprinted in any other form
 This note also indicates that Simon Schama's _History of the French Revolution_ and John Paxton's _Companion to the French Revolution_ were two of Gaiman's major influences for this story. Additional help was derived from _The Encyclopedia Britannica_, Ninth Ed., 1890 (!).
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page01.jpg)
 
 - #### Panel 1
 
@@ -30,6 +34,8 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page02.jpg)
+
 - #### Panel 1
 
   The leaders of the French Revolution instituted a new calendar to emphasize the break with the old ways of government. They began a new numbering of years, redivided the year into new months, and renamed all the days. Thermidor was, obviously, one of the months. See the Appendix for more details.
@@ -44,6 +50,8 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page03.jpg)
+
 - #### Panel 3
 
   **Aristo**: from aristocrat; the Revolution overthrew the old feudal lords, most of whom died under the guillotine.
@@ -54,6 +62,8 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page04.jpg)
+
 - #### Panel 5
 
   This is from a popular song of the Revolution in Paris.
@@ -61,6 +71,8 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
   It translates as "That (they?) will go, the aristocrats, to the lamppost." Public lighting was a recent civic improvement, and quite handy for dispatching unwanted nobility. The song may be found in _Les Miserables_. Note the visible spine and trachea/esophagus of the head.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page05.jpg)
 
 - #### Panel 4
 
@@ -71,6 +83,8 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
   We have seen earlier that Orpheus is Dream's son. The _Sandman_ Special #1 will have Orpheus' story, although we never learn how his head came to be in Paris.
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page06.jpg)
 
 - #### Panel 4
 
@@ -97,11 +111,15 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page07.jpg)
+
 - #### Panel 1
 
   The Revolution established the honorific "Citizen", much as the Leninists would later adopt "Comrade". Antoine Louis Leon de Richebourg de St. Just (1767-1794) was active in the Committee of Public Safety and organized the Terror. While the comic's depiction vaguely resembles his portrait, St. Just was noted for having an effeminate appearance which is not apparent in the comic rendering.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page08.jpg)
 
 - #### Panel 1
 
@@ -133,6 +151,8 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page09.jpg)
+
 - #### Panel 5
 
   Thomas Paine was an Englishman whose influential pamphlet _Common Sense_ lent strength to the American Revolution. His _Rights of Man_ sparked much interest in the French experiment with liberty, and was answered by Burke in _Reflections on the Revolution in France_. While Paine was in England, he was threatened by intrigue, and fled to France, where he had just been elected as a representative from Calais. He was involved in the process of the Revolution as well as being on the American staff drafting texts on freedom. He was a thorn in Robespierre's side as a devoted follower of liberty and democracy. Accordingly, when the revolutionaries perceived foreign plots against them, he was caught up in the Terror as a scapegoat and was imprisoned.
@@ -143,6 +163,8 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page10.jpg)
+
 - #### Panel 6
 
   Paine indeed escaped the guillotine as described here; he was freed following Robespierre's fall and resumed service in the French government as long as the Revolution endured. Quintidi: "Day Five", in the new calendar.
@@ -152,6 +174,8 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
   No ref for D'Eglantine. Danton was an important early figure in the Revolution who was purged in the Terror. Germinal is another month name.
 
 ### Page 12
+
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page12.jpg)
 
 - #### Panel 1
 
@@ -166,6 +190,8 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
   **Place de la Revolution**: Now la Place de la Concorde or possibly Place St Michel. No ref on the dance of the beheaded bodies.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page13.jpg)
 
 - #### Panel 1
 
@@ -189,11 +215,15 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page15.jpg)
+
 - #### Panel 1
 
   William Pitt the Younger was Prime Minister of Great Britain from 1783-1801 and 1804-1806. He organized England's part in the war of reaction against revolutionary France and served the Revolution as a villain upon whom problems could be blamed.
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page16.jpg)
 
 - #### Panel 2
 
@@ -201,17 +231,23 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page18.jpg)
+
 - #### Panel 2-5
 
   This is reminiscent of Edgar Allan Poe's _The Purloined Letter_.
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page19.jpg)
+
 - #### Panel 2
 
   Note the slip of the tongue. St. Just is holding a pomander under his nose, a ball containing perfume, used to ward off infection (so believed) and stenches. Note that regular bathing, and the changing of clothes and underwear had not yet come into vogue.
 
 ### Page 20
+
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page20.jpg)
 
 - #### Panel 1
 
@@ -223,15 +259,21 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page21.jpg)
+
 - #### Panel 3
 
   Will-they or nil-they: Parallel structure to will-he or nil-he, whence willy-nilly. Romany: Gypsy.
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page23.jpg)
+
 On 9 Thermidor [1794], St. Just was interrupted after saying but a few words of his speech and fell silent under a torrent of verbal lashing. In the subsequent uproar, the anti-Robespierre conspirators made their move. The Committee ordered the arraignment of Robespierre, St. Just, and Couthon; the arrest of Dumas, President of the Revolutionary Tribunal; and the removal of Hanriot from command of the National Guard. The five were later released, only to be declared outlaws, their lives forfeit. Before dawn the next day, the Guardsmen came to take them again. St. Just yielded without resistance, but Robespierre either attempted suicide or was shot in the jaw by a soldier who later boasted of shooting the tyrant. The shattered jaw was papered, for there was no linen to staunch the wound; a surgeon later bandaged it and extracted two or three loose teeth. The bandage was indeed torn from his mouth just before his death under the guillotine.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.29/page24.jpg)
 
 - #### Panel 1
 

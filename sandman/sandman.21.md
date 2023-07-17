@@ -2,9 +2,11 @@
 
 ## Issue 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page00.jpg)
+
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
-**Season of Mists**: a prologue
+Season of Mists: a prologue
 
 > In which a Family reunion
 > occasions certain personal recriminations;
@@ -15,6 +17,8 @@
 Not yet reprinted in any other form
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page01.jpg)
 
 - #### Panel 1
 
@@ -46,6 +50,8 @@ Not yet reprinted in any other form
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page02.jpg)
+
 - #### Panel 2f
 
   These are the Three Witches, of course. As the Fates, they spin, measure, and end the lives of mortals, but Destiny is Endless. Note the thread; they are measuring, not weaving or cutting.
@@ -60,15 +66,21 @@ Not yet reprinted in any other form
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page03.jpg)
+
 - #### Panel 2-3
 
   The Endless are not; as we have seen elsewhere, they have both starts and finishes. It has been stated that Destiny is the first of the Endless, while Death will be the last. Note that the thread comes to an end in panel 2 to parallel the statement about things beginning and ending. Also note in panel 3 that only one eye is visible among the Grey Ladies. This incarnation of the Triple Goddess, the Graeae, are represented as having only one eye and one tooth to share among them. Perseus stole their eye and held it hostage in return for the knowledge of the location of the sea god Proteus. Further note that the Grey Ladies appear to each have a full set of teeth.
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page04.jpg)
+
 Destiny's hall would appear to be drawn from reference. Can anyone ID it?
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page05.jpg)
 
 - #### Panel 1
 
@@ -84,6 +96,8 @@ Destiny's hall would appear to be drawn from reference. Can anyone ID it?
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page06.jpg)
+
 - #### Panel 1
 
   Again, the form of Dream's portrait may be significant.
@@ -94,6 +108,8 @@ Destiny's hall would appear to be drawn from reference. Can anyone ID it?
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page07.jpg)
+
 - #### Panel 1-2
 
   Desire and Despair have been characterized as twins before; note that Destiny appears to summon them nearly simultaneously. Note also Desire's gendering and the "formal attire" of both.
@@ -101,8 +117,6 @@ Destiny's hall would appear to be drawn from reference. Can anyone ID it?
 - #### Panel 4f
 
   Death and Despair miss the missing Endless (another clue) and Desire does not. Naively, we would expect Desire to want _everything_.
-
-### Page 7
 
 - #### Panel 5; page 8 panel 1
 
@@ -131,11 +145,15 @@ Destiny's hall would appear to be drawn from reference. Can anyone ID it?
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page08.jpg)
+
 - #### Panel 4
 
   Note Delirium's mismatched eyes.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page09.jpg)
 
 - #### Panel 1
 
@@ -143,15 +161,19 @@ Destiny's hall would appear to be drawn from reference. Can anyone ID it?
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page10.jpg)
+
 - #### Panel 2
 
   Coleridge was a heavy user of the psychoactive poppy derivative opium (also known as laudanum), under the influence of which he wrote many of his best-known works, the most famous being the incomplete poem "Kublai Khan".
 
-Opium contains 22 alkaloid compounds, including morphine, codeine, and papaverine; heroin is also derived from opium. These compounds act at central nervous receptor sites normally activated by natural compounds related to endorphins (natural pain-killers). Morphine's etymological relationship to Dream has been explicated elsewhere.
+  Opium contains 22 alkaloid compounds, including morphine, codeine, and papaverine; heroin is also derived from opium. These compounds act at central nervous receptor sites normally activated by natural compounds related to endorphins (natural pain-killers). Morphine's etymological relationship to Dream has been explicated elsewhere.
 
-Also, note that Delirium was once Delight, though we are not told explicitly the circumstances surrounding her change.
+  Also, note that Delirium was once Delight, though we are not told explicitly the circumstances surrounding her change.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page13.jpg)
 
 - #### Panel 3
 
@@ -163,17 +185,23 @@ Also, note that Delirium was once Delight, though we are not told explicitly the
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page14.jpg)
+
 - #### Panel 1
 
   Note Destiny's evanescent servitors. We will see Dream's servitors in a later issue.
 
 ### Page 16
 
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page16.jpg)
+
 - #### Panel 3
 
   At least one source alleges that the Greeks believed that butterflies were attracted to flames. The word "Psyche" is the personification of the human soul, rendered as a female figure in art. The source claims that in time psyche also came to mean butterfly.
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page17.jpg)
 
 - #### Panel 6
 
@@ -184,6 +212,8 @@ Also, note that Delirium was once Delight, though we are not told explicitly the
   Desire explains itself on the next page.
 
 ### Page 18
+
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page18.jpg)
 
 - #### Panel 2
 
@@ -199,11 +229,15 @@ Also, note that Delirium was once Delight, though we are not told explicitly the
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page19.jpg)
+
 - #### Panel 6
 
   Does Desire actually feel regret at this moment?
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.21/page23.jpg)
 
 - #### Panel 1
 

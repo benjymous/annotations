@@ -2,6 +2,8 @@
 
 ## Issue 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page00.jpg)
+
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
 
 Season of Mists Chapter 1
@@ -28,6 +30,8 @@ Not yet reprinted in any other form
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page01.jpg)
+
 - #### Panel 1
 
   Avernus is a volcanic crater lake near Naples, Italy; it is mythologically the entrance to Hades. Gehenna is Hebrew for "valley of Hinnom", where sacrifices to Moloch (a non-Jewish deity) were made (II Kings 23:10). It has become identified with any place of extreme suffering.
@@ -41,6 +45,8 @@ Not yet reprinted in any other form
   Revisionists and apologists have often speculated that the dead were held in Hell only by their own desire for punishment.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page02.jpg)
 
 - #### Panel 1
 
@@ -58,6 +64,8 @@ Not yet reprinted in any other form
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page03.jpg)
+
 - #### Panel 2
 
   Foreshadowing; at least it was obvious to me.
@@ -68,13 +76,19 @@ Not yet reprinted in any other form
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page05.jpg)
+
 This is a recap of [Sandman #9](sandman.09.md).
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page06.jpg)
+
 This is a recap of [Sandman #4](sandman.04.md).
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page07.jpg)
 
 - #### Panel 1
 
@@ -85,6 +99,8 @@ This is a recap of [Sandman #4](sandman.04.md).
   This guy is Abudah. He also appears as Mervyn's sidekick in issue 60, pp. 21-23
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page08.jpg)
 
 - #### Panel 3
 
@@ -108,6 +124,8 @@ This is a recap of [Sandman #4](sandman.04.md).
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page09.jpg)
+
 - #### Panel 1
 
   An angel named Alcin is one of the guards stationed at the gates of the West Wind. This may be the same being, after the Fall.
@@ -121,6 +139,8 @@ This is a recap of [Sandman #4](sandman.04.md).
   In Judeo-Christian mythology, Cain was the first born of the first two people; he committed the second sin of the world by murdering his younger brother (Abel, whom we've seen before). Satan is regarded as the causative force behind sin in this mythology.
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page10.jpg)
 
 - #### Panel 4
 
@@ -140,11 +160,15 @@ This is a recap of [Sandman #4](sandman.04.md).
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page11.jpg)
+
 - #### Panel 1-3
 
   No direct confirmation of Lucifer's story. Gnostics included several early heretical Christian sects (possibly the Mandaeic sect) who believed that Christ had no material form. The obvious conclusion to be drawn from panel 3 is that it's not what faith you espouse that determines where you go when you die, which is in direct contradiction to most major faiths' tenets as preached to the living.
 
 ### Page 12
+
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page12.jpg)
 
 - #### Panel 1-2
 
@@ -154,11 +178,15 @@ We last saw Lyta and the child in [Sandman #12](sandman.12.md), q.v. It is worth
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page14.jpg)
+
 - #### Panel 4
 
   I believe the Biblical Daniel was known for interpreting dreams. In Hebrew, it means "The Lord is my judge."
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page15.jpg)
 
 - #### Panel 3
 
@@ -166,6 +194,8 @@ We last saw Lyta and the child in [Sandman #12](sandman.12.md), q.v. It is worth
   Is there a reference for Cecilie Latour?
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page16.jpg)
 
 - #### Panel 2
 
@@ -179,6 +209,8 @@ We last saw Lyta and the child in [Sandman #12](sandman.12.md), q.v. It is worth
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page18.jpg)
+
 - #### Panel 1
 
   Neil Gaiman says: "Hob Gadling's toast is original (although I suspect I had Ambrose and Nathaniel's pledge from Hope Mirlees' novel _Lud in the Mist_ in the back of my head somewhere when I wrote it; the rhythms are similar)." See the appendix for a commentary on Mirlees.
@@ -189,11 +221,15 @@ We last saw Lyta and the child in [Sandman #12](sandman.12.md), q.v. It is worth
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page19.jpg)
+
 - #### Panel 2
 
   This refers to events in the first several issues of _The Demon_, the newest version of that title. The "little yellow rhymer" is Etrigan, the lead character of that book.
 
-  Panel 3f: Originally, the trinity consisted of Lucifer, Azazel, and Beelzebub; Azazel was replaced by Belial; then Etrigan's coalition deposed all three. Lucifer is saying here that he was never forced to share power, that he merely couldn't be bothered to put down the rebels.
+- #### Panel 3f
+
+  Originally, the trinity consisted of Lucifer, Azazel, and Beelzebub; Azazel was replaced by Belial; then Etrigan's coalition deposed all three. Lucifer is saying here that he was never forced to share power, that he merely couldn't be bothered to put down the rebels.
 
   It is perhaps important to note that DC's Hell has no set continuity at this moment. _The Demon_, at least, has stayed out of Hell since _Season of Mists_ concluded, but a major plot device in _Hellblazer_ depends on the triumvirate being intact and stable.
 
@@ -201,17 +237,23 @@ We last saw Lyta and the child in [Sandman #12](sandman.12.md), q.v. It is worth
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page20.jpg)
+
 - #### Panel 1
 
   A quote from Milton's _Paradise Lost_. Milton was blind for most of his writing career, forced to dictate his works to a secretary.
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page21.jpg)
+
 - #### Panel 6
 
   This is Nada.
 
 ### Page 22
+
+> [!THUMBNAIL] ![](thumbnails/sandman.22/page22.jpg)
 
 - #### Panel 3
 
