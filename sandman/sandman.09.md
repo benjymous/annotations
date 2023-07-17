@@ -2,6 +2,8 @@
 
 ## Issue 9: "Tales in the Sand"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.09/page00.jpg)
+
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
 Not a part of any long storyline
@@ -12,6 +14,8 @@ Second story reprinted in _The Doll's House_
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.09/page01.jpg)
+
 The Trickster is a cross-cultural archetype, most familiar to modern audiences in the form of Bugs Bunny.
 
 This reference to the "Trickster," knowing Gaiman, may be more important than one might expect... I mean, who causes so much pain to Morpheus (as well as, eventually, having no small part in his death)? Loki, of course: the Trickster.
@@ -19,6 +23,8 @@ This reference to the "Trickster," knowing Gaiman, may be more important than on
 Now, sure, "Tales in the Sand" was written about four years before Loki is introduced to the story, but we're talkin' about Neil Gaiman here. Maybe Gaiman was using parallel structure (albeit a very sparse form), maybe it is just as foreshadowing, but i do not think it is a coincidence that the next story arc Nada shows up in is also monsieur Loki's debut. It is obvious that this idea isn't fully formed, and i don't have access to my library right now (all in cardboard boxes -just moved) but i think this should be at least pondered. (thus writes oshinsky@webspan.net)
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.09/page02.jpg)
 
 - #### Panel 1
 
@@ -30,11 +36,15 @@ Now, sure, "Tales in the Sand" was written about four years before Loki is intro
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.09/page04.jpg)
+
 - #### Panel 6
 
   **Grandmother Death**: This is the same Death we saw in issue 8.
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.09/page06.jpg)
 
 - #### Panel 1
 
@@ -42,17 +52,23 @@ Now, sure, "Tales in the Sand" was written about four years before Loki is intro
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.09/page08.jpg)
+
 - #### Panel 3
 
   The King of Birds appears to be either an all white ostrich, or perhaps some sort of moa (moas being a now extinct line of giant flightless birds of approximately that body shape).
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.09/page10.jpg)
+
 - #### Panel 2-3
 
   This has the flavor of one of Kipling's Just-So stories.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.09/page11.jpg)
 
 - #### Panel 3
 
@@ -64,11 +80,15 @@ Now, sure, "Tales in the Sand" was written about four years before Loki is intro
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.09/page12.jpg)
+
 - #### Panel 5
 
   First reference to Dream and his siblings as the Endless, who are not gods (but who have occasionally been worshipped as gods; Dream is L'Zoril to the Martians, "a very old god", and Oneiros, the god of dreams, to the Greeks).
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.09/page13.jpg)
 
 - #### Panel 1
 
@@ -80,11 +100,15 @@ Now, sure, "Tales in the Sand" was written about four years before Loki is intro
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.09/page14.jpg)
+
 - #### Panel 5
 
   Desire is one of the Endless; this is the first characterization of Desire as "always cruel".
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.09/page15.jpg)
 
 - #### Panel 4
 
@@ -96,11 +120,15 @@ Now, sure, "Tales in the Sand" was written about four years before Loki is intro
 
 ### Page 16
 
+> [!THUMBNAIL] ![](thumbnails/sandman.09/page16.jpg)
+
 - #### Panel 2
 
   Dream does not care about virginity; this sounds to me too much like a 20th century character speaking.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.09/page24.jpg)
 
 - #### Panel 1-2
 

@@ -1,7 +1,8 @@
 # The Annotated Sandman
 
 ## Issue 1: "Sleep of the Just"
-> [!TIP|style:flat|iconVisibility:hidden|className:marginthumb] ![](thumbnails/sandman.01/RCO001.jpg)
+
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page00.jpg)
 
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
@@ -12,14 +13,16 @@ First story reprinted in _Preludes and Nocturnes_
 Another _possible_ Elvis Costello influence is the title to Sandman #1 - there IS an Elvis Costello song entitled "Sleep of the just", though nothing in the lyrics correlates with the story.
 
 ### Page 1
-> [!TIP|style:flat|iconVisibility:hidden|className:marginthumb] ![](thumbnails/sandman.01/RCO002.jpg)
+
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page01.jpg)
 
 - #### Panel 2
 
   First known appearance of Dr. John Hathaway, who we will shortly find out is senior curator of the Royal Museum.
 
 ### Page 2
-> [!TIP|style:flat|iconVisibility:hidden|className:marginthumb] ![](thumbnails/sandman.01/RCO003.jpg)
+
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page02.jpg)
 
 - #### Panel 1
 
@@ -32,7 +35,8 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
   Magdalene is a college in Cambridge, Magdalen a college in Oxford. Both are pronounced "mauldin" in British usage.
 
 ### Page 3
-> [!TIP|style:flat|iconVisibility:hidden|className:marginthumb] ![](thumbnails/sandman.01/RCO004.jpg)
+
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page03.jpg)
 
 - #### Panels 1-4
 
@@ -41,7 +45,8 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
   In one of McFarlane's comic Spawn's early stories, the main character is a certain Billy Kincaid, serial killer of little children. McFarlane himself wrote the Billy Kincaid story. Alan Moore wrote Spawn#8, which featured Kincaid's experiences in Hell. Neil Gaiman wrote Sandman#9 and the Angela Mini-series.
 
 ### Page 4
-> [!TIP|style:flat|iconVisibility:hidden|className:marginthumb] ![](thumbnails/sandman.01/RCO005.jpg)
+
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page04.jpg)
 
 - #### Panel 1
 
@@ -52,14 +57,16 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
   "Aleister" is Aleister Crowley, the most widely known demonologist and occultist of that era (and probably still today). Roderick Burgess is essentially only Aleister Crowley renamed.
 
 ### Page 5-7:
-> [!TIP|style:flat|iconVisibility:hidden|className:marginthumb] ![](thumbnails/sandman.01/RCO006.jpg)
+
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page05.jpg)
 
 - Let's look at the materials in the summoning ritual. On page five, the materials are fairly mundane, except in panel 7: A feather pulled from an angel's wing. This would appear to be fairly difficult, and worth a story in its own.
 
   The coin, stick, song, and knife may correspond to the Disk, Wand, Cup, and Sword suits of the Tarot cards. Disks are analogous to modern diamonds, and represent earth and business. Wands became clubs, and represent fire and energy. Cups became hearts, and represent water and emotions, and are a feminine suit. Swords became spades, and represent air and intellect, and are a masculine suit.
 
 ### Page 6
-> [!TIP|style:flat|iconVisibility:hidden|className:marginthumb] ![](thumbnails/sandman.01/RCO007.jpg)
+
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page06.jpg)
 
 - #### Panel 4
 
@@ -71,15 +78,21 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page07.jpg)
+
 - #### Panel 6
 
   First known appearance of Morpheus, the Sandman. Morpheus has many different names, since every culture has known of him in some form. Morpheus is fairly rarely referred to directly as the Sandman, with the major exception being [issue #3](sandman.03.md). In this shot, he is wearing a helmet; that is not his head.
 
 ### Page 8-9:
 
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page08.jpg)
+
 - We clearly see here the removal of the helmet, ruby, and pouch of sand, whose recovery will occupy most of _More than Rubies_.
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page10.jpg)
 
 - #### Panel 1
 
@@ -87,11 +100,15 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page11.jpg)
+
 - #### Panel 2
 
   The word "morphine" is derived from the name "Morpheus". There's one other very significant allusion on page 11 which the annotations don't list. The bottom three panels describe Unity Kinkaid: as the narrative proceeds, the images zoom in on her sleeping face, then her nose and mouth, then her closed lips. The last panel ends with "Unity sleeps", in extreme close-up. Her lips fill the frame, and they are very pink. This panel looks almost exactly like Desire's sigil.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page14.jpg)
 
 - #### Panel 2
 
@@ -102,6 +119,8 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
   "Sleepy sickness" appears to have been a real phenomenon in the early part of this century. It can also be seen in the Williams-De Niro movie _Awakenings_ and various texts.
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page15.jpg)
 
 - #### Panel 4
 
@@ -119,6 +138,8 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page18.jpg)
+
 - #### Panel 3
 
   Unity's child will become important later.
@@ -129,11 +150,15 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page21.jpg)
+
 - #### Panel 2
 
   First known appearance of Paul McGuire, new second in command of the Order. He will have a brief appearance in later issues.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page23.jpg)
 
 - #### Panel 6
 
@@ -148,6 +173,8 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 24
 
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page24.jpg)
+
 - #### Panel 7
 
   Here the text is named the _Liber Fulvarum Paginarum_. "Liber" translates as "book", and word order is quite flexible in Latin, so this is clearly the same as the text on page 15.
@@ -160,17 +187,23 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 27
 
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page27.jpg)
+
 - #### Panels 6-7
 
   Morpheus reaches into his guard's dream (daydream?) and grabs a handful of sand. This is a power he will manifest many times.
 
 ### Page 29
 
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page29.jpg)
+
 - #### Panel 7
 
   Morpheus uses the sand to put his captors to sleep. This is a traditional power of the children's-tale Sandman.
 
 ### Page 31
+
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page31.jpg)
 
 - #### Panel 4
 
@@ -186,13 +219,13 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
   On the left, Marilyn again; on the right, we can see Mort's left rear.
 
-### Page 31
-
 - #### Panel 6; page 32 panel 3
 
   Morpheus uses two different methods to acquire food and clothing. It is unclear why, except that perhaps Gaiman is showing us the extent of his powers.
 
 ### Page 32
+
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page32.jpg)
 
 - #### Panel 6
 
@@ -200,11 +233,15 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 35
 
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page35.jpg)
+
 - #### Panel 1
 
   Note the hole in the wall, which vaguely resembles a skull, or possibly, Dream's Helmet (minus the proboscis).
 
 ### Page 36
+
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page36.jpg)
 
 - #### Panel 7
 
@@ -212,9 +249,11 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 40
 
-> [!TIP|style:flat|iconVisibility:hidden|className:floatright width-40pc] ![Original marketing poster for The Sandman - 'I will show you terror in a handful of dust'](images/TerrorInAHandfulOfDust.jpg)
+> [!THUMBNAIL] ![](thumbnails/sandman.01/page40.jpg)
 
 - #### Panel 5
+
+  > [!FLOATRIGHT_40PC] ![Original marketing poster for The Sandman - 'I will show you terror in a handful of dust'](images/TerrorInAHandfulOfDust.jpg)
 
   Morpheus' thoughts - hard to see, because (in my copy, at least) the coloration is rather odd - but the thought reads, "And I have showed him fear..." This may be only speculation, but to me this seems reminiscent of a T.S. Eliot quote, from his poem "The Wasteland". The quote reads, "..I will show you fear in a handful of dust." I was reminded of this on first reading, and then, on further investigation of Morpheus' actions directly preceding this, on page 37, was rewarded with the final panel - and those grains falling from his hand, if I am not entirely mistaken, are sand. (And I have showed him fear in a handful of sand.) In fact, I think it should be 'shown' in that form, the pluperfect (I show, I was showing, I showed, I have shown?). Let us consult the might of the OED and see if Gaiman is, indeed, guilty of the carnal sin of bad grammar... no; all is absolved; our deity is returned to infallibility; Showed or Shown are both acceptable.
 

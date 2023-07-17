@@ -1,6 +1,7 @@
 # The Annotated Sandman
 
 ## Issue 16: "Lost Hearts"
+> [!THUMBNAIL] ![](thumbnails/sandman.16/page00.jpg)
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -10,11 +11,15 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.16/page04.jpg)
+
 - #### Panel 6
 
   An unusual case of anthropomorphism, for a _place_ to become a _person_.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.16/page05.jpg)
 
 - #### Panel 1
 
@@ -26,17 +31,23 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.16/page09.jpg)
+
 - #### Panel 5
 
   We need not worry that Fiddler's Green was the historical Gilbert Keith Chesterton (born 29 May 1874 in Kensington), as here he says he was not even a "very good _copy_ of a human" [emphasis his].
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.16/page13.jpg)
+
 - #### Panel 2
 
   Dream is not very bright, indeed. He has great knowledge, born of age and, perhaps, his status, but he is not even as capable of insight as a human.
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.16/page17.jpg)
 
 - #### Panel 3
 
@@ -58,9 +69,10 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 18
 
-> [!TIP|style:flat|iconVisibility:hidden|className:floatright width-40pc] ![Original photo of G.K. Chesterton](images/GKChesterton.jpg)
+> [!THUMBNAIL] ![](thumbnails/sandman.16/page18.jpg)
 
 - #### Panel 2-3
+> [!FLOATRIGHT_40PC] ![Original photo of G.K. Chesterton](images/GKChesterton.jpg)
 
   We saw Judy, and the massacre, in [Sandman #6](sandman.06.md). We will see Donna in a later storyline.
 
@@ -69,6 +81,8 @@ Ninth story reprinted in trade paperback _The Doll's House_
   A genuine photo of G.K. Chesterton, who was the inspiration for "Gilbert". Note the signature at lower left.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.16/page19.jpg)
 
 - #### Panel 1
 
@@ -84,17 +98,23 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.16/page20.jpg)
+
 - #### Panel 6
 
   A fox's "set" is hunter's jargon for a den. It is therefore unusual for Jed to use it.
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.16/page21.jpg)
+
 - #### Panel 5
 
   Note that Desire's sigil is different from issue ten, and that the order of sigils is peculiar (Desire to the left of Death).
 
 ### Page 22
+
+> [!THUMBNAIL] ![](thumbnails/sandman.16/page22.jpg)
 
 - #### Panel 1
 
@@ -107,6 +127,8 @@ Ninth story reprinted in trade paperback _The Doll's House_
   Another of the unspoken rules that govern the Endless, apparently. Disaster of some sort would strike were Dream to slay kin of the Endless. We saw a possible hint to this in [Sandman #10](sandman.10.md), where Rose is warned of the "Kindly Ones", and a later issue also uses the Eumenides as a threat.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.16/page23.jpg)
 
 - #### Panel 4
 

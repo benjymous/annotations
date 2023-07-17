@@ -2,6 +2,8 @@
 
 ## Issue 8: "The Sound of Her Wings"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page00.jpg)
+
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
 Referred to by Gaiman as the epilogue to _More than Rubies_
@@ -48,6 +50,8 @@ First story reprinted in _The Doll's House_
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page01.jpg)
+
 - #### Panel 1
 
   This scene occurs in Washington Square Park, in Greenwich Village, New York City. Many specific details in the artwork confirm this. Several people, including this writer, thought that the arch was intended to be L'Arc de Triomphe, in la Place Charles de Gaulle, Paris, France. In fact, that arch is sufficiently larger than the pictured arch that the Washington Square arch could fit underneath it.
@@ -70,6 +74,8 @@ First story reprinted in _The Doll's House_
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page03.jpg)
+
 - #### Panel 6
 
   The young woman is Death, Dream's older sister. Note that Death has subsequently been portrayed with a mark around one of her eyes. Mike Dringenberg credits "Cinnamon" as the visual inspiration for Death in _The Doll's House_.
@@ -77,11 +83,15 @@ First story reprinted in _The Doll's House_
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page04.jpg)
+
 - #### Panel 6
 
   **"Mary Poppins"** was a Disney film of the 60s which mixed live action and animation in an unprecedented manner. Death's description of the movie is accurate.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page05.jpg)
 
 - #### Panel 2
 
@@ -93,11 +103,15 @@ First story reprinted in _The Doll's House_
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page06.jpg)
+
 - #### Panel 2
 
   Here we clearly see for the first time Death's necklace, which is an ankh, an Egyptian cross that symbolizes life. Note that the chain of the ankh is occasionally missing, as in page 8 panel 3, page 10 panel 2, and others.
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page07.jpg)
 
 - #### Panel 2
 
@@ -109,11 +123,15 @@ First story reprinted in _The Doll's House_
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page09.jpg)
+
 - #### Panel 4
 
   Dream is an "anthropomorphic personification"; I like that. It means that he is a concept who appears in a form appropriate to those who are conceiving of the concept; i.e. he appears human to humans, as the god of dreams to Martians.
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page10.jpg)
 
 - #### Panel 1
 
@@ -121,17 +139,23 @@ First story reprinted in _The Doll's House_
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page11.jpg)
+
 - #### Panel 3
 
   Franklin's been wandering around in the background for a while, but he gets named here. This is his first known appearance; he does not appear later, for reasons that will become apparent.
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page12.jpg)
+
 - #### Panel 5
 
   Dream is at least two hundred years old. We know from his interaction with J'onn J'onzz in [#5](sandman.05.md) that he is at least as old as Martian civilization, which is implied, I believe, to have ended thousands of years ago.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page13.jpg)
 
 - #### Panel 1
 
@@ -142,6 +166,8 @@ First story reprinted in _The Doll's House_
   **Yid**: Yiddish is the traditional lingua franca of the Ashkenazic Jews, those who have ancestors that lived in Germany, Europe and Slavic countries. Yiddish is the closest language to early German but is written in Hebraic characters. The Yiddish people were generally called Ashkenazim or Ashkenazic Jews to distinguish them from the Sephardim or Sephardic Jews, Mediterranean Jews of Spanish origin, expelled from Spain due to religious persecution in 1492. "Yid" means "Jew" in Yiddish. It is a strong racial epithet, particularly when used in Europe by a Gentile. The American equivalent is probably "kike". Here, used by a Jew, "Yid" may be seen as self- deprecating humor.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page14.jpg)
 
 - #### Panel 1-2
 
@@ -157,11 +183,15 @@ First story reprinted in _The Doll's House_
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page15.jpg)
+
 - #### Panel 1
 
   Death is often portrayed in Christian tradition as being an angel, often specifically the archangel Uriel. Angels are traditionally portrayed as being winged. (A modern example of a winged Death is in the movie _The Adventures of Baron Munchausen_.) The portrayal of a winged Death may predate Christianity.
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page16.jpg)
 
 - #### Panel 7
 
@@ -172,6 +202,8 @@ First story reprinted in _The Doll's House_
   Note the puns on the fate of the comedian.
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page17.jpg)
 
 - #### Panel 2
 
@@ -187,11 +219,15 @@ First story reprinted in _The Doll's House_
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page18.jpg)
+
 - #### Panel 5
 
-  **Booful** is Eastender slang for "beautiful". (Eastenders are from the East End of London.) Aside from this, which may be a dialectical slip on Gaiman's part, the entire issue takes place in New York City.
+  **Booful** is Eastender slang for "beautiful". (Eastenders are from the East End of London.) Aside from this, which may be a dialectical slip on Gaiman's part, the entire issue takes place in New York City. Or perhaps the character is meant to be British.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page19.jpg)
 
 - #### Panel 1
 
@@ -203,6 +239,8 @@ First story reprinted in _The Doll's House_
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page19.jpg)
+
 - #### Panel 4; page 20 panel 1-2
 
   The song to Death is a verse taken from a papyrus, c. 2000 BC, which contains a work called "Dialogue of a Misanthrope with His Soul". The most accessible reference for this is Joseph Campbell's _Oriental Mythology_. Campbell cites 19th century German works for his information.
@@ -211,11 +249,15 @@ First story reprinted in _The Doll's House_
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page21.jpg)
+
 - #### Panel 1
 
   Note that the arch is clearly marked "Erected by the People of the City of New York".
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.08/page24.jpg)
 
 - #### Panel 3
 
@@ -245,4 +287,4 @@ First story reprinted in _The Doll's House_
 - Timothy Tan aka TiTan <_> -M2001- <_> 083285@bud.cc.swin.edu.au
 - "Kai'Ckul" <oshinsky@webspan.net> wrote about Washington Square Park.
 - Ralf Hildebrandt added many more details.
-- Richard Munn added the note about Overture.
+- Richard Munn added the note about Overture, and the possibility of the baby's mother being British.

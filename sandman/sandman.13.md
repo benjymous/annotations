@@ -2,6 +2,8 @@
 
 ## Issue 13: "Men of Good Fortune"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page00.jpg)
+
 ##### Neil Gaiman, Michael Zulli, and [Steve?] Parkhouse
 
 Fourth part of long storyline _The Doll's House_ (but see below)
@@ -19,6 +21,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 "Men of Good Fortune" can also be argued to have a structural relationship with the second long thread, in that the two have contrasts that seem to me to be significant. The relationship with Nada (love) was destructive (at least for Nada!) and suspect, as it was apparently engineered for malicious reasons by Desire (and Despair?). The relationship with Hob (friendship) is positive (for both parties) and trustworthy, as it was set up by Dream (and presumably Death, who was there at the time). A further contrast is found between Hob's fate and what happens to Lyta, Rose, and Unity; one imagines that the latter is more typical of Dream's relationships with humans--it is impersonal and dictated by the requirements of Dreaming.
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page01.jpg)
 
 - #### Panel 1
 
@@ -42,6 +46,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page02.jpg)
+
 - #### Panel 2
 
   One of these is Geoffrey Chaucer, the author of _Canterbury Tales_. Chaucer lived from c. 1340-1400. He is evidently writing _The Canterbury Tales_ at this time; historical sources say that it was written soon after 1387. The other, from panel 3, is named "Edmund", but is not Edmund Spenser, author of _The Faerie Queene_, who was born in c.1552. He may be the writer of _Piers Plowman_, which is generally considered to be the work of William Langland. At least one version of the full name of the work is _The Vision of William Concerning Piers the Plowman, together with Vita de Do-wel, Do-bet, et Do-best, secundum Wit et Resoun_. _Plowman_ was published in three editions in the fourteenth century, the first in 1362, the second in 1378, and the third (after this scene) in 1398. _Plowman_ is a tale to instruct the reader in morals. At least one Edmund of this period was another of Richard II's uncles, the Duke of York, although he is not likely to be in a working class tavern.
@@ -60,6 +66,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page03.jpg)
+
 - #### Panel 2
 
   We will come back to Dream's comment in a later issue. It is a fairly common theme in fantasy literature that elves, sprites, and the like once inhabited this reality, but went to another reality as the weight of humanity began to press on them.
@@ -74,11 +82,13 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page04.jpg)
+
 - #### Panel 7
 
   Death calls Dream "little brother". In [Sandman #24](sandman.24.md), in contrast, she calls him "big brother". He is little, as he is younger; he is big, as he is physically larger. Geoffrey Chaucer was indeed an important diplomat at King Richard's court.
 
-"Tu juges mal la nature humaine" translates as "you judge human nature badly." "Tu juges mal" would remain much the same, but "la nature humaine" is most likely incorrect, however, and is probably "humanite (accent grave)" or possibly "la nature des homs" (hommes is spelled "omes," "umes," "humes," "homes," "homs," "ums," "hons," "hums," "ommes," "honmes," "huems," "ouemes," and rarely "hommes.")
+  "Tu juges mal la nature humaine" translates as "you judge human nature badly." "Tu juges mal" would remain much the same, but "la nature humaine" is most likely incorrect, however, and is probably "humanite (accent grave)" or possibly "la nature des homs" (hommes is spelled "omes," "umes," "humes," "homes," "homs," "ums," "hons," "hums," "ommes," "honmes," "huems," "ouemes," and rarely "hommes.")
 
 - #### Panel 8
 
@@ -86,11 +96,15 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page05.jpg)
+
 - #### Panel 4
 
   "King Dick" is presumably Richard II, the last Plantagenet king, who ruled from 1377-1399. Evidently, he's fairly "thick", or stupid. "Year of our Lord" is, of course, the English translation of the Latin Anno Domini, or A.D.
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page06.jpg)
 
 - #### Panel 1
 
@@ -102,6 +116,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page07.jpg)
+
 - #### Panel 3
 
   Chimblies are chimneys, as Hob says. Rheum is a cold or runny nose. Catarrh is much the same.
@@ -111,6 +127,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
   From reading _Hellblazer_, I interpret "brilliant" to mean, roughly, "pleasing" or "excellent". It seems quite modern for Hob to be saying it in 1489.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page08.jpg)
 
 - #### Panel 2
 
@@ -122,6 +140,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page09.jpg)
+
 - #### Panel 1
 
   Jump ahead to 1589.
@@ -131,6 +151,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
   The man with the broken leg is Christopher "Kit" Marlowe, a prominent dramaturge of the late 1500s. His companion is none other than Wild Man Will Shakespeare, himself. The two are known to have been friends, and Marlowe may have been the ``poet'' referred to in Shakespeare's sonnets, of whom the playwright was jealous. The play Will refers to here is, I believe, Marlowe's play _Faustus_. Note that Shakespeare speaks in iambic pentameter, which is the form of his sonnets and long sections of his plays. An iamb is a foot with one short or unstressed syllable followed by one long or stressed syllable. Pentameter simply requires five iambs in a line. In reading or speaking iambically, the stresses are not overemphasized as one might naively expect.
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page10.jpg)
 
 - #### Panel 1
 
@@ -154,6 +176,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page11.jpg)
+
 - #### Panel 1
 
   The longer lived a species is, the less fertile it is. Perhaps the same holds true for individuals such as Hob.
@@ -172,6 +196,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page12.jpg)
+
 - #### Panel 1-2
 
   Presumably the quote from the play _Faustus_ is accurate. We may note that Beelzebub is a name of the devil, or the name of a major demon.
@@ -181,6 +207,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
   "Bent" may perhaps have meant "homosexual" in 1589; it certainly meant this in Nazi Germany (as may be seen in occasional issues of _The Desert Peach_ <plug> <plug>). We get "straight" for heterosexuals in analogy. Nowadays, "bent" is often used to mean "crooked", although it can still refer to homosexuals.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page13.jpg)
 
 - #### Panel 1
 
@@ -192,6 +220,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page14.jpg)
+
 - #### Panel 1
 
   Jump ahead to 1689. Note the background chatter.
@@ -202,17 +232,23 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page15.jpg)
+
 - #### Panel 1
 
   This is Hob, considerably reduced by circumstance.
 
 ### Page 16
 
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page16.jpg)
+
 - #### Panel 1
 
   Oliver Cromwell, and Parliament, took over England for a while during the 1600s. The monarchy was eventually restored. Hob picked the losing side.
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page17.jpg)
 
 - #### Panel 1
 
@@ -228,6 +264,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page18.jpg)
+
 - #### Panel 1
 
   _King Lear_ is one of Shakespeare's plays, Goneril one of Lear's daughters. Sarah Siddons (1755-1831) was a famous English actress. About this time a director/scholar did convert _Lear_ into a comedy to promote his own ideas of morality. As Dream "predicts", the modification did not last more than a few decades.
@@ -235,6 +273,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
   I take "Great Stories" to mean a class of tales fundamental to human nature (including, no doubt, "boy meets girl, boy loses girl, boy finds girl again" and the mixed-up twins farce).
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page19.jpg)
 
 - #### Panel 4
 
@@ -245,6 +285,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
   We have seen Dream pull this trick before, in [Sandman #1](sandman.01.md).
 
 ### Page 20
+
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page20.jpg)
 
 - #### Panel 4
 
@@ -259,6 +301,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
   Queen Bess is Queen Elizabeth I (1533-1603).
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page21.jpg)
 
 - #### Panel 1
 
@@ -278,6 +322,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page22.jpg)
+
 - #### Panel 2
 
   The "pox" is probably syphilis, here.
@@ -292,11 +338,15 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page23.jpg)
+
 - #### Panel 2
 
   Aha! The theme to the entire issue!
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.13/page24.jpg)
 
 - #### Panel 1
 

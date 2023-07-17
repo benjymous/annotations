@@ -2,6 +2,8 @@
 
 ## Issue 7: "Sound and Fury"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.07/page00.jpg)
+
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
 Seventh part of first storyline, _More than Rubies_
@@ -20,9 +22,13 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.07/page01.jpg)
+
 These people are walk-ons.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.07/page02.jpg)
 
 - #### Panel 3
 
@@ -30,9 +36,13 @@ These people are walk-ons.
 
 ### Page 3:
 
+> [!THUMBNAIL] ![](thumbnails/sandman.07/page03.jpg)
+
 - The two people are Morpheus (standing) and John Dee. See previous annotations for what's going on.
 
 ### Page 4
+
+> [!THUMBNAIL] ![](thumbnails/sandman.07/page04.jpg)
 
 - #### Panel 5
 
@@ -41,17 +51,23 @@ These people are walk-ons.
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.07/page08.jpg)
+
 - #### Panel 5
 
   The button "Norman Lives" is probably a reference to Norman Bates, a main character in the movie [Psycho](http://uk.imdb.com/Title?0054215) and its sequels. [Psycho](http://www.amazon.com/exec/obidos/ASIN/0812519329) was first a book written by Robert Bloch, who wrote sequels ([Psycho II](http://www.amazon.com/exec/obidos/ASIN/0812500334) and [Psycho-Paths](http://www.amazon.com/exec/obidos/ASIN/0812503406)) to it rather later, the first shortly before the release of [Psycho II](http://uk.imdb.com/Title?0086154). The last book seems to have been [Psycho House](http://www.amazon.com/exec/obidos/ASIN/0812509196); Bloch died 23 September 1994. A recent [remake of Psycho](http://uk.imdb.com/Title?0155975) was released 1998.
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.07/page09.jpg)
+
 - #### Panel 2-3
 
   Dee enters the Dreamtime dressed as Julius Caesar; the three ladies are probably not the Hecateae, but are simply denizens of the dreamtime. Shakespeare's play _Julius Caesar_ does not include a dream such as Dee's.
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.07/page10.jpg)
 
 - #### Panel 1
 
@@ -71,11 +87,15 @@ These people are walk-ons.
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.07/page14.jpg)
+
 - #### Panel 1
 
   "Stinkard lord of piss and mire" sounds like a quote.
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.07/page15.jpg)
 
 - #### Panel 1
 
@@ -85,11 +105,15 @@ These people are walk-ons.
 
 ### Page 16
 
+> [!THUMBNAIL] ![](thumbnails/sandman.07/page16.jpg)
+
 - #### Panel 1
 
   In the early part of this century, the sham magician Aleister Crowley revived the earlier alternate spelling "magick" to lend an air of mystery to his flummery. Crowley is roughly equivalent to Roderick Burgess, of [issue #1](sandman.01.md).
 
-### Page 22
+### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.07/page23.jpg)
 
 - #### Panel 2
 
@@ -99,13 +123,17 @@ These people are walk-ons.
 
   "There's no place like home", is a quote from "The Wizard of Oz", which also had a scarecrow in it.
 
-### Page 23
+### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.07/page24.jpg)
 
 - #### Panel 3
 
   "Mister Dent" is Harvey Dent, the Batman villain Two-Face, a long-term resident of Arkham. Dent is a sort of multiple personality, and might easily decide to try to kill himself.
 
-### Page 24
+### Page 25
+
+> [!THUMBNAIL] ![](thumbnails/sandman.07/page25.jpg)
 
 - #### Panel 1
 

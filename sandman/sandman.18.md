@@ -1,6 +1,7 @@
 # The Annotated Sandman
 
 ## Issue 18: "A Dream of a Thousand Cats"
+> [!THUMBNAIL] ![](thumbnails/sandman.18/page00.jpg)
 
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
 
@@ -9,6 +10,8 @@ Second story in anthology _Dream Country_
 Second story reprinted in trade paperback _Dream Country_
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.18/page10.jpg)
 
 - #### Panel 1
 
@@ -20,11 +23,15 @@ Second story reprinted in trade paperback _Dream Country_
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.18/page13.jpg)
+
 - #### Panel 1
 
   The entrance to the Dreaming has been seen before to be guarded by a griffon, dragon, and winged horse. Here, the griffon looks more like a large vulture.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.18/page14.jpg)
 
 - #### Panel 2
 
@@ -53,9 +60,11 @@ Second story reprinted in trade paperback _Dream Country_
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.18/page17.jpg)
+
 - #### Panel 1-2
 
-  The male does not seem to be golden-haired, as the text would indicate.
+  In early editions, the male was not not coloured with golden-hair.  This appears to have been fixed in later versions.
 
 - #### Panel 2,4
 
@@ -63,11 +72,15 @@ Second story reprinted in trade paperback _Dream Country_
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.18/page20.jpg)
+
 - #### Panel 4
 
   Note again the reference to the Carrion Kind. This is reminiscent of the Red King in _Through the Looking Glass_, whose dreams might have been all of reality. We also see multiple layering of dreams here.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.18/page23.jpg)
 
 - #### Panel 2
 

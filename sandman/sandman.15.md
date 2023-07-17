@@ -1,6 +1,7 @@
 # The Annotated Sandman
 
 ## Issue 15: "Into the Night"
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page00.jpg)
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -9,6 +10,8 @@ Sixth part of long storyline _The Doll's House_
 Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page01.jpg)
 
 - #### Panel 2
 
@@ -20,6 +23,8 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page02.jpg)
+
 - #### Panel 1
 
   Ken and Barbie are deliberately this cute, ending each other's thoughts and wearing the same clothes.
@@ -29,6 +34,8 @@ Eighth story reprinted in trade paperback _The Doll's House_
   I'm familiar with the moral tale, but it is quite long and I'll merely say that the point is that God does not abandon you during difficult times, those times are when he supports you the most.
 
 ### Page 4
+
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page04-05.jpg)
 
 This is Ken's dream, one of money. The top line reads "[typewriter symbols] Talking talking money boy ar[e you] listening 2 [to] me?" Below two small pictures, of a building and a man (possibly Ken's self image, or a father or boss figure), and also beside Ken's head, it reads "Mebbe [Maybe] 100 thou[sand dollars]". Then "Mebbe talk talking money boy got 2 handit 2 u boy" next to the man superimposed over a table of mutual funds values. Mutual funds are a type of investment. Then a picture of the man superimposed over a stock market listing, next to "Mebbee 100 thou/Mebbe more...." A stock market listing has the prices for stocks, which are pieces of paper representing partial ownership of a company. The buying and selling of stocks is important to Western-style economies. Then above a final picture of the man, we have "talking money boy ar u listening 2 me??"
 
@@ -41,6 +48,7 @@ The first panel of the dream pictures Barbie's self-image; the Porpentine, a mag
 Later panels also mention "The Cuckoo" and "The Disciples of the Cuckoo", villains; and the Hierogram ("Holy" + "Writing"), which is closely connected to the Porpentine.
 
 ### Page 6-7
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page06-07.jpg)
 
 Chantal's dream occupies the top half of the double-page spread, Zelda's the bottom. The illustration of the two sleeping implies that they are lovers. Their relationship was uncertain to the other residents of the house. Note that the original comic, a caption from Zelda's dream appears in the central panel, but is virtually obscured by a lace overlay on the art.
 
@@ -72,9 +80,9 @@ Chantal's self-image is flat, all solid colors and lines, a sophisticated-lookin
 
   "...when the time comes she discovers that she can no longer read. She has no idea what the sentence is about. Despondent and joyless, Chantal begins to cry." The entire sequence reads like a bizarre parody of a real relationship.
 
-- ####Zelda panel 1
+- #### Zelda panel 1
 
-Zelda's self-image is childlike, reminiscent of Alice of Lewis Carroll's "Alice's Adventure's in Wonderland." In the caption, "bone orchard" signifies the pictured graveyard. "Necropolis" is equivalent to "Death" + "City". "Gothic heroines:" "Gothic" is a genre of fiction that uses remote and unusual settings to establish a mood of mystery and horror. _Sandman_ is Gothic fiction. The "forbidden house...of dread desire" is probably a reference to lesbianism.
+  Zelda's self-image is childlike, reminiscent of Alice of Lewis Carroll's "Alice's Adventure's in Wonderland." In the caption, "bone orchard" signifies the pictured graveyard. "Necropolis" is equivalent to "Death" + "City". "Gothic heroines:" "Gothic" is a genre of fiction that uses remote and unusual settings to establish a mood of mystery and horror. _Sandman_ is Gothic fiction. The "forbidden house...of dread desire" is probably a reference to lesbianism.
 
 - #### Panel 2
 
@@ -97,6 +105,8 @@ Zelda's self-image is childlike, reminiscent of Alice of Lewis Carroll's "Alice'
   Under the veil appears to be a spider's face. Zelda and Chantal collect spiders.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page08.jpg)
 
 This is Hal's dream.
 
@@ -123,6 +133,7 @@ This is Hal's dream.
   The final face revealed is actually the Wizard of the movie, though it's hard to see. Frank Morgan was the actor who played the Wizard. The simple symbology in this sequence is that Hal wears a mask, either when he's being a transvestite, or when he's not, and he wants to stop.
 
 ### Page 9-10
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page09.jpg)
 
 - #### Panel 6
 
@@ -133,6 +144,8 @@ This is Hal's dream.
   Brevard County is a county in Florida, where Rose is staying.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page11.jpg)
 
 - #### Panel 4
 
@@ -146,6 +159,8 @@ This is Hal's dream.
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page12.jpg)
+
 - #### Panel 1-3
 
   Ken's dream is now one of sex.
@@ -155,6 +170,8 @@ This is Hal's dream.
   A place, the Brightly Shining Sea, and more characters, possibly villains, Colonel Knowledge and the Heiromancer (equals "one who knows the future through holiness" or "prophet", or possibly "holy wizard"). Colonel Knowledge may be a paranomasiac reference to carnal knowledge. In panel 6, Ken's dream begins to leak into Barbie's.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page13.jpg)
 
 Zelda's and Chantal's dreams begin to intersect. Chantal's dream is a recursive story. The captions read "Not quite in nightmare, but far from comfortable, Chantal is held like a crashed computer in an infinitely regressive loop of story. It was a dark and stormy night. And the skipper said to the mate, 'Mate, tell me a story....' And this was the story he told:" The story from "it was a dark..." then repeats, then fragments. "It was a dark and stormy night" was referenced in an earlier issue. The recursive story comes from the book _Arm in Arm: A Collection of Stories, Riddles, and Echolalia_ by Remy Charlip.
 
@@ -168,15 +185,20 @@ Zelda's and Chantal's dreams begin to intersect. Chantal's dream is a recursive 
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page14.jpg)
+
 - #### Panel 1-3
 
   Hal is recalling a former lover, Robert. Hal is obviously homosexual and not just a transvestite. The song If I Were a Bell is from the Broadway musical ["Guys and Dolls"](http://uk.imdb.com/M/title-substring?title=Guys+and+Dolls&tv=both) and it occurs when the romantic leads, Sky Masterson and Sarah Brown, are on a romantic getaway together. She sings it to express how happy she is. A common stereotype is that gay people enjoy showtunes.
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page15.jpg)
+
 The commentary on Barbara is important in the context of the later storyline. Hal is pictured walking on the Yellow Brick Road toward the paradise-symbol Emerald City, of the movie _The Wizard of Oz_.
 
 ### Page 16-17
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page16-17.jpg)
 
 - #### Panel 1
 
@@ -184,11 +206,15 @@ The commentary on Barbara is important in the context of the later storyline. Ha
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page21.jpg)
+
 - #### Panel 2-3
 
   Again, we see _a_ Doll's House.
 
 ### Page 22
+
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page22.jpg)
 
 - #### Panel 2
 
@@ -196,16 +222,20 @@ The commentary on Barbara is important in the context of the later storyline. Ha
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page23.jpg)
+
 - #### Panel 8-9
 
   See issues of _Swamp Thing_ for what Matt Cable, who became the raven, did. Gilbert's quote is from Christopher Marlowe, _The Jew of Malta_ (c. 1589) IV.i.40:
 
-  > **Friar Barnadine:** Thou hast committed -
+  > **Friar Barnadine:** Thou hast committed -<br>
   > **Barabus:** Fornication? But that was in another country: and besides, the wench is dead.
 
   Note that we saw Kit Marlowe in [Sandman #13](sandman.13.md), in 1589, although there did not appear to be a reference to this work.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.15/page24.jpg)
 
 - #### Panel 7
 

@@ -1,6 +1,7 @@
 # The Annotated Sandman
 
 ## Issue 11: "Moving In"
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page00.jpg)
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -9,6 +10,7 @@ Second part of long storyline _The Doll's House_
 Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 1
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page01.jpg)
 
 - #### Panel 1
 
@@ -16,6 +18,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
   The similarities between this picture and issue 10, page 22, panel 5-6 (Dream watching from doll's house in Unity's room) struck me.
 
 ### Page 2
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page02.jpg)
 
 - #### Panel 2
 
@@ -30,6 +33,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
   First known appearance of Zelda and Chantal, who will appear throughout this storyline.
 
 ### Page 3
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page03.jpg)
 
 - #### Panel 2
 
@@ -52,6 +56,7 @@ The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberl
   I do not know of a reference for skooky birds.
 
 ### Page 6
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page06.jpg)
 
 - #### Panel 1
 
@@ -70,6 +75,7 @@ The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberl
   This panel is doubtlessly an allusion to opening verse from E.A. Poe's poem "The Raven".
 
 ### Page 7
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page07.jpg)
 
 - #### Panel 3
 
@@ -82,6 +88,7 @@ The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberl
   The poster actually exists and is for an album, by group The Cure, named _Boys Don't Cry_. It's sort of funny that there's a boy crying, or at least moaning, in front of a poster that says "Boys Don't Cry". I'm guessing that was intentional, particularly as Rose doesn't seem to me the type of person to be a The Cure fan...
 
 ### Page 8
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page08.jpg)
 
 - #### Panel 1
 
@@ -92,6 +99,7 @@ The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberl
   Burt Paulsen is presumably Rose's father's name.
 
 ### Page 9
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page09.jpg)
 
 - #### Panel 4
 
@@ -102,12 +110,14 @@ The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberl
   This is the crux of the matter, why Brute and Glob chose Jed, why we keep seeing the Corinthian: Rose is generating enormous amounts of coincidence, particularly with respect to things associated with Dream. Just imagine how much sense Dickens' absurdities would have made if he had resorted to nebulosities like "vortices" to explain them :-) While it's probably not very significant, Chesterton was a Dickens scholar.
 
 ### Page 10
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page10.jpg)
 
 - #### Panel 3
 
   A limitation on Dream's power is that he must see Jed to find him in Dreamtime.
 
 ### Page 11
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page11.jpg)
 
 - #### Panel 1
 
@@ -118,16 +128,19 @@ The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberl
   Rose is singing a song, presumably from the drag show she has just seen. The song is "Oh, You Beautiful Doll." Lyrics by Seymour Brown, music by Nat Ayer. Jerome Remick & Co., 1911.
 
 ### Page 12
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page12.jpg)
 
 - #### Panel 2
 
   Gilbert's appearance in this panel is a swipe from Gene Colan, and specifically from Silverblade. The historical Gilbert, Chesterton, wore a cape and carried a cane.
 
 ### Page 13
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page13.jpg)
 
 We meet Gilbert at last. In particular, notice his response to Rose's question about his name.
 
 ### Page 16-17
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page16-17.jpg)
 
 This is a double page spread. The song in the background is the same song from page 11.
 
@@ -136,6 +149,7 @@ This is a double page spread. The song in the background is the same song from p
 We find confirmed that the Corinthian is a killer, and that he _yuck_ likes to eat eyes. Note that he seems to be talking and eating simultaneously, which is a hint of sorts.
 
 ### Page 19
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page19.jpg)
 
 - #### Panel 1
 
@@ -146,18 +160,21 @@ We find confirmed that the Corinthian is a killer, and that he _yuck_ likes to e
   "Nimrod" was a Biblical hunter.
 
 ### Page 21
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page21.jpg)
 
 - #### Panel 5
 
   "Ancient, but serviceable, revolver" sounds vaguely familiar. Sir Arthur Conan Doyle's detective hero Sherlock Holmes often asked his companion Dr. John Watson to bring a revolver on their adventures, and Conan Doyle may have used this phrasing. It may also be from Chesterton's novel "Manalive", in which a gun plays a pivotal role.
 
 ### Page 22
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page22.jpg)
 
 - #### Panel 5
 
   Did Dr. Lobster appear anywhere before?
 
 ### Page 24
+> [!THUMBNAIL] ![](thumbnails/sandman.11/page24.jpg)
 
 Dream is donning his battle raiment. Specifically, the helmet possesses a great deal of (unspecified) power. Presumably, Dream also is carrying his pouch of sand.
 

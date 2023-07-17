@@ -1,6 +1,7 @@
 # The Annotated Sandman
 
 ## Issue 12: "Playing House"
+> [!THUMBNAIL] ![](thumbnails/sandman.12/page00.jpg)
 
 ##### Neil Gaiman, Chris Bachalo, and Malcolm Jones III
 
@@ -9,6 +10,7 @@ Third part of long storyline _The Doll's House_
 Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 1
+> [!THUMBNAIL] ![](thumbnails/sandman.12/page01.jpg)
 
 - #### Panel 1
 
@@ -28,36 +30,42 @@ Fifth story reprinted in trade paperback _The Doll's House_
   An unidentified eye; an unidentified person; Despair (upside down); Tom Baker as Dr. Who (from the English television series); an unidentified face (below Baker); a Joker playing card (particularly resembling the Batman villain). To Joker's right, zoom-out of someone performing fellatio as seen in panel 3.
 
 ### Page 2
+> [!THUMBNAIL] ![](thumbnails/sandman.12/page02.jpg)
 
 - #### Panel 1
 
   Hector (Sandman) Hall and Brute and Glob. See previous annotations.
 
 ### Page 3
+> [!THUMBNAIL] ![](thumbnails/sandman.12/page03.jpg)
 
 - #### Panel 6
 
   This is indeed what the 1970s Sandman's HQ looked like.
 
 ### Page 4
+> [!THUMBNAIL] ![](thumbnails/sandman.12/page04.jpg)
 
 - #### Panel 4
 
   Hector has regressed to childhood. This is why he and Lyta no longer make love (page 1 panel 3). This may metaphorically represent the difference between comics as they were (Hall) and comics as they are now (Lyta).
 
 ### Page 6
+> [!THUMBNAIL] ![](thumbnails/sandman.12/page06.jpg)
 
 - #### Panel 1
 
   The last few issues of the 1970's _Sandman_ (not writted by Jack Kirby) had Jed's grandfather dying, and the boy moving in with an abusive aunt and uncle, and their even lower children. So the first appearance of Barnaby and Clarice would be in that _Sandman_, #5 or #6.
 
 ### Page 7
+> [!THUMBNAIL] ![](thumbnails/sandman.12/page07.jpg)
 
 - #### Panel 3
 
   Dream cannot kill a dreamer, except in one circumstance which is explicated later. From issue 9, we learned that an Endless cannot love a mortal without severe consequences. We will learn several other constraints on the Endless in this storyline.
 
 ### Page 9
+> [!THUMBNAIL] ![](thumbnails/sandman.12/page09.jpg)
 
 - #### Panel 3
 
@@ -68,6 +76,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
   Gaiman may be obliquely referring to the fact the Fury's mother was original the Golden Age Wonder Woman, who was retconned out of existence by Crisis. Or he may be referring to the patch Roy Thomas did by creating the Golden Age Fury in The Young All-Stars. GA Fury mothered Lyta and then vanished, although this was never made particularly clear.
 
 ### Page 11
+> [!THUMBNAIL] ![](thumbnails/sandman.12/page11.jpg)
 
 - #### Panel 3
 
@@ -78,24 +87,28 @@ Fifth story reprinted in trade paperback _The Doll's House_
   **The guest list reads**: The Bone [squiggle], Brother Chip, the California Widow, The Candyman, Christian, Cincinnati Oyster (Oyster may be a synonym for testicle here), The Corinthian, the Devil (Kentucky), the Devil (Oregon), Dog Soup, The Dutch Uncle, The Faggoteer, The Family Man (about whom more in a later issue), and the Fl\*sher (almost any vowel, "a" and "e" most probable, followed by "u"). Later, we will meet Dog Soup in person. A Dutch Uncle is someone who speaks frankly, usually offering unwanted advice in a brutally truthful manner, implying naivete on the part of the recipient. "Rocky Mountain Oysters," also "Kansas City Oysters," refer to testicles, usually obtained as a result of castration to improve an animal as a meat source. The Cincinnati Oyster may very well remove or eat the testicles of his victims.
 
 ### Page 12
+> [!THUMBNAIL] ![](thumbnails/sandman.12/page12.jpg)
 
 - #### Panels 4-5
 
   If you squint really hard, the wall reads "Who Watches the Watchmen?", which was the tagline for Alan Moore's and Dave Gibbons's _Watchmen_ series, an extremely important series about superhumans and the Cold War. This phrase was originally coined by Platon.
 
 ### Page 13
+> [!THUMBNAIL] ![](thumbnails/sandman.12/page13.jpg)
 
 - #### Panel 3
 
   The Corinthian has hungry eyes. What's going on here will become more clear later.
 
 ### Page 16
+> [!THUMBNAIL] ![](thumbnails/sandman.12/page16.jpg)
 
 - #### Panel 4
 
   I believe that the ultra-sonic whistle was in fact a weapon of the original 1970s Sandman. Hey, it was Kirby. You want sense, read a newspaper. You want thunder and fury, read Kirby.
 
 ### Page 19
+> [!THUMBNAIL] ![](thumbnails/sandman.12/page19.jpg)
 
 - #### Panel 2
 
@@ -106,18 +119,21 @@ Fifth story reprinted in trade paperback _The Doll's House_
   It's not really clear here, but this is the tragic and lamentable death of Barnaby and Clarice.
 
 ### Page 20
+> [!THUMBNAIL] ![](thumbnails/sandman.12/page20.jpg)
 
 - #### Panel 9
 
   Note that Jed is younger, like he is in his dreams (see [Issue #11](sandman.11.md)).
 
 ### Page 21
+> [!THUMBNAIL] ![](thumbnails/sandman.12/page21.jpg)
 
 - #### Panel 4
 
   **Hippolyta**: When Fury was the daughter of the original Wonder Woman, being named for the queen of the Amazons made sense. Post-Crisis, of course, nothing made sense.
 
 ### Page 24
+> [!THUMBNAIL] ![](thumbnails/sandman.12/page24.jpg)
 
 Oopsy. Jed's fled, and soon he'll be dead, 'cause that's the Corinthian who picked him up. Big coincidence? Not really; there's a vortex wandering around totally screwing up causality, and both Jed and the Corinthian are directly linked to her.
 

@@ -2,6 +2,8 @@
 
 ## Issue 3: "Dream a Little Dream of Me"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page00.jpg)
+
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
 Third part of first storyline, _More than Rubies_
@@ -12,9 +14,13 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page01.jpg)
+
 This woman will be identified later. This is her first known appearance.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page02.jpg)
 
 - #### Panel 3
 
@@ -25,6 +31,8 @@ This woman will be identified later. This is her first known appearance.
   This is John Constantine, whose background was described in the annotation of the second issue. Constantine is pronounced with the tine of a fork, not the teen of an adolescent.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page03.jpg)
 
 - #### Panel 1
 
@@ -40,11 +48,11 @@ This woman will be identified later. This is her first known appearance.
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page04.jpg)
+
 - #### Panel 2
 
   John Constantine used to sing with a (fictional) punk group called Mucous Membrance back in the 70s.
-
-### Page 4
 
 - #### Panel 3-4
 
@@ -56,6 +64,8 @@ This woman will be identified later. This is her first known appearance.
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page05.jpg)
+
 - #### Panel 1
 
   Note that the punk on the far left bears some resemblance to the demon Choronzon, which is probably coincidental.
@@ -66,17 +76,23 @@ This woman will be identified later. This is her first known appearance.
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page06.jpg)
+
 - #### Panel 2
 
   I am not familiar with the practice of "creeping"; it may be exclusively British, or more simply a short-lived phenomenon.
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page07.jpg)
+
 - #### Panel 3
 
   In a world where Superman really exists, it is not surprising that people would dream they were he. (Nor in this world, either!) "Last son of a dead planet" is a reference to Superman's meta-title, "Last Son of Krypton." This is also the title of a quite good novel by Elliot S. Maggin.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page08.jpg)
 
 - #### Panel 1
 
@@ -92,13 +108,13 @@ This woman will be identified later. This is her first known appearance.
 
   The Ley-lines (pronounced like the name Lee) are a particular reference to a case of Constantine's, the Fear Machine, which ran for something like nine issues in the teens of _Hellblazer_. Leptons are a class of fundamental particles in physics. A plasma is an aggregate of charged particles; "Plasma fields" is incorrect jargon and sounds like New Age crap.
 
-### Page 8
-
 - #### Panel 6, page 9 panel 1
 
   A reference to the legendary Stanley-Livingstone meeting in Africa.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page09.jpg)
 
 - #### Panel 5
 
@@ -114,11 +130,15 @@ This woman will be identified later. This is her first known appearance.
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page10.jpg)
+
 - #### Panel 3
 
   The volumes (diaries?) labeled _Brujeria_, _Plant Elemental_, _Crisis_, and _American Gothic_ all refer to Constantine's first appearance, a case with Swamp Thing that was directly related to the _Crisis on Infinite Earths_ crossover series. _Liverpool_ and _Tibet_ are references I do not recognize.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page11.jpg)
 
 - #### Panel 1
 
@@ -136,8 +156,6 @@ This woman will be identified later. This is her first known appearance.
 
   In the late 60s, Stan Lee and Jack Kirby did a overblown philosophical comic called _The Silver Surfer_. Drugged-out hippies loved it; it became extremely popular for a short while. Issues of that run are worth quite a bit of money. Besides undergrounds, they are the only sorts of comics likely to be found in head shops.
 
-### Page 11
-
 - #### Panel 5
 
   The lyrics are from a song by Roy Orbison, "In Dreams".
@@ -145,6 +163,8 @@ This woman will be identified later. This is her first known appearance.
   The song is featured prominently in the soundtrack of David Lynch's movie _Blue Velvet_.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page13.jpg)
 
 - #### Panel 1
 
@@ -156,11 +176,15 @@ This woman will be identified later. This is her first known appearance.
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page14.jpg)
+
 - #### Panel 6
 
   Morpheus can see in the dark.
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page16.jpg)
 
 - #### Panel 3
 
@@ -168,11 +192,15 @@ This woman will be identified later. This is her first known appearance.
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page20.jpg)
+
 - #### Panel 4
 
   We are never told how Rachel managed to open the pouch; this is important because we are specifically told earlier than Constantine could not on page 9.
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page21.jpg)
 
 - #### Panel 1
 
@@ -180,11 +208,15 @@ This woman will be identified later. This is her first known appearance.
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page23.jpg)
+
 - #### Panel 6
 
   Constantine believes that he is going to Hell because he believes he has caused the deaths of so many friends and acquaintances.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.03/page24.jpg)
 
 - #### Panel 5
 

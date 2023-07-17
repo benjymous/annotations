@@ -2,6 +2,8 @@
 
 ## Issue 6: "24 Hours"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page00.jpg)
+
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
 Sixth part of first storyline, _More than Rubies_
@@ -9,6 +11,8 @@ Sixth part of first storyline, _More than Rubies_
 Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page01.jpg)
 
 - #### Panel 2
 
@@ -19,6 +23,8 @@ Sixth story reprinted in _Preludes and Nocturnes_
   Bette's hands may be shaking, or those may be motion lines.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page02.jpg)
 
 - #### Panel 2
 
@@ -44,6 +50,8 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page03.jpg)
+
 - #### Panel 2
 
   First known appearance of this young man, named Mark.
@@ -53,6 +61,8 @@ Sixth story reprinted in _Preludes and Nocturnes_
   First known appearance of Kate and Garry Fletcher (named explicitly shortly).
 
 ### Page 4
+
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page04.jpg)
 
 - #### Panel 2
 
@@ -72,12 +82,16 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page05.jpg)
+
 - #### Panel 6
 
   The object to the right of the ruby is the amulet of protection originally obtained from the demon Choronzon in [#1](sandman.01.md).
   Note that it never gets used that we are made aware of, and we do not learn what becomes of it later. It is possible that Morpheus' recovery of his helmet has nullified the trade, and so rendered the amulet powerless. Dee might be holding onto it for sentimental reasons.
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page07.jpg)
 
 - #### Panel 2
 
@@ -93,6 +107,8 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page08.jpg)
+
 Another fictional example of an American television genre, the children's variety show, typically featuring humans interacting with puppets, interspersed with cartoons. There is also a cultural fascination with dinosaurs that unfortunately does not extend to fascination with accuracy.
 
 - #### Panel 7
@@ -101,11 +117,15 @@ Another fictional example of an American television genre, the children's variet
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page09.jpg)
+
 - #### Panel 7
 
   Donna and Judy fought at least partly because Judy struck Donna.
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page10.jpg)
 
 - #### Panel 1
 
@@ -121,13 +141,19 @@ Another fictional example of an American television genre, the children's variet
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page11.jpg)
+
 - #### Panel 3
 
   Stephen King is an American best-selling writer who popularized the horror genre in the last two decades.
 
-- #### Panel 4 One of the buttons on Judy's jacket appears to read "Sex Pletch." This is likely to mean "Sex Pistols," one of the early British punk bands.
+- #### Panel 4
+
+  One of the buttons on Judy's jacket appears to read "Sex Pletch." This is likely to mean "Sex Pistols," one of the early British punk bands.
 
 ### Page 12-13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page12-13.jpg)
 
 - #### Panel 1
 
@@ -149,9 +175,11 @@ Another fictional example of an American television genre, the children's variet
 
   > This is actually not the right hand's index finger. It is meant to be a continuation of the severed finger, which bends 45 degrees at the point where the thumb is holding it. The fact that it seems to be drawn as the right hand's index finger is probably a mistake of the inker.
 
-- #### Panel 9 Fundamentalism is a sect of Christianity which believes in the literal word of the Bible. Armageddon is the prophesied end of the world.
+- #### Panel 9
 
-  - #### Panel 10
+  Fundamentalism is a sect of Christianity which believes in the literal word of the Bible. Armageddon is the prophesied end of the world.
+
+- #### Panel 10
 
   First known appearance of "The Amazing Herschel and Betty".
 
@@ -166,9 +194,13 @@ Another fictional example of an American television genre, the children's variet
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page14.jpg)
+
 This is Kate speaking. Sex with dead people is called necrophilia. It is not clear to me whether a male corpse could have an erection that could achieve penetration, or if in fact penetration even occurred. In panel 8, it is to be assumed that Kate tasted or drank the corpse's blood.
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page15.jpg)
 
 The theme music is indeed correct for the 60s television show "The Addams Family"
 
@@ -186,6 +218,8 @@ The theme music is indeed correct for the 60s television show "The Addams Family
 
 ### Page 16
 
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page16.jpg)
+
 In this sequence, the three women take the roles of the Hecateae, reintroduced in issue 3. Dee repeatedly demands a prophecy until he hears what he wants to hear. Notice that Judy has lost her shirt, which is consistent with Judy being involved in the sex scene on the previous page. Also note that the women are arranged in a maiden/mother/crone order.
 
 - #### Panel 3
@@ -196,11 +230,15 @@ In this sequence, the three women take the roles of the Hecateae, reintroduced i
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page17.jpg)
+
 - #### Panel 5,7
 
   No one dies here. We clearly see all six people in the diner alive on page 19.
 
 ### Page 18
+
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page18.jpg)
 
 Notice that Bette is holding the nails while Marsh does the hammering, with his left hand.
 
@@ -214,6 +252,8 @@ Notice that Bette is holding the nails while Marsh does the hammering, with his 
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page19.jpg)
+
 This page more or less describes typical mammalian pack behavior.
 
 - #### Panel 6
@@ -221,6 +261,8 @@ This page more or less describes typical mammalian pack behavior.
   The television quote is the radio tag for "The Wolfman."
 
 ### Page 20
+
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page20.jpg)
 
 - #### Panel 2
 
@@ -232,13 +274,18 @@ This page more or less describes typical mammalian pack behavior.
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page21.jpg)
+
 - #### Panel 1
 
   The song is named something like "Spread a Little Happiness;" it is an old British popular song from the interwar era. It's played on BBC radio 4 and used in a commercial for butter. The rock star Sting later recorded a version that appears on the soundtrack to the movie _Brimstone and Treacle_.
 
-- #### Panel 2 Judy stabs herself in the eyes with cooking skewers.
+- #### Panel 2
+  Judy stabs herself in the eyes with cooking skewers.
 
 ### Page 22
+
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page22.jpg)
 
 The sign in the upper left reads "Please and Thank You are the magic words."
 
@@ -249,6 +296,8 @@ The sign in the upper left reads "Please and Thank You are the magic words."
   In the lower left corner there is an old clock. Exactly the same clock can be found in [Sandman #4](sandman.04.md) ("A Hope In Hell") on page 11, panel 3, also in the lower left corner.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.06/page24.jpg)
 
 - #### Panel 2
 

@@ -2,6 +2,8 @@
 
 ## Issue 19: "A Midsummer Night's Dream"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page00.jpg)
+
 ##### Neil Gaiman and Charles Vess
 
 Third story in anthology _Dream Country_
@@ -15,6 +17,8 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page01.jpg)
+
 - #### Panel 1
 
   William Shakespeare was baptized on April 26, 1564, into a successful middle class family. Shakespeare and Anne Hathaway were married November 28, 1582. Their daughter Susanna was born in May, 1583. The twins Hamnet and Judith were born in February 1585.
@@ -24,6 +28,8 @@ Winner of 1991 World Fantasy Award in the short story category
   Will Kemp and Bob Armin are presumably historical members of the acting troupe.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page02.jpg)
 
 - #### Panel 1
 
@@ -42,6 +48,8 @@ Winner of 1991 World Fantasy Award in the short story category
   The Normans were invaders from France (and, further back, Scandinavia) who conquered England in 1066, defeating the no more native Anglo-Saxons, who themselves had come to England in about the fifth century, displacing the Celtic people, and so forth, and so on.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page03.jpg)
 
 - #### Panel 1
 
@@ -78,6 +86,8 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page04.jpg)
+
 - #### Panel 1
 
   The Black Plague was still a great concern in this era. The boy in the red dress is, I believe, Henry Condell, as mentioned above. He is playing Titania, queen of the Fairies. Hamnet is playing a young Indian boy, her servitor, and the boy in the green dress is playing Helena, one of the young lovers of the play.
@@ -97,6 +107,8 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page4.jpg)
+
 - #### Panel 6; page 5 panel 1-3
 
   Who is Wendel, and why is he an outline on an earthen mound?
@@ -107,9 +119,11 @@ Winner of 1991 World Fantasy Award in the short story category
 
   The true location is the Long Man of Wilmington. (Neil Gaiman notes in the Sandman Companion that this may have originated as "Wendel's Mound Town")
 
-  ![The Long Man of Wilmington](images/LongManOfWilmington.jpg)
+> [!FLEX_2] ![Wendel opens his door](images/WendelOpens.jpg)  ![The Long Man of Wilmington](images/LongManOfWilmington.jpg)
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page06.jpg)
 
 - #### Panel 1
 
@@ -125,6 +139,8 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page07.jpg)
+
 The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to Hippolyta, Queen of the Amazons. Philostrate is his Master of Revels.
 
 - #### Panel 8
@@ -136,6 +152,8 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
   Act I Scene 1 line 14, Theseus instructing Philostrate to prepare diversions to make the time pass more quickly. Pale Companion refers to melancholy, not to Dream, despite the juxtaposition of his features.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page08.jpg)
 
 - #### Panel 1
 
@@ -150,6 +168,8 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
   Act I Scene 1 lines 197-201; Helena and Hermia are best friends; Helena was wooed and abandoned by Demetrius, whom she still desires.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page09.jpg)
 
 - #### Panel 1
 
@@ -166,6 +186,8 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
   Act I Scene 2 lines 72-75. Bottom is convinced that he can play any role. Here, he is demonstrating that he could play a lion if required. Immediately previously, though not shown, a character had expressed doubt that he could learn the lion's lines (simple roaring only).
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page10.jpg)
 
 - #### Panel 1
 
@@ -188,6 +210,8 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
   Act II Scene 1 lines 60-64. Note the different spelling of Oberon. Oberon and Titania are quarreling over the possession of the young boy to the right (played by Hamnet).
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page11.jpg)
 
 - #### Panel 1
 
@@ -212,6 +236,8 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page12.jpg)
+
 - #### Panel 1
 
   Act II Scene 2 line 84-87. Demetrius and Helena.
@@ -226,6 +252,8 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page13.jpg)
+
 - #### Panel 3
 
   One of Will's most famous plays is, of course, _Hamlet_.
@@ -238,6 +266,8 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
   Puck has changed Bottom's head for an ass (appropriate to the character, who is a foolish and vain man). Bottom has frightened away the other players.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page14.jpg)
 
 - #### Panel 1
 
@@ -252,6 +282,8 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
   Peaseblossom's scene is occuring now.
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page15.jpg)
 
 - #### Panel 1
 
@@ -271,6 +303,8 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
 
 ### Page 16
 
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page16.jpg)
+
 - #### Panel 1
 
   Note Titania with Hamnet.
@@ -288,6 +322,8 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
   Titania is giving Hamnet an apple; as seen in _The Books of Magic_ #3, this means that Hamnet becomes hers to do with as she will. As also seen in that text, when Tim Hunter visits Faerie in the present day, Titania has a page named Hamnet, whom we assume is the same child.
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page17.jpg)
 
 - #### Panel 1
 
@@ -307,6 +343,8 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page18.jpg)
+
 - #### Panel 1
 
   Act IV Scene 1 lines 1-4.
@@ -321,6 +359,8 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page19.jpg)
+
 - #### Panel 1
 
   Act IV Scene 1 lines 109-113.
@@ -330,6 +370,8 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
   Act IV Scene 1 lines 116-119.
 
 ### Page 20
+
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page20.jpg)
 
 - #### Panel 1
 
@@ -347,6 +389,8 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page21.jpg)
+
 - #### Panel 1
 
   Act V Scene 1 lines 202-203. The craftsmen are putting on _Pyramus and Thisbe_. (Note: one source has "Thisby" as the spelling, but this has "Thisbe", which is also the more traditional mythological spelling.)
@@ -360,6 +404,8 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
   Act V Scene 1 lines 212-215. The craftsmen's ineptitude provides rare amusement to the royal onlookers, and Theseus has wisdom about players.
 
 ### Page 22
+
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page22.jpg)
 
 - #### Panel 1
 
@@ -375,9 +421,13 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page23.jpg)
+
 Act V Scene 1. Puck's speech here is also the final speech in the play.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page24.jpg)
 
 The standard ending to fairy stories has those who ventured into the fairy world waking on a hill, their gold changed to something worthless.
 

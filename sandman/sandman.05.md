@@ -2,6 +2,8 @@
 
 ## Issue 5: "Passengers"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.05/page00.jpg)
+
 ##### Neil Gaiman, Sam Kieth, and Malcolm Jones III
 
 Fifth part of first storyline, _More than Rubies_
@@ -9,6 +11,8 @@ Fifth part of first storyline, _More than Rubies_
 Fifth story reprinted in _Preludes and Nocturnes_
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.05/page01.jpg)
 
 This is Arkham Asylum, which was referenced earlier. "Funeral March for a Marionette" is the theme song to the show "Alfred Hitchcock Presents." Hitchcock is a famous director, particularly of suspenseful movies; the television shows were also suspense or mystery, introduced by Hitch himself with droll black humor. Hitchcock is known for making cameos in all his film work. "Alfred Hitchcock Presents" is currently being shown on USA Network on cable on Friday nights.
 
@@ -18,6 +22,8 @@ Chorley died in 1872 before the piece could be formally dedicated to him, but it
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.05/page02.jpg)
+
 It is unclear how John Dee (Dr. Destiny) has escaped from his cell, unless it be by the amulet he obtained last issue. The Scarecrow is hanging just outside the dining hall as a part of an April Fool's joke (the date established on page 1).
 
 - #### Panel 4
@@ -25,6 +31,8 @@ It is unclear how John Dee (Dr. Destiny) has escaped from his cell, unless it be
   The hanging figure is Jonathan Crane, the Scarecrow, a crazy Batman villain who is obsessed with fear in all its forms. He is known to be a long term resident of Arkham.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.05/page03.jpg)
 
 As far as I know, the Scarecrow is correct with his terms for various phobias. It is unclear how he is hanging. Panel 5 clearly shows that the noose is not tight, but then he could not be hanging from the rope (as he clearly is on the previous page and in panel 1) with the rope as in panel 5. The shadows in panel 5 might show the rope attached to a fairly large hook on the back of Crane's straightjacket.
 
@@ -40,15 +48,21 @@ He might have the rope going down his shirt and tied around his waist. They did 
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.05/page04.jpg)
+
 - #### Panel 5
 
   First known appearance of the woman, who is named later this issue.
 
 #### Page 5-7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.05/page05.jpg)
+
 This is a dream of Mister Miracle. Mister Miracle, who goes by the name "Scott Free", which is a pun, is a New God, and a member of the Justice League. He is the son of the "good" New God Izaya, but was raised in a hellish orphanage run by a wicked woman named Granny Goodness on the planet of the "bad" New Gods, which is named Apokolips. Needless to say, all of this mythology was created by Jack Kirby, specifically for his "Fourth World" titles at DC in the 70s. Mister Miracle is a master escape artist. A number of minor characters are named in this sequence; I assume they are either consistent with his known origin or are new here.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.05/page11.jpg)
 
 - #### Panel 1
 
@@ -64,17 +78,23 @@ This is a dream of Mister Miracle. Mister Miracle, who goes by the name "Scott F
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.05/page12.jpg)
+
 - #### Panel 1
 
   OK, so we know her name is Rosemary. Later we find out that her last name is Kelly. It's not going to matter very long....
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.05/page13.jpg)
+
 - #### Panel 4
 
   Dee is describing some of his encounters with the JLA, accurately.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.05/page14.jpg)
 
 - #### Panel 2
 
@@ -85,6 +105,8 @@ This is a dream of Mister Miracle. Mister Miracle, who goes by the name "Scott F
   Morpheus takes a different form and is recognized under a different name, L'Zoril, by the Manhunter, who is really from Mars. This is really the first, and possibly the strongest, proof we have to date that Dream has been known to all cultures and all times. Note that Mister Miracle does not react badly to the appearance of a giant flaming skull in the hallway beside him; this is a good clue that Morpheus has little or no real physical presence, but is instead perceived according to the preconceptions of the viewer. Thus, the Manhunter perceives him as his historical god of dreams, while most Westerners, who have little mythological preparation for him, perceive him as a thin, pale human (someone who stays inside all day, perhaps writing or doing something else creative). Note that Grant Morrison's visage in _Animal Man_ resembled Morpheus quite closely.
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.05/page15.jpg)
 
 - #### Panel 3
 
@@ -112,11 +134,15 @@ This is a dream of Mister Miracle. Mister Miracle, who goes by the name "Scott F
 
 ### Page 16
 
+> [!THUMBNAIL] ![](thumbnails/sandman.05/page16.jpg)
+
 - #### Panel 2
 
   This may be oblique foreshadowing; the letter D is important to background mythology surrounding Morpheus that will be developed more in later issues.
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.05/page17.jpg)
 
 - #### Panel 2
 
@@ -124,9 +150,13 @@ This is a dream of Mister Miracle. Mister Miracle, who goes by the name "Scott F
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.05/page18.jpg)
+
 Morpheus while on Earth travels either as a human would (the taxi ride with Constantine and Chas in [#3](sandman.03.md)) or through dreams of people along the way. The latter is consistent with how he obtained food in [#1](sandman.01.md), although there it was stated that Morpheus was too weak to create food from the fabric of dreams directly.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.05/page19.jpg)
 
 - #### Panel 3
 

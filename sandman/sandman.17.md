@@ -1,6 +1,7 @@
 # The Annotated Sandman
 
 ## Issue 17: "Calliope"
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page00.jpg)
 
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
 
@@ -11,6 +12,8 @@ First story reprinted in trade paperback _Dream Country_
 **Note**: The script for this issue, complete with Neil's and Kelley's notes, is printed in the back of _Dream Country_.
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page01.jpg)
 
 - #### Panel 1
 
@@ -30,11 +33,15 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page02.jpg)
+
 - #### Panel 1
 
   This is a nod to the 1919 German film [The Cabinet of Dr. Caligari](http://uk.imdb.com/M/title-substring?title=The+Cabinet+of+Dr.+Caligari&tv=off), one of the most famous silent films ever made, a masterpiece of the expressionistic style.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page03.jpg)
 
 - #### Panel 4
 
@@ -46,6 +53,8 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page04.jpg)
+
 - #### Panel 3-4
 
   Fry's explanation of bezoars is accurate, as shown above.
@@ -53,6 +62,8 @@ First story reprinted in trade paperback _Dream Country_
   John Dee has had some background provided in an earlier annotation.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page05.jpg)
 
 - #### Panel 3
 
@@ -68,17 +79,23 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page06.jpg)
+
 According to the script, Kelley Jones drew Calliope emaciated, which editor Karen Berger thought was too extreme. Malcolm Jones inked her a little less skinny.
 
 There were nine Muses in Greek mythology of whom Calliope was the Muse of epic poetry. The others were Clio (history), Erato (lyric poetry), Euterpe (music), Melpomene (tragedy), Polyhymnia (religious music), Terpsichore (dance), Thalia (comedy) and Urania (astronomy). They were the daughters of Zeus and Mnemosyne (the titan of memory).
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page07.jpg)
+
 - #### Panel 4
 
   From the Book of Common Prayer of the Church of England (146:2) "O put not your trust in princes, nor in any child of man: for there is no help in them." It may also appear in the Book of Psalms.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page08.jpg)
 
 - #### Panel 2
 
@@ -89,6 +106,8 @@ There were nine Muses in Greek mythology of whom Calliope was the Muse of epic p
   Jones' reference work for Madoc's workspace was a photo of Gaiman's own! Gaiman says it was reproduced "embarrassingly accurately", except for lacking the statue of Groucho Marx.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page09.jpg)
 
 - #### Panel 1
 
@@ -116,6 +135,8 @@ There were nine Muses in Greek mythology of whom Calliope was the Muse of epic p
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page10.jpg)
+
 - #### Panel 1
 
   Melete is telling the story of Orpheus, who was classically the son of Calliope by Apollo, not Oneiros. Orpheus was a master musician who descended to Hades in search of his dead wife Eurydice. His music was so charming that he was allowed to lead his wife out, provided he did not look back until they were out of the underworld. He looked back, and lost her forever. Thrace is a indeterminate region in what is now Bulgaria, Greece, and Turkey. The sisters of the fury were worshippers of the god Bacchus who worked themselves into a frenzy, in which state Orpheus encountered them and was killed. Oneiros is the Greek name of Dream.
@@ -125,6 +146,8 @@ There were nine Muses in Greek mythology of whom Calliope was the Muse of epic p
   Some aspects of Dream's and Calliope's disagreement are covered in _Sandman_ Special #1.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page11.jpg)
 
 - #### Panel 3
 
@@ -157,6 +180,8 @@ There were nine Muses in Greek mythology of whom Calliope was the Muse of epic p
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page12.jpg)
+
 - #### Panel 1
 
   Gaiman describes the two men discussing the Booker Prize as "psuedy types"; this is misspelled. The Booker Prize may be considered a British counterpart to the American Pulitzer Prize, although it is much more literary in nature and is restricted to fiction by UK and Commonwealth authors. Some who have won include Anita Brookner, Kazuo Ishiguro, and Iris Murdoch.
@@ -177,6 +202,8 @@ There were nine Muses in Greek mythology of whom Calliope was the Muse of epic p
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page13.jpg)
+
 - #### Panel 4
 
   The script notes that "Eagle Stones" are stones with magical properties, found in eagle nests, without which eagle eggs could not break.
@@ -191,6 +218,8 @@ There were nine Muses in Greek mythology of whom Calliope was the Muse of epic p
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page14.jpg)
+
 - #### Panel 2
 
   The lettering makes it clear that Calliope is speaking with Dream (whom Gaiman refers to in scripts exclusively as "The Sandman", though "that's not his name").
@@ -199,11 +228,15 @@ There were nine Muses in Greek mythology of whom Calliope was the Muse of epic p
 
   Gaiman notes that the interviewer bears a strong resemblance to his friend and collaborator, Kim Newman, a British SF writer and expert on old films. Their collaboration is unknown.
 
+> [!FLEX_2] ![The interviewer](images/KimNewmanCameo.jpg) ![Kim Newman](images/KimNewman.jpg)
+
 - #### Panel 5
 
   Note Madoc's earring, an ankh, the symbol of Dream's sister Death. Madoc can be seen wearing the earring in a number of other panels.
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page15.jpg)
 
 - #### Panel 2
 
@@ -218,11 +251,15 @@ There were nine Muses in Greek mythology of whom Calliope was the Muse of epic p
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page17.jpg)
+
 - #### Panel 6
 
   Of course, Dream was imprisoned most of this century himself.
 
 ### Page 18
+
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page18.jpg)
 
 - #### Panel 6
 
@@ -233,6 +270,8 @@ There were nine Muses in Greek mythology of whom Calliope was the Muse of epic p
   The second draft of the script had "I am alive in my own right." for "I am real." The original was left in in the lettered version.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page19.jpg)
 
 - #### Panel 3
 
@@ -247,6 +286,8 @@ There were nine Muses in Greek mythology of whom Calliope was the Muse of epic p
   The library in Alexandria was burned, and many classical works were lost forever.
 
 ### Page 20
+
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page20.jpg)
 
 - #### Panel 1
 
@@ -268,6 +309,8 @@ There were nine Muses in Greek mythology of whom Calliope was the Muse of epic p
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page21.jpg)
+
 - #### Panel 6
 
   Cargo cults were discovered among the peoples of the Pacific islands during and after World War II, based on the unbelievable amounts of goods ("cargo") brought to these islands by the various armed forces.
@@ -280,11 +323,15 @@ There were nine Muses in Greek mythology of whom Calliope was the Muse of epic p
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page22.jpg)
+
 - #### Panel 4
 
   Note the book blurb.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.17/page23.jpg)
 
 - #### Panel 1
 

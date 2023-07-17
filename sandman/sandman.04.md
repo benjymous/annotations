@@ -2,6 +2,8 @@
 
 ## Issue 4: "A Hope in Hell"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.04/page00.jpg)
+
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
 Fourth part of first storyline, _More than Rubies_
@@ -9,6 +11,8 @@ Fourth part of first storyline, _More than Rubies_
 Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.04/page01.jpg)
 
 - #### Panel 7
 
@@ -20,6 +24,8 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.04/page04.jpg)
+
 - #### Panel 1-4
 
   This is not the same gatekeeper as seen elsewhere; first known appearance of Squatterbloat. Squatterbloat speaks in triolets; the rhyme scheme is ABAAABAB, and the first, fourth, and seventh lines are the same, as are the second and eighth. The B lines are a syllable or two longer than the A lines. Note that DC has established that demons who rhyme when they speak are higher in Hell's hierarchy than those who do not.
@@ -30,11 +36,15 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.04/page05.jpg)
+
 - #### Panel 5
 
   Etrigan first appeared in a Kirby book of the 70s. He is a demon, the son of Belial and the half-brother of Merlin. He shares a body on Earth with Jason Blood, and has since the time of Camelot. Etrigan has had three series, all called _The Demon_, with one currently being published. The Demon (Etrigan)'s speech originally did not rhyme, but Alan Moore did not invent the rhyming pattern of Etrigan's speech. This was invented by Len Wein (who later wrote one of the Dreaming mini-series) in DC COMICS PRESENTS#66. Etrigan is, to judge by the meter of his speech in several instances, pronounced "eh-tri-GAN", with a short i sound. (I'd reproduce it phonetically except that 1. most of the audience wouldn't get it and 2. this keyboard doesn't have the right characters--all three vowels are non-Roman: epsilon, small-caps-I, aesch.)
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.04/page06.jpg)
 
 - #### Panel 5
 
@@ -42,11 +52,15 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.04/page07.jpg)
+
 - #### Panel 3
 
   Kai'ckul is another name for Morpheus; the prisoner is a woman named Nada -- nada means "nothing" in Spanish. Nada will be important at least twice more, in a single issue and a major storyline.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.04/page08.jpg)
 
 - #### Panel 1
 
@@ -57,6 +71,8 @@ Fourth story reprinted in _Preludes and Nocturnes_
   Lucifer's wings are problematic. His angelic wings traditionally were torn off as part of his punishment, or were burned off in the descent to Hell. These are, however, bat-like, and may be replacements Lucifer caused to grow.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.04/page09.jpg)
 
 **Note** This is Lucifer's first appearance. In the original monthly publication these two pages were a double page spread. After adverts were removed for the collections, they no longer fell over two pages, so were redrawn.
 
@@ -70,17 +86,23 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.04/page10.jpg)
+
 - #### Panel 5
 
   According to my dictionary, "diumvirate" should be spelled "duumvirate". The fact that Hell was ruled by a triumvirate was established in some other DC comic, perhaps early issues of Hellblazer. As a result of the followup (in _Swamp Thing_ #50) to _Crisis on Infinite Earths_, Lucifer was forced to accept Beelzebub and Azazel as co-rulers. The names of these archdevils can also be found in Milton, among other sources. A different light will be shed upon this in a later storyline. Also, the first storyline in the new run of _The Demon_ was tumult and shouting about the ruling of Hell. The triumvirate has also appeared in the secret origin of "Stanley and His Monster" (by Phil Foglio, and very funny, of course, in the later issues of _Secret Origins_).
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.04/page11.jpg)
+
 - #### Panel 3
 
   In the lower left corner there is an old clock on Lucifer's table. Exactly the same clock can be found in [Sandman #6](sandman.06.md) ("24 hours") on page 22, panel 1, also in the lower left corner.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.04/page14.jpg)
 
 - #### Panel 2
 
@@ -96,6 +118,8 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.04/page15.jpg)
+
 - #### Panel 7
 
   The game of reality is not one I have seen before. Gaiman has a gift for inventing totally new things that sound completely right, such as the ritual that invoked Morpheus in [Sandman #1](sandman.01.md) and the tale in [Sandman #9](sandman.09.md). A somewhat similar game, except that the participants actually transform themselves rather than merely discussing it, is played in T.H. White's _The Sword in the Stone_. The game of reality is quite similar thematically to the Riddle Game of old, which is exemplified in J.R.R. Tolkien's _The Hobbit_.
@@ -103,6 +127,8 @@ Fourth story reprinted in _Preludes and Nocturnes_
   Choronzon could have easily responded to "hope" such as Doubt, or Despair, both killers of hope. Maybe that's why Lucifer was so angry at him for losing...
 
 ### Page 18
+
+> [!THUMBNAIL] ![](thumbnails/sandman.04/page18.jpg)
 
 - #### Panel 1
 
@@ -114,6 +140,8 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.04/page19.jpg)
+
 - #### Panel 8
 
   "I am hope." Hope was supposed to be the only thing that remained in Pandora's Box after she opened it. No wonder Choronzon couldn't think of anything to counter it.
@@ -124,11 +152,15 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.04/page20.jpg)
+
 - #### Panel 4
 
   Agony and Ecstasy have popped up once or twice before, first in _Hellblazer_ 12. They are Lucifer's enforcers.
 
 ## Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.04/page24.jpg)
 
 This is John Dee, Dr. Destiny, who has been mentioned before. The amulet is the same amulet for which Ruthven Sykes traded the helmet to Choronzon; it allegedly protects the wearer from "anything", and it is known to work against magical sendings.
 

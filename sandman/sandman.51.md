@@ -56,7 +56,7 @@ First story in anthology, "Worlds' End"
 
   The man with the beer stein at left foreground is wearing a distinctive hat, the same worn by noted fantasy writer (and friend of Gaiman's) Steven Brust. Neil Gaiman confirms that it's meant as a cameo.
 
-  > [!TIP|style:flat|iconVisibility:hidden|className:flex cols-2] ![Steven Brust's cameo in #51](images/StevenBrustCameo.jpg) ![Steven Brust](images/StevenBrust.jpg)
+  > [!FLEX_2] ![Steven Brust's cameo in #51](images/StevenBrustCameo.jpg) ![Steven Brust](images/StevenBrust.jpg)
 
 - #### Panel 6
 

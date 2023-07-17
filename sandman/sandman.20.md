@@ -1,6 +1,7 @@
 # The Annotated Sandman
 
 ## Issue 20: "Facade"
+> [!THUMBNAIL] ![](thumbnails/sandman.20/page00.jpg)
 
 ##### Neil Gaiman, Colleen Doran, and Malcolm Jones III
 
@@ -10,6 +11,8 @@ Fourth story reprinted in trade paperback _Dream Country_
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.20/page01.jpg)
+
 The central character of the story is Urania "Rainie" Blackwell, who first appeared in _Metamorpho_ #10 (1967). She was an agent with an unnamed US intelligence service who volunteered to expose herself to the radiations of the meteor that formed part of the "Orb of Ra". These radiations had earlier transformed Rex Mason into the superhero Metamorpho. Subsequently, Blackwell took the sobriquet "Element Girl". Both Metamorpho and Element Girl had the ability to transform their bodies into any chemical element or compound found in the human body, and to transform into any shape. As a side effect of their powers, their bodies became non-human in color and composition.
 
 Element Girl had a short career as a superhero, acting as sidekick to Metamorpho, retiring (I believe) with the first cancellation of Metamorpho's book. Metamorpho lurked around the background of the DC universe for years, eventually joining the Outsiders, then the Justice League.
@@ -17,6 +20,8 @@ Element Girl had a short career as a superhero, acting as sidekick to Metamorpho
 Her characterization here as a terrified isolated agoraphobe is new.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.20/page02.jpg)
 
 - #### Panel 1
 
@@ -28,11 +33,15 @@ Her characterization here as a terrified isolated agoraphobe is new.
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.20/page04.jpg)
+
 - #### Panel 3
 
   "Put on a brave face." Also notice all the "masks" in Rainie's apartment. Faces and facades are obviously the theme of the issue.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.20/page05.jpg)
 
 - #### Panel 2
 
@@ -48,6 +57,8 @@ Her characterization here as a terrified isolated agoraphobe is new.
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.20/page06.jpg)
+
 - #### Panel 4-5
 
   This is what we have seen before of Rainie's origin.
@@ -58,15 +69,21 @@ Her characterization here as a terrified isolated agoraphobe is new.
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.20/page07.jpg)
+
 - #### Panel 1
 
   Apep the serpent is another figure from Egyptian mythology, typically represented as an enemy of Ra.
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.20/page15.jpg)
+
 This, of course, is good ol' Death, Dream's older sister. Recall that her symbol, the Ankh, is specifically an _Egyptian_ symbol of life.
 
 ### Page 18
+
+> [!THUMBNAIL] ![](thumbnails/sandman.20/page18.jpg)
 
 - #### Panel 8
 
@@ -75,6 +92,8 @@ This, of course, is good ol' Death, Dream's older sister. Recall that her symbol
   The words were never sung on the television show, although they were in the original movie. The panel pictures a shattered facade; we may note that "Shattered Visage" was the name of the graphic novel published by DC that was a sequel to the television series _The Prisoner_.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.20/page19.jpg)
 
 - #### Panel 2
 
@@ -90,11 +109,15 @@ This, of course, is good ol' Death, Dream's older sister. Recall that her symbol
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.20/page20.jpg)
+
 - #### Panel 3
 
   About or before this time, Death appeared in an unauthorized- by-Gaiman crossover with Captain Atom. In that story, this version of Death was described as the incarnation of "death as compassionate release", while other incarnations of death (such as the Black Racer and Nekron) were described in other ways. As Death said there, "It's a big concept, there's room for more than one of us." This paragraph may refer back to that appearance; Gaiman was reportedly incensed at the use of the character.
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.20/page21.jpg)
 
 - #### Panel 5
 
@@ -106,6 +129,8 @@ This, of course, is good ol' Death, Dream's older sister. Recall that her symbol
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.20/page23.jpg)
+
 - #### Panel 3
 
   This issue is all about facades, false faces. Note that Rainie has to look behind the facade of the sun to the face of Ra.
@@ -113,6 +138,8 @@ This, of course, is good ol' Death, Dream's older sister. Recall that her symbol
   We may note that Rainie's apartment throughout this issue has been grey, box-like, oppressive, in start contrast to Rainie's physical colorfulness. However, once she escapes her apartment, her colors complement and blend with the outside world; her own personality perks up a bit, too.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.20/page24.jpg)
 
 - #### Panel 4-6
 

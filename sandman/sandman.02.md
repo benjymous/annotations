@@ -2,6 +2,8 @@
 
 ## Issue 2: "Imperfect Hosts"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.02/page00.jpg)
+
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
 Second part of first storyline, _More than Rubies_
@@ -9,6 +11,8 @@ Second part of first storyline, _More than Rubies_
 Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 1:
+
+> [!THUMBNAIL] ![](thumbnails/sandman.02/page01.jpg)
 
 The black-haired man is Abel, the other Cain. These would be familiar to most long-term readers of comics. Originally, they were the hosts for DC's watered-down versions of EC's mystery series. Cain was the host of _House of Mystery_, Abel the host of _House of Secrets_. Cain and Abel also appeared in _Plop!_, a DC humor title of the 1970s, along with Eve; they were drawn there by Sergio Aragones, who has appeared in Mad and currently does _Groo the Wanderer_, which is why Sergio did the pinup of them in [_Sandman_ Special #1](sandman-special1.md).
 
@@ -18,11 +22,15 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.02/page02.jpg)
+
 - #### Panel 3
 
   This is Gregory, a gargoyle, albeit a rather draconian one. He was a resident of the _House of Mystery_ with Cain during the long run of this rather mediocre mystery title. He also appeared in _Plop!_ Gregory pops up now and then with Cain and Abel as supporting cast members in _Sandman_.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.02/page03.jpg)
 
 - #### Panel 4
 
@@ -41,6 +49,8 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
   The Shifting Zones is a reference I do not recognize. The boundaries between the real world, the various afterlives, and such places as the realm of dreams are indistinct and variable (see the Realm of the Just Dead in _Swamp Thing_ Annual #2, reprinted in the tpb _Love and Death_). This may be the simplest explanation of what the Shifting Zones are.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.02/page05.jpg)
 
 - #### Panel 1
 
@@ -68,6 +78,8 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.02/page06.jpg)
+
 - #### Panel 2
 
   Penny Dreadfuls are a British term for dime novels, cheap, sensational novels of crime, adventure or suspense.
@@ -77,6 +89,8 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
   The Letters of Commission are evidently new. Note that Abel is emerging from his own picture.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.02/page08.jpg)
 
 - #### Panel 1
 
@@ -94,6 +108,8 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 ### Page 12-13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.02/page12-13.jpg)
+
 - #### Panel 2-3
 
   This is a double page spread. Lucien, who henceforth often appears in the role of major domo to Morpheus, was the host of a comic called _Tales of Ghost Castle_ which ran for three issues in 1975. Lucien was the guardian and librarian of an abandoned castle, in Transylvania, which fits closely with his role in _Sandman_. "Lucien" is the French equivalent of "Lucian." The name may derive from the Latin word for "light", or may be related to Lucian (A.D. 118-170), a Greek rhetorician and satirist, or to "Lucian the Martyr," (A.D. 240-312), a theologian and Biblical critic.
@@ -103,6 +119,8 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
   Lucien's library will appear again later.
 
 ### Page 14-15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.02/page14-15.jpg)
 
 - #### Panel 2
 
@@ -126,6 +144,8 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 ### Page 16:
 
+> [!THUMBNAIL] ![](thumbnails/sandman.02/page16.jpg)
+
 _Who's Who_ #15 (1991) has a great deal of information on the Three Witches, or the Three-in-One as they are called here. The Three may appear as a single entity, or as a group of three women. The three women invariably appear symbolically as maiden, mother, and crone.
 
 In the Egypt of the Pharaohs, the Three were known collectively as Mut, and named individually as Maat, Hathor, and Nekhbet. In Egypt, as in many of their incarnations, the Three represented matriarchal, pre-civilization, mother/goddess worship.
@@ -144,13 +164,13 @@ The Three occupied a position in Anglo-Saxon lore as the Weird Sisters, and Shak
 
 Irish Celtic myth portrayed the Three as the Morrigan, a triune war goddess whose aspects were named Nemhan, Babd, and Macha. The Morrigan is also identified with Morgan le Fay, of the Arthurian cycle of legends.
 
-### Page 17
+### Page 18
 
-- #### Panel 8; page 18 panel 1
+> [!THUMBNAIL] ![](thumbnails/sandman.02/page18.jpg)
+
+- #### Panel 1
 
   _The Witching Hour_ was another DC mystery title hosted by the three ladies pictured in panel 3. The identification of them with the triune goddess is new to Gaiman.
-
-### Page 18
 
 - #### Panel 3
 
@@ -161,6 +181,8 @@ Irish Celtic myth portrayed the Three as the Morrigan, a triune war goddess whos
 Notice that the ladies are changing position, or into one another's shape, cyclically, and that what one eats, the next finishes.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.02/page19.jpg)
 
 - #### Panel 5
 
@@ -176,11 +198,15 @@ Notice that the ladies are changing position, or into one another's shape, cycli
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.02/page20.jpg)
+
 - #### Panel 3
 
   I am not aware of any conflict between the Fates and Circe (a magician in the Odyssey, also a villain in Wonder Woman, and the main villainess in War of the Gods).
 
 ### Page 21:
+
+> [!THUMBNAIL] ![](thumbnails/sandman.02/page21.jpg)
 
 Note that the Fates give exactly one answer apiece, and it is deliberately incomplete.
 
@@ -213,4 +239,4 @@ Note that the Fates give exactly one answer apiece, and it is deliberately incom
 - jasona@sco.COM ( too big to be a gremlin )
 - Tanaqui C. Weaver <cen@vax.oxford.ac.uk>
 - Much of the information on the Three Witches is liberally plagiarized from Alisa Kwitney's writing in _Who's Who_ #15 (1991).
-- Ralf Hildebrandt added lots more details and made some edits
+- Ralf Hildebrandt added lots more details and made some edits.

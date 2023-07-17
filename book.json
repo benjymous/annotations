@@ -6,10 +6,47 @@
   "plugins": ["flexible-alerts"],
 
   "pluginsConfig": {
-    "page-toc-button": {
-      "maxTocDepth": 2,
-      "minTocSize": 2,
-      "icon": "<i>§</i>"
+    "flexible-alerts": {
+      "style": "flat",
+      "thumbnail": {
+        "label": "",
+        "icon": "",
+        "labelVisibility": "hidden",
+        "iconVisibility": "hidden",
+        "className": "marginthumb"
+      },
+
+      "floatright_40pc": {
+        "label": "",
+        "icon": "",
+        "labelVisibility": "hidden",
+        "iconVisibility": "hidden",
+        "className": "floatright width-40pc"
+      },
+
+      "flex_2": {
+        "label": "",
+        "icon": "",
+        "labelVisibility": "hidden",
+        "iconVisibility": "hidden",
+        "className": "flex cols-2"
+      },
+
+      "flex_3": {
+        "label": "",
+        "icon": "",
+        "labelVisibility": "hidden",
+        "iconVisibility": "hidden",
+        "className": "flex cols-3"
+      },
+
+      "flex_4": {
+        "label": "",
+        "icon": "",
+        "labelVisibility": "hidden",
+        "iconVisibility": "hidden",
+        "className": "flex cols-4"
+      }
     }
   }
 }

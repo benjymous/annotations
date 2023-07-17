@@ -1,6 +1,7 @@
 # The Annotated Sandman
 
 ## Issue 14: "Collectors"
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page00.jpg)
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -10,6 +11,8 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page01.jpg)
+
 We are back to the real storyline after last issue's side trip, in Dodge County, Georgia. The motel where the conference is held has a sign outside which says: "Cereal Convention", the pun being obvious.
 
 - #### Panel 4
@@ -17,6 +20,8 @@ We are back to the real storyline after last issue's side trip, in Dodge County,
   The song is "Lydia the Tattooed Lady" as sung by Groucho Marx in one of the Marx Brothers movies.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page02.jpg)
 
 - #### Panel 1
 
@@ -27,6 +32,8 @@ We are back to the real storyline after last issue's side trip, in Dodge County,
   The song is "These Boots Were Made for Walking", sung by Nancy Sinatra.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page03.jpg)
 
 - #### Panel 1
 
@@ -40,15 +47,19 @@ We are back to the real storyline after last issue's side trip, in Dodge County,
 
   On the right is Chris Carter from the proto-Industrial group Throbbing Gristle (not CC creator of the X-Files)
 
-  > [!TIP|style:flat|iconVisibility:hidden|className:flex cols-2] ![Chris Carter's cameo in #14](images/ChrisCarterCameo.jpg) ![Image of the band 'Throbbing Gristle'](images/ThrobbingGristle.jpg)
+  > [!FLEX_2] ![Chris Carter's cameo in #14](images/ChrisCarterCameo.jpg) ![Image of the band 'Throbbing Gristle'](images/ThrobbingGristle.jpg)
 
 ### Page 4
+
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page04.jpg)
 
 - #### Panel 2
 
   This is the manager, who is unimportant. The nebbishy guy that's been running around with the clipboard is "Nimrod", named after a great Biblical hunter. Notice that the manager displays and is reading bondage pornography in contrast with his "I run a clean place" speech.
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page06.jpg)
 
 - #### Panel 3
 
@@ -60,6 +71,8 @@ We are back to the real storyline after last issue's side trip, in Dodge County,
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page07.jpg)
+
 - #### Panel 1
 
   Gilbert's claim about Perrault is in fact inaccurate, in a most strange way.
@@ -69,11 +82,15 @@ We are back to the real storyline after last issue's side trip, in Dodge County,
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page08.jpg)
+
 - #### Panel 6
 
   How could get it worse? Cannibalism, pedophilia, being eaten by wild animals? No, I don't want to know.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page09.jpg)
 
 - #### Panel 1
 
@@ -89,15 +106,21 @@ We are back to the real storyline after last issue's side trip, in Dodge County,
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page10.jpg)
+
 - #### Panel 4
 
   By now, it should be very clear that this is a convention of serial killers. With the exception of the Corinthian, none of these killers have appeared before or since. The convention itself is a parody, of sorts, of genre conventions, such as comic or sf cons.
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page11.jpg)
+
 I cannot identify any of these pictures. I suspect that they include famous serial killers of the past.
 
 ### Page 12
+
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page12.jpg)
 
 - #### Panel 1
 
@@ -108,6 +131,8 @@ I cannot identify any of these pictures. I suspect that they include famous seri
   And evidently he keeps their bodies. Yuck.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page14.jpg)
 
 - #### Panel 2
 
@@ -123,6 +148,8 @@ I cannot identify any of these pictures. I suspect that they include famous seri
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page15.jpg)
+
 - #### Panel 1
 
   The inference is that he makes the neckties out of human skin, which would tend to make them the same pale color (assuming he restricts himself to his own race, as serial killers are wont to do).
@@ -132,6 +159,8 @@ I cannot identify any of these pictures. I suspect that they include famous seri
   The name broken across two panels is "Hello Little Girl", the inference being that his obsession is young girls.
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page16.jpg)
 
 - #### Panel 4
 
@@ -143,17 +172,23 @@ I cannot identify any of these pictures. I suspect that they include famous seri
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page17.jpg)
+
 - #### Panel 4
 
   The inference is that Gilbert has written the name of Dream.
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page18.jpg)
+
 - #### Panel 1
 
   Many serial killers claim to be motivated by God.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page19.jpg)
 
 - #### Panel 7
 
@@ -171,6 +206,8 @@ I cannot identify any of these pictures. I suspect that they include famous seri
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page21.jpg)
+
 - #### Panel 1
 
   Fun Land's remark: many serial killers have unusual or parasitic relationships with single mothers. Neil Gaiman says the song is Timbuk 3's "Standard White Jesus" from the _Edge of Allegiance_ album.
@@ -180,6 +217,8 @@ I cannot identify any of these pictures. I suspect that they include famous seri
   The inference is that this is Disney World, or some similar theme park. Conspiracy nuts love the idea that Disney hushes up murder at its parks.
 
 ### Page 22
+
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page22.jpg)
 
 - #### Panel 1-3
 
@@ -199,17 +238,23 @@ I cannot identify any of these pictures. I suspect that they include famous seri
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page23.jpg)
+
 - #### Panel 6-7
 
   The inference is that the preoperative transsexuals are male-to-female only. Preoperative transsexuals of this sort take female hormones so that their breasts enlarge and their bodies become more female in appearance, but they retain their male genitals. Many such, in fact, finance their last operations by appearing in specialty, so-called "she-male", pornography. In panel 7, the victim's "left-lean" penis appears in silhouette.
 
 ### Page 24
 
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page24.jpg)
+
 - #### Panel 3
 
   The song is "Wild Thing", by the Troggs.
 
 ### Page 26
+
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page26.jpg)
 
 - #### Panel 2
 
@@ -233,11 +278,15 @@ I cannot identify any of these pictures. I suspect that they include famous seri
 
 ### Page 27
 
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page27.jpg)
+
 - ####middle top.
 
 Of course women are naked under their clothes.
 
 ### Page 28
+
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page28.jpg)
 
 - #### Panel 1
 
@@ -249,6 +298,8 @@ Of course women are naked under their clothes.
 
 ### Page 29
 
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page29.jpg)
+
 - #### Panel 1
 
   Fun Land decided to go hunting after all.
@@ -259,11 +310,15 @@ Of course women are naked under their clothes.
 
 ### Page 31
 
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page31.jpg)
+
 - #### Panel 4
 
   Funland's dream has points in common with Oscar Wilde's story "The Selfish Giant".
 
 ### Page 32
+
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page32.jpg)
 
 - #### Panel 4-5
 
@@ -271,11 +326,15 @@ Of course women are naked under their clothes.
 
 ### Page 34
 
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page34.jpg)
+
 - #### Panel 1
 
   We may recall that the Corinthian's mouth-eyes were seen in [Sandman #10](sandman.10.md) when Lucien is giving Dream the census results.
 
 ### Page 36
+
+> [!THUMBNAIL] ![](thumbnails/sandman.14/page36.jpg)
 
 - #### Panel 6
 

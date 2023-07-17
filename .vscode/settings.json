@@ -1479,5 +1479,6 @@
   "diffEditor.experimental.useVersion2": true,
   "files.trimTrailingWhitespace": true,
   "diffEditor.diffAlgorithm": "advanced",
-  "diffEditor.ignoreTrimWhitespace": true
+  "diffEditor.ignoreTrimWhitespace": true,
+  "liveServer.settings.root": "/_book/"
 }
