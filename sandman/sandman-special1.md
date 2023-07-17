@@ -2,6 +2,8 @@
 
 ## Sandman Special #1: "The Song of Orpheus"
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1//page00.jpg)
+
 ##### Neil Gaiman, Bryan Talbot, and Mark Buckingham
 
 Not part of any anthology or storyline
@@ -15,6 +17,9 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page01.jpg)
+
+
 - #### Panel 5
 
   Orpheus is traditionally the son of either Apollo or the Thracian king Oeagrus, and a muse, usually Calliope, sometimes Polyhymnia. As previously established in _Sandman_, Orpheus is the son of Dream and Calliope (Muse of epic poetry).
@@ -23,6 +28,9 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page02.jpg)
+
+
 - #### Panel 2
 
   Aristaeus is not traditionally a satyr (half-man, half-goat; note that those are horns, not a peculiar receding hairline), but is usually represented as a young man dressed like a shepherd, sometimes carrying a sheep. He was worshipped in ancient Greece, but his myths are now obscure. His name derives from "aristos" [transliterated], meaning "best". He is generally accepted as the son of the nymph Cyrene, who was carried off to Libya by Apollo. Aristaeus was indeed married to Autonoe, who is probably the daughter of Cadmus; their son was Actaeon, a mighty hunter, who accidentally saw Artemis bathing one day. She changed him into a stag and his own dogs hunted him down and slew him.
@@ -30,6 +38,9 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 [From the Encyclopedia Britannica, although mine only goes back to 1944, not to the 19th century like Gaiman's :-]
 
 ### Page 4
+
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page04.jpg)
+
 
 - #### Panel 1
 
@@ -44,6 +55,9 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
   This is the first appearance of the Prodigal, the missing Endless, whose name is mentioned on the next page. He is on the far right, dressed in period Greek armor.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page05.jpg)
+
 
 - #### Panels 2-6; page 6 panel 1
 
@@ -61,6 +75,9 @@ Evidently the transformation occurred prior to Greece's Heroic Age. The only evi
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page06.jpg)
+
+
 - #### Panel 1
 
   Destiny bears a striking resemblance to Jorge Luis Borges!
@@ -75,11 +92,17 @@ Evidently the transformation occurred prior to Greece's Heroic Age. The only evi
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page07.jpg)
+
+
 - #### Panel 4
 
   Satyrs, along with centaurs, went mad when they got drunk.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page09.jpg)
+
 
 - #### Panel 1
 
@@ -87,11 +110,15 @@ Evidently the transformation occurred prior to Greece's Heroic Age. The only evi
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page13.jpg)
+
 - #### Panel 2-3
 
   Orpheus's legendary talent was his ability to make music that could enchant any audience.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page14.jpg)
 
 - #### Panel 1
 
@@ -105,11 +132,15 @@ The middle one looks like the statuette of the Goddess with the Snakes, only thi
 
 ### Page 16
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page16.jpg)
+
 - #### Panel 2
 
   **Kore**: means "maiden"; used as an alternate name for Persephone. In fact, in the Homeric hymn to Demeter, there is some evidence that Kore is the name used. The evidence is questionable, as the Greeks did not use any written method of distinguishing proper nouns from ordinary nouns, so "kore" might simply mean maiden. Kore is much shorter than Persephone, and the scribe may simply have gotten tired of writing the full name.
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page17.jpg)
 
 - #### Panel 2
 
@@ -125,17 +156,23 @@ The middle one looks like the statuette of the Goddess with the Snakes, only thi
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page19.jpg)
+
 - #### Panel 6
 
   I think Destruction is picking an anemone. Anemones grew from Aphrodite's (Venus) tears when Adonis died, and so they're of the flowers associated with Hades.
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page20.jpg)
+
 - #### Panel 2
 
   There should probably be knuckle-cracking-type sound effects in this panel.
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page21.jpg)
 
 - #### Panel 1
 
@@ -147,11 +184,15 @@ The middle one looks like the statuette of the Goddess with the Snakes, only thi
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page22.jpg)
+
 - #### Panel 1
 
   Death's new outfit seems to have enhanced her bustline.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page23.jpg)
 
 - #### Panel 1-2
 
@@ -163,11 +204,15 @@ The middle one looks like the statuette of the Goddess with the Snakes, only thi
 
 ### Page 24
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page24.jpg)
+
 - #### Panel 4
 
   Tainaro ("Taenarum"! Good heavens!) is indeed the southern point of Europe, islands excluded
 
 ### Page 25
+
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page25.jpg)
 
 - #### Panel 2
 
@@ -176,6 +221,8 @@ The middle one looks like the statuette of the Goddess with the Snakes, only thi
 **Delphi**: There was an oracle at Delphi devoted to Apollo; the Pythia ran the place. The gift will become apparent shortly. The "darkness" in Corinth is unknown.
 
 ### Page 28
+
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page28.jpg)
 
 - #### Panel 1
 
@@ -187,6 +234,8 @@ The middle one looks like the statuette of the Goddess with the Snakes, only thi
 
 ### Page 30
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page30.jpg)
+
 - #### Panel 3-6
 
   The gates of the underworld were guarded by the great three-headed dog Cerberus; Orpheus charmed him with his music.
@@ -197,6 +246,8 @@ The middle one looks like the statuette of the Goddess with the Snakes, only thi
 
 ### Page 32
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page32.jpg)
+
 - #### Panel 1
 
   Hades and Persephone were the rulers of the underworld.
@@ -204,6 +255,8 @@ The middle one looks like the statuette of the Goddess with the Snakes, only thi
 Page 33ff: The song is unknown, possibly original (but I wouldn't bet on it:-)
 
 ### Page 34
+
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page34.jpg)
 
 This scene is almost straight out of _Bulfinch's Mythology_.
 
@@ -227,11 +280,15 @@ Although Bulfinch's is a bowdlerized retelling for another age, it retains some 
 
 ### Page 35
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page35.jpg)
+
 - #### Panel 3-5
 
   The Furies, also known as the Kindly Ones, are an aspect of the Three-in-One Goddess. The Furies extract terrible punishments from the guilty.
 
 ### Page 37
+
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page37.jpg)
 
 - #### Panel 7-10
 
@@ -239,17 +296,23 @@ Although Bulfinch's is a bowdlerized retelling for another age, it retains some 
 
 ### Page 39
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page39.jpg)
+
 - #### Panel 4
 
   Among the animals pictured here are wolves, rabbits, bears, deer, sheep, goats, a leopard, one of the Carrion Kind, a badger, a fox, rats, a peacock, and a unicorn. A squirrel is noticeable on the next page. The leopard is unlikely but plausible, inasmuch as the European lion survived until the Middle Ages; unicorns are entirely fictitious.
 
 ### Page 42
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page42.jpg)
+
 - #### Panel 3
 
   **The Bacchante**: worshippers of Bacchus (alias Dionysius), the god of wine and madness; these were women who got drunk and went wilding. At least one source suggests that ivy was used an intoxicant, and that the Bacchae (also known as Maenads) used hallucinogenic toadstools.
 
 ### Page 43
+
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page43.jpg)
 
 The ancient Greeks believed that songs made up entirely or mostly of vowels had a remarkable power.
 
@@ -259,15 +322,21 @@ The ancient Greeks believed that songs made up entirely or mostly of vowels had 
 
 ### Page 45
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page45.jpg)
+
 - #### Panel 7
 
   Note the eating of the heart. The Greeks believed that the liver was the seat of emotion, not the heart; thus the punishments of Prometheus and Tityus.
 
 ### Page 46
 
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page46.jpg)
+
 Traditionally, Orpheus died after being torn apart by the Bacchante. His head floated down the river Hebrus to the island Lesbos. His lyre was made (by Apollo) the constellation of Lyra.
 
 ### Page 47
+
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page47.jpg)
 
 - #### Panel -3
 
