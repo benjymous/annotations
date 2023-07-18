@@ -2,6 +2,8 @@
 
 ## Issue 47: Brief Lives Seven
 
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page00.jpg)
+
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
 **Notes**: See [#41](sandman.41.md).
@@ -13,6 +15,8 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 ### 1: _Cooking Considered as One of the Fine Arts_
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page01.jpg)
 
 - #### Panel 2
 
@@ -28,11 +32,15 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page02.jpg)
+
 - #### Panel 6
 
   Is this meant to represent Ishtar?
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page03.jpg)
 
 - #### Panel 6
 
@@ -41,6 +49,8 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 ### 2: _"My Envelope Isn't Any Good Anymore"_
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page05.jpg)
 
 - #### Panel 2
 
@@ -51,6 +61,8 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 ### 3: _Where All Mazes Meet_
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page06.jpg)
 
 - #### Panel 3-7
 
@@ -64,11 +76,15 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page08.jpg)
+
 - #### Panel 3
 
   The statue of Destruction is facing in the opposite direction as the statues of the rest of the family. There is no obvious path leading to it.
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page10.jpg)
 
 - #### Panel 6
 
@@ -76,11 +92,15 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page11.jpg)
+
 - #### Panel 2-5
 
-  Note the white core to Del's balloons. In panel 4, Del's eyes should be the same color. (Del is repeating what she said in [#21](sandman.21.md).)
+  Note the white core to Del's balloons. In panel 4, Del's eyes should be the same color, but this is missed in some early editions. (Del is repeating what she said in [#21](sandman.21.md).)
 
 ### Page 12
+
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page12.jpg)
 
 - #### Panel 2
 
@@ -90,11 +110,15 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page13.jpg)
+
 - #### Panel 2
 
   Delirium considers Destiny's "little flappy things" equivalent to Dream's ravens or Despair's rats (#41).
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page14.jpg)
 
 - #### Panel 1
 
@@ -112,9 +136,11 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page15.jpg)
+
 - #### Panel 2
 
-  Dream's cloak pin is supposed to be colored silver. It is not Dream's ruby, which was destroyed in [#7](sandman.07.md).
+  Another coloring error in some editions - Dream's cloak pin is supposed to be colored silver. It is not Dream's ruby, which was destroyed in [#7](sandman.07.md).
 
 - #### Panel 3
 
@@ -126,17 +152,23 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page19.jpg)
+
 - #### Panel 3
 
   Delirium is using an old counting rhyme which is supposed to reveal your occupation when you grow up. (Modern readers may be familiar with its use as a title for a couple of works: _Tinker, Tailor, Soldier, Spy_ by John LeCarre and _Rich Man, Poor Man_ and _Beggarman, Thief_, novels and television miniseries by Irwin Shaw.) Del omits "thief" in her rhyme; the continuation in panel 5 is her own invention.
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page20.jpg)
+
 - #### Panel 5
 
   See [#41](sandman.41.md) for the source of the epitaph.
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page21.jpg)
 
 - #### Panel 3
 
@@ -145,6 +177,8 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 ### 7: _An Unlikely Growth_
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.47/page24.jpg)
 
 - #### Panel 1
 
@@ -169,6 +203,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 - Byron Go (bgo@ucsee.Berkeley.EDU) IDed
 - John Mc Donagh <Kull29@Aol.com> wrote about Santa Claus
 - Ralf Hildebrandt added more details.
+- Richard Munn updated some notes on earlier coloring errors.
 
 ## Appendix: All about Saint Nick
 

@@ -2,6 +2,8 @@
 
 ## Issue 34: "Bad Moon Rising"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page00.jpg)
+
 ##### Neil Gaiman, Colleen Doran, George Pratt and Dick Giordano
 
 Third part of storyline _A Game of You_
@@ -16,11 +18,15 @@ Not yet reprinted in any other form
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page01.jpg)
+
 - #### Panel 2
 
   The birds, which were causing or feeding off of the bad dreams of the house's occupants, disappear, quite probably at the exact same time that George was killed (last issue, last scene).
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page02.jpg)
 
 - #### Panel 5
 
@@ -28,11 +34,15 @@ Not yet reprinted in any other form
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page04.jpg)
+
 - #### Panel 6
 
   Thessaly has no sense of humor; this will be elaborated on later. Note that Wanda lives in apartment 2, which is probably a numerological reference to her dual nature (explained later).
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page05.jpg)
 
 - #### Panel 5
 
@@ -42,11 +52,15 @@ Not yet reprinted in any other form
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page06.jpg)
+
 - #### Panel 2
 
   The Porpentine has changed shape again.
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page07.jpg)
 
 - #### Panel 6
 
@@ -54,11 +68,15 @@ Not yet reprinted in any other form
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page10.jpg)
+
 - #### Panel 4, 6-8
 
   Another obviously Doran sequence. Keep in mind that Gaiman usually writes in full script; this is a good example of Gaiman's technical skill and flexibility, to write to a particular artist's style.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page11.jpg)
 
 - #### Panel 3
 
@@ -72,11 +90,15 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page14.jpg)
+
 - #### Panel 3
 
   **High Shore of the Silent River**: No refs. In Greek mythology, the River Styx was one of the boundaries between the land of the living and the land of the dead. Other mythological rivers include Acheron, Cocytus, Phlegethon (the River of Fire) and Lethe (the River of Forgetfulness).
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page15.jpg)
 
 - #### Panel 1
 
@@ -94,11 +116,15 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 16
 
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page16.jpg)
+
 - #### Panel 9
 
   Is Thessaly referring to Dream's ruby, or to another, similar, stone brought forth from dreams? Most likely the former.
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page17.jpg)
 
 - #### Panel 6
 
@@ -109,6 +135,8 @@ In medieval times, demons were believed to flay their victims and wear their ski
   We have seen no other evidence that Dream bears some sort of prejudice against lesbians or witches. Dream generally spares little time for any mortals.
 
 ### Page 18
+
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page18.jpg)
 
 - #### Panel 3
 
@@ -128,11 +156,15 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page19.jpg)
+
 - #### Panel 1
 
   Note the three faces.
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page21.jpg)
 
 - #### Panel 1
 
@@ -140,11 +172,15 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page22.jpg)
+
 - #### Panel 4
 
   Lunatic, meaning madman, originally arose from the belief that the full moon influenced madness. Its use here is overtly ironic.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page23.jpg)
 
 - #### Panel 1-3
 
@@ -159,6 +195,8 @@ In medieval times, demons were believed to flay their victims and wear their ski
   Wanda is playing "the game of you".
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.34/page24.jpg)
 
 - #### Panel 2
 

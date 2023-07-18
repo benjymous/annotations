@@ -2,6 +2,8 @@
 
 ## Issue 48: Brief Lives Eight
 
+> [!THUMBNAIL] ![](thumbnails/sandman.48/page00.jpg)
+
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
 **Notes**: See [#41](sandman.41.md). It's hard to break this one down into sections, but I think it goes: 1: 1-6; 2: 7; 3: 8-10; 4: 11; 5: 12-13; 6: 14-15; 7: 16; 8: 17-24. Trouble spots are the break between 3: and 4: and 7: and 8: and a number of breaks seem to fall in the middle of pages, which is inconsistent with what we've seen before.
@@ -10,15 +12,19 @@
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.48/page01.jpg)
+
 - #### Panel 1
 
   Some recipes from Destruction's table are presented in the Appendix.
 
 - #### Panel 2-3
 
-  Note that the color separators got Dream's cloak pin correct, but screwed up Del's eyes again.
+  Note that in some editions the color separators got Dream's cloak pin correct, but screwed up Del's eyes again.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.48/page02.jpg)
 
 - #### Panel 1
 
@@ -34,6 +40,8 @@ Del is retelling the story; her physical changes reflect her state at each point
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.48/page05.jpg)
+
 - #### Panel 2
 
   **Something**: Delirium doesn't remember why Dream wanted to continue the journey, because Dream never told her, not as such.
@@ -44,6 +52,8 @@ Del is retelling the story; her physical changes reflect her state at each point
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.48/page06.jpg)
+
 - #### Panel 4
 
   **Despair**: This is the first we've heard that she's a replacement. See Lance Smith's Sandman FAQ.
@@ -51,6 +61,8 @@ Del is retelling the story; her physical changes reflect her state at each point
 ### 2: _Brains, a Heart, a Ride in a Balloon_
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.48/page07.jpg)
 
 - #### Panel 2
 
@@ -60,11 +72,15 @@ Del is retelling the story; her physical changes reflect her state at each point
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.48/page08.jpg)
+
 - #### Panel 7
 
   Destruction's denial of responsibility can be argued, of course.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.48/page09.jpg)
 
 - #### Panel 2
 
@@ -81,6 +97,8 @@ Del is retelling the story; her physical changes reflect her state at each point
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.48/page10.jpg)
+
 - #### Panel 1
 
   Greek coffee is very thick and strong.
@@ -88,6 +106,8 @@ Del is retelling the story; her physical changes reflect her state at each point
 ### 4: _Something New_
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.48/page11.jpg)
 
 - #### Panel 3
 
@@ -114,6 +134,8 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.48/page15.jpg)
+
 - #### Panel 1-5
 
   More thematic voice. Has Destruction fooled himself into ignorance of the consequences of his choice?
@@ -125,6 +147,8 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 ### 7: _Echoes of Darkness_
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.48/page16.jpg)
 
 - #### Panel 1
 
@@ -142,11 +166,15 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.48/page17.jpg)
+
 - #### Panel 4
 
   This change has been hinted at elsewhere.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.48/page19.jpg)
 
 - #### Panel 2
 
@@ -165,11 +193,15 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.48/page21.jpg)
+
 - #### Panel 2
 
   Hoboes, tramps, and bums are often portrayed carrying their possessions in a spotted handkerchief tied to the end of a stick. (The ensemble is often called a "tuckerbag" or, in Australia, a "shiralee".) Destruction is merely conforming to cliche.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.48/page23.jpg)
 
 - #### Panel 2
 

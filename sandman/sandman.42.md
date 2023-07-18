@@ -2,6 +2,8 @@
 
 ## Issue 42: Brief Lives Two
 
+> [!THUMBNAIL] ![](thumbnails/sandman.42/page00.jpg)
+
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
 **Notes**: See [#41](sandman.41.md).
@@ -9,6 +11,8 @@
 ### 1: _It Always Rains on the Unloved From "Peanuts", the comic strip written by Charles Schulz, as said by Charlie Brown, a karmically oppressed child._
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.42/page01.jpg)
 
 - #### Panel 6
 
@@ -22,11 +26,15 @@
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.42/page04.jpg)
+
 - #### Panel 5
 
   Nuala's stone is probably not very significant, although it might be one of the twelve Dreamstones (others including Dream's Ruby and the Porpentine).
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.42/page05.jpg)
 
 - #### Panel 2
 
@@ -37,6 +45,8 @@
   **Flick it**: A curious euphemism for a supposedly mature book. Obviously meant to be "fuck it"; note that all-caps comic book lettering causes "flick it" and "fuck it" to look very similar.
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.42/page07.jpg)
 
 - #### Panel 4
 
@@ -51,6 +61,8 @@
 Source? "Fishing expedition" is the term used when detectives in detective fiction cause trouble because they don't have any questions to ask, i.e., they're fishing for clues.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.42/page08.jpg)
 
 - #### Panel 1
 
@@ -72,11 +84,15 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.42/page11.jpg)
+
 - #### Panel 2
 
   The wyvern says "She said she was your sister".
 
 ### Page 12
+
+> [!THUMBNAIL] ![](thumbnails/sandman.42/page12.jpg)
 
 - #### Panel 3
 
@@ -90,6 +106,8 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.42/page13.jpg)
+
 - #### Panel 4
 
   Apparently, Neil meant for the servitor's name to be Taramis, not Tamaris. Lance Smith writes:
@@ -100,6 +118,8 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.42/page14.jpg)
+
 - #### Panel 4
 
   The female servitor may be another person pulled in from the Dreaming, as in _Season of Mists_, or she may be the Fashion Thing.
@@ -107,6 +127,8 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
   This latter is suggested by the eyepatch (as seen on the other eye in 2:15.1).
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.42/page15.jpg)
 
 - #### Panel 2
 
@@ -123,6 +145,8 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 ### 6: _Desire Swears by the First Circle_
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.42/page19.jpg)
 
 - #### Panel 4
 
@@ -142,6 +166,8 @@ Possibly a reference to a Bob Dylan song.
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.42/page20.jpg)
+
 - #### Panel 2
 
   We know from Sp1:5.4 that Delight had become Delirium by at least Greece's Heroic Age.
@@ -152,11 +178,15 @@ A common statement by main characters, inevitably disastrously wrong.
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.42/page21.jpg)
+
 - #### Panel 1
 
   Note the effect Delirium has had on the Dreaming (see also 41:13.2).
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.42/page23.jpg)
 
 - #### Panel 2
 
@@ -164,9 +194,11 @@ A common statement by main characters, inevitably disastrously wrong.
 
 ### Page 24
 
+> [!THUMBNAIL] ![](thumbnails/sandman.42/page24.jpg)
+
 - #### Panel 4
 
-  Interesting color rainbow. The colors run in the real world, from the inside out: violet, blue, green, yellow, orange, red.
+  Early editions had interesting coloring on this rainbow.  Later editions appear to get it correct!
 
 ## Credits
 
@@ -185,3 +217,4 @@ A common statement by main characters, inevitably disastrously wrong.
   Andrew Farrell (afarrell@maths.tcd.ie) noted the possible Bob Dylan reference.
 - Andy D <adu@compsci.stirling.ac.uk> noted the frequency of Del's clothing changes, defined "squidging", and speculated about Desire's oaths.
 - Kenneth Jennings (kiii@carson.u.washington.edu) defined "gleet".
+- Richard Munn updated some notes on earlier coloring errors.

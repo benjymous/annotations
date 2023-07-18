@@ -2,6 +2,8 @@
 
 ## Issue 46: Brief Lives Six
 
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page00.jpg)
+
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
 **Notes**: See [#41](sandman.41.md). This issue is structurally similar to [#42](sandman.42.md).
@@ -12,28 +14,32 @@
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page01.jpg)
+
 - #### Panel 4
 
   Do not overlook the "eye" reference.
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page02.jpg)
+
 - #### Panel 1-6
 
   The poem is in some ways reminiscent of Lewis Carroll, particularly of _Sylvie and Bruno_, two verses of which are reproduced here:
 
-  > He thought he saw an Elephant
-  > That practised on a fife:
-  > He looked again and found it was
-  > A letter from his wife.
-  > "At length I realize," he said,
-  > "The bitterness of life!"
+  > He thought he saw an Elephant<br>
+  > That practised on a fife:<br>
+  > He looked again and found it was<br>
+  > A letter from his wife.<br>
+  > "At length I realize," he said,<br>
+  > "The bitterness of life!"<br>
   >
-  > He thought he saw a Buffalo
-  > Upon the chimney-piece
-  > He look again and found it was
-  > His sister's husband's niece.
-  > "Unless you leave this house," he said,
+  > He thought he saw a Buffalo<br>
+  > Upon the chimney-piece<br>
+  > He look again and found it was<br>
+  > His sister's husband's niece.<br>
+  > "Unless you leave this house," he said,<br>
   > "I'll send for the Police!"
 
   While there may not be exact parallels, there is a certain similarity in rhythm and sense that may be apparent. The poem is written in iambic tetrameter, although the rhythm is strained to breaking in several places (the misplaced stress in line eight, for example). (English lends itself to iambic form; I am told, for example, that Greek is a "three beat" language.) Note that it has nine lines, which may be a parallel with the nine parts of _Brief Lives_; Spenser's _Faerie Queene_ was written in nine-line stanzas. Basilisk: A mythical reptile with poisonous breath and a petrifying gaze.
@@ -43,6 +49,8 @@
   Its touch is petrifying.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page03.jpg)
 
 - #### Panel 3
 
@@ -54,11 +62,11 @@
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page08.jpg)
+
 - #### Panel 1
 
-  **Faramond**: a change in spelling from earlier appearances.
-
-  If it's not a typo, it's probably an acknowledgement that spelling was inconsistent prior to the development of mass publishing, coupled with the inherent uncertainty of transliterating a name from one alphabet to another.
+  Pharamond's name was spelt **Faramond** in early editions - this was apparently fixed in later versions.
 
 - #### Panel 5
 
@@ -67,6 +75,8 @@
 ### 4: _Dreamings of Meeting or Meetings of Dreaming?_
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page09.jpg)
 
 - #### Panel 1
 
@@ -78,6 +88,8 @@
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page10.jpg)
+
 - #### Panel 3
 
   **Bubastis**: See Appendix.
@@ -87,6 +99,8 @@
   **Bast**: See Appendix.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page11.jpg)
 
 - #### Panel 3
 
@@ -102,6 +116,8 @@ Compare with Section 3.
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page15.jpg)
+
 - #### Panel 5-6
 
   The cat being euthanized is probably Chloe Russell's cat ([#43](sandman.43.md), [#49](sandman.49.md)).
@@ -109,6 +125,8 @@ Compare with Section 3.
 ### 6: _Mervyn Sets Him Straight_
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page16.jpg)
 
 - #### Panel 1
 
@@ -127,11 +145,15 @@ Compare with Section 3.
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page17.jpg)
+
 - #### Panel 3
 
   Mervyn appeared in [#5](sandman.05.md) driving a bus.
 
 ### Page 18
+
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page18.jpg)
 
 - #### Panel 5
 
@@ -141,6 +163,8 @@ Compare with Section 3.
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page19.jpg)
+
 - #### Panel 6
 
   **Note the use of cartoon iconography**: the wavy lines indicating that a character is "steamed", thus angry; the question mark indicating puzzlement. Visual shorthand like this is generally restricted to more "cartoony" works than _Sandman_. (Compare to Scott McCloud's triangle of iconography in _Understanding Comics_.) Shorthand is necessarily more superficial than more explicit characterization. Panel 6 is duplicated in Death's words in panel 5 and her expression in panel 7, and Dream's words in panels 4 and 7.
@@ -149,11 +173,13 @@ Needless to say, it would be interesting to see the script to this issue to see 
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page20.jpg)
+
 - #### Panel 3-4
 
   **Only a kid**: And Death is drawn as, what, a ten year-old?
 
-[15 or 16 is the usual age given as a guide to the artists.]
+  [15 or 16 is the usual age given as a guide to the artists.]
 
 ### 8: _Tempus Frangit._
 
@@ -161,19 +187,25 @@ Latin for "time breaks" or "time shatters"; the inscription on Delirium's unusua
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page21.jpg)
+
 - #### Panel 4
 
   Whose head is on the upper butterfly?
 
-**Saline drip**: Commonly-administered intravenous fluid-replacement, with roughly the same salt content as blood. The IV tube has a device in it through which the fluid can be made to drip at different rates to control the speed at which it is fed into the patient.
+  **Saline drip**: Commonly-administered intravenous fluid-replacement, with roughly the same salt content as blood. The IV tube has a device in it through which the fluid can be made to drip at different rates to control the speed at which it is fed into the patient.
 
 ### Page 22
+
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page22.jpg)
 
 "Tempus Frangit" means "Time breaks/shatters", which is probably why Delirium says "It's stopped". "Tempus Frangit" could also refer to Delirium's realm.
 
 ### Page 23-24
 
-Del's eyes should be different colors on these pages. The grey tone of her balloons is probably correct, though.
+> [!THUMBNAIL] ![](thumbnails/sandman.46/page23.jpg)
+
+Again early editions miscolored Del's eyes. The grey tone of her balloons remained.
 
 ## Credits
 
@@ -190,6 +222,7 @@ Del's eyes should be different colors on these pages. The grey tone of her ballo
 - Andrew Solovay (solovay@netcom.com) and Damon B. Crumpler (dbc3@po.CWRU.Edu) recalled Chloe's cat.
 - Timothy Tan aka TiTan <_> -M2001- <_> 083285@bud.cc.swin.edu.au
 - Ralf Hildebrandt added more details.
+- Richard Munn updated some notes on earlier coloring errors.
 
 ## Appendix: Bast and Bubastis (by Lance Smith)
 

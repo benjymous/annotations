@@ -2,6 +2,8 @@
 
 ## Issue 43: Brief Lives Three
 
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page00.jpg)
+
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
 **Notes**: See [#41](sandman.41.md). The first two chapters in this issue are strongly demonstrative of the primary theme of "Brief Lives". Chapter titles in this issue seem to be mostly descriptive. Note that the fourth chapter, which is "Bored, She Makes Little Frogs" (pg 10 panel 3--pg 12) if we believe the title page, follows the fifth chapter, "Truth or Consequences, and Other Places" (pg 9--pg 10 panel 2). This break is also unusual for not coinciding with a page break.
@@ -9,6 +11,8 @@
 ### 1: _The People Who Remember Atlantis_
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page01.jpg)
 
 - #### Panel 2
 
@@ -27,6 +31,8 @@
 ### 2: _Concerning Mammoths, and Falling Walls_
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page02.jpg)
 
 - #### Panel 1
 
@@ -56,17 +62,23 @@
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page03.jpg)
+
 - #### Panel 1-3
 
   Note that the "still here" legend on the "Cats" poster is still visible.
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page04.jpg)
+
 - #### Panel 1
 
   Note that the "still here" legend is now obscured.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page05.jpg)
 
 - #### Panel 2
 
@@ -75,6 +87,8 @@
 ### 3: _Who Controls Transportation?_
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page08.jpg)
 
 - #### Panel 2
 
@@ -90,6 +104,8 @@
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page09.jpg)
+
 - #### Panel 8
 
   **Body and Blood**: An oath referring to the Christian mass, an unusual choice for someone who was in ancient Babylon, but he keeps up with the times.
@@ -97,6 +113,8 @@
 ### 4: _Bored, She Makes Little Frogs_
 
 ### Page 12
+
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page12.jpg)
 
 - #### Panel 6
 
@@ -108,11 +126,15 @@ From Coleridge's "Xanadu".
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page13.jpg)
+
 - #### Panel 1
 
   **Etain of the Second Look**: Possibly the wife of Cuchulain, a figure of Irish myth. Her name translates as "Shining One", and in Celtic myth, she is roughly analogous to Persephone. In her somewhat strange and inconsistent legends, she is a summer maid and a moon goddess. One character central to her legends is Mirdir, a lord of the underworld who has a castle on the Isle of Man, where he is protected by three anti-social cranes. Etain would be welcome to seek refuge there. The "second look" may be the Second Sight, an ability to foresee the future. Etain is a self-portrait of Jill Thompson; her apartment is also Jill's.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page14.jpg)
 
 - #### Panel 2
 
@@ -128,6 +150,8 @@ A transformation of the poetic image "the dogs of war", from William Shakespeare
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page17.jpg)
+
 - #### Panel 2
 
   This is the missing Endless, Destruction, as should be obvious from several of his remarks.
@@ -140,6 +164,8 @@ A transformation of the poetic image "the dogs of war", from William Shakespeare
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page19.jpg)
+
 - #### Panel 2
 
   Note the sword in Destruction's gallery. Its presence here explains why it is not seen in any other gallery.
@@ -148,11 +174,15 @@ A transformation of the poetic image "the dogs of war", from William Shakespeare
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page20.jpg)
+
 - #### Panel 2
 
   **Aeroplane**: an archaic or British spelling of "airplane".
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page21.jpg)
 
 - #### Panel 5
 
@@ -160,11 +190,15 @@ A transformation of the poetic image "the dogs of war", from William Shakespeare
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page23.jpg)
+
 - #### Panel 3
 
   Dream is his office, and he collects titles, but perhaps he does not have a name as such.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.43/page24.jpg)
 
 - #### Panel 3
 

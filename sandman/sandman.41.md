@@ -2,6 +2,8 @@
 
 ## Issue 41: Brief Lives One
 
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page00.jpg)
+
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
 **Notes**: _Brief Lives_ is in common use as a title, dating back to the earliest-reported citation, a collection of short biographies by John Aubrey, published in 1813.
@@ -20,6 +22,8 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page01.jpg)
+
 - #### Panel 1
 
   The island is Naxos, one of the Cyclades, a chain between Greece and Turkey.
@@ -30,11 +34,15 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page02.jpg)
+
 - #### Panel 4
 
   The epitaph is from the poem "An English Padlock", by Matthew Prior (1664-1721).
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page03.jpg)
 
 - #### Panel 1
 
@@ -46,11 +54,15 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page04.jpg)
+
 - #### Panel 1
 
   Note that Orpheus' earring has been returned and his earlobe has regenerated.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page05.jpg)
 
 - #### Panel 1
 
@@ -68,9 +80,11 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page06.jpg)
+
 - #### Panel 1
 
-  **50p**: _p_ is the abbreviation for pence. 100 pence make a pound in British money.
+  **50p**: _p_ is the abbreviation for pence. 100 pence make a pound (£1) in British money.
 
 - #### Panel 3
 
@@ -82,6 +96,8 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page07.jpg)
+
 - #### Panel 2
 
   **Natter**: British slang for chatty small talk.
@@ -90,13 +106,15 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 - #### Panel 3
 
-  Delirium's eyes should be colored differently (right eye green, left eye blue).
+  Delirium's eyes were colored incorrectly in some editions.  They should be: right eye green, left eye blue.
 
 - #### Panel 4
 
   **Aunt Fanny**: An expression of disbelief. See Appendix.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page08.jpg)
 
 - #### Panel 5
 
@@ -112,13 +130,15 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page09.jpg)
+
 - #### Panel 1
 
   **Warehouse bash**: Another name for a Rave, a all-night party attended by teenagers, often dressed much like Delirium is here. Raves are noted for rampant drug use.
 
 - #### Panel 3-4
 
-  This scene is reminiscent of similar scenes in comics and movies, and is repeated by Dream in 45:16.6. In the 1977 movie _Star Wars_, Obi-Wan Kenobi uses the "Force" on stormtroopers to convince them that "these aren't the droids you're looking for". In _Hellblazer_, street magician John Constantine, an expert at instant hypnosis, bulls his way into a university club by convincing the doorman that he is a guest of a member, and is dressed formally.
+  This scene is reminiscent of similar scenes in comics and movies, and is repeated by Dream in [45](sandman.45.md):16.6. In the 1977 movie _Star Wars_, Obi-Wan Kenobi uses the "Force" on stormtroopers to convince them that "these aren't the droids you're looking for". In _Hellblazer_, street magician John Constantine, an expert at instant hypnosis, bulls his way into a university club by convincing the doorman that he is a guest of a member, and is dressed formally.
 
 - #### Panel 4
 
@@ -139,6 +159,8 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page10.jpg)
+
 - #### Panel 2
 
   Del's lines here may be a reference to the title song of Tori's album.
@@ -148,6 +170,8 @@ The two part parallel each other in structure; compare particularly [#41](sandma
   Delirium has mistaken Lisa for Death, obviously.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page11.jpg)
 
 - #### Panel 3
 
@@ -161,6 +185,8 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page13.jpg)
+
 - #### Panel 2
 
   Note Desire's change of clothing. It is not normally so unambiguous in its sexuality. The clothing appears to date from the 1920's "flapper" style.
@@ -168,6 +194,8 @@ The two part parallel each other in structure; compare particularly [#41](sandma
   The unusual pattern on the "walls" are the cells of the Threshold, Desire's stronghold, which is in the form of its body. What part of the body are they in? The cells seems to resemble skin cells, I think.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page14.jpg)
 
 - #### Panel 1
 
@@ -183,6 +211,8 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page15.jpg)
+
 - #### Panel 2
 
   Delirium is wrong. Not-wanting is a kind of wanting.
@@ -190,6 +220,8 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 ### 5: _The View from the Back of Mirrors_
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page16.jpg)
 
 - #### Panel 1
 
@@ -203,6 +235,8 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page17.jpg)
+
 - #### Panel 4
 
   **Pets**: Destiny's garden is full of "little flappy things". Death has two goldfish named Slim and Wandsworth. Dream has ravens, such as Matthew. Destruction keeps dogs, as we will see. Desire does not seem to have pets. Despair has rats. Delirium is acquired by a pet in [#48](sandman.48.md), and has shown a tendency to break apart into butterflies (page 13), or to create frogs ([#31](sandman.31.md), [#43](sandman.43.md)) or hummingbirds (page 20).
@@ -212,6 +246,8 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 Note Despair's use of pain to distract her from unpleasant topics.
 
 ### Page 20
+
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page20.jpg)
 
 - #### Panel 2
 
@@ -226,6 +262,8 @@ Note Despair's use of pain to distract her from unpleasant topics.
 _Journal of the Plague Year_ is by Daniel Defoe (better known for _Robinson Crusoe_). Defoe lived from c.1661-1731, so he was a young child during the plague of 1665.
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page21.jpg)
 
 - #### Panel 1
 
@@ -243,6 +281,8 @@ _Journal of the Plague Year_ is by Daniel Defoe (better known for _Robinson Crus
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page22.jpg)
+
 - #### Panel 1
 
   This is a quote from the aforementioned work by Defoe.
@@ -254,6 +294,8 @@ _Journal of the Plague Year_ is by Daniel Defoe (better known for _Robinson Crus
   Note that we cannot see Destruction's eyes clearly.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.41/page23.jpg)
 
 - #### Panel 2
 

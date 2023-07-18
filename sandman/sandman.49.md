@@ -2,6 +2,8 @@
 
 ## Issue 49: Brief Lives Nine
 
+> [!THUMBNAIL] ![](thumbnails/sandman.49/page00.jpg)
+
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
 **Notes**: See [#41](sandman.41.md). This issue is the coda for the arc, reprising all that we've seen before and reiterating "change" as the theme. The briefness of life reinforces the change embodied by Destruction. The emphasis upon change is meant to point out the change in Dream since his imprisonment, as remarked by Orpheus in 49:3.3 and by Destruction in 47:24.2 and 48:17.5. It is perhaps worth noting that the epilog does not strictly begin until 3: or 4:. 1: and 2: are necessarily a part of the central story and are themselves reprised in 7:. Despair's reappearance in 4: is a strict reprise of her role in [#41](sandman.41.md).
@@ -9,6 +11,8 @@
 ### 1: _Farewells_
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.49/page01.jpg)
 
 - #### Panel 2
 
@@ -23,6 +27,8 @@
 ### 3: _The Flowers of Romance_
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.49/page06.jpg)
 
 - #### Panel 1-6
 
@@ -42,6 +48,8 @@
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.49/page07.jpg)
+
 - #### Panel 2
 
   Note the blood marks on Despair's forehead; these are probably from self-mutilation inflicted while Dream met with Destruction or slew Orpheus.
@@ -52,11 +60,15 @@
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.49/page09.jpg)
+
 - #### Panel 5
 
   Seen in Despair's mirrors, from right to left: Andros (41:1), unidentified child (Andros's grandchild?), graveyard (Mary Canby's graveyard (21.1)?), a kitten (Chloe's kitten?), and Desire.
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.49/page10.jpg)
 
 - #### Panel 1
 
@@ -80,6 +92,8 @@
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.49/page11.jpg)
+
 - #### Panel 2
 
   Skull and...spine: As seen clearly in 23:1.3 and remarked in 4:14.2.
@@ -92,11 +106,15 @@
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.49/page14.jpg)
+
 - #### Panel 3
 
   **Faerie gifts**: The unreliability of the Faerie folk is a traditional feature of folktales. (Refs?)
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.49/page17.jpg)
 
 - #### Panel 1-2
 
@@ -151,6 +169,8 @@
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.49/page19.jpg)
+
 This is remembrance, not Dream conversing with Orpheus as he passes through the Dreaming on his way Beyond.
 
 - #### Panel 4
@@ -158,6 +178,8 @@ This is remembrance, not Dream conversing with Orpheus as he passes through the 
   As this is long past, the red stone is probably meant to be Dream's ruby.
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.49/page21.jpg)
 
 - #### Panel 1
 
@@ -172,6 +194,8 @@ This is remembrance, not Dream conversing with Orpheus as he passes through the 
   **Danny Capax**: See 44:6.
 
 ### Page 22
+
+> [!THUMBNAIL] ![](thumbnails/sandman.49/page22.jpg)
 
 - #### Panel 1
 

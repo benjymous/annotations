@@ -218,7 +218,7 @@ The middle one looks like the statuette of the Goddess with the Snakes, only thi
 
   **Thessaly**: This is an antecedent for a character who appears in an upcoming storyline. But Thessaly (Thessalia) is also a region of Greece. In general, panel 2 has a correct geographical description of mainland Greece from north to south, and Orpheus actually lived in Thrace.
 
-**Delphi**: There was an oracle at Delphi devoted to Apollo; the Pythia ran the place. The gift will become apparent shortly. The "darkness" in Corinth is unknown.
+  **Delphi**: There was an oracle at Delphi devoted to Apollo; the Pythia ran the place. The gift will become apparent shortly. The "darkness" in Corinth is unknown.
 
 ### Page 28
 
@@ -252,7 +252,11 @@ The middle one looks like the statuette of the Goddess with the Snakes, only thi
 
   Hades and Persephone were the rulers of the underworld.
 
-Page 33ff: The song is unknown, possibly original (but I wouldn't bet on it:-)
+### Page 33
+
+> [!THUMBNAIL] ![](thumbnails/sandman-special1/page33.jpg)
+
+The song is unknown, possibly original, but I wouldn't bet on it :-)
 
 ### Page 34
 
@@ -342,8 +346,7 @@ Traditionally, Orpheus died after being torn apart by the Bacchante. His head fl
 
   Parallelism with the snake that slew Eurydice?
 
-This issue also contains a family album of sorts, with full page illustrations
-of the Endless and several denizens of the Dreaming.
+This issue also contains a family album of sorts, with full page illustrations of the Endless and several denizens of the Dreaming.
 
 ## Credits
 

@@ -2,6 +2,8 @@
 
 ## Issue 33: "Lullabies of Broadway"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page00.jpg)
+
 ##### Neil Gaiman and Shawn McManus
 
 Second part of storyline _A Game of You_
@@ -14,31 +16,30 @@ The title of this chapter refers to the song "Lullaby of Broadway" the big produ
 
 **The lyrics are**:
 
-> Come on alomg and listen to
-> The Lullaby of Broadway.
-> The hip Hooray and Ballyhoo
-> The Lullaby of Broadway
-> The rumble of a subway train,
-> The rattle of the taxis
-> The daffidyls, who entertain
-> At Angelo's and Maxie's.
-> When a Broadway Baby sais Good Night,
-> It's early in the morning.
-> Manhatten Babies don't sleep thight
-> Until the Dawn.
-> Good night, Baby Good night,
-> Milkman's on his way
-> Sleep thight, Baby, Sleep thight,
-> Let's call it a day
+> Come on alomg and listen to<br>
+> The Lullaby of Broadway.<br>
+> The hip Hooray and Ballyhoo<br>
+> The Lullaby of Broadway<br>
+> The rumble of a subway train,<br>
+> The rattle of the taxis<br>
+> The daffidyls, who entertain<br>
+> At Angelo's and Maxie's.<br>
+> When a Broadway Baby sais Good Night,<br>
+> It's early in the morning.<br>
+> Manhatten Babies don't sleep thight<br>
+> Until the Dawn.<br>
+> Good night, Baby Good night,<br>
+> Milkman's on his way<br>
+> Sleep thight, Baby, Sleep thight,<br>
+> Let's call it a day<br>
 
-**The plot of that number is**:
-At first we see a black screen, with a small white point.
-
-the camera zooms on it, it developes to the face of the singer Winnie Shaw, when her faces fills the whole screen, it becomes shot of Manhattan at Night, in the Middle the Broadway. A clock shows us the time it's a bout 6:40 am, every body rushes to work, Winnie Shaw and Dick Powell (leading man of the picture) are coming to her home, they wear evening dress, he says good-bye, she's going to her flat feeds her cat with milk and goes to bed at 6.45 am. The wakes up at 6.45 pm, dresses and joins Dick Powell in a gigantic nightclub, where about 150 dancers (could be more, I counted them only on a still that does not show the whole set) entertain them with their tap-dancing. After that Powell and Shaw are dancing, then Shaw fells accidentally out of the window, at 6.45 am nobody's there to feed the cat.
+The plot of that number is: At first we see a black screen, with a small white point.  The camera zooms on it, it developes to the face of the singer Winnie Shaw, when her faces fills the whole screen, it becomes shot of Manhattan at Night, in the Middle the Broadway. A clock shows us the time it's a bout 6:40 am, every body rushes to work, Winnie Shaw and Dick Powell (leading man of the picture) are coming to her home, they wear evening dress, he says good-bye, she's going to her flat feeds her cat with milk and goes to bed at 6.45 am. The wakes up at 6.45 pm, dresses and joins Dick Powell in a gigantic nightclub, where about 150 dancers (could be more, I counted them only on a still that does not show the whole set) entertain them with their tap-dancing. After that Powell and Shaw are dancing, then Shaw fells accidentally out of the window, at 6.45 am nobody's there to feed the cat.
 
 We see Manhattan, it turns back to Shaws face, and she finishes the song, while her faces becomes a white point on the screen again.
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page01.jpg)
 
 - #### Panel 6
 
@@ -46,11 +47,15 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page02.jpg)
+
 - #### Panel 1
 
   Note the checkerboard pattern along the top of Barbie's walls: yet another reference to a game/games.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page03.jpg)
 
 - #### Panel 4
 
@@ -61,6 +66,8 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
   **Note for people who really should know better**: Hazel is wrong, and having sex while standing up is not an effective method of birth control. Odd that a lesbian, who lives in the bad parts of New York, doesn't know about proper contraception.
 
 ### Page 4
+
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page04.jpg)
 
 - #### Panel 2
 
@@ -78,11 +85,15 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page05.jpg)
+
 - #### Panel 2
 
   It looks to me like "dicks" got changed to "dorks", which is a pretty sad editorial change in a "mature readers" title. There is a lettering correction mark between the d and the o. Note that "dork" is, however, English slang for "penis", at about the same social level as "dick", so Gaiman may have slipped one past Karen again. (He replaced "shit" with "felching" in Books of Magic; "felching" is far more obscene than "shit", albeit more obscure.)
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page06.jpg)
 
 - #### Panel 4
 
@@ -93,6 +104,8 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
   Barbie is slipping into the Dreaming for the first time in two years.
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page07.jpg)
 
 - #### Panel 1
 
@@ -112,9 +125,13 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page08.jpg)
+
 This sequence is said to be reminiscent of the wardrobe which transports the children to Narnia in _The Lion, the Witch, and the Wardrobe_.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page09.jpg)
 
 - #### Panel 2
 
@@ -140,6 +157,8 @@ This sequence, particularly the use of the utility knife in stripping away the s
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page12.jpg)
+
 - #### Panel 2-4
 
   Wanda's dream starts off without contractions, but picks them up again in panel 6. "Nice dresses" is probably Wanda's internal code for being a women. The exact significance of the boys is unknown, but they were probably fellow members of the "weird group" at Alvin's school, and because Wanda identified with them when she was Alvin, she projects her own transsexual intents onto them in her dream. Or not. It's open to interpretation.
@@ -149,6 +168,8 @@ This sequence, particularly the use of the utility knife in stripping away the s
   Recall that Alvin had wet dreams about making out with "Weirdzo Lila Lake" (really Bizarro Lois Lane). Note that Alvin's hair has gotten short.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page13.jpg)
 
 - #### Panel 1
 
@@ -167,6 +188,8 @@ This sequence, particularly the use of the utility knife in stripping away the s
 Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's "baby" - she wants Fox to accept the baby as her own & help look after it with Hazel. But Hazel is scared that her baby will really drive Fox away from her ("devour" her), ruining their friendship.
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page16.jpg)
 
 - #### Panel 1
 
@@ -188,6 +211,8 @@ Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's 
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page17.jpg)
+
 - #### Panel 2
 
   Judy was in the diner when John Dee walked in because she had had a fight with Donna, in which she had hit Donna. There isn't much to the Game of Foxglove, just some trauma left over from Judy's death, but Fox has mostly worked through that, and knows who she is more than most of the other characters in the story, as we shall see. In fact, while Wanda's change of name is fundamental to her question of identity, Foxglove's change of name indicates that she's answered her question of identity.
@@ -198,6 +223,8 @@ Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's 
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page18.jpg)
+
 The Game of Thessaly is really limited to the question of "who is Thessaly", since we now know that there is at least as much unknown about her as there is about George.
 
 - #### Panel 1
@@ -205,6 +232,8 @@ The Game of Thessaly is really limited to the question of "who is Thessaly", sin
   Note that "Thessaly sleeps", not "Thessaly dreams".
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page19.jpg)
 
 - #### Panel 5
 
@@ -216,11 +245,15 @@ The Game of Thessaly is really limited to the question of "who is Thessaly", sin
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page21.jpg)
+
 - #### Panel 1
 
   Note Luz's gender. "Luz" is Spanish for light, and is grammatically feminine. Also note that Princess Barbara talks in the same style as the other inhabitants of the Land.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.33/page23.jpg)
 
 - #### Panel 1
 

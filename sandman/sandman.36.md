@@ -2,6 +2,8 @@
 
 ## Issue 36: "Over the Sea to Sky"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page00.jpg)
+
 ##### Neil Gaiman, Shawn McManus, Bryan Talbot, and Stan Woch
 
 Fifth part of storyline _A Game of You_
@@ -21,15 +23,21 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page01.jpg)
+
 Many of the dominant elements of the Land are revealed as elements from Barbara's childhood.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page02.jpg)
 
 - #### Panel 1
 
   First full appearance of the Cuckoo, whose origin is explained in this issue.
 
 ### Page 4
+
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page04.jpg)
 
 - #### Panel 2
 
@@ -40,6 +48,8 @@ Many of the dominant elements of the Land are revealed as elements from Barbara'
   This is a "bande dessine'e `a clef"; a comic book where real references are concealed behind pseudonyms. Perry Porter, the Amazing Spider is really Peter Parker, the Amazing Spider-Man; and Clint Clarke, Hyperman, is really Clark Kent, Superman.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page05.jpg)
 
 - #### Panel 4
 
@@ -54,6 +64,8 @@ Many of the dominant elements of the Land are revealed as elements from Barbara'
   Say, this looks like a theme rearing its ugly head.
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page06.jpg)
 
 - #### Panel 1
 
@@ -71,6 +83,8 @@ Many of the dominant elements of the Land are revealed as elements from Barbara'
   "Imaginary fiend"? A typo, or deliberate?
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page08.jpg)
 
 - #### Panel 1
 
@@ -92,6 +106,8 @@ Many of the dominant elements of the Land are revealed as elements from Barbara'
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page09.jpg)
+
 Note that the three women walk in step and perform the same actions.
 
 - #### Panel 2
@@ -104,6 +120,8 @@ Note that the three women walk in step and perform the same actions.
   Judy died in [Sandman #6](sandman.06.md), after a fight with Donna (Foxglove).
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page10.jpg)
 
 - #### Panel 1
 
@@ -119,17 +137,23 @@ Note that the three women walk in step and perform the same actions.
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page13.jpg)
+
 - #### Panel 2, 4
 
   Note the parallel between cuckoos and Hazel's pregnancy.
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page14.jpg)
+
 - #### Panel 7-8
 
   Aww, cute.
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page15.jpg)
 
 - #### Panel 1
 
@@ -150,17 +174,23 @@ Note that the three women walk in step and perform the same actions.
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page17.jpg)
+
 - #### Panel 5
 
   The Good Samaritan is a character from the Christian Bible, a heretic who showed that he was nonetheless more truly good than the most pious religious person by helping a stranger. Someone who helps strangers is therefore called a "good Samaritan".
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page18.jpg)
+
 - #### Panel 5
 
   The Cuckoo explains her power over Luz and Barbie. Her remark about Barbie trying to tell herself the truth is probably a reference to the Tantoblin's message with the cuckoo text.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page19.jpg)
 
 - #### Panel 1
 
@@ -174,17 +204,23 @@ Note that the three women walk in step and perform the same actions.
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page23.jpg)
+
 - #### Panel 3
 
   Finally, George is explained, and we learn that more than one dreamer can share a skerry.
 
 ### Page 27
 
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page27.jpg)
+
 - #### Panel 1
 
   "Lally, lally" sounds familiar.
 
 ### Page 28
+
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page28.jpg)
 
 - #### Panel 4
 
@@ -198,9 +234,13 @@ Specifying Hurricane Lisa-with-a-'S' may be a reference to Liza Minelli, a promi
 
 ### Page 30-32
 
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page30.jpg)
+
 IMHO, this is just about the best artistic representation of Dream in the series.
 
 ### Page 31
+
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page31.jpg)
 
 - #### Panel 4
 
@@ -210,9 +250,13 @@ One is also drawn to consider "Murphy's Law" -- "If anything can go wrong, it wi
 
 ### Page 34
 
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page34.jpg)
+
 This sequence is reminiscent of a similar one in the last Narnia book, _The Last Battle_, in which Narnia ends, and all its creatures stream away. The fundamental difference is that the Narnia inhabitants were judged, and passed on to Shadow or Paradise, depending on their morality. In both cases, too, a party of outsiders watched the finale.
 
 ### Page 35
+
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page35.jpg)
 
 - #### Panel 1
 
@@ -226,11 +270,15 @@ This sequence is reminiscent of a similar one in the last Narnia book, _The Last
 
 ### Page 37
 
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page37.jpg)
+
 - #### Panel 2
 
   The connection between Dream and the witch-women of Thessaly has not been revealed.
 
 ### Page 39
+
+> [!THUMBNAIL] ![](thumbnails/sandman.36/page39.jpg)
 
 Recall that the apparent landlady of the building is named Scarlett, and now the building is "Gone with the Wind", so to speak.
 

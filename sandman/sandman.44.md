@@ -2,6 +2,8 @@
 
 ## Issue 44: Brief Lives Four
 
+> [!THUMBNAIL] ![](thumbnails/sandman.44/page00.jpg)
+
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
 **Notes**: See [#41](sandman.41.md). The subtheme of the issue is color. Note that Del has not changed clothing since the middle of last issue.
@@ -9,6 +11,8 @@
 ### 1: _The Other Side of the Sky_
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.44/page01.jpg)
 
 - #### Panel 1
 
@@ -30,6 +34,8 @@
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.44/page02.jpg)
+
 - #### Panel 1
 
   **Cerulean**: A deep sky blue. From the Latin caelum, "sky". In other words, the sky turns sky blue, a tautology.
@@ -38,6 +44,8 @@
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.44/page03.jpg)
+
 - #### Panel 5
 
   **Leib-Olmai**: Lapp for "Alder Man". A mythical bear-man or bear-god. He protected the bear, a holy animal, and provided good luck to hunters that honored him. If hunters did snub Lieb, they would often lose their prey and occasionally Lieb might help a bear if it were to attack the hunters. He is a bit of a male chauvinist. Lapp women were not allowed to walk around a tent where hunting equipment is kept.
@@ -45,6 +53,8 @@
 ### 3: _Departed Secrets_
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.44/page07.jpg)
 
 - #### Panel 4
 
@@ -58,6 +68,8 @@
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.44/page09.jpg)
+
 - #### Panel 3
 
   Del's balloon should be multicolored.
@@ -66,11 +78,15 @@
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.44/page10.jpg)
+
 - #### Panel 5
 
   Del refers to _A Season of Mists_.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.44/page11.jpg)
 
 - #### Panel 4
 
@@ -78,11 +94,15 @@
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.44/page13.jpg)
+
 - #### Panel 3
 
   **Foreshadowing**: Your guide to quality literature.
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.44/page15.jpg)
 
 - #### Panel 5
 
@@ -91,6 +111,8 @@
 ### 6: _A Treatise on Optics_
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.44/page17.jpg)
 
 - #### Panel 3
 
@@ -105,6 +127,8 @@
   **Ninny-hammer**: Probably just an extension of "ninny".
 
 ### Page 18
+
+> [!THUMBNAIL] ![](thumbnails/sandman.44/page18.jpg)
 
 - #### Panel 1
 
@@ -137,6 +161,8 @@
   Dream is wrongly colored human, and the Corinthian's forehead is wrongly colored white.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.44/page19.jpg)
 
 - #### Panel 1
 
@@ -173,6 +199,8 @@
   **Guinea**: An English unit of money equivalent to one pound and one shilling.
 
 ### Page 20
+
+> [!THUMBNAIL] ![](thumbnails/sandman.44/page20.jpg)
 
 - #### Panel 3-6
 

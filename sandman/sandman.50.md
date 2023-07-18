@@ -2,6 +2,8 @@
 
 ## Issue 50: "Ramadan"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page00.jpg)
+
 ##### Neil Gaiman and P. Craig Russell
 
 Fourth story in anthology _Distant Mirrors_
@@ -14,9 +16,13 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page01.jpg)
+
 An abridged version of the opening of the Arabian Nights, akin to the invocation of the Muses in classical literature. "There is no god but Allah, and Mohammed is his Prophet" is the profession of faith for Muslims, and all good Muslim books are supposed to begin with it. Mohammed (c. 567- 7 June 632) founded the religion of Islam and wrote the Koran.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page02.jpg)
 
 - #### Panel 1
 
@@ -28,17 +34,23 @@ An abridged version of the opening of the Arabian Nights, akin to the invocation
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page04.jpg)
+
 - #### Panel 4
 
   The calligraphy in the word balloon, although similar in style to Arabic writing, is not actually anything in that language.
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page06.jpg)
+
 - #### Panel 6
 
   Jafar, Masrur: Both characters are seen in the Arabian Nights. Masrur is referred to as a eunuch, which is not inconsistent with his role here of executioner.
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page07.jpg)
 
 - #### Panel 1
 
@@ -59,6 +71,8 @@ An abridged version of the opening of the Arabian Nights, akin to the invocation
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page08.jpg)
+
 - #### Panel 1
 
   **Muezzin**: Muslims are required to pray at certain times of day; the Muezzin is the one who gives the call to prayer. Note that, although he hears the call, Haroun does not pray.
@@ -71,17 +85,23 @@ An abridged version of the opening of the Arabian Nights, akin to the invocation
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page09.jpg)
+
 - #### Panel 1
 
   **Jafar the Barmakid**: Jafar was the son of Yahya ben Khalid.
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page10.jpg)
+
 - #### Panel 1
 
   **Ishak**: The 549th of the Thousand and One Nights begins "Ishak's Winter Evening": "The musician, Ishak of Mosul, al-Rashid's favourite singer, tells the following tale."
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page11.jpg)
 
 - #### Panel 3
 
@@ -93,11 +113,15 @@ An abridged version of the opening of the Arabian Nights, akin to the invocation
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page13.jpg)
+
 - #### Panel 5
 
   I flashed on the Nome King's jeweled forest from _Tik-Tok of Oz_.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page14.jpg)
 
 - #### Panel 1
 
@@ -113,6 +137,8 @@ An abridged version of the opening of the Arabian Nights, akin to the invocation
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page15.jpg)
+
 - #### Panel 3
 
   The Seal of Solomon has power over spirits. See below.
@@ -122,6 +148,8 @@ An abridged version of the opening of the Arabian Nights, akin to the invocation
   The arches and columns seem to be taken from a photo of a famous gallery in the mosque in Cordoba, Spain.
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page16.jpg)
 
 - #### Panel 3
 
@@ -138,6 +166,8 @@ An abridged version of the opening of the Arabian Nights, akin to the invocation
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page21.jpg)
+
 - #### Panel 1
 
   The story is "The Fisherman and the Jinnee". Naturally Dream knows it. Dream calls himself neither foolish nor boastful nor lonely.
@@ -152,11 +182,15 @@ An abridged version of the opening of the Arabian Nights, akin to the invocation
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page22.jpg)
+
 - #### Panel 5
 
   This writing, like that of 4:6, is not real Arabic.
 
 ### Page 25
+
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page25.jpg)
 
 - #### Panel 2
 
@@ -172,6 +206,8 @@ An abridged version of the opening of the Arabian Nights, akin to the invocation
 
 ### Page 26
 
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page26.jpg)
+
 - #### Panel 1
 
   Bargaining of this histrionic, exaggerated fashion is commonly portrayed in stories of the Mideast.
@@ -184,17 +220,23 @@ An abridged version of the opening of the Arabian Nights, akin to the invocation
 
 ### Page 27
 
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page27.jpg)
+
 - #### Panel 7
 
   Reminiscent of Shelley's "Ozymandias".
 
 ### Page 31
 
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page31.jpg)
+
 - #### Panel 1
 
   The city in the bottle was seen in 27:20.1.
 
 ### Page 32
+
+> [!THUMBNAIL] ![](thumbnails/sandman.50/page32.jpg)
 
 Baghdad was bombed repeatedly during the Gulf War, and on at least two occasions since. The storyteller has been interpreted as the Caliph himself, made as undying as his city. However, the replacement of the mythical Baghdad with its mundane, historical counterpart suggests that Haroun himself also underwent the same transformation, which would tend to preclude his identification as the storyteller.
 

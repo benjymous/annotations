@@ -1,4 +1,4 @@
-## The Annotated Sandman
+# The Annotated Sandman
 
 ## Vertigo Jam: "The Castle"
 
@@ -9,12 +9,14 @@
 **Note**: One of the few times The Sandman isn't lettered by Todd Klein.
 
 ### Page 2
+> [!THUMBNAIL] ![](thumbnails/sandman-vertigojam1/page02.jpg)
 
 - #### Panel 6
 
   A lovely view showing the enormity (infinity?) of Lucien's Library.
 
 ### Page 3
+> [!THUMBNAIL] ![](thumbnails/sandman-vertigojam1/page03.jpg)
 
 - #### Panels 1-3
 
@@ -25,6 +27,7 @@
   Merv's head really is just a hollowed out pumpkin.
 
 ### Page 4
+> [!THUMBNAIL] ![](thumbnails/sandman-vertigojam1/page04.jpg)
 
 Nuala, of course we already know. Her homesickness (and lovesickness) will be addressed in future issues...
 

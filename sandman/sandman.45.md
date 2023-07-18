@@ -2,6 +2,8 @@
 
 ## Issue 45: Brief Lives Five
 
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page00.jpg)
+
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
 **Notes**: See [#41](sandman.41.md). For references on Ishtar and Ancient Near Eastern rites, consult the appendix. This issue, the middle one of the arc, has many points in common with [#41](sandman.41.md), the first one of the arc.
@@ -10,11 +12,15 @@
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page01.jpg)
+
 - #### Panel 4
 
   **Roxy Blue**: In the opinion of at least one reviewer, the lamest, saddest attempt ever made to create a generic megahit MTV glam-metal band.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page02.jpg)
 
 - #### Panel 3
 
@@ -27,6 +33,8 @@
 ### 2: _Her Hands Do Not Go to the Moon_
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page05.jpg)
 
 - #### Panel 1
 
@@ -44,6 +52,8 @@
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page06.jpg)
+
 - #### Panel 5
 
   See Lance Smith's Sandman Concordance for an accounting of Dream's ravens.
@@ -55,6 +65,8 @@
 ### 4: _Tiffany Watches I_
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page07.jpg)
 
 - #### Panel 1-5
 
@@ -74,6 +86,8 @@
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page08.jpg)
+
 - #### Panel 2
 
   **Like a Virgin**: A song by Madonna (note Tiffany's shirt).
@@ -88,7 +102,9 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
 ### Page 9
 
-- #### Panel 2
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page09.jpg)
+
+- #### Panel 1
 
   Note that "pond scum" is not hyphenated.
 
@@ -103,6 +119,8 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 ### 6: _Are Dalmations Flowers?_
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page10.jpg)
 
 - #### Panel 1
 
@@ -121,6 +139,8 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page11.jpg)
+
 - #### Panel 1
 
   **Suffragette City**: A song by David Bowie. "Suffragette" was the term applied to women who sought to obtain the ability to vote.
@@ -128,11 +148,15 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page12.jpg)
+
 - #### Panel 5-6
 
   **Oprah" and "Donahue**: American talk shows, often devoted to the latest sensationalistic book, scam, or fad. The "Donahue" topic given in 13.5 is a good parody of a typical show. The hosts' full names are Oprah Winfrey and Phil Donahue.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page13.jpg)
 
 - #### Panel 6
 
@@ -144,17 +168,23 @@ Slang for something quickly and abruptly started and accomplished; originally re
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page14.jpg)
+
 - #### Panel 1
 
   **I Heard It Through the Grapevine**: a song originally popularized by Gladys Knight and the Pips, later taken to the top of the charts by Marvin Gaye. Lyrics are quoted in the third caption of panel 1, the third caption of panel 2, and the caption of page 15 panel 1.
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page15.jpg)
+
 - #### Panel 6
 
   **Under Pressure**: A song written and performed by David Bowie and Queen. (Recall the mention of Queen frontsman Freddie Mercury in [#41](sandman.41.md).) The song is about closeted homosexuals.
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page16.jpg)
 
 - #### Panel 6
 
@@ -166,17 +196,23 @@ Note the ironic change in meaning of "watches" from section 4.
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page21.jpg)
+
 - #### Panel 3
 
   **Sister Midnight**: a song from Iggy Pop's album _The Idiot_. Note that David Bowie has partial writing credit for the song, giving him three song references in one issue.
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page22.jpg)
+
 - #### Panel 4
 
   **Coming**: Slang for ejaculating; often written "cum".
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.45/page24.jpg)
 
 - #### Panel 2
 

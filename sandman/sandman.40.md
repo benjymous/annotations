@@ -2,6 +2,8 @@
 
 ## Issue 40: "The Parliament of Rooks"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page00.jpg)
+
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
 Third story in anthology _Convergences_
@@ -20,6 +22,8 @@ Last year he had Jill do him a sketch of Death, and then he sent a copy of it to
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page01.jpg)
+
 - #### Panel 1
 
   This is Lyta Hall, with her son Daniel. See [Sandman #12](sandman.12.md). She is recounting the story of "Goldilocks and the Three Bears" in a somewhat bowdlerized version; compare to the version of "Little Red Riding Hood" Gilbert tells in _The Doll's House_.
@@ -31,6 +35,8 @@ Last year he had Jill do him a sketch of Death, and then he sent a copy of it to
   Lyta is financially secure, both on her own and through her late husband's estate. Thus, she doesn't need a job, and apparently doesn't get out much.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page02.jpg)
 
 It may be worth noting that Lyta is still acting as a storyteller here, and that Daniel doesn't go to sleep till after she's been telling stories for a while.
 
@@ -48,6 +54,8 @@ It may be worth noting that Lyta is still acting as a storyteller here, and that
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page03.jpg)
+
 - #### Panel 1
 
   Be sure to note that Daniel's body is still in the crib; it is his mental self which is out.
@@ -62,6 +70,8 @@ It may be worth noting that Lyta is still acting as a storyteller here, and that
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page04.jpg)
+
 - #### Panel 1
 
   This is Matthew the raven, of course; the "secret" to which he refers is the "House of Secrets" of which Abel is the caretaker.
@@ -74,6 +84,8 @@ It may be worth noting that Lyta is still acting as a storyteller here, and that
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page05.jpg)
+
 - #### Panel 2
 
   It is important to ponder why Dream, whose realm appears to be second only to Delirium's in chaos, is intrinsically a maker of rules.
@@ -84,15 +96,19 @@ It may be worth noting that Lyta is still acting as a storyteller here, and that
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page06.jpg)
+
 - #### Panel 1
 
   Note the stuffed crocodile hanging from the ceiling. This is probably a reference to the corkindrill hanging from the ceiling of Merlin's cottage in T.H. White's _The Sword in the Stone_. (It is worth noting that Neil's buddy Terry Pratchett included a similar hanging crocodile in _The Light Fantastic_, a work which significantly preceded #40.) Note also the curiously carved walking stick, the mirror and skull, the crystal ball and fish bookend, and other decorations in the room.
 
-- #### Panel 2
+- #### Panel 3
 
   Something Nasty in the Basement was first mentioned in [Sandman #10](sandman.10.md). "Eyes too big for his": stomach completes the saying.
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page07.jpg)
 
 - #### Panel 1-3
 
@@ -124,11 +140,15 @@ It may be worth noting that Lyta is still acting as a storyteller here, and that
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page08.jpg)
+
 - #### Panel 2
 
   A more explicit reference to Dream's love affair.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page09.jpg)
 
 - #### Panel 4
 
@@ -148,6 +168,8 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page12.jpg)
+
 - #### Panel 3
 
   Note the skeleton with hat in the background.
@@ -162,17 +184,23 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page13.jpg)
+
 - #### Panel 3
 
   See the Appendix for the antecedents of Eve's tale.
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page15.jpg)
+
 - #### Panel 1
 
   **Midrash**: A collection of early Jewish interpretation and commentary on the Bible.
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page16.jpg)
 
 - #### Panel 3
 
@@ -181,6 +209,8 @@ A two-page spread. Cain's information on rooks is accurate.
   The Lilim are more traditionally identified with succubi, demons that have sex with men as they dream and so drain them.
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page17.jpg)
 
 - #### Panel 1
 
@@ -198,6 +228,8 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page18.jpg)
+
 - #### Panel 4
 
   This style of art bears some resemblance to Japanese SD or Super-Deformed style. Jill Thompson has done a picture of the Li'l Endless with all of the Endless in this junior form.
@@ -206,15 +238,21 @@ A two-page spread. Cain's information on rooks is accurate.
 
   **Remotely human**: Cain and Abel are part of "the oldest story"; they and the Endless predate humanity. It is the nature of stories and storytellers to conform to their audience, however, as seen here.
 
-  **Pablum**: a trademark for a kind of infants' cereal (appropriate for Daniel, don't you think?), taken from pabulum (Latin for food), and often used derogatively to characterize something as having no substance. Li'l: A contraction for "little", often used, as here, as a diminutive.
+  **Pablum**: a trademark for a kind of infants' cereal (appropriate for Daniel, don't you think?), taken from pabulum (Latin for food), and often used derogatively to characterize something as having no substance.
+
+  **Li'l**: A contraction for "little", often used, as here, as a diminutive.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page19.jpg)
 
 - #### Panel 3
 
   Death's invitation to Abel is because Abel is dead, of course.
 
 ### Page 20
+
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page20.jpg)
 
 - #### Panel 1
 
@@ -225,6 +263,8 @@ A two-page spread. Cain's information on rooks is accurate.
   Note the appearance of the guardians of Dream's gate.
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page21.jpg)
 
 - #### Panel 1
 
@@ -240,6 +280,8 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page22.jpg)
+
 - #### Panel 4
 
   The chess piece rook does come two to a player, four to a board. Chess is idealized battle. The rook's counting rhyme says "four for a boy". Eve is contemplating the apparent equation of male and fighting.
@@ -252,11 +294,15 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page23.jpg)
+
 - #### Panel 5-6
 
   Cain is making reference to the fiction genre of mystery, often called "whodunnits".
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.40/page24.jpg)
 
 - #### Panel 1
 

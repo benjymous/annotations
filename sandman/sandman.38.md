@@ -2,6 +2,8 @@
 
 ## Issue 38: "The Hunt"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page00.jpg)
+
 ##### Neil Gaiman, Duncan Eagleson, and Vince Locke
 
 First story in anthology _Convergences_
@@ -15,6 +17,8 @@ A common thread among the stories is the intersection (or convergence) of charac
 In "The Hunt", Vassily passes from the comfort of his forest to the unknown outside world, and, indeed, from the Old World into the New. The past is seen in the tale of long ago, the present in the telling of the tale, and the future in Celeste's relationship with Christopher. Value plays an important, if ambiguous, role in "The Hunt". To various characters, value is in dreams; the eye of the beholder, or of the dreamer; or in experience. All these disparate ideas converge in the final word on the subject: a woman who "knew the value of things" though we are not told how value could be known; perhaps we are to believe that value may be defined in all these ways.
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page01.jpg)
 
 - #### Panel 1
 
@@ -44,9 +48,13 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page02.jpg)
+
 **Real forests, true bears, true wolves**: Akin to Platonic forms, the creatures and places in stories are the true essence of the creature or place, without the rounded-off corners or the compromises required of things that exist. A wolf such as you might meet is hardly more than a dog who has not forgotten how to hunt; a wolf such as you might hear about is a shaggy beast, born to the hunt, little more than hunger and fangs and burning eyes, a creature who might someday hunt you.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page03.jpg)
 
 - #### Panel 1
 
@@ -61,6 +69,8 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
   The gypsies, or Romany, as they are said to call themselves, are a nomadic European people of a common stock. In tales, they are fortune-tellers, traders, and thieves; bewitching beauties who may steal a man's eye while their cousin steals his purse, or his babe. Heed a gypsy's warning, and beware the curse of a gypsy wisewoman.
 
 ### Page 4
+
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page04.jpg)
 
 - #### Panel 1
 
@@ -82,9 +92,11 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page05.jpg)
+
 - #### Panel 2
 
-  Gaje': From context, the Romany word for outsider.
+  **Gaje'**: From context, the Romany word for outsider.
 
 - #### Panel 5
 
@@ -95,6 +107,8 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
   Value's in Dreams: A convergence.
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page06.jpg)
 
 - #### Panel 3
 
@@ -110,6 +124,8 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page07.jpg)
+
 - #### Panel 5-6
 
   I have no idea what the small bone carved into the shape of a small bone means. Perhaps a charm of some sort? The wooden finger-ring makes its second appearance.
@@ -121,6 +137,8 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
   **Michael Jackson**: A pop star whose popularity with teen culture waxes and wanes in an unpredictable fashion; also noted for his eccentric habits, his androgyny, and his extensive plastic surgery.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page08.jpg)
 
 - #### Panel 1-2
 
@@ -136,6 +154,8 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page09.jpg)
+
 - #### Panel 1-3
 
   It is traditional for heroes to be beset by monsters while on the road, and the villainous innkeeper is a staple of the genre.
@@ -149,6 +169,8 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
   Considering that the inn's fare was characterized as "poor" on the preceding page, we are probably meant to infer that Vassily -ate- the villainous innkeeper. Note that Vassily is wiping his mouth.
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page10.jpg)
 
 - #### Panel 1
 
@@ -164,6 +186,8 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page11.jpg)
+
 - #### Panel 3-5
 
   The old man believes in fairies, is more than a century and a half in age, and can rip his granddaughter's throat out with his teeth. The storyteller becomes the story.
@@ -176,11 +200,15 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page13.jpg)
+
 - #### Panel 5
 
   Note Vassily's teeth, as well as his eyes.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page14.jpg)
 
 - #### Panel 7
 
@@ -188,9 +216,13 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page15.jpg)
+
 Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives in a hut which has chicken legs, and flies across the night sky in a mortar which she drives with a pestle. She is a great sorceress and, generally, evil. Baba Yaga, or a facsimile thereof, appears in _Books of Magic_, Book III.
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page17.jpg)
 
 - #### Panel 2
 
@@ -206,6 +238,8 @@ Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives i
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page18.jpg)
+
 - #### Panel 4
 
   Cold iron traditionally has power over those with magic in their blood (particularly the Faerie folk).
@@ -215,6 +249,8 @@ Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives i
   **True Death**: A storyteller's kind of death, as with the true wolves, or a death final enough to snuff the soul with the body? Or perhaps The People may pass through more than one kind of death, since the gypsy woman's death was not notable enough to be called the True Death.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page19.jpg)
 
 - #### Panel 2
 
@@ -236,11 +272,15 @@ Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives i
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page20.jpg)
+
 - #### Panel 7
 
   **Newfound habit**: Ordinarily, it takes two occurrences to mark a "habit", but Dream may be indulging in sarcasm. Note also that he is dressed in what appears to be formal wear; prior to his capture, he always dressed in clothing appropriate to the highest stratum of society and to his audience.
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page21.jpg)
 
 - #### Panel 3
 
@@ -252,6 +292,8 @@ Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives i
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page22.jpg)
+
 - #### Panel 1
 
   I am told by ladyfriends of mine that menstruation is often accompanied by dreams of blood, though that is certainly not the only possible cause for this dream.
@@ -261,6 +303,8 @@ Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives i
   **Tokay**: An aromatic wine, made in the region around the town of the same name in Hungary.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page23.jpg)
 
 - #### Panel 2
 
@@ -275,6 +319,8 @@ Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives i
   **Sexist**: The sexism of the story is weak and of the second order, but lies in the role of the Duke's daughter as prize, and the power of Vassily to choose his woman; the important sorts of power, to make life's choices, lie with men. This is filtered through a modern perspective, wherein the Duke's daughter does not scream or faint when confronted with strange men in her bedroom, and where a woman of the People may be a better hunter than a man, but the sort of sexism endemic in fairy tales remains.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.38/page24.jpg)
 
 - #### Panel 2
 

@@ -2,6 +2,8 @@
 
 ## Issue 37: "I Woke Up and One of Us Was Crying."
 
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page00.jpg)
+
 ##### Neil Gaiman and Shawn McManus
 
 Sixth part of storyline _A Game of You_
@@ -16,17 +18,19 @@ Not yet reprinted in any other form
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page01.jpg)
+
 - #### Panel 1
 
   Greyhound is an American passenger bus company. We find out later that Barbie is in Kansas, which is about 1600 miles from New York.
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page02.jpg)
+
 - #### Panel 4
 
   Thessaly thinks to compare her power to Dream's? The Greeks wrote plays about those who dared to compared themselves to gods, and even invented a word for this: hubris. The plays, incidentally, were all tragedies.
-
-### Page 2
 
 - #### Panel 5; page 3 panel 1
 
@@ -34,17 +38,23 @@ Not yet reprinted in any other form
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page03.jpg)
+
 - #### Panel 2
 
   "Small world." A visual pun.
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page04.jpg)
+
 - #### Panel 5
 
   The woman for whom the skerry was created was Alianora, as seen last issue. It has since been revealed that Dream loved Alianora, once upon a time, and the consequences of this were probably what necessitated the compromise which Dream refers to.
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page06.jpg)
 
 - #### Panel 2
 
@@ -53,6 +63,8 @@ Not yet reprinted in any other form
   Further, the movie version is often used as a source for campy quotes. The movie's star, Judy Garland, is a role model for many transvestite men, and the Emerald City, a location in the film, is a gay slang name for San Francisco.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page08.jpg)
 
 - #### Panel 3
 
@@ -68,6 +80,8 @@ Not yet reprinted in any other form
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page09.jpg)
+
 - #### Panel 1
 
   Note the seam on Barbie's stockings, which were not obviously present in page 1 panel 1. It is possible that she has drawn them on, much as she did the veil. During World War II, many women drew their stocking seams with eyeliner pencil, due to a shortage of nylon.
@@ -78,11 +92,15 @@ Not yet reprinted in any other form
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page10.jpg)
+
 - #### Panel 3
 
   You meet simply the highest quality of people in diners.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page11.jpg)
 
 - #### Panel 4
 
@@ -100,6 +118,8 @@ Not yet reprinted in any other form
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page12.jpg)
+
 - #### Panel 8
 
   **Mean Lisa**: possibly derived from the famous painting "Mona Lisa".
@@ -109,6 +129,8 @@ Not yet reprinted in any other form
   **First Amendment**: The First Amendment to the USA Constitution guarantees the freedom of the press. Its use here, however, is questionable.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page13.jpg)
 
 - #### Panel 1
 
@@ -124,11 +146,15 @@ Not yet reprinted in any other form
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page14.jpg)
+
 - #### Panel 2
 
   AIDS, in the USA, was originally mostly restricted to the male homosexual community. This engendered a repulsive attitude on the part of the small-minded that AIDS was a punishment for deviants.
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page17.jpg)
 
 - #### Panel 4
 
@@ -142,6 +168,8 @@ Not yet reprinted in any other form
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page18.jpg)
+
 - #### Panel 2
 
   Caleb is another good Hell-fearing Biblical name. The quote indicates that incorrect behavior will be punished, and also reflects the literal manner of Wanda's death.
@@ -152,11 +180,15 @@ Not yet reprinted in any other form
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page19.jpg)
+
 - #### Panel 2-4
 
   One is invited to reflect upon Barbie's idea while recalling the Land, and the Game of You.
 
 ### Page 20
+
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page20.jpg)
 
 - #### Panel 1
 
@@ -167,6 +199,8 @@ Not yet reprinted in any other form
   Barbie's experience was with an extreme example of a comic book store, but there are many stores that could use cleaning, whose staffs could use training, and which could be made less actively anti-feminine.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page23.jpg)
 
 - #### Panel 2
 
@@ -181,6 +215,8 @@ Not yet reprinted in any other form
   The woman with Wanda is Death, of course. Where does Barbie get the image? Well, Dream could be providing it for her, but it's more likely that Barbie is remembering; after all, we all meet Death twice, once when we are born, and once when we die. We just usually don't remember the first time.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.37/page24.jpg)
 
 - #### Panel 4
 

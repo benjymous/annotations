@@ -2,6 +2,8 @@
 
 ## Issue 35: "Beginning to See the Light"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page00.jpg)
+
 ##### Neil Gaiman and Shawn McManus
 
 Fourth part of storyline _A Game of You_
@@ -18,6 +20,8 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page01.jpg)
+
 - #### Panel 2-3
 
   The Land is full of fantastic elements, such as the Trees and the Tweeners, which verge on being archetypes of the genre; that is their point. The Land takes much of its form from principles abstracted from Barbie's earliest books, as seen later. The Trees may be a direct reference to J.R.R. Tolkien's Ents, from _The Lord of the Rings_.
@@ -28,11 +32,15 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page02.jpg)
+
 - #### Panel 1
 
   Wilkinson is singing an old folk song. Tipperary is a location in Ireland.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page03.jpg)
 
 - #### Panel 3
 
@@ -40,11 +48,15 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page04.jpg)
+
 - #### Panel 1
 
   This was foreshadowed in [Sandman #32](sandman.32.md) page 1.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page05.jpg)
 
 - #### Panel 1
 
@@ -64,12 +76,16 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page06.jpg)
+
 - #### Panel 5
 
   Barbie's face painting was prominently seen in [Sandman #32](sandman.32.md).
   Her remark about not wanting anything permanent should not be overlooked.
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page07.jpg)
 
 The text of the scroll is presumably taken from a specific reference work on birds which I have not identified.
 
@@ -83,11 +99,15 @@ The text of the scroll is presumably taken from a specific reference work on bir
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page09.jpg)
+
 - #### Panel 1-4
 
   This will be explained more fully later.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page11.jpg)
 
 - #### Panel 2
 
@@ -99,11 +119,15 @@ The text of the scroll is presumably taken from a specific reference work on bir
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page12.jpg)
+
 - #### Panel 3
 
   This hearkens back to page 9.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page13.jpg)
 
 - #### Panel 2
 
@@ -115,17 +139,23 @@ The text of the scroll is presumably taken from a specific reference work on bir
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page14.jpg)
+
 - #### Panel 3
 
   Barbie refers to J.R.R. Tolkien's _The Hobbit_, a highly regarded novel. It is that most rare of beasts, a bridge between juvenile and adult fantasy, done with extraordinary skill and mythic sense, style, and scope.
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page18.jpg)
+
 - #### Panel 2
 
   "Follow the yellow brick road" were the instructions given to Dorothy in _The Wizard of Oz_, the first in a long and excellent series of juvenile fantasy novels (and later made into a execrable movie that inexplicably became a "classic"). References to the tale have shown up many times in _Sandman_, notably in Hal's dream in _The Doll's House_. Dorothy, like Barbie, had three traveling companions, and traversed a forest of dark and malicious demeanor.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page19.jpg)
 
 George attempts to play Wanda in the Game of You, but Wanda refuses.
 
@@ -135,11 +165,15 @@ George attempts to play Wanda in the Game of You, but Wanda refuses.
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page21.jpg)
+
 - #### Panel 6
 
   'Nana: probably banana.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.35/page24.jpg)
 
 - #### Panel 3
 

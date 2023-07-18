@@ -2,6 +2,8 @@
 
 ## Issue 39: "Soft Places"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page00.jpg)
+
 ##### Neil Gaiman and John Watkiss
 
 Second story in anthology _Convergences_
@@ -16,6 +18,8 @@ In "Soft Places", Marco Polo travels into a soft place unfamiliar to him, as he 
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page01.jpg)
+
 - #### Panel 1
 
   **Anno Domini**: Year of Our Lord, Latin, usually represented as the more familiar A.D.
@@ -24,11 +28,15 @@ In "Soft Places", Marco Polo travels into a soft place unfamiliar to him, as he 
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page04.jpg)
+
 - #### Panel 4
 
   This is the "standard" folkloric visualization of the Sandman - E. T. A. Hoffman wrote a short novel named "Der Sandmann" (The Sandman) in which this picture of the Sandman is presented Henrik Ågren <Henrik.Agren@hist.uu.se>; can anyone fling me some other good refs?
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page05.jpg)
 
 - #### Panel 3
 
@@ -54,6 +62,8 @@ In "Soft Places", Marco Polo travels into a soft place unfamiliar to him, as he 
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page07.jpg)
+
 - #### Panel 1
 
   The Desert of Lop ("Lop Nar" or "Lap Nor") is located in central China, and has been used as the People's Republic's nuclear testing ground.
@@ -66,17 +76,23 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page08.jpg)
+
 - #### Panel 3
 
   When Marco Polo was taken prisoner in a battle between Venice and Genoa, he told the tales of his travels to his cell-mate, Rustichello, who recorded them in the book _The Travels of Marco Polo_.
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page09.jpg)
+
 - #### Panel 6
 
   No refs on Shangtu. Presumably a city in China, possibly an obsolete name. There have been several systems of transliteration from Chinese to English, complicating the issue.
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page10.jpg)
 
 - #### Panel 3
 
@@ -96,6 +112,8 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page11.jpg)
+
 - #### Panel 2
 
   **Jelly babies**: A soft chewy candy native to the British Isles. The fourth incarnation of the Doctor on the British series _Doctor Who_ always carried a bagful of jelly babies as a well-known trademark.
@@ -106,11 +124,14 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
   Gilbert is a place, not a person, though he occasionally takes human form.
 
+
 - #### Panel 6
 
-  In the last issue we saw Dream sympathetic to romance; here we learn that he is engaged in a new one, though the reciprocant of his affection is as yet unnamed.
+  In the last issue we saw Dream sympathetic to romance; here we learn that he is engaged in a new one, though the reciprocant of his affection is as yet unnamed.   This helps pinpoint that Gilbert is talking to us from the "present" of the comic.
 
 ### Page 12
+
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page12.jpg)
 
 - #### Panel 1
 
@@ -128,6 +149,8 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page13.jpg)
+
 - #### Panel 2
 
   Saint Joseph of Copertino [sic]: From the Dictionary of Saints:
@@ -143,6 +166,8 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page14.jpg)
+
 - #### Panel 1
 
   There may be a reference to cheese and pickle sandwiches in one of G.K. Chesterton's poems.
@@ -153,11 +178,15 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 16
 
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page16.jpg)
+
 - #### Panel 6
 
-  Hwen T'sang (c.605-664): Also known as Xuan Zang or Hsuan-Tsang. Buddhist monk, born in China, who traveled to India in 629 to learn at the roots of Buddhism, despite the ban against crossing the frontiers. He went, alone, via the Gobi Desert, Samarkand, Tashkent, and Kashmir. In 645, he returned to China, where he wrote his memoirs. Like Polo, he described quasi-supernatural horrors, including ghost armies, in the Gobi. He is also credited with translating many Buddhist texts from Sanskrit to Chinese, and the Tao te Ching ("Book of Changes") from Chinese to Sanskrit. He is also known as Tripitaka, a Sanskrit name denoting the three baskets in which the Buddhist texts were kept in ancient times. Abu Abdullah ben Battuta Lahuati (1304-1378) was an Arab born in Tangiers who traveled to Arabia, Ethiopia, Egypt, Bulgaria, the southern Russian steppes, India, the Maldives, China, Indonesia, Sri Lanka, and western Africa (Timbuktu) over the course of 25 years, in part for the purpose of visiting every Muslim country in the world. He wrote a narrative of his travels after returning to Morocco. There is an article on him in the December 1991 issue of _National Geographic_.
+  **Hwen T'sang** (c.605-664): Also known as Xuan Zang or Hsuan-Tsang. Buddhist monk, born in China, who traveled to India in 629 to learn at the roots of Buddhism, despite the ban against crossing the frontiers. He went, alone, via the Gobi Desert, Samarkand, Tashkent, and Kashmir. In 645, he returned to China, where he wrote his memoirs. Like Polo, he described quasi-supernatural horrors, including ghost armies, in the Gobi. He is also credited with translating many Buddhist texts from Sanskrit to Chinese, and the Tao te Ching ("Book of Changes") from Chinese to Sanskrit. He is also known as Tripitaka, a Sanskrit name denoting the three baskets in which the Buddhist texts were kept in ancient times. Abu Abdullah ben Battuta Lahuati (1304-1378) was an Arab born in Tangiers who traveled to Arabia, Ethiopia, Egypt, Bulgaria, the southern Russian steppes, India, the Maldives, China, Indonesia, Sri Lanka, and western Africa (Timbuktu) over the course of 25 years, in part for the purpose of visiting every Muslim country in the world. He wrote a narrative of his travels after returning to Morocco. There is an article on him in the December 1991 issue of _National Geographic_.
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page17.jpg)
 
 - #### Panel 4
 
@@ -171,17 +200,23 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page20.jpg)
+
 - #### Panel 3
 
-  This is the Dream of [Sandman #1](sandman.01.md)-2, if we needed more proof of the loops and whorls of time in a soft place. We may note that Gregory the Gargoyle found Dream in the "Shifting Zones" in [Sandman #2](sandman.02.md); Dream's speech in page 21 panel 3-4 indicates that the Shifting Zones are the same as the soft places. The shifting sands of the desert also metaphorically echo its state as a soft place.
+  This is the Dream of [Sandman #1](sandman.01.md)-[2](sandman.02.md), if we needed more proof of the loops and whorls of time in a soft place. We may note that Gregory the Gargoyle found Dream in the "Shifting Zones" in [Sandman #2](sandman.02.md); Dream's speech in page 21 panel 3-4 indicates that the Shifting Zones are the same as the soft places. The shifting sands of the desert also metaphorically echo its state as a soft place.
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page21.jpg)
 
 - #### Panel 5
 
   Recall that Dream's appearance is most often dictated by the expectations of the observer.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.39/page24.jpg)
 
 - #### Panel 7
 

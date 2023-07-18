@@ -8,3 +8,7 @@ The page numbers given in the original annotations refer to the page numbers pri
 - Sometimes collected issues don't even contain the cover pages, (or rather put them at the end,) so it may not be obvious to the reader which issue they are reading
 
 So for this 35th anniversary version, I'm trying something a little different - I'm experimenting with displaying page thumbnails in the margin, which should make it easier to spot where you're up to when comparing the page with the annotations.  I've left the page numbers in, but will tweak them to match the collected versions where there are obvious discrepancies.
+
+The Issues are ordered by their position in the Deluxe books, and include a few short stories that weren't included in the original run or trades.
+
+You can also browse the issues organised into their collections on the [Covers](Covers.md) page
