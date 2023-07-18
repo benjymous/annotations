@@ -2,6 +2,8 @@
 
 ## Issue 74: "Exiles"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.74/page00.jpg)
+
 ##### Neil Gaiman, Jon J Muth
 
 This story is similar to [#39](sandman.39.md), _Soft Places_.
@@ -18,15 +20,21 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.74/page03.jpg)
+
 - #### Panel 2
 
   The Nan Shan mountains are the northeastern most boundary of the plateau of Tibet.
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.74/page04.jpg)
+
 The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's known to have existed as early as the 13th century C.E.The "White Lotus Rebellion" lasted from 1796 to 1804.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.74/page05.jpg)
 
 - #### Panel 1
 
@@ -38,11 +46,15 @@ The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's know
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.74/page06.jpg)
+
 - #### Panel 5
 
   In Chinese and Japanese mythology foxes are considered spiritual beings with magic powers.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.74/page14.jpg)
 
 - #### Panel 2
 
@@ -52,11 +64,15 @@ The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's know
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.74/page15.jpg)
+
 - #### Panel 1
 
   No refs on this story. The parallel with Dream and Orpheus is pretty obvious.
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.74/page16.jpg)
 
 - #### Panel 2
 
@@ -64,11 +80,15 @@ The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's know
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.74/page18.jpg)
+
 - #### Panel 6
 
   A famous line from a Japanese poem reads, "As I crossed the bridge of dreams". In that poem the bridge represents death or a vision of death. Master Li has previously met with a Dream who is now dead; now he crosses to the realm of the one who lives.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.74/page19.jpg)
 
 - #### Panels 1-4
 
@@ -76,11 +96,15 @@ The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's know
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.74/page21.jpg)
+
 - #### Panel 4
 
   "Tools can be the subtlest of traps" is quoted from the text piece from the "Doll's House" collection. Morpheus said he would never have thought of destroying his ruby (7:20.4); but this Dream, wiser, knows from the start that someday he must dispense with his greatest tool.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.74/page23.jpg)
 
 - #### Panel 5
 

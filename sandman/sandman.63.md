@@ -2,9 +2,13 @@
 
 ## Issue 63: "The Kindly Ones: 7"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.63/page00.jpg)
+
 ##### Neil Gaiman, Marc Hempel
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.63/page01.jpg)
 
 - #### Panel 1
 
@@ -20,6 +24,8 @@
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.63/page03.jpg)
+
 - #### Panel 2
 
   "Larissa" is the name of a city in Greece, in the region called Thessaly.
@@ -30,11 +36,15 @@
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.63/page05.jpg)
+
 - #### Panel 1
 
   Odin was last seen in these pages in "The Season of Mists" chapter 6, [issue #27](sandman.27.md).
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.63/page07.jpg)
 
 - #### Panel 4
 
@@ -42,17 +52,23 @@
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.63/page10.jpg)
+
 - #### Panel 3
 
   This whole scene, as Delirium has noticed, echoes the scene in "Brief Lives" when Dream and Delirium consult Destiny near these statues. (Specifically 47:8-12.) Note the pathway there now resembles a backwards 6 or 9. The statues have also changed; apparently they reflect the current state of their originals.
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.63/page11.jpg)
+
 - #### Panel 4
 
   A pun of sorts.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.63/page13.jpg)
 
 - #### Panel 1
 
@@ -63,6 +79,8 @@
   A black lamb is another.
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.63/page15.jpg)
 
 - #### Panel 2
 
@@ -78,9 +96,13 @@
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.63/page17.jpg)
+
 This page echoes Lyta's similar reflections in "The Doll's House" part 3 (12:9). Compare also 61:21:4.
 
 ### Page 18
+
+> [!THUMBNAIL] ![](thumbnails/sandman.63/page18.jpg)
 
 The panel borders here are probably left white by mistake; logic suggests that they ought to be grey shading to black as they are on the next page.
 
@@ -90,15 +112,21 @@ The panel borders here are probably left white by mistake; logic suggests that t
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.63/page21.jpg)
+
 The panel borders here are reminiscent of Celtic designs. As is probably clear, the Morrigan is an Irish war goddess, an aspect of the Three-in-One.
 
 ### Page 22
+
+> [!THUMBNAIL] ![](thumbnails/sandman.63/page22.jpg)
 
 - #### Panels 2-4:
 
   The damaged door lock and the wall decorations (identical to the ones seen in "The Parliament of Rooks") suggest that Daniel and the Corinthian are in Lyta Hall's LA apartment.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.63/page23.jpg)
 
 - #### Panel 4
 

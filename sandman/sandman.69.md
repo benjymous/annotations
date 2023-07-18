@@ -2,15 +2,21 @@
 
 ## Issue 69: "The Kindly Ones: 13"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page00.jpg)
+
 ##### Neil Gaiman, Marc Hempel
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page01.jpg)
 
 - #### Panel 5
 
   8:9:5.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page03.jpg)
 
 - #### Panel 7
 
@@ -22,11 +28,15 @@
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page04.jpg)
+
 - #### Panel 8
 
   Lucien is quoting John Webster again: _The White Devil_ Act IV scene 3.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page05.jpg)
 
 - #### Panel 3
 
@@ -34,11 +44,15 @@
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page07.jpg)
+
 - #### Panel 1
 
   Note the panel border. A black border seems to refer to the raw, root underpinnings of dreams and the Dreaming.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page08.jpg)
 
 - #### Panel 2
 
@@ -52,17 +66,23 @@
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page13.jpg)
+
 - #### Panel 1
 
   As Titania remonstrates with Nuala, note the Puck, who had also spoken of leaving Faerie, chained at her feet. Note also that this vignette and the ones in the next few pages contain echoes of the event immediately past: a man and a woman taking each other's hand; leaving one place or plane in favor of an uncertain destination; references to death (including punning use of the word "late").
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page14.jpg)
+
 - #### Panel 7
 
   If we assume that Delirium went looking for Barnabas only a day or two after he lost her, this confirms that each issue of "The Kindly Ones" represents about a day.
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page15.jpg)
 
 - #### Panel 4
 
@@ -73,6 +93,8 @@
   This is an image from the fairytale best known today as "Diamonds and Toads" (or "The Fairy"), from Perrault's classic 17th-century French collection. The mistreated but virtuous younger sister meets a fairy by a spring and politely gives her a drink; she is rewarded by having flowers and treasure fall from her mouth whenever she speaks. The favored but selfish older sister tries to imitate her, but is rude to the fairy and has snakes come out of her mouth. Folklorists have recorded many variants of this story, classified as "The Tale of the Kind and the Unkind Girls," Aarne-Thompson Type 480; the Grimms' collection has a similar version, called "Mother Holle."
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page16.jpg)
 
 - #### Panel 2
 
@@ -94,17 +116,23 @@
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page17.jpg)
+
 - #### Panel 5
 
   Some people have speculated that the donor was Rosemary, the woman shot by Doctor Dee in issue [#5](sandman.05.md). The timing would seem a bit odd, though, since that would mean that issues 2-4 took seven months to happen.
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page18.jpg)
+
 - #### Panel 6
 
   Hal says, "In the midst of death, we are in life" (page 18, panel 6). I don't know if this was noted and simply not annotated because it was so obvious, but I figured I'd mention anyway that it's a reversal of a line that my quotation dictionary lists as coming from "Burial of the Dead" in _Book of Common Prayer_: "In the midst of life we are in death." (found by Sarah Alderdice <viverais@freeze.com>)
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page19.jpg)
 
 - #### Panel 1
 
@@ -122,6 +150,8 @@
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page20.jpg)
+
 - #### Panel 2
 
   The title of Larissa's book parodies a mid-'80s bestseller, _When Bad Things Happen to Good People_, by Rabbi Harold Kushner.
@@ -136,6 +166,8 @@
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page22.jpg)
+
 - #### Panel 4
 
   This panel echoes the one we saw in Destiny's book in "Brief Lives" part 7 (47:14:3). Gaiman has said that it is intentionally not precisely the same, which leads to the interesting speculation that the Destiny who survived the reality storm is _not_ the same one that we had seen so many times previously.
@@ -145,6 +177,8 @@
   There seem to be reversals here: the new Dream has white hair and clothes instead of black; his jewel is green (the complementary color to a ruby's red); the least of the dreamstones has taken the role previously filled by the greatest.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page23.jpg)
 
 - #### Panel 1
 
@@ -171,6 +205,8 @@
   The Gracchae were a trio of women in Greek mythology who had only one eye between them. (It was detachable and they passed it around.) The hero Perseus stole their eye and demanded information about the Gorgons as ransom for its return. The remark also perhaps echoes 63:20:7: "Are you a hand? Or an eye? Or a tooth?"
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.69/page24.jpg)
 
 - #### Panel 6
 

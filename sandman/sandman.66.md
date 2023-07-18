@@ -2,9 +2,13 @@
 
 ## Issue 66: "The Kindly Ones: 10"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.66/page00.jpg)
+
 ##### Neil Gaiman, Marc Hempel, Richard Case
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.66/page01.jpg)
 
 - #### Panel 1
 
@@ -16,6 +20,8 @@
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.66/page02.jpg)
+
 - #### Panel 1
 
   Note how Daniel's eyes appear to glow. This is perhaps a symptom of his part-immortal nature; they did not when we saw him back in [issue #59](sandman.59.md).
@@ -25,6 +31,8 @@
   **So the wolf...**: a quote from "The White Devil", act V scene 4. Daniel's eyes here especially resemble Dream's.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.66/page03.jpg)
 
 - #### Panel 1
 
@@ -36,11 +44,15 @@
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.66/page04.jpg)
+
 - #### Panel 1
 
   ...And here is suddenly introduced one-eyed Odin, who was capable of shifting shape. Among the wisdom that he received for his eye was the knowledge of runic writing; and in some versions, foreknowledge of Ragnarok.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.66/page09.jpg)
 
 - #### Panel 1
 
@@ -52,6 +64,8 @@
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.66/page10.jpg)
+
 - #### Panel 1
 
   The name "Menton" showed up in the background chatter when we first saw the Inn of Worlds' End (51:6:6). There is no evidence connecting that Menton with this one, but then there is no evidence to the contrary.
@@ -62,11 +76,15 @@
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.66/page12.jpg)
+
 - #### Panel 5
 
   "Wonderer"? The word used by Shakespeare (in _A Midsummer Night's Dream_) is "wanderer"...
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.66/page13.jpg)
 
 Puck mentions the phrase "jot nor tittle." This is a Biblical reference, from Matthew 5:18 -- "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled." This is one of Jesus' beatitudes; he is saying that although he has a new interpretation of the Old Testament, that he will not change any of the text.
 
@@ -75,6 +93,8 @@ Puck mentions the phrase "jot nor tittle." This is a Biblical reference, from Ma
 (If you didn't know, the beatitudes are those lines that start with "Blessed are the ..., for they ... .")
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.66/page14.jpg)
 
 - #### Panel 1
 
@@ -90,11 +110,15 @@ Puck mentions the phrase "jot nor tittle." This is a Biblical reference, from Ma
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.66/page15.jpg)
+
 - #### Panel 3
 
   As a rule, the military units in war movies are relentlessly ethnically diverse. Mervyn's seems to have a Pole, an Irishman, a Scotsman, a Jew, an Italian, and "the little Norwegian".
 
 ### Page 18
+
+> [!THUMBNAIL] ![](thumbnails/sandman.66/page18.jpg)
 
 - #### Panel 1
 
@@ -106,11 +130,15 @@ Puck mentions the phrase "jot nor tittle." This is a Biblical reference, from Ma
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.66/page19.jpg)
+
 - #### Panel 4
 
   The word is "sinople".
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.66/page21.jpg)
 
 - #### Panel 2
 
@@ -130,6 +158,8 @@ Puck mentions the phrase "jot nor tittle." This is a Biblical reference, from Ma
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.66/page22.jpg)
+
 - #### Panel 1
 
   Someone very kindly sent me definitions for these from the OED, and with my usual deftness I have lost them. Anyone out there with an online OED care to send them again?
@@ -147,6 +177,8 @@ Puck mentions the phrase "jot nor tittle." This is a Biblical reference, from Ma
   "Marks and Sparks" is a common nickname for "Marks and Spencer".
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.66/page24.jpg)
 
 - #### Panel 5
 

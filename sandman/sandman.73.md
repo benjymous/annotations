@@ -2,9 +2,13 @@
 
 ## Issue 73: "Sunday Mourning"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.73/page00.jpg)
+
 ##### Neil Gaiman, Michael Zulli
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.73/page01.jpg)
 
 - #### Panel 2
 
@@ -12,15 +16,21 @@
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.73/page04.jpg)
+
 The view shown is the entrance to the Minnesota Renaissance Festival held in Shakopee, Minnesota. According to report, Zulli visited it specifically to gather visual reference.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.73/page09.jpg)
 
 - #### Panel 7
 
   **Milton Keynes**: a town in England named after the noted economist.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.73/page11.jpg)
 
 - #### Panel 1
 
@@ -32,11 +42,15 @@ The view shown is the entrance to the Minnesota Renaissance Festival held in Sha
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.73/page12.jpg)
+
 - #### Panel 6
 
   English beer is commonly served warm. English people commonly look down upon American beer.
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.73/page16.jpg)
 
 - #### Panel 1
 
@@ -44,17 +58,23 @@ The view shown is the entrance to the Minnesota Renaissance Festival held in Sha
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.73/page18.jpg)
+
 - #### Panel 3
 
   This is the ending of Kipling's poem "The Sack of the Gods". We know, of course, that at least some souls do reincarnate; Nada did at the end of "The Season of Mists", and if Gaiman follows Alan Moore's theology in _Swamp Thing_ Annual #2, then it's an option for blessed souls in Heaven.
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.73/page22.jpg)
+
 - #### Panel 5
 
   The two women at the foreground right are The Fabulous Lorraine Garland and Emma Bull. The Fab. Lorraine is Gaiman's personal secretary; Emma Bull is a noted SF and fantasy writer. The two of them together compose the Flash Girls, a singing duo who have recorded several of Gaiman's songs.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.73/page24.jpg)
 
 - #### Panel 5
 

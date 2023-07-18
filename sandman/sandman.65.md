@@ -2,9 +2,13 @@
 
 ## Issue 65: "The Kindly Ones: 9"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page00.jpg)
+
 ##### Neil Gaiman, Marc Hempel, Richard Case
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page01.jpg)
 
 - #### Panel 1
 
@@ -16,6 +20,8 @@
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page02.jpg)
+
 - #### Panel 1
 
   This panel continues the theme of showing a house of some sort on the title page. It's also a near-exact echo of 1:1:1.
@@ -25,6 +31,8 @@
   "Keys." Perhaps an echo of "The Season of Mists".
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page03.jpg)
 
 - #### Panel 2
 
@@ -42,11 +50,15 @@
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page04.jpg)
+
 - #### Panel 6
 
   Mr. McGuire is having heart trouble, perhaps?
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page05.jpg)
 
 - #### Panel 1
 
@@ -68,17 +80,23 @@
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page06.jpg)
+
 - #### Panel 1
 
   The copy of _It_ on the floor is no doubt the one that the guard was reading in 1:25:3 and again (six years later) during Dream's escape.
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page07.jpg)
+
 - #### Panel 3
 
   The lettering for Rose's words on this page and the next is identical to Destiny's in [issue #63](sandman.63.md).
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page08.jpg)
 
 - #### Panel 1
 
@@ -96,11 +114,15 @@
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page09.jpg)
+
 - #### Panel 2
 
   Note that Desire's candelabrum remains where it put it, on top of the crystal cage, and its cigarette lighter, where it dropped it.
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page10.jpg)
 
 - #### Panel 1
 
@@ -112,6 +134,8 @@
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page12.jpg)
+
 - #### Panels 1-5
 
   The traditional method of dealing with shape-changing is to keep an unwavering grip no matter what shape is taken, even a flame. See the ballad "Tam Lin", and Odysseus vs. Proteus in the _Odyssey_.
@@ -121,6 +145,8 @@
   Most likely the celebrated Ring of the Nibelungs. The other items mentioned were also made by dwarfs: the hammer is likely Mjollnir, the magic tinder-box from the Hans Christian Andersen story; no refs on the sword or the eagle.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page13.jpg)
 
 - #### Panel 1
 
@@ -132,15 +158,21 @@
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page14.jpg)
+
 - #### Panel 1
 
   Cf. Genesis 4:15: "And the LORD said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the LORD set a mark upon Cain, lest any finding him should kill him."
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page17.jpg)
+
 Note the black panel borders. We've seen them only once before, when Lyta met the Furies for the first time.
 
 ### Page 20
+
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page20.jpg)
 
 - #### Panel 3
 
@@ -151,6 +183,8 @@ Note the black panel borders. We've seen them only once before, when Lyta met th
   When Thessaly drew down the moon in "A Game of You" part 3, it seemed quite threatening towards her. She might be referring to other incidents, as well as that one.
 
 ### Page 22
+
+> [!THUMBNAIL] ![](thumbnails/sandman.65/page22.jpg)
 
 - #### Panel 1
 

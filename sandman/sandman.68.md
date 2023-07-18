@@ -2,15 +2,21 @@
 
 ## Issue 68: "The Kindly Ones: 12"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.68/page00.jpg)
+
 ##### Neil Gaiman, Marc Hempel, Richard Case
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.68/page01.jpg)
 
 - #### Panel 2
 
   Notice that Daniel is playing with Barbie's old toys from A Game of You: Luz, Wilkinson, and Martin Tenbones.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.68/page02.jpg)
 
 - #### Panel 5
 
@@ -22,11 +28,15 @@
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.68/page04.jpg)
+
 - #### Panel 5
 
   Probably referring to the gathering in part 1 of "The Season of Mists". (22:8:2)
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.68/page07.jpg)
 
 - #### Panel 1
 
@@ -42,17 +52,23 @@
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.68/page08.jpg)
+
 - #### Panel 3
 
   Mary Gentian gets around; we saw her first in upstate New York in 6:12-13; then again in New York City in "A Game of You" part 6 (37:12:8). She may also have been the newscaster on the nighttime news in 58:1:5. She is named for British fantasy writer Mary Gentle, just by the by.
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.68/page10.jpg)
+
 - #### Panel 5
 
   HIV can be transmitted when users of intravenously injected drugs share hypodermic needles. Cleaning the needles with bleach kills the virus. Hal is implying that that's how Chantal and Zelda contracted AIDS.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.68/page11.jpg)
 
 - #### Panels 4-5:
 
@@ -64,11 +80,15 @@
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.68/page12.jpg)
+
 - #### Panel 1
 
   This appears to be the place where Morpheus brought Rose Walker to kill her, in "The Doll's House" part 6 (15:22:5).
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.68/page13.jpg)
 
 - #### Panel 3
 
@@ -84,11 +104,15 @@
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.68/page14.jpg)
+
 - #### Panel 3
 
   In "The Season of Mists" part 2 (23:20:3-5).
 
 ### Page 20
+
+> [!THUMBNAIL] ![](thumbnails/sandman.68/page20.jpg)
 
 - #### Panel 2
 
@@ -99,6 +123,8 @@
   Hope Mirrlees is a British writer of the early 20th century, best known for her fantasy novel _Lud-in-the-Mist_. _A Fly in Amber_ is subtitled, _being an extravagant biography of the romantic antiquary Sir Robert Bruce Cotton_.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.68/page24.jpg)
 
 - #### Panels 1-6:
 

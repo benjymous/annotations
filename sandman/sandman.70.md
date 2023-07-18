@@ -2,9 +2,13 @@
 
 ## Issue 70: "Which Occurs in the Wake of What Has Gone Before"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page00.jpg)
+
 ##### Neil Gaiman, Michael Zulli
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page01.jpg)
 
 - #### Panel 1
 
@@ -16,11 +20,15 @@
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page02.jpg)
+
 - #### Panel 2
 
   As seen previously, the frames here are views through mirrors, which is why we see Destiny in one here. It may be that Destiny, whose nature precludes hope, can be viewed as despairing. The black-framed picture is reportedly a self-portrait of Zulli.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page03.jpg)
 
 - #### Panel 2
 
@@ -32,6 +40,8 @@
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page04.jpg)
+
 - #### Panel 1
 
   We've heard the true version of this rhyme in "The Parliament of Rooks": 40:7.3-4. Delirium's messenger would seem to have been a magpie.
@@ -41,6 +51,8 @@
   For more information on this necropolis, consult [issue #55](sandman.55.md).
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page07.jpg)
 
 - #### Panel 2
 
@@ -60,6 +72,8 @@
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page08.jpg)
+
 - #### Panel 2
 
   And of course, it is _Death_ that gives the envoy _life_.
@@ -78,6 +92,8 @@
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page09.jpg)
+
 - #### Panel 1
 
   The same question was asked of Mistress Veltis when she entered the same room, in "[Cerements](sandman.55.md)". Also, the room was described as having "six silver cerements" hanging from the walls.
@@ -94,13 +110,17 @@
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page10.jpg)
+
 - #### Panel 4
 
   The image at top right is Edvard Munch's well-known "The Scream"; the one in the middle is William Blake's "Ancient of Days". The leftmost picture must have relevance too, if that can be identified.
 
-  > [!FLEX_2]  ![ William Blake's "Ancient of Days"](images/AncientOfDays.jpg)  ![Edvard Munch's "The Scream"](images/TheScream.jpg)
+  > [!FLEX_2] ![ William Blake's "Ancient of Days"](images/AncientOfDays.jpg) ![Edvard Munch's "The Scream"](images/TheScream.jpg)
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page11.jpg)
 
 - #### Panel 2
 
@@ -112,11 +132,15 @@
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page12.jpg)
+
 - #### Panel 7
 
   In the [Season of Mists Epilogue](sandman.21.md) page 11, Dream was described as "accumulating names to himself, like others make friends." Here, however, the new Dream refuses to be called "Morpheus". Yet another difference between the old and new Dreams.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page13.jpg)
 
 Note that there is no page number.
 
@@ -128,6 +152,8 @@ Note how Eve gets progressively younger. We've seen this happen before in [Seaso
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page14.jpg)
+
 And now Eve grows older again. Eve's age seems to be eternally in flux. (Although Cain and Abel both seem to stay the same age. But then again, in A Parliament of Rooks, we were told that Eve wasn't Cain's mother.)
 
 Thomas Wilde @ tvs_wanderer@yahoo.com:
@@ -135,6 +161,8 @@ Thomas Wilde @ tvs_wanderer@yahoo.com:
 > Judging from both "A Parliament of Rooks" and this, Eve would seem to be some kind of abstract representation of the Triple Goddess spoken of in a number of pagan cultures. It's worth mentioning that by Gaiman's weird cosmology, and from the art from the Biblical story told in "Parliament", the Eve in the Dreaming seems to change from the unnamed woman driven away by Adam, to Lilith, to Eve herself... from Maiden, to Mother, to Crone. Then again, aren't all the creatures of the Dreaming abstract representations, _but_ Abel and Cain? Eve isn't their mother because (maybe) she just wears their mother's shape.
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page15.jpg)
 
 - #### Panel 2
 
@@ -146,11 +174,15 @@ Thomas Wilde @ tvs_wanderer@yahoo.com:
 
 ### Page 16
 
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page16.jpg)
+
 - #### Panel 1
 
   Note that the griffon is missing from the left of the main entrance, and that the wyvern has taken its place.
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page17.jpg)
 
 - #### Panel 6
 
@@ -158,11 +190,15 @@ Thomas Wilde @ tvs_wanderer@yahoo.com:
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page18.jpg)
+
 - #### Panel 3
 
   The ring was given to Alex by Rose Walker in [The Kindly Ones #6](sandman.62.md).
 
 ### Page 18
+
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page18.jpg)
 
 - #### Panel 5
 
@@ -170,11 +206,15 @@ Thomas Wilde @ tvs_wanderer@yahoo.com:
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page20.jpg)
+
 - #### Panel 1
 
   Note that the figures in the windows represent the dreams that we've seen Dream recreate: from right to left, Mervyn's pumpkin, Abel's boots, and Gilbert's flowers.
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page21.jpg)
 
 - #### Panel 2
 
@@ -182,11 +222,15 @@ Thomas Wilde @ tvs_wanderer@yahoo.com:
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page22.jpg)
+
 - #### Panel 1
 
   Note Titania arriving at the top of the stairs.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.70/page23.jpg)
 
 - #### Panel 1
 

@@ -2,6 +2,8 @@
 
 ## Issue 51: "A Tale of Two Cities"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page00.jpg)
+
 [Note: no official title is given; I am using Gaheris' title for his internal story.]
 
 ##### Neil Gaiman, Bryan Talbot, Alec Stevens, Mark Buckingham
@@ -10,17 +12,23 @@ First story in anthology, "Worlds' End"
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page03.jpg)
+
 - #### Panel 8
 
   Not Kansas? Awww... It's worth noting that Buddy Holly (whose music is playing) died in an Iowa field in a snowstorm. In a plane crash rather than a car crash, to be sure.
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page05.jpg)
+
 - #### Panel 4
 
   A hedgehog with very similar speech patterns, named Redlaw, appeared in volume 3 of "The Books of Magic" miniseries. This isn't necessarily the same one, of course.
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page06.jpg)
 
 - #### Panel 5
 
@@ -34,11 +42,15 @@ First story in anthology, "Worlds' End"
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page07.jpg)
+
 - #### Panel 3
 
   Webster's dictionary defines "chirurgeon" simply as an archaic synonym of "surgeon".
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page08.jpg)
 
 - #### Panel 1
 
@@ -51,6 +63,8 @@ First story in anthology, "Worlds' End"
   In Greek myth, the centaur Chiron taught medicine to Asklepios, who went on to become the patron demigod of doctors. His credentials as a physician are thus fairly impressive. He also served as Herakles' childhood tutor.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page09.jpg)
 
 - #### Panel 4
 
@@ -68,11 +82,15 @@ First story in anthology, "Worlds' End"
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page10.jpg)
+
 - #### Panels 1 & 5
 
   Note the close-ups on the eyes. This recurs through-out the rest of this issue.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page11.jpg)
 
 - #### Panel 3
 
@@ -84,11 +102,15 @@ First story in anthology, "Worlds' End"
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page13.jpg)
+
 - #### Panel 3
 
   The lights behind the seats resemble eyes. Also, note the color of the lights... (See also note on page 17 panel 5 below.)
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page14.jpg)
 
 - #### Panel 3
 
@@ -96,11 +118,15 @@ First story in anthology, "Worlds' End"
 
 ### Page 16
 
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page16.jpg)
+
 - #### Panel 3
 
   Even more eyes... [etc.]
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page17.jpg)
 
 - #### Panel 5
 
@@ -108,11 +134,15 @@ First story in anthology, "Worlds' End"
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page18.jpg)
+
 - #### Panel 1
 
   At this point in the story, I was getting the eerie feeling that the city would actually turn out to be a small part of a person's face. Here, the bridge reminded me of the middle section of the man's glasses. Maybe it's just me, though...
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page19.jpg)
 
 - #### Panel 1
 
@@ -122,19 +152,27 @@ First story in anthology, "Worlds' End"
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page20.jpg)
+
 - #### Panel 7
 
   Given that the restaurants are always closed, I can't help wondering what Robert is finding to eat. His beard is growing, so he's not somehow exempted from normal bodily functions.
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page22.jpg)
+
 Odd that whenever two real people meet, one of them immediately returns to the real city. Coincidence, perhaps.
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page23.jpg)
+
 Another inn, in which other tales are told; Gaheris' story turns out to be a story-within-a-story.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.51/page24.jpg)
 
 - #### Panel 6
 

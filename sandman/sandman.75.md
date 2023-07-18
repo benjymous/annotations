@@ -2,9 +2,13 @@
 
 ## Issue 75: "The Tempest"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.75/page00.jpg)
+
 ##### Neil Gaiman, Charles Vess
 
 ### Page 31
+
+> [!THUMBNAIL] ![](thumbnails/sandman.75/page31.jpg)
 
 - #### Panel 3
 

@@ -10,11 +10,13 @@ Second story in the anthology "Worlds' End"
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.52/page01.jpg)
+
 - #### Panel 2
 
   **Necropolis**: "city of the dead".
 
-**Litharge**: lead monoxide -- perhaps a substance used as an embalming agent?
+  **Litharge**: lead monoxide -- perhaps a substance used as an embalming agent?
 
 - #### Panel 3
 
@@ -34,11 +36,15 @@ Second story in the anthology "Worlds' End"
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.52/page02.jpg)
+
 - #### Panel 2
 
   Cluracan, as longtime _Sandman_ readers will recall, first appeared in the arc "The Season of Mists" -- 26:1, to be precise.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.52/page03.jpg)
 
 - #### Panel 1
 
@@ -50,11 +56,15 @@ Second story in the anthology "Worlds' End"
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.52/page04.jpg)
+
 - #### Panel 5
 
   We can infer that Aurelia's history has been similar to that of Italy; an empire has given way to a collection of city-states.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.52/page05.jpg)
 
 - #### Panel 1
 
@@ -70,11 +80,15 @@ Second story in the anthology "Worlds' End"
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.52/page07.jpg)
+
 - #### Panel 1
 
   **Psychopomp**: a god who directs dead souls to their final resting place. As we will see, the religion of the plains seems to give its head direct power over the afterlives of its followers.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.52/page08.jpg)
 
 - #### Panel 4
 
@@ -82,11 +96,15 @@ Second story in the anthology "Worlds' End"
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.52/page11.jpg)
+
 - #### Panel 8
 
   Roman legend had it that the city was founded by twins who became gods: Romulus and Remus.
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.52/page16.jpg)
 
 - #### Panel 5
 
@@ -94,17 +112,23 @@ Second story in the anthology "Worlds' End"
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.52/page17.jpg)
+
 - #### Panel 2
 
   Cluracan's bruised eye is back. Either this was a slip-up, or he's beginning to wake up. (He is fully clothed and unbruised in the next panel, which indicate that he's still dreaming.)
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.52/page20.jpg)
+
 - #### Panel 6
 
   Suddenly, Cluracan's bruised eye has been healed. And all "before the sun [had] set". I'll be charitable, & say that he used some Glamour to cover it up.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.52/page24.jpg)
 
 - #### Panel 1
 
@@ -113,6 +137,8 @@ Second story in the anthology "Worlds' End"
   An inconsistency: on page 21 panel 9, the Psychopomp & Cluracan go _down_ into the room, via a hole in the floor; yet here, the Psychopomp is falling out of a window at the _top_ of a building.
 
 ### Page 25
+
+> [!THUMBNAIL] ![](thumbnails/sandman.52/page25.jpg)
 
 - #### Panel 5
 

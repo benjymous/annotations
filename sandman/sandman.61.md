@@ -2,9 +2,13 @@
 
 ## Issue 61: "The Kindly Ones: 5"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.61/page00.jpg)
+
 ##### Neil Gaiman, Marc Hempel, D'Israeli
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.61/page01.jpg)
 
 - #### Panel 1
 
@@ -16,11 +20,15 @@
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.61/page04.jpg)
+
 - #### Panel 6
 
   Hollow? Empty? One might almost say heartless...
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.61/page05.jpg)
 
 - #### Panel 1
 
@@ -34,11 +42,15 @@
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.61/page08.jpg)
+
 - #### Panel 7
 
   Note the water glass is identical to the one that the Gorgons gave to Lyta.
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.61/page10.jpg)
 
 - #### Panel 1
 
@@ -46,17 +58,23 @@
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.61/page11.jpg)
+
 - #### Panel 1
 
   Previous to the "Crisis on Infinite Earths", Superman's home planet of Krypton had a glass forest similar to this one.
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.61/page12.jpg)
+
 - #### Panel 2
 
   Titania's was last seen in [issue #52](sandman.52.md). Her appearance here is identical to that of [issue #18](sandman.18.md), "A Midsummer Night's Dream". This is especially notable because in four Gaiman-written stories it is the first time she's had the same form.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.61/page14.jpg)
 
 - #### Panel 3
 
@@ -67,6 +85,8 @@
   Auberon, in issue 18, is shown with ram's horns. A man whose wife is unfaithful is also traditionally referred to as "horned".
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.61/page15.jpg)
 
 - #### Panel 1
 
@@ -82,11 +102,15 @@
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.61/page21.jpg)
+
 - #### Panel 4
 
   An echo, perhaps, of page 9 of issue 12 ("The Doll's House" part 3).
 
 ### Page 22
+
+> [!THUMBNAIL] ![](thumbnails/sandman.61/page22.jpg)
 
 - #### Panel 3
 
@@ -103,6 +127,8 @@
   The Gods were all playing about, shooting things at Balder, and having fun when he didn't die, when Loki shows up.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.61/page24.jpg)
 
 - #### Panel 6
 

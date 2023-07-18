@@ -2,11 +2,15 @@
 
 ## Issue 67: "The Kindly Ones: 11"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.67/page00.jpg)
+
 ##### Neil Gaiman, Marc Hempel, Richard Case
 
 **Cover**: Most of the things on this cover seem to be symbols of Delirium: the music-stand, very angular and linear, dissolving and twisting; the crayoned rainbow -- Del is frequently very colorful, both in speech balloons and in hairstyle, while the crayons represent her childishness; the fish, which she was being when we first saw her this arc; a picture of women being moonstruck (a traditional symbol of insanity). The cord is not a symbol of Delirium directly, but there have been a number of hints that Delirium is important to Dream's fate, which would explain why the fish is tangled up in it.
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.67/page01.jpg)
 
 - #### Panel 1
 
@@ -17,6 +21,8 @@
   In issue 40, "The Parliament of Rooks".
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.67/page02.jpg)
 
 - #### Panel 3
 
@@ -32,11 +38,15 @@
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.67/page03.jpg)
+
 - #### Panel 2
 
   Along with some of his brother's stories, Cain seems to have acquired a slight stutter.
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.67/page05.jpg)
 
 - #### Panel 1
 
@@ -44,11 +54,15 @@
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.67/page06.jpg)
+
 - #### Panel 7
 
   Dream's statement here is rather curious; on the one occasion that he spoke with Ishtar ([issue #45](sandman.45.md) -- "Brief Lives" part 5) the subject of change did not arise. He told Destruction that he had not changed, and a little bit later, Orpheus.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.67/page09.jpg)
 
 - #### Panel 1
 
@@ -60,11 +74,15 @@
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.67/page10.jpg)
+
 - #### Panel 1
 
   Rose, the receptionist from page 9, and Mrs. Burrows seem to be another maiden-mother-crone triad.
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.67/page11.jpg)
 
 - #### Panel 2
 
@@ -80,11 +98,15 @@
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.67/page13.jpg)
+
 - #### Panel 4
 
   Most likely this is the orb that Dream used to communicate with Matthew and the Corinthian back in 64:20:1.
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.67/page16.jpg)
 
 - #### Panel 2
 
@@ -92,11 +114,15 @@
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.67/page18.jpg)
+
 - #### Panel 6
 
   Dream and Lucien turn and look directly at the reader, but are actually looking at a female observer; this would seem to be an echo of the end of Rose's dream in "The Doll's House" part 1 (10:14:6).
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.67/page19.jpg)
 
 - #### Panel 4
 
@@ -108,9 +134,13 @@
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.67/page23.jpg)
+
 Panels 1-3 echo in layout, form, and action, page 23 of [issue #11](sandman.11.md) (part 2 of "The Doll's House").
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.67/page24.jpg)
 
 This page similarly echoes 11:24.
 

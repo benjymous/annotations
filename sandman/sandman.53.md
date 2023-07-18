@@ -2,6 +2,8 @@
 
 ## Issue 53: "Hob's Leviathan"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.53/page00.jpg)
+
 Third story in anthology, "Worlds' End"
 
 ##### Neil Gaiman, Michael Zulli, Dick Giordano, Bryan Talbot, Mark Buckingham
@@ -10,6 +12,8 @@ Third story in anthology, "Worlds' End"
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.53/page01.jpg)
+
 - #### Panel 1
 
   This is not the same person who brought Brant the stew in 51:9: the neckerchief is green instead of red, and there is no beard stubble.
@@ -17,6 +21,8 @@ Third story in anthology, "Worlds' End"
   **Call me Jim**: An allusion to the opening line of Herman Melville's _Moby-Dick_, "Call me Ishmael"; possibly combined with Joseph Conrad's _Lord Jim_.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.53/page02.jpg)
 
 - #### Panel 1
 
@@ -32,11 +38,15 @@ Third story in anthology, "Worlds' End"
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.53/page05.jpg)
+
 - #### Panel 1
 
   Hob Gadling has appeared before, in issues 13 and 22.
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.53/page06.jpg)
 
 - #### Panel 3
 
@@ -44,11 +54,15 @@ Third story in anthology, "Worlds' End"
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.53/page09.jpg)
+
 - #### Panel 7
 
   **Salt Water Ballads**: By the English poet John Masefield (1878-1967); first published in 1902.
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.53/page10.jpg)
 
 - #### Panel 5-6
 
@@ -56,11 +70,15 @@ Third story in anthology, "Worlds' End"
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.53/page11.jpg)
+
 - #### Panel 4
 
   Note the resemblance between this king and the stow- away. The story itself is apparently an old Indian folk tale.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.53/page13.jpg)
 
 - #### Panel 4
 
@@ -68,11 +86,15 @@ Third story in anthology, "Worlds' End"
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.53/page14.jpg)
+
 - #### Panel 3
 
   The phrase "Golden Road to Samarkand" turns up in the works of British poet James Elroy Flecker. I haven't been able to find this specific passage, though.
 
 ### Page 22
+
+> [!THUMBNAIL] ![](thumbnails/sandman.53/page22.jpg)
 
 - #### Panel 3
 
@@ -80,11 +102,15 @@ Third story in anthology, "Worlds' End"
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.53/page23.jpg)
+
 - #### Panel 3
 
   In the Kindly Ones arc, Hob Gadling mentions a previous wife of his called Peggy. (Don't have the exact reference.) Could "Jim" be the same person he mentions?
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.53/page24.jpg)
 
 - #### Panel 2
 

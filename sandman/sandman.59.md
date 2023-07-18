@@ -2,9 +2,13 @@
 
 ## Issue 59: "The Kindly Ones: 3"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.59/page00.jpg)
+
 ##### Neil Gaiman, Marc Hempel, D'Israeli
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.59/page01.jpg)
 
 - #### Panel 1
 
@@ -28,11 +32,15 @@
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.59/page03.jpg)
+
 - #### Panel 6
 
   The phoenix, of course, was a magical bird. At the end of its life it would build a pyre for itself and die in the flames to be reborn from the ashes.
 
 ### Page 4
+
+> [!THUMBNAIL] ![](thumbnails/sandman.59/page04.jpg)
 
 - #### Panel 3
 
@@ -40,11 +48,15 @@
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.59/page05.jpg)
+
 - #### Panel 1
 
   As we learn a few pages from now, this is the return of Dream's immortal friend Hob Gadling. His most recent appearance was in issue 53, although his cameo in issue 22 is chronologically later.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.59/page08.jpg)
 
 - #### Panel 1
 
@@ -52,17 +64,23 @@
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.59/page09.jpg)
+
 - #### Panel 4
 
   Another trio of women...
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.59/page12.jpg)
+
 - #### Panel 1
 
   Note Hob Gadling in the background from page 8 panel 4. This is a bit odd, as the pictures in Despair's realm are supposedly all the backs of mirrors; there certainly was no mirror there in the cemetery.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.59/page13.jpg)
 
 - #### Panel 1
 
@@ -74,6 +92,8 @@
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.59/page14.jpg)
+
 - #### Panel 1
 
   This settles a minor controversy about "The Season of Mists" part 1. Dream is holding a miniature version of the skull of The Corinthian, one of the escaped dreams from "The Doll's House".
@@ -83,6 +103,8 @@
   Note, not _can_ not...
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.59/page17.jpg)
 
 Note the multiples of 3: 9 cents in the sign in panel 2; 9 cents in panel 3; 6 cents in panel 4; and the Triple Goddess on the cover of "People":
 
@@ -94,17 +116,23 @@ Madonna, Roseanne Arnold, and Queen Elizabeth.
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.59/page18.jpg)
+
 - #### Panel 1
 
   An echo of Daniel's appearance in the story, "The Parliament of Rooks"?
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.59/page23.jpg)
+
 - #### Panel 5
 
   Hempel is redrawing 12:23:5 -- just coincidence of numbering, I wonder?
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.59/page24.jpg)
 
 - #### Panel 2
 

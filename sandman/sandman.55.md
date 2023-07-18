@@ -2,11 +2,15 @@
 
 ## Issue 55: "Cerements"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page00.jpg)
+
 Fifth story in anthology, "Worlds' End"
 
 ##### Neil Gaiman, Shea Anton Pensa, Vince Locke, Bryan Talbot, Mark Buckingham
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page01.jpg)
 
 - #### Panel 6
 
@@ -14,15 +18,21 @@ Fifth story in anthology, "Worlds' End"
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page02.jpg)
+
 - #### Panel 8
 
   "Petrefax" is Latin-derived, and means either "one who turns things to stone" or else "thing made of stone". "Kyrielle" is from the Greek "Kyrie", "Lord". "Eucrasia" is an obsolete medical term for "good health" and derives from Greek "eu", "good" and either "krasis", "mixture", or "krasi", "temperature".
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page04.jpg)
+
 Earth, Fire, Water and Air (or sometimes Wind), were four of the Five Elements in medieval times. The _Fifth_ Element (which is also referenced in the film of the same name), is variously named as Life, Quintessence ("fifth essence" in Latin), or The Void (in Miyamoto Musashi's Go Rin No Sho, or The Book of Five Rings). Naturally, the Necropolitans would also bury their "Clients" in accordance to the Five Elements (with Mummification replacing Life /The Void/Quintessence).
 
 ### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page05.jpg)
 
 - #### Panel 2
 
@@ -30,11 +40,15 @@ Earth, Fire, Water and Air (or sometimes Wind), were four of the Five Elements i
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page07.jpg)
+
 - #### Panel 1
 
   Air burial is practiced in Tibet, just as we see it depicted here, including the eating afterwards, although not the storytelling.
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page09.jpg)
 
 - #### Panel 3
 
@@ -46,11 +60,15 @@ Earth, Fire, Water and Air (or sometimes Wind), were four of the Five Elements i
 
 ### Page 12
 
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page12.jpg)
+
 - #### Panel 4
 
   Ironic that Scutt's family should have to hang him (albeit about the chest) in order to prevent him from being hung (from the neck).
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page14.jpg)
 
 - #### Panel 3
 
@@ -58,11 +76,15 @@ Earth, Fire, Water and Air (or sometimes Wind), were four of the Five Elements i
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page15.jpg)
+
 - #### Panel 4
 
   And here, a story within a story within a story within a story.
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page16.jpg)
 
 - #### Panel 1
 
@@ -70,11 +92,15 @@ Earth, Fire, Water and Air (or sometimes Wind), were four of the Five Elements i
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page17.jpg)
+
 - #### Panel 2
 
   "Sithcundman" is an old title of rank for a king's companion, probably Old English.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page19.jpg)
 
 - #### Panel 2
 
@@ -86,17 +112,23 @@ Earth, Fire, Water and Air (or sometimes Wind), were four of the Five Elements i
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page20.jpg)
+
 - #### Panel 1
 
   **A recursion**: the fourth-level story is identical to the top-level framing tale.
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page21.jpg)
+
 - #### Panel 4
 
   Somewhat reminiscent of Exodus 4:6-7, in which Moses' hand is transformed and then restored as a proof of God's power.
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page23.jpg)
 
 - #### Panel 7
 
@@ -107,6 +139,8 @@ Earth, Fire, Water and Air (or sometimes Wind), were four of the Five Elements i
   So in this case, _Bagulkal_ could be the name of the entity guarding the cerements (on page 20.)
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.55/page24.jpg)
 
 - #### Panel 7
 

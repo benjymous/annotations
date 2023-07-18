@@ -2,17 +2,23 @@
 
 ## Issue 54: "The Golden Boy"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page00.jpg)
+
 ##### Neil Gaiman, Michael Allred, Bryan Talbot, Mark Buckingham
 
 Fourth story in anthology, "Worlds' End"
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page02.jpg)
+
 - #### Panel 1
 
   These are the Emperor, the Empress, and their Fool, from issue four of the "Books of Magic" miniseries. Based on cards in the Tarot deck, they were archetypes, composites of many souls. They lived in a castle so far in the future that time itself had nearly ended. Sort of appropriate that they would turn up at the Inn of the Worlds' End.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page03.jpg)
 
 - #### Panel 1
 
@@ -32,6 +38,8 @@ This continues the religious theme in this issue.
 
 ### Page 4
 
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page04.jpg)
+
 - #### Panel 3
 
   This parallels a traditional story of Jesus' boyhood, which had him discussing the Torah with the rabbis of Nazareth.
@@ -42,15 +50,21 @@ This continues the religious theme in this issue.
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page05.jpg)
+
 - #### Panel 4
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page06.jpg)
 
 - #### Panel 5:
 
   This parallels a story in which Satan tempts Jesus, found in chapter 4 of Matthew and Luke.
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page07.jpg)
 
 - #### Panel 2
 
@@ -62,11 +76,15 @@ This continues the religious theme in this issue.
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page08.jpg)
+
 - #### Panel 3
 
   When Nixon's tape recordings of office conversations were transcribed for the Watergate hearings, the frequently-used swear words were all replaced with "[expletive deleted]".
 
 ### Page 9
+
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page09.jpg)
 
 - #### Panel 5
 
@@ -75,6 +93,8 @@ This continues the religious theme in this issue.
   I think this panel is actually a reference to the various miracles performed by Jesus during His time on Earth. (E.g. giving sight to the blind, giving hearing to the deaf, curing disease, etc.)
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page10.jpg)
 
 - #### Panel 2
 
@@ -94,6 +114,8 @@ This continues the religious theme in this issue.
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page13.jpg)
+
 - #### Panel 3
 
   Reportedly, President WIlliam McKinley, on being shot, said of his assassin, "Let no one hurt him."
@@ -104,6 +126,8 @@ This continues the religious theme in this issue.
 
 ### Page 14
 
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page14.jpg)
+
 - #### Panel 1
 
   The woman is the Vice President. There's some disagreement about whether or not she is Prez's mother. In the original series she had a penchant for speaking in rhyme.
@@ -113,6 +137,8 @@ This continues the religious theme in this issue.
   These "wafflestomper" hiking boots were popular in the mid-'70s. (I had a pair myself.)
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page15.jpg)
 
 - #### Panel 3
 
@@ -125,11 +151,15 @@ This continues the religious theme in this issue.
 
 ### Page 16
 
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page16.jpg)
+
 - #### Panel 1
 
   No, no, that's Prez Rickard, not Norton.
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page17.jpg)
 
 - #### Panels 1-3:
 
@@ -157,6 +187,8 @@ This continues the religious theme in this issue.
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page18.jpg)
+
 - #### Panel 3
 
   Given all the smiley faces, this visual reference to _Watchmen_ was surely inevitable.
@@ -167,11 +199,15 @@ This continues the religious theme in this issue.
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page19.jpg)
+
 - #### Panel 5
 
   As was mentioned in the "Orpheus" special, we all meet Death when we are born.
 
 ### Page 20
+
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page20.jpg)
 
 - #### Panel 4
 
@@ -185,11 +221,15 @@ This continues the religious theme in this issue.
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page21.jpg)
+
 - #### Panel 2
 
   A reference to the parable of the talents; specifically Matthew 25:21.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.54/page24.jpg)
 
 - #### Panel 1
 

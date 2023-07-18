@@ -2,9 +2,13 @@
 
 ## Issue 60: "The Kindly Ones: 4"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.60/page00.jpg)
+
 ##### Neil Gaiman, Marc Hempel, Disraeli
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.60/page01.jpg)
 
 - #### Panel 1
 
@@ -13,6 +17,8 @@
 **This issue**: an electrical cord going into a manhole. The man is the angel Remiel, who was last seen at the end of "The Season of Mists", [issue #28](sandman.28.md). **Note the shadow**: his feet do not quite touch the ground.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.60/page02.jpg)
 
 - #### Panel 3
 
@@ -24,11 +30,15 @@
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.60/page05.jpg)
+
 - #### Panel 6
 
   Reportedly this speech is paraphrased from Sir Walter Raleigh. Raleigh, however, said "regrets" rather than "consequences".
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.60/page06.jpg)
 
 - #### Panel 5
 
@@ -44,9 +54,13 @@ I don't recognize either of these characters.
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.60/page10.jpg)
+
 This is "Puss in Boots". I don't have on me a specific reference to her story.
 
 ### Page 12
+
+> [!THUMBNAIL] ![](thumbnails/sandman.60/page12.jpg)
 
 - #### Panel 3
 
@@ -58,11 +72,15 @@ This is "Puss in Boots". I don't have on me a specific reference to her story.
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.60/page13.jpg)
+
 - #### Panel 9
 
   This is the first of a number of references to Rose's looking younger than her true age. There's been speculation that she's stopped aging because of giving away her heart at the end of "The Doll's House"; in many tales a being who takes out their heart and hides it gains immortality. Gaiman's own character Mad Hettie (see [issue #3](sandman.03.md), and the "Death" miniseries) has done so.
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.60/page14.jpg)
 
 - #### Panel 3
 
@@ -73,6 +91,8 @@ This is "Puss in Boots". I don't have on me a specific reference to her story.
   Montel Williams is an LA-area talk show host. "Vixen LaBitch" is fictional, as far as I know. Her dialogue refers to accusations of child molestation leveled against pop star Michael Jackson: one of his hit songs from the mid-'80s, "Billie Jean", had a line, "The kid is not my son"; "Beat It" was another hit song from the same album, but LaBitch is using the phrase as a slang term for masturbation.
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.60/page15.jpg)
 
 - #### Panel 2
 
@@ -90,6 +110,8 @@ This is "Puss in Boots". I don't have on me a specific reference to her story.
 
 ### Page 16
 
+> [!THUMBNAIL] ![](thumbnails/sandman.60/page16.jpg)
+
 - #### Panel 4
 
   **An echo**: these two women are dressed the same as Chantal and Zelda, two characters from "The Doll's House".
@@ -100,11 +122,15 @@ This is "Puss in Boots". I don't have on me a specific reference to her story.
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.60/page17.jpg)
+
 - #### Panel 5
 
   These three are the Hesperides, another trio of women from Greek myth. Retrieving apples from their garden was one of the labors of Hercules. In some tales the Gorgons did in fact live near this garden.
 
 ### Page 18
+
+> [!THUMBNAIL] ![](thumbnails/sandman.60/page18.jpg)
 
 - #### Panel 2
 
@@ -116,11 +142,15 @@ This is "Puss in Boots". I don't have on me a specific reference to her story.
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.60/page20.jpg)
+
 - #### Panel 4
 
   We've seen this chest before, in 27:20:1-2. The contents are the same: a pocket watch (perhaps Prez's?); Haroun al-Raschid's magical Baghdad; the demon Azazel, pent in a bottle; and the skull of the Corinthian.
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.60/page21.jpg)
 
 - #### Panel 2
 

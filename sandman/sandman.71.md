@@ -2,9 +2,13 @@
 
 ## Issue 71: "In Which a Wake is Held"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page00.jpg)
+
 ##### Neil Gaiman, Michael Zulli
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page01.jpg)
 
 - #### Panel 3
 
@@ -16,6 +20,8 @@
 
 ### Page 2
 
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page02.jpg)
+
 - #### Panel 1
 
   The shadowed man at the far left may be intended to be Zulli.
@@ -25,6 +31,8 @@
   This echoes "A Game of You" part 2 ([issue #33](sandman.33.md)), in which people's tears were drawn in black, giving an impression that their eyes had been pecked out.
 
 ### Page 3
+
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page03.jpg)
 
 - #### Panel 1
 
@@ -36,11 +44,15 @@
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page05.jpg)
+
 - #### Panel 1
 
   This seems to be a gathering of four of Dream's old loves: Calliope, the Thessalian witch, reincarnated Nada, and Queen Titania.
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page07.jpg)
 
 - #### Panel 3
 
@@ -48,11 +60,15 @@
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page10.jpg)
+
 - #### Panel 1
 
   Mad Hettie was last seen in this series in 3:5.4, although she played a major role in the _Death; The High Cost of Living_ miniseries.
 
 ### Page 13
+
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page13.jpg)
 
 - #### Panel 1
 
@@ -64,11 +80,15 @@
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page15.jpg)
+
 - #### Panel 5
 
   Readers of Alan Moore's _Swamp Thing_ know that when Matthew was a man he was possessed of immense power. (Non-readers of Alan Moore's _Swamp Thing_ are missing out big-time.)
 
 ### Page 16
+
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page16.jpg)
 
 - #### Panel 6
 
@@ -76,17 +96,23 @@
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page17.jpg)
+
 - #### Panel 3
 
   Rose's brother Jed was last seen at the end of "The Doll's House". (16:20.8) His appearance here seems reminiscent of Shaggy in the cartoon series "Scooby Doo", although this may not be intentional.
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page18.jpg)
+
 - #### Panel 4
 
   See the '70s Jack Kirby _Sandman_ series and part 3 of "The Doll's House" ([issue #12](sandman.12.md)) for details.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page19.jpg)
 
 - #### Panel 3
 
@@ -98,11 +124,15 @@
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page20.jpg)
+
 - #### Panel 1
 
   Unlike other artists, Zulli seems to draw the Thessalian's glasses as having no prescription.
 
 ### Page 22
+
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page22.jpg)
 
 - #### Panel 1
 
@@ -122,11 +152,15 @@
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page23.jpg)
+
 - #### Panel 4
 
   According to report, there is a proverbial phrase, "I'll wear a red dress at your funeral". The meaning of this phrase is not quite clear.
 
 ### Page 24
+
+> [!THUMBNAIL] ![](thumbnails/sandman.71/page24.jpg)
 
 - #### Panel 5
 

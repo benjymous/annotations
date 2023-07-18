@@ -2,9 +2,13 @@
 
 ## Issue 62: "The Kindly Ones: 6"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.62/page00.jpg)
+
 ##### Neil Gaiman, Glyn Dillon, Charles Vess, Dean Ormston, D'Israeli
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.62/page01.jpg)
 
 - #### Panel 1
 
@@ -15,6 +19,8 @@
   This whole opening sequence, with Rose waking up uncomfortably on a plane to England and being met by a lawyer holding a sign, echoes Rose's first appearance in [issue #10](sandman.10.md).
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.62/page02.jpg)
 
 - #### Panel 4
 
@@ -28,6 +34,8 @@
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.62/page03.jpg)
+
 - #### Panel 3
 
   The 1989 film _Awakenings_, based on a book by neurologist Oliver Sacks. In the text page of issue [#4](sandman.04.md), Gaiman mentions the book as one of his influences in creating the series.
@@ -37,6 +45,8 @@
   Wych Cross is of course the town where Lady Johanna Constantine resided, and where centuries later Dream was imprisoned. This is a minor retcon, as there was no previous indication that Unity Kinkaid's nursing home was anywhere near it. The inn called the "White Hart" may be a reference to a book by Arthur C. Clarke; then again it may just be a common name for an inn.
 
 ### Page 4
+
+> [!THUMBNAIL] ![](thumbnails/sandman.62/page04.jpg)
 
 - #### Panel 1
 
@@ -56,11 +66,15 @@
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.62/page05.jpg)
+
 - #### Panel 4
 
   Of course, three. What other number could be chosen?
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.62/page06.jpg)
 
 - #### Panel 7
 
@@ -68,11 +82,15 @@
 
 ### Page 7
 
+> [!THUMBNAIL] ![](thumbnails/sandman.62/page07.jpg)
+
 - #### Panel 2
 
   ...and here she finds somebody else.
 
 ### Page 8
+
+> [!THUMBNAIL] ![](thumbnails/sandman.62/page08.jpg)
 
 - #### Panel 2
 
@@ -98,9 +116,13 @@
 
 ### Page 10
 
+> [!THUMBNAIL] ![](thumbnails/sandman.62/page10.jpg)
+
 For those who don't read letter columns (or who will read this story in book format): the story that follows is not Gaiman's invention, but can be found in somewhat different form in _The Penguin Book of English Folk Tales_.
 
 ### Page 19
+
+> [!THUMBNAIL] ![](thumbnails/sandman.62/page19.jpg)
 
 - #### Panel 1-2
 
@@ -113,6 +135,8 @@ For those who don't read letter columns (or who will read this story in book for
   The most effective method of lying, of course, is to tell the truth in such a way that you are not believed.
 
 ### Page 20
+
+> [!THUMBNAIL] ![](thumbnails/sandman.62/page20.jpg)
 
 - #### Panel 4
 
@@ -128,11 +152,15 @@ For those who don't read letter columns (or who will read this story in book for
 
 ### Page 21
 
+> [!THUMBNAIL] ![](thumbnails/sandman.62/page21.jpg)
+
 - #### Panel 2
 
   The owl was the familiar of Athena, Greek goddess of wisdom.
 
 ### Page 22
+
+> [!THUMBNAIL] ![](thumbnails/sandman.62/page22.jpg)
 
 - #### Panel 1
 
@@ -153,6 +181,8 @@ For those who don't read letter columns (or who will read this story in book for
   Note the Piglet doll in bed with him. The picture by the bed is of Ethel Cripps, the mistress of Alex's father Roderick. The picture's been seen in [1](sandman.01.md):15:4 and [7](sandman.07.md):9:4. Of the books in the bookcase, "Good Omens" is of course the collaboration between Neil Gaiman and Terry Pratchett; "The Doll's House" is by Ibsen and echoes Rose's previous story; "To Kill" is probably "To Kill a Mockingbird", by Harper Lee; no refs on "Fish Paste" or "Timularo".
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.62/page23.jpg)
 
 - #### Panel 3
 

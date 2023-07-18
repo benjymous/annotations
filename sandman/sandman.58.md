@@ -2,17 +2,23 @@
 
 ## Issue 58: "The Kindly Ones: 2"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.58/page00.jpg)
+
 ##### Neil Gaiman, Marc Hempel, D'Israeli
 
 **Cover**: Benjamin Disraeli (1804-1881) was Earl of Beaconsfield and Prime Minister of England. The inker's pen name is probably derived from him, although he did not spell his name with an apostrophe.
 
 ### Page 1
 
+> [!THUMBNAIL] ![](thumbnails/sandman.58/page01.jpg)
+
 - #### Panel 4
 
   Evidently he was rocking the boat...
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.58/page02.jpg)
 
 - #### Panel 7
 
@@ -22,11 +28,15 @@ Gaiman and Pinkwater have been known to hang out on each other's discussion fora
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.58/page05.jpg)
+
 - #### Panel 3
 
   Cluracan was of course last seen in issue 56; his sister Nuala in issue 52.
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.58/page07.jpg)
 
 - #### Panels 3-5
 
@@ -34,11 +44,15 @@ Gaiman and Pinkwater have been known to hang out on each other's discussion fora
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.58/page09.jpg)
+
 - #### Panel 4
 
   In an interview in "Comics Buyers Guide" Gaiman states that the story of Cluracan's nemesis isn't going to be resolved before the title ends. Sigh...
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.58/page11.jpg)
 
 - #### Panel 7
 
@@ -49,6 +63,8 @@ Gaiman and Pinkwater have been known to hang out on each other's discussion fora
 In Jungian psychology, if you have a dream in which you go down to a basement, it means that you are confronting something from your subconscious. Here, Lyta is confronting the fact that her son may be dead. (C.f. Rose's dream in #65, 5, 7.)
 
 ### Page 14
+
+> [!THUMBNAIL] ![](thumbnails/sandman.58/page14.jpg)
 
 - #### Panel 6
 
@@ -98,6 +114,8 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.58/page15.jpg)
+
 - #### Panel 1
 
   Granddaughter on the mother's side, most likely...
@@ -108,11 +126,15 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
 ### Page 17
 
+> [!THUMBNAIL] ![](thumbnails/sandman.58/page17.jpg)
+
 - #### Panel 3
 
   **Dragnet**: A radio show, then a television show, purporting to dramatize actual cases of the LA police department.
 
 ### Page 18
+
+> [!THUMBNAIL] ![](thumbnails/sandman.58/page18.jpg)
 
 - #### Panel 3
 
@@ -120,11 +142,15 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.58/page19.jpg)
+
 - #### Panel 6
 
   No refs on any of Cluracan's titles...
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.58/page21.jpg)
 
 - #### Panel 3
 
@@ -132,11 +158,11 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
 ### Page 23
 
+> [!THUMBNAIL] ![](thumbnails/sandman.58/page23.jpg)
+
 - #### Panel 7
 
   Nuala's crystal in was given her by the last Dream's lover as seen in [issue #42](sandman.42.md) page 4, panel 5.
-
-### Page 23
 
 - #### Panel 9
 

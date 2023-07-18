@@ -2,9 +2,13 @@
 
 ## Issue 64: "The Kindly Ones: 8"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.64/page00.jpg)
+
 ##### Neil Gaiman, Teddy Kristiansen
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.64/page01.jpg)
 
 - #### Panel 1
 
@@ -19,6 +23,8 @@
   Arabic(?) myth gives the name "salamander" to elemental fire spirits, reptilian in form.
 
 ### Page 2
+
+> [!THUMBNAIL] ![](thumbnails/sandman.64/page02.jpg)
 
 - #### Panel 1
 
@@ -36,6 +42,8 @@
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.64/page03.jpg)
+
 - #### Panel 1
 
   Dream is in the process of creating this nightmare in 11:10.
@@ -45,6 +53,8 @@
   "Via lacrimae" is Latin for "road of tears". Quite what the significance is I'm not sure.
 
 ### Page 4
+
+> [!THUMBNAIL] ![](thumbnails/sandman.64/page04.jpg)
 
 - #### Panel 1
 
@@ -56,11 +66,15 @@
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.64/page05.jpg)
+
 - #### Panel 2
 
   A fairy-tale has seven princes transformed into swans. They are restored using jackets made of nettles; but there aren't enough nettles to complete all of the jackets, so the youngest brother is left with a swan's wing instead of an arm.
 
 ### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.64/page06.jpg)
 
 - #### Panel 1
 
@@ -76,11 +90,15 @@
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.64/page09.jpg)
+
 - #### Panel 5
 
   **Domesday Book**: A census of British holdings taken by the Normans shortly after their conquest in 1066.
 
 ### Page 10
+
+> [!THUMBNAIL] ![](thumbnails/sandman.64/page10.jpg)
 
 - #### Panel 1
 
@@ -88,17 +106,23 @@
 
 ### Page 11
 
+> [!THUMBNAIL] ![](thumbnails/sandman.64/page11.jpg)
+
 - #### Panel 3
 
   An echo of "Brief Lives" part 4 -- 44:20.
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.64/page13.jpg)
+
 - #### Panel 2
 
   Ruby's death in "Brief Lives", of course, and the destruction of Nada's city.
 
 ### Page 15
+
+> [!THUMBNAIL] ![](thumbnails/sandman.64/page15.jpg)
 
 - #### Panel 2
 
@@ -110,9 +134,13 @@
 
 ### Page 18
 
+> [!THUMBNAIL] ![](thumbnails/sandman.64/page18.jpg)
+
 According to report, Hecate was shown in statues as a trio of women; one holding a whip, one holding a sword, and the center holding a torch.
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.64/page21.jpg)
 
 - #### Panel 2
 
@@ -120,11 +148,15 @@ According to report, Hecate was shown in statues as a trio of women; one holding
 
 ### Page 22
 
+> [!THUMBNAIL] ![](thumbnails/sandman.64/page22.jpg)
+
 - #### Panel 2
 
   Lamb stew, eh? Well, once you've let the animal's spirit free, no sense in wasting its body, I suppose. "John Bauer" is most likely the artist from around the turn of the century, known for illustrating Swedish fairy tales such as "In the Troll Wood".
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.64/page23.jpg)
 
 - #### Panel 2
 

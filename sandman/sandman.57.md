@@ -2,6 +2,8 @@
 
 ## Issue 57: "The Kindly Ones: 1"
 
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page00.jpg)
+
 ##### Neil Gaiman, Marc Hempel
 
 **The Kindly Ones**: Translation of Greek "Eumenides". Terrifying hags who pursue those who slay their own kin; really named "Furies", called "kindly" as a euphemism. As with many Greek myths, exact details vary: Aeschylus had a whole chorus of them; other sources number them at exactly three and name them Tisiphone, Alecto, and Megaera. Gaiman follows this version; we see exactly three Furies in Hades in the "Song of Orpheus" -- unsurprising, given the recurring Triple Goddess character. In "Three Septembers and a January" Desire vows to bring the Kindly Ones down on Dream's head (31:21:5), and it's implied in "The Doll's House" that if Dream had killed his great-niece Rose Walker this would have happened. Now Dream has killed his son Orpheus...
@@ -11,6 +13,8 @@
 **A note on layout**: this arc is dedicated to an aspect of the Triple Goddess; the page layouts are almost entirely based on a six- or nine-panel grid. Six and nine are, of course, multiples of three.
 
 ### Page 1
+
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page01.jpg)
 
 Here we see the Triple Goddess, as we have before, in the aspect of the witches from the old "Witching Hour" series, which is also the aspect of the Fates from Greek myth.
 
@@ -26,11 +30,15 @@ The first panel of each installment of "The Kindly Ones" until the tenth has som
 
 ### Page 3
 
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page03.jpg)
+
 - #### Panel 6
 
   Specifically in 21:2:4. In this, the last long _Sandman_ arc, there are many echoes of the past: old characters return, and things seen before recur. Loose ends are tied up (or snipped off!) as the story draws to a close.
 
 ### Page 4
+
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page04.jpg)
 
 - #### Panel 5
 
@@ -46,17 +54,23 @@ The first panel of each installment of "The Kindly Ones" until the tenth has som
 
 ### Page 5
 
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page05.jpg)
+
 - #### Panel 4
 
   **An echo**: this man looks very similar to Andros, the priest of Orpheus, from "Brief Lives". He even has red flowers such as sprouted where Orpheus' blood touched the ground. It seems rather unlikely that it is actually him, though.
 
 ### Page 6
 
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page06.jpg)
+
 - #### Panel 4
 
   The Baskin-Robbins chain of ice cream stores advertises "31 Flavors". The store Lyta and Carla visit has 57; this may be an amalgamation with Heinz Co.'s "57 varieties" of tomato products. Note that 57 is a multiple of 3 where 31 is not.
 
 ### Page 7
+
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page07.jpg)
 
 - #### Panel 5
 
@@ -68,21 +82,29 @@ The first panel of each installment of "The Kindly Ones" until the tenth has som
 
 ### Page 8
 
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page08.jpg)
+
 - #### Panel 1
 
   The title page of each installment of "The Kindly Ones" features a character approaching another's dwelling, frequently after some sort of separation or estrangement. Here Matthew approaches Dream's castle to speak to him.
 
 ### Page 9
 
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page09.jpg)
+
 This sequence, where Matthew visits each of the characters in the Dreaming in turn, is oddly reminiscent of the story in the "Vertigo Jam".
 
 ### Page 11
+
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page11.jpg)
 
 - #### Panel 3
 
   Note the crescent moon, a female symbol. The women in this story are frequently accompanied by them.
 
 ### Page 12
+
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page12.jpg)
 
 - #### Panel 1
 
@@ -97,17 +119,23 @@ This sequence, where Matthew visits each of the characters in the Dreaming in tu
 
 ### Page 13
 
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page13.jpg)
+
 - #### Panel 4
 
   **An echo**: the Corinthian played a large role in "The Doll's House". In 14:35:4 Dream said he would remake him.
 
 ### Page 15
 
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page15.jpg)
+
 - #### Panel 6
 
   Aristeas of Marmora -- referenced in Issue 30 (see annotations for Issue 30)
 
 ### Page 17
+
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page17.jpg)
 
 - #### Panel 1
 
@@ -118,6 +146,8 @@ This sequence, where Matthew visits each of the characters in the Dreaming in tu
   Alan Moore's short story "A Hypothetical Lizard" begins, "Half her face was porcelain." Of course, in that story it was the right half, not the left.
 
 ### Page 18
+
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page18.jpg)
 
 - #### Panel 1
 
@@ -135,6 +165,8 @@ This sequence, where Matthew visits each of the characters in the Dreaming in tu
 
 ### Page 19
 
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page19.jpg)
+
 - #### Panel 7
 
   Before the changes made to DC Universe continuity by the "Crisis on Infinite Earths", Lyta was a character on Earth-2, the daughter of that Earth's Wonder Woman and Steve Trevor. Currently there exists only one Earth, and only one Wonder Woman. Roy Thomas created a new but similar character for the series "The Young All-Stars": the "Golden Age Fury", who received power from the Furies. Current continuity is as given in the next few panels.
@@ -147,6 +179,8 @@ This sequence, where Matthew visits each of the characters in the Dreaming in tu
 
 ### Page 20
 
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page20.jpg)
+
 - #### Panel 1
 
   The group was "Infinity, Inc.", and had its own series.
@@ -156,6 +190,8 @@ This sequence, where Matthew visits each of the characters in the Dreaming in tu
   Well, hey. Superheroes lead strange lives.
 
 ### Page 21
+
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page21.jpg)
 
 - #### Panel 2
 
@@ -170,6 +206,8 @@ This sequence, where Matthew visits each of the characters in the Dreaming in tu
   The song is called "Sit Down, You're Rocking the Boat". It's from the musical "Guys and Dolls"; music and lyrics by Frank Loesser. Two notable lines not quoted: "And the Devil will drag you under/By the sharp lapel on your checkered coat".
 
 ### Page 23
+
+> [!THUMBNAIL] ![](thumbnails/sandman.57/page23.jpg)
 
 - #### Panel 3
 
