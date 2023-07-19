@@ -109,8 +109,8 @@
 ## Specials and Short Stories
 
 [![fear of falling](thumbnails/sandman-vertigopreview/page03.jpg)](sandman-vertigopreview.md)
-[![the castle](thumbnails/sandman-vertigojam1/page01.jpg)](sandman-vertigojam1.md)
 [![the song of orpheus](thumbnails/sandman-special1/page00.jpg)](sandman-special1.md)
 [![the flowers of romance](thumbnails/sandman-flowers-romance/page01.jpg)](sandman-flowers-romance.md)
 [![death a winter's tale](thumbnails/sandman-death-winter/page01.jpg)](sandman-death-winter.md)
 [![how they met themselves](thumbnails/sandman-how-met/page01.jpg)](sandman-how-met.md)
+[![the castle](thumbnails/sandman-vertigojam1/page01.jpg)](sandman-vertigojam1.md)
