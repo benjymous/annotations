@@ -126,7 +126,7 @@ For those who don't read letter columns (or who will read this story in book for
 
 - #### Panel 1-2
 
-  There's been speculation on the net that this "Helena" is Helena Kosmatos, the Golden Age Fury and (post-Crisis at least) Lyta Hall's lost mother. If so, it would fit in with the difficulty of saying her last name. Certainly the actions described here are those one would expect of a Fury. Also, there is some resemblance to the photo in 57:19:8.
+  There's been speculation on the net that this "Helena" is Helena Kosmatos, the Golden Age Fury and (post-Crisis at least) Lyta Hall's lost mother. If so, it would fit in with the difficulty of saying her last name. Certainly the actions described here are those one would expect of a Fury. Also, there is some resemblance to the photo in [57:19](sandman.57.md#page-19).8.
 
   Note the women's names. The Greek writers who portrayed the Furies as a trio of women named them Tisiphone, Alecto, and Megaera. Amelia -- Alecto; Magda -- Megaera; and the Golden Age Fury was shown as receiving her powers specifically from Tisiphone.
 
@@ -140,15 +140,15 @@ For those who don't read letter columns (or who will read this story in book for
 
 - #### Panel 4
 
-  Unity Kinkaid gave Rose this ring in "The Doll's House" part 1 -- specifically 10:23:4.
+  Unity Kinkaid gave Rose this ring in "The Doll's House" part 1 -- specifically [10:23](sandman.10.md#page-23).4.
 
 - #### Panel 5
 
-  This is 10:23:5 reproduced.
+  This is [10:23](sandman.10.md#page-23).5 reproduced.
 
 - #### Panel 7-8
 
-  When Rose encounters the Hecateae we also see an owl and a pussycat; the owl here in particular echoes the one in 10:20:1.
+  When Rose encounters the Hecateae we also see an owl and a pussycat; the owl here in particular echoes the one in [10:20](sandman.10.md#page-20):1.
 
 ### Page 21
 
@@ -178,7 +178,7 @@ For those who don't read letter columns (or who will read this story in book for
 
   Alex Burgess, too, was last seen at the end of issue [#1](sandman.01.md).
 
-  Note the Piglet doll in bed with him. The picture by the bed is of Ethel Cripps, the mistress of Alex's father Roderick. The picture's been seen in [1](sandman.01.md):15:4 and [7](sandman.07.md):9:4. Of the books in the bookcase, "Good Omens" is of course the collaboration between Neil Gaiman and Terry Pratchett; "The Doll's House" is by Ibsen and echoes Rose's previous story; "To Kill" is probably "To Kill a Mockingbird", by Harper Lee; no refs on "Fish Paste" or "Timularo".
+  Note the Piglet doll in bed with him. The picture by the bed is of Ethel Cripps, the mistress of Alex's father Roderick. The picture's been seen in [1:15](sandman.01.md#page-15).4 and [7:9](sandman.07.md#page-9).4. Of the books in the bookcase, "Good Omens" is of course the collaboration between Neil Gaiman and Terry Pratchett; "The Doll's House" is by Ibsen and echoes Rose's previous story; "To Kill" is probably "To Kill a Mockingbird", by Harper Lee; no refs on "Fish Paste" or "Timularo".
 
 ### Page 23
 

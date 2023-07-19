@@ -56,7 +56,7 @@
 
 - #### Panel 3
 
-  This whole scene, as Delirium has noticed, echoes the scene in "Brief Lives" when Dream and Delirium consult Destiny near these statues. (Specifically 47:8-12.) Note the pathway there now resembles a backwards 6 or 9. The statues have also changed; apparently they reflect the current state of their originals.
+  This whole scene, as Delirium has noticed, echoes the scene in "Brief Lives" when Dream and Delirium consult Destiny near these statues. (Specifically [47:8](sandman.47.md#page-8)-12.) Note the pathway there now resembles a backwards 6 or 9. The statues have also changed; apparently they reflect the current state of their originals.
 
 ### Page 11
 
@@ -98,7 +98,7 @@
 
 > [!THUMBNAIL] ![](thumbnails/sandman.63/page17.jpg)
 
-This page echoes Lyta's similar reflections in "The Doll's House" part 3 (12:9). Compare also 61:21:4.
+This page echoes Lyta's similar reflections in "The Doll's House" part 3 ([12:9](sandman.12.md#page-9)). Compare also [61:21](sandman.61.md#page-21).4.
 
 ### Page 18
 

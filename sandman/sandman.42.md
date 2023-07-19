@@ -124,7 +124,7 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
   The female servitor may be another person pulled in from the Dreaming, as in _Season of Mists_, or she may be the Fashion Thing.
 
-  This latter is suggested by the eyepatch (as seen on the other eye in 2:15.1).
+  This latter is suggested by the eyepatch (as seen on the other eye in [2:15](sandman.02.md#page-14-15).1).
 
 ### Page 15
 
@@ -140,7 +140,7 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
 - #### Panel 9
 
-  Note the "brief lives" reference, an example of a common motif. The phrase "copulating desperately" was also used in 5:18.3, in a scene with Mervyn Pumpkinhead.
+  Note the "brief lives" reference, an example of a common motif. The phrase "copulating desperately" was also used in [5:18](sandman.05.md#page-18).3, in a scene with Mervyn Pumpkinhead.
 
 ### 6: _Desire Swears by the First Circle_
 
@@ -170,7 +170,7 @@ Possibly a reference to a Bob Dylan song.
 
 - #### Panel 2
 
-  We know from Sp1:5.4 that Delight had become Delirium by at least Greece's Heroic Age.
+  We know from [Sp1:5](sandman-special1.md#page-5)4 that Delight had become Delirium by at least Greece's Heroic Age.
 
 ### 8: _What Can Possibly Go Wrong?_
 
@@ -182,7 +182,7 @@ A common statement by main characters, inevitably disastrously wrong.
 
 - #### Panel 1
 
-  Note the effect Delirium has had on the Dreaming (see also 41:13.2).
+  Note the effect Delirium has had on the Dreaming (see also [41:13](sandman.41.md#page-13).2).
 
 ### Page 23
 

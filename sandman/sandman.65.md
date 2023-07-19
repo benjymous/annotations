@@ -24,7 +24,7 @@
 
 - #### Panel 1
 
-  This panel continues the theme of showing a house of some sort on the title page. It's also a near-exact echo of 1:1:1.
+  This panel continues the theme of showing a house of some sort on the title page. It's also a near-exact echo of [1:1](sandman.01.md#page-1).1.
 
 - #### Panel 4
 
@@ -66,7 +66,7 @@
 
 - #### Panel 2
 
-  The window in the background was seen in 1:2:2.
+  The window in the background was seen in [1:2](sandman.01.md#page-2).2.
 
 - #### Panel 3
 
@@ -84,7 +84,7 @@
 
 - #### Panel 1
 
-  The copy of _It_ on the floor is no doubt the one that the guard was reading in 1:25:3 and again (six years later) during Dream's escape.
+  The copy of _It_ on the floor is no doubt the one that the guard was reading in [1](sandman.01.md):25.3 and again (six years later) during Dream's escape.
 
 ### Page 7
 
@@ -100,9 +100,9 @@
 
 - #### Panel 1
 
-  Jack Holdaway's line from 64:23:9: "Very perceptive."
+  Jack Holdaway's line from [64:23](sandman.64.md#page-23).9: "Very perceptive."
 
-  In "Brief Lives" part 1 (41:12:5) and part 2 (42:19:4) Desire lights a cigarette with its sigil, a heart. That heart was red, however, and did not have a flip-top.
+  In "Brief Lives" part 1 ([41](sandman.41.md):12.5) and part 2 ([42:19](sandman.42.md#page-19).4) Desire lights a cigarette with its sigil, a heart. That heart was red, however, and did not have a flip-top.
 
 - #### Panel 5
 
@@ -176,7 +176,7 @@ Note the black panel borders. We've seen them only once before, when Lyta met th
 
 - #### Panel 3
 
-  Destiny, in "Brief Lives" part 7. (47:9:4) And so we have confirmation that Thessaly/Larissa was Dream's lover, and an end to the two-year mystery.
+  Destiny, in "Brief Lives" part 7. ([47](sandman.47.md):9.4) And so we have confirmation that Thessaly/Larissa was Dream's lover, and an end to the two-year mystery.
 
 - #### Panel 5
 
@@ -188,7 +188,7 @@ Note the black panel borders. We've seen them only once before, when Lyta met th
 
 - #### Panel 1
 
-  This seems to echo the destruction of the apartment house in "A Game of You" (36:39).
+  This seems to echo the destruction of the apartment house in "A Game of You" ([36:39](sandman.36.md#page-39)).
 
 - #### Panel 4
 

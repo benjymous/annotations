@@ -98,7 +98,7 @@
 
 - #### Panel 2
 
-  Lucifer echoes Loki's words to Carla in 60:24:2. Mazikeen's line: "How _what_ comes out?"
+  Lucifer echoes Loki's words to Carla in [60](sandman.60.md):24.2. Mazikeen's line: "How _what_ comes out?"
 
 - #### Panel 6
 
@@ -170,7 +170,7 @@
 
 - #### Panel 4
 
-  This panel echoes the one we saw in Destiny's book in "Brief Lives" part 7 (47:14:3). Gaiman has said that it is intentionally not precisely the same, which leads to the interesting speculation that the Destiny who survived the reality storm is _not_ the same one that we had seen so many times previously.
+  This panel echoes the one we saw in Destiny's book in "Brief Lives" part 7 ([47:14](sandman.47.md#page-14).3). Gaiman has said that it is intentionally not precisely the same, which leads to the interesting speculation that the Destiny who survived the reality storm is _not_ the same one that we had seen so many times previously.
 
 - #### Panel 5
 
@@ -182,7 +182,7 @@
 
 - #### Panel 1
 
-  This panel, beginning the epilogue to "The Kindly Ones" **echoes another from the prologue to it**: 57:2:2.
+  This panel, beginning the epilogue to "The Kindly Ones" **echoes another from the prologue to it**: [57](sandman.57.md):2.2.
 
 - #### Panel 2
 
@@ -190,19 +190,19 @@
 
 - #### Panel 3
 
-  A double echo. Clotho's dialogue echoes 6:4:1: "She's realized the real problem with stories -- if you keep them going long enough, they always end in death." The panel itself echoes 57:2:1. Except that there the cat was playing with the yarn, not a mouse it had caught and killed.
+  A double echo. Clotho's dialogue echoes [6:4](sandman.06.md#page-4).1: "She's realized the real problem with stories -- if you keep them going long enough, they always end in death." The panel itself echoes [57](sandman.57.md):2.1. Except that there the cat was playing with the yarn, not a mouse it had caught and killed.
 
 - #### Panel 4
 
-  Echoes 57:1:3.
+  Echoes [57:1](sandman.57.md#page-1).3.
 
 - #### Panel 5
 
-  Echoes 57:3:4.
+  Echoes [57:3](sandman.57.md#page-3).4.
 
 - #### Panel 6
 
-  The Gracchae were a trio of women in Greek mythology who had only one eye between them. (It was detachable and they passed it around.) The hero Perseus stole their eye and demanded information about the Gorgons as ransom for its return. The remark also perhaps echoes 63:20:7: "Are you a hand? Or an eye? Or a tooth?"
+  The Gracchae were a trio of women in Greek mythology who had only one eye between them. (It was detachable and they passed it around.) The hero Perseus stole their eye and demanded information about the Gorgons as ransom for its return. The remark also perhaps echoes [63](sandman.63.md):20.7: "Are you a hand? Or an eye? Or a tooth?"
 
 ### Page 24
 
@@ -210,7 +210,7 @@
 
 - #### Panel 6
 
-  Echoes 57:1:1.
+  Echoes [57:1](sandman.57.md#page-1).1.
 
 - #### Panel 7
 

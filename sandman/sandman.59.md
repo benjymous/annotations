@@ -24,7 +24,7 @@
 
   > Or ever the silver cord be loosed, or the golden bowl be broken, or the pitcher be broken at the fountain, or the wheel broken at the cistern.
 
-  The most common interpretation is that "silver cord" here is the spinal cord. Some traditions have posited a "silver cord" as a mystical link between body and soul. Puck's quote is also an echo: the verse from Ecclesiastes was used in the funeral service at the end of "A Game of You" -- 37:17:4.
+  The most common interpretation is that "silver cord" here is the spinal cord. Some traditions have posited a "silver cord" as a mystical link between body and soul. Puck's quote is also an echo: the verse from Ecclesiastes was used in the funeral service at the end of "A Game of You" -- [37:17](sandman.37.md#page-17).4.
 
 - #### Panel 5
 
@@ -84,11 +84,11 @@
 
 - #### Panel 1
 
-  According to 21:10:2, the green one. Just thought you'd like to know.
+  According to [21:10](sandman.21.md#page-10).2, the green one. Just thought you'd like to know.
 
 - #### Panel 2
 
-  Delirium of course acquired Destruction's dog Barnabas (or, equally true, the other way around) in issue 48.
+  Delirium of course acquired Destruction's dog Barnabas (or, equally true, the other way around) in issue [48](sandman.48.md).
 
 ### Page 14
 
@@ -128,7 +128,7 @@ Madonna, Roseanne Arnold, and Queen Elizabeth.
 
 - #### Panel 5
 
-  Hempel is redrawing 12:23:5 -- just coincidence of numbering, I wonder?
+  Hempel is redrawing [12](sandman.12.md):23.5 -- just coincidence of numbering, I wonder?
 
 ### Page 24
 
@@ -136,13 +136,13 @@ Madonna, Roseanne Arnold, and Queen Elizabeth.
 
 - #### Panel 2
 
-  Redrawing 21:13:6, although from a different perspective.
+  Redrawing [21:13](sandman.21.md#page-13).6, although from a different perspective.
 
   Note Morpheus' different appearance when he's being drawn by Kelley Jones as opposed to Mike Dringenberg.
 
 - #### Panel 4
 
-  12:23:7. Dialogue in these three panels is verbatim.
+  [12](sandman.12.md):23.7. Dialogue in these three panels is verbatim.
 
 - #### Panel 6
 

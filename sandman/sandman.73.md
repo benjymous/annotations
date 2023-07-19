@@ -38,7 +38,7 @@ The view shown is the entrance to the Minnesota Renaissance Festival held in Sha
 
 - #### Panel 2
 
-  The bearded man seen here and in the next panel is noted fantasy writer (and friend of Gaiman's) Steven Brust. He was last seen at the Worlds' End Inn -- 56:9.7.
+  The bearded man seen here and in the next panel is noted fantasy writer (and friend of Gaiman's) Steven Brust. He was last seen at the Worlds' End Inn -- [56:9](sandman.56.md#page-9).7.
 
 ### Page 12
 
@@ -78,7 +78,7 @@ The view shown is the entrance to the Minnesota Renaissance Festival held in Sha
 
 - #### Panel 5
 
-  Possibly echoing 6:4.1 -- "If you keep [stories] going long enough, they always end in death."
+  Possibly echoing [6:4](sandman.06.md#page-4).1 -- "If you keep [stories] going long enough, they always end in death."
 
 ## Credits
 

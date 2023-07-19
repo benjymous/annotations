@@ -46,7 +46,7 @@
 
 - #### Panel 1
 
-  Dream is in the process of creating this nightmare in 11:10.
+  Dream is in the process of creating this nightmare in [11:10](sandman.11.md#page-10).
 
 - #### Panel 4
 
@@ -110,7 +110,7 @@
 
 - #### Panel 3
 
-  An echo of "Brief Lives" part 4 -- 44:20.
+  An echo of "Brief Lives" part 4 -- [44:20](sandman.44.md#page-20).
 
 ### Page 13
 

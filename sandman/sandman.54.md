@@ -82,6 +82,8 @@ This continues the religious theme in this issue.
 
   When Nixon's tape recordings of office conversations were transcribed for the Watergate hearings, the frequently-used swear words were all replaced with "[expletive deleted]".
 
+> [!FLOATRIGHT_40PC] ![Prez #1 Cover](images/Prez-1.jpg)
+
 ### Page 9
 
 > [!THUMBNAIL] ![](thumbnails/sandman.54/page09.jpg)
@@ -233,7 +235,9 @@ This continues the religious theme in this issue.
 
 - #### Panel 1
 
-  Among the contents of the chest in 27:20:1 was a pocket watch. Perhaps the same one?
+  Among the contents of the chest in [27:20](sandman.27.md#page-20):1 was a pocket watch. Perhaps the same one?
+
+  This raises an interesting question about the multiverse within the Sandman Universe - _our_ Dream was imprisoned at this point in time, but evidentially the dream of Prez's universe wasn't.  Yet somehow the chest is linked across universes...
 
 - #### Panel 5
 
@@ -249,3 +253,4 @@ This continues the religious theme in this issue.
 - David Silberstein (DASBC@CUNYVM.BITNET) provided the excerpt from the writings of Chuang Tzu.
 - Timothy Hock Seng Tan <083285@bud.cc.swin.edu.au> really knows his way around the Bible.
 - Ralf Hildebrandt added more details.
+- Richard Munn pondered about the multiverse.

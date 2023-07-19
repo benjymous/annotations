@@ -342,7 +342,7 @@ Traditionally, Orpheus died after being torn apart by the Bacchante. His head fl
 
 > [!THUMBNAIL] ![](thumbnails/sandman-special1/page47.jpg)
 
-- #### Panel -3
+- #### Panel 3
 
   Parallelism with the snake that slew Eurydice?
 

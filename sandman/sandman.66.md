@@ -68,7 +68,7 @@
 
 - #### Panel 1
 
-  The name "Menton" showed up in the background chatter when we first saw the Inn of Worlds' End (51:6:6). There is no evidence connecting that Menton with this one, but then there is no evidence to the contrary.
+  The name "Menton" showed up in the background chatter when we first saw the Inn of Worlds' End ([51:6](sandman.51.md#page-6).6). There is no evidence connecting that Menton with this one, but then there is no evidence to the contrary.
 
 - #### Panel 6
 
@@ -102,7 +102,7 @@ Puck mentions the phrase "jot nor tittle." This is a Biblical reference, from Ma
 
 - #### Panel 2
 
-  **These two have appeared twice before**: once in the last part of "Brief Lives" (49:14:1) and once in 58:18:3-5. The rabbit was named Ruthven; we know nothing else about them.
+  **These two have appeared twice before**: once in the last part of "Brief Lives" ([49:14](sandman.49.md#page-14).1) and once in [58:18](sandman.58.md#page-18).3-5. The rabbit was named Ruthven; we know nothing else about them.
 
 - #### Panel 4
 

@@ -24,7 +24,7 @@
 
 - #### Panel 6
 
-  We've seen the destruction of the Ruby and the Rose-Quartz; in 7:17:9 and 36:26:2, respectively.
+  We've seen the destruction of the Ruby and the Rose-Quartz; in [7](sandman.07.md):17.9 and [36](sandman.36.md):26.2, respectively.
 
 ### Page 4
 
@@ -32,7 +32,7 @@
 
 - #### Panel 5
 
-  Probably referring to the gathering in part 1 of "The Season of Mists". (22:8:2)
+  Probably referring to the gathering in part 1 of "The Season of Mists". ([22:8](sandman.22.md#page-8).2)
 
 ### Page 7
 
@@ -56,7 +56,7 @@
 
 - #### Panel 3
 
-  Mary Gentian gets around; we saw her first in upstate New York in 6:12-13; then again in New York City in "A Game of You" part 6 (37:12:8). She may also have been the newscaster on the nighttime news in 58:1:5. She is named for British fantasy writer Mary Gentle, just by the by.
+  Mary Gentian gets around; we saw her first in upstate New York in [6:12-13](sandman.06.md#page-12-13); then again in New York City in "A Game of You" part 6 ([37:12](sandman.37.md#page-12).8). She may also have been the newscaster on the nighttime news in [58:1](sandman.58.md#page-1).5. She is named for British fantasy writer Mary Gentle, just by the by.
 
 ### Page 10
 
@@ -72,7 +72,7 @@
 
 - #### Panels 4-5:
 
-  "The Kindly Ones" has gone on so long that it's started echoing itself. These two panels echo part of Remiel's meeting with Lucifer, 60:4:6-7.
+  "The Kindly Ones" has gone on so long that it's started echoing itself. These two panels echo part of Remiel's meeting with Lucifer, [60:4](sandman.60.md#panel-4).6-7.
 
 - #### Panel 5
 
@@ -84,7 +84,7 @@
 
 - #### Panel 1
 
-  This appears to be the place where Morpheus brought Rose Walker to kill her, in "The Doll's House" part 6 (15:22:5).
+  This appears to be the place where Morpheus brought Rose Walker to kill her, in "The Doll's House" part 6 ([15:22](sandman.15.md#page-22).5).
 
 ### Page 13
 
@@ -108,7 +108,7 @@
 
 - #### Panel 3
 
-  In "The Season of Mists" part 2 (23:20:3-5).
+  In "The Season of Mists" part 2 ([23:20](sandman.23.md#page-19-20).3-5).
 
 ### Page 20
 
@@ -116,7 +116,7 @@
 
 - #### Panel 2
 
-  Death proposed borrowing a book from Lucien in "Brief Lives" part 6 (46:19:2).
+  Death proposed borrowing a book from Lucien in "Brief Lives" part 6 ([46:19](sandman.46.md#page-19).2).
 
 - #### Panel 3
 
@@ -128,7 +128,7 @@
 
 - #### Panels 1-6:
 
-  This sequence echoes a similar filmstrip-like one in "The Doll's House" part 2 (11:16-17).
+  This sequence echoes a similar filmstrip-like one in "The Doll's House" part 2 ([11:16-17](sandman.11.md#page-16-17)).
 
 ## Credits
 

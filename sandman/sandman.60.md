@@ -146,7 +146,7 @@ This is "Puss in Boots". I don't have on me a specific reference to her story.
 
 - #### Panel 4
 
-  We've seen this chest before, in 27:20:1-2. The contents are the same: a pocket watch (perhaps Prez's?); Haroun al-Raschid's magical Baghdad; the demon Azazel, pent in a bottle; and the skull of the Corinthian.
+  We've seen this chest before, in [27:20](sandman.27.md#page-20).1-2. The contents are the same: a pocket watch (perhaps Prez's?); Haroun al-Raschid's magical Baghdad; the demon Azazel, pent in a bottle; and the skull of the Corinthian.
 
 ### Page 21
 

@@ -38,7 +38,7 @@
 
 - #### Panel 4
 
-  An echo of 15:2:4.
+  An echo of [15:2](sandman.15.md#page-2).4.
 
 ### Page 8
 

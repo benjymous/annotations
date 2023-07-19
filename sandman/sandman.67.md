@@ -26,11 +26,11 @@
 
 - #### Panel 3
 
-  This statement about time seems a bit odd: in 64:20:2 Dream says it has been five days, and defeating Loki took only a short time after that. On the other hand, quite a bit more time has passed in the waking world since then. We don't know how long it took the Corinthian and Daniel to come from Swartalfheim to the Dreaming.
+  This statement about time seems a bit odd: in [64](sandman.64.md):20.2 Dream says it has been five days, and defeating Loki took only a short time after that. On the other hand, quite a bit more time has passed in the waking world since then. We don't know how long it took the Corinthian and Daniel to come from Swartalfheim to the Dreaming.
 
 - #### Panel 5
 
-  In "The Parliament of Rooks" Matthew accused Cain of sounding like Vincent Price. (40:9:4) It's undeniable that this image of Cain is based on the way Vincent Price looks.
+  In "The Parliament of Rooks" Matthew accused Cain of sounding like Vincent Price. ([40:9](sandman.40.md#page-9).4) It's undeniable that this image of Cain is based on the way Vincent Price looks.
 
 - #### Panel 6
 
@@ -102,7 +102,7 @@
 
 - #### Panel 4
 
-  Most likely this is the orb that Dream used to communicate with Matthew and the Corinthian back in 64:20:1.
+  Most likely this is the orb that Dream used to communicate with Matthew and the Corinthian back in [64](sandman.64.md):20.1.
 
 ### Page 16
 
@@ -118,7 +118,7 @@
 
 - #### Panel 6
 
-  Dream and Lucien turn and look directly at the reader, but are actually looking at a female observer; this would seem to be an echo of the end of Rose's dream in "The Doll's House" part 1 (10:14:6).
+  Dream and Lucien turn and look directly at the reader, but are actually looking at a female observer; this would seem to be an echo of the end of Rose's dream in "The Doll's House" part 1 ([10:14](sandman.10.md#page-14).6).
 
 ### Page 19
 
@@ -142,7 +142,7 @@ Panels 1-3 echo in layout, form, and action, page 23 of [issue #11](sandman.11.m
 
 > [!THUMBNAIL] ![](thumbnails/sandman.67/page24.jpg)
 
-This page similarly echoes 11:24.
+This page similarly echoes [11:24](sandman.11.md#page-24).
 
 - #### Panel 2
 

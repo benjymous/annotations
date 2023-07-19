@@ -232,7 +232,7 @@ An abridged version of the opening of the Arabian Nights, akin to the invocation
 
 - #### Panel 1
 
-  The city in the bottle was seen in 27:20.1.
+  The city in the bottle was seen in [27:20](sandman.27.md#page-20).1.
 
 ### Page 32
 

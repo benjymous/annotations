@@ -51,7 +51,7 @@ Sixth and last story in anthology "Worlds' End"
 
 - #### Panel 4
 
-  The return of Steven Brust, seen once before in [51](sandman.51.md):9:4.
+  The return of Steven Brust, seen once before in [51:9](sandman.51.md#page-9).4.
 
 ### Page 10-11
 

@@ -7,44 +7,44 @@
 **Note**: This stand-alone story originally appeared in the Vertigo: Winters Edge #1 anthology.
 
 ### Page 1
+
 > [!THUMBNAIL] ![](thumbnails/sandman-flowers-romance/page01.jpg)
 
-This is a splash page
+- #### Panel 1
+
+  Our _little goat footed man_ is a Satyr.  The last Satyr we met was Aristaeus in [The Song of Orpheus](sandman-special1.md#page-2).
 
 ### Page 2-3
 
 > [!THUMBNAIL] ![](thumbnails/sandman-flowers-romance/page02-03.jpg)
 
+  The Blue ladies on the right hand side are presumably the Naiads - water nymphs, mentioned in the lower caption.
 
 ### Page 4
 
 > [!THUMBNAIL] ![](thumbnails/sandman-flowers-romance/page04.jpg)
 
-### Page 5
+- #### Panel 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman-flowers-romance/page05.jpg)
+  Here he's cavorting with a female satyr.
 
+- ### Panel 3
 
-### Page 6
+  And this lady is a [Harpy](https://en.wikipedia.org/wiki/Harpy).
 
-> [!THUMBNAIL] ![](thumbnails/sandman-flowers-romance/page06.jpg)
 
 ### Page 7
 
 > [!THUMBNAIL] ![](thumbnails/sandman-flowers-romance/page07.jpg)
 
-### Page 8
+- ### Panel 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman-flowers-romance/page08.jpg)
+  As with [How They Met Themselves](sandman-how-met.md) it's interesting to see Desire referred to as _her_ rather than the usual _it_.
 
-### Page 9
+- ### Panel 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman-flowers-romance/page09.jpg)
+  It's hard to know if this island is entirely fictional, or if Gaiman had a real island in mind.   One possible contender is the [isle of Eynhallow](https://www.bbc.com/travel/article/20170721-why-you-ceynhallow-which-you-can-visit-one-day-a-year) in the Orkneys, north of Scotland.
 
-
-### Page 10
-
-> [!THUMBNAIL] ![](thumbnails/sandman-flowers-romance/page10.jpg)
 
 ## Credits
 

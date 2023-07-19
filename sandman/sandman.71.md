@@ -16,7 +16,7 @@
 
 - #### Panel 4
 
-  The woman at the left resembles the character "Mercy", from _The Last Temptation_, which Gaiman also did with Zulli. The man and woman at front and center may be the two who served the banquet in "The Season of Mists" part 5 (26:8.4 and 26:12.6).
+  The woman at the left resembles the character "Mercy", from _The Last Temptation_, which Gaiman also did with Zulli. The man and woman at front and center may be the two who served the banquet in "The Season of Mists" part 5 ([26](sandman.26.md):8.4 and [26:12](sandman.26.md#page-12).6).
 
 ### Page 2
 
@@ -36,11 +36,11 @@
 
 - #### Panel 1
 
-  The man in black is probably the Corinthian. The man in the turban is named Tamaris; he and the woman beside him served food to Dream and Delirium in "Brief Lives" part 2. (42:13-14) The rabbit is named Ruthven, and his lady is similarly unnamed. We've seen them a few times before, most recently dead at the Furies' hands in 66:14.2.
+  The man in black is probably the Corinthian. The man in the turban is named Tamaris; he and the woman beside him served food to Dream and Delirium in "Brief Lives" part 2. ([42:13-14](sandman.42.md#page-13)) The rabbit is named Ruthven, and his lady is similarly unnamed. We've seen them a few times before, most recently dead at the Furies' hands in [66:14](sandman.66.md#page-14).2.
 
 - #### Panel 2
 
-  The woman on the broom is known as the Fashion Thing, and was seen most recently in "The Season of Mists" part 1. (22:3.4)
+  The woman on the broom is known as the Fashion Thing, and was seen most recently in "The Season of Mists" part 1. ([22:3](sandman.22.md#page-3).4)
 
 ### Page 5
 
@@ -56,7 +56,7 @@
 
 - #### Panel 3
 
-  It's not clear who this is; the most likely candidate is Eric Needham, who once offered Lyta Hall a job. He was last seen in 59:18.6.
+  It's not clear who this is; the most likely candidate is Eric Needham, who once offered Lyta Hall a job. He was last seen in [59:18](sandman.59.md#page-18).6.
 
 ### Page 10
 
@@ -64,7 +64,7 @@
 
 - #### Panel 1
 
-  Mad Hettie was last seen in this series in 3:5.4, although she played a major role in the _Death; The High Cost of Living_ miniseries.
+  Mad Hettie was last seen in this series in [3:5](sandman.03.md#page-5).4, although she played a major role in the _Death; The High Cost of Living_ miniseries.
 
 ### Page 13
 
@@ -76,7 +76,7 @@
 
 - #### Panel 7
 
-  The fiddler is Abudah, last seen being killed with Mervyn Pumpkinhead in 66:16.6.
+  The fiddler is Abudah, last seen being killed with Mervyn Pumpkinhead in [66](sandman.66.md):16.6.
 
 ### Page 15
 
@@ -100,7 +100,7 @@
 
 - #### Panel 3
 
-  Rose's brother Jed was last seen at the end of "The Doll's House". (16:20.8) His appearance here seems reminiscent of Shaggy in the cartoon series "Scooby Doo", although this may not be intentional.
+  Rose's brother Jed was last seen at the end of "The Doll's House". ([16:20](sandman.16.md#page-20).8) His appearance here seems reminiscent of Shaggy in the cartoon series "Scooby Doo", although this may not be intentional.
 
 ### Page 18
 
@@ -144,7 +144,7 @@
 
   The green man with the blue cape is a superhero called the Martian Manhunter.
 
-  He's the only one of the three who hasn't been portrayed by "an actor on a strange television version of (his) life". He was last seen in 5:14-15.
+  He's the only one of the three who hasn't been portrayed by "an actor on a strange television version of (his) life". He was last seen in [5:14-15](sandman.05.md#page-14).
 
 - #### Panel 2
 

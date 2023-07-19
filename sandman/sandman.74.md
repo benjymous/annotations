@@ -58,7 +58,7 @@ The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's know
 
 - #### Panel 2
 
-  Morpheus refers to 39:21.1 -- the story "Soft Places".
+  Morpheus refers to [39](sandman.39#page-21):21.1 -- the story "Soft Places".
 
   The young man was Marco Polo.
 
@@ -100,7 +100,7 @@ The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's know
 
 - #### Panel 4
 
-  "Tools can be the subtlest of traps" is quoted from the text piece from the "Doll's House" collection. Morpheus said he would never have thought of destroying his ruby (7:20.4); but this Dream, wiser, knows from the start that someday he must dispense with his greatest tool.
+  "Tools can be the subtlest of traps" is quoted from the text piece from the "Doll's House" collection. Morpheus said he would never have thought of destroying his ruby ([7:20](sandman.04.md#page-20).4); but this Dream, wiser, knows from the start that someday he must dispense with his greatest tool.
 
 ### Page 23
 
@@ -117,5 +117,5 @@ The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's know
 - Anthony Rickey (pemb0004@sable.ox.ac.uk) referenced the bridge of dreams.
 - Jerry Lee (wrenstar@leland.Stanford.EDU) commented on the Chinese on the cover.
 - Ian McDowell (ikmcdowe@hamlet.uncg.edu) reported on Gaiman and the kitten.
-- Ralf Hildebrandt added the observation on page 19, and the connection with [#39](sandman.39.md)
-- Richard Munn added the possible Western Wei reference
+- Ralf Hildebrandt added the observation on [page 19](#page-19), and the connection with [#39](sandman.39.md)
+- Richard Munn added the possible Western Wei reference.

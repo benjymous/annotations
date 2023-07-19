@@ -98,7 +98,7 @@ First story in anthology, "Worlds' End"
 
 - #### Panel 6
 
-  Compare 36:23:4 and 37:19:2-4.
+  Compare [36:23](sandman.36.md#page-23):4 and [37:19](sandman.37.md#page-19):2-4.
 
 ### Page 13
 
@@ -106,7 +106,7 @@ First story in anthology, "Worlds' End"
 
 - #### Panel 3
 
-  The lights behind the seats resemble eyes. Also, note the color of the lights... (See also note on page 17 panel 5 below.)
+  The lights behind the seats resemble eyes. Also, note the color of the lights... (See also note on [page 17](#page-17) panel 5 below.)
 
 ### Page 14
 

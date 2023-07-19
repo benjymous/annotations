@@ -46,7 +46,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 - #### Panel 1
 
-  **Driven by dark dreams**: Confirmation that Dream is responsible for Orpheus's guardians is given in Sp1:48.1 and 49:12.2.
+  **Driven by dark dreams**: Confirmation that Dream is responsible for Orpheus's guardians is given in [Sp1](sandman-special1.md):48.1 and [49](sandman.49.md):12.2.
 
 - #### Panel 4
 
@@ -124,7 +124,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 - #### Panel 7
 
-  Possibly long-term foreshadowing, given Destruction's comments in 48:17.4
+  Possibly long-term foreshadowing, given Destruction's comments in [48:17](sandman.48#page-17).4
 
 ### 3: _Not Her Sister_
 

@@ -40,7 +40,7 @@ Second story in the anthology "Worlds' End"
 
 - #### Panel 2
 
-  Cluracan, as longtime _Sandman_ readers will recall, first appeared in the arc "The Season of Mists" -- 26:1, to be precise.
+  Cluracan, as longtime _Sandman_ readers will recall, first appeared in the arc "The Season of Mists" -- [26:1](sandman.26.md#page-1), to be precise.
 
 ### Page 3
 

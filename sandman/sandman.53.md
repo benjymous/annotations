@@ -16,7 +16,7 @@ Third story in anthology, "Worlds' End"
 
 - #### Panel 1
 
-  This is not the same person who brought Brant the stew in 51:9: the neckerchief is green instead of red, and there is no beard stubble.
+  This is not the same person who brought Brant the stew in [51:9](sandman.51.md#page-9): the neckerchief is green instead of red, and there is no beard stubble.
 
   **Call me Jim**: An allusion to the opening line of Herman Melville's _Moby-Dick_, "Call me Ishmael"; possibly combined with Joseph Conrad's _Lord Jim_.
 

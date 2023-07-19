@@ -40,7 +40,7 @@ Gaiman and Pinkwater have been known to hang out on each other's discussion fora
 
 - #### Panels 3-5
 
-  In 47:14:4 we see (in a panel from Destiny's book, whose location in time is uncertain) a white-haired, white-clad Dream that looks somewhat like this figure. It's unclear as yet whether this is a plot point or just an echo.
+  In [47:14](sandman.47.md#page-14).4 we see (in a panel from Destiny's book, whose location in time is uncertain) a white-haired, white-clad Dream that looks somewhat like this figure. It's unclear as yet whether this is a plot point or just an echo.
 
 ### Page 9
 

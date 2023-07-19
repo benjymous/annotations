@@ -152,7 +152,7 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 
 - #### Panel 1
 
-  This recalls Dream's lecture to Desire at the end of _The Doll's House_ (16:22-23).
+  This recalls Dream's lecture to Desire at the end of _The Doll's House_ ([16:22](sandman.16.md#page-22)-23).
 
 - #### Panel 2
 

@@ -6,7 +6,7 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
-**Notes**: See [#41](sandman.41.md). This issue is the coda for the arc, reprising all that we've seen before and reiterating "change" as the theme. The briefness of life reinforces the change embodied by Destruction. The emphasis upon change is meant to point out the change in Dream since his imprisonment, as remarked by Orpheus in 49:3.3 and by Destruction in 47:24.2 and 48:17.5. It is perhaps worth noting that the epilog does not strictly begin until 3: or 4:. 1: and 2: are necessarily a part of the central story and are themselves reprised in 7:. Despair's reappearance in 4: is a strict reprise of her role in [#41](sandman.41.md).
+**Notes**: See [#41](sandman.41.md). This issue is the coda for the arc, reprising all that we've seen before and reiterating "change" as the theme. The briefness of life reinforces the change embodied by Destruction. The emphasis upon change is meant to point out the change in Dream since his imprisonment, as remarked by Orpheus in [49](sandman.49.md):3.3 and by Destruction in [47:24](sandman.47.md#page-24).2 and [48:17](sandman.48.md#page-17).5. It is perhaps worth noting that the epilog does not strictly begin until 3: or 4:. 1: and 2: are necessarily a part of the central story and are themselves reprised in 7:. Despair's reappearance in 4: is a strict reprise of her role in [#41](sandman.41.md).
 
 ### 1: _Farewells_
 
@@ -64,7 +64,7 @@
 
 - #### Panel 5
 
-  Seen in Despair's mirrors, from right to left: Andros (41:1), unidentified child (Andros's grandchild?), graveyard (Mary Canby's graveyard (21.1)?), a kitten (Chloe's kitten?), and Desire.
+  Seen in Despair's mirrors, from right to left: Andros ([41:1](sandman.41.md#page-1)), unidentified child (Andros's grandchild?), graveyard (Mary Canby's graveyard ([21.1](sandman.21#page-1))?), a kitten (Chloe's kitten?), and Desire.
 
 ### Page 10
 
@@ -72,7 +72,7 @@
 
 - #### Panel 1
 
-  Baby Daniel (#40) is in the mirror to Desire's right.
+  Baby Daniel ([#40](sandman.40.md)) is in the mirror to Desire's right.
 
 - #### Panel 4
 
@@ -84,7 +84,7 @@
 
 - #### Panel 6
 
-  Is that Etain (43:13) in the mirror behind Despair?
+  Is that Etain ([43:13](sandman.43#page-13)) in the mirror behind Despair?
 
 ### 5: _The Gates of Horn_
 
@@ -96,7 +96,7 @@
 
 - #### Panel 2
 
-  Skull and...spine: As seen clearly in 23:1.3 and remarked in 4:14.2.
+  Skull and...spine: As seen clearly in [23:1](sandman.23.md#page-1).3 and remarked in [4:14](sandman.04.md#page-14).2.
 
   Gertrude Jobes' _Dictionary of Mythology, Folklore, and Symbols_ mentions three attendants of Morpheus (a Roman name of Dream): Icelos (dreams that appear real), Phantasos (false or strange dreams), and Phobetor (alarming dreams).
 
@@ -183,15 +183,15 @@ This is remembrance, not Dream conversing with Orpheus as he passes through the 
 
 - #### Panel 1
 
-  **Mary Canby**: See 41:6.
+  **Mary Canby**: See [41:6](sandman.41.md#page-6).
 
 - #### Panel 2
 
-  **Chloe Russell**: See 43:22. Chloe's pet is probably the cat Basht euthanized in 46:15. It has also been speculated that one or the other of Chloe's cats is the young cat of [#18](sandman.18.md).
+  **Chloe Russell**: See [43](sandman.43.md):22. Chloe's pet is probably the cat Basht euthanized in [46:15](sandman.46.md#page-15). It has also been speculated that one or the other of Chloe's cats is the young cat of [#18](sandman.18.md).
 
 - #### Panel 3
 
-  **Danny Capax**: See 44:6.
+  **Danny Capax**: See [44](sandman.44.md):6.
 
 ### Page 22
 
@@ -199,11 +199,11 @@ This is remembrance, not Dream conversing with Orpheus as he passes through the 
 
 - #### Panel 1
 
-  **Tom Flaherty**: See 45:5.
+  **Tom Flaherty**: See [45:5](sandman.45.md#page-5).
 
 - #### Panel 2
 
-  **Tiffany**: See 45:1.
+  **Tiffany**: See [45:1](sandman.45.md#page-1).
 
 - #### Panel 3
 

@@ -22,7 +22,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 - #### Panel 3
 
-  The beast on the left is the one which sent Brant Tucker off the road at the start of "Worlds' End". (51:2.2) Note the Siamese cat at the lower right, perhaps the cat-prophet from "Dream of a Thousand Cats". And at the far right of the back row, hard to make out because of the shading, is Dave Sim's character Cerebus the Aardvark. (Delirium made a winged Cerebus in part 8 of "Brief Lives" [48:15.5].)
+  The beast on the left is the one which sent Brant Tucker off the road at the start of "Worlds' End". ([51](sandman.51.md):2.2) Note the Siamese cat at the lower right, perhaps the cat-prophet from "Dream of a Thousand Cats". And at the far right of the back row, hard to make out because of the shading, is Dave Sim's character Cerebus the Aardvark. (Delirium made a winged Cerebus in part 8 of "Brief Lives" ([48:15](sandman.48.md#page-15).5).)
 
 ### Page 3
 
@@ -62,7 +62,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 - #### Panel 5
 
-  The goat-headed fay on the left is called Skarrow, and last appeared in "A Midsummer Night's Dream". (19:passim) The being between Mad Hettie and Hob Gadling is probably the Borghal Rantipole, last seen in that form in 66:20.3.
+  The goat-headed fay on the left is called Skarrow, and last appeared in "A Midsummer Night's Dream". (19:passim) The being between Mad Hettie and Hob Gadling is probably the Borghal Rantipole, last seen in that form in [66](sandman.66.md):20.3.
 
 ### Page 6
 
@@ -70,7 +70,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 - #### Panel 6
 
-  Long-time readers will of course recognize Dream's absent brother Destruction, last seen in part 8 of "Brief Lives" (48:23.3).
+  Long-time readers will of course recognize Dream's absent brother Destruction, last seen in part 8 of "Brief Lives" ([48:23](sandman.48.md#page-23).3).
 
 ### Page 7
 
@@ -96,7 +96,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 - #### Panel 1
 
-  Wesley Dodds was the superhero known as "The Sandman". In the real world, he was the first character to bear that name. He has appeared once before in this series, in 1:18.4-6. The meeting he refers to took place in the _Sandman Midnight Theatre_ special.
+  Wesley Dodds was the superhero known as "The Sandman". In the real world, he was the first character to bear that name. He has appeared once before in this series, in [1:18](sandman.01.md#page-18).4-6. The meeting he refers to took place in the _Sandman Midnight Theatre_ special.
 
 - #### Panel 2
 
@@ -114,7 +114,7 @@ Mazikeen has a heart tattooed on her left breast.
 
 - #### Panel 1
 
-  This is Leib-Olmai, the Alder Man, who became a bear to evade Dream and Delirium's search for Destruction. (44:4.5) He was supposed to have been informed that it was safe to return. Perhaps he liked the bear-shape.
+  This is Leib-Olmai, the Alder Man, who became a bear to evade Dream and Delirium's search for Destruction. ([44](sandman.44.md):4.5) He was supposed to have been informed that it was safe to return. Perhaps he liked the bear-shape.
 
 - #### Panel 2
 
@@ -130,7 +130,7 @@ Mazikeen has a heart tattooed on her left breast.
 
 - #### Panel 5
 
-  This is Alianora, one of Dream's old lovers. The affair ended badly, although the exact details are not known. She was last seen at the end of "A Game of You" (36:35.2).
+  This is Alianora, one of Dream's old lovers. The affair ended badly, although the exact details are not known. She was last seen at the end of "A Game of You" ([36:35](sandman.36.md#page-35).2).
 
 ### Page 17
 
@@ -154,11 +154,11 @@ Mazikeen has a heart tattooed on her left breast.
 
 - #### Panel 1
 
-  The man in the coat just to the left of Lyta Hall is Doctor Destiny, or Doctor Dee. He was last seen in 7:23.1.
+  The man in the coat just to the left of Lyta Hall is Doctor Destiny, or Doctor Dee. He was last seen in [7:23](sandman.07.md#page-23).1.
 
 - #### Panel 4
 
-  The sequence that follows echoes the one at the end of issue 1 (1:34-37), with reversals that work on numerous levels. This Dream gives mercy instead of punishment; the cat that Burgess follows is white instead of black; we go from the tower to the hallways instead of the other way around.
+  The sequence that follows echoes the one at the end of issue 1 ([1](sandman.01.md):34-37), with reversals that work on numerous levels. This Dream gives mercy instead of punishment; the cat that Burgess follows is white instead of black; we go from the tower to the hallways instead of the other way around.
 
 ### Page 22
 
@@ -174,7 +174,7 @@ Mazikeen has a heart tattooed on her left breast.
 
 - #### Panel 2
 
-  When Ric Madoc went to sleep (70:15.6) the flowers around him were all blooming. Strange that they're now all dead.
+  When Ric Madoc went to sleep ([70:15](sandman.70.md#page-15).6) the flowers around him were all blooming. Strange that they're now all dead.
 
 ### Page 26
 

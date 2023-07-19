@@ -132,7 +132,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 - #### Panel 4
 
-  Delirium is the name of the Endless whose sigil is the swirly one to the right of Despair's on issue 10 page 4.
+  Delirium is the name of the Endless whose sigil is the swirly one to the right of Despair's on [issue 10](sandman.10.md) page 4.
 
 ## Credits
 
