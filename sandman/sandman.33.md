@@ -16,7 +16,7 @@ The title of this chapter refers to the song "Lullaby of Broadway" the big produ
 
 **The lyrics are**:
 
-> Come on alomg and listen to<br>
+> Come on along and listen to<br>
 > The Lullaby of Broadway.<br>
 > The hip Hooray and Ballyhoo<br>
 > The Lullaby of Broadway<br>

@@ -44,11 +44,11 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 - #### Panel 1
 
-  Dickon here, referring to Richard Quiney, her husband, and childhood friend of Shakespeare.
+  Dickon here refers to Richard Quiney, her husband, and childhood friend of Shakespeare.
 
 - #### Panel 2
 
-  Shakespeare will on [page 19](#page-19).6 tell a different story of what Dickon was really up to in london...
+  Shakespeare will on [page 19](#page-19).6 tell a different story of what Dickon was really up to in London...
 
 ### Page 9
 
