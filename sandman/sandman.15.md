@@ -1,6 +1,7 @@
 # The Annotated Sandman
 
 ## Issue 15: "Into the Night"
+
 > [!THUMBNAIL] ![](thumbnails/sandman.15/page00.jpg)
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
@@ -48,6 +49,7 @@ The first panel of the dream pictures Barbie's self-image; the Porpentine, a mag
 Later panels also mention "The Cuckoo" and "The Disciples of the Cuckoo", villains; and the Hierogram ("Holy" + "Writing"), which is closely connected to the Porpentine.
 
 ### Page 6-7
+
 > [!THUMBNAIL] ![](thumbnails/sandman.15/page06-07.jpg)
 
 Chantal's dream occupies the top half of the double-page spread, Zelda's the bottom. The illustration of the two sleeping implies that they are lovers. Their relationship was uncertain to the other residents of the house. Note that the original comic, a caption from Zelda's dream appears in the central panel, but is virtually obscured by a lace overlay on the art.
@@ -133,6 +135,7 @@ This is Hal's dream.
   The final face revealed is actually the Wizard of the movie, though it's hard to see. Frank Morgan was the actor who played the Wizard. The simple symbology in this sequence is that Hal wears a mask, either when he's being a transvestite, or when he's not, and he wants to stop.
 
 ### Page 9-10
+
 > [!THUMBNAIL] ![](thumbnails/sandman.15/page09.jpg)
 
 - #### Panel 6
@@ -198,6 +201,7 @@ Zelda's and Chantal's dreams begin to intersect. Chantal's dream is a recursive 
 The commentary on Barbara is important in the context of the later storyline. Hal is pictured walking on the Yellow Brick Road toward the paradise-symbol Emerald City, of the movie _The Wizard of Oz_.
 
 ### Page 16-17
+
 > [!THUMBNAIL] ![](thumbnails/sandman.15/page16-17.jpg)
 
 - #### Panel 1
@@ -228,8 +232,7 @@ The commentary on Barbara is important in the context of the later storyline. Ha
 
   See issues of _Swamp Thing_ for what Matt Cable, who became the raven, did. Gilbert's quote is from Christopher Marlowe, _The Jew of Malta_ (c. 1589) IV.i.40:
 
-  > **Friar Barnadine:** Thou hast committed -<br>
-  > **Barabus:** Fornication? But that was in another country: and besides, the wench is dead.
+  > **Friar Barnadine:** Thou hast committed -<br> > **Barabus:** Fornication? But that was in another country: and besides, the wench is dead.
 
   Note that we saw Kit Marlowe in [Sandman #13](sandman.13.md), in 1589, although there did not appear to be a reference to this work.
 

@@ -1,24 +1,14 @@
 {
-
   "scripts": {
-
     "build": "honkit build",
-
-    "serve": "honkit serve"
-
+    "serve": "honkit serve",
+    "spell": "npx cspell sandman",
+    "prettier": "npx prettier sandman/*.md -w"
   },
-
   "devDependencies": {
-
     "honkit": "^4.0.8"
-
   },
-
   "dependencies": {
-
     "gitbook-plugin-flexible-alerts": "^1.0.4"
-
   }
-
 }
-

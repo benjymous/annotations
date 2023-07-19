@@ -1,6 +1,7 @@
 # The Annotated Sandman
 
 ## Issue 16: "Lost Hearts"
+
 > [!THUMBNAIL] ![](thumbnails/sandman.16/page00.jpg)
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
@@ -72,7 +73,8 @@ Ninth story reprinted in trade paperback _The Doll's House_
 > [!THUMBNAIL] ![](thumbnails/sandman.16/page18.jpg)
 
 - #### Panel 2-3
-> [!FLOATRIGHT_40PC] ![Original photo of G.K. Chesterton](images/GKChesterton.jpg)
+
+  > [!FLOATRIGHT_40PC] ![Original photo of G.K. Chesterton](images/GKChesterton.jpg)
 
   We saw Judy, and the massacre, in [Sandman #6](sandman.06.md). We will see Donna in a later storyline.
 

@@ -167,6 +167,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
   The first choice would probably be to go on to Heaven or the equivalent afterlife--that "undiscover'd country from whose bourne no traveler returns", ignorance of which makes that choice harder.
 
 ### Page 16-17
+
 > [!THUMBNAIL] ![](thumbnails/sandman.28/page16.jpg)
 
 Nada is being reincarnated (as a boy, as we see in page 16 panel 5). Is Dream promising the new him a lifetime of good dreams?

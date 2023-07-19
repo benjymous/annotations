@@ -19,7 +19,6 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 > [!THUMBNAIL] ![](thumbnails/sandman-special1/page01.jpg)
 
-
 - #### Panel 5
 
   Orpheus is traditionally the son of either Apollo or the Thracian king Oeagrus, and a muse, usually Calliope, sometimes Polyhymnia. As previously established in _Sandman_, Orpheus is the son of Dream and Calliope (Muse of epic poetry).
@@ -30,7 +29,6 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 > [!THUMBNAIL] ![](thumbnails/sandman-special1/page02.jpg)
 
-
 - #### Panel 2
 
   Aristaeus is not traditionally a satyr (half-man, half-goat; note that those are horns, not a peculiar receding hairline), but is usually represented as a young man dressed like a shepherd, sometimes carrying a sheep. He was worshipped in ancient Greece, but his myths are now obscure. His name derives from "aristos" [transliterated], meaning "best". He is generally accepted as the son of the nymph Cyrene, who was carried off to Libya by Apollo. Aristaeus was indeed married to Autonoe, who is probably the daughter of Cadmus; their son was Actaeon, a mighty hunter, who accidentally saw Artemis bathing one day. She changed him into a stag and his own dogs hunted him down and slew him.
@@ -40,7 +38,6 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 ### Page 4
 
 > [!THUMBNAIL] ![](thumbnails/sandman-special1/page04.jpg)
-
 
 - #### Panel 1
 
@@ -57,7 +54,6 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 ### Page 5
 
 > [!THUMBNAIL] ![](thumbnails/sandman-special1/page05.jpg)
-
 
 - #### Panels 2-6; page 6 panel 1
 
@@ -77,7 +73,6 @@ Evidently the transformation occurred prior to Greece's Heroic Age. The only evi
 
 > [!THUMBNAIL] ![](thumbnails/sandman-special1/page06.jpg)
 
-
 - #### Panel 1
 
   Destiny bears a striking resemblance to Jorge Luis Borges!
@@ -94,7 +89,6 @@ Evidently the transformation occurred prior to Greece's Heroic Age. The only evi
 
 > [!THUMBNAIL] ![](thumbnails/sandman-special1/page07.jpg)
 
-
 - #### Panel 4
 
   Satyrs, along with centaurs, went mad when they got drunk.
@@ -102,7 +96,6 @@ Evidently the transformation occurred prior to Greece's Heroic Age. The only evi
 ### Page 9
 
 > [!THUMBNAIL] ![](thumbnails/sandman-special1/page09.jpg)
-
 
 - #### Panel 1
 

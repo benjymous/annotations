@@ -144,9 +144,9 @@ Mazikeen has a heart tattooed on her left breast.
 
 > [!THUMBNAIL] ![](thumbnails/sandman.72/page18-19.jpg)
 
-  As Morpheus's funereal barge goes over the waterfall, the figurehead keeps changing. Notice when it becomes the hand holding the Ruby, it's being clutched very violently, reminiscent of the end of the Preludes and Nocturnes storyline when Dr. Dee crushed the Ruby with his bare hand, returning its power to Morpheus. In The Wake trade paperback, this sequence is expanded to stretch over three pages, and when that particular form of the barge is drawn, Zulli gave it two hands, and they're cradling the ruby much more gently. Also, in the trade, Zulli saw fit to include a version of the barge with Morpheus's visage as the figure head, with short hair, which appears between the Helm-barge and the Ruby-barge.
+As Morpheus's funereal barge goes over the waterfall, the figurehead keeps changing. Notice when it becomes the hand holding the Ruby, it's being clutched very violently, reminiscent of the end of the Preludes and Nocturnes storyline when Dr. Dee crushed the Ruby with his bare hand, returning its power to Morpheus. In The Wake trade paperback, this sequence is expanded to stretch over three pages, and when that particular form of the barge is drawn, Zulli gave it two hands, and they're cradling the ruby much more gently. Also, in the trade, Zulli saw fit to include a version of the barge with Morpheus's visage as the figure head, with short hair, which appears between the Helm-barge and the Ruby-barge.
 
-  Perhaps these figureheads correspond to various important points in Morpheus's existence (his falling-out with Orpheus, his imprisonment, the destruction of the ruby and the beginning of this chronicle)?
+Perhaps these figureheads correspond to various important points in Morpheus's existence (his falling-out with Orpheus, his imprisonment, the destruction of the ruby and the beginning of this chronicle)?
 
 ### Page 21
 

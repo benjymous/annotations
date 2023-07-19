@@ -1,6 +1,7 @@
 # The Annotated Sandman
 
 ## Issue 18: "A Dream of a Thousand Cats"
+
 > [!THUMBNAIL] ![](thumbnails/sandman.18/page00.jpg)
 
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
@@ -64,7 +65,7 @@ Second story reprinted in trade paperback _Dream Country_
 
 - #### Panel 1-2
 
-  In early editions, the male was not not coloured with golden-hair.  This appears to have been fixed in later versions.
+  In early editions, the male was not not coloured with golden-hair. This appears to have been fixed in later versions.
 
 - #### Panel 2,4
 

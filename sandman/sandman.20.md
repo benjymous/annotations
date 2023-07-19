@@ -1,6 +1,7 @@
 # The Annotated Sandman
 
 ## Issue 20: "Facade"
+
 > [!THUMBNAIL] ![](thumbnails/sandman.20/page00.jpg)
 
 ##### Neil Gaiman, Colleen Doran, and Malcolm Jones III

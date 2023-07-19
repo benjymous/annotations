@@ -1,6 +1,7 @@
 # The Annotated Sandman
 
 ## Issue 10: "The Doll's House"
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page00.jpg)
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
@@ -10,11 +11,13 @@ First part of long storyline _The Doll's House_
 Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 1
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page01.jpg)
 
 We have learned in earlier issues that Desire is Dream's younger sibling. Despite the pronoun games in the fourth caption, Desire is consistently referred to by those who know it as "it". This is Desire's first known appearance. The "Doll's House" of the title refers to many buildings throughout this storyline, one of which is the Threshold.
 
 ### Page 3
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page03.jpg)
 
 - #### Panel 1
@@ -22,6 +25,7 @@ We have learned in earlier issues that Desire is Dream's younger sibling. Despit
   The figure in the lower right is Desire. The face in the "tv screens" may be the Corinthian, who shows up later. There is also some resemblance to Neil Gaiman himself, except that the editor in the letter column in issue 15 says "That was NOT a photo of Neil on page 3. As far as you know."
 
 ### Page 4
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page04.jpg)
 
 - #### Panel 1-3
@@ -33,6 +37,7 @@ We have learned in earlier issues that Desire is Dream's younger sibling. Despit
   Desire says "Big brother, I'm watching you". This is a reference to George Orwell's 1984 ("Big brother is watching you").
 
 ### Page 5
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page05.jpg)
 
 - #### Panel 2
@@ -56,6 +61,7 @@ We have learned in earlier issues that Desire is Dream's younger sibling. Despit
 First known appearances of Miranda and Rose Walker, who will be very important to this storyline, and Mr. Jack Holdaway, who will not. It will be confirmed later that Rose is in fact the person Judy was talking to on page 6 of issue 6.
 
 ### Page 6
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page06.jpg)
 
 - #### Panel 2
@@ -67,6 +73,7 @@ First known appearances of Miranda and Rose Walker, who will be very important t
   London has three airports, of which Heathrow is the largest, and Gatwick the second in importance. It is reputed to be less pleasant to fly from than Heathrow.
 
 ### Page 7
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page07.jpg)
 
 - #### Panel 4
@@ -78,6 +85,7 @@ First known appearances of Miranda and Rose Walker, who will be very important t
   "Car-park" is British; the American equivalent is both "parking lot" and "parking garage".
 
 ### Page 9
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page09.jpg)
 
 - #### Panel 1-2
@@ -95,6 +103,7 @@ First known appearances of Miranda and Rose Walker, who will be very important t
 The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 ### Page 10
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page10.jpg)
 
 - #### Panel 5
@@ -102,6 +111,7 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
   Neil Gaiman says "Note the doll": Well isn't it the same doll's house which we find in the room of who-was-to-be-a-dream-vortex, Unity Kinkaid? Just look at the Morpheus in its window on pages 22-23.
 
 ### Page 11-12
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page11-12.jpg)
 
 - #### Panel 4
@@ -109,6 +119,7 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
   This is a double page spread. "Major Arcana" originally referred to the non-suited cards in a Tarot deck. Here the term refers to the more important denizens of the Dreaming. This refers back to the introduction to [Sandman #8](sandman.08.md), where we saw a high-number Tarot card with a representation of Dream on it.
 
 ### Page 13
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page13.jpg)
 
 - #### Panel 1
@@ -128,11 +139,13 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
   According to the online _Oxford English Dictionary_ 2d. ed., Fiddler's Green is "a sailor's elysium, in which wine, women, and song figure prominently." Citations date back to 1825. In one citation, tailors and musicians are cantoned (or quartered) in Fiddler's Green. Also according to the online OED, Corinthian relates to the Greek city of Corinth. It is also one of the three Grecian orders of columns, a type of brass or bronze, whence also a meaning equivalent to "brassy" or "brazen," as effrontery, an excessively elegant literary style, an amateur yachtsman, and a variety of bagatelle. Further, and probably the meaning most apt here, it refers to a wealthy or fashionable man, or one who is profligate, idle, or licentious.
 
 ### Page 14
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page14.jpg)
 
 Annulet is defined on the next page. Rose is the dream vortex. The inference from Lucien's remarks is that most vortices are objects, but that it is not unknown for them to be human.
 
 ### Page 16
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page16.jpg)
 
 - #### Panel 1
@@ -148,6 +161,7 @@ Annulet is defined on the next page. Rose is the dream vortex. The inference fro
   Don't we have here a word game borne - born?
 
 ### Page 17
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page17.jpg)
 
 - #### Panel 3
@@ -155,6 +169,7 @@ Annulet is defined on the next page. Rose is the dream vortex. The inference fro
   In the mirror we have the anticipation of the visit of three-in-one. Well, witches used to use mirrors for foreseeing the future.
 
 ### Page 18
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page18.jpg)
 
 - #### Panel 2
@@ -162,6 +177,7 @@ Annulet is defined on the next page. Rose is the dream vortex. The inference fro
   Dream dressing the night, as Death would say "Doesn't it sound cute?!"
 
 ### Page 19
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page19.jpg)
 
 The Three-in-One Goddess. See issue 2.
@@ -171,6 +187,7 @@ The Three-in-One Goddess. See issue 2.
   There was a boy named Jed connected with the 1970s Sandman. The "Kindly Ones" are the Eumenides of Greek mythology, also known as the Erinyes, and in English as the Furies. Their names are Tisiphone, Alecto, and Megaera. They punish mortals who dare to compare themselves to gods ("hubris"). Aeschylus named the third play of a trilogy _Eumenides_.
 
 ### Page 20
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page20.jpg)
 
 - #### Panel 2
@@ -182,6 +199,7 @@ The Three-in-One Goddess. See issue 2.
   "Daughter, sister, child" is because of the mother, maiden, crone symbolism.
 
 ### Page 21
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page21.jpg)
 
 - #### Panel 1
@@ -189,6 +207,7 @@ The Three-in-One Goddess. See issue 2.
   Broom closet, well,well well, who doesn't know that witches (and Hecate, or three-in-one is their Goddess) use broomsticks to fly?
 
 ### Page 22
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page22.jpg)
 
 - #### Panel 5-6
@@ -196,6 +215,7 @@ The Three-in-One Goddess. See issue 2.
   Morpheus is watching the scene (dreaming it?) from the doll's house in the corner of the room, just as Rose was watching his kingdom's affairs in her dreams.
 
 ### Page 23
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page23.jpg)
 
 - #### Panel 1
@@ -207,6 +227,7 @@ The Three-in-One Goddess. See issue 2.
   Here we have Unity symbolically transferring the powers of the vortex to Rose, using annullet (Lucien's words). So here we have a magical ring!
 
 ### Page 24
+
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page24.jpg)
 
 The Corinthian, we learn, is a sick bastard, and is probably about to kill Davy. We are seeing the world through Corinthian's eyes, as he takes off his dark glasses (panel 5-7) we can see colors. So I think that we are lucky that the story is ending just here!

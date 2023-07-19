@@ -4,8 +4,6 @@
 
 > [!THUMBNAIL] ![](thumbnails/sandman.30/page00.jpg)
 
-
-
 ##### Neil Gaiman, Brian Talbot, and Stan Woch
 
 Second story in anthology _Distant Mirrors_

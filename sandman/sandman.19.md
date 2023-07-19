@@ -119,7 +119,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
   The true location is the Long Man of Wilmington. (Neil Gaiman notes in the Sandman Companion that this may have originated as "Wendel's Mound Town")
 
-> [!FLEX_2] ![Wendel opens his door](images/WendelOpens.jpg)  ![The Long Man of Wilmington](images/LongManOfWilmington.jpg)
+> [!FLEX_2] ![Wendel opens his door](images/WendelOpens.jpg) ![The Long Man of Wilmington](images/LongManOfWilmington.jpg)
 
 ### Page 6
 

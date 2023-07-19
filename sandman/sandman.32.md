@@ -1,9 +1,8 @@
 # The Annotated Sandman
 
-## Issue 32  : "Slaughter on Fifth Avenue"
+## Issue 32 : "Slaughter on Fifth Avenue"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.32/page00.jpg)
-
 
 ##### Neil Gaiman and Shawn McManus
 
@@ -189,8 +188,8 @@ Note that Wanda uses alliterative pet names for Barbie.
 
   "Rowley" is a reference to an old Mother Goose rhyme:
 
- > With a Rowley, Powley, Gammon, and Spinach<br>
- > Heigh-Ho for Anthony Rowley.
+  > With a Rowley, Powley, Gammon, and Spinach<br>
+  > Heigh-Ho for Anthony Rowley.
 
 ### Page 14
 

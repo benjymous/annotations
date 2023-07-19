@@ -198,7 +198,7 @@ A common statement by main characters, inevitably disastrously wrong.
 
 - #### Panel 4
 
-  Early editions had interesting coloring on this rainbow.  Later editions appear to get it correct!
+  Early editions had interesting coloring on this rainbow. Later editions appear to get it correct!
 
 ## Credits
 

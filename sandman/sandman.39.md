@@ -124,10 +124,9 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
   Gilbert is a place, not a person, though he occasionally takes human form.
 
-
 - #### Panel 6
 
-  In the last issue we saw Dream sympathetic to romance; here we learn that he is engaged in a new one, though the reciprocant of his affection is as yet unnamed.   This helps pinpoint that Gilbert is talking to us from the "present" of the comic.
+  In the last issue we saw Dream sympathetic to romance; here we learn that he is engaged in a new one, though the reciprocant of his affection is as yet unnamed. This helps pinpoint that Gilbert is talking to us from the "present" of the comic.
 
 ### Page 12
 

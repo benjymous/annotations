@@ -104,7 +104,7 @@ foreshadowing.
 
 - #### Panel 1-2
 
-  "Rimmon-my-petal" is a giant baby with a cobra for an umbilicus. "Ketele" has a wolf's head on an preying mantis's body. No identity given for the third figure.  Rimmon (The Thunderer) was a Babylonian or Assyrian storm god, often called Adad, and known as Martu by Amorites, Kur-Ga (Great Mountain) by Canaanites, Hadad by Syrians, and Teshub by Hittites.
+  "Rimmon-my-petal" is a giant baby with a cobra for an umbilicus. "Ketele" has a wolf's head on an preying mantis's body. No identity given for the third figure. Rimmon (The Thunderer) was a Babylonian or Assyrian storm god, often called Adad, and known as Martu by Amorites, Kur-Ga (Great Mountain) by Canaanites, Hadad by Syrians, and Teshub by Hittites.
 
 ### Page 14
 
@@ -131,14 +131,12 @@ foreshadowing.
   Other angels known to have flaming swords, which Gaiman my very well be referring to, are the Seraphim, six-winged angels of God's Wrath, who are said to have six wings. These were the angels who stood (and supposedly still stand) guard at the gates of Eden, blocking the entrance for the sons of Adam (the reference to closing gates here should not be ignored). They are supposed to be in the upper ring of angels (I think the sixth, but as I do not have my copy of The Dictionary of Biblical, Classical and Literary Allusions with me, I can't be sure.) one level above the more famous Cherubim. Here:
 
   > 1. Seraphs stood in attendance on Him. Each of them had six wings: with two he covered his face, with two he covered his legs, and with two he would fly.
-  >
   > 2. And on would call to the other<br>
-   "Holy, Holy, holy!<br>
-   The LORD of Hosts!<br>
-   His presence fills all the earth!"<br>
-  >
+  >    "Holy, Holy, holy!<br>
+  >    The LORD of Hosts!<br>
+  >    His presence fills all the earth!"<br>
   > 3. The doorposts would shake at the sound of the one who called, and the House kept filling with smoke . . . .<br>
-  > -Isaiah, 6:1-3
+  >    -Isaiah, 6:1-3
 
   What the Seraph says is a well known prayer, known as the "Kadosh," but the rest is new to me. Hope it sheds some light on the subject.
 
@@ -187,6 +185,7 @@ foreshadowing.
   Limbo is generally assumed to be a realm of nothingness. The Far Realms would appear to be little more than mythical lexical wordplay.
 
 ### Page 19-20
+
 > [!THUMBNAIL] ![](thumbnails/sandman.23/page19.jpg)
 
 It is somewhat unclear what is occurring on these two pages. On 19, Lucifer and Dream appear to exit a gate (and note that it is entirely unclear whether Lucifer is the last out, as he predicted). On page 20, however, Lucifer locks a floating lump that does not seem to be attached to anything, and announces that the last of the gates is closed, even though page 19 panel 5 clearly shows the two well outside Hell's wall.

@@ -1,6 +1,7 @@
 # The Annotated Sandman
 
 ## Issue 17: "Calliope"
+
 > [!THUMBNAIL] ![](thumbnails/sandman.17/page00.jpg)
 
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
@@ -158,12 +159,7 @@ There were nine Muses in Greek mythology of whom Calliope was the Muse of epic p
   Gaiman says Madoc's title is from a riddle that appears in _The Books of Magic_ #4 From page 33:
 
   > **The Fool**: A riddle. I sat with my love, and I drank with my love, and my love she gave me light. I'll give any man a pint o'wine, that'll read my riddle right.<br>
-  > Only I don't _have_ a pint of wine. Do you give up?<br>
-  > **Tim Hunter**: I don't understand the question.<br>
-  > **The Fool**: How about your friend?<br>
-  > **Mister E**: It is an evil rhyme, and it has an evil answer.<br>
-  > **The Fool**: Oh _so?_ But can you riddle it?<br>
-  > **Mister E**: I sat in a chair made of my love's bones, drank from her skull, and saw by the light of a candle made from her fat.<br>
+  > Only I don't _have_ a pint of wine. Do you give up?<br> > **Tim Hunter**: I don't understand the question.<br> > **The Fool**: How about your friend?<br> > **Mister E**: It is an evil rhyme, and it has an evil answer.<br> > **The Fool**: Oh _so?_ But can you riddle it?<br> > **Mister E**: I sat in a chair made of my love's bones, drank from her skull, and saw by the light of a candle made from her fat.<br>
   > There. Are you satisfied, fool? Let us leave this place, Timothy Hunter.
 
   It may be that the "true" answer to this riddle is "wine". The teller sits with a bottle of wine and drinks from it; a candle is stuck in a wine bottle and lit. This is why the Fool doesn't have a pint of wine, he drank it.

@@ -21,12 +21,12 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 > [!THUMBNAIL] ![](thumbnails/sandman.75/page05.jpg)
 
 - #### Panel 2, 4
-  In the script, Shakespeare is described as having an oilcloth over his head "like someone about to run to their car from a supermarket would raise a blanket or even a big newspaper over their head."
 
+  In the script, Shakespeare is described as having an oilcloth over his head "like someone about to run to their car from a supermarket would raise a blanket or even a big newspaper over their head."
 
 - #### Panel 4
 
-  [New Place](https://en.wikipedia.org/wiki/New_Place), Shakespeare's home from 1615 until his death, was demolished out of spite in 1756.  The site can be visited as a [tourist attraction](https://www.shakespeare.org.uk/visit/shakespeares-new-place/).
+  [New Place](https://en.wikipedia.org/wiki/New_Place), Shakespeare's home from 1615 until his death, was demolished out of spite in 1756. The site can be visited as a [tourist attraction](https://www.shakespeare.org.uk/visit/shakespeares-new-place/).
 
 ### Page 6
 
@@ -34,7 +34,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 - #### Panel 1
 
-  Shakespeare's local tavern here is run by Elizabeth Quiney, described in the script as "an elderly, very fat lady, red-cheeked and funny".  She is aided by her son, [Tom Quiney](https://en.wikipedia.org/wiki/Thomas_Quiney) who in five years will go on to marry Judith.  As mentioned later in the story, there was too much of his father in him, and Tom was cut out of Shakespeare's will after he got another woman pregnant.
+  Shakespeare's local tavern here is run by Elizabeth Quiney, described in the script as "an elderly, very fat lady, red-cheeked and funny". She is aided by her son, [Tom Quiney](https://en.wikipedia.org/wiki/Thomas_Quiney) who in five years will go on to marry Judith. As mentioned later in the story, there was too much of his father in him, and Tom was cut out of Shakespeare's will after he got another woman pregnant.
 
   It is not clear whether this was an actual tavern, or was invented by Gaiman for the script.
 
@@ -80,7 +80,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 > [!FLOATRIGHT_40PC] ![Benjamin Jonson by Abraham van Blyenberch](images/BenjaminJonson.jpg)
 
-  [Ben Jonson](https://en.wikipedia.org/wiki/Ben_Jonson) was a contemporary and a friend of Shakespeare who loved him and honored his memory as the star of poets but also criticized him for his lack of art and disregard for the Classical rules.
+[Ben Jonson](https://en.wikipedia.org/wiki/Ben_Jonson) was a contemporary and a friend of Shakespeare who loved him and honored his memory as the star of poets but also criticized him for his lack of art and disregard for the Classical rules.
 
 ### Page 13
 
@@ -144,7 +144,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 - #### Panel 6
 
-  Apparently nobody told his wife.  £30 in 1600 is worth upwards of £4000 / $5000 at the time of writing.
+  Apparently nobody told his wife. £30 in 1600 is worth upwards of £4000 / $5000 at the time of writing.
 
   The request of £30 is preserved in [letters](https://shakespearedocumented.folger.edu/resource/document/only-surviving-letter-shakespeare-letter-richard-quiney-asking-shakespeares) from Quiney to Shakespeare.
 

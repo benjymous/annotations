@@ -237,7 +237,7 @@ This continues the religious theme in this issue.
 
   Among the contents of the chest in [27:20](sandman.27.md#page-20):1 was a pocket watch. Perhaps the same one?
 
-  This raises an interesting question about the multiverse within the Sandman Universe - _our_ Dream was imprisoned at this point in time, but evidentially the dream of Prez's universe wasn't.  Yet somehow the chest is linked across universes...
+  This raises an interesting question about the multiverse within the Sandman Universe - _our_ Dream was imprisoned at this point in time, but evidentially the dream of Prez's universe wasn't. Yet somehow the chest is linked across universes...
 
 - #### Panel 5
 
