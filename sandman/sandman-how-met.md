@@ -18,7 +18,7 @@
 
 - #### Panel 2
 
-[Annie Miller](https://en.wikipedia.org/wiki/Annie_Miller) modelled for many Pre-Raphaelite artists.
+  [Annie Miller](https://en.wikipedia.org/wiki/Annie_Miller) modelled for many Pre-Raphaelite artists.
 
 ### Page 2-3
 

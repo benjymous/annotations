@@ -111,7 +111,7 @@ Norton's background as given here seems to be correct.
 
   In the mid-1800's, newspapers did not have to compete with television, and had also not undergone the homogenization that modern culture has seen. (This, of course, is demeaning to and not representative of the many fine alternative papers existing today; the point is that all newspapers were alternative, in some sense, long ago.) Accordingly, it is not surprising that a newspaper would publicize something as daft as Norton's proclamation; it was bound to get people's attention.
 
-Incidentally, the figure shadowed against the wall in this panel is Norton himself, as made evident on the next page.
+  Incidentally, the figure shadowed against the wall in this panel is Norton himself, as made evident on the next page.
 
 ### Page 8
 

@@ -76,11 +76,11 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
   Barbie's statement jibes with the end of _The Doll's House_.
 
-Prior to Rose's becoming the vortex, Barbie had dreamt she was a princess in a fairytale Land. After Rose forced the dreamers in Hal's house into each other's dreams, Barbie stopped dreaming.
+  Prior to Rose's becoming the vortex, Barbie had dreamt she was a princess in a fairytale Land. After Rose forced the dreamers in Hal's house into each other's dreams, Barbie stopped dreaming.
 
-The Game of Barbie is that she's two different people awake and sleeping.
+  The Game of Barbie is that she's two different people awake and sleeping.
 
-Note that Wanda uses alliterative pet names for Barbie.
+  Note that Wanda uses alliterative pet names for Barbie.
 
 - #### Panel 6
 

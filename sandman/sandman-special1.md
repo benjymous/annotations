@@ -23,7 +23,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
   Orpheus is traditionally the son of either Apollo or the Thracian king Oeagrus, and a muse, usually Calliope, sometimes Polyhymnia. As previously established in _Sandman_, Orpheus is the son of Dream and Calliope (Muse of epic poetry).
 
-**Hedge wizard**: A "hedge priest/parson" is a vagabond or illiterate clergyman. _Brewer's Phrase and Fable_ identifies hedge wizards as "persons of low origin, vagabonds who ply their trade in the open, under--or between--the hedges, etc." A hedge wizard is therefore a poor wizard.
+  **Hedge wizard**: A "hedge priest/parson" is a vagabond or illiterate clergyman. _Brewer's Phrase and Fable_ identifies hedge wizards as "persons of low origin, vagabonds who ply their trade in the open, under--or between--the hedges, etc." A hedge wizard is therefore a poor wizard.
 
 ### Page 2
 
@@ -33,7 +33,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
   Aristaeus is not traditionally a satyr (half-man, half-goat; note that those are horns, not a peculiar receding hairline), but is usually represented as a young man dressed like a shepherd, sometimes carrying a sheep. He was worshipped in ancient Greece, but his myths are now obscure. His name derives from "aristos" [transliterated], meaning "best". He is generally accepted as the son of the nymph Cyrene, who was carried off to Libya by Apollo. Aristaeus was indeed married to Autonoe, who is probably the daughter of Cadmus; their son was Actaeon, a mighty hunter, who accidentally saw Artemis bathing one day. She changed him into a stag and his own dogs hunted him down and slew him.
 
-[From the Encyclopedia Britannica, although mine only goes back to 1944, not to the 19th century like Gaiman's :-]
+  [From the Encyclopedia Britannica, although mine only goes back to 1944, not to the 19th century like Gaiman's :-]
 
 ### Page 4
 
@@ -63,7 +63,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
   It is perhaps jarring to see Delirium, and not Delight.
 
-Evidently the transformation occurred prior to Greece's Heroic Age. The only evidence we have to the contrary is Destiny's portrait of Delight as a young girl wearing relatively modern clothes; that, perhaps, might be an automatically updating portrait. Delirium has said the "Delight was a long time ago", and that may be quite ancient on the time scale of the Endless.
+  Evidently the transformation occurred prior to Greece's Heroic Age. The only evidence we have to the contrary is Destiny's portrait of Delight as a young girl wearing relatively modern clothes; that, perhaps, might be an automatically updating portrait. Delirium has said the "Delight was a long time ago", and that may be quite ancient on the time scale of the Endless.
 
 - #### Panel 5
 
@@ -117,7 +117,7 @@ Evidently the transformation occurred prior to Greece's Heroic Age. The only evi
 
   Note the three columns on the right with carved images of women. Such carvings are known as "caryatids", and the three may be a reference to the Triple Goddess. The female warrior statue on the left appears to have an owl's face on her shield, and is probably Athena; above the Triple Goddess are two who may be Apollo and Artemis. There are a number of other, more generic figures; the fat figure on the round roof may be from any number of pantheons, for example.
 
-The middle one looks like the statuette of the Goddess with the Snakes, only this is a weight lifter parody...
+  The middle one looks like the statuette of the Goddess with the Snakes, only this is a weight lifter parody...
 
 - #### Panel 3
 

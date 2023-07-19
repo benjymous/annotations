@@ -197,7 +197,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
   Julius Caesar invaded the British Islands, so the Britons were not unknown to the Romans. Julius invaded in three successive years in the fifty-somethings BC, failing each time. Tiberius also tried and Claudius eventually conquered England, but not Scotland or Wales, which retain some significant measure of their independence even today, despite the difficulties this causes the English Parliament. They just don't do what they're told....
 
-The phrase "Mad dogs and Englishmen stay out in the midday sun", I had thought, had originated in much more recent times, particularly the colonial period of India. Noel Coward, a quintessential Englishman, wrote a song with the name "Mad dogs and Englishmen..." and once posed for _Life_ magazine in full evening dress at noon in the Mojave desert. It's probably just an anachronistic joke of Gaiman's.
+  The phrase "Mad dogs and Englishmen stay out in the midday sun", I had thought, had originated in much more recent times, particularly the colonial period of India. Noel Coward, a quintessential Englishman, wrote a song with the name "Mad dogs and Englishmen..." and once posed for _Life_ magazine in full evening dress at noon in the Mojave desert. It's probably just an anachronistic joke of Gaiman's.
 
 - #### Panel 6
 
