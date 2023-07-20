@@ -20,7 +20,7 @@ Second story in the anthology "Worlds' End"
 
 - #### Panel 3
 
-  **Quinsy**: suppurative tonsillitis. Derived from the Greek "kunanche"; as we will see in issue 55, many of the names around Litharge seem to be Greek-derived. "Spartan quality goatskins": a reference to Trojans, a brand of condom.
+  **Quinsy**: suppurative tonsillitis. Derived from the Greek "kunanche"; as we will see in [issue 55](sandman.55.md), many of the names around Litharge seem to be Greek-derived. "Spartan quality goatskins": a reference to Trojans, a brand of condom.
 
 - #### Panel 4
 

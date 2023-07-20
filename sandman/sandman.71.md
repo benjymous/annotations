@@ -116,7 +116,7 @@
 
 - #### Panel 3
 
-  The Bhartari Raja was last seen in issue 53. "Silas Tomken Cumberbatch" was an alias used by the poet Samuel Taylor Coleridge (note the initials). Winnie the Pooh did not use a false name, rather his house had a sign above the front door reading "Saunders". (Thus he "lived under the name".)
+  The Bhartari Raja was last seen in [issue 53](sandman.53.md). "Silas Tomken Cumberbatch" was an alias used by the poet Samuel Taylor Coleridge (note the initials). Winnie the Pooh did not use a false name, rather his house had a sign above the front door reading "Saunders". (Thus he "lived under the name".)
 
 - #### Panel 4
 

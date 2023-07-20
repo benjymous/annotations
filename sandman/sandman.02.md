@@ -216,7 +216,7 @@ Note that the Fates give exactly one answer apiece, and it is deliberately incom
 
 - #### Panel 2
 
-  This is, of course, Ruthven Sykes from issue 1.
+  This is, of course, Ruthven Sykes from [issue 1](sandman.01.md).
 
 - #### Panel 3
 

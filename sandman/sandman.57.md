@@ -131,7 +131,7 @@ This sequence, where Matthew visits each of the characters in the Dreaming in tu
 
 - #### Panel 6
 
-  Aristeas of Marmora -- referenced in Issue 30 (see annotations for Issue 30)
+  Aristeas of Marmora -- referenced in [Issue 30](sandman.30.md).
 
 ### Page 17
 
@@ -195,7 +195,7 @@ This sequence, where Matthew visits each of the characters in the Dreaming in tu
 
 - #### Panel 2
 
-  The return of Lucifer, last seen in issue 28 on an Australian beach. The mute waitress is the demon Mazikeen from issue 23, the half-mask hiding the rotted, skinless horror that is the left half of her face.
+  The return of Lucifer, last seen in [issue 28](sandman.28.md) on an Australian beach. The mute waitress is the demon Mazikeen from [issue 23](sandman.23.md), the half-mask hiding the rotted, skinless horror that is the left half of her face.
 
 - #### Panel 3
 

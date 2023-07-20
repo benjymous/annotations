@@ -17,7 +17,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 - #### Panel 1
 
   First known appearance of Hal Carter, who will appear throughout this storyline. The house is also metaphorically the Doll's House of the storyline title.
-  The similarities between this picture and issue 10, page 22, panel 5-6 (Dream watching from doll's house in Unity's room) struck me.
+  The similarities between this picture and [issue 10, page 22](sandman.10.md#page-22), panel 5-6 (Dream watching from doll's house in Unity's room) struck me.
 
 ### Page 2
 

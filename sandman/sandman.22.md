@@ -96,7 +96,7 @@ This is a recap of [Sandman #4](sandman.04.md).
 
 - #### Panel 4
 
-  This guy is Abudah. He also appears as Mervyn's sidekick in issue 60, pp. 21-23
+  This guy is Abudah. He also appears as Mervyn's sidekick in [issue 60, pp. 21-23](sandman.60.md#page-21)
 
 ### Page 8
 

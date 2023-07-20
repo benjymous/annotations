@@ -54,7 +54,7 @@
 
 - #### Panel 1
 
-  The raven Jessamy appears in issue 29, "Thermidor". That story took place in the late eighteenth century.
+  The raven Jessamy appears in [issue 29](sandman.29.md), "Thermidor". That story took place in the late eighteenth century.
 
 ### Page 11
 
@@ -82,7 +82,7 @@
 
 - #### Panel 6
 
-  Auberon, in issue 18, is shown with ram's horns. A man whose wife is unfaithful is also traditionally referred to as "horned".
+  Auberon, in [issue 18](sandman.18.md), is shown with ram's horns. A man whose wife is unfaithful is also traditionally referred to as "horned".
 
 ### Page 15
 
@@ -106,7 +106,7 @@
 
 - #### Panel 4
 
-  An echo, perhaps, of page 9 of issue 12 ("The Doll's House" part 3).
+  An echo, perhaps, of [page 9 of issue 12](sandman.12.md#page-9) ("The Doll's House" part 3).
 
 ### Page 22
 

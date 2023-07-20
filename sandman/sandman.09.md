@@ -40,7 +40,7 @@ Now, sure, "Tales in the Sand" was written about four years before Loki is intro
 
 - #### Panel 6
 
-  **Grandmother Death**: This is the same Death we saw in issue 8.
+  **Grandmother Death**: This is the same Death we saw in [issue 8](sandman.08.md).
 
 ### Page 6
 
@@ -76,7 +76,7 @@ Now, sure, "Tales in the Sand" was written about four years before Loki is intro
 
 - #### Panel 5
 
-  Kai'ckul is what Nada called Dream in issue 4.
+  Kai'ckul is what Nada called Dream in [issue 4](sandman.04.md).
 
 ### Page 12
 

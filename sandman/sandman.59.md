@@ -52,7 +52,7 @@
 
 - #### Panel 1
 
-  As we learn a few pages from now, this is the return of Dream's immortal friend Hob Gadling. His most recent appearance was in issue 53, although his cameo in issue 22 is chronologically later.
+  As we learn a few pages from now, this is the return of Dream's immortal friend Hob Gadling. His most recent appearance was in [issue 53](sandman.53.md), although his cameo in [issue 22](sandman.22.md) is chronologically later.
 
 ### Page 8
 
@@ -60,7 +60,7 @@
 
 - #### Panel 1
 
-  The narrator of issue 53 was named Margaret. "Peggy" can be a nickname for Margaret, and the dates involved are close enough that the two might be the same person.
+  The narrator of [issue 53](sandman.53.md) was named Margaret. "Peggy" can be a nickname for Margaret, and the dates involved are close enough that the two might be the same person.
 
 ### Page 9
 

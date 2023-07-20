@@ -18,7 +18,7 @@
 
 - #### Panel 6
 
-  In issue 40, "The Parliament of Rooks".
+  In [issue 40](sandman.40.md), "The Parliament of Rooks".
 
 ### Page 2
 

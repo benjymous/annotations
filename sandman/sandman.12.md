@@ -69,7 +69,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 - #### Panel 3
 
-  Dream cannot kill a dreamer, except in one circumstance which is explicated later. From issue 9, we learned that an Endless cannot love a mortal without severe consequences. We will learn several other constraints on the Endless in this storyline.
+  Dream cannot kill a dreamer, except in one circumstance which is explicated later. From [issue 9](sandman.09.md), we learned that an Endless cannot love a mortal without severe consequences. We will learn several other constraints on the Endless in this storyline.
 
 ### Page 9
 

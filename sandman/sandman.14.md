@@ -77,6 +77,7 @@ We are back to the real storyline after last issue's side trip, in Dodge County,
 - #### Panel 1
 
   Gilbert's claim about Perrault is in fact inaccurate, in a most strange way.
+
   As near as I can figure, Gaiman had done his research, but confused things a little. The original oral tale, one with variations to be found as far away as China, most probably ended with strong sexual connotations, but with the girl surviving and killing the wolf. Perrault, the first to write a variation of the story down, quite likely was the first to _change_ the ending to the down note of the wolf eating the girl (however, he added a witty poem at the end which explained and illuminated the preceding unhappy tale; Perrault also added the red cap). The Grimm brothers combined a variation of Perrault's with the ending of another tale in which the the prey escapes _from_ the belly of the predator. However, many other folk tales _were_ prettified by writers.
 
   Funland does and says some of the same stuff as the story when he attacks her on page 29 (calling her a slut, telling her she won't need her dress any more, etc.)
@@ -137,7 +138,25 @@ I cannot identify any of these pictures. I suspect that they include famous seri
 
 - #### Panel 2
 
-  **The list reads**: Don't Look Now, The Collector, Manhunter, From the Life of the Marionettes, In Cold Blood, Compulsion, Straight on till Morning, ? on Scream[ing?], Night of the (?). _Don't Look Now_ -- made in 1973, is related to a short story by Daphne du Maurier, which has a grisly end -- a good and scary. Here's the [factsheet from E! Online](http://www.eonline.com/Facts/Movies/0,60,4977,00.html) and the [IMDb](http://uk.imdb.com/Title?0069995). _Manhunter_ is a movie based on the Thomas Harris novel _Red Dragon_, featuring a serial killer. Harris wrote another, better book, which was made into another, better movie about a serial killer, _Silence of the Lambs_. _In Cold Blood_ is probably the film version of Truman Capote's book about the killers Perry Smith and Richard Hickock. They killed a family named Clutter in Holcomb, Kansas, in 1959 and were later executed. The first incomplete title may be _Carry on Screaming_, while the second is _Night of the Hunter_, a movie starring Robert Mitchum and directed by Charles Laughton. Presumably, all of the movies have something to do with serial killers.
+  **The list reads**:
+
+  - Don't Look Now,
+  - The Collector,
+  - Manhunter,
+  - From the Life of the Marionettes,
+  - In Cold Blood,
+  - Compulsion,
+  - Straight on till Morning,
+  - [..]rry on Scream[..],
+  - Night of the H[..].
+
+  _Don't Look Now_ -- made in 1973, is related to a short story by Daphne du Maurier, which has a grisly end -- a good and scary. Here's the [factsheet from E! Online](http://www.eonline.com/Facts/Movies/0,60,4977,00.html) and the [IMDb](http://uk.imdb.com/Title?0069995).
+
+  _Manhunter_ is a movie based on the Thomas Harris novel _Red Dragon_, featuring a serial killer. Harris wrote another, better book, which was made into another, better movie about a serial killer, _Silence of the Lambs_.
+
+  _In Cold Blood_ is probably the film version of Truman Capote's book about the killers Perry Smith and Richard Hickock. They killed a family named Clutter in Holcomb, Kansas, in 1959 and were later executed.
+
+  The first incomplete title may be _Carry on Screaming_, while the second is _Night of the Hunter_, a movie starring Robert Mitchum and directed by Charles Laughton. Presumably, all of the movies have something to do with serial killers.
 
 - #### Panel 3
 

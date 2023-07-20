@@ -20,13 +20,27 @@
 
 The view shown is the entrance to the Minnesota Renaissance Festival held in Shakopee, Minnesota. According to report, Zulli visited it specifically to gather visual reference.
 
+### Page 5
+
+> [!THUMBNAIL] ![](thumbnails/sandman.73/page05.jpg)
+
+- #### Panel 1-3
+
+  Of course, we know about all these other historical Gadlings.
+
+### Page 6
+
+> [!THUMBNAIL] ![](thumbnails/sandman.73/page06.jpg)
+
+  On the theme of "People must change", he we see Hob really has had plenty of time to reconsider is part in the past.
+
 ### Page 9
 
 > [!THUMBNAIL] ![](thumbnails/sandman.73/page09.jpg)
 
 - #### Panel 7
 
-  **Milton Keynes**: a town in England named after the noted economist.
+  **Milton Keynes**: a "New City" in England built in the 1960s.  Best known for having numerous (traffic circles) and [Concrete Cows](https://en.wikipedia.org/wiki/Concrete_Cows).
 
 ### Page 11
 
@@ -36,9 +50,9 @@ The view shown is the entrance to the Minnesota Renaissance Festival held in Sha
 
   Gadling is punning on a line from Andrew Marvell's poem "To His Coy Mistress". The original has "love" rather than "lamb".
 
-- #### Panel 2
+- #### Panel 2-3
 
-  The bearded man seen here and in the next panel is noted fantasy writer (and friend of Gaiman's) Steven Brust. He was last seen at the Worlds' End Inn -- [56:9](sandman.56.md#page-9).7.
+  The bearded man seen in these two panels is noted fantasy writer (and friend of Gaiman's) Steven Brust. He was last seen at the Worlds' End Inn -- [56:9](sandman.56.md#page-9).7.
 
 ### Page 12
 
@@ -82,7 +96,7 @@ The view shown is the entrance to the Minnesota Renaissance Festival held in Sha
 
 ## Credits
 
-- Greg "elmo" Morrow (morrow@physics.rice.edu) created the SandmanAnnotations.
+- Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman Annotations.
 - Originally collated and edited by David Goldfarb.
-- Jeremy Kulow (Jeremy.J.Kulow@uwrf.edu) confirmed the specific
-- Renaissance festival used in the story, and its location.
+- Jeremy Kulow (Jeremy.J.Kulow@uwrf.edu) confirmed the specific Renaissance festival used in the story, and its location.
+- Richard Munn updated the entry on Milton Keynes.

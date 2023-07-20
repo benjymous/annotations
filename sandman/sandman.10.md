@@ -22,7 +22,7 @@ We have learned in earlier issues that Desire is Dream's younger sibling. Despit
 
 - #### Panel 1
 
-  The figure in the lower right is Desire. The face in the "tv screens" may be the Corinthian, who shows up later. There is also some resemblance to Neil Gaiman himself, except that the editor in the letter column in issue 15 says "That was NOT a photo of Neil on page 3. As far as you know."
+  The figure in the lower right is Desire. The face in the "tv screens" may be the Corinthian, who shows up later. There is also some resemblance to Neil Gaiman himself, except that the editor in the letter column in [issue 15](sandman.15.md) says "That was NOT a photo of Neil on page 3. As far as you know."
 
 ### Page 4
 
@@ -50,7 +50,7 @@ We have learned in earlier issues that Desire is Dream's younger sibling. Despit
 
 - #### Panel 6
 
-  Desire was manipulating Dream and/or Nada in issue 9.
+  Desire was manipulating Dream and/or Nada in [issue 9](sandman.09.md).
 
 - #### Panel 7
 
@@ -58,7 +58,7 @@ We have learned in earlier issues that Desire is Dream's younger sibling. Despit
 
 ### Page 6-7
 
-First known appearances of Miranda and Rose Walker, who will be very important to this storyline, and Mr. Jack Holdaway, who will not. It will be confirmed later that Rose is in fact the person Judy was talking to on page 6 of issue 6.
+First known appearances of Miranda and Rose Walker, who will be very important to this storyline, and Mr. Jack Holdaway, who will not. It will be confirmed later that Rose is in fact the person Judy was talking to on page 6 of [issue 6](sandman.06.md).
 
 ### Page 6
 
@@ -94,7 +94,7 @@ First known appearances of Miranda and Rose Walker, who will be very important t
 
 - #### Panel 2-3
 
-  This is the House of Secrets. The characters are Abel, Lucien, and Goldie. For more, see issue 2.
+  This is the House of Secrets. The characters are Abel, Lucien, and Goldie. For more, see [issue 2](sandman.02.md).
 
 - #### Panel 7
 
@@ -124,7 +124,7 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 - #### Panel 1
 
-  Brute and Glob appeared in the 1970s run of Sandman. For more, see issue 2.
+  Brute and Glob appeared in the 1970s run of Sandman. For more, see [issue 2](sandman.02.md).
 
 - #### Panel 2-3
 
@@ -180,7 +180,7 @@ Annulet is defined on the next page. Rose is the dream vortex. The inference fro
 
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page19.jpg)
 
-The Three-in-One Goddess. See issue 2.
+The Three-in-One Goddess. See [issue 2](sandman.02.md).
 
 - #### Panel 3
 

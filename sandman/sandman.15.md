@@ -54,17 +54,17 @@ Later panels also mention "The Cuckoo" and "The Disciples of the Cuckoo", villai
 
 Chantal's dream occupies the top half of the double-page spread, Zelda's the bottom. The illustration of the two sleeping implies that they are lovers. Their relationship was uncertain to the other residents of the house. Note that the original comic, a caption from Zelda's dream appears in the central panel, but is virtually obscured by a lace overlay on the art.
 
-**The caption reads**:
+- #### The caption reads
 
-> Mommy and Daddy told me to go away so here I am in the old bone orchard nobody understands me nobody cares nobody else userstands it the beauty of the lost necropolis is the Charnel charm,
+  > Mommy and Daddy told me to go away so here I am in the old bone orchard nobody understands me nobody cares nobody else userstands it the beauty of the lost necropolis is the Charnel charm,
 
-**The second caption**:
+- #### The second caption
 
-> oh but chantal comes along and shows me she's my soul sister me and her true gothic heroines secret brides of the faceless slaves of the forbidden house of the nameless night of the castle of dread desire
+  > oh but chantal comes along and shows me she's my soul sister me and her true gothic heroines secret brides of the faceless slaves of the forbidden house of the nameless night of the castle of dread desire
 
-- ####Chantal panel 1
+- #### Chantal panel 1
 
-Chantal's self-image is flat, all solid colors and lines, a sophisticated-looking lady. The style resembles artist Patrick Nagel. The caption reads: "Chantal is having a relationship with a sentence. Just one of those things. A chance meeting that grew into something important for both of them."
+  Chantal's self-image is flat, all solid colors and lines, a sophisticated-looking lady. The style resembles artist Patrick Nagel. The caption reads: "Chantal is having a relationship with a sentence. Just one of those things. A chance meeting that grew into something important for both of them."
 
 - #### Panel 2
 
@@ -94,9 +94,9 @@ Chantal's self-image is flat, all solid colors and lines, a sophisticated-lookin
 
   What does the skull in the cupped hands mean? Above this panel, in the panel of Zelda and Chantal together, there are meant to be two captions. The two captions do not appear in the original comic publication, but were replaced in the trade paperback reprint. The first reads: With Melmoth we walk the corridors of Otranto
 
-**The second reads**:
+- #### The second reads
 
-> And Chantal says I'm going to take off my veil Zelda and Oh God I know it's going to be my mom saying Oh God Zee you're sick listen Robert do you know wht I found in her room your daughter's disGUSTing
+  > And Chantal says I'm going to take off my veil Zelda and Oh God I know it's going to be my mom saying Oh God Zee you're sick listen Robert do you know wht I found in her room your daughter's disGUSTing
 
 - #### Panel 4
 

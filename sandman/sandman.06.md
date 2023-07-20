@@ -220,7 +220,7 @@ The theme music is indeed correct for the 60s television show "The Addams Family
 
 > [!THUMBNAIL] ![](thumbnails/sandman.06/page16.jpg)
 
-In this sequence, the three women take the roles of the Hecateae, reintroduced in issue 3. Dee repeatedly demands a prophecy until he hears what he wants to hear. Notice that Judy has lost her shirt, which is consistent with Judy being involved in the sex scene on the previous page. Also note that the women are arranged in a maiden/mother/crone order.
+In this sequence, the three women take the roles of the Hecateae, reintroduced in [issue 3](sandman.03.md). Dee repeatedly demands a prophecy until he hears what he wants to hear. Notice that Judy has lost her shirt, which is consistent with Judy being involved in the sex scene on the previous page. Also note that the women are arranged in a maiden/mother/crone order.
 
 - #### Panel 3
 

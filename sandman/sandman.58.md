@@ -32,7 +32,7 @@ Gaiman and Pinkwater have been known to hang out on each other's discussion fora
 
 - #### Panel 3
 
-  Cluracan was of course last seen in issue 56; his sister Nuala in issue 52.
+  Cluracan was of course last seen in [issue 56](sandman.56.md); his sister Nuala in [issue 52](sandman.52.md).
 
 ### Page 7
 
@@ -122,7 +122,7 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
 - #### Panel 3
 
-  **An echo**: twice before the three witches have appeared to answer three questions. Once when summoned by Dream in issue 2, and once to Rose Walker in issue 10.
+  **An echo**: twice before the three witches have appeared to answer three questions. Once when summoned by Dream in [issue 2](sandman.02.md), and once to Rose Walker in [issue 10](sandman.10.md).
 
 ### Page 17
 
@@ -138,7 +138,7 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
 - #### Panel 3
 
-  No refs on these figures or the name "Ruthven", other than that Gaiman used the name for a minor character in issue 1.
+  No refs on these figures or the name "Ruthven", other than that Gaiman used the name for a minor character in [issue 1](sandman.01.md).
 
 ### Page 19
 
@@ -154,7 +154,7 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
 - #### Panel 3
 
-  Morpheus and Nuala seem oddly ignorant of the events recounted in issue 52. We can speculate that the reality storm sent Cluracan back in time, but things aren't that simple: Queen Titania would likely have noticed her ambassador arriving before he left. Further, there is no evidence in that story of the events shown in this.
+  Morpheus and Nuala seem oddly ignorant of the events recounted in [issue 52](sandman.52.md). We can speculate that the reality storm sent Cluracan back in time, but things aren't that simple: Queen Titania would likely have noticed her ambassador arriving before he left. Further, there is no evidence in that story of the events shown in this.
 
 ### Page 23
 
