@@ -24,7 +24,7 @@
 
   Lyta calles Lieutenant Pinkerton "Lieutenant Pinkwater" -- tip of the hat to Daniel Manus Pinkwater, National Public Radio commentator and author of the classic young adult books _Lizard Music_, _The Last Guru_ and _Young Adult Novel_, as well as several books for younger readers.
 
-Gaiman and Pinkwater have been known to hang out on each other's discussion fora on GEnie. (This was back in '93-'94; not sure if it's still the case)
+  Gaiman and Pinkwater have been known to hang out on each other's discussion fora on GEnie. (This was back in '93-'94; not sure if it's still the case)
 
 ### Page 5
 
@@ -162,7 +162,7 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
 - #### Panel 7
 
-  Nuala's crystal in was given her by the last Dream's lover as seen in [issue #42](sandman.42.md) page 4, panel 5.
+  Nuala's crystal in was given her by the last Dream's lover as seen in [issue #42, page 4](sandman.42.md#page-4), panel 5.
 
 - #### Panel 9
 

@@ -52,7 +52,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 - #### Panel 1
 
-  This was foreshadowed in [Sandman #32](sandman.32.md) page 1.
+  This was foreshadowed in [Sandman #32, page 1](sandman.32.md#page-1).
 
 ### Page 5
 

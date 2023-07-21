@@ -3,7 +3,7 @@
 
   "root": "sandman",
 
-  "plugins": ["flexible-alerts"],
+  "plugins": ["-search", "search-plus", "flexible-alerts"],
 
   "pluginsConfig": {
     "flexible-alerts": {

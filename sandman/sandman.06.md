@@ -226,7 +226,7 @@ In this sequence, the three women take the roles of the Hecateae, reintroduced i
 
   Kate seems to be referring to Arkham Asylum here, where John Dee just came from. Bette is in the role of Atropos, who cuts the thread of each person's life as it ends, in Greek mythology.
 
-  While the clock image has appeared previously, I direct you to [Sandman Issue #10](sandman.10.md) "the Doll's House", page 19 panel 1. The ceiling is a giant watch /clock, implying a connection between time and the Hecatae. Since the three women in [issue #6](sandman.06.md), page 16 are playing the role of the Hecatae, they are giving a watch/clock as well.
+  While the clock image has appeared previously, I direct you to [Sandman Issue #10](sandman.10.md#page-19) "the Doll's House", page 19 panel 1. The ceiling is a giant watch /clock, implying a connection between time and the Hecatae. Since the three women in [issue #6, page 16](sandman.06.md#page-16) are playing the role of the Hecatae, they are giving a watch/clock as well.
 
 ### Page 17
 

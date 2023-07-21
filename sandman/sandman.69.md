@@ -12,7 +12,7 @@
 
 - #### Panel 5
 
-  8:9:5.
+  See [8](sandman.08.md):9.5, if _you_ don't remember.
 
 ### Page 3
 
@@ -128,7 +128,7 @@
 
 - #### Panel 6
 
-  Hal says, "In the midst of death, we are in life" (page 18, panel 6). I don't know if this was noted and simply not annotated because it was so obvious, but I figured I'd mention anyway that it's a reversal of a line that my quotation dictionary lists as coming from "Burial of the Dead" in _Book of Common Prayer_: "In the midst of life we are in death." (found by Sarah Alderdice <viverais@freeze.com>)
+  Hal says, "In the midst of death, we are in life". I don't know if this was noted and simply not annotated because it was so obvious, but I figured I'd mention anyway that it's a reversal of a line that my quotation dictionary lists as coming from "Burial of the Dead" in _Book of Common Prayer_: "In the midst of life we are in death." (found by Sarah Alderdice <viverais@freeze.com>)
 
 ### Page 19
 
@@ -140,7 +140,7 @@
 
 - #### Panel 2
 
-  This echoes Edwin Paine's personal hell from "The Season of Mists" part 4 (25:8).
+  This echoes Edwin Paine's personal hell from "The Season of Mists" part 4 ([25](sandman.25.md):8).
 
 - #### Panel 3
 
@@ -183,6 +183,51 @@
 - #### Panel 1
 
   This panel, beginning the epilogue to "The Kindly Ones" **echoes another from the prologue to it**: [57](sandman.57.md):2.2.
+
+  It also concludes the meta-narrative on the story that runs through most of the starting panels:
+
+  - ##### 57:1.1:
+    Is it ready yet?  Are you Done?<br>
+    Nearly. _There_ we go.
+
+  - ##### 58:1.1:
+    Well?  How long is it going to _take_?
+
+  - ##### 59:1.1:
+    I think it's going to be bigger than I had planned.<br>
+    I don't mind.  As big as it needs to be.
+
+  - ##### 60:1.1:
+    I wish I could be certain that I was doing the right thing.
+
+  - ##### 61:1.1:
+    It's happening.  Very slowly, but it's happening.<br>
+    It always takes longer than you think, doesn't it?
+
+  - ##### 63:1.1
+    I never thought I would ever get to this place.<br>
+    Destinations are often a surprise to the destined.
+
+  - ##### 64:1.1
+    (thread about to be cut)
+
+  - ##### 65:1.1
+    Almost time.<br>
+    Nearly.  _Very_ nearly.
+
+  - ##### 66:1.1
+    (thread pulled apart)<br>
+    There.
+
+  - ##### 67:
+    ... (there's no text in this first panel)
+
+  - ##### 68:1.1
+    Still here, then?
+
+  - ##### 69:23.1:
+    So it's finished.<br>
+    Yes.
 
 - #### Panel 2
 
@@ -235,3 +280,4 @@
 - Timothy Hock Seng Tan <083285@bud.cc.swin.edu.au> who knew who Loki & Puck are working for.
 - Sarah Alderdice <viverais@freeze.com> added a note about p18.
 - Ralf Hildebrandt added more details.
+- Richard Munn noted the first panel meta-commentary.

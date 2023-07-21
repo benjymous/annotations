@@ -173,7 +173,7 @@ Norton's background as given here seems to be correct.
 
 - #### Panel 4
 
-  Delirium has expressed the dislike of being laughed at before, in [Sandman #21](sandman.21.md) page 17 panel 5, and does so again in a later issue.
+  Delirium has expressed the dislike of being laughed at before, in [Sandman #21, page 17](sandman.21.md#page-17) panel 5, and does so again in a later issue.
 
 - #### Panel 5
 

@@ -9,6 +9,7 @@
     "honkit": "^4.0.8"
   },
   "dependencies": {
-    "gitbook-plugin-flexible-alerts": "^1.0.4"
+    "gitbook-plugin-flexible-alerts": "^1.0.4",
+    "gitbook-plugin-search-plus": "^1.0.4-alpha-3"
   }
 }

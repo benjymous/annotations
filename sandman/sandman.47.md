@@ -24,7 +24,7 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 
 - #### Panel 4
 
-  As theorized in [#48](sandman.48.md) page 16, the Endless embody both their name and their opposite. Hence, Destruction includes creation, which explains his sculpture, painting, and cooking.
+  As theorized in [#48, page 16](sandman.48.md#page-16), the Endless embody both their name and their opposite. Hence, Destruction includes creation, which explains his sculpture, painting, and cooking.
 
   Eleni Petrakou <tulpoeid@hotmail.com> tends to disagree:
 

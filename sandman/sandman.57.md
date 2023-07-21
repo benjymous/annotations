@@ -92,7 +92,7 @@ The first panel of each installment of "The Kindly Ones" until the tenth has som
 
 > [!THUMBNAIL] ![](thumbnails/sandman.57/page09.jpg)
 
-This sequence, where Matthew visits each of the characters in the Dreaming in turn, is oddly reminiscent of the story in the "Vertigo Jam".
+This sequence, where Matthew visits each of the characters in the Dreaming in turn, is oddly reminiscent of the story in the "[Vertigo Jam](sandman-vertigojam1.md)".
 
 ### Page 11
 
@@ -161,7 +161,7 @@ This sequence, where Matthew visits each of the characters in the Dreaming in tu
 
   The song is "These Foolish Things", by Jack Strachey and Eric Maschwitz, English lyrics by Harry Link. A notable line not quoted:
 
-> "Oh, how the ghost of you clings."
+  > "Oh, how the ghost of you clings."
 
 ### Page 19
 

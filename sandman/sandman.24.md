@@ -169,7 +169,7 @@ The Silver City is new. It has also appeared in _The Books of Magic_ #1. My own 
 
 - #### Panel 1
 
-  In [Sandman #22](sandman.22.md), page 22, we saw Dream's castle in the sea; here's it's on a hill. This should surprise no one.
+  In [Sandman #22, page 22](sandman.22.md#page-22), we saw Dream's castle in the sea; here's it's on a hill. This should surprise no one.
 
 - #### Panel 2
 

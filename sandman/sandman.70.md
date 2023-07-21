@@ -102,7 +102,7 @@
 
   Possibilities for who the missing _seventh_ cerement is meant for, (and reasons against):
 
-  - Death: she is supposed to be the last of the Endless to leave the universe, ([#20](sandman.20.md), page 20, panel 6, among others), and so cannot die. (But we have not been explicitly told she can't die.)
+  - Death: she is supposed to be the last of the Endless to leave the universe, ([#20, page 20](sandman.20.md#page-20), panel 6, among others), and so cannot die. (But we have not been explicitly told she can't die.)
 
   - Despair: Despair was killed at one point. (But there is no reason why she can't die again.)
 
@@ -144,7 +144,7 @@
 
 Note that there is no page number.
 
-Note how Eve gets progressively younger. We've seen this happen before in [Season of Mists #3](sandman.24.md) page 18 and [The Kindly Ones #1](sandman.57.md) page 16.
+Note how Eve gets progressively younger. We've seen this happen before in [Season of Mists #3, page 18](sandman.24.md#page-18) and [The Kindly Ones #1](sandman.57.md) page 16.
 
 - #### Panel 1
 
@@ -186,7 +186,7 @@ Thomas Wilde @ tvs_wanderer@yahoo.com:
 
 - #### Panel 6
 
-  The man with the swan wing appears to be the same one that appeared in the Kindly Ones, whom Dream talked to. (see [#64](sandman.64.md) page 5)
+  The man with the swan wing appears to be the same one that appeared in the Kindly Ones, whom Dream talked to. (see [#64, page 5](sandman.64.md#page-5))
 
 ### Page 18
 

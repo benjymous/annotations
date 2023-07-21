@@ -97,7 +97,7 @@ Finally, Delirium and Death. In the introduction to the "Death Gallery", Gaiman 
 
 - #### Panel 7
 
-  The lady behind the bar seems to be wearing a similar crystal to the one given to Nuala in Brief Lives [Sandman #42](sandman.42.md#page-5) page 5. It was also seen in The Kindly Ones [Sandman #58](sandman.58.md).
+  The lady behind the bar seems to be wearing a similar crystal to the one given to Nuala in Brief Lives [Sandman #42, page 5](sandman.42.md#page-5). It was also seen in The Kindly Ones [Sandman #58](sandman.58.md).
 
 ## Credits
 

@@ -46,7 +46,7 @@ First story reprinted in _The Doll's House_
 
 - #### Paragraph 4:
 
-  The information that the Order was embroiled in a scandal when Sykes and Cripps was also mentioned in [Sandman #1](sandman.01.md), page 14, panel 3 which brings the newspaper com Roderick Burgess and Ethel Cripps and describes scandal, which involves the suicide of the museum administrator, which we see in Sandman #1.
+  The information that the Order was embroiled in a scandal when Sykes and Cripps was also mentioned in [Sandman #1, page 14](sandman.01.md#page-14), panel 3 which brings the newspaper com Roderick Burgess and Ethel Cripps and describes scandal, which involves the suicide of the museum administrator, which we see in Sandman #1.
 
 ### Page 1
 
