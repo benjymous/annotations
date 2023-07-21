@@ -304,7 +304,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 > [!THUMBNAIL] ![](thumbnails/sandman.32/page20.jpg)
 
-Martin Tenbones has grown since the Doll's House, where he was no more than chest-high to Barbara.
+- Martin Tenbones has grown since the Doll's House, where he was no more than chest-high to Barbara.
 
 ### Page 21
 

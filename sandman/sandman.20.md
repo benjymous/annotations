@@ -14,11 +14,11 @@ Fourth story reprinted in trade paperback _Dream Country_
 
 > [!THUMBNAIL] ![](thumbnails/sandman.20/page01.jpg)
 
-The central character of the story is Urania "Rainie" Blackwell, who first appeared in _Metamorpho_ #10 (1967). She was an agent with an unnamed US intelligence service who volunteered to expose herself to the radiations of the meteor that formed part of the "Orb of Ra". These radiations had earlier transformed Rex Mason into the superhero Metamorpho. Subsequently, Blackwell took the sobriquet "Element Girl". Both Metamorpho and Element Girl had the ability to transform their bodies into any chemical element or compound found in the human body, and to transform into any shape. As a side effect of their powers, their bodies became non-human in color and composition.
+- The central character of the story is Urania "Rainie" Blackwell, who first appeared in _Metamorpho_ #10 (1967). She was an agent with an unnamed US intelligence service who volunteered to expose herself to the radiations of the meteor that formed part of the "Orb of Ra". These radiations had earlier transformed Rex Mason into the superhero Metamorpho. Subsequently, Blackwell took the sobriquet "Element Girl". Both Metamorpho and Element Girl had the ability to transform their bodies into any chemical element or compound found in the human body, and to transform into any shape. As a side effect of their powers, their bodies became non-human in color and composition.
 
-Element Girl had a short career as a superhero, acting as sidekick to Metamorpho, retiring (I believe) with the first cancellation of Metamorpho's book. Metamorpho lurked around the background of the DC universe for years, eventually joining the Outsiders, then the Justice League.
+  Element Girl had a short career as a superhero, acting as sidekick to Metamorpho, retiring (I believe) with the first cancellation of Metamorpho's book. Metamorpho lurked around the background of the DC universe for years, eventually joining the Outsiders, then the Justice League.
 
-Her characterization here as a terrified isolated agoraphobe is new.
+  Her characterization here as a terrified isolated agoraphobe is new.
 
 ### Page 2
 
@@ -80,7 +80,7 @@ Her characterization here as a terrified isolated agoraphobe is new.
 
 > [!THUMBNAIL] ![](thumbnails/sandman.20/page15.jpg)
 
-This, of course, is good ol' Death, Dream's older sister. Recall that her symbol, the Ankh, is specifically an _Egyptian_ symbol of life.
+- This, of course, is good ol' Death, Dream's older sister. Recall that her symbol, the Ankh, is specifically an _Egyptian_ symbol of life.
 
 ### Page 18
 

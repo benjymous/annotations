@@ -30,7 +30,7 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 > [!THUMBNAIL] ![](thumbnails/sandman.74/page04.jpg)
 
-The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's known to have existed as early as the 13th century C.E.The "White Lotus Rebellion" lasted from 1796 to 1804.
+- The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's known to have existed as early as the 13th century C.E.The "White Lotus Rebellion" lasted from 1796 to 1804.
 
 ### Page 5
 

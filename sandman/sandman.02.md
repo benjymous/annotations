@@ -14,7 +14,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 > [!THUMBNAIL] ![](thumbnails/sandman.02/page01.jpg)
 
-The black-haired man is Abel, the other Cain. These would be familiar to most long-term readers of comics. Originally, they were the hosts for DC's watered-down versions of EC's mystery series. Cain was the host of _House of Mystery_, Abel the host of _House of Secrets_. Cain and Abel also appeared in _Plop!_, a DC humor title of the 1970s, along with Eve; they were drawn there by Sergio Aragones, who has appeared in Mad and currently does _Groo the Wanderer_, which is why Sergio did the pinup of them in [_Sandman_ Special #1](sandman-special1.md).
+- The black-haired man is Abel, the other Cain. These would be familiar to most long-term readers of comics. Originally, they were the hosts for DC's watered-down versions of EC's mystery series. Cain was the host of _House of Mystery_, Abel the host of _House of Secrets_. Cain and Abel also appeared in _Plop!_, a DC humor title of the 1970s, along with Eve; they were drawn there by Sergio Aragones, who has appeared in Mad and currently does _Groo the Wanderer_, which is why Sergio did the pinup of them in [_Sandman_ Special #1](sandman-special1.md).
 
 Cain and Abel, of course, are the first two children of the first two people in Genesis, the biblical creation story. Cain slew Abel over a disagreement over their offerings to God, was marked by God, and was sent to live in the Land of Nod. The nursery rhyme of "Winken, Blinken, and Nod" identifies the Land of Nod as the Land of Dreams.
 
@@ -146,23 +146,23 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 > [!THUMBNAIL] ![](thumbnails/sandman.02/page16.jpg)
 
-_Who's Who_ #15 (1991) has a great deal of information on the Three Witches, or the Three-in-One as they are called here. The Three may appear as a single entity, or as a group of three women. The three women invariably appear symbolically as maiden, mother, and crone.
+- _Who's Who_ #15 (1991) has a great deal of information on the Three Witches, or the Three-in-One as they are called here. The Three may appear as a single entity, or as a group of three women. The three women invariably appear symbolically as maiden, mother, and crone.
 
-In the Egypt of the Pharaohs, the Three were known collectively as Mut, and named individually as Maat, Hathor, and Nekhbet. In Egypt, as in many of their incarnations, the Three represented matriarchal, pre-civilization, mother/goddess worship.
+  In the Egypt of the Pharaohs, the Three were known collectively as Mut, and named individually as Maat, Hathor, and Nekhbet. In Egypt, as in many of their incarnations, the Three represented matriarchal, pre-civilization, mother/goddess worship.
 
-In Greek mythology, the Three were known as the Fates, or Moirae, named Clotho, Lachesis, and Atropos. Each man's life was a thread spun by Clotho, measured by Lachesis, and cut by Atropos. The Fates were the sisters of Hypnos (god of sleep), Oneiros (god of dreams), and Thanatos (god of death). These deities were the parthenogenetic children of Nyx (night), who was herself born of no mother to Chaos.
+  In Greek mythology, the Three were known as the Fates, or Moirae, named Clotho, Lachesis, and Atropos. Each man's life was a thread spun by Clotho, measured by Lachesis, and cut by Atropos. The Fates were the sisters of Hypnos (god of sleep), Oneiros (god of dreams), and Thanatos (god of death). These deities were the parthenogenetic children of Nyx (night), who was herself born of no mother to Chaos.
 
-They have also been identified with the Furies, although this incarnation is generally referred to as "the Kindly Ones" to avoid their wrath. In the original Greek, the Furies are known as Erinyes, while the Kindly Ones are Eumenides. The Furies are named Tisiphone, Megaera, and Alecto. The Three are also identified with a mother goddess form of Hecate Trioditus ("of the three ways"). In this form, Luna ruled heaven, Artemis or Cynthia ruled Earth, and Hecate ruled the underworld. Hecate is more familiar to modern Westerners as a goddess of witches and black magic.
+  They have also been identified with the Furies, although this incarnation is generally referred to as "the Kindly Ones" to avoid their wrath. In the original Greek, the Furies are known as Erinyes, while the Kindly Ones are Eumenides. The Furies are named Tisiphone, Megaera, and Alecto. The Three are also identified with a mother goddess form of Hecate Trioditus ("of the three ways"). In this form, Luna ruled heaven, Artemis or Cynthia ruled Earth, and Hecate ruled the underworld. Hecate is more familiar to modern Westerners as a goddess of witches and black magic.
 
-The Romans knew the Three as the Parcae or Fortuna. Again, the pre-civilization goddess-worshippers followed the Three, as Juventas the maiden, Juno the mother, and Minerva the wise old crone. The Norse knew the Three as the Norns, Urth, Verthandi, and Skuld. "Skald" is also the Viking word for poet.
+  The Romans knew the Three as the Parcae or Fortuna. Again, the pre-civilization goddess-worshippers followed the Three, as Juventas the maiden, Juno the mother, and Minerva the wise old crone. The Norse knew the Three as the Norns, Urth, Verthandi, and Skuld. "Skald" is also the Viking word for poet.
 
-The Norse were (and are) an Indo-Germanic people, so basically the same archetypes will be found in Norse as well as Greek myths.
+  The Norse were (and are) an Indo-Germanic people, so basically the same archetypes will be found in Norse as well as Greek myths.
 
-The three Norns are named after the past, present and future (in that order). In modern Norwegian you will find remnants of Verdande in the word "Vaerende" roughly translated "the existing" (which covers at least one of the aspects of the word). As for the future, which Skuld represents, it is represented by the verb "skuld", which means to become, should be and/or could be. If we look at the english word "should" we'll find that it has evolved from the same root as "skuld", also the Norwegian word "skulle" (with basically the same meaning as "should") shares some qualities with "skuld" source: Caplex (a Norwegian dictionary and my own basic knowledge in etymology and the history of languages).
+  The three Norns are named after the past, present and future (in that order). In modern Norwegian you will find remnants of Verdande in the word "Vaerende" roughly translated "the existing" (which covers at least one of the aspects of the word). As for the future, which Skuld represents, it is represented by the verb "skuld", which means to become, should be and/or could be. If we look at the english word "should" we'll find that it has evolved from the same root as "skuld", also the Norwegian word "skulle" (with basically the same meaning as "should") shares some qualities with "skuld" source: Caplex (a Norwegian dictionary and my own basic knowledge in etymology and the history of languages).
 
-The Three occupied a position in Anglo-Saxon lore as the Weird Sisters, and Shakespeare used this cultural referent in his play _Macbeth_.
+  The Three occupied a position in Anglo-Saxon lore as the Weird Sisters, and Shakespeare used this cultural referent in his play _Macbeth_.
 
-Irish Celtic myth portrayed the Three as the Morrigan, a triune war goddess whose aspects were named Nemhan, Babd, and Macha. The Morrigan is also identified with Morgan le Fay, of the Arthurian cycle of legends.
+  Irish Celtic myth portrayed the Three as the Morrigan, a triune war goddess whose aspects were named Nemhan, Babd, and Macha. The Morrigan is also identified with Morgan le Fay, of the Arthurian cycle of legends.
 
 ### Page 18
 
@@ -178,7 +178,7 @@ Irish Celtic myth portrayed the Three as the Morrigan, a triune war goddess whos
 
 ### Page 19-20:
 
-Notice that the ladies are changing position, or into one another's shape, cyclically, and that what one eats, the next finishes.
+- Notice that the ladies are changing position, or into one another's shape, cyclically, and that what one eats, the next finishes.
 
 ### Page 19
 
@@ -208,7 +208,7 @@ Notice that the ladies are changing position, or into one another's shape, cycli
 
 > [!THUMBNAIL] ![](thumbnails/sandman.02/page21.jpg)
 
-Note that the Fates give exactly one answer apiece, and it is deliberately incomplete.
+- Note that the Fates give exactly one answer apiece, and it is deliberately incomplete.
 
 - #### Panel 1
 

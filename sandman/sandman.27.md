@@ -72,7 +72,7 @@ This is a two page splash panel spread. Note the cherubs spreading the tarpaulin
 
 > [!THUMBNAIL] ![](thumbnails/sandman.27/page09.jpg)
 
-The flip panel effect of Dream and Duma is somewhat odd, since Duma apparently disappears from panels 2 and 3. I reconstruct the sequence as follows:
+- The flip panel effect of Dream and Duma is somewhat odd, since Duma apparently disappears from panels 2 and 3. I reconstruct the sequence as follows:
 
 - #### Panel 1
 
@@ -98,7 +98,7 @@ The flip panel effect of Dream and Duma is somewhat odd, since Duma apparently d
 
 > [!THUMBNAIL] ![](thumbnails/sandman.27/page10.jpg)
 
-Remiel's speech on this page is a swipe of a speech preached upon the Mount of Olives in the Garden of Gethsemane, the sequence in the Bible where Jesus asks his father if he may avoid the suffering that he will face in the next day. "Let this burden pass" and the cup metaphor are exactly taken from that soliloquy.
+- Remiel's speech on this page is a swipe of a speech preached upon the Mount of Olives in the Garden of Gethsemane, the sequence in the Bible where Jesus asks his father if he may avoid the suffering that he will face in the next day. "Let this burden pass" and the cup metaphor are exactly taken from that soliloquy.
 
 ### Page 11
 

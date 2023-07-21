@@ -37,7 +37,7 @@ Not yet reprinted in any other form
 
 > [!THUMBNAIL] ![](thumbnails/sandman.26/page03.jpg)
 
-I will only note any beings who were not seen in [Sandman #24](sandman.24.md). A knowledge of what has gone before is essential to the understanding of the events of this issue. The servitor here, and the female one on page 5, are dressed in nightclothes, and one infers that Dream has summoned two dreamers to act as servants at his banquet.
+- I will only note any beings who were not seen in [Sandman #24](sandman.24.md). A knowledge of what has gone before is essential to the understanding of the events of this issue. The servitor here, and the female one on page 5, are dressed in nightclothes, and one infers that Dream has summoned two dreamers to act as servants at his banquet.
 
 - #### Panel 1
 
@@ -63,7 +63,7 @@ I will only note any beings who were not seen in [Sandman #24](sandman.24.md). A
 
 > [!THUMBNAIL] ![](thumbnails/sandman.26/page07.jpg)
 
-This is a splash panel. Note the figures below the angels; we did not see these beings in [Sandman #24](sandman.24.md), where the gods were introduced. We infer these to be more figures interested in obtaining Hell. The leftmost figure resembles the traditional depiction of wizards, with long beard and astrologically-bedecked pointy hat. He is possibly the wizard Merlin, of the Arthurian cycle. The others' identities are not readily apparent.
+- This is a splash panel. Note the figures below the angels; we did not see these beings in [Sandman #24](sandman.24.md), where the gods were introduced. We infer these to be more figures interested in obtaining Hell. The leftmost figure resembles the traditional depiction of wizards, with long beard and astrologically-bedecked pointy hat. He is possibly the wizard Merlin, of the Arthurian cycle. The others' identities are not readily apparent.
 
 ### Page 8
 
@@ -149,9 +149,9 @@ This is a splash panel. Note the figures below the angels; we did not see these 
 
 > [!THUMBNAIL] ![](thumbnails/sandman.26/page18.jpg)
 
-Note the Japanese-style art. One would normally expect Susano-O-No-Mikoto, a boisterous, shouting thunder god, to be characterized more like Thor. Here, however, he appears to be the Western image of a Japanese business executive. This is an example of one of Gaiman's theses, that myths are colored by those who tell them and by those who hear them. Here, a Shinto myth changes to satisfy Western expectations. The Japanese would likely be startled to see the Floating Bridge of Heaven as a zaibatsu and the kami as sararimen, save in parody.
+- Note the Japanese-style art. One would normally expect Susano-O-No-Mikoto, a boisterous, shouting thunder god, to be characterized more like Thor. Here, however, he appears to be the Western image of a Japanese business executive. This is an example of one of Gaiman's theses, that myths are colored by those who tell them and by those who hear them. Here, a Shinto myth changes to satisfy Western expectations. The Japanese would likely be startled to see the Floating Bridge of Heaven as a zaibatsu and the kami as sararimen, save in parody.
 
-[N.B. Zaibatsu: a collection of allied firms. Neither a vertical nor a horizontal trust but more akin to the entire economy in microcosm. Sararimen: Company men, middle level workers who devote their careers to one company.]
+  [N.B. Zaibatsu: a collection of allied firms. Neither a vertical nor a horizontal trust but more akin to the entire economy in microcosm. Sararimen: Company men, middle level workers who devote their careers to one company.]
 
 ### Page 19
 
@@ -165,7 +165,7 @@ Note the Japanese-style art. One would normally expect Susano-O-No-Mikoto, a boi
 
 > [!THUMBNAIL] ![](thumbnails/sandman.26/page24.jpg)
 
-Is the Key to Hell ever-changing, or is it a function of imprecise artwork? I lean toward the latter, myself.
+- Is the Key to Hell ever-changing, or is it a function of imprecise artwork? I lean toward the latter, myself.
 
 ## Credits
 

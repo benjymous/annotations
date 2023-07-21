@@ -48,11 +48,11 @@ Other important themes touched on in this trilogy include responsibility in many
 
 > [!THUMBNAIL] ![](thumbnails/sandman.31/page02.jpg)
 
-This is a splash panel. Note Dream's period attire; Dream is the only Endless who seems to care about the appropriateness of his appearance. Except for Destruction, who we see in plate armor in the Orpheus special, and in a "swashbuckler's" outfit in Brief Lives (amongst other places; don't have the exact reference)
+- This is a splash panel. Note Dream's period attire; Dream is the only Endless who seems to care about the appropriateness of his appearance. Except for Destruction, who we see in plate armor in the Orpheus special, and in a "swashbuckler's" outfit in Brief Lives (amongst other places; don't have the exact reference)
 
-Death is the only other Endless with any sense of costume, save, perhaps, Destiny.
+  Death is the only other Endless with any sense of costume, save, perhaps, Destiny.
 
-In the credit box, Gaiman takes the title PJF, probably meaning Pre-Joycean Fellowship. This is a group whose membership primarily overlaps with that of the Scribblies, an sf/fantasy writers group located in Minneapolis, Minnesota, containing such notables as Steven Karl Zoltan Brust, Pamela Dean, Emma Bull, and Will Shetterley (who is known in comics for his _Captain Confederacy_). The Pre-Joycean Fellowship believes that literature can be both accessible and meaningful. They identify James Joyce as the first proponent of the idea that literature must be inaccessible to be meaningful. The term Pre-Joycean was coined in analogy to the Pre-Raphaelite Brotherhood (a turn of the century British artist's group, but I'm probably wrong).
+  In the credit box, Gaiman takes the title PJF, probably meaning Pre-Joycean Fellowship. This is a group whose membership primarily overlaps with that of the Scribblies, an sf/fantasy writers group located in Minneapolis, Minnesota, containing such notables as Steven Karl Zoltan Brust, Pamela Dean, Emma Bull, and Will Shetterley (who is known in comics for his _Captain Confederacy_). The Pre-Joycean Fellowship believes that literature can be both accessible and meaningful. They identify James Joyce as the first proponent of the idea that literature must be inaccessible to be meaningful. The term Pre-Joycean was coined in analogy to the Pre-Raphaelite Brotherhood (a turn of the century British artist's group, but I'm probably wrong).
 
 ### Page 3
 
@@ -70,7 +70,7 @@ In the credit box, Gaiman takes the title PJF, probably meaning Pre-Joycean Fell
 
 > [!THUMBNAIL] ![](thumbnails/sandman.31/page04.jpg)
 
-Norton's background as given here seems to be correct.
+- Norton's background as given here seems to be correct.
 
 - #### Panel 2
 
@@ -283,7 +283,7 @@ Norton's background as given here seems to be correct.
 
 > [!THUMBNAIL] ![](thumbnails/sandman.31/page19.jpg)
 
-Pain seems to be a regular character in the Vertigo universe. In the recent series "Mythos: The Final Tour" (I think?) He and his aide, Tacky Leatherette, are indeed main characters, and mention "not using the D-word," after Desire's name is mentioned, not wanting to inspire her wrath. Desire does indeed later show up, proving that the endless will... jump series. (Note that Cain and Able do the same, in the DC/Vertigo series, "The House of Secrets" or somesuch.
+- Pain seems to be a regular character in the Vertigo universe. In the recent series "Mythos: The Final Tour" (I think?) He and his aide, Tacky Leatherette, are indeed main characters, and mention "not using the D-word," after Desire's name is mentioned, not wanting to inspire her wrath. Desire does indeed later show up, proving that the endless will... jump series. (Note that Cain and Able do the same, in the DC/Vertigo series, "The House of Secrets" or somesuch.
 
 - #### Panel 2
 

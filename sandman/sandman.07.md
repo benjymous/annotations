@@ -24,7 +24,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 > [!THUMBNAIL] ![](thumbnails/sandman.07/page01.jpg)
 
-These people are walk-ons.
+- These people are walk-ons.
 
 ### Page 2
 

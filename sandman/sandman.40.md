@@ -38,7 +38,7 @@ Last year he had Jill do him a sketch of Death, and then he sent a copy of it to
 
 > [!THUMBNAIL] ![](thumbnails/sandman.40/page02.jpg)
 
-It may be worth noting that Lyta is still acting as a storyteller here, and that Daniel doesn't go to sleep till after she's been telling stories for a while.
+- It may be worth noting that Lyta is still acting as a storyteller here, and that Daniel doesn't go to sleep till after she's been telling stories for a while.
 
 - #### Panel 1
 

@@ -16,7 +16,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 > [!THUMBNAIL] ![](thumbnails/sandman.03/page01.jpg)
 
-This woman will be identified later. This is her first known appearance.
+- This woman will be identified later. This is her first known appearance.
 
 ### Page 2
 

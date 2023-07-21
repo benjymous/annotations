@@ -4,7 +4,7 @@
 
 > [!THUMBNAIL] ![](thumbnails/sandman.53/page00.jpg)
 
-Third story in anthology, "Worlds' End"
+- Third story in anthology, "Worlds' End"
 
 ##### Neil Gaiman, Michael Zulli, Dick Giordano, Bryan Talbot, Mark Buckingham
 

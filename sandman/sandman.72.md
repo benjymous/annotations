@@ -106,7 +106,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 > [!THUMBNAIL] ![](thumbnails/sandman.72/page14.jpg)
 
-Mazikeen has a heart tattooed on her left breast.
+- Mazikeen has a heart tattooed on her left breast.
 
 ### Page 15
 

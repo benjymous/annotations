@@ -171,7 +171,7 @@
 
 > [!THUMBNAIL] ![](thumbnails/sandman.49/page19.jpg)
 
-This is remembrance, not Dream conversing with Orpheus as he passes through the Dreaming on his way Beyond.
+- This is remembrance, not Dream conversing with Orpheus as he passes through the Dreaming on his way Beyond.
 
 - #### Panel 4
 

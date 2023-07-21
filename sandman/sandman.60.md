@@ -50,13 +50,15 @@
 
 ## Pages 8-9
 
-I don't recognize either of these characters.
+> [!THUMBNAIL] ![](thumbnails/sandman.60/page08.jpg)
+
+- I don't recognize either of these characters.
 
 ### Page 10
 
 > [!THUMBNAIL] ![](thumbnails/sandman.60/page10.jpg)
 
-This is "Puss in Boots". I don't have on me a specific reference to her story.
+- This is "Puss in Boots". I don't have on me a specific reference to her story.
 
 ### Page 12
 

@@ -141,7 +141,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 > [!THUMBNAIL] ![](thumbnails/sandman.19/page07.jpg)
 
-The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to Hippolyta, Queen of the Amazons. Philostrate is his Master of Revels.
+- The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to Hippolyta, Queen of the Amazons. Philostrate is his Master of Revels.
 
 - #### Panel 8
 
@@ -423,13 +423,13 @@ The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to H
 
 > [!THUMBNAIL] ![](thumbnails/sandman.19/page23.jpg)
 
-Act V Scene 1. Puck's speech here is also the final speech in the play.
+- Act V Scene 1. Puck's speech here is also the final speech in the play.
 
 ### Page 24
 
 > [!THUMBNAIL] ![](thumbnails/sandman.19/page24.jpg)
 
-The standard ending to fairy stories has those who ventured into the fairy world waking on a hill, their gold changed to something worthless.
+- The standard ending to fairy stories has those who ventured into the fairy world waking on a hill, their gold changed to something worthless.
 
 - #### Panel 5 and final caption
 

@@ -25,7 +25,7 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 > [!THUMBNAIL] ![](thumbnails/sandman.36/page01.jpg)
 
-Many of the dominant elements of the Land are revealed as elements from Barbara's childhood.
+- Many of the dominant elements of the Land are revealed as elements from Barbara's childhood.
 
 ### Page 2
 
@@ -108,7 +108,7 @@ Many of the dominant elements of the Land are revealed as elements from Barbara'
 
 > [!THUMBNAIL] ![](thumbnails/sandman.36/page09.jpg)
 
-Note that the three women walk in step and perform the same actions.
+- Note that the three women walk in step and perform the same actions.
 
 - #### Panel 2
 
@@ -236,7 +236,7 @@ Specifying Hurricane Lisa-with-a-'S' may be a reference to Liza Minelli, a promi
 
 > [!THUMBNAIL] ![](thumbnails/sandman.36/page30.jpg)
 
-IMHO, this is just about the best artistic representation of Dream in the series.
+- IMHO, this is just about the best artistic representation of Dream in the series.
 
 ### Page 31
 
@@ -252,7 +252,7 @@ One is also drawn to consider "Murphy's Law" -- "If anything can go wrong, it wi
 
 > [!THUMBNAIL] ![](thumbnails/sandman.36/page34.jpg)
 
-This sequence is reminiscent of a similar one in the last Narnia book, _The Last Battle_, in which Narnia ends, and all its creatures stream away. The fundamental difference is that the Narnia inhabitants were judged, and passed on to Shadow or Paradise, depending on their morality. In both cases, too, a party of outsiders watched the finale.
+- This sequence is reminiscent of a similar one in the last Narnia book, _The Last Battle_, in which Narnia ends, and all its creatures stream away. The fundamental difference is that the Narnia inhabitants were judged, and passed on to Shadow or Paradise, depending on their morality. In both cases, too, a party of outsiders watched the finale.
 
 ### Page 35
 
@@ -280,7 +280,7 @@ This sequence is reminiscent of a similar one in the last Narnia book, _The Last
 
 > [!THUMBNAIL] ![](thumbnails/sandman.36/page39.jpg)
 
-Recall that the apparent landlady of the building is named Scarlett, and now the building is "Gone with the Wind", so to speak.
+- Recall that the apparent landlady of the building is named Scarlett, and now the building is "Gone with the Wind", so to speak.
 
 ## Credits
 

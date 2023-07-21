@@ -168,7 +168,7 @@
 
 > [!THUMBNAIL] ![](thumbnails/sandman.65/page17.jpg)
 
-Note the black panel borders. We've seen them only once before, when Lyta met the Furies for the first time.
+- Note the black panel borders. We've seen them only once before, when Lyta met the Furies for the first time.
 
 ### Page 20
 

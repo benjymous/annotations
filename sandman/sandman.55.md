@@ -4,7 +4,7 @@
 
 > [!THUMBNAIL] ![](thumbnails/sandman.55/page00.jpg)
 
-Fifth story in anthology, "Worlds' End"
+- Fifth story in anthology, "Worlds' End"
 
 ##### Neil Gaiman, Shea Anton Pensa, Vince Locke, Bryan Talbot, Mark Buckingham
 
@@ -28,7 +28,7 @@ Fifth story in anthology, "Worlds' End"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.55/page04.jpg)
 
-Earth, Fire, Water and Air (or sometimes Wind), were four of the Five Elements in medieval times. The _Fifth_ Element (which is also referenced in the film of the same name), is variously named as Life, Quintessence ("fifth essence" in Latin), or The Void (in Miyamoto Musashi's Go Rin No Sho, or The Book of Five Rings). Naturally, the Necropolitans would also bury their "Clients" in accordance to the Five Elements (with Mummification replacing Life /The Void/Quintessence).
+- Earth, Fire, Water and Air (or sometimes Wind), were four of the Five Elements in medieval times. The _Fifth_ Element (which is also referenced in the film of the same name), is variously named as Life, Quintessence ("fifth essence" in Latin), or The Void (in Miyamoto Musashi's Go Rin No Sho, or The Book of Five Rings). Naturally, the Necropolitans would also bury their "Clients" in accordance to the Five Elements (with Mummification replacing Life /The Void/Quintessence).
 
 ### Page 5
 

@@ -170,7 +170,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 > [!THUMBNAIL] ![](thumbnails/sandman.28/page16.jpg)
 
-Nada is being reincarnated (as a boy, as we see in page 16 panel 5). Is Dream promising the new him a lifetime of good dreams?
+- Nada is being reincarnated (as a boy, as we see in page 16 panel 5). Is Dream promising the new him a lifetime of good dreams?
 
 ### Page 18
 
@@ -228,7 +228,7 @@ Nada is being reincarnated (as a boy, as we see in page 16 panel 5). Is Dream pr
 
 > [!THUMBNAIL] ![](thumbnails/sandman.28/page23.jpg)
 
-One is tempted to say "the Road to Hell is paved with good intentions" in response to Remiel's musings.
+- One is tempted to say "the Road to Hell is paved with good intentions" in response to Remiel's musings.
 
 - #### Panel 2
 
@@ -246,7 +246,7 @@ One is tempted to say "the Road to Hell is paved with good intentions" in respon
 
 > [!THUMBNAIL] ![](thumbnails/sandman.28/page24.jpg)
 
-This is Destiny, in his Garden of Forking Paths. See [Sandman #21](sandman.21.md) for more detail.
+- This is Destiny, in his Garden of Forking Paths. See [Sandman #21](sandman.21.md) for more detail.
 
 - #### Panel 2-3
 

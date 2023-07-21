@@ -136,7 +136,7 @@
 
 > [!THUMBNAIL] ![](thumbnails/sandman.64/page18.jpg)
 
-According to report, Hecate was shown in statues as a trio of women; one holding a whip, one holding a sword, and the center holding a torch.
+- According to report, Hecate was shown in statues as a trio of women; one holding a whip, one holding a sword, and the center holding a torch.
 
 ### Page 21
 

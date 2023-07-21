@@ -87,7 +87,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 > [!THUMBNAIL] ![](thumbnails/sandman.35/page07.jpg)
 
-The text of the scroll is presumably taken from a specific reference work on birds which I have not identified.
+- The text of the scroll is presumably taken from a specific reference work on birds which I have not identified.
 
 - #### Panel 3
 
@@ -157,7 +157,7 @@ The text of the scroll is presumably taken from a specific reference work on bir
 
 > [!THUMBNAIL] ![](thumbnails/sandman.35/page19.jpg)
 
-George attempts to play Wanda in the Game of You, but Wanda refuses.
+- George attempts to play Wanda in the Game of You, but Wanda refuses.
 
 - #### Panel 8
 

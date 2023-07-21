@@ -16,9 +16,9 @@
 
 > [!THUMBNAIL] ![](thumbnails/sandman.57/page01.jpg)
 
-Here we see the Triple Goddess, as we have before, in the aspect of the witches from the old "Witching Hour" series, which is also the aspect of the Fates from Greek myth.
+- Here we see the Triple Goddess, as we have before, in the aspect of the witches from the old "Witching Hour" series, which is also the aspect of the Fates from Greek myth.
 
-The first panel of each installment of "The Kindly Ones" until the tenth has some sort of thread-like object in it.
+  The first panel of each installment of "The Kindly Ones" until the tenth has some sort of thread-like object in it.
 
 - #### Panel 1
 
@@ -92,7 +92,7 @@ The first panel of each installment of "The Kindly Ones" until the tenth has som
 
 > [!THUMBNAIL] ![](thumbnails/sandman.57/page09.jpg)
 
-This sequence, where Matthew visits each of the characters in the Dreaming in turn, is oddly reminiscent of the story in the "[Vertigo Jam](sandman-vertigojam1.md)".
+- This sequence, where Matthew visits each of the characters in the Dreaming in turn, is oddly reminiscent of the story in the "[Vertigo Jam](sandman-vertigojam1.md)".
 
 ### Page 11
 

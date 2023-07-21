@@ -32,7 +32,7 @@
 
 > [!THUMBNAIL] ![](thumbnails/sandman-vertigojam1/page04.jpg)
 
-Nuala, of course we already know. Her homesickness (and lovesickness) will be addressed in future issues...
+- Nuala, of course we already know. Her homesickness (and lovesickness) will be addressed in future issues...
 
 ## Credits
 

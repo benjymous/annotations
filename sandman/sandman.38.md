@@ -218,7 +218,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 > [!THUMBNAIL] ![](thumbnails/sandman.38/page15.jpg)
 
-Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives in a hut which has chicken legs, and flies across the night sky in a mortar which she drives with a pestle. She is a great sorceress and, generally, evil. Baba Yaga, or a facsimile thereof, appears in _Books of Magic_, Book III.
+- Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives in a hut which has chicken legs, and flies across the night sky in a mortar which she drives with a pestle. She is a great sorceress and, generally, evil. Baba Yaga, or a facsimile thereof, appears in _Books of Magic_, Book III.
 
 ### Page 17
 

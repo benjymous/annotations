@@ -98,13 +98,13 @@
 
 > [!THUMBNAIL] ![](thumbnails/sandman.63/page17.jpg)
 
-This page echoes Lyta's similar reflections in "The Doll's House" part 3 ([12:9](sandman.12.md#page-9)). Compare also [61:21](sandman.61.md#page-21).4.
+- This page echoes Lyta's similar reflections in "The Doll's House" part 3 ([12:9](sandman.12.md#page-9)). Compare also [61:21](sandman.61.md#page-21).4.
 
 ### Page 18
 
 > [!THUMBNAIL] ![](thumbnails/sandman.63/page18.jpg)
 
-The panel borders here are probably left white by mistake; logic suggests that they ought to be grey shading to black as they are on the next page.
+- The panel borders here are probably left white by mistake; logic suggests that they ought to be grey shading to black as they are on the next page.
 
 - #### Panel 1
 
@@ -114,7 +114,7 @@ The panel borders here are probably left white by mistake; logic suggests that t
 
 > [!THUMBNAIL] ![](thumbnails/sandman.63/page21.jpg)
 
-The panel borders here are reminiscent of Celtic designs. As is probably clear, the Morrigan is an Irish war goddess, an aspect of the Three-in-One.
+- The panel borders here are reminiscent of Celtic designs. As is probably clear, the Morrigan is an Irish war goddess, an aspect of the Three-in-One.
 
 ### Page 22
 

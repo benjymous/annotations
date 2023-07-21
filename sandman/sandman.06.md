@@ -109,7 +109,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 > [!THUMBNAIL] ![](thumbnails/sandman.06/page08.jpg)
 
-Another fictional example of an American television genre, the children's variety show, typically featuring humans interacting with puppets, interspersed with cartoons. There is also a cultural fascination with dinosaurs that unfortunately does not extend to fascination with accuracy.
+- Another fictional example of an American television genre, the children's variety show, typically featuring humans interacting with puppets, interspersed with cartoons. There is also a cultural fascination with dinosaurs that unfortunately does not extend to fascination with accuracy.
 
 - #### Panel 7
 
@@ -196,13 +196,13 @@ Another fictional example of an American television genre, the children's variet
 
 > [!THUMBNAIL] ![](thumbnails/sandman.06/page14.jpg)
 
-This is Kate speaking. Sex with dead people is called necrophilia. It is not clear to me whether a male corpse could have an erection that could achieve penetration, or if in fact penetration even occurred. In panel 8, it is to be assumed that Kate tasted or drank the corpse's blood.
+- This is Kate speaking. Sex with dead people is called necrophilia. It is not clear to me whether a male corpse could have an erection that could achieve penetration, or if in fact penetration even occurred. In panel 8, it is to be assumed that Kate tasted or drank the corpse's blood.
 
 ### Page 15
 
 > [!THUMBNAIL] ![](thumbnails/sandman.06/page15.jpg)
 
-The theme music is indeed correct for the 60s television show "The Addams Family"
+- The theme music is indeed correct for the 60s television show "The Addams Family"
 
 - #### Panel 1
 
@@ -220,7 +220,7 @@ The theme music is indeed correct for the 60s television show "The Addams Family
 
 > [!THUMBNAIL] ![](thumbnails/sandman.06/page16.jpg)
 
-In this sequence, the three women take the roles of the Hecateae, reintroduced in [issue 3](sandman.03.md). Dee repeatedly demands a prophecy until he hears what he wants to hear. Notice that Judy has lost her shirt, which is consistent with Judy being involved in the sex scene on the previous page. Also note that the women are arranged in a maiden/mother/crone order.
+- In this sequence, the three women take the roles of the Hecateae, reintroduced in [issue 3](sandman.03.md). Dee repeatedly demands a prophecy until he hears what he wants to hear. Notice that Judy has lost her shirt, which is consistent with Judy being involved in the sex scene on the previous page. Also note that the women are arranged in a maiden/mother/crone order.
 
 - #### Panel 3
 
@@ -240,7 +240,7 @@ In this sequence, the three women take the roles of the Hecateae, reintroduced i
 
 > [!THUMBNAIL] ![](thumbnails/sandman.06/page18.jpg)
 
-Notice that Bette is holding the nails while Marsh does the hammering, with his left hand.
+- Notice that Bette is holding the nails while Marsh does the hammering, with his left hand.
 
 - #### Panel 3
 
@@ -254,7 +254,7 @@ Notice that Bette is holding the nails while Marsh does the hammering, with his 
 
 > [!THUMBNAIL] ![](thumbnails/sandman.06/page19.jpg)
 
-This page more or less describes typical mammalian pack behavior.
+- This page more or less describes typical mammalian pack behavior.
 
 - #### Panel 6
 
@@ -287,7 +287,7 @@ This page more or less describes typical mammalian pack behavior.
 
 > [!THUMBNAIL] ![](thumbnails/sandman.06/page22.jpg)
 
-The sign in the upper left reads "Please and Thank You are the magic words."
+- The sign in the upper left reads "Please and Thank You are the magic words."
 
 ### Page 22
 

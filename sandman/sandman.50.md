@@ -18,7 +18,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 > [!THUMBNAIL] ![](thumbnails/sandman.50/page01.jpg)
 
-An abridged version of the opening of the Arabian Nights, akin to the invocation of the Muses in classical literature. "There is no god but Allah, and Mohammed is his Prophet" is the profession of faith for Muslims, and all good Muslim books are supposed to begin with it. Mohammed (c. 567- 7 June 632) founded the religion of Islam and wrote the Koran.
+- An abridged version of the opening of the Arabian Nights, akin to the invocation of the Muses in classical literature. "There is no god but Allah, and Mohammed is his Prophet" is the profession of faith for Muslims, and all good Muslim books are supposed to begin with it. Mohammed (c. 567- 7 June 632) founded the religion of Islam and wrote the Koran.
 
 ### Page 2
 
@@ -238,7 +238,7 @@ An abridged version of the opening of the Arabian Nights, akin to the invocation
 
 > [!THUMBNAIL] ![](thumbnails/sandman.50/page32.jpg)
 
-Baghdad was bombed repeatedly during the Gulf War, and on at least two occasions since. The storyteller has been interpreted as the Caliph himself, made as undying as his city. However, the replacement of the mythical Baghdad with its mundane, historical counterpart suggests that Haroun himself also underwent the same transformation, which would tend to preclude his identification as the storyteller.
+- Baghdad was bombed repeatedly during the Gulf War, and on at least two occasions since. The storyteller has been interpreted as the Caliph himself, made as undying as his city. However, the replacement of the mythical Baghdad with its mundane, historical counterpart suggests that Haroun himself also underwent the same transformation, which would tend to preclude his identification as the storyteller.
 
 - #### Panel 8
 

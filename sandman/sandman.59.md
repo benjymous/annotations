@@ -106,9 +106,9 @@
 
 > [!THUMBNAIL] ![](thumbnails/sandman.59/page17.jpg)
 
-Note the multiples of 3: 9 cents in the sign in panel 2; 9 cents in panel 3; 6 cents in panel 4; and the Triple Goddess on the cover of "People":
+- Note the multiples of 3: 9 cents in the sign in panel 2; 9 cents in panel 3; 6 cents in panel 4; and the Triple Goddess on the cover of "People":
 
-Madonna, Roseanne Arnold, and Queen Elizabeth.
+  Madonna, Roseanne Arnold, and Queen Elizabeth.
 
 - #### Panel 6
 

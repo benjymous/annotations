@@ -14,7 +14,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page01.jpg)
 
-We have learned in earlier issues that Desire is Dream's younger sibling. Despite the pronoun games in the fourth caption, Desire is consistently referred to by those who know it as "it". This is Desire's first known appearance. The "Doll's House" of the title refers to many buildings throughout this storyline, one of which is the Threshold.
+- We have learned in earlier issues that Desire is Dream's younger sibling. Despite the pronoun games in the fourth caption, Desire is consistently referred to by those who know it as "it". This is Desire's first known appearance. The "Doll's House" of the title refers to many buildings throughout this storyline, one of which is the Threshold.
 
 ### Page 3
 
@@ -142,7 +142,7 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page14.jpg)
 
-Annulet is defined on the next page. Rose is the dream vortex. The inference from Lucien's remarks is that most vortices are objects, but that it is not unknown for them to be human.
+- Annulet is defined on the next page. Rose is the dream vortex. The inference from Lucien's remarks is that most vortices are objects, but that it is not unknown for them to be human.
 
 ### Page 16
 
@@ -180,7 +180,7 @@ Annulet is defined on the next page. Rose is the dream vortex. The inference fro
 
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page19.jpg)
 
-The Three-in-One Goddess. See [issue 2](sandman.02.md).
+- The Three-in-One Goddess. See [issue 2](sandman.02.md).
 
 - #### Panel 3
 
@@ -230,7 +230,7 @@ The Three-in-One Goddess. See [issue 2](sandman.02.md).
 
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page24.jpg)
 
-The Corinthian, we learn, is a sick bastard, and is probably about to kill Davy. We are seeing the world through Corinthian's eyes, as he takes off his dark glasses (panel 5-7) we can see colors. So I think that we are lucky that the story is ending just here!
+- The Corinthian, we learn, is a sick bastard, and is probably about to kill Davy. We are seeing the world through Corinthian's eyes, as he takes off his dark glasses (panel 5-7) we can see colors. So I think that we are lucky that the story is ending just here!
 
 ## Credits
 

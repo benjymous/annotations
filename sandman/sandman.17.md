@@ -82,9 +82,9 @@ First story reprinted in trade paperback _Dream Country_
 
 > [!THUMBNAIL] ![](thumbnails/sandman.17/page06.jpg)
 
-According to the script, Kelley Jones drew Calliope emaciated, which editor Karen Berger thought was too extreme. Malcolm Jones inked her a little less skinny.
+- According to the script, Kelley Jones drew Calliope emaciated, which editor Karen Berger thought was too extreme. Malcolm Jones inked her a little less skinny.
 
-There were nine Muses in Greek mythology of whom Calliope was the Muse of epic poetry. The others were Clio (history), Erato (lyric poetry), Euterpe (music), Melpomene (tragedy), Polyhymnia (religious music), Terpsichore (dance), Thalia (comedy) and Urania (astronomy). They were the daughters of Zeus and Mnemosyne (the titan of memory).
+  There were nine Muses in Greek mythology of whom Calliope was the Muse of epic poetry. The others were Clio (history), Erato (lyric poetry), Euterpe (music), Melpomene (tragedy), Polyhymnia (religious music), Terpsichore (dance), Thalia (comedy) and Urania (astronomy). They were the daughters of Zeus and Mnemosyne (the titan of memory).
 
 ### Page 7
 

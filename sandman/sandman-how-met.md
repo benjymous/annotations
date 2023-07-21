@@ -102,7 +102,7 @@ Lizzie here, is [Lizzie Siddal](https://en.wikipedia.org/wiki/Elizabeth_Siddal),
 
 > [!THUMBNAIL] ![](thumbnails/sandman-how-met/page08.jpg)
 
-Rossetti's true love was really himself.
+- Rossetti's true love was really himself.
 
 ### Page 9
 

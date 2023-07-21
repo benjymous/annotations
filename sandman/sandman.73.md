@@ -18,7 +18,7 @@
 
 > [!THUMBNAIL] ![](thumbnails/sandman.73/page04.jpg)
 
-The view shown is the entrance to the Minnesota Renaissance Festival held in Shakopee, Minnesota. According to report, Zulli visited it specifically to gather visual reference.
+- The view shown is the entrance to the Minnesota Renaissance Festival held in Shakopee, Minnesota. According to report, Zulli visited it specifically to gather visual reference.
 
 ### Page 5
 
@@ -32,7 +32,7 @@ The view shown is the entrance to the Minnesota Renaissance Festival held in Sha
 
 > [!THUMBNAIL] ![](thumbnails/sandman.73/page06.jpg)
 
-  On the theme of "People must change", he we see Hob really has had plenty of time to reconsider is part in the past.
+- On the theme of "People must change", he we see Hob really has had plenty of time to reconsider his part in the past.
 
 ### Page 9
 
@@ -40,7 +40,7 @@ The view shown is the entrance to the Minnesota Renaissance Festival held in Sha
 
 - #### Panel 7
 
-  **Milton Keynes**: a "New City" in England built in the 1960s.  Best known for having numerous (traffic circles) and [Concrete Cows](https://en.wikipedia.org/wiki/Concrete_Cows).
+  **Milton Keynes**: a "New City" in England built in the 1960s. Best known for having numerous (traffic circles) and [Concrete Cows](https://en.wikipedia.org/wiki/Concrete_Cows).
 
 ### Page 11
 

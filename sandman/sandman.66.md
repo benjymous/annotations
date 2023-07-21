@@ -86,11 +86,11 @@
 
 > [!THUMBNAIL] ![](thumbnails/sandman.66/page13.jpg)
 
-Puck mentions the phrase "jot nor tittle." This is a Biblical reference, from Matthew 5:18 -- "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled." This is one of Jesus' beatitudes; he is saying that although he has a new interpretation of the Old Testament, that he will not change any of the text.
+- Puck mentions the phrase "jot nor tittle." This is a Biblical reference, from Matthew 5:18 -- "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled." This is one of Jesus' beatitudes; he is saying that although he has a new interpretation of the Old Testament, that he will not change any of the text.
 
-"Jot"s and "tittles" are the smallest marks in writing; our word "iota" comes from the same source. Of course, Jesus then goes on to rearrange lots of jots and tittles in the Old Testament, but that's another story.
+  "Jot"s and "tittles" are the smallest marks in writing; our word "iota" comes from the same source. Of course, Jesus then goes on to rearrange lots of jots and tittles in the Old Testament, but that's another story.
 
-(If you didn't know, the beatitudes are those lines that start with "Blessed are the ..., for they ... .")
+  (If you didn't know, the beatitudes are those lines that start with "Blessed are the ..., for they ... .")
 
 ### Page 14
 

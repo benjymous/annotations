@@ -249,15 +249,15 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 > [!THUMBNAIL] ![](thumbnails/sandman-special1/page33.jpg)
 
-The song is unknown, possibly original, but I wouldn't bet on it :-)
+- The song is unknown, possibly original, but I wouldn't bet on it :-)
 
 ### Page 34
 
 > [!THUMBNAIL] ![](thumbnails/sandman-special1/page34.jpg)
 
-This scene is almost straight out of _Bulfinch's Mythology_.
+- This scene is almost straight out of _Bulfinch's Mythology_.
 
-Although Bulfinch's is a bowdlerized retelling for another age, it retains some sense of authority even today; additionally, it might be rendering the originals accurately in this particular instance.
+  Although Bulfinch's is a bowdlerized retelling for another age, it retains some sense of authority even today; additionally, it might be rendering the originals accurately in this particular instance.
 
 - #### Panel 1
 
@@ -311,7 +311,7 @@ Although Bulfinch's is a bowdlerized retelling for another age, it retains some 
 
 > [!THUMBNAIL] ![](thumbnails/sandman-special1/page43.jpg)
 
-The ancient Greeks believed that songs made up entirely or mostly of vowels had a remarkable power.
+- The ancient Greeks believed that songs made up entirely or mostly of vowels had a remarkable power.
 
 - #### Panel 2
 
@@ -329,7 +329,7 @@ The ancient Greeks believed that songs made up entirely or mostly of vowels had 
 
 > [!THUMBNAIL] ![](thumbnails/sandman-special1/page46.jpg)
 
-Traditionally, Orpheus died after being torn apart by the Bacchante. His head floated down the river Hebrus to the island Lesbos. His lyre was made (by Apollo) the constellation of Lyra.
+- Traditionally, Orpheus died after being torn apart by the Bacchante. His head floated down the river Hebrus to the island Lesbos. His lyre was made (by Apollo) the constellation of Lyra.
 
 ### Page 47
 
@@ -339,7 +339,7 @@ Traditionally, Orpheus died after being torn apart by the Bacchante. His head fl
 
   Parallelism with the snake that slew Eurydice?
 
-This issue also contains a family album of sorts, with full page illustrations of the Endless and several denizens of the Dreaming.
+  This issue also contains a family album of sorts, with full page illustrations of the Endless and several denizens of the Dreaming.
 
 ## Credits
 

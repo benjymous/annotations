@@ -127,7 +127,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 > [!THUMBNAIL] ![](thumbnails/sandman.33/page08.jpg)
 
-This sequence is said to be reminiscent of the wardrobe which transports the children to Narnia in _The Lion, the Witch, and the Wardrobe_.
+- This sequence is said to be reminiscent of the wardrobe which transports the children to Narnia in _The Lion, the Witch, and the Wardrobe_.
 
 ### Page 9
 
@@ -225,7 +225,7 @@ Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's 
 
 > [!THUMBNAIL] ![](thumbnails/sandman.33/page18.jpg)
 
-The Game of Thessaly is really limited to the question of "who is Thessaly", since we now know that there is at least as much unknown about her as there is about George.
+- The Game of Thessaly is really limited to the question of "who is Thessaly", since we now know that there is at least as much unknown about her as there is about George.
 
 - #### Panel 1
 

@@ -162,13 +162,13 @@ First story in anthology, "Worlds' End"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.51/page22.jpg)
 
-Odd that whenever two real people meet, one of them immediately returns to the real city. Coincidence, perhaps.
+- Odd that whenever two real people meet, one of them immediately returns to the real city. Coincidence, perhaps.
 
 ### Page 23
 
 > [!THUMBNAIL] ![](thumbnails/sandman.51/page23.jpg)
 
-Another inn, in which other tales are told; Gaheris' story turns out to be a story-within-a-story.
+- Another inn, in which other tales are told; Gaheris' story turns out to be a story-within-a-story.
 
 ### Page 24
 

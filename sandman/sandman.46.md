@@ -199,13 +199,13 @@ Latin for "time breaks" or "time shatters"; the inscription on Delirium's unusua
 
 > [!THUMBNAIL] ![](thumbnails/sandman.46/page22.jpg)
 
-"Tempus Frangit" means "Time breaks/shatters", which is probably why Delirium says "It's stopped". "Tempus Frangit" could also refer to Delirium's realm.
+- "Tempus Frangit" means "Time breaks/shatters", which is probably why Delirium says "It's stopped". "Tempus Frangit" could also refer to Delirium's realm.
 
 ### Page 23-24
 
 > [!THUMBNAIL] ![](thumbnails/sandman.46/page23.jpg)
 
-Again early editions miscolored Del's eyes. The grey tone of her balloons remained.
+- Again early editions miscolored Del's eyes. The grey tone of her balloons remained.
 
 ## Credits
 

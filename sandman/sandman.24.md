@@ -19,7 +19,7 @@ Not yet reprinted in any other form
 
 > [!THUMBNAIL] ![](thumbnails/sandman.24/page01.jpg)
 
-This is characterized as "the ninth century Norwegian idea of what a great palace should be". Kelley is cautioned to "Forget all the Kirbyish SF stuff." Colorist Steve Oliff is also cautioned to "get as far from the brightly coloured Kirby Asgard as you can here: This is the Asgard of the old Norse, a bitter dangerous place." (Jack Kirby was the original artist on Marvel's _The Mighty Thor_, and his unique style was most certainly not traditionally Norse.)
+- This is characterized as "the ninth century Norwegian idea of what a great palace should be". Kelley is cautioned to "Forget all the Kirbyish SF stuff." Colorist Steve Oliff is also cautioned to "get as far from the brightly coloured Kirby Asgard as you can here: This is the Asgard of the old Norse, a bitter dangerous place." (Jack Kirby was the original artist on Marvel's _The Mighty Thor_, and his unique style was most certainly not traditionally Norse.)
 
 Odin himself is described as a tall, pale Lee Van Cleef.
 
@@ -95,17 +95,17 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 > [!THUMBNAIL] ![](thumbnails/sandman.24/page09.jpg)
 
-This is described in the script as Dream's private quarters, which we've never seen before.
+- This is described in the script as Dream's private quarters, which we've never seen before.
 
 ### Page 11
 
 > [!THUMBNAIL] ![](thumbnails/sandman.24/page11.jpg)
 
-Chaos and Order are two opposed sets of beings often seen before in DC comics. In one form or another, Dr. Fate is an agent or an actual Lord of Order, as is Amethyst. Hawk and Dove were the incarnations of Lords of Chaos and Order respectively. Generally, Order = Good and Chaos = Bad, though each writer writes Order and Chaos in different and incompatible ways. The major portion of the mythology of Order and Chaos was established by Martin Pasko in Dr. Fate, then completely abrogated by JM deMatteis. Barbara Kesel, Keith Giffen, Paul Kupperburg, William Messner-Loebs, and Grant Morrison have also contributed in comics.
+- Chaos and Order are two opposed sets of beings often seen before in DC comics. In one form or another, Dr. Fate is an agent or an actual Lord of Order, as is Amethyst. Hawk and Dove were the incarnations of Lords of Chaos and Order respectively. Generally, Order = Good and Chaos = Bad, though each writer writes Order and Chaos in different and incompatible ways. The major portion of the mythology of Order and Chaos was established by Martin Pasko in Dr. Fate, then completely abrogated by JM deMatteis. Barbara Kesel, Keith Giffen, Paul Kupperburg, William Messner-Loebs, and Grant Morrison have also contributed in comics.
 
-DC's Lords of Order and Chaos go back to More Fun Comics#55 (first appearance of Doctor Fate).
+  DC's Lords of Order and Chaos go back to More Fun Comics#55 (first appearance of Doctor Fate).
 
-The script suggests blurred photocopies of fractal images for panels representing Chaos, which I don't think Kelley used. We may note, however, that Chaos appears to be Order as seen through a funhouse mirror.
+  The script suggests blurred photocopies of fractal images for panels representing Chaos, which I don't think Kelley used. We may note, however, that Chaos appears to be Order as seen through a funhouse mirror.
 
 ### Page 12
 
@@ -119,7 +119,7 @@ The script suggests blurred photocopies of fractal images for panels representin
 
 > [!THUMBNAIL] ![](thumbnails/sandman.24/page14.jpg)
 
-The Silver City is new. It has also appeared in _The Books of Magic_ #1. My own personal feeling is that where the angels dwell is necessarily at least a part of Heaven, but this is not born out by the text. I doubt I need to explain what angels and Heaven are.... The scripts notes that all angels have the same face, and Gaiman suggests Jane Morris, who sat for many of the pre-Raphaelite painters; Barry Windsor-Smith's adaptation of _Red Nails_ used Morris as an inspiration for Valeria.
+- The Silver City is new. It has also appeared in _The Books of Magic_ #1. My own personal feeling is that where the angels dwell is necessarily at least a part of Heaven, but this is not born out by the text. I doubt I need to explain what angels and Heaven are.... The scripts notes that all angels have the same face, and Gaiman suggests Jane Morris, who sat for many of the pre-Raphaelite painters; Barry Windsor-Smith's adaptation of _Red Nails_ used Morris as an inspiration for Valeria.
 
 ### Page 15
 

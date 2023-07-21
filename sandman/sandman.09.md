@@ -16,11 +16,11 @@ Second story reprinted in _The Doll's House_
 
 > [!THUMBNAIL] ![](thumbnails/sandman.09/page01.jpg)
 
-The Trickster is a cross-cultural archetype, most familiar to modern audiences in the form of Bugs Bunny.
+- The Trickster is a cross-cultural archetype, most familiar to modern audiences in the form of Bugs Bunny.
 
-This reference to the "Trickster," knowing Gaiman, may be more important than one might expect... I mean, who causes so much pain to Morpheus (as well as, eventually, having no small part in his death)? Loki, of course: the Trickster.
+  This reference to the "Trickster," knowing Gaiman, may be more important than one might expect... I mean, who causes so much pain to Morpheus (as well as, eventually, having no small part in his death)? Loki, of course: the Trickster.
 
-Now, sure, "Tales in the Sand" was written about four years before Loki is introduced to the story, but we're talkin' about Neil Gaiman here. Maybe Gaiman was using parallel structure (albeit a very sparse form), maybe it is just as foreshadowing, but i do not think it is a coincidence that the next story arc Nada shows up in is also monsieur Loki's debut. It is obvious that this idea isn't fully formed, and I don't have access to my library right now (all in cardboard boxes -just moved) but i think this should be at least pondered. (thus writes oshinsky@webspan.net)
+  Now, sure, "Tales in the Sand" was written about four years before Loki is introduced to the story, but we're talkin' about Neil Gaiman here. Maybe Gaiman was using parallel structure (albeit a very sparse form), maybe it is just as foreshadowing, but i do not think it is a coincidence that the next story arc Nada shows up in is also monsieur Loki's debut. It is obvious that this idea isn't fully formed, and I don't have access to my library right now (all in cardboard boxes -just moved) but i think this should be at least pondered. (thus writes oshinsky@webspan.net)
 
 ### Page 2
 

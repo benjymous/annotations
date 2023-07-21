@@ -151,7 +151,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 > [!THUMBNAIL] ![](thumbnails/sandman.12/page24.jpg)
 
-Oopsy. Jed's fled, and soon he'll be dead, 'cause that's the Corinthian who picked him up. Big coincidence? Not really; there's a vortex wandering around totally screwing up causality, and both Jed and the Corinthian are directly linked to her.
+- Oopsy. Jed's fled, and soon he'll be dead, 'cause that's the Corinthian who picked him up. Big coincidence? Not really; there's a vortex wandering around totally screwing up causality, and both Jed and the Corinthian are directly linked to her.
 
 ## Credits
 

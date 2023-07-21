@@ -142,7 +142,7 @@
 
 > [!THUMBNAIL] ![](thumbnails/sandman.70/page13.jpg)
 
-Note that there is no page number.
+- Note that there is no page number.
 
 Note how Eve gets progressively younger. We've seen this happen before in [Season of Mists #3, page 18](sandman.24.md#page-18) and [The Kindly Ones #1](sandman.57.md) page 16.
 
@@ -154,11 +154,11 @@ Note how Eve gets progressively younger. We've seen this happen before in [Seaso
 
 > [!THUMBNAIL] ![](thumbnails/sandman.70/page14.jpg)
 
-And now Eve grows older again. Eve's age seems to be eternally in flux. (Although Cain and Abel both seem to stay the same age. But then again, in A Parliament of Rooks, we were told that Eve wasn't Cain's mother.)
+- And now Eve grows older again. Eve's age seems to be eternally in flux. (Although Cain and Abel both seem to stay the same age. But then again, in A Parliament of Rooks, we were told that Eve wasn't Cain's mother.)
 
-Thomas Wilde @ tvs_wanderer@yahoo.com:
+  Thomas Wilde @ tvs_wanderer@yahoo.com:
 
-> Judging from both "A Parliament of Rooks" and this, Eve would seem to be some kind of abstract representation of the Triple Goddess spoken of in a number of pagan cultures. It's worth mentioning that by Gaiman's weird cosmology, and from the art from the Biblical story told in "Parliament", the Eve in the Dreaming seems to change from the unnamed woman driven away by Adam, to Lilith, to Eve herself... from Maiden, to Mother, to Crone. Then again, aren't all the creatures of the Dreaming abstract representations, _but_ Abel and Cain? Eve isn't their mother because (maybe) she just wears their mother's shape.
+  > Judging from both "A Parliament of Rooks" and this, Eve would seem to be some kind of abstract representation of the Triple Goddess spoken of in a number of pagan cultures. It's worth mentioning that by Gaiman's weird cosmology, and from the art from the Biblical story told in "Parliament", the Eve in the Dreaming seems to change from the unnamed woman driven away by Adam, to Lilith, to Eve herself... from Maiden, to Mother, to Crone. Then again, aren't all the creatures of the Dreaming abstract representations, _but_ Abel and Cain? Eve isn't their mother because (maybe) she just wears their mother's shape.
 
 ### Page 15
 

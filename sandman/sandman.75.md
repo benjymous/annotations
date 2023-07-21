@@ -180,13 +180,13 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 > [!THUMBNAIL] ![](thumbnails/sandman.75/page23.jpg)
 
-Act 2 Scene 2 line 25
+- Act 2 Scene 2 line 25
 
 ### Page 26-28
 
 > [!THUMBNAIL] ![](thumbnails/sandman.75/page26.jpg)
 
-Act 4 Scene 1
+- Act 4 Scene 1
 
 ### Page 31
 
@@ -208,7 +208,7 @@ Act 4 Scene 1
 
 > [!THUMBNAIL] ![](thumbnails/sandman.75/page34.jpg)
 
-This page is supposed to mirror Hamnet's monologue from [#19](sandman.19.md#page-13):13
+- This page is supposed to mirror Hamnet's monologue from [#19](sandman.19.md#page-13):13
 
 ## Page 35
 

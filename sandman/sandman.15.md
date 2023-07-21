@@ -110,7 +110,7 @@ Chantal's dream occupies the top half of the double-page spread, Zelda's the bot
 
 > [!THUMBNAIL] ![](thumbnails/sandman.15/page08.jpg)
 
-This is Hal's dream.
+- This is Hal's dream.
 
 - #### Panel 2
 
@@ -176,7 +176,7 @@ This is Hal's dream.
 
 > [!THUMBNAIL] ![](thumbnails/sandman.15/page13.jpg)
 
-Zelda's and Chantal's dreams begin to intersect. Chantal's dream is a recursive story. The captions read "Not quite in nightmare, but far from comfortable, Chantal is held like a crashed computer in an infinitely regressive loop of story. It was a dark and stormy night. And the skipper said to the mate, 'Mate, tell me a story....' And this was the story he told:" The story from "it was a dark..." then repeats, then fragments. "It was a dark and stormy night" was referenced in an earlier issue. The recursive story comes from the book _Arm in Arm: A Collection of Stories, Riddles, and Echolalia_ by Remy Charlip.
+- Zelda's and Chantal's dreams begin to intersect. Chantal's dream is a recursive story. The captions read "Not quite in nightmare, but far from comfortable, Chantal is held like a crashed computer in an infinitely regressive loop of story. It was a dark and stormy night. And the skipper said to the mate, 'Mate, tell me a story....' And this was the story he told:" The story from "it was a dark..." then repeats, then fragments. "It was a dark and stormy night" was referenced in an earlier issue. The recursive story comes from the book _Arm in Arm: A Collection of Stories, Riddles, and Echolalia_ by Remy Charlip.
 
 - #### Panel 3
 
@@ -198,7 +198,7 @@ Zelda's and Chantal's dreams begin to intersect. Chantal's dream is a recursive 
 
 > [!THUMBNAIL] ![](thumbnails/sandman.15/page15.jpg)
 
-The commentary on Barbara is important in the context of the later storyline. Hal is pictured walking on the Yellow Brick Road toward the paradise-symbol Emerald City, of the movie _The Wizard of Oz_.
+- The commentary on Barbara is important in the context of the later storyline. Hal is pictured walking on the Yellow Brick Road toward the paradise-symbol Emerald City, of the movie _The Wizard of Oz_.
 
 ### Page 16-17
 

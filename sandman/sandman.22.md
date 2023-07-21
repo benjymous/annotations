@@ -78,13 +78,13 @@ Not yet reprinted in any other form
 
 > [!THUMBNAIL] ![](thumbnails/sandman.22/page05.jpg)
 
-This is a recap of [Sandman #9](sandman.09.md).
+- This is a recap of [Sandman #9](sandman.09.md).
 
 ### Page 6
 
 > [!THUMBNAIL] ![](thumbnails/sandman.22/page06.jpg)
 
-This is a recap of [Sandman #4](sandman.04.md).
+- This is a recap of [Sandman #4](sandman.04.md).
 
 ### Page 7
 

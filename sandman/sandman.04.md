@@ -74,11 +74,11 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 > [!THUMBNAIL] ![](thumbnails/sandman.04/page09.jpg)
 
-**Note** This is Lucifer's first appearance. In the original monthly publication these two pages were a double page spread. After adverts were removed for the collections, they no longer fell over two pages, so were redrawn.
+- **Note** This is Lucifer's first appearance. In the original monthly publication these two pages were a double page spread. After adverts were removed for the collections, they no longer fell over two pages, so were redrawn.
 
-![](images/LuciferOriginalFirstAppearence.jpg)
+  ![](images/LuciferOriginalFirstAppearence.jpg)
 
-([image source](https://twitter.com/thejither/status/1552683693738758144?t=8jZXY4PmKVDuByuE6_TKsw&s=19))
+  ([image source](https://twitter.com/thejither/status/1552683693738758144?t=8jZXY4PmKVDuByuE6_TKsw&s=19))
 
 - #### Panel 2
 
@@ -162,7 +162,7 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 > [!THUMBNAIL] ![](thumbnails/sandman.04/page24.jpg)
 
-This is John Dee, Dr. Destiny, who has been mentioned before. The amulet is the same amulet for which Ruthven Sykes traded the helmet to Choronzon; it allegedly protects the wearer from "anything", and it is known to work against magical sendings.
+- This is John Dee, Dr. Destiny, who has been mentioned before. The amulet is the same amulet for which Ruthven Sykes traded the helmet to Choronzon; it allegedly protects the wearer from "anything", and it is known to work against magical sendings.
 
 ## Credits
 
@@ -179,4 +179,3 @@ This is John Dee, Dr. Destiny, who has been mentioned before. The amulet is the 
 - David Henry <UD137927@VM1.NoDak.EDU> recalled the Riddle Game.
 - Ralf Hildebrandt added more details.
 - Richard Munn filled in the details about the first appearance of Lucifer being redrawn.
--

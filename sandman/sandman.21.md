@@ -76,7 +76,7 @@ Not yet reprinted in any other form
 
 > [!THUMBNAIL] ![](thumbnails/sandman.21/page04.jpg)
 
-Destiny's hall would appear to be drawn from reference. Can anyone ID it?
+- Destiny's hall would appear to be drawn from reference. Can anyone ID it?
 
 ### Page 5
 

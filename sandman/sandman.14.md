@@ -14,7 +14,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 > [!THUMBNAIL] ![](thumbnails/sandman.14/page01.jpg)
 
-We are back to the real storyline after last issue's side trip, in Dodge County, Georgia. The motel where the conference is held has a sign outside which says: "Cereal Convention", the pun being obvious.
+- We are back to the real storyline after last issue's side trip, in Dodge County, Georgia. The motel where the conference is held has a sign outside which says: "Cereal Convention", the pun being obvious.
 
 - #### Panel 4
 
@@ -118,7 +118,7 @@ We are back to the real storyline after last issue's side trip, in Dodge County,
 
 > [!THUMBNAIL] ![](thumbnails/sandman.14/page11.jpg)
 
-I cannot identify any of these pictures. I suspect that they include famous serial killers of the past.
+- I cannot identify any of these pictures. I suspect that they include famous serial killers of the past.
 
 ### Page 12
 

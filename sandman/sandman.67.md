@@ -136,13 +136,13 @@
 
 > [!THUMBNAIL] ![](thumbnails/sandman.67/page23.jpg)
 
-Panels 1-3 echo in layout, form, and action, page 23 of [issue #11](sandman.11.md) (part 2 of "The Doll's House").
+- Panels 1-3 echo in layout, form, and action, page 23 of [issue #11](sandman.11.md) (part 2 of "The Doll's House").
 
 ### Page 24
 
 > [!THUMBNAIL] ![](thumbnails/sandman.67/page24.jpg)
 
-This page similarly echoes [11:24](sandman.11.md#page-24).
+- This page similarly echoes [11:24](sandman.11.md#page-24).
 
 - #### Panel 2
 

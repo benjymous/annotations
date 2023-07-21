@@ -118,7 +118,7 @@
 
 > [!THUMBNAIL] ![](thumbnails/sandman.62/page10.jpg)
 
-For those who don't read letter columns (or who will read this story in book format): the story that follows is not Gaiman's invention, but can be found in somewhat different form in _The Penguin Book of English Folk Tales_.
+- For those who don't read letter columns (or who will read this story in book format): the story that follows is not Gaiman's invention, but can be found in somewhat different form in _The Penguin Book of English Folk Tales_.
 
 ### Page 19
 

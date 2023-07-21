@@ -14,7 +14,7 @@ Fifth story reprinted in _Preludes and Nocturnes_
 
 > [!THUMBNAIL] ![](thumbnails/sandman.05/page01.jpg)
 
-This is Arkham Asylum, which was referenced earlier. "Funeral March for a Marionette" is the theme song to the show "Alfred Hitchcock Presents." Hitchcock is a famous director, particularly of suspenseful movies; the television shows were also suspense or mystery, introduced by Hitch himself with droll black humor. Hitchcock is known for making cameos in all his film work. "Alfred Hitchcock Presents" is currently being shown on USA Network on cable on Friday nights.
+- This is Arkham Asylum, which was referenced earlier. "Funeral March for a Marionette" is the theme song to the show "Alfred Hitchcock Presents." Hitchcock is a famous director, particularly of suspenseful movies; the television shows were also suspense or mystery, introduced by Hitch himself with droll black humor. Hitchcock is known for making cameos in all his film work. "Alfred Hitchcock Presents" is currently being shown on USA Network on cable on Friday nights.
 
 You may find the song on the compact disc "Chiller," Telarc CD-80189, in the classical section. The song was written by Charles Gounod, as a musical caricature of a music critic, Henfry [sic; perhaps "Henry"] F. Chorley.
 
@@ -24,7 +24,7 @@ Chorley died in 1872 before the piece could be formally dedicated to him, but it
 
 > [!THUMBNAIL] ![](thumbnails/sandman.05/page02.jpg)
 
-It is unclear how John Dee (Dr. Destiny) has escaped from his cell, unless it be by the amulet he obtained last issue. The Scarecrow is hanging just outside the dining hall as a part of an April Fool's joke (the date established on page 1).
+- It is unclear how John Dee (Dr. Destiny) has escaped from his cell, unless it be by the amulet he obtained last issue. The Scarecrow is hanging just outside the dining hall as a part of an April Fool's joke (the date established on page 1).
 
 - #### Panel 4
 
@@ -34,7 +34,7 @@ It is unclear how John Dee (Dr. Destiny) has escaped from his cell, unless it be
 
 > [!THUMBNAIL] ![](thumbnails/sandman.05/page03.jpg)
 
-As far as I know, the Scarecrow is correct with his terms for various phobias. It is unclear how he is hanging. Panel 5 clearly shows that the noose is not tight, but then he could not be hanging from the rope (as he clearly is on the previous page and in panel 1) with the rope as in panel 5. The shadows in panel 5 might show the rope attached to a fairly large hook on the back of Crane's straightjacket.
+- As far as I know, the Scarecrow is correct with his terms for various phobias. It is unclear how he is hanging. Panel 5 clearly shows that the noose is not tight, but then he could not be hanging from the rope (as he clearly is on the previous page and in panel 1) with the rope as in panel 5. The shadows in panel 5 might show the rope attached to a fairly large hook on the back of Crane's straightjacket.
 
 He might have the rope going down his shirt and tied around his waist. They did this in the movie "Heathers."
 
@@ -58,7 +58,7 @@ He might have the rope going down his shirt and tied around his waist. They did 
 
 > [!THUMBNAIL] ![](thumbnails/sandman.05/page05.jpg)
 
-This is a dream of Mister Miracle. Mister Miracle, who goes by the name "Scott Free", which is a pun, is a New God, and a member of the Justice League. He is the son of the "good" New God Izaya, but was raised in a hellish orphanage run by a wicked woman named Granny Goodness on the planet of the "bad" New Gods, which is named Apokolips. Needless to say, all of this mythology was created by Jack Kirby, specifically for his "Fourth World" titles at DC in the 70s. Mister Miracle is a master escape artist. A number of minor characters are named in this sequence; I assume they are either consistent with his known origin or are new here.
+- This is a dream of Mister Miracle. Mister Miracle, who goes by the name "Scott Free", which is a pun, is a New God, and a member of the Justice League. He is the son of the "good" New God Izaya, but was raised in a hellish orphanage run by a wicked woman named Granny Goodness on the planet of the "bad" New Gods, which is named Apokolips. Needless to say, all of this mythology was created by Jack Kirby, specifically for his "Fourth World" titles at DC in the 70s. Mister Miracle is a master escape artist. A number of minor characters are named in this sequence; I assume they are either consistent with his known origin or are new here.
 
 ### Page 11
 
@@ -152,7 +152,7 @@ This is a dream of Mister Miracle. Mister Miracle, who goes by the name "Scott F
 
 > [!THUMBNAIL] ![](thumbnails/sandman.05/page18.jpg)
 
-Morpheus while on Earth travels either as a human would (the taxi ride with Constantine and Chas in [#3](sandman.03.md)) or through dreams of people along the way. The latter is consistent with how he obtained food in [#1](sandman.01.md), although there it was stated that Morpheus was too weak to create food from the fabric of dreams directly.
+- Morpheus while on Earth travels either as a human would (the taxi ride with Constantine and Chas in [#3](sandman.03.md)) or through dreams of people along the way. The latter is consistent with how he obtained food in [#1](sandman.01.md), although there it was stated that Morpheus was too weak to create food from the fabric of dreams directly.
 
 ### Page 19
 

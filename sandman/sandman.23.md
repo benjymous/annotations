@@ -188,9 +188,9 @@ foreshadowing.
 
 > [!THUMBNAIL] ![](thumbnails/sandman.23/page19.jpg)
 
-It is somewhat unclear what is occurring on these two pages. On 19, Lucifer and Dream appear to exit a gate (and note that it is entirely unclear whether Lucifer is the last out, as he predicted). On page 20, however, Lucifer locks a floating lump that does not seem to be attached to anything, and announces that the last of the gates is closed, even though page 19 panel 5 clearly shows the two well outside Hell's wall.
+- It is somewhat unclear what is occurring on these two pages. On 19, Lucifer and Dream appear to exit a gate (and note that it is entirely unclear whether Lucifer is the last out, as he predicted). On page 20, however, Lucifer locks a floating lump that does not seem to be attached to anything, and announces that the last of the gates is closed, even though page 19 panel 5 clearly shows the two well outside Hell's wall.
 
-Perhaps the most reasonable guess is that Dream and Lucifer exited Hell through the main gate, then proceeded to a lesser gate and locked it from the outside. This strikes me as a very odd sequence for a closing down of such mythic import.
+  Perhaps the most reasonable guess is that Dream and Lucifer exited Hell through the main gate, then proceeded to a lesser gate and locked it from the outside. This strikes me as a very odd sequence for a closing down of such mythic import.
 
 ### Page 21
 

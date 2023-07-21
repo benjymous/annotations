@@ -149,7 +149,7 @@ The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberl
 
 > [!THUMBNAIL] ![](thumbnails/sandman.11/page13.jpg)
 
-We meet Gilbert at last. In particular, notice his response to Rose's question about his name.
+- We meet Gilbert at last. In particular, notice his response to Rose's question about his name.
 
 ### Page 16-17
 
@@ -193,7 +193,7 @@ We find confirmed that the Corinthian is a killer, and that he _yuck_ likes to e
 
 > [!THUMBNAIL] ![](thumbnails/sandman.11/page24.jpg)
 
-Dream is donning his battle raiment. Specifically, the helmet possesses a great deal of (unspecified) power. Presumably, Dream also is carrying his pouch of sand.
+- Dream is donning his battle raiment. Specifically, the helmet possesses a great deal of (unspecified) power. Presumably, Dream also is carrying his pouch of sand.
 
 ## Credits
 
