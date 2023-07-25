@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 74: "Exiles"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.74/page00.jpg)
@@ -20,7 +18,7 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.74/page03.jpg)
+> [!THUMBNAIL] ![](thumbnails/sandman.74/page02-03.jpg)
 
 - #### Panel 2
 

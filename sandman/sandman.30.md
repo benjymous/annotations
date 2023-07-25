@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 30 : "August"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.30/page00.jpg)

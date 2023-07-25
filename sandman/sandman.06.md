@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 6: "24 Hours"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.06/page00.jpg)

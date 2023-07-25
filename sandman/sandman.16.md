@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 16: "Lost Hearts"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.16/page00.jpg)

@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 18: "A Dream of a Thousand Cats"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.18/page00.jpg)

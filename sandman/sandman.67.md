@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 67: "The Kindly Ones: 11"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.67/page00.jpg)

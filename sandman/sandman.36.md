@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 36: "Over the Sea to Sky"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.36/page00.jpg)

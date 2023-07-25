@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 19: "A Midsummer Night's Dream"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.19/page00.jpg)
@@ -107,7 +105,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page4.jpg)
+> [!THUMBNAIL] ![](thumbnails/sandman.19/page04.jpg)
 
 - #### Panel 6; page 5 panel 1-3
 

@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 1: "Sleep of the Just"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.01/page00.jpg)

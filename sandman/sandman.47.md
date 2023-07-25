@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 47: Brief Lives Seven
 
 > [!THUMBNAIL] ![](thumbnails/sandman.47/page00.jpg)

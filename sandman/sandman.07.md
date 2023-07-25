@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 7: "Sound and Fury"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.07/page00.jpg)

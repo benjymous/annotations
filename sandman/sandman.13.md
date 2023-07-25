@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 13: "Men of Good Fortune"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.13/page00.jpg)

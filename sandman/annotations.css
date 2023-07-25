@@ -1,0 +1,142 @@
+.markdown-section {
+  overflow: visible !important;
+}
+
+.markdown-section blockquote {
+  margin: 0;
+  margin-bottom: 0.85em;
+  padding: 0 15px;
+  color: #333333;
+  border-left: 4px solid #ddd;
+  background: #efefef;
+}
+
+.color-theme-1 blockquote {
+  background: #dbd3b7;
+  color: #8b541c;
+}
+
+.color-theme-2 blockquote {
+  background: #000;
+  color: #bdcadb;
+}
+
+.markdown-section h3 {
+  clear: left;
+}
+
+img {
+  border: 1px solid #888 !important;
+  padding: 5px;
+}
+
+.flex {
+  background: transparent !important;
+  padding: 0px 7px 5px 5px;
+}
+
+.flex .title,
+.floatright .title,
+.marginthumb .title {
+  display: none !important;
+}
+
+.flex p {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+}
+
+.flex p img {
+  border: none !important;
+}
+
+.cols-2 p img {
+  width: 50%;
+}
+
+.cols-3 p img {
+  width: 33%;
+}
+
+.cols-4 p img {
+  width: 25%;
+}
+
+.floatright {
+  float: right;
+  background: transparent !important;
+  overflow: hidden;
+  border: none !important;
+}
+
+@media only screen and (min-width: 1000px) and (max-width: 1199px) {
+  .floatright {
+    margin-right: -100px;
+  }
+}
+
+@media only screen and (min-width: 1200px) {
+  .floatright {
+    margin-right: -200px;
+  }
+}
+
+.width-40pc {
+  width: 40%;
+}
+
+.marginthumb {
+  float: left;
+  background: transparent !important;
+  overflow: hidden;
+  border: none !important;
+  padding: 4px;
+  margin: 4px;
+}
+
+@media only screen and (min-width: 1000px) {
+  .page-inner {
+    padding: 20px 15px 40px 40px;
+  }
+
+  .marginthumb {
+    width: 128px;
+    margin-left: -138px;
+    margin-right: -138px;
+    margin-top: -85px;
+  }
+}
+
+/* 850 .. 999 */
+
+@media only screen and (min-width: 875px) and (max-width: 999px) {
+  .page-inner {
+    padding: 20px 8px 40px 54px;
+  }
+
+  .marginthumb {
+    width: 100px;
+    margin-left: -100px;
+    margin-right: -100px;
+    margin-top: -80px;
+  }
+}
+
+@media only screen and (max-width: 874px) {
+  .page-inner {
+    padding: 20px 8px 40px 68px;
+  }
+
+  .marginthumb {
+    width: 80px;
+    margin-left: -80px;
+    margin-right: -80px;
+    margin-top: -72px;
+  }
+}
+
+.marginthumb img {
+  border: none !important;
+  padding: 0px;
+}

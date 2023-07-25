@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 26
 
 > [!THUMBNAIL] ![](thumbnails/sandman.26/page00.jpg)

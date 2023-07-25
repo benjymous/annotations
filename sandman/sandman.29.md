@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 29 : "Thermidor"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.29/page00.jpg)

@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 70: "Which Occurs in the Wake of What Has Gone Before"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.70/page00.jpg)

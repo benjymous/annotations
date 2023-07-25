@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 41: Brief Lives One
 
 > [!THUMBNAIL] ![](thumbnails/sandman.41/page00.jpg)

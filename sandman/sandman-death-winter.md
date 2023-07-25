@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Death: A Winter's Tale
 
 ##### Neil Gaiman, Jeff Jones

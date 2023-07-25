@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 64: "The Kindly Ones: 8"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.64/page00.jpg)

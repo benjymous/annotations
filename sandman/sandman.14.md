@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 14: "Collectors"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.14/page00.jpg)

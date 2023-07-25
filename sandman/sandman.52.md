@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 52
 
 ##### Neil Gaiman, John Watkiss, Bryan Talbot, Mark Buckingham

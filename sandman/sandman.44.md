@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 44: Brief Lives Four
 
 > [!THUMBNAIL] ![](thumbnails/sandman.44/page00.jpg)

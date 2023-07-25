@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 75: "The Tempest"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.75/page00.jpg)

@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 11: "Moving In"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.11/page00.jpg)

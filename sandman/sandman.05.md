@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 5: "Passengers"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.05/page00.jpg)

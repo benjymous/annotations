@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 31 : "Three Septembers and a January"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.31/page00.jpg)

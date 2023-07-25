@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 48: Brief Lives Eight
 
 > [!THUMBNAIL] ![](thumbnails/sandman.48/page00.jpg)

@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 65: "The Kindly Ones: 9"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.65/page00.jpg)

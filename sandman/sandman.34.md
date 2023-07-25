@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 34: "Bad Moon Rising"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.34/page00.jpg)

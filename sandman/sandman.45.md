@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 45: Brief Lives Five
 
 > [!THUMBNAIL] ![](thumbnails/sandman.45/page00.jpg)

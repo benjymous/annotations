@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 69: "The Kindly Ones: 13"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.69/page00.jpg)
@@ -187,42 +185,53 @@
   It also concludes the meta-narrative on the story that runs through most of the starting panels:
 
   - ##### 57:1.1:
-    Is it ready yet?  Are you Done?<br>
+
+    Is it ready yet? Are you Done?<br>
     Nearly. _There_ we go.
 
   - ##### 58:1.1:
-    Well?  How long is it going to _take_?
+
+    Well? How long is it going to _take_?
 
   - ##### 59:1.1:
+
     I think it's going to be bigger than I had planned.<br>
-    I don't mind.  As big as it needs to be.
+    I don't mind. As big as it needs to be.
 
   - ##### 60:1.1:
+
     I wish I could be certain that I was doing the right thing.
 
   - ##### 61:1.1:
-    It's happening.  Very slowly, but it's happening.<br>
+
+    It's happening. Very slowly, but it's happening.<br>
     It always takes longer than you think, doesn't it?
 
   - ##### 63:1.1
+
     I never thought I would ever get to this place.<br>
     Destinations are often a surprise to the destined.
 
   - ##### 64:1.1
+
     (thread about to be cut)
 
   - ##### 65:1.1
+
     Almost time.<br>
-    Nearly.  _Very_ nearly.
+    Nearly. _Very_ nearly.
 
   - ##### 66:1.1
+
     (thread pulled apart)<br>
     There.
 
   - ##### 67:
+
     ... (there's no text in this first panel)
 
   - ##### 68:1.1
+
     Still here, then?
 
   - ##### 69:23.1:

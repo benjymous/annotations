@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 12: "Playing House"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.12/page00.jpg)

@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 15: "Into the Night"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.15/page00.jpg)

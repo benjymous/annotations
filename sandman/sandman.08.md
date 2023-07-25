@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 8: "The Sound of Her Wings"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.08/page00.jpg)

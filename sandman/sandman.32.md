@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 32 : "Slaughter on Fifth Avenue"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.32/page00.jpg)

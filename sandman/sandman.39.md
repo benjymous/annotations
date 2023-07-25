@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 39: "Soft Places"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.39/page00.jpg)

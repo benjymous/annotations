@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 71: "In Which a Wake is Held"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.71/page00.jpg)

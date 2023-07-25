@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 56: "Worlds' End"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.56/page00.jpg)

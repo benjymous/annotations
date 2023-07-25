@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## How They Met Themselves
 
 ##### Neil Gaiman, Michael Zulli

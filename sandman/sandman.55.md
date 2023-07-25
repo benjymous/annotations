@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 55: "Cerements"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.55/page00.jpg)

@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 60: "The Kindly Ones: 4"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.60/page00.jpg)

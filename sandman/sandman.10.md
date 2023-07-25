@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 10: "The Doll's House"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.10/page00.jpg)

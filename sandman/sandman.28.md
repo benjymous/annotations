@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 28
 
 > [!THUMBNAIL] ![](thumbnails/sandman.28/page00.jpg)

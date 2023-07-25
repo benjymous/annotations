@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## The Flowers of Romance
 
 ##### Neil Gaiman, John Bolton

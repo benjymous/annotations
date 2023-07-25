@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 35: "Beginning to See the Light"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.35/page00.jpg)

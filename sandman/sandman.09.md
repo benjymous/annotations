@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 9: "Tales in the Sand"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.09/page00.jpg)

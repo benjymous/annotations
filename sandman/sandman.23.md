@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 23
 
 > [!THUMBNAIL] ![](thumbnails/sandman.23/page00.jpg)

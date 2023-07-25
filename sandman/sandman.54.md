@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 54: "The Golden Boy"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.54/page00.jpg)

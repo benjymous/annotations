@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 72: "In Which We Wake"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.72/page00.jpg)

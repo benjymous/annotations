@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 33: "Lullabies of Broadway"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.33/page00.jpg)

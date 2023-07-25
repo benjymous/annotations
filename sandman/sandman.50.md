@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 50: "Ramadan"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.50/page00.jpg)

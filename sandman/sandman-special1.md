@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Sandman Special #1: "The Song of Orpheus"
 
 > [!THUMBNAIL] ![](thumbnails/sandman-special1//page00.jpg)

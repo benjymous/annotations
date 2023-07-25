@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 17: "Calliope"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.17/page00.jpg)

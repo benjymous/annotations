@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 4: "A Hope in Hell"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.04/page00.jpg)

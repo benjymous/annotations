@@ -1,4 +1,3 @@
-# The Annotated Sandman
 
 ## Issue 2: "Imperfect Hosts"
 

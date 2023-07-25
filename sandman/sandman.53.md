@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 53: "Hob's Leviathan"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.53/page00.jpg)

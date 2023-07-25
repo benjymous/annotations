@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 37: "I Woke Up and One of Us Was Crying."
 
 > [!THUMBNAIL] ![](thumbnails/sandman.37/page00.jpg)

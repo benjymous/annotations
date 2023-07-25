@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 42: Brief Lives Two
 
 > [!THUMBNAIL] ![](thumbnails/sandman.42/page00.jpg)

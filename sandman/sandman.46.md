@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 46: Brief Lives Six
 
 > [!THUMBNAIL] ![](thumbnails/sandman.46/page00.jpg)

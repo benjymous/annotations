@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 73: "Sunday Mourning"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.73/page00.jpg)
@@ -26,7 +24,7 @@
 
 - #### Panel 1-3
 
-  Of course, we know about all these other historical Gadlings.
+  Of course, we know about all these other historical members of the Gadling "family".
 
 ### Page 6
 

@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 3: "Dream a Little Dream of Me"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.03/page00.jpg)

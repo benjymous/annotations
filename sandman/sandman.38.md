@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 38: "The Hunt"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.38/page00.jpg)

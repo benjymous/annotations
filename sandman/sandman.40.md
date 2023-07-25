@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 40: "The Parliament of Rooks"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.40/page00.jpg)

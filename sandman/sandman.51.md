@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 51: "A Tale of Two Cities"
 
 > [!THUMBNAIL] ![](thumbnails/sandman.51/page00.jpg)

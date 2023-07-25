@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 43: Brief Lives Three
 
 > [!THUMBNAIL] ![](thumbnails/sandman.43/page00.jpg)

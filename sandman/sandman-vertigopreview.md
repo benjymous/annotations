@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Vertigo Preview: "Fear of Falling"
 
 ##### Neil Gaiman and Kent Williams

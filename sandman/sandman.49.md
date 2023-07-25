@@ -1,5 +1,3 @@
-# The Annotated Sandman
-
 ## Issue 49: Brief Lives Nine
 
 > [!THUMBNAIL] ![](thumbnails/sandman.49/page00.jpg)
