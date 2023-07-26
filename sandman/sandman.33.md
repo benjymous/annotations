@@ -1,12 +1,10 @@
-## Issue 33: "Lullabies of Broadway"
+> [marginThumb] ![](thumbnails/sandman.33/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page00.jpg)
+## Issue 33: "Lullabies of Broadway"
 
 ##### Neil Gaiman and Shawn McManus
 
 Second part of storyline _A Game of You_
-
-Not yet reprinted in any other form
 
 **Title**: _A Game of You_ clearly refers to the question of identity. Who and what the characters in this story are is a question either to the readers or to the character him, her, or itself, and that is the most important theme the reader should keep in mind when reading this story.
 
@@ -37,7 +35,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page01.jpg)
 
 - #### Panel 6
 
@@ -45,7 +43,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page02.jpg)
 
 - #### Panel 1
 
@@ -53,7 +51,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page03.jpg)
 
 - #### Panel 4
 
@@ -65,7 +63,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page04.jpg)
 
 - #### Panel 2
 
@@ -83,15 +81,15 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page05.jpg)
 
 - #### Panel 2
 
-  It looks to me like "dicks" got changed to "dorks", which is a pretty sad editorial change in a "mature readers" title. There is a lettering correction mark between the d and the o. Note that "dork" is, however, English slang for "penis", at about the same social level as "dick", so Gaiman may have slipped one past Karen again. (He replaced "shit" with "felching" in Books of Magic; "felching" is far more obscene than "shit", albeit more obscure.)
+  It looks to me like "dicks" got changed to "dorks", which is a pretty sad editorial change in a "mature readers" title. (It appears that it was changed back in later editions.) There is a lettering correction mark between the d and the o. Note that "dork" is, however, English slang for "penis", at about the same social level as "dick", so Gaiman may have slipped one past Karen again. (He replaced "shit" with "felching" in Books of Magic; "felching" is far more obscene than "shit", albeit more obscure.)
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page06.jpg)
 
 - #### Panel 4
 
@@ -103,7 +101,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page07.jpg)
 
 - #### Panel 1
 
@@ -123,13 +121,13 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page08.jpg)
 
 - This sequence is said to be reminiscent of the wardrobe which transports the children to Narnia in _The Lion, the Witch, and the Wardrobe_.
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page09.jpg)
 
 - #### Panel 2
 
@@ -147,15 +145,17 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 10-11
 
-We still don't know what George is, but he's weird for sure.
+> [marginThumb] ![](thumbnails/sandman.33/page10.jpg)
 
-George apparently doesn't have any nipples; is this a drawing oversight, or is George really not human?
+- We still don't know what George is, but he's weird for sure.
 
-This sequence, particularly the use of the utility knife in stripping away the surface disguise, is reminiscent of scenes in the movies _Terminator_ and _Terminator 2_, where the eponymous androids reveal their metallic endoskeletons beneath fleshy exteriors.
+  George apparently doesn't have any nipples; is this a drawing oversight, or is George really not human?
+
+  This sequence, particularly the use of the utility knife in stripping away the surface disguise, is reminiscent of scenes in the movies _Terminator_ and _Terminator 2_, where the eponymous androids reveal their metallic endoskeletons beneath fleshy exteriors.
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page12.jpg)
 
 - #### Panel 2-4
 
@@ -167,7 +167,7 @@ This sequence, particularly the use of the utility knife in stripping away the s
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page13.jpg)
 
 - #### Panel 1
 
@@ -183,11 +183,13 @@ This sequence, particularly the use of the utility knife in stripping away the s
 
 ### Page 14-15
 
+> [marginThumb] ![](thumbnails/sandman.33/page14.jpg)
+
 Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's "baby" - she wants Fox to accept the baby as her own & help look after it with Hazel. But Hazel is scared that her baby will really drive Fox away from her ("devour" her), ruining their friendship.
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page16.jpg)
 
 - #### Panel 1
 
@@ -209,7 +211,7 @@ Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's 
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page17.jpg)
 
 - #### Panel 2
 
@@ -221,7 +223,7 @@ Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's 
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page18.jpg)
 
 - The Game of Thessaly is really limited to the question of "who is Thessaly", since we now know that there is at least as much unknown about her as there is about George.
 
@@ -231,11 +233,11 @@ Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's 
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page19.jpg)
 
 - #### Panel 5
 
-  Note the light from the fire in her hands casts shadows and changes the coloring of Thessaly's fire. It is unlikely, IMHO, that the blond hair and blackened hands reveal anything in particular about her.
+  Note the light from the fire in her hands casts shadows and changes the coloring of Thessaly's hair. It is unlikely, IMHO, that the blond hair and blackened hands reveal anything in particular about her.
 
 - #### Panel 6
 
@@ -243,7 +245,7 @@ Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's 
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page21.jpg)
 
 - #### Panel 1
 
@@ -251,7 +253,7 @@ Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's 
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.33/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.33/page23.jpg)
 
 - #### Panel 1
 

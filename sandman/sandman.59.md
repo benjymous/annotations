@@ -1,12 +1,12 @@
-## Issue 59: "The Kindly Ones: 3"
+> [marginThumb] ![](thumbnails/sandman.59/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.59/page00.jpg)
+## Issue 59: "The Kindly Ones: 3"
 
 ##### Neil Gaiman, Marc Hempel, D'Israeli
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.59/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.59/page01.jpg)
 
 - #### Panel 1
 
@@ -30,7 +30,7 @@
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.59/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.59/page03.jpg)
 
 - #### Panel 6
 
@@ -38,7 +38,7 @@
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.59/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.59/page04.jpg)
 
 - #### Panel 3
 
@@ -46,7 +46,7 @@
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.59/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.59/page05.jpg)
 
 - #### Panel 1
 
@@ -54,7 +54,7 @@
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.59/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.59/page08.jpg)
 
 - #### Panel 1
 
@@ -62,7 +62,7 @@
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.59/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.59/page09.jpg)
 
 - #### Panel 4
 
@@ -70,7 +70,7 @@
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.59/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.59/page12.jpg)
 
 - #### Panel 1
 
@@ -78,7 +78,7 @@
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.59/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.59/page13.jpg)
 
 - #### Panel 1
 
@@ -90,7 +90,7 @@
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.59/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.59/page14.jpg)
 
 - #### Panel 1
 
@@ -102,7 +102,7 @@
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.59/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.59/page17.jpg)
 
 - Note the multiples of 3: 9 cents in the sign in panel 2; 9 cents in panel 3; 6 cents in panel 4; and the Triple Goddess on the cover of "People":
 
@@ -114,7 +114,7 @@
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.59/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.59/page18.jpg)
 
 - #### Panel 1
 
@@ -122,7 +122,7 @@
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.59/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.59/page23.jpg)
 
 - #### Panel 5
 
@@ -130,7 +130,7 @@
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.59/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.59/page24.jpg)
 
 - #### Panel 2
 

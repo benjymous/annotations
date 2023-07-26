@@ -1,6 +1,6 @@
-## Issue 10: "The Doll's House"
+> [marginThumb] ![](thumbnails/sandman.10/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page00.jpg)
+## Issue 10: "The Doll's House"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -10,13 +10,13 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page01.jpg)
 
 - We have learned in earlier issues that Desire is Dream's younger sibling. Despite the pronoun games in the fourth caption, Desire is consistently referred to by those who know it as "it". This is Desire's first known appearance. The "Doll's House" of the title refers to many buildings throughout this storyline, one of which is the Threshold.
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page03.jpg)
 
 - #### Panel 1
 
@@ -24,7 +24,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page04.jpg)
 
 - #### Panel 1-3
 
@@ -36,7 +36,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page05.jpg)
 
 - #### Panel 2
 
@@ -56,11 +56,11 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 6-7
 
-First known appearances of Miranda and Rose Walker, who will be very important to this storyline, and Mr. Jack Holdaway, who will not. It will be confirmed later that Rose is in fact the person Judy was talking to on page 6 of [issue 6](sandman.06.md).
+- First known appearances of Miranda and Rose Walker, who will be very important to this storyline, and Mr. Jack Holdaway, who will not. It will be confirmed later that Rose is in fact the person Judy was talking to on page 6 of [issue 6](sandman.06.md).
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page06.jpg)
 
 - #### Panel 2
 
@@ -72,7 +72,7 @@ First known appearances of Miranda and Rose Walker, who will be very important t
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page07.jpg)
 
 - #### Panel 4
 
@@ -84,7 +84,7 @@ First known appearances of Miranda and Rose Walker, who will be very important t
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page09.jpg)
 
 - #### Panel 1-2
 
@@ -98,11 +98,11 @@ First known appearances of Miranda and Rose Walker, who will be very important t
 
   Lucien is taking a census. It struck me as funny that the census rolls include "Something Nasty in the Basement". I can just see the junk mail from Ed McMahon: "On January 23, will I announce 'Mr. Something N. Basement has just won $23 million dollars? Enter now!" It does not appear that Mr. Basement or the Bottle Imp date back to the original run of _House of Secrets_.
 
-The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
+  The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page10.jpg)
 
 - #### Panel 5
 
@@ -110,7 +110,7 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 ### Page 11-12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page11-12.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page11-12.jpg)
 
 - #### Panel 4
 
@@ -118,7 +118,7 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page13.jpg)
 
 - #### Panel 1
 
@@ -138,13 +138,13 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page14.jpg)
 
 - Annulet is defined on the next page. Rose is the dream vortex. The inference from Lucien's remarks is that most vortices are objects, but that it is not unknown for them to be human.
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page16.jpg)
 
 - #### Panel 1
 
@@ -160,7 +160,7 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page17.jpg)
 
 - #### Panel 3
 
@@ -168,7 +168,7 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page18.jpg)
 
 - #### Panel 2
 
@@ -176,7 +176,7 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page19.jpg)
 
 - The Three-in-One Goddess. See [issue 2](sandman.02.md).
 
@@ -186,7 +186,7 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page20.jpg)
 
 - #### Panel 2
 
@@ -198,7 +198,7 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page21.jpg)
 
 - #### Panel 1
 
@@ -206,7 +206,7 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page22.jpg)
 
 - #### Panel 5-6
 
@@ -214,7 +214,7 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page23.jpg)
 
 - #### Panel 1
 
@@ -226,7 +226,7 @@ The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.10/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.10/page24.jpg)
 
 - The Corinthian, we learn, is a sick bastard, and is probably about to kill Davy. We are seeing the world through Corinthian's eyes, as he takes off his dark glasses (panel 5-7) we can see colors. So I think that we are lucky that the story is ending just here!
 

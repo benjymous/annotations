@@ -1,6 +1,6 @@
-## Issue 41: Brief Lives One
+> [marginThumb] ![](thumbnails/sandman.41/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page00.jpg)
+## Issue 41: Brief Lives One
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
@@ -20,7 +20,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page01.jpg)
 
 - #### Panel 1
 
@@ -32,7 +32,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page02.jpg)
 
 - #### Panel 4
 
@@ -40,7 +40,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page03.jpg)
 
 - #### Panel 1
 
@@ -52,7 +52,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page04.jpg)
 
 - #### Panel 1
 
@@ -60,7 +60,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page05.jpg)
 
 - #### Panel 1
 
@@ -78,7 +78,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page06.jpg)
 
 - #### Panel 1
 
@@ -94,7 +94,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page07.jpg)
 
 - #### Panel 2
 
@@ -112,7 +112,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page08.jpg)
 
 - #### Panel 5
 
@@ -128,7 +128,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page09.jpg)
 
 - #### Panel 1
 
@@ -157,7 +157,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page10.jpg)
 
 - #### Panel 2
 
@@ -169,7 +169,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page11.jpg)
 
 - #### Panel 3
 
@@ -183,7 +183,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page13.jpg)
 
 - #### Panel 2
 
@@ -193,7 +193,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page14.jpg)
 
 - #### Panel 1
 
@@ -209,7 +209,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page15.jpg)
 
 - #### Panel 2
 
@@ -219,7 +219,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page16.jpg)
 
 - #### Panel 1
 
@@ -233,7 +233,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page17.jpg)
 
 - #### Panel 4
 
@@ -245,7 +245,7 @@ Note Despair's use of pain to distract her from unpleasant topics.
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page20.jpg)
 
 - #### Panel 2
 
@@ -261,7 +261,7 @@ _Journal of the Plague Year_ is by Daniel Defoe (better known for _Robinson Crus
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page21.jpg)
 
 - #### Panel 1
 
@@ -279,7 +279,7 @@ _Journal of the Plague Year_ is by Daniel Defoe (better known for _Robinson Crus
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page22.jpg)
 
 - #### Panel 1
 
@@ -293,7 +293,7 @@ _Journal of the Plague Year_ is by Daniel Defoe (better known for _Robinson Crus
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.41/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.41/page23.jpg)
 
 - #### Panel 2
 

@@ -1,6 +1,6 @@
-## Issue 53: "Hob's Leviathan"
+> [marginThumb] ![](thumbnails/sandman.53/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.53/page00.jpg)
+## Issue 53: "Hob's Leviathan"
 
 - Third story in anthology, "Worlds' End"
 
@@ -10,7 +10,7 @@
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.53/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.53/page01.jpg)
 
 - #### Panel 1
 
@@ -20,7 +20,7 @@
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.53/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.53/page02.jpg)
 
 - #### Panel 1
 
@@ -36,7 +36,7 @@
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.53/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.53/page05.jpg)
 
 - #### Panel 1
 
@@ -44,7 +44,7 @@
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.53/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.53/page06.jpg)
 
 - #### Panel 3
 
@@ -52,7 +52,7 @@
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.53/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.53/page09.jpg)
 
 - #### Panel 7
 
@@ -60,7 +60,7 @@
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.53/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.53/page10.jpg)
 
 - #### Panel 5-6
 
@@ -68,7 +68,7 @@
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.53/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.53/page11.jpg)
 
 - #### Panel 4
 
@@ -76,7 +76,7 @@
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.53/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.53/page13.jpg)
 
 - #### Panel 4
 
@@ -84,7 +84,7 @@
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.53/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.53/page14.jpg)
 
 - #### Panel 3
 
@@ -92,7 +92,7 @@
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.53/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.53/page22.jpg)
 
 - #### Panel 3
 
@@ -100,7 +100,7 @@
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.53/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.53/page23.jpg)
 
 - #### Panel 3
 
@@ -108,7 +108,7 @@
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.53/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.53/page24.jpg)
 
 - #### Panel 2
 

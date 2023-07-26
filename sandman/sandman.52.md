@@ -8,7 +8,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.52/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.52/page01.jpg)
 
 - #### Panel 2
 
@@ -34,7 +34,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.52/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.52/page02.jpg)
 
 - #### Panel 2
 
@@ -42,7 +42,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.52/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.52/page03.jpg)
 
 - #### Panel 1
 
@@ -54,7 +54,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.52/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.52/page04.jpg)
 
 - #### Panel 5
 
@@ -62,7 +62,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.52/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.52/page05.jpg)
 
 - #### Panel 1
 
@@ -78,7 +78,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.52/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.52/page07.jpg)
 
 - #### Panel 1
 
@@ -86,7 +86,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.52/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.52/page08.jpg)
 
 - #### Panel 4
 
@@ -94,7 +94,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.52/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.52/page11.jpg)
 
 - #### Panel 8
 
@@ -102,7 +102,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.52/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.52/page16.jpg)
 
 - #### Panel 5
 
@@ -110,7 +110,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.52/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.52/page17.jpg)
 
 - #### Panel 2
 
@@ -118,7 +118,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.52/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.52/page20.jpg)
 
 - #### Panel 6
 
@@ -126,7 +126,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.52/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.52/page24.jpg)
 
 - #### Panel 1
 
@@ -136,7 +136,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 25
 
-> [!THUMBNAIL] ![](thumbnails/sandman.52/page25.jpg)
+> [marginThumb] ![](thumbnails/sandman.52/page25.jpg)
 
 - #### Panel 5
 

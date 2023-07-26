@@ -1,6 +1,6 @@
-## Issue 14: "Collectors"
+> [marginThumb] ![](thumbnails/sandman.14/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page00.jpg)
+## Issue 14: "Collectors"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -10,7 +10,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page01.jpg)
 
 - We are back to the real storyline after last issue's side trip, in Dodge County, Georgia. The motel where the conference is held has a sign outside which says: "Cereal Convention", the pun being obvious.
 
@@ -20,7 +20,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page02.jpg)
 
 - #### Panel 1
 
@@ -32,7 +32,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page03.jpg)
 
 - #### Panel 1
 
@@ -46,11 +46,11 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
   On the right is Chris Carter from the proto-Industrial group Throbbing Gristle (not CC creator of the X-Files)
 
-  > [!FLEX_2] ![Chris Carter's cameo in #14](images/ChrisCarterCameo.jpg) ![Image of the band 'Throbbing Gristle'](images/ThrobbingGristle.jpg)
+  > [flex cols-2] ![Chris Carter's cameo in #14](images/ChrisCarterCameo.jpg) ![Image of the band 'Throbbing Gristle'](images/ThrobbingGristle.jpg)
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page04.jpg)
 
 - #### Panel 2
 
@@ -58,7 +58,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page06.jpg)
 
 - #### Panel 3
 
@@ -70,7 +70,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page07.jpg)
 
 - #### Panel 1
 
@@ -82,7 +82,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page08.jpg)
 
 - #### Panel 6
 
@@ -90,7 +90,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page09.jpg)
 
 - #### Panel 1
 
@@ -106,7 +106,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page10.jpg)
 
 - #### Panel 4
 
@@ -114,13 +114,13 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page11.jpg)
 
 - I cannot identify any of these pictures. I suspect that they include famous serial killers of the past.
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page12.jpg)
 
 - #### Panel 1
 
@@ -132,7 +132,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page14.jpg)
 
 - #### Panel 2
 
@@ -166,7 +166,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page15.jpg)
 
 - #### Panel 1
 
@@ -178,7 +178,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page16.jpg)
 
 - #### Panel 4
 
@@ -190,7 +190,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page17.jpg)
 
 - #### Panel 4
 
@@ -198,7 +198,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page18.jpg)
 
 - #### Panel 1
 
@@ -206,7 +206,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page19.jpg)
 
 - #### Panel 7
 
@@ -224,7 +224,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page21.jpg)
 
 - #### Panel 1
 
@@ -236,7 +236,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page22.jpg)
 
 - #### Panel 1-3
 
@@ -256,7 +256,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page23.jpg)
 
 - #### Panel 6-7
 
@@ -264,7 +264,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page24.jpg)
 
 - #### Panel 3
 
@@ -272,7 +272,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 26
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page26.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page26.jpg)
 
 - #### Panel 2
 
@@ -296,15 +296,15 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 27
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page27.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page27.jpg)
 
-- ####middle top.
+- #### middle top.
 
-Of course women are naked under their clothes.
+  Of course women are naked under their clothes.
 
 ### Page 28
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page28.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page28.jpg)
 
 - #### Panel 1
 
@@ -316,7 +316,7 @@ Of course women are naked under their clothes.
 
 ### Page 29
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page29.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page29.jpg)
 
 - #### Panel 1
 
@@ -328,7 +328,7 @@ Of course women are naked under their clothes.
 
 ### Page 31
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page31.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page31.jpg)
 
 - #### Panel 4
 
@@ -336,7 +336,7 @@ Of course women are naked under their clothes.
 
 ### Page 32
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page32.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page32.jpg)
 
 - #### Panel 4-5
 
@@ -344,7 +344,7 @@ Of course women are naked under their clothes.
 
 ### Page 34
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page34.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page34.jpg)
 
 - #### Panel 1
 
@@ -352,7 +352,7 @@ Of course women are naked under their clothes.
 
 ### Page 36
 
-> [!THUMBNAIL] ![](thumbnails/sandman.14/page36.jpg)
+> [marginThumb] ![](thumbnails/sandman.14/page36.jpg)
 
 - #### Panel 6
 

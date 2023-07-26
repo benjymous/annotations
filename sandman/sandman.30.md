@@ -1,12 +1,10 @@
-## Issue 30 : "August"
+> [marginThumb] ![](thumbnails/sandman.30/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page00.jpg)
+## Issue 30 : "August"
 
 ##### Neil Gaiman, Brian Talbot, and Stan Woch
 
 Second story in anthology _Distant Mirrors_
-
-Not yet reprinted in any other form
 
 **Sources**: A note in [Sandman #31](sandman.31.md) indicates that the title of this anthology came from Barbara Tuchman's text _A Distant Mirror: The Calamitous 14th Century_.
 
@@ -18,7 +16,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page01.jpg)
 
 - #### Panels 1-3
 
@@ -30,7 +28,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page02.jpg)
 
 - #### Panel 1
 
@@ -46,7 +44,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page03.jpg)
 
 - #### Panel 1
 
@@ -62,7 +60,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page04.jpg)
 
 - #### Panel 3-4
 
@@ -72,7 +70,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page05.jpg)
 
 - #### Panel 1
 
@@ -92,7 +90,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page06.jpg)
 
 - #### Panel 1
 
@@ -112,7 +110,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page07.jpg)
 
 - #### Panel 3
 
@@ -132,7 +130,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page08.jpg)
 
 - #### Panel 1-3
 
@@ -144,7 +142,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page09.jpg)
 
 - #### Panel 1
 
@@ -168,7 +166,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page10.jpg)
 
 - #### Panel 1
 
@@ -185,7 +183,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page11.jpg)
 
 - #### Panel 3
 
@@ -203,7 +201,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page12.jpg)
 
 - #### Panel 2
 
@@ -215,7 +213,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page13.jpg)
 
 - #### Panel 1
 
@@ -231,7 +229,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page14.jpg)
 
 - #### Panel 2
 
@@ -239,7 +237,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page15.jpg)
 
 - #### Panel 3
 
@@ -267,7 +265,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page18.jpg)
 
 - #### Panel 3
 
@@ -275,7 +273,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page19.jpg)
 
 - #### Panel 1
 
@@ -291,7 +289,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page23.jpg)
 
 - #### Panel 4
 
@@ -303,7 +301,7 @@ Elements of Graves' historical novel _I Claudius_ are also obvious, particularly
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.30/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.30/page24.jpg)
 
 - #### Panel 2
 

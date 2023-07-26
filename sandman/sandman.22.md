@@ -1,10 +1,8 @@
-## Issue 22
+> [marginThumb] ![](thumbnails/sandman.22/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page00.jpg)
+## Issue 22: "Season of Mists Chapter 1"
 
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
-
-Season of Mists Chapter 1
 
 > In which the Lord of Dreams makes preparations
 > to visit the realms infernal;
@@ -12,8 +10,6 @@ Season of Mists Chapter 1
 > a toast is drunk;
 > and in Hell the adversary makes
 > certain preparations of his own.
-
-Not yet reprinted in any other form
 
 **General**: In the subtitle, "the adversary" is a translation of "Satan", a usual appellation for the ruler of Hell.
 
@@ -28,7 +24,7 @@ Not yet reprinted in any other form
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page01.jpg)
 
 - #### Panel 1
 
@@ -44,7 +40,7 @@ Not yet reprinted in any other form
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page02.jpg)
 
 - #### Panel 1
 
@@ -62,7 +58,7 @@ Not yet reprinted in any other form
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page03.jpg)
 
 - #### Panel 2
 
@@ -74,19 +70,19 @@ Not yet reprinted in any other form
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page05.jpg)
 
 - This is a recap of [Sandman #9](sandman.09.md).
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page06.jpg)
 
 - This is a recap of [Sandman #4](sandman.04.md).
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page07.jpg)
 
 - #### Panel 1
 
@@ -98,7 +94,7 @@ Not yet reprinted in any other form
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page08.jpg)
 
 - #### Panel 3
 
@@ -122,7 +118,7 @@ Not yet reprinted in any other form
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page09.jpg)
 
 - #### Panel 1
 
@@ -138,7 +134,7 @@ Not yet reprinted in any other form
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page10.jpg)
 
 - #### Panel 4
 
@@ -158,7 +154,7 @@ Not yet reprinted in any other form
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page11.jpg)
 
 - #### Panel 1-3
 
@@ -166,17 +162,17 @@ Not yet reprinted in any other form
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page12.jpg)
 
 - #### Panel 1-2
 
   These are Lyta Hall and her son; Carla is a new character.
 
-We last saw Lyta and the child in [Sandman #12](sandman.12.md), q.v. It is worth noting that Daniel is linked not only to Dream by his gestation, but also to the Triple Goddess through his grandmother, who was bound to the Furies by an agreement made in World War II that granted her superpowers with which to fight the Nazis. Lyta inherited those powers.
+  We last saw Lyta and the child in [Sandman #12](sandman.12.md), q.v. It is worth noting that Daniel is linked not only to Dream by his gestation, but also to the Triple Goddess through his grandmother, who was bound to the Furies by an agreement made in World War II that granted her superpowers with which to fight the Nazis. Lyta inherited those powers.
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page14.jpg)
 
 - #### Panel 4
 
@@ -184,7 +180,7 @@ We last saw Lyta and the child in [Sandman #12](sandman.12.md), q.v. It is worth
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page15.jpg)
 
 - #### Panel 3
 
@@ -193,7 +189,7 @@ We last saw Lyta and the child in [Sandman #12](sandman.12.md), q.v. It is worth
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page16.jpg)
 
 - #### Panel 2
 
@@ -207,7 +203,7 @@ We last saw Lyta and the child in [Sandman #12](sandman.12.md), q.v. It is worth
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page18.jpg)
 
 - #### Panel 1
 
@@ -219,7 +215,7 @@ We last saw Lyta and the child in [Sandman #12](sandman.12.md), q.v. It is worth
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page19.jpg)
 
 - #### Panel 2
 
@@ -235,7 +231,7 @@ We last saw Lyta and the child in [Sandman #12](sandman.12.md), q.v. It is worth
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page20.jpg)
 
 - #### Panel 1
 
@@ -243,7 +239,7 @@ We last saw Lyta and the child in [Sandman #12](sandman.12.md), q.v. It is worth
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page21.jpg)
 
 - #### Panel 6
 
@@ -251,7 +247,7 @@ We last saw Lyta and the child in [Sandman #12](sandman.12.md), q.v. It is worth
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.22/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.22/page22.jpg)
 
 - #### Panel 3
 

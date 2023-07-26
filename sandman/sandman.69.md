@@ -1,12 +1,12 @@
-## Issue 69: "The Kindly Ones: 13"
+> [marginThumb] ![](thumbnails/sandman.69/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page00.jpg)
+## Issue 69: "The Kindly Ones: 13"
 
 ##### Neil Gaiman, Marc Hempel
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page01.jpg)
 
 - #### Panel 5
 
@@ -14,7 +14,7 @@
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page03.jpg)
 
 - #### Panel 7
 
@@ -26,7 +26,7 @@
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page04.jpg)
 
 - #### Panel 8
 
@@ -34,7 +34,7 @@
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page05.jpg)
 
 - #### Panel 3
 
@@ -42,7 +42,7 @@
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page07.jpg)
 
 - #### Panel 1
 
@@ -50,7 +50,7 @@
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page08.jpg)
 
 - #### Panel 2
 
@@ -64,7 +64,7 @@
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page13.jpg)
 
 - #### Panel 1
 
@@ -72,7 +72,7 @@
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page14.jpg)
 
 - #### Panel 7
 
@@ -80,7 +80,7 @@
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page15.jpg)
 
 - #### Panel 4
 
@@ -92,7 +92,7 @@
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page16.jpg)
 
 - #### Panel 2
 
@@ -114,7 +114,7 @@
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page17.jpg)
 
 - #### Panel 5
 
@@ -122,7 +122,7 @@
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page18.jpg)
 
 - #### Panel 6
 
@@ -130,7 +130,7 @@
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page19.jpg)
 
 - #### Panel 1
 
@@ -148,7 +148,7 @@
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page20.jpg)
 
 - #### Panel 2
 
@@ -164,7 +164,7 @@
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page22.jpg)
 
 - #### Panel 4
 
@@ -176,7 +176,7 @@
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page23.jpg)
 
 - #### Panel 1
 
@@ -260,7 +260,7 @@
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.69/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.69/page24.jpg)
 
 - #### Panel 6
 

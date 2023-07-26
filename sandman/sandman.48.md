@@ -1,6 +1,6 @@
-## Issue 48: Brief Lives Eight
+> [marginThumb] ![](thumbnails/sandman.48/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.48/page00.jpg)
+## Issue 48: Brief Lives Eight
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
@@ -10,7 +10,7 @@
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.48/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.48/page01.jpg)
 
 - #### Panel 1
 
@@ -22,7 +22,7 @@
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.48/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.48/page02.jpg)
 
 - #### Panel 1
 
@@ -38,7 +38,7 @@ Del is retelling the story; her physical changes reflect her state at each point
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.48/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.48/page05.jpg)
 
 - #### Panel 2
 
@@ -50,7 +50,7 @@ Del is retelling the story; her physical changes reflect her state at each point
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.48/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.48/page06.jpg)
 
 - #### Panel 4
 
@@ -60,7 +60,7 @@ Del is retelling the story; her physical changes reflect her state at each point
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.48/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.48/page07.jpg)
 
 - #### Panel 2
 
@@ -70,7 +70,7 @@ Del is retelling the story; her physical changes reflect her state at each point
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.48/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.48/page08.jpg)
 
 - #### Panel 7
 
@@ -78,7 +78,7 @@ Del is retelling the story; her physical changes reflect her state at each point
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.48/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.48/page09.jpg)
 
 - #### Panel 2
 
@@ -95,7 +95,7 @@ Del is retelling the story; her physical changes reflect her state at each point
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.48/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.48/page10.jpg)
 
 - #### Panel 1
 
@@ -105,7 +105,7 @@ Del is retelling the story; her physical changes reflect her state at each point
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.48/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.48/page11.jpg)
 
 - #### Panel 3
 
@@ -132,7 +132,7 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.48/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.48/page15.jpg)
 
 - #### Panel 1-5
 
@@ -146,7 +146,7 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.48/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.48/page16.jpg)
 
 - #### Panel 1
 
@@ -164,7 +164,7 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.48/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.48/page17.jpg)
 
 - #### Panel 4
 
@@ -172,7 +172,7 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.48/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.48/page19.jpg)
 
 - #### Panel 2
 
@@ -191,7 +191,7 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.48/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.48/page21.jpg)
 
 - #### Panel 2
 
@@ -199,7 +199,7 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.48/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.48/page23.jpg)
 
 - #### Panel 2
 

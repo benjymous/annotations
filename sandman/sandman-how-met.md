@@ -4,11 +4,11 @@
 
 **Note**: This stand-alone story originally appeared in the Vertigo: Winters Edge #3 anthology
 
-> [!FLOATRIGHT_40PC] ![How They Met Themselves](images/HowTheyMetThemselves.jpg)
+> [floatright width-40pc] ![How They Met Themselves](images/HowTheyMetThemselves.jpg)
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman-how-met/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman-how-met/page01.jpg)
 
 - #### Panel 1
 
@@ -20,7 +20,7 @@
 
 ### Page 2-3
 
-> [!THUMBNAIL] ![](thumbnails/sandman-how-met/page02-03.jpg)
+> [marginThumb] ![](thumbnails/sandman-how-met/page02-03.jpg)
 
 A Double page Splash.
 
@@ -30,7 +30,7 @@ Lizzie here, is [Lizzie Siddal](https://en.wikipedia.org/wiki/Elizabeth_Siddal),
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman-how-met/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman-how-met/page04.jpg)
 
 - #### Panel 1
 
@@ -49,14 +49,14 @@ Lizzie here, is [Lizzie Siddal](https://en.wikipedia.org/wiki/Elizabeth_Siddal),
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman-how-met/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman-how-met/page05.jpg)
 
 - #### Panel 1
   Even Rossetti finds Desire's eyes remarkable.
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman-how-met/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman-how-met/page06.jpg)
 
 - #### Panel 1
 
@@ -75,7 +75,7 @@ Lizzie here, is [Lizzie Siddal](https://en.wikipedia.org/wiki/Elizabeth_Siddal),
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman-how-met/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman-how-met/page07.jpg)
 
 - #### Panel 1
 
@@ -98,13 +98,13 @@ Lizzie here, is [Lizzie Siddal](https://en.wikipedia.org/wiki/Elizabeth_Siddal),
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman-how-met/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman-how-met/page08.jpg)
 
 - Rossetti's true love was really himself.
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman-how-met/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman-how-met/page09.jpg)
 
 - #### Panel 1
 

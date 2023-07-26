@@ -1,6 +1,6 @@
-## Issue 16: "Lost Hearts"
+> [marginThumb] ![](thumbnails/sandman.16/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.16/page00.jpg)
+## Issue 16: "Lost Hearts"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -10,7 +10,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.16/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.16/page04.jpg)
 
 - #### Panel 6
 
@@ -18,7 +18,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.16/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.16/page05.jpg)
 
 - #### Panel 1
 
@@ -30,7 +30,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.16/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.16/page09.jpg)
 
 - #### Panel 5
 
@@ -38,7 +38,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.16/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.16/page13.jpg)
 
 - #### Panel 2
 
@@ -46,7 +46,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.16/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.16/page17.jpg)
 
 - #### Panel 3
 
@@ -68,11 +68,11 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.16/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.16/page18.jpg)
 
 - #### Panel 2-3
 
-  > [!FLOATRIGHT_40PC] ![Original photo of G.K. Chesterton](images/GKChesterton.jpg)
+  > [floatright width-40pc] ![Original photo of G.K. Chesterton](images/GKChesterton.jpg)
 
   We saw Judy, and the massacre, in [Sandman #6](sandman.06.md). We will see Donna in a later storyline.
 
@@ -82,7 +82,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.16/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.16/page19.jpg)
 
 - #### Panel 1
 
@@ -98,7 +98,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.16/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.16/page20.jpg)
 
 - #### Panel 6
 
@@ -106,7 +106,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.16/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.16/page21.jpg)
 
 - #### Panel 5
 
@@ -114,7 +114,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.16/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.16/page22.jpg)
 
 - #### Panel 1
 
@@ -128,7 +128,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.16/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.16/page23.jpg)
 
 - #### Panel 4
 

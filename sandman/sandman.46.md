@@ -1,6 +1,6 @@
-## Issue 46: Brief Lives Six
+> [marginThumb] ![](thumbnails/sandman.46/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page00.jpg)
+## Issue 46: Brief Lives Six
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
@@ -12,7 +12,7 @@
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.46/page01.jpg)
 
 - #### Panel 4
 
@@ -20,7 +20,7 @@
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.46/page02.jpg)
 
 - #### Panel 1-6
 
@@ -48,7 +48,7 @@
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.46/page03.jpg)
 
 - #### Panel 3
 
@@ -60,7 +60,7 @@
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.46/page08.jpg)
 
 - #### Panel 1
 
@@ -74,7 +74,7 @@
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.46/page09.jpg)
 
 - #### Panel 1
 
@@ -86,7 +86,7 @@
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.46/page10.jpg)
 
 - #### Panel 3
 
@@ -98,7 +98,7 @@
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.46/page11.jpg)
 
 - #### Panel 3
 
@@ -114,7 +114,7 @@ Compare with Section 3.
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.46/page15.jpg)
 
 - #### Panel 5-6
 
@@ -124,7 +124,7 @@ Compare with Section 3.
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.46/page16.jpg)
 
 - #### Panel 1
 
@@ -143,7 +143,7 @@ Compare with Section 3.
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.46/page17.jpg)
 
 - #### Panel 3
 
@@ -151,7 +151,7 @@ Compare with Section 3.
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.46/page18.jpg)
 
 - #### Panel 5
 
@@ -161,7 +161,7 @@ Compare with Section 3.
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.46/page19.jpg)
 
 - #### Panel 6
 
@@ -171,7 +171,7 @@ Needless to say, it would be interesting to see the script to this issue to see 
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.46/page20.jpg)
 
 - #### Panel 3-4
 
@@ -185,7 +185,7 @@ Latin for "time breaks" or "time shatters"; the inscription on Delirium's unusua
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.46/page21.jpg)
 
 - #### Panel 4
 
@@ -195,13 +195,13 @@ Latin for "time breaks" or "time shatters"; the inscription on Delirium's unusua
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.46/page22.jpg)
 
 - "Tempus Frangit" means "Time breaks/shatters", which is probably why Delirium says "It's stopped". "Tempus Frangit" could also refer to Delirium's realm.
 
 ### Page 23-24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.46/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.46/page23.jpg)
 
 - Again early editions miscolored Del's eyes. The grey tone of her balloons remained.
 

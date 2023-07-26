@@ -1,6 +1,6 @@
-## Issue 18: "A Dream of a Thousand Cats"
+> [marginThumb] ![](thumbnails/sandman.18/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.18/page00.jpg)
+## Issue 18: "A Dream of a Thousand Cats"
 
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
 
@@ -10,7 +10,7 @@ Second story reprinted in trade paperback _Dream Country_
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.18/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.18/page10.jpg)
 
 - #### Panel 1
 
@@ -22,7 +22,7 @@ Second story reprinted in trade paperback _Dream Country_
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.18/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.18/page13.jpg)
 
 - #### Panel 1
 
@@ -30,7 +30,7 @@ Second story reprinted in trade paperback _Dream Country_
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.18/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.18/page14.jpg)
 
 - #### Panel 2
 
@@ -59,7 +59,7 @@ Second story reprinted in trade paperback _Dream Country_
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.18/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.18/page17.jpg)
 
 - #### Panel 1-2
 
@@ -71,7 +71,7 @@ Second story reprinted in trade paperback _Dream Country_
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.18/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.18/page20.jpg)
 
 - #### Panel 4
 
@@ -79,7 +79,7 @@ Second story reprinted in trade paperback _Dream Country_
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.18/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.18/page23.jpg)
 
 - #### Panel 2
 

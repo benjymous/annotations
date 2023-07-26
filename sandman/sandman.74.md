@@ -1,6 +1,6 @@
-## Issue 74: "Exiles"
+> [marginThumb] ![](thumbnails/sandman.74/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.74/page00.jpg)
+## Issue 74: "Exiles"
 
 ##### Neil Gaiman, Jon J Muth
 
@@ -18,7 +18,7 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.74/page02-03.jpg)
+> [marginThumb] ![](thumbnails/sandman.74/page02-03.jpg)
 
 - #### Panel 2
 
@@ -26,13 +26,13 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.74/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.74/page04.jpg)
 
 - The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's known to have existed as early as the 13th century C.E.The "White Lotus Rebellion" lasted from 1796 to 1804.
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.74/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.74/page05.jpg)
 
 - #### Panel 1
 
@@ -44,7 +44,7 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.74/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.74/page06.jpg)
 
 - #### Panel 5
 
@@ -52,7 +52,7 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.74/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.74/page14.jpg)
 
 - #### Panel 2
 
@@ -62,7 +62,7 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.74/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.74/page15.jpg)
 
 - #### Panel 1
 
@@ -70,7 +70,7 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.74/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.74/page16.jpg)
 
 - #### Panel 2
 
@@ -78,7 +78,7 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.74/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.74/page18.jpg)
 
 - #### Panel 6
 
@@ -86,7 +86,7 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.74/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.74/page19.jpg)
 
 - #### Panels 1-4
 
@@ -94,7 +94,7 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.74/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.74/page21.jpg)
 
 - #### Panel 4
 
@@ -102,7 +102,7 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.74/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.74/page23.jpg)
 
 - #### Panel 5
 

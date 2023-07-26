@@ -1,12 +1,12 @@
-## Issue 73: "Sunday Mourning"
+> [marginThumb] ![](thumbnails/sandman.73/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.73/page00.jpg)
+## Issue 73: "Sunday Mourning"
 
 ##### Neil Gaiman, Michael Zulli
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.73/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.73/page01.jpg)
 
 - #### Panel 2
 
@@ -14,13 +14,13 @@
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.73/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.73/page04.jpg)
 
 - The view shown is the entrance to the Minnesota Renaissance Festival held in Shakopee, Minnesota. According to report, Zulli visited it specifically to gather visual reference.
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.73/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.73/page05.jpg)
 
 - #### Panel 1-3
 
@@ -28,13 +28,13 @@
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.73/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.73/page06.jpg)
 
 - On the theme of "People must change", he we see Hob really has had plenty of time to reconsider his part in the past.
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.73/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.73/page09.jpg)
 
 - #### Panel 7
 
@@ -42,7 +42,7 @@
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.73/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.73/page11.jpg)
 
 - #### Panel 1
 
@@ -54,7 +54,7 @@
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.73/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.73/page12.jpg)
 
 - #### Panel 6
 
@@ -62,7 +62,7 @@
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.73/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.73/page16.jpg)
 
 - #### Panel 1
 
@@ -70,7 +70,7 @@
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.73/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.73/page18.jpg)
 
 - #### Panel 3
 
@@ -78,7 +78,7 @@
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.73/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.73/page22.jpg)
 
 - #### Panel 5
 
@@ -86,7 +86,7 @@
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.73/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.73/page24.jpg)
 
 - #### Panel 5
 

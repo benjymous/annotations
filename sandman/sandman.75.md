@@ -1,6 +1,6 @@
-## Issue 75: "The Tempest"
+> [marginThumb] ![](thumbnails/sandman.75/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page00.jpg)
+## Issue 75: "The Tempest"
 
 ##### Neil Gaiman, Charles Vess
 
@@ -8,7 +8,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page01.jpg)
 
 - #### Panel 1
 
@@ -16,7 +16,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page05.jpg)
 
 - #### Panel 2, 4
 
@@ -28,7 +28,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page06.jpg)
 
 - #### Panel 1
 
@@ -38,7 +38,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page07.jpg)
 
 - #### Panel 1
 
@@ -50,7 +50,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page09.jpg)
 
 - #### Panel 6
 
@@ -60,7 +60,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page10.jpg)
 
 - #### Panel 4-7
 
@@ -68,7 +68,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page11.jpg)
 
 - #### Panel 1
 
@@ -76,13 +76,13 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 - #### Panel 4
 
-> [!FLOATRIGHT_40PC] ![Benjamin Jonson by Abraham van Blyenberch](images/BenjaminJonson.jpg)
+> [floatright width-40pc] ![Benjamin Jonson by Abraham van Blyenberch](images/BenjaminJonson.jpg)
 
 [Ben Jonson](https://en.wikipedia.org/wiki/Ben_Jonson) was a contemporary and a friend of Shakespeare who loved him and honored his memory as the star of poets but also criticized him for his lack of art and disregard for the Classical rules.
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page13.jpg)
 
 - #### Panel 3
 
@@ -90,7 +90,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page14.jpg)
 
 - #### Panel 4
 
@@ -102,7 +102,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page15.jpg)
 
 - #### Panel 2
 
@@ -114,7 +114,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page16.jpg)
 
 - #### Panel 3
 
@@ -122,7 +122,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page17.jpg)
 
 - #### Panel 1
 
@@ -134,7 +134,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page19.jpg)
 
 - #### Panel 1-3
 
@@ -148,7 +148,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page20.jpg)
 
 - #### Panel 2
 
@@ -160,7 +160,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page21.jpg)
 
 - #### Panel 4
 
@@ -168,7 +168,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page22.jpg)
 
 - #### Panel 3-4
 
@@ -176,41 +176,41 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page23.jpg)
 
 - Act 2 Scene 2 line 25
 
 ### Page 26-28
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page26.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page26.jpg)
 
 - Act 4 Scene 1
 
 ### Page 31
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page31.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page31.jpg)
 
 - #### Panel 3
 
   This seventeenth century version of Merv is named in the script as _Merrow Turniphead_.
 
-## Page 32
+### Page 32
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page32.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page32.jpg)
 
 - #### Panel 5
 
   This is a redrawing of [#13](sandman.13.md#page-12):12.3
 
-## Page 34
+### Page 34
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page34.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page34.jpg)
 
 - This page is supposed to mirror Hamnet's monologue from [#19](sandman.19.md#page-13):13
 
-## Page 35
+### Page 35
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page35.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page35.jpg)
 
 - #### Panel 3
 
@@ -218,7 +218,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 38
 
-> [!THUMBNAIL] ![](thumbnails/sandman.75/page38.jpg)
+> [marginThumb] ![](thumbnails/sandman.75/page38.jpg)
 
 - #### Panels 1-8
 

@@ -8,7 +8,7 @@
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman-vertigojam1/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman-vertigojam1/page02.jpg)
 
 - #### Panel 6
 
@@ -16,7 +16,7 @@
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman-vertigojam1/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman-vertigojam1/page03.jpg)
 
 - #### Panels 1-3
 
@@ -28,7 +28,7 @@
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman-vertigojam1/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman-vertigojam1/page04.jpg)
 
 - Nuala, of course we already know. Her homesickness (and lovesickness) will be addressed in future issues...
 

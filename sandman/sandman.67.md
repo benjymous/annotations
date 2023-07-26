@@ -1,6 +1,6 @@
-## Issue 67: "The Kindly Ones: 11"
+> [marginThumb] ![](thumbnails/sandman.67/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.67/page00.jpg)
+## Issue 67: "The Kindly Ones: 11"
 
 ##### Neil Gaiman, Marc Hempel, Richard Case
 
@@ -8,7 +8,7 @@
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.67/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.67/page01.jpg)
 
 - #### Panel 1
 
@@ -20,7 +20,7 @@
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.67/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.67/page02.jpg)
 
 - #### Panel 3
 
@@ -36,7 +36,7 @@
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.67/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.67/page03.jpg)
 
 - #### Panel 2
 
@@ -44,7 +44,7 @@
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.67/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.67/page05.jpg)
 
 - #### Panel 1
 
@@ -52,7 +52,7 @@
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.67/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.67/page06.jpg)
 
 - #### Panel 7
 
@@ -60,7 +60,7 @@
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.67/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.67/page09.jpg)
 
 - #### Panel 1
 
@@ -72,7 +72,7 @@
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.67/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.67/page10.jpg)
 
 - #### Panel 1
 
@@ -80,7 +80,7 @@
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.67/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.67/page11.jpg)
 
 - #### Panel 2
 
@@ -96,7 +96,7 @@
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.67/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.67/page13.jpg)
 
 - #### Panel 4
 
@@ -104,7 +104,7 @@
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.67/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.67/page16.jpg)
 
 - #### Panel 2
 
@@ -112,7 +112,7 @@
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.67/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.67/page18.jpg)
 
 - #### Panel 6
 
@@ -120,7 +120,7 @@
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.67/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.67/page19.jpg)
 
 - #### Panel 4
 
@@ -132,13 +132,13 @@
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.67/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.67/page23.jpg)
 
 - Panels 1-3 echo in layout, form, and action, page 23 of [issue #11](sandman.11.md) (part 2 of "The Doll's House").
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.67/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.67/page24.jpg)
 
 - This page similarly echoes [11:24](sandman.11.md#page-24).
 

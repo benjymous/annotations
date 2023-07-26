@@ -1,6 +1,6 @@
-## Issue 43: Brief Lives Three
+> [marginThumb] ![](thumbnails/sandman.43/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page00.jpg)
+## Issue 43: Brief Lives Three
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
@@ -10,7 +10,7 @@
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.43/page01.jpg)
 
 - #### Panel 2
 
@@ -30,7 +30,7 @@
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.43/page02.jpg)
 
 - #### Panel 1
 
@@ -60,7 +60,7 @@
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.43/page03.jpg)
 
 - #### Panel 1-3
 
@@ -68,7 +68,7 @@
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.43/page04.jpg)
 
 - #### Panel 1
 
@@ -76,7 +76,7 @@
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.43/page05.jpg)
 
 - #### Panel 2
 
@@ -86,7 +86,7 @@
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.43/page08.jpg)
 
 - #### Panel 2
 
@@ -102,7 +102,7 @@
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.43/page09.jpg)
 
 - #### Panel 8
 
@@ -112,7 +112,7 @@
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.43/page12.jpg)
 
 - #### Panel 6
 
@@ -124,7 +124,7 @@ From Coleridge's "Xanadu".
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.43/page13.jpg)
 
 - #### Panel 1
 
@@ -132,7 +132,7 @@ From Coleridge's "Xanadu".
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.43/page14.jpg)
 
 - #### Panel 2
 
@@ -148,7 +148,7 @@ A transformation of the poetic image "the dogs of war", from William Shakespeare
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.43/page17.jpg)
 
 - #### Panel 2
 
@@ -162,7 +162,7 @@ A transformation of the poetic image "the dogs of war", from William Shakespeare
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.43/page19.jpg)
 
 - #### Panel 2
 
@@ -172,7 +172,7 @@ A transformation of the poetic image "the dogs of war", from William Shakespeare
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.43/page20.jpg)
 
 - #### Panel 2
 
@@ -180,7 +180,7 @@ A transformation of the poetic image "the dogs of war", from William Shakespeare
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.43/page21.jpg)
 
 - #### Panel 5
 
@@ -188,7 +188,7 @@ A transformation of the poetic image "the dogs of war", from William Shakespeare
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.43/page23.jpg)
 
 - #### Panel 3
 
@@ -196,7 +196,7 @@ A transformation of the poetic image "the dogs of war", from William Shakespeare
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.43/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.43/page24.jpg)
 
 - #### Panel 3
 

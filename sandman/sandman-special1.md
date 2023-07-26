@@ -1,6 +1,6 @@
-## Sandman Special #1: "The Song of Orpheus"
+> [marginThumb] ![](thumbnails/sandman-special1//page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1//page00.jpg)
+## Sandman Special #1: "The Song of Orpheus"
 
 ##### Neil Gaiman, Bryan Talbot, and Mark Buckingham
 
@@ -15,7 +15,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page01.jpg)
 
 - #### Panel 5
 
@@ -25,7 +25,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page02.jpg)
 
 - #### Panel 2
 
@@ -35,7 +35,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page04.jpg)
 
 - #### Panel 1
 
@@ -51,7 +51,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page05.jpg)
 
 - #### Panels 2-6; page 6 panel 1
 
@@ -69,7 +69,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page06.jpg)
 
 - #### Panel 1
 
@@ -85,7 +85,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page07.jpg)
 
 - #### Panel 4
 
@@ -93,7 +93,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page09.jpg)
 
 - #### Panel 1
 
@@ -101,7 +101,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page13.jpg)
 
 - #### Panel 2-3
 
@@ -109,7 +109,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page14.jpg)
 
 - #### Panel 1
 
@@ -123,7 +123,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page16.jpg)
 
 - #### Panel 2
 
@@ -131,7 +131,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page17.jpg)
 
 - #### Panel 2
 
@@ -147,7 +147,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page19.jpg)
 
 - #### Panel 6
 
@@ -155,7 +155,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page20.jpg)
 
 - #### Panel 2
 
@@ -163,7 +163,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page21.jpg)
 
 - #### Panel 1
 
@@ -175,7 +175,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page22.jpg)
 
 - #### Panel 1
 
@@ -183,7 +183,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page23.jpg)
 
 - #### Panel 1-2
 
@@ -195,7 +195,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page24.jpg)
 
 - #### Panel 4
 
@@ -203,7 +203,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 25
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page25.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page25.jpg)
 
 - #### Panel 2
 
@@ -213,7 +213,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 28
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page28.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page28.jpg)
 
 - #### Panel 1
 
@@ -225,7 +225,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 30
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page30.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page30.jpg)
 
 - #### Panel 3-6
 
@@ -237,7 +237,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 32
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page32.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page32.jpg)
 
 - #### Panel 1
 
@@ -245,13 +245,13 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 33
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page33.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page33.jpg)
 
 - The song is unknown, possibly original, but I wouldn't bet on it :-)
 
 ### Page 34
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page34.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page34.jpg)
 
 - This scene is almost straight out of _Bulfinch's Mythology_.
 
@@ -275,7 +275,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 35
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page35.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page35.jpg)
 
 - #### Panel 3-5
 
@@ -283,7 +283,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 37
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page37.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page37.jpg)
 
 - #### Panel 7-10
 
@@ -291,7 +291,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 39
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page39.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page39.jpg)
 
 - #### Panel 4
 
@@ -299,7 +299,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 42
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page42.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page42.jpg)
 
 - #### Panel 3
 
@@ -307,7 +307,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 43
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page43.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page43.jpg)
 
 - The ancient Greeks believed that songs made up entirely or mostly of vowels had a remarkable power.
 
@@ -317,7 +317,7 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 45
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page45.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page45.jpg)
 
 - #### Panel 7
 
@@ -325,13 +325,13 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
 ### Page 46
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page46.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page46.jpg)
 
 - Traditionally, Orpheus died after being torn apart by the Bacchante. His head floated down the river Hebrus to the island Lesbos. His lyre was made (by Apollo) the constellation of Lyra.
 
 ### Page 47
 
-> [!THUMBNAIL] ![](thumbnails/sandman-special1/page47.jpg)
+> [marginThumb] ![](thumbnails/sandman-special1/page47.jpg)
 
 - #### Panel 3
 

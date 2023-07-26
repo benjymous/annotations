@@ -1,10 +1,8 @@
-## Issue 21
+> [marginThumb] ![](thumbnails/sandman.21/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page00.jpg)
+## Issue 21: "Season of Mists: a prologue"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
-
-Season of Mists: a prologue
 
 > In which a Family reunion
 > occasions certain personal recriminations;
@@ -12,11 +10,9 @@ Season of Mists: a prologue
 > and a relationship thought long done
 > proves to have much relevance today.
 
-Not yet reprinted in any other form
-
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page01.jpg)
 
 - #### Panel 1
 
@@ -48,7 +44,7 @@ Not yet reprinted in any other form
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page02.jpg)
 
 - #### Panel 2f
 
@@ -64,7 +60,7 @@ Not yet reprinted in any other form
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page03.jpg)
 
 - #### Panel 2-3
 
@@ -72,13 +68,13 @@ Not yet reprinted in any other form
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page04.jpg)
 
 - Destiny's hall would appear to be drawn from reference. Can anyone ID it?
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page05.jpg)
 
 - #### Panel 1
 
@@ -94,7 +90,7 @@ Not yet reprinted in any other form
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page06.jpg)
 
 - #### Panel 1
 
@@ -106,7 +102,7 @@ Not yet reprinted in any other form
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page07.jpg)
 
 - #### Panel 1-2
 
@@ -143,7 +139,7 @@ Not yet reprinted in any other form
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page08.jpg)
 
 - #### Panel 4
 
@@ -151,7 +147,7 @@ Not yet reprinted in any other form
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page09.jpg)
 
 - #### Panel 1
 
@@ -159,7 +155,7 @@ Not yet reprinted in any other form
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page10.jpg)
 
 - #### Panel 2
 
@@ -171,7 +167,7 @@ Not yet reprinted in any other form
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page13.jpg)
 
 - #### Panel 3
 
@@ -183,7 +179,7 @@ Not yet reprinted in any other form
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page14.jpg)
 
 - #### Panel 1
 
@@ -191,7 +187,7 @@ Not yet reprinted in any other form
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page16.jpg)
 
 - #### Panel 3
 
@@ -199,7 +195,7 @@ Not yet reprinted in any other form
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page17.jpg)
 
 - #### Panel 6
 
@@ -211,7 +207,7 @@ Not yet reprinted in any other form
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page18.jpg)
 
 - #### Panel 2
 
@@ -227,7 +223,7 @@ Not yet reprinted in any other form
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page19.jpg)
 
 - #### Panel 6
 
@@ -235,7 +231,7 @@ Not yet reprinted in any other form
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.21/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.21/page23.jpg)
 
 - #### Panel 1
 

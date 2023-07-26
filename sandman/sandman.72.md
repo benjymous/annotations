@@ -1,6 +1,6 @@
-## Issue 72: "In Which We Wake"
+> [marginThumb] ![](thumbnails/sandman.72/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page00.jpg)
+## Issue 72: "In Which We Wake"
 
 ##### Neil Gaiman, Michael Zulli
 
@@ -8,7 +8,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page01.jpg)
 
 - #### Panel 1
 
@@ -16,7 +16,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page02.jpg)
 
 - #### Panel 3
 
@@ -24,7 +24,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page03.jpg)
 
 - #### Panel 5
 
@@ -32,7 +32,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page04.jpg)
 
 - #### Panel 2
 
@@ -52,7 +52,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page05.jpg)
 
 - #### Panel 1
 
@@ -64,7 +64,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page06.jpg)
 
 - #### Panel 6
 
@@ -72,7 +72,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page07.jpg)
 
 - #### Panel 4
 
@@ -80,7 +80,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page09.jpg)
 
 - #### Panel 3
 
@@ -90,7 +90,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page11.jpg)
 
 - #### Panel 1
 
@@ -102,13 +102,13 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page14.jpg)
 
 - Mazikeen has a heart tattooed on her left breast.
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page15.jpg)
 
 - #### Panel 1
 
@@ -132,7 +132,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page17.jpg)
 
 - #### Panel 4
 
@@ -140,7 +140,7 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 ### Page 18-19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page18-19.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page18-19.jpg)
 
 As Morpheus's funereal barge goes over the waterfall, the figurehead keeps changing. Notice when it becomes the hand holding the Ruby, it's being clutched very violently, reminiscent of the end of the Preludes and Nocturnes storyline when Dr. Dee crushed the Ruby with his bare hand, returning its power to Morpheus. In The Wake trade paperback, this sequence is expanded to stretch over three pages, and when that particular form of the barge is drawn, Zulli gave it two hands, and they're cradling the ruby much more gently. Also, in the trade, Zulli saw fit to include a version of the barge with Morpheus's visage as the figure head, with short hair, which appears between the Helm-barge and the Ruby-barge.
 
@@ -148,7 +148,7 @@ Perhaps these figureheads correspond to various important points in Morpheus's e
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page21.jpg)
 
 - #### Panel 1
 
@@ -160,7 +160,7 @@ Perhaps these figureheads correspond to various important points in Morpheus's e
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page22.jpg)
 
 - #### Panel 6
 
@@ -168,7 +168,7 @@ Perhaps these figureheads correspond to various important points in Morpheus's e
 
 ### Page 25
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page25.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page25.jpg)
 
 - #### Panel 2
 
@@ -176,7 +176,7 @@ Perhaps these figureheads correspond to various important points in Morpheus's e
 
 ### Page 26
 
-> [!THUMBNAIL] ![](thumbnails/sandman.72/page26.jpg)
+> [marginThumb] ![](thumbnails/sandman.72/page26.jpg)
 
 - #### Panel 1
 

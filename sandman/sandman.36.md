@@ -1,12 +1,10 @@
-## Issue 36: "Over the Sea to Sky"
+> [marginThumb] ![](thumbnails/sandman.36/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page00.jpg)
+## Issue 36: "Over the Sea to Sky"
 
 ##### Neil Gaiman, Shawn McManus, Bryan Talbot, and Stan Woch
 
 Fifth part of storyline _A Game of You_
-
-Not yet reprinted in any other form
 
 **Title**: _A Game of You_ clearly refers to the question of identity. Who and what the characters in this story are is a question either to the readers or to the character him, her, or itself, and that is the most important theme the reader should keep in mind when reading this story.
 
@@ -21,13 +19,13 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page01.jpg)
 
 - Many of the dominant elements of the Land are revealed as elements from Barbara's childhood.
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page02.jpg)
 
 - #### Panel 1
 
@@ -35,7 +33,7 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page04.jpg)
 
 - #### Panel 2
 
@@ -47,7 +45,7 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page05.jpg)
 
 - #### Panel 4
 
@@ -63,7 +61,7 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page06.jpg)
 
 - #### Panel 1
 
@@ -82,7 +80,7 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page08.jpg)
 
 - #### Panel 1
 
@@ -104,7 +102,7 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page09.jpg)
 
 - Note that the three women walk in step and perform the same actions.
 
@@ -119,7 +117,7 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page10.jpg)
 
 - #### Panel 1
 
@@ -135,7 +133,7 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page13.jpg)
 
 - #### Panel 2, 4
 
@@ -143,7 +141,7 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page14.jpg)
 
 - #### Panel 7-8
 
@@ -151,7 +149,7 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page15.jpg)
 
 - #### Panel 1
 
@@ -172,7 +170,7 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page17.jpg)
 
 - #### Panel 5
 
@@ -180,7 +178,7 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page18.jpg)
 
 - #### Panel 5
 
@@ -188,7 +186,7 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page19.jpg)
 
 - #### Panel 1
 
@@ -202,7 +200,7 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page23.jpg)
 
 - #### Panel 3
 
@@ -210,7 +208,7 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 27
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page27.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page27.jpg)
 
 - #### Panel 1
 
@@ -218,7 +216,7 @@ Many of the chapters of this storyline have titles taken from songs. "Over the S
 
 ### Page 28
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page28.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page28.jpg)
 
 - #### Panel 4
 
@@ -232,13 +230,13 @@ Specifying Hurricane Lisa-with-a-'S' may be a reference to Liza Minelli, a promi
 
 ### Page 30-32
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page30.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page30.jpg)
 
 - IMHO, this is just about the best artistic representation of Dream in the series.
 
 ### Page 31
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page31.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page31.jpg)
 
 - #### Panel 4
 
@@ -248,13 +246,13 @@ One is also drawn to consider "Murphy's Law" -- "If anything can go wrong, it wi
 
 ### Page 34
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page34.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page34.jpg)
 
 - This sequence is reminiscent of a similar one in the last Narnia book, _The Last Battle_, in which Narnia ends, and all its creatures stream away. The fundamental difference is that the Narnia inhabitants were judged, and passed on to Shadow or Paradise, depending on their morality. In both cases, too, a party of outsiders watched the finale.
 
 ### Page 35
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page35.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page35.jpg)
 
 - #### Panel 1
 
@@ -268,7 +266,7 @@ One is also drawn to consider "Murphy's Law" -- "If anything can go wrong, it wi
 
 ### Page 37
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page37.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page37.jpg)
 
 - #### Panel 2
 
@@ -276,7 +274,7 @@ One is also drawn to consider "Murphy's Law" -- "If anything can go wrong, it wi
 
 ### Page 39
 
-> [!THUMBNAIL] ![](thumbnails/sandman.36/page39.jpg)
+> [marginThumb] ![](thumbnails/sandman.36/page39.jpg)
 
 - Recall that the apparent landlady of the building is named Scarlett, and now the building is "Gone with the Wind", so to speak.
 

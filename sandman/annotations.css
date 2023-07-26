@@ -1,3 +1,11 @@
+.page-wrapper {
+  container-type: inline-size;
+}
+
+.page-inner {
+  max-width: 1024px;
+}
+
 .markdown-section {
   overflow: visible !important;
 }
@@ -13,7 +21,7 @@
 
 .color-theme-1 blockquote {
   background: #dbd3b7;
-  color: #8b541c;
+  color: #9b632b;
 }
 
 .color-theme-2 blockquote {
@@ -30,15 +38,21 @@ img {
   padding: 5px;
 }
 
-.flex {
-  background: transparent !important;
-  padding: 0px 7px 5px 5px;
+.classedBlock {
+  background: none !important;
+  margin: none;
+  padding: none;
+  border: none !important;
 }
 
-.flex .title,
-.floatright .title,
-.marginthumb .title {
-  display: none !important;
+.classedBlock p {
+  margin: 0px !important;
+  padding: 0px !important;
+}
+.flex {
+  background: transparent !important;
+  padding: 0px !important;
+  border: 1px solid #888 !important;
 }
 
 .flex p {
@@ -65,78 +79,82 @@ img {
 
 .floatright {
   float: right;
-  background: transparent !important;
-  overflow: hidden;
-  border: none !important;
-}
-
-@media only screen and (min-width: 1000px) and (max-width: 1199px) {
-  .floatright {
-    margin-right: -100px;
-  }
-}
-
-@media only screen and (min-width: 1200px) {
-  .floatright {
-    margin-right: -200px;
-  }
+  border: 50px !important;
 }
 
 .width-40pc {
   width: 40%;
+  min-width: 180px;
 }
 
-.marginthumb {
-  float: left;
+.marginThumb {
+  float: left !important;
   background: transparent !important;
-  overflow: hidden;
+  overflow: hidden !important;
   border: none !important;
-  padding: 4px;
-  margin: 4px;
+  padding: 0px !important;
+  margin: 0px !important;
+  padding-right: 10px !important;
+  margin-top: -61px !important;
+  -webkit-mask-image: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 255, 255, 1) 50%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  mask-image: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 255, 255, 1) 50%,
+    rgba(0, 0, 0, 0) 100%
+  );
 }
 
-@media only screen and (min-width: 1000px) {
+@container (min-width: 1000px) {
   .page-inner {
-    padding: 20px 15px 40px 40px;
+    padding-left: 128px;
+    padding-right: 128px;
   }
 
-  .marginthumb {
-    width: 128px;
-    margin-left: -138px;
-    margin-right: -138px;
-    margin-top: -85px;
+  .marginThumb {
+    width: 130px;
+    margin-left: -138px !important;
   }
 }
 
-/* 850 .. 999 */
-
-@media only screen and (min-width: 875px) and (max-width: 999px) {
+@container (max-width: 999px) {
   .page-inner {
-    padding: 20px 8px 40px 54px;
+    padding-left: 14%;
+    padding-right: 14%;
   }
 
-  .marginthumb {
-    width: 100px;
-    margin-left: -100px;
-    margin-right: -100px;
-    margin-top: -80px;
-  }
-}
-
-@media only screen and (max-width: 874px) {
-  .page-inner {
-    padding: 20px 8px 40px 68px;
-  }
-
-  .marginthumb {
-    width: 80px;
-    margin-left: -80px;
-    margin-right: -80px;
-    margin-top: -72px;
+  .marginThumb {
+    width: 16%;
+    margin-left: -16% !important;
   }
 }
 
-.marginthumb img {
+.marginThumb img {
   border: none !important;
   padding: 0px;
+}
+
+h3 {
+  margin: 10px;
+  display: block;
+  border-bottom: 1px solid #e8e8e8;
+  background: #f0f0f0;
+  padding-left: 400px;
+  margin-right: -400px;
+  margin-left: -400px;
+}
+
+.color-theme-1 h3 {
+  border-bottom: 1px solid #d8c37b;
+  background: #e8dbaf;
+}
+
+.color-theme-2 h3 {
+  border-bottom: 1px solid #000;
+  background: #0e1016;
 }

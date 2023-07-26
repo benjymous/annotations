@@ -1,6 +1,6 @@
-## Issue 44: Brief Lives Four
+> [marginThumb] ![](thumbnails/sandman.44/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.44/page00.jpg)
+## Issue 44: Brief Lives Four
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
@@ -10,7 +10,7 @@
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.44/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.44/page01.jpg)
 
 - #### Panel 1
 
@@ -32,7 +32,7 @@
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.44/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.44/page02.jpg)
 
 - #### Panel 1
 
@@ -42,7 +42,7 @@
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.44/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.44/page03.jpg)
 
 - #### Panel 5
 
@@ -52,7 +52,7 @@
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.44/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.44/page07.jpg)
 
 - #### Panel 4
 
@@ -66,7 +66,7 @@
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.44/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.44/page09.jpg)
 
 - #### Panel 3
 
@@ -76,7 +76,7 @@
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.44/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.44/page10.jpg)
 
 - #### Panel 5
 
@@ -84,7 +84,7 @@
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.44/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.44/page11.jpg)
 
 - #### Panel 4
 
@@ -92,7 +92,7 @@
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.44/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.44/page13.jpg)
 
 - #### Panel 3
 
@@ -100,7 +100,7 @@
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.44/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.44/page15.jpg)
 
 - #### Panel 5
 
@@ -110,7 +110,7 @@
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.44/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.44/page17.jpg)
 
 - #### Panel 3
 
@@ -126,7 +126,7 @@
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.44/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.44/page18.jpg)
 
 - #### Panel 1
 
@@ -160,7 +160,7 @@
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.44/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.44/page19.jpg)
 
 - #### Panel 1
 
@@ -198,7 +198,7 @@
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.44/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.44/page20.jpg)
 
 - #### Panel 3-6
 

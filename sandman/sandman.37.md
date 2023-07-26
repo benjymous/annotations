@@ -1,12 +1,10 @@
-## Issue 37: "I Woke Up and One of Us Was Crying."
+> [marginThumb] ![](thumbnails/sandman.37/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page00.jpg)
+## Issue 37: "I Woke Up and One of Us Was Crying."
 
 ##### Neil Gaiman and Shawn McManus
 
 Sixth part of storyline _A Game of You_
-
-Not yet reprinted in any other form
 
 **Title**: _A Game of You_ clearly refers to the question of identity. Who and what the characters in this story are is a question either to the readers or to the character him, her, or itself, and that is the most important theme the reader should keep in mind when reading this story. The chapters of this storyline have titles taken from songs.
 
@@ -16,7 +14,7 @@ Not yet reprinted in any other form
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page01.jpg)
 
 - #### Panel 1
 
@@ -24,7 +22,7 @@ Not yet reprinted in any other form
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page02.jpg)
 
 - #### Panel 4
 
@@ -36,7 +34,7 @@ Not yet reprinted in any other form
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page03.jpg)
 
 - #### Panel 2
 
@@ -44,7 +42,7 @@ Not yet reprinted in any other form
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page04.jpg)
 
 - #### Panel 5
 
@@ -52,7 +50,7 @@ Not yet reprinted in any other form
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page06.jpg)
 
 - #### Panel 2
 
@@ -62,7 +60,7 @@ Not yet reprinted in any other form
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page08.jpg)
 
 - #### Panel 3
 
@@ -78,7 +76,7 @@ Not yet reprinted in any other form
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page09.jpg)
 
 - #### Panel 1
 
@@ -90,7 +88,7 @@ Not yet reprinted in any other form
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page10.jpg)
 
 - #### Panel 3
 
@@ -98,7 +96,7 @@ Not yet reprinted in any other form
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page11.jpg)
 
 - #### Panel 4
 
@@ -116,7 +114,7 @@ Not yet reprinted in any other form
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page12.jpg)
 
 - #### Panel 8
 
@@ -128,7 +126,7 @@ Not yet reprinted in any other form
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page13.jpg)
 
 - #### Panel 1
 
@@ -144,7 +142,7 @@ Not yet reprinted in any other form
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page14.jpg)
 
 - #### Panel 2
 
@@ -152,7 +150,7 @@ Not yet reprinted in any other form
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page17.jpg)
 
 - #### Panel 4
 
@@ -166,7 +164,7 @@ Not yet reprinted in any other form
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page18.jpg)
 
 - #### Panel 2
 
@@ -178,7 +176,7 @@ Not yet reprinted in any other form
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page19.jpg)
 
 - #### Panel 2-4
 
@@ -186,7 +184,7 @@ Not yet reprinted in any other form
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page20.jpg)
 
 - #### Panel 1
 
@@ -198,7 +196,7 @@ Not yet reprinted in any other form
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page23.jpg)
 
 - #### Panel 2
 
@@ -214,7 +212,7 @@ Not yet reprinted in any other form
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.37/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.37/page24.jpg)
 
 - #### Panel 4
 

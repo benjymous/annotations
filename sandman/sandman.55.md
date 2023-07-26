@@ -1,6 +1,6 @@
-## Issue 55: "Cerements"
+> [marginThumb] ![](thumbnails/sandman.55/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page00.jpg)
+## Issue 55: "Cerements"
 
 - Fifth story in anthology, "Worlds' End"
 
@@ -8,7 +8,7 @@
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.55/page01.jpg)
 
 - #### Panel 6
 
@@ -16,7 +16,7 @@
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.55/page02.jpg)
 
 - #### Panel 8
 
@@ -24,13 +24,13 @@
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.55/page04.jpg)
 
 - Earth, Fire, Water and Air (or sometimes Wind), were four of the Five Elements in medieval times. The _Fifth_ Element (which is also referenced in the film of the same name), is variously named as Life, Quintessence ("fifth essence" in Latin), or The Void (in Miyamoto Musashi's Go Rin No Sho, or The Book of Five Rings). Naturally, the Necropolitans would also bury their "Clients" in accordance to the Five Elements (with Mummification replacing Life /The Void/Quintessence).
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.55/page05.jpg)
 
 - #### Panel 2
 
@@ -38,7 +38,7 @@
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.55/page07.jpg)
 
 - #### Panel 1
 
@@ -46,7 +46,7 @@
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.55/page09.jpg)
 
 - #### Panel 3
 
@@ -58,7 +58,7 @@
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.55/page12.jpg)
 
 - #### Panel 4
 
@@ -66,7 +66,7 @@
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.55/page14.jpg)
 
 - #### Panel 3
 
@@ -74,7 +74,7 @@
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.55/page15.jpg)
 
 - #### Panel 4
 
@@ -82,7 +82,7 @@
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.55/page16.jpg)
 
 - #### Panel 1
 
@@ -90,7 +90,7 @@
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.55/page17.jpg)
 
 - #### Panel 2
 
@@ -98,7 +98,7 @@
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.55/page19.jpg)
 
 - #### Panel 2
 
@@ -110,7 +110,7 @@
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.55/page20.jpg)
 
 - #### Panel 1
 
@@ -118,7 +118,7 @@
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.55/page21.jpg)
 
 - #### Panel 4
 
@@ -126,7 +126,7 @@
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.55/page23.jpg)
 
 - #### Panel 7
 
@@ -138,7 +138,7 @@
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.55/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.55/page24.jpg)
 
 - #### Panel 7
 

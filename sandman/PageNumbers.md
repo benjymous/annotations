@@ -1,3 +1,5 @@
+> [marginThumb] ![](images/pages_side.jpg)
+
 ## A Note about Page and Issue Numbers
 
 The page numbers given in the original annotations refer to the page numbers printed in the original issues. This causes us a few problems:

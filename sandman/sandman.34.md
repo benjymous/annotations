@@ -1,12 +1,10 @@
-## Issue 34: "Bad Moon Rising"
+> [marginThumb] ![](thumbnails/sandman.34/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page00.jpg)
+## Issue 34: "Bad Moon Rising"
 
 ##### Neil Gaiman, Colleen Doran, George Pratt and Dick Giordano
 
 Third part of storyline _A Game of You_
-
-Not yet reprinted in any other form
 
 **Title**: _A Game of You_ clearly refers to the question of identity. Who and what the characters in this story are is a question either to the readers or to the character him, her, or itself, and that is the most important theme the reader should keep in mind when reading this story.
 
@@ -16,7 +14,7 @@ Not yet reprinted in any other form
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page01.jpg)
 
 - #### Panel 2
 
@@ -24,7 +22,7 @@ Not yet reprinted in any other form
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page02.jpg)
 
 - #### Panel 5
 
@@ -32,7 +30,7 @@ Not yet reprinted in any other form
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page04.jpg)
 
 - #### Panel 6
 
@@ -40,7 +38,7 @@ Not yet reprinted in any other form
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page05.jpg)
 
 - #### Panel 5
 
@@ -50,7 +48,7 @@ Not yet reprinted in any other form
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page06.jpg)
 
 - #### Panel 2
 
@@ -58,7 +56,7 @@ Not yet reprinted in any other form
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page07.jpg)
 
 - #### Panel 6
 
@@ -66,7 +64,7 @@ Not yet reprinted in any other form
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page10.jpg)
 
 - #### Panel 4, 6-8
 
@@ -74,7 +72,7 @@ Not yet reprinted in any other form
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page11.jpg)
 
 - #### Panel 3
 
@@ -82,13 +80,15 @@ Not yet reprinted in any other form
 
 ### Page 12-13
 
-Thessaly's flaying of George's face is taken directly from the practices of Greek witches, as reported by the third century AD Latin writer Apuleius, in "The Golden Ass". It is extremely significant that Mount Thessaly in Greece was a center of activity of these witches. The practice may have its roots in Sumeria and Babylonia, whose inhabitants wore the faces of their dead enemies, in accordance with the traditions of sympathetic magic.
+> [marginThumb] ![](thumbnails/sandman.34/page12.jpg)
+
+- Thessaly's flaying of George's face is taken directly from the practices of Greek witches, as reported by the third century AD Latin writer Apuleius, in "The Golden Ass". It is extremely significant that Mount Thessaly in Greece was a center of activity of these witches. The practice may have its roots in Sumeria and Babylonia, whose inhabitants wore the faces of their dead enemies, in accordance with the traditions of sympathetic magic.
 
 In medieval times, demons were believed to flay their victims and wear their skins to fool mortals; in certain varieties of Satanism, the skin of a sacrificial victim is the gateway to Hell (which may be seen in certain issues of the comic book _Grimjack_). George's skin is not exactly the gateway to the Dreaming, but there is some parallelism there.
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page14.jpg)
 
 - #### Panel 3
 
@@ -96,7 +96,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page15.jpg)
 
 - #### Panel 1
 
@@ -114,7 +114,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page16.jpg)
 
 - #### Panel 9
 
@@ -122,7 +122,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page17.jpg)
 
 - #### Panel 6
 
@@ -134,7 +134,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page18.jpg)
 
 - #### Panel 3
 
@@ -154,7 +154,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page19.jpg)
 
 - #### Panel 1
 
@@ -162,7 +162,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page21.jpg)
 
 - #### Panel 1
 
@@ -170,7 +170,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page22.jpg)
 
 - #### Panel 4
 
@@ -178,7 +178,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page23.jpg)
 
 - #### Panel 1-3
 
@@ -194,7 +194,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.34/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.34/page24.jpg)
 
 - #### Panel 2
 

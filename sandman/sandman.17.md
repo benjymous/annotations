@@ -1,6 +1,6 @@
-## Issue 17: "Calliope"
+> [marginThumb] ![](thumbnails/sandman.17/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page00.jpg)
+## Issue 17: "Calliope"
 
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
 
@@ -12,7 +12,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page01.jpg)
 
 - #### Panel 1
 
@@ -32,7 +32,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page02.jpg)
 
 - #### Panel 1
 
@@ -40,7 +40,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page03.jpg)
 
 - #### Panel 4
 
@@ -52,7 +52,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page04.jpg)
 
 - #### Panel 3-4
 
@@ -62,7 +62,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page05.jpg)
 
 - #### Panel 3
 
@@ -78,7 +78,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page06.jpg)
 
 - According to the script, Kelley Jones drew Calliope emaciated, which editor Karen Berger thought was too extreme. Malcolm Jones inked her a little less skinny.
 
@@ -86,7 +86,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page07.jpg)
 
 - #### Panel 4
 
@@ -94,7 +94,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page08.jpg)
 
 - #### Panel 2
 
@@ -106,7 +106,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page09.jpg)
 
 - #### Panel 1
 
@@ -134,7 +134,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page10.jpg)
 
 - #### Panel 1
 
@@ -146,7 +146,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page11.jpg)
 
 - #### Panel 3
 
@@ -156,8 +156,20 @@ First story reprinted in trade paperback _Dream Country_
 
   Gaiman says Madoc's title is from a riddle that appears in _The Books of Magic_ #4 From page 33:
 
-  > **The Fool**: A riddle. I sat with my love, and I drank with my love, and my love she gave me light. I'll give any man a pint o'wine, that'll read my riddle right.<br>
-  > Only I don't _have_ a pint of wine. Do you give up?<br> > **Tim Hunter**: I don't understand the question.<br> > **The Fool**: How about your friend?<br> > **Mister E**: It is an evil rhyme, and it has an evil answer.<br> > **The Fool**: Oh _so?_ But can you riddle it?<br> > **Mister E**: I sat in a chair made of my love's bones, drank from her skull, and saw by the light of a candle made from her fat.<br>
+  > **The Fool**: A riddle. I sat with my love, and I drank with my love, and my love she gave me light. I'll give any man a pint o'wine, that'll read my riddle right.
+
+  > Only I don't _have_ a pint of wine. Do you give up?
+
+  > **Tim Hunter**: I don't understand the question.
+
+  > **The Fool**: How about your friend?
+
+  > **Mister E**: It is an evil rhyme, and it has an evil answer.
+
+  > **The Fool**: Oh _so?_ But can you riddle it?
+
+  > **Mister E**: I sat in a chair made of my love's bones, drank from her skull, and saw by the light of a candle made from her fat.
+
   > There. Are you satisfied, fool? Let us leave this place, Timothy Hunter.
 
   It may be that the "true" answer to this riddle is "wine". The teller sits with a bottle of wine and drinks from it; a candle is stuck in a wine bottle and lit. This is why the Fool doesn't have a pint of wine, he drank it.
@@ -170,7 +182,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page12.jpg)
 
 - #### Panel 1
 
@@ -192,7 +204,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page13.jpg)
 
 - #### Panel 4
 
@@ -208,7 +220,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page14.jpg)
 
 - #### Panel 2
 
@@ -218,7 +230,7 @@ First story reprinted in trade paperback _Dream Country_
 
   Gaiman notes that the interviewer bears a strong resemblance to his friend and collaborator, Kim Newman, a British SF writer and expert on old films. Their collaboration is unknown.
 
-> [!FLEX_2] ![The interviewer](images/KimNewmanCameo.jpg) ![Kim Newman](images/KimNewman.jpg)
+> [flex cols-2] ![The interviewer](images/KimNewmanCameo.jpg) ![Kim Newman](images/KimNewman.jpg)
 
 - #### Panel 5
 
@@ -226,7 +238,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page15.jpg)
 
 - #### Panel 2
 
@@ -241,7 +253,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page17.jpg)
 
 - #### Panel 6
 
@@ -249,7 +261,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page18.jpg)
 
 - #### Panel 6
 
@@ -261,7 +273,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page19.jpg)
 
 - #### Panel 3
 
@@ -277,7 +289,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page20.jpg)
 
 - #### Panel 1
 
@@ -299,7 +311,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page21.jpg)
 
 - #### Panel 6
 
@@ -313,7 +325,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page22.jpg)
 
 - #### Panel 4
 
@@ -321,7 +333,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.17/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.17/page23.jpg)
 
 - #### Panel 1
 

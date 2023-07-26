@@ -1,12 +1,10 @@
-## Issue 31 : "Three Septembers and a January"
+> [marginThumb] ![](thumbnails/sandman.31/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page00.jpg)
+## Issue 31 : "Three Septembers and a January"
 
 ##### Neil Gaiman and Shawn McManus
 
 Third story in anthology _Distant Mirrors_
-
-Not yet reprinted in any other form
 
 **Sources**: A note in [Sandman #31](sandman.31.md) indicates that the title of this anthology came from Barbara Tuchman's text _A Distant Mirror: The Calamitous 14th Century_.
 
@@ -28,7 +26,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page01.jpg)
 
 - #### Panel 1
 
@@ -44,7 +42,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page02.jpg)
 
 - This is a splash panel. Note Dream's period attire; Dream is the only Endless who seems to care about the appropriateness of his appearance. Except for Destruction, who we see in plate armor in the Orpheus special, and in a "swashbuckler's" outfit in Brief Lives (amongst other places; don't have the exact reference)
 
@@ -54,7 +52,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page03.jpg)
 
 - #### Panel 4
 
@@ -66,7 +64,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page04.jpg)
 
 - Norton's background as given here seems to be correct.
 
@@ -76,7 +74,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page05.jpg)
 
 - #### Panel 5
 
@@ -84,7 +82,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page06.jpg)
 
 - #### Panel 5
 
@@ -92,7 +90,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page07.jpg)
 
 - #### Panel 2-4
 
@@ -100,10 +98,21 @@ Other important themes touched on in this trilogy include responsibility in many
 
   In panel two, note the lettering correction mark in "preemptory". My dictionary lists "preemptive" and not "preemptory"; both would be incorrect. The probable original and correct word is "peremptory", meaning "dictatorial; with authority; not to be denied".
 
-  From the [Emperor Norton Webpage](http://www.zpub.com/sf/history/nort.html):
+  From the [Emperor Norton Trust](http://emperornortontrust.org/blog/2015/9/17/peremptory):
 
-  > At the pre-emptory request of a large majority of the citizens of these United States, I Joshua Norton, formerly of Algoa Bay, Cape of Good Hope, and now for the last nine years and ten months past of San Fransisco, California, declare and proclaim myself the Emperor of These United States.
-  > -- September 17, 1859
+  ![](images/NortonDeclaration.png)
+
+  > **Have We an Emperor among us?**
+
+  > The world is full of queer people. This forenoon, a well-dressed and serious-looking man entered our office, and quietly left the following document, which he respectfully requested we would examine and insert in the _Bulletin_. Promising him to look at it, he politely retired, without saying anything farther. Here is the paper:
+
+  > At the peremptory request and desire of a large majority of the citizens of these United States, I, Joshua Norton, formerly of Algoa Bay, Cape of Good Hope, and now for the last 9 years and 10 months past of San Francisco, California, declare and proclaim myself Emperor of these United States; and in virtue of the authority thereby in me vested, do hereby order and direct the representatives of the different States of the Union to assemble in Musical Hall, of this city, on the 1st day of February next, then and there to make such alterations in the existing laws of the Union as may ameliorate the evils under which the country is laboring, and thereby cause confidence to exist, both at home and abroad, in our stability and integrity.
+
+  > NORTON I.,
+
+  > Emperor of the United States.
+
+  > 17th September, 1859,
 
 - #### Panel 6
 
@@ -113,7 +122,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page08.jpg)
 
 - #### Panel 3
 
@@ -123,7 +132,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page09.jpg)
 
 - #### Panel 1
 
@@ -137,7 +146,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page10.jpg)
 
 - #### Panel 5-6
 
@@ -145,7 +154,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page11.jpg)
 
 - #### Panel 1
 
@@ -167,7 +176,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page12.jpg)
 
 - #### Panel 4
 
@@ -179,7 +188,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page13.jpg)
 
 - #### Panel 2
 
@@ -191,7 +200,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page14.jpg)
 
 - #### Panel 1
 
@@ -211,7 +220,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page15.jpg)
 
 - #### Panel 1
 
@@ -249,7 +258,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page16.jpg)
 
 - #### Panel 1
 
@@ -265,7 +274,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page17.jpg)
 
 - #### Panel 1
 
@@ -277,25 +286,13 @@ Other important themes touched on in this trilogy include responsibility in many
 
   > Another habitue of Martin and Horton’s, and an occasional visitor at the Cobweb Palace, was an itinerant healer who called himself the King of Pain. He was probably the most ornate personage in the San Francisco of his time — his customary attire was scarlet underwear, a heavy velour robe, a high hat bedecked with ostrich feathers, and a heavy sword. When he went abroad, he rode in a coal- black coach drawn by six snow-white horses. The King of Pain made a fortune selling aconite liniment from a pitch at Third and Mission streets, but he lost all his money at the gaming tables and finally committed suicide.
 
-### Page 19
-
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page19.jpg)
-
-- Pain seems to be a regular character in the Vertigo universe. In the recent series "Mythos: The Final Tour" (I think?) He and his aide, Tacky Leatherette, are indeed main characters, and mention "not using the D-word," after Desire's name is mentioned, not wanting to inspire her wrath. Desire does indeed later show up, proving that the endless will... jump series. (Note that Cain and Able do the same, in the DC/Vertigo series, "The House of Secrets" or somesuch.
-
-- #### Panel 2
+  Pain seems to be a regular character in the Vertigo universe. In the recent series "Mythos: The Final Tour" (I think?) He and his aide, Tacky Leatherette, are indeed main characters, and mention "not using the D-word," after Desire's name is mentioned, not wanting to inspire her wrath. Desire does indeed later show up, proving that the endless will... jump series. (Note that Cain and Able do the same, in the DC/Vertigo series, "The House of Secrets" or somesuch.
 
   The King of Pain told those who bought the liniment he sold outside the Pacific Clinical Infirmary that if they covered their bodies with the ointment as he did, they would need no clothes. He himself wore a bright red union suit, a heavy velour robe, a ostrich-feathered plug hat, and a heavy sword; he was probably the most ornate personage in the San Francisco of his time.
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page19.jpg)
-
-- #### Panel 2
-
-  Another painting that is reminiscent of a real-life painting.
-
-  Unfortunately, I can't remember which painting it is reminiscent of... (Again, I am uncertain whether the painting existed at this point in time.)
+> [marginThumb] ![](thumbnails/sandman.31/page19.jpg)
 
 - #### Panel 8:
 
@@ -303,7 +300,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page21.jpg)
 
 - #### Panel 5
 
@@ -313,7 +310,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page22.jpg)
 
 - #### Panel 1
 
@@ -341,7 +338,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page23.jpg)
 
 - #### Panel 4
 
@@ -349,7 +346,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.31/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.31/page24.jpg)
 
 - #### Panel 1
 
@@ -391,7 +388,7 @@ Other important themes touched on in this trilogy include responsibility in many
 - Neil Gaiman confirmed the existence of the Cobweb Palace.
 - Pat Dorsey (PDORSEY@EAGLE.WESLEYAN.EDU) danced all around the origin of Tom O'Bedlam without quite getting it right, and pointed in the direction of Shakespeare.
 - Ralf Hildebrandt added more details.
-- Richard Munn added the King of Pain reference from Neil Gaiman's blog entry, and the _Ah How_ reference from the Emperor Norton Trust
+- Richard Munn added the King of Pain reference from Neil Gaiman's blog entry, updated the reference to the original declaration, and added the _Ah How_ reference from the Emperor Norton Trust
 
 ## Appendix
 

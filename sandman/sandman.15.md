@@ -1,6 +1,6 @@
-## Issue 15: "Into the Night"
+> [marginThumb] ![](thumbnails/sandman.15/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page00.jpg)
+## Issue 15: "Into the Night"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -10,7 +10,7 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.15/page01.jpg)
 
 - #### Panel 2
 
@@ -22,7 +22,7 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.15/page02.jpg)
 
 - #### Panel 1
 
@@ -34,23 +34,23 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page04-05.jpg)
+> [marginThumb] ![](thumbnails/sandman.15/page04-05.jpg)
 
-This is Ken's dream, one of money. The top line reads "[typewriter symbols] Talking talking money boy ar[e you] listening 2 [to] me?" Below two small pictures, of a building and a man (possibly Ken's self image, or a father or boss figure), and also beside Ken's head, it reads "Mebbe [Maybe] 100 thou[sand dollars]". Then "Mebbe talk talking money boy got 2 handit 2 u boy" next to the man superimposed over a table of mutual funds values. Mutual funds are a type of investment. Then a picture of the man superimposed over a stock market listing, next to "Mebbee 100 thou/Mebbe more...." A stock market listing has the prices for stocks, which are pieces of paper representing partial ownership of a company. The buying and selling of stocks is important to Western-style economies. Then above a final picture of the man, we have "talking money boy ar u listening 2 me??"
+- This is Ken's dream, one of money. The top line reads "[typewriter symbols] Talking talking money boy ar[e you] listening 2 [to] me?" Below two small pictures, of a building and a man (possibly Ken's self image, or a father or boss figure), and also beside Ken's head, it reads "Mebbe [Maybe] 100 thou[sand dollars]". Then "Mebbe talk talking money boy got 2 handit 2 u boy" next to the man superimposed over a table of mutual funds values. Mutual funds are a type of investment. Then a picture of the man superimposed over a stock market listing, next to "Mebbee 100 thou/Mebbe more...." A stock market listing has the prices for stocks, which are pieces of paper representing partial ownership of a company. The buying and selling of stocks is important to Western-style economies. Then above a final picture of the man, we have "talking money boy ar u listening 2 me??"
 
 ### Page 5
 
-This is Barbie's dream. Barbie's dream is the subject of an entire subsequent long storyline, so pay attention. Barbie's dream is a fairy tale.
+- This is Barbie's dream. Barbie's dream is the subject of an entire subsequent long storyline, so pay attention. Barbie's dream is a fairy tale.
 
-The first panel of the dream pictures Barbie's self-image; the Porpentine, a magic amulet, described below as "a confection of spun silver and rose quartz"; and Martin Tenbones, first known appearance, will appear later. "Porpentine" is used in Shakespeare's _Hamlet_, Act I Scene 5, to mean "porcupine". I suppose the amulet pictured here could be considered to resemble a porcupine.
+  The first panel of the dream pictures Barbie's self-image; the Porpentine, a magic amulet, described below as "a confection of spun silver and rose quartz"; and Martin Tenbones, first known appearance, will appear later. "Porpentine" is used in Shakespeare's _Hamlet_, Act I Scene 5, to mean "porcupine". I suppose the amulet pictured here could be considered to resemble a porcupine.
 
-Later panels also mention "The Cuckoo" and "The Disciples of the Cuckoo", villains; and the Hierogram ("Holy" + "Writing"), which is closely connected to the Porpentine.
+  Later panels also mention "The Cuckoo" and "The Disciples of the Cuckoo", villains; and the Hierogram ("Holy" + "Writing"), which is closely connected to the Porpentine.
 
 ### Page 6-7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page06-07.jpg)
+> [marginThumb] ![](thumbnails/sandman.15/page06-07.jpg)
 
-Chantal's dream occupies the top half of the double-page spread, Zelda's the bottom. The illustration of the two sleeping implies that they are lovers. Their relationship was uncertain to the other residents of the house. Note that the original comic, a caption from Zelda's dream appears in the central panel, but is virtually obscured by a lace overlay on the art.
+- Chantal's dream occupies the top half of the double-page spread, Zelda's the bottom. The illustration of the two sleeping implies that they are lovers. Their relationship was uncertain to the other residents of the house. Note that the original comic, a caption from Zelda's dream appears in the central panel, but is virtually obscured by a lace overlay on the art.
 
 - #### The caption reads
 
@@ -106,7 +106,7 @@ Chantal's dream occupies the top half of the double-page spread, Zelda's the bot
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.15/page08.jpg)
 
 - This is Hal's dream.
 
@@ -134,7 +134,7 @@ Chantal's dream occupies the top half of the double-page spread, Zelda's the bot
 
 ### Page 9-10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.15/page09.jpg)
 
 - #### Panel 6
 
@@ -146,7 +146,7 @@ Chantal's dream occupies the top half of the double-page spread, Zelda's the bot
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.15/page11.jpg)
 
 - #### Panel 4
 
@@ -160,7 +160,7 @@ Chantal's dream occupies the top half of the double-page spread, Zelda's the bot
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.15/page12.jpg)
 
 - #### Panel 1-3
 
@@ -172,7 +172,7 @@ Chantal's dream occupies the top half of the double-page spread, Zelda's the bot
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.15/page13.jpg)
 
 - Zelda's and Chantal's dreams begin to intersect. Chantal's dream is a recursive story. The captions read "Not quite in nightmare, but far from comfortable, Chantal is held like a crashed computer in an infinitely regressive loop of story. It was a dark and stormy night. And the skipper said to the mate, 'Mate, tell me a story....' And this was the story he told:" The story from "it was a dark..." then repeats, then fragments. "It was a dark and stormy night" was referenced in an earlier issue. The recursive story comes from the book _Arm in Arm: A Collection of Stories, Riddles, and Echolalia_ by Remy Charlip.
 
@@ -186,7 +186,7 @@ Chantal's dream occupies the top half of the double-page spread, Zelda's the bot
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.15/page14.jpg)
 
 - #### Panel 1-3
 
@@ -194,13 +194,13 @@ Chantal's dream occupies the top half of the double-page spread, Zelda's the bot
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.15/page15.jpg)
 
 - The commentary on Barbara is important in the context of the later storyline. Hal is pictured walking on the Yellow Brick Road toward the paradise-symbol Emerald City, of the movie _The Wizard of Oz_.
 
 ### Page 16-17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page16-17.jpg)
+> [marginThumb] ![](thumbnails/sandman.15/page16-17.jpg)
 
 - #### Panel 1
 
@@ -208,7 +208,7 @@ Chantal's dream occupies the top half of the double-page spread, Zelda's the bot
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.15/page21.jpg)
 
 - #### Panel 2-3
 
@@ -216,7 +216,7 @@ Chantal's dream occupies the top half of the double-page spread, Zelda's the bot
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.15/page22.jpg)
 
 - #### Panel 2
 
@@ -224,7 +224,7 @@ Chantal's dream occupies the top half of the double-page spread, Zelda's the bot
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.15/page23.jpg)
 
 - #### Panel 8-9
 
@@ -236,7 +236,7 @@ Chantal's dream occupies the top half of the double-page spread, Zelda's the bot
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.15/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.15/page24.jpg)
 
 - #### Panel 7
 

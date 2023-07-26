@@ -1,6 +1,6 @@
-## Issue 49: Brief Lives Nine
+> [marginThumb] ![](thumbnails/sandman.49/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.49/page00.jpg)
+## Issue 49: Brief Lives Nine
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
@@ -10,7 +10,7 @@
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.49/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.49/page01.jpg)
 
 - #### Panel 2
 
@@ -26,7 +26,7 @@
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.49/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.49/page06.jpg)
 
 - #### Panel 1-6
 
@@ -46,7 +46,7 @@
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.49/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.49/page07.jpg)
 
 - #### Panel 2
 
@@ -58,7 +58,7 @@
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.49/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.49/page09.jpg)
 
 - #### Panel 5
 
@@ -66,7 +66,7 @@
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.49/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.49/page10.jpg)
 
 - #### Panel 1
 
@@ -90,7 +90,7 @@
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.49/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.49/page11.jpg)
 
 - #### Panel 2
 
@@ -104,7 +104,7 @@
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.49/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.49/page14.jpg)
 
 - #### Panel 3
 
@@ -112,7 +112,7 @@
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.49/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.49/page17.jpg)
 
 - #### Panel 1-2
 
@@ -167,7 +167,7 @@
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.49/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.49/page19.jpg)
 
 - This is remembrance, not Dream conversing with Orpheus as he passes through the Dreaming on his way Beyond.
 
@@ -177,7 +177,7 @@
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.49/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.49/page21.jpg)
 
 - #### Panel 1
 
@@ -193,7 +193,7 @@
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.49/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.49/page22.jpg)
 
 - #### Panel 1
 

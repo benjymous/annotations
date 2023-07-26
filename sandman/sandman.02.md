@@ -1,7 +1,6 @@
+> [marginThumb] ![](thumbnails/sandman.02/page00.jpg)
 
 ## Issue 2: "Imperfect Hosts"
-
-> [!THUMBNAIL] ![](thumbnails/sandman.02/page00.jpg)
 
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
@@ -11,17 +10,17 @@ Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 1:
 
-> [!THUMBNAIL] ![](thumbnails/sandman.02/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.02/page01.jpg)
 
 - The black-haired man is Abel, the other Cain. These would be familiar to most long-term readers of comics. Originally, they were the hosts for DC's watered-down versions of EC's mystery series. Cain was the host of _House of Mystery_, Abel the host of _House of Secrets_. Cain and Abel also appeared in _Plop!_, a DC humor title of the 1970s, along with Eve; they were drawn there by Sergio Aragones, who has appeared in Mad and currently does _Groo the Wanderer_, which is why Sergio did the pinup of them in [_Sandman_ Special #1](sandman-special1.md).
 
-Cain and Abel, of course, are the first two children of the first two people in Genesis, the biblical creation story. Cain slew Abel over a disagreement over their offerings to God, was marked by God, and was sent to live in the Land of Nod. The nursery rhyme of "Winken, Blinken, and Nod" identifies the Land of Nod as the Land of Dreams.
+  Cain and Abel, of course, are the first two children of the first two people in Genesis, the biblical creation story. Cain slew Abel over a disagreement over their offerings to God, was marked by God, and was sent to live in the Land of Nod. The nursery rhyme of "Winken, Blinken, and Nod" identifies the Land of Nod as the Land of Dreams.
 
-In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humanity's subconscious when Abigail Arcane Cable visited them in a dream and learned more about Swamp Thing's origins. Under Moore's terminology, a mystery may be shared, but a secret must be forgotten if one tries to tell it. Since the issue is mostly a reprint of the first Swamp Thing appearance from _HoS #92_, Abby chooses to hear a secret rather than a mystery. She wakes up, tries to talk about the dream, and forgets it. Since then, Cain and Abel have been wandering around the fringes of DC's mystic titles (and a rather silly version of Cain appeared in _Blue Devil_). It has been established that Cain kills Abel rather often, but Abel always gets better. They, and many other characters in this issue, appear because of their roles as "mystery title hosts"; this issue is Gaiman's homage to the predecessors to DC horror line of today.
+  In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humanity's subconscious when Abigail Arcane Cable visited them in a dream and learned more about Swamp Thing's origins. Under Moore's terminology, a mystery may be shared, but a secret must be forgotten if one tries to tell it. Since the issue is mostly a reprint of the first Swamp Thing appearance from _HoS #92_, Abby chooses to hear a secret rather than a mystery. She wakes up, tries to talk about the dream, and forgets it. Since then, Cain and Abel have been wandering around the fringes of DC's mystic titles (and a rather silly version of Cain appeared in _Blue Devil_). It has been established that Cain kills Abel rather often, but Abel always gets better. They, and many other characters in this issue, appear because of their roles as "mystery title hosts"; this issue is Gaiman's homage to the predecessors to DC horror line of today.
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.02/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.02/page02.jpg)
 
 - #### Panel 3
 
@@ -29,7 +28,7 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.02/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.02/page03.jpg)
 
 - #### Panel 4
 
@@ -49,7 +48,7 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.02/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.02/page05.jpg)
 
 - #### Panel 1
 
@@ -77,7 +76,7 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.02/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.02/page06.jpg)
 
 - #### Panel 2
 
@@ -89,7 +88,7 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.02/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.02/page08.jpg)
 
 - #### Panel 1
 
@@ -107,7 +106,7 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 ### Page 12-13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.02/page12-13.jpg)
+> [marginThumb] ![](thumbnails/sandman.02/page12-13.jpg)
 
 - #### Panel 2-3
 
@@ -119,7 +118,7 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 ### Page 14-15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.02/page14-15.jpg)
+> [marginThumb] ![](thumbnails/sandman.02/page14-15.jpg)
 
 - #### Panel 2
 
@@ -143,7 +142,7 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 ### Page 16:
 
-> [!THUMBNAIL] ![](thumbnails/sandman.02/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.02/page16.jpg)
 
 - _Who's Who_ #15 (1991) has a great deal of information on the Three Witches, or the Three-in-One as they are called here. The Three may appear as a single entity, or as a group of three women. The three women invariably appear symbolically as maiden, mother, and crone.
 
@@ -165,7 +164,7 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.02/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.02/page18.jpg)
 
 - #### Panel 1
 
@@ -181,7 +180,7 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.02/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.02/page19.jpg)
 
 - #### Panel 5
 
@@ -197,7 +196,7 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.02/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.02/page20.jpg)
 
 - #### Panel 3
 
@@ -205,7 +204,7 @@ In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humani
 
 ### Page 21:
 
-> [!THUMBNAIL] ![](thumbnails/sandman.02/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.02/page21.jpg)
 
 - Note that the Fates give exactly one answer apiece, and it is deliberately incomplete.
 

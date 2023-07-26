@@ -1,12 +1,12 @@
-## Issue 66: "The Kindly Ones: 10"
+> [marginThumb] ![](thumbnails/sandman.66/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.66/page00.jpg)
+## Issue 66: "The Kindly Ones: 10"
 
 ##### Neil Gaiman, Marc Hempel, Richard Case
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.66/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.66/page01.jpg)
 
 - #### Panel 1
 
@@ -18,7 +18,7 @@
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.66/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.66/page02.jpg)
 
 - #### Panel 1
 
@@ -30,7 +30,7 @@
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.66/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.66/page03.jpg)
 
 - #### Panel 1
 
@@ -42,7 +42,7 @@
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.66/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.66/page04.jpg)
 
 - #### Panel 1
 
@@ -50,7 +50,7 @@
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.66/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.66/page09.jpg)
 
 - #### Panel 1
 
@@ -62,7 +62,7 @@
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.66/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.66/page10.jpg)
 
 - #### Panel 1
 
@@ -74,7 +74,7 @@
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.66/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.66/page12.jpg)
 
 - #### Panel 5
 
@@ -82,7 +82,7 @@
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.66/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.66/page13.jpg)
 
 - Puck mentions the phrase "jot nor tittle." This is a Biblical reference, from Matthew 5:18 -- "For verily I say unto you, Till heaven and earth pass, one jot or one tittle shall in no wise pass from the law, till all be fulfilled." This is one of Jesus' beatitudes; he is saying that although he has a new interpretation of the Old Testament, that he will not change any of the text.
 
@@ -92,7 +92,7 @@
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.66/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.66/page14.jpg)
 
 - #### Panel 1
 
@@ -108,7 +108,7 @@
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.66/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.66/page15.jpg)
 
 - #### Panel 3
 
@@ -116,7 +116,7 @@
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.66/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.66/page18.jpg)
 
 - #### Panel 1
 
@@ -128,7 +128,7 @@
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.66/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.66/page19.jpg)
 
 - #### Panel 4
 
@@ -136,7 +136,7 @@
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.66/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.66/page21.jpg)
 
 - #### Panel 2
 
@@ -156,7 +156,7 @@
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.66/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.66/page22.jpg)
 
 - #### Panel 1
 
@@ -176,7 +176,7 @@
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.66/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.66/page24.jpg)
 
 - #### Panel 5
 

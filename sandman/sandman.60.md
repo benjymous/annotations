@@ -1,12 +1,12 @@
-## Issue 60: "The Kindly Ones: 4"
+> [marginThumb] ![](thumbnails/sandman.60/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.60/page00.jpg)
+## Issue 60: "The Kindly Ones: 4"
 
 ##### Neil Gaiman, Marc Hempel, Disraeli
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.60/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.60/page01.jpg)
 
 - #### Panel 1
 
@@ -16,7 +16,7 @@
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.60/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.60/page02.jpg)
 
 - #### Panel 3
 
@@ -28,7 +28,7 @@
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.60/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.60/page05.jpg)
 
 - #### Panel 6
 
@@ -36,7 +36,7 @@
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.60/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.60/page06.jpg)
 
 - #### Panel 5
 
@@ -46,21 +46,21 @@
 
   And now Remiel is starting to swear, too. Maybe it's the result of having just visited Lucifer?
 
-## Pages 8-9
+### Pages 8-9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.60/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.60/page08.jpg)
 
 - I don't recognize either of these characters.
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.60/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.60/page10.jpg)
 
 - This is "Puss in Boots". I don't have on me a specific reference to her story.
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.60/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.60/page12.jpg)
 
 - #### Panel 3
 
@@ -72,7 +72,7 @@
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.60/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.60/page13.jpg)
 
 - #### Panel 9
 
@@ -80,7 +80,7 @@
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.60/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.60/page14.jpg)
 
 - #### Panel 3
 
@@ -92,7 +92,7 @@
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.60/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.60/page15.jpg)
 
 - #### Panel 2
 
@@ -110,7 +110,7 @@
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.60/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.60/page16.jpg)
 
 - #### Panel 4
 
@@ -122,7 +122,7 @@
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.60/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.60/page17.jpg)
 
 - #### Panel 5
 
@@ -130,7 +130,7 @@
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.60/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.60/page18.jpg)
 
 - #### Panel 2
 
@@ -142,7 +142,7 @@
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.60/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.60/page20.jpg)
 
 - #### Panel 4
 
@@ -150,7 +150,7 @@
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.60/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.60/page21.jpg)
 
 - #### Panel 2
 

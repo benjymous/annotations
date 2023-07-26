@@ -6,7 +6,7 @@
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman-flowers-romance/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman-flowers-romance/page01.jpg)
 
 - #### Panel 1
 
@@ -14,13 +14,13 @@
 
 ### Page 2-3
 
-> [!THUMBNAIL] ![](thumbnails/sandman-flowers-romance/page02-03.jpg)
+> [marginThumb] ![](thumbnails/sandman-flowers-romance/page02-03.jpg)
 
 The Blue ladies on the right hand side are presumably the Naiads - water nymphs, mentioned in the lower caption.
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman-flowers-romance/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman-flowers-romance/page04.jpg)
 
 - #### Panel 1
 
@@ -32,7 +32,7 @@ The Blue ladies on the right hand side are presumably the Naiads - water nymphs,
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman-flowers-romance/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman-flowers-romance/page07.jpg)
 
 - #### Panel 2
 

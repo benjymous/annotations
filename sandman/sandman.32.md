@@ -1,12 +1,10 @@
-## Issue 32 : "Slaughter on Fifth Avenue"
+> [marginThumb] ![](thumbnails/sandman.32/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page00.jpg)
+## Issue 32 : "Slaughter on Fifth Avenue"
 
 ##### Neil Gaiman and Shawn McManus
 
 First part of storyline _A Game of You_
-
-Not yet reprinted in any other form
 
 **Title**: _A Game of You_ clearly refers to the question of identity. Who and what the characters in this story are is a question either to the readers or to the character him, her, or itself, and that is the most important theme the reader should keep in mind when reading this story.
 
@@ -16,11 +14,11 @@ Many of the chapters of this storyline have titles taken from songs. Can anyone 
 
 ### Page 1-3
 
-This is the same Land that formed the setting for Barbie's dreams in _The Doll's House_. Of the four characters speaking in this sequence, we have met one, Martin Tenbones, a giant dog-like being; and we will meet the other three. Martin speaks in purple captions. Luz speaks in green; Prinado, who has an lower-class-British accent which may be supposed to be Cockney, speaks in orange; and Wilkinson speaks in red. Note the ornate lettering style of all those associated with the Land.
+- This is the same Land that formed the setting for Barbie's dreams in _The Doll's House_. Of the four characters speaking in this sequence, we have met one, Martin Tenbones, a giant dog-like being; and we will meet the other three. Martin speaks in purple captions. Luz speaks in green; Prinado, who has an lower-class-British accent which may be supposed to be Cockney, speaks in orange; and Wilkinson speaks in red. Note the ornate lettering style of all those associated with the Land.
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page01.jpg)
 
 - #### Panel 1
 
@@ -32,7 +30,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page02.jpg)
 
 - #### Panel 1
 
@@ -44,7 +42,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page03.jpg)
 
 - #### Panel 1
 
@@ -56,7 +54,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page04.jpg)
 
 - #### Panel 1
 
@@ -64,7 +62,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page05.jpg)
 
 - #### Panel 1
 
@@ -88,7 +86,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page06.jpg)
 
 - #### Panel 5
 
@@ -96,7 +94,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page07.jpg)
 
 - #### Panel 2
 
@@ -108,7 +106,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page08.jpg)
 
 - #### Panel 1
 
@@ -124,7 +122,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page09.jpg)
 
 - #### Panel 3
 
@@ -132,7 +130,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page10.jpg)
 
 - #### Panel 2
 
@@ -148,7 +146,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page11.jpg)
 
 - #### Panel 1
 
@@ -164,7 +162,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page12.jpg)
 
 - #### Panel 7
 
@@ -172,7 +170,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page13.jpg)
 
 - #### Panel 1
 
@@ -182,7 +180,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
   Note the hook nose and pointed ears of the man in the foreground. This is probably just artistic noodling on McManus's part.
 
-- #### Panel 3
+- #### Panel 5
 
   "Rowley" is a reference to an old Mother Goose rhyme:
 
@@ -191,7 +189,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page14.jpg)
 
 - #### Panel 3
 
@@ -203,7 +201,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page15.jpg)
 
 - #### Panel 2
 
@@ -216,7 +214,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page16.jpg)
 
 - #### Panel 1
 
@@ -246,7 +244,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page17.jpg)
 
 - #### Panel 1
 
@@ -272,7 +270,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page18.jpg)
 
 - #### Panel 1
 
@@ -284,7 +282,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page19.jpg)
 
 - #### Panel 2
 
@@ -300,13 +298,13 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page20.jpg)
 
 - Martin Tenbones has grown since the Doll's House, where he was no more than chest-high to Barbara.
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page21.jpg)
 
 - #### Panel 2
 
@@ -318,7 +316,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page22.jpg)
 
 - #### Panel 1
 
@@ -326,7 +324,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page23.jpg)
 
 - #### Panel 2
 
@@ -336,7 +334,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page24.jpg)
 
 - #### Panel 2
 
@@ -348,7 +346,7 @@ This is the same Land that formed the setting for Barbie's dreams in _The Doll's
 
 ### Page 25
 
-> [!THUMBNAIL] ![](thumbnails/sandman.32/page25.jpg)
+> [marginThumb] ![](thumbnails/sandman.32/page25.jpg)
 
 - #### Panel 4 & 5
 

@@ -6,7 +6,7 @@
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman-death-winter/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman-death-winter/page03.jpg)
 
 - #### Panel 5-6
 
@@ -14,14 +14,14 @@
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman-death-winter/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman-death-winter/page04.jpg)
 
 - #### Panel 1
   If Death refuses to _take_ the dead, then nobody dies. This seems more like her actively _not_ taking lives, rather than just walking away and leaving things to happen without her. We've seen in Hob Gadling what happens to those who avoid Death.
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman-death-winter/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman-death-winter/page05.jpg)
 
 - #### Panel 2
 

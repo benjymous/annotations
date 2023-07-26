@@ -1,6 +1,6 @@
-## Issue 11: "Moving In"
+> [marginThumb] ![](thumbnails/sandman.11/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page00.jpg)
+## Issue 11: "Moving In"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -10,7 +10,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.11/page01.jpg)
 
 - #### Panel 1
 
@@ -19,7 +19,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.11/page02.jpg)
 
 - #### Panel 2
 
@@ -35,7 +35,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.11/page03.jpg)
 
 - #### Panel 2
 
@@ -47,7 +47,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 4
 
-The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberland", which is widely regarded as being of the highest quality.
+- The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberland", which is widely regarded as being of the highest quality.
 
 - #### Panel 2
 
@@ -59,7 +59,7 @@ The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberl
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.11/page06.jpg)
 
 - #### Panel 1
 
@@ -79,7 +79,7 @@ The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberl
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.11/page07.jpg)
 
 - #### Panel 3
 
@@ -93,7 +93,7 @@ The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberl
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.11/page08.jpg)
 
 - #### Panel 1
 
@@ -105,7 +105,7 @@ The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberl
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.11/page09.jpg)
 
 - #### Panel 4
 
@@ -117,7 +117,7 @@ The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberl
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.11/page10.jpg)
 
 - #### Panel 3
 
@@ -125,7 +125,7 @@ The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberl
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.11/page11.jpg)
 
 - #### Panel 1
 
@@ -137,7 +137,7 @@ The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberl
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.11/page12.jpg)
 
 - #### Panel 2
 
@@ -145,23 +145,23 @@ The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberl
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.11/page13.jpg)
 
 - We meet Gilbert at last. In particular, notice his response to Rose's question about his name.
 
 ### Page 16-17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page16-17.jpg)
+> [marginThumb] ![](thumbnails/sandman.11/page16-17.jpg)
 
-This is a double page spread. The song in the background is the same song from page 11.
+- This is a double page spread. The song in the background is the same song from page 11.
 
 ### Page 19-20
 
-We find confirmed that the Corinthian is a killer, and that he _yuck_ likes to eat eyes. Note that he seems to be talking and eating simultaneously, which is a hint of sorts.
+- We find confirmed that the Corinthian is a killer, and that he _yuck_ likes to eat eyes. Note that he seems to be talking and eating simultaneously, which is a hint of sorts.
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.11/page19.jpg)
 
 - #### Panel 1
 
@@ -173,7 +173,7 @@ We find confirmed that the Corinthian is a killer, and that he _yuck_ likes to e
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.11/page21.jpg)
 
 - #### Panel 5
 
@@ -181,7 +181,7 @@ We find confirmed that the Corinthian is a killer, and that he _yuck_ likes to e
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.11/page22.jpg)
 
 - #### Panel 5
 
@@ -189,7 +189,7 @@ We find confirmed that the Corinthian is a killer, and that he _yuck_ likes to e
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.11/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.11/page24.jpg)
 
 - Dream is donning his battle raiment. Specifically, the helmet possesses a great deal of (unspecified) power. Presumably, Dream also is carrying his pouch of sand.
 

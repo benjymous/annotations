@@ -1,6 +1,6 @@
-## Issue 57: "The Kindly Ones: 1"
+> [marginThumb] ![](thumbnails/sandman.57/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page00.jpg)
+## Issue 57: "The Kindly Ones: 1"
 
 ##### Neil Gaiman, Marc Hempel
 
@@ -12,7 +12,7 @@
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page01.jpg)
 
 - Here we see the Triple Goddess, as we have before, in the aspect of the witches from the old "Witching Hour" series, which is also the aspect of the Fates from Greek myth.
 
@@ -28,7 +28,7 @@
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page03.jpg)
 
 - #### Panel 6
 
@@ -36,7 +36,7 @@
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page04.jpg)
 
 - #### Panel 5
 
@@ -52,7 +52,7 @@
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page05.jpg)
 
 - #### Panel 4
 
@@ -60,7 +60,7 @@
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page06.jpg)
 
 - #### Panel 4
 
@@ -68,7 +68,7 @@
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page07.jpg)
 
 - #### Panel 5
 
@@ -80,7 +80,7 @@
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page08.jpg)
 
 - #### Panel 1
 
@@ -88,13 +88,13 @@
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page09.jpg)
 
 - This sequence, where Matthew visits each of the characters in the Dreaming in turn, is oddly reminiscent of the story in the "[Vertigo Jam](sandman-vertigojam1.md)".
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page11.jpg)
 
 - #### Panel 3
 
@@ -102,7 +102,7 @@
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page12.jpg)
 
 - #### Panel 1
 
@@ -117,7 +117,7 @@
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page13.jpg)
 
 - #### Panel 4
 
@@ -125,7 +125,7 @@
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page15.jpg)
 
 - #### Panel 6
 
@@ -133,7 +133,7 @@
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page17.jpg)
 
 - #### Panel 1
 
@@ -145,7 +145,7 @@
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page18.jpg)
 
 - #### Panel 1
 
@@ -163,7 +163,7 @@
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page19.jpg)
 
 - #### Panel 7
 
@@ -177,7 +177,7 @@
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page20.jpg)
 
 - #### Panel 1
 
@@ -189,7 +189,7 @@
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page21.jpg)
 
 - #### Panel 2
 
@@ -205,7 +205,7 @@
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.57/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.57/page23.jpg)
 
 - #### Panel 3
 

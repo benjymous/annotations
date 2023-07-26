@@ -1,6 +1,6 @@
-## Issue 9: "Tales in the Sand"
+> [marginThumb] ![](thumbnails/sandman.09/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.09/page00.jpg)
+## Issue 9: "Tales in the Sand"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -12,7 +12,7 @@ Second story reprinted in _The Doll's House_
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.09/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.09/page01.jpg)
 
 - The Trickster is a cross-cultural archetype, most familiar to modern audiences in the form of Bugs Bunny.
 
@@ -22,7 +22,7 @@ Second story reprinted in _The Doll's House_
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.09/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.09/page02.jpg)
 
 - #### Panel 1
 
@@ -34,7 +34,7 @@ Second story reprinted in _The Doll's House_
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.09/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.09/page04.jpg)
 
 - #### Panel 6
 
@@ -42,7 +42,7 @@ Second story reprinted in _The Doll's House_
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.09/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.09/page06.jpg)
 
 - #### Panel 1
 
@@ -50,7 +50,7 @@ Second story reprinted in _The Doll's House_
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.09/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.09/page08.jpg)
 
 - #### Panel 3
 
@@ -58,7 +58,7 @@ Second story reprinted in _The Doll's House_
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.09/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.09/page10.jpg)
 
 - #### Panel 2-3
 
@@ -66,7 +66,7 @@ Second story reprinted in _The Doll's House_
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.09/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.09/page11.jpg)
 
 - #### Panel 3
 
@@ -78,7 +78,7 @@ Second story reprinted in _The Doll's House_
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.09/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.09/page12.jpg)
 
 - #### Panel 5
 
@@ -86,7 +86,7 @@ Second story reprinted in _The Doll's House_
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.09/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.09/page13.jpg)
 
 - #### Panel 1
 
@@ -98,7 +98,7 @@ Second story reprinted in _The Doll's House_
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.09/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.09/page14.jpg)
 
 - #### Panel 5
 
@@ -106,7 +106,7 @@ Second story reprinted in _The Doll's House_
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.09/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.09/page15.jpg)
 
 - #### Panel 4
 
@@ -118,7 +118,7 @@ Second story reprinted in _The Doll's House_
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.09/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.09/page16.jpg)
 
 - #### Panel 2
 
@@ -126,7 +126,7 @@ Second story reprinted in _The Doll's House_
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.09/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.09/page24.jpg)
 
 - #### Panel 1-2
 

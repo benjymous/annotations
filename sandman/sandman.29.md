@@ -1,12 +1,10 @@
-## Issue 29 : "Thermidor"
+> [marginThumb] ![](thumbnails/sandman.29/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page00.jpg)
+## Issue 29 : "Thermidor"
 
 ##### Neil Gaiman, Stan Woch, and Dick Giordano
 
 First story in anthology _Distant Mirrors_
-
-Not yet reprinted in any other form
 
 **Sources**: A note in [Sandman #31](sandman.31.md) indicates that the title of this anthology came from Barbara Tuchman's text _A Distant Mirror: The Calamitous 14th Century_.
 
@@ -14,7 +12,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page01.jpg)
 
 - #### Panel 1
 
@@ -32,7 +30,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page02.jpg)
 
 - #### Panel 1
 
@@ -48,7 +46,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page03.jpg)
 
 - #### Panel 3
 
@@ -60,7 +58,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page04.jpg)
 
 - #### Panel 5
 
@@ -70,7 +68,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page05.jpg)
 
 - #### Panel 4
 
@@ -78,11 +76,11 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 - #### Panel 9
 
-  We have seen earlier that Orpheus is Dream's son. The _Sandman_ Special #1 will have Orpheus' story, although we never learn how his head came to be in Paris.
+  We have seen earlier that Orpheus is Dream's son. [The _Sandman_ Special #1](sandman-special1.md) will have Orpheus' story, although we never learn how his head came to be in Paris.
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page06.jpg)
 
 - #### Panel 4
 
@@ -109,7 +107,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page07.jpg)
 
 - #### Panel 1
 
@@ -117,7 +115,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page08.jpg)
 
 - #### Panel 1
 
@@ -149,7 +147,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page09.jpg)
 
 - #### Panel 5
 
@@ -161,7 +159,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page10.jpg)
 
 - #### Panel 6
 
@@ -173,7 +171,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page12.jpg)
 
 - #### Panel 1
 
@@ -189,7 +187,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page13.jpg)
 
 - #### Panel 1
 
@@ -213,7 +211,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page15.jpg)
 
 - #### Panel 1
 
@@ -221,7 +219,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page16.jpg)
 
 - #### Panel 2
 
@@ -229,7 +227,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page18.jpg)
 
 - #### Panel 2-5
 
@@ -237,7 +235,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page19.jpg)
 
 - #### Panel 2
 
@@ -245,7 +243,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page20.jpg)
 
 - #### Panel 1
 
@@ -257,7 +255,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page21.jpg)
 
 - #### Panel 3
 
@@ -265,13 +263,13 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page23.jpg)
 
 - On 9 Thermidor [1794], St. Just was interrupted after saying but a few words of his speech and fell silent under a torrent of verbal lashing. In the subsequent uproar, the anti-Robespierre conspirators made their move. The Committee ordered the arraignment of Robespierre, St. Just, and Couthon; the arrest of Dumas, President of the Revolutionary Tribunal; and the removal of Hanriot from command of the National Guard. The five were later released, only to be declared outlaws, their lives forfeit. Before dawn the next day, the Guardsmen came to take them again. St. Just yielded without resistance, but Robespierre either attempted suicide or was shot in the jaw by a soldier who later boasted of shooting the tyrant. The shattered jaw was papered, for there was no linen to staunch the wound; a surgeon later bandaged it and extracted two or three loose teeth. The bandage was indeed torn from his mouth just before his death under the guillotine.
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.29/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.29/page24.jpg)
 
 - #### Panel 1
 

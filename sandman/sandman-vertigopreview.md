@@ -6,7 +6,7 @@
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman-vertigopreview/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman-vertigopreview/page01.jpg)
 
 - #### Panel 1
 
@@ -26,7 +26,7 @@
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman-vertigopreview/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman-vertigopreview/page02.jpg)
 
 - #### Panel 1
 
@@ -38,7 +38,7 @@
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman-vertigopreview/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman-vertigopreview/page04.jpg)
 
 - #### Panel 3
 
@@ -46,7 +46,7 @@
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman-vertigopreview/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman-vertigopreview/page05.jpg)
 
 - #### Panel 6
 
@@ -54,7 +54,7 @@
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman-vertigopreview/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman-vertigopreview/page09.jpg)
 
 - #### Panel 3
 
@@ -62,7 +62,7 @@
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman-vertigopreview/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman-vertigopreview/page10.jpg)
 
 - #### Panel 3
 

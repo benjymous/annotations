@@ -1,8 +1,10 @@
+> [marginThumb] ![](images/introduction_side.jpg)
+
 # The (Community) Sandman Annotations
 
 35th Anniversary Edition!
 
-Originally written, compiled and edited by Greg Morrow and David Goldfarb.  Updated and revised edition by Richard Munn.
+Originally written, compiled and edited by Greg Morrow and David Goldfarb. Updated and revised edition by Richard Munn.
 
 ## Disclaimer
 

@@ -1,6 +1,6 @@
-## Issue 42: Brief Lives Two
+> [marginThumb] ![](thumbnails/sandman.42/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.42/page00.jpg)
+## Issue 42: Brief Lives Two
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
@@ -10,7 +10,7 @@
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.42/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.42/page01.jpg)
 
 - #### Panel 6
 
@@ -24,7 +24,7 @@
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.42/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.42/page04.jpg)
 
 - #### Panel 5
 
@@ -32,7 +32,7 @@
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.42/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.42/page05.jpg)
 
 - #### Panel 2
 
@@ -44,7 +44,7 @@
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.42/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.42/page07.jpg)
 
 - #### Panel 4
 
@@ -60,7 +60,7 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.42/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.42/page08.jpg)
 
 - #### Panel 1
 
@@ -82,7 +82,7 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.42/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.42/page11.jpg)
 
 - #### Panel 2
 
@@ -90,7 +90,7 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.42/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.42/page12.jpg)
 
 - #### Panel 3
 
@@ -104,7 +104,7 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.42/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.42/page13.jpg)
 
 - #### Panel 4
 
@@ -116,7 +116,7 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.42/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.42/page14.jpg)
 
 - #### Panel 4
 
@@ -126,7 +126,7 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.42/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.42/page15.jpg)
 
 - #### Panel 2
 
@@ -144,7 +144,7 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.42/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.42/page19.jpg)
 
 - #### Panel 4
 
@@ -164,7 +164,7 @@ Possibly a reference to a Bob Dylan song.
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.42/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.42/page20.jpg)
 
 - #### Panel 2
 
@@ -176,7 +176,7 @@ A common statement by main characters, inevitably disastrously wrong.
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.42/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.42/page21.jpg)
 
 - #### Panel 1
 
@@ -184,7 +184,7 @@ A common statement by main characters, inevitably disastrously wrong.
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.42/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.42/page23.jpg)
 
 - #### Panel 2
 
@@ -192,7 +192,7 @@ A common statement by main characters, inevitably disastrously wrong.
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.42/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.42/page24.jpg)
 
 - #### Panel 4
 

@@ -1,6 +1,6 @@
-## Issue 8: "The Sound of Her Wings"
+> [marginThumb] ![](thumbnails/sandman.08/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page00.jpg)
+## Issue 8: "The Sound of Her Wings"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -48,7 +48,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page01.jpg)
 
 - #### Panel 1
 
@@ -72,7 +72,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page03.jpg)
 
 - #### Panel 6
 
@@ -81,7 +81,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page04.jpg)
 
 - #### Panel 6
 
@@ -89,7 +89,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page05.jpg)
 
 - #### Panel 2
 
@@ -101,7 +101,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page06.jpg)
 
 - #### Panel 2
 
@@ -109,7 +109,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page07.jpg)
 
 - #### Panel 2
 
@@ -121,7 +121,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page09.jpg)
 
 - #### Panel 4
 
@@ -129,7 +129,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page10.jpg)
 
 - #### Panel 1
 
@@ -137,7 +137,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page11.jpg)
 
 - #### Panel 3
 
@@ -145,7 +145,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page12.jpg)
 
 - #### Panel 5
 
@@ -153,7 +153,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page13.jpg)
 
 - #### Panel 1
 
@@ -165,7 +165,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page14.jpg)
 
 - #### Panel 1-2
 
@@ -181,7 +181,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page15.jpg)
 
 - #### Panel 1
 
@@ -189,7 +189,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page16.jpg)
 
 - #### Panel 7
 
@@ -201,7 +201,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page17.jpg)
 
 - #### Panel 2
 
@@ -217,7 +217,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page18.jpg)
 
 - #### Panel 5
 
@@ -225,7 +225,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page19.jpg)
 
 - #### Panel 1
 
@@ -237,7 +237,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page19.jpg)
 
 - #### Panel 4; page 20 panel 1-2
 
@@ -247,7 +247,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page21.jpg)
 
 - #### Panel 1
 
@@ -255,7 +255,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.08/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.08/page24.jpg)
 
 - #### Panel 3
 

@@ -9,7 +9,8 @@
     "honkit": "^4.0.8"
   },
   "dependencies": {
-    "gitbook-plugin-flexible-alerts": "^1.0.4",
-    "gitbook-plugin-search-plus": "^1.0.4-alpha-3"
+    "cheerio": "^1.0.0-rc.12",
+    "gitbook-plugin-blockclasses": "file:plugins/BlockClasses",
+    "honkit-plugin-search-plus": "^1.0.0"
   }
 }

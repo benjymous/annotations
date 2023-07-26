@@ -1,6 +1,6 @@
-## Issue 50: "Ramadan"
+> [marginThumb] ![](thumbnails/sandman.50/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page00.jpg)
+## Issue 50: "Ramadan"
 
 ##### Neil Gaiman and P. Craig Russell
 
@@ -14,13 +14,13 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page01.jpg)
 
 - An abridged version of the opening of the Arabian Nights, akin to the invocation of the Muses in classical literature. "There is no god but Allah, and Mohammed is his Prophet" is the profession of faith for Muslims, and all good Muslim books are supposed to begin with it. Mohammed (c. 567- 7 June 632) founded the religion of Islam and wrote the Koran.
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page02.jpg)
 
 - #### Panel 1
 
@@ -32,7 +32,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page04.jpg)
 
 - #### Panel 4
 
@@ -40,7 +40,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page06.jpg)
 
 - #### Panel 6
 
@@ -48,7 +48,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page07.jpg)
 
 - #### Panel 1
 
@@ -69,7 +69,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page08.jpg)
 
 - #### Panel 1
 
@@ -83,7 +83,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page09.jpg)
 
 - #### Panel 1
 
@@ -91,7 +91,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page10.jpg)
 
 - #### Panel 1
 
@@ -99,7 +99,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page11.jpg)
 
 - #### Panel 3
 
@@ -111,7 +111,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page13.jpg)
 
 - #### Panel 5
 
@@ -119,7 +119,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page14.jpg)
 
 - #### Panel 1
 
@@ -135,7 +135,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page15.jpg)
 
 - #### Panel 3
 
@@ -147,7 +147,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page16.jpg)
 
 - #### Panel 3
 
@@ -164,7 +164,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page21.jpg)
 
 - #### Panel 1
 
@@ -180,7 +180,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page22.jpg)
 
 - #### Panel 5
 
@@ -188,7 +188,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 25
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page25.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page25.jpg)
 
 - #### Panel 2
 
@@ -204,7 +204,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 26
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page26.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page26.jpg)
 
 - #### Panel 1
 
@@ -218,7 +218,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 27
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page27.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page27.jpg)
 
 - #### Panel 7
 
@@ -226,7 +226,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 31
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page31.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page31.jpg)
 
 - #### Panel 1
 
@@ -234,7 +234,7 @@ This story is designed to reflect the Thousand and One Arabian Nights, a traditi
 
 ### Page 32
 
-> [!THUMBNAIL] ![](thumbnails/sandman.50/page32.jpg)
+> [marginThumb] ![](thumbnails/sandman.50/page32.jpg)
 
 - Baghdad was bombed repeatedly during the Gulf War, and on at least two occasions since. The storyteller has been interpreted as the Caliph himself, made as undying as his city. However, the replacement of the mythical Baghdad with its mundane, historical counterpart suggests that Haroun himself also underwent the same transformation, which would tend to preclude his identification as the storyteller.
 

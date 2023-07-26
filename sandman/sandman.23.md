@@ -1,17 +1,13 @@
-## Issue 23
+> [marginThumb] ![](thumbnails/sandman.23/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page00.jpg)
+## Issue 23: "Season of Mists Chapter 2"
 
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
-
-Season of Mists Chapter 2
 
 > In which the Lord of Dreams returns to Hell;
 > his confrontation with the Lord of that realm;
 > in which a number of doors are closed for the last time;
 > and of the strange disposition of a knife and a key.
-
-Not yet reprinted in any other form
 
 **Note**: Neil Gaiman has demonstrated a thorough familiarity with Milton, and _Sandman_ is rife with allusions to _Paradise Lost_ whenever Lucifer appears. We'll attempt to cover the explicit references, but the interested reader is directed to turn to the original.
 
@@ -19,7 +15,7 @@ Not yet reprinted in any other form
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page01.jpg)
 
 - #### Panel 3
 
@@ -27,14 +23,14 @@ Not yet reprinted in any other form
 
 ### Page 2-3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page02-03.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page02-03.jpg)
 
 This is a double page splash panel. "I can open doors":
 foreshadowing.
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page04.jpg)
 
 - #### Panel 3
 
@@ -42,7 +38,7 @@ foreshadowing.
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page08.jpg)
 
 - #### Panel 7
 
@@ -50,7 +46,7 @@ foreshadowing.
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page09.jpg)
 
 - #### Panel 5
 
@@ -58,7 +54,7 @@ foreshadowing.
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page10.jpg)
 
 - #### Panel 1
 
@@ -78,7 +74,7 @@ foreshadowing.
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page11.jpg)
 
 - #### Panel 1-2
 
@@ -86,7 +82,7 @@ foreshadowing.
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page12.jpg)
 
 - #### Panel 1
 
@@ -98,7 +94,7 @@ foreshadowing.
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page13.jpg)
 
 - #### Panel 1-2
 
@@ -106,7 +102,7 @@ foreshadowing.
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page14.jpg)
 
 - #### Panel 4
 
@@ -114,7 +110,7 @@ foreshadowing.
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page15.jpg)
 
 - #### Panel 1
 
@@ -148,7 +144,7 @@ foreshadowing.
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page16.jpg)
 
 - #### Panel 2
 
@@ -156,7 +152,7 @@ foreshadowing.
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page17.jpg)
 
 - #### Panel 1-2
 
@@ -168,7 +164,7 @@ foreshadowing.
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page18.jpg)
 
 - #### Panel 2-3
 
@@ -176,7 +172,7 @@ foreshadowing.
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page19.jpg)
 
 - #### Panel 2
 
@@ -184,7 +180,7 @@ foreshadowing.
 
 ### Page 19-20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page19.jpg)
 
 - It is somewhat unclear what is occurring on these two pages. On 19, Lucifer and Dream appear to exit a gate (and note that it is entirely unclear whether Lucifer is the last out, as he predicted). On page 20, however, Lucifer locks a floating lump that does not seem to be attached to anything, and announces that the last of the gates is closed, even though page 19 panel 5 clearly shows the two well outside Hell's wall.
 
@@ -192,7 +188,7 @@ foreshadowing.
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page21.jpg)
 
 - #### Panel 1
 
@@ -226,7 +222,7 @@ foreshadowing.
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page22.jpg)
 
 - #### Panel 1
 
@@ -243,7 +239,7 @@ foreshadowing.
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.23/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.23/page23.jpg)
 
 - #### Panels 1,4,5
 

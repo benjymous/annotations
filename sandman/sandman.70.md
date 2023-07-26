@@ -1,12 +1,12 @@
-## Issue 70: "Which Occurs in the Wake of What Has Gone Before"
+> [marginThumb] ![](thumbnails/sandman.70/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page00.jpg)
+## Issue 70: "Which Occurs in the Wake of What Has Gone Before"
 
 ##### Neil Gaiman, Michael Zulli
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page01.jpg)
 
 - #### Panel 1
 
@@ -18,7 +18,7 @@
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page02.jpg)
 
 - #### Panel 2
 
@@ -26,7 +26,7 @@
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page03.jpg)
 
 - #### Panel 2
 
@@ -38,7 +38,7 @@
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page04.jpg)
 
 - #### Panel 1
 
@@ -50,7 +50,7 @@
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page07.jpg)
 
 - #### Panel 2
 
@@ -70,7 +70,7 @@
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page08.jpg)
 
 - #### Panel 2
 
@@ -90,7 +90,7 @@
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page09.jpg)
 
 - #### Panel 1
 
@@ -108,17 +108,17 @@
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page10.jpg)
 
 - #### Panel 4
 
   The image at top right is Edvard Munch's well-known "The Scream"; the one in the middle is William Blake's "Ancient of Days". The leftmost picture must have relevance too, if that can be identified.
 
-  > [!FLEX_2] ![ William Blake's "Ancient of Days"](images/AncientOfDays.jpg) ![Edvard Munch's "The Scream"](images/TheScream.jpg)
+  > [flex cols-2] ![ William Blake's "Ancient of Days"](images/AncientOfDays.jpg) ![Edvard Munch's "The Scream"](images/TheScream.jpg)
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page11.jpg)
 
 - #### Panel 2
 
@@ -130,7 +130,7 @@
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page12.jpg)
 
 - #### Panel 7
 
@@ -138,7 +138,7 @@
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page13.jpg)
 
 - Note that there is no page number.
 
@@ -150,7 +150,7 @@ Note how Eve gets progressively younger. We've seen this happen before in [Seaso
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page14.jpg)
 
 - And now Eve grows older again. Eve's age seems to be eternally in flux. (Although Cain and Abel both seem to stay the same age. But then again, in A Parliament of Rooks, we were told that Eve wasn't Cain's mother.)
 
@@ -160,7 +160,7 @@ Note how Eve gets progressively younger. We've seen this happen before in [Seaso
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page15.jpg)
 
 - #### Panel 2
 
@@ -172,7 +172,7 @@ Note how Eve gets progressively younger. We've seen this happen before in [Seaso
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page16.jpg)
 
 - #### Panel 1
 
@@ -180,7 +180,7 @@ Note how Eve gets progressively younger. We've seen this happen before in [Seaso
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page17.jpg)
 
 - #### Panel 6
 
@@ -188,7 +188,7 @@ Note how Eve gets progressively younger. We've seen this happen before in [Seaso
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page18.jpg)
 
 - #### Panel 3
 
@@ -196,7 +196,7 @@ Note how Eve gets progressively younger. We've seen this happen before in [Seaso
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page18.jpg)
 
 - #### Panel 5
 
@@ -204,7 +204,7 @@ Note how Eve gets progressively younger. We've seen this happen before in [Seaso
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page20.jpg)
 
 - #### Panel 1
 
@@ -212,7 +212,7 @@ Note how Eve gets progressively younger. We've seen this happen before in [Seaso
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page21.jpg)
 
 - #### Panel 2
 
@@ -220,7 +220,7 @@ Note how Eve gets progressively younger. We've seen this happen before in [Seaso
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page22.jpg)
 
 - #### Panel 1
 
@@ -228,7 +228,7 @@ Note how Eve gets progressively younger. We've seen this happen before in [Seaso
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.70/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.70/page23.jpg)
 
 - #### Panel 1
 

@@ -1,6 +1,6 @@
-## Issue 13: "Men of Good Fortune"
+> [marginThumb] ![](thumbnails/sandman.13/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page00.jpg)
+## Issue 13: "Men of Good Fortune"
 
 ##### Neil Gaiman, Michael Zulli, and [Steve?] Parkhouse
 
@@ -20,7 +20,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page01.jpg)
 
 - #### Panel 1
 
@@ -44,7 +44,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page02.jpg)
 
 - #### Panel 2
 
@@ -64,7 +64,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page03.jpg)
 
 - #### Panel 2
 
@@ -80,7 +80,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page04.jpg)
 
 - #### Panel 7
 
@@ -94,7 +94,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page05.jpg)
 
 - #### Panel 4
 
@@ -102,7 +102,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page06.jpg)
 
 - #### Panel 1
 
@@ -114,7 +114,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page07.jpg)
 
 - #### Panel 3
 
@@ -126,7 +126,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page08.jpg)
 
 - #### Panel 2
 
@@ -138,7 +138,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page09.jpg)
 
 - #### Panel 1
 
@@ -150,7 +150,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page10.jpg)
 
 - #### Panel 1
 
@@ -174,7 +174,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page11.jpg)
 
 - #### Panel 1
 
@@ -194,7 +194,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page12.jpg)
 
 - #### Panel 1-2
 
@@ -206,7 +206,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page13.jpg)
 
 - #### Panel 1
 
@@ -218,7 +218,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page14.jpg)
 
 - #### Panel 1
 
@@ -230,7 +230,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page15.jpg)
 
 - #### Panel 1
 
@@ -238,7 +238,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page16.jpg)
 
 - #### Panel 1
 
@@ -246,7 +246,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page17.jpg)
 
 - #### Panel 1
 
@@ -262,7 +262,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page18.jpg)
 
 - #### Panel 1
 
@@ -272,7 +272,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page19.jpg)
 
 - #### Panel 4
 
@@ -284,7 +284,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page20.jpg)
 
 - #### Panel 4
 
@@ -300,7 +300,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page21.jpg)
 
 - #### Panel 1
 
@@ -320,7 +320,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page22.jpg)
 
 - #### Panel 2
 
@@ -336,7 +336,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page23.jpg)
 
 - #### Panel 2
 
@@ -344,7 +344,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.13/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.13/page24.jpg)
 
 - #### Panel 1
 

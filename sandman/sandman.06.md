@@ -1,6 +1,6 @@
-## Issue 6: "24 Hours"
+> [marginThumb] ![](thumbnails/sandman.06/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page00.jpg)
+## Issue 6: "24 Hours"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -10,7 +10,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page01.jpg)
 
 - #### Panel 2
 
@@ -22,7 +22,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page02.jpg)
 
 - #### Panel 2
 
@@ -48,7 +48,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page03.jpg)
 
 - #### Panel 2
 
@@ -60,7 +60,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page04.jpg)
 
 - #### Panel 2
 
@@ -80,7 +80,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page05.jpg)
 
 - #### Panel 6
 
@@ -89,7 +89,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page07.jpg)
 
 - #### Panel 2
 
@@ -105,7 +105,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page08.jpg)
 
 - Another fictional example of an American television genre, the children's variety show, typically featuring humans interacting with puppets, interspersed with cartoons. There is also a cultural fascination with dinosaurs that unfortunately does not extend to fascination with accuracy.
 
@@ -115,7 +115,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page09.jpg)
 
 - #### Panel 7
 
@@ -123,7 +123,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page10.jpg)
 
 - #### Panel 1
 
@@ -139,7 +139,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page11.jpg)
 
 - #### Panel 3
 
@@ -151,7 +151,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 12-13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page12-13.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page12-13.jpg)
 
 - #### Panel 1
 
@@ -192,13 +192,13 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page14.jpg)
 
 - This is Kate speaking. Sex with dead people is called necrophilia. It is not clear to me whether a male corpse could have an erection that could achieve penetration, or if in fact penetration even occurred. In panel 8, it is to be assumed that Kate tasted or drank the corpse's blood.
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page15.jpg)
 
 - The theme music is indeed correct for the 60s television show "The Addams Family"
 
@@ -216,7 +216,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page16.jpg)
 
 - In this sequence, the three women take the roles of the Hecateae, reintroduced in [issue 3](sandman.03.md). Dee repeatedly demands a prophecy until he hears what he wants to hear. Notice that Judy has lost her shirt, which is consistent with Judy being involved in the sex scene on the previous page. Also note that the women are arranged in a maiden/mother/crone order.
 
@@ -228,7 +228,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page17.jpg)
 
 - #### Panel 5,7
 
@@ -236,7 +236,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page18.jpg)
 
 - Notice that Bette is holding the nails while Marsh does the hammering, with his left hand.
 
@@ -250,7 +250,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page19.jpg)
 
 - This page more or less describes typical mammalian pack behavior.
 
@@ -260,7 +260,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page20.jpg)
 
 - #### Panel 2
 
@@ -272,7 +272,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page21.jpg)
 
 - #### Panel 1
 
@@ -283,7 +283,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page22.jpg)
 
 - The sign in the upper left reads "Please and Thank You are the magic words."
 
@@ -295,7 +295,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.06/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.06/page24.jpg)
 
 - #### Panel 2
 

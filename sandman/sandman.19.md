@@ -1,6 +1,6 @@
-## Issue 19: "A Midsummer Night's Dream"
+> [marginThumb] ![](thumbnails/sandman.19/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page00.jpg)
+## Issue 19: "A Midsummer Night's Dream"
 
 ##### Neil Gaiman and Charles Vess
 
@@ -15,7 +15,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page01.jpg)
 
 - #### Panel 1
 
@@ -27,7 +27,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page02.jpg)
 
 - #### Panel 1
 
@@ -47,7 +47,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page03.jpg)
 
 - #### Panel 1
 
@@ -84,7 +84,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page04.jpg)
 
 - #### Panel 1
 
@@ -105,7 +105,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page04.jpg)
 
 - #### Panel 6; page 5 panel 1-3
 
@@ -117,11 +117,11 @@ Winner of 1991 World Fantasy Award in the short story category
 
   The true location is the Long Man of Wilmington. (Neil Gaiman notes in the Sandman Companion that this may have originated as "Wendel's Mound Town")
 
-> [!FLEX_2] ![Wendel opens his door](images/WendelOpens.jpg) ![The Long Man of Wilmington](images/LongManOfWilmington.jpg)
+> [flex cols-2] ![Wendel opens his door](images/WendelOpens.jpg) ![The Long Man of Wilmington](images/LongManOfWilmington.jpg)
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page06.jpg)
 
 - #### Panel 1
 
@@ -137,7 +137,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page07.jpg)
 
 - The play opens with Theseus, Duke of Athens, anxiously awaiting his wedding to Hippolyta, Queen of the Amazons. Philostrate is his Master of Revels.
 
@@ -151,7 +151,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page08.jpg)
 
 - #### Panel 1
 
@@ -167,7 +167,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page09.jpg)
 
 - #### Panel 1
 
@@ -185,7 +185,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page10.jpg)
 
 - #### Panel 1
 
@@ -209,7 +209,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page11.jpg)
 
 - #### Panel 1
 
@@ -234,7 +234,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page12.jpg)
 
 - #### Panel 1
 
@@ -250,7 +250,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page13.jpg)
 
 - #### Panel 3
 
@@ -265,7 +265,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page14.jpg)
 
 - #### Panel 1
 
@@ -281,7 +281,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page15.jpg)
 
 - #### Panel 1
 
@@ -301,7 +301,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page16.jpg)
 
 - #### Panel 1
 
@@ -321,7 +321,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page17.jpg)
 
 - #### Panel 1
 
@@ -341,7 +341,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page18.jpg)
 
 - #### Panel 1
 
@@ -357,7 +357,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page19.jpg)
 
 - #### Panel 1
 
@@ -369,7 +369,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page20.jpg)
 
 - #### Panel 1
 
@@ -387,7 +387,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page21.jpg)
 
 - #### Panel 1
 
@@ -403,7 +403,7 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 22
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page22.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page22.jpg)
 
 - #### Panel 1
 
@@ -419,13 +419,13 @@ Winner of 1991 World Fantasy Award in the short story category
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page23.jpg)
 
 - Act V Scene 1. Puck's speech here is also the final speech in the play.
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.19/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.19/page24.jpg)
 
 - The standard ending to fairy stories has those who ventured into the fairy world waking on a hill, their gold changed to something worthless.
 

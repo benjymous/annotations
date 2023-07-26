@@ -1,18 +1,14 @@
-## Issue 28
+> [marginThumb] ![](thumbnails/sandman.28/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page00.jpg)
+## Issue 28: "Season of Mists Epilogue"
 
 ##### Neil Gaiman, Mike Dringenberg, and George Pratt
-
-Season of Mists Epilogue
 
 > In which we bid farewell to absent friends,
 > lost loves, old gods, and the season of mists;
 > and in which we give the devil his due.
 
-Not yet reprinted in any other form
-
-**Cover**: Note the four characters in the lower right. They are Chinese and mean: 1. "new" (xin) 2. "life" (sheng) 3. "baby" (ying) 4. "child" (er)
+**Cover**: Note the four characters in the lower right. They are Chinese and mean: 1. 新 "new" (xin) 2. 生 "life" (sheng) 3. 英 "baby" (ying) 4. 儿 "child" (er)
 
 The third & fourth character are to be read together to mean "baby", all four characters together mean "newborn" (noun).
 
@@ -20,7 +16,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page01.jpg)
 
 - #### Panel 2
 
@@ -32,7 +28,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 2-3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page02-03.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page02-03.jpg)
 
 - #### Panel 3 (left)
 
@@ -46,7 +42,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page04.jpg)
 
 - #### Panel 5
 
@@ -64,7 +60,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page05.jpg)
 
 - #### Panel 5
 
@@ -78,7 +74,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page06.jpg)
 
 - #### Panel 2
 
@@ -90,7 +86,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page07.jpg)
 
 - #### Panel 5
 
@@ -98,7 +94,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page08.jpg)
 
 - #### Panel 4
 
@@ -106,7 +102,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page09.jpg)
 
 - #### Panel 1-2
 
@@ -118,7 +114,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page10.jpg)
 
 - #### Panel 3
 
@@ -130,7 +126,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page11.jpg)
 
 - #### Panel 4
 
@@ -138,7 +134,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page12.jpg)
 
 - #### Panel 2
 
@@ -150,7 +146,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page14.jpg)
 
 - #### Panel 1
 
@@ -158,7 +154,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page15.jpg)
 
 - #### Panel 1
 
@@ -166,13 +162,13 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 16-17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page16.jpg)
 
 - Nada is being reincarnated (as a boy, as we see in page 16 panel 5). Is Dream promising the new him a lifetime of good dreams?
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page18.jpg)
 
 - #### Panel 1
 
@@ -186,7 +182,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page19.jpg)
 
 - #### Panel 3
 
@@ -198,7 +194,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page20.jpg)
 
 - #### Panel 1
 
@@ -212,7 +208,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page21.jpg)
 
 - #### Panel 3
 
@@ -224,7 +220,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page23.jpg)
 
 - One is tempted to say "the Road to Hell is paved with good intentions" in response to Remiel's musings.
 
@@ -242,7 +238,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.28/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.28/page24.jpg)
 
 - This is Destiny, in his Garden of Forking Paths. See [Sandman #21](sandman.21.md) for more detail.
 

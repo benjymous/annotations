@@ -1,6 +1,6 @@
-## Issue 3: "Dream a Little Dream of Me"
+> [marginThumb] ![](thumbnails/sandman.03/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page00.jpg)
+## Issue 3: "Dream a Little Dream of Me"
 
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
@@ -12,13 +12,13 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page01.jpg)
 
 - This woman will be identified later. This is her first known appearance.
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page02.jpg)
 
 - #### Panel 3
 
@@ -30,7 +30,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page03.jpg)
 
 - #### Panel 1
 
@@ -46,7 +46,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page04.jpg)
 
 - #### Panel 2
 
@@ -62,7 +62,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page05.jpg)
 
 - #### Panel 1
 
@@ -74,7 +74,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page06.jpg)
 
 - #### Panel 2
 
@@ -82,7 +82,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page07.jpg)
 
 - #### Panel 3
 
@@ -90,7 +90,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page08.jpg)
 
 - #### Panel 1
 
@@ -112,7 +112,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page09.jpg)
 
 - #### Panel 5
 
@@ -128,7 +128,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page10.jpg)
 
 - #### Panel 3
 
@@ -136,7 +136,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page11.jpg)
 
 - #### Panel 1
 
@@ -162,7 +162,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page13.jpg)
 
 - #### Panel 1
 
@@ -174,7 +174,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page14.jpg)
 
 - #### Panel 6
 
@@ -182,7 +182,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page16.jpg)
 
 - #### Panel 3
 
@@ -190,7 +190,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page20.jpg)
 
 - #### Panel 4
 
@@ -198,7 +198,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page21.jpg)
 
 - #### Panel 1
 
@@ -206,7 +206,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page23.jpg)
 
 - #### Panel 6
 
@@ -214,7 +214,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.03/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.03/page24.jpg)
 
 - #### Panel 5
 

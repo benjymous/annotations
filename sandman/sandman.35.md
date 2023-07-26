@@ -1,12 +1,10 @@
-## Issue 35: "Beginning to See the Light"
+> [marginThumb] ![](thumbnails/sandman.35/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page00.jpg)
+## Issue 35: "Beginning to See the Light"
 
 ##### Neil Gaiman and Shawn McManus
 
 Fourth part of storyline _A Game of You_
-
-Not yet reprinted in any other form
 
 **Title**: _A Game of You_ clearly refers to the question of identity. Who and what the characters in this story are is a question either to the readers or to the character him, her, or itself, and that is the most important theme the reader should keep in mind when reading this story. This issue has a number of parallels with #32, suggesting an overall structure for the storyline, similar to what was done with _The Doll's House_.
 
@@ -18,7 +16,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.35/page01.jpg)
 
 - #### Panel 2-3
 
@@ -30,7 +28,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.35/page02.jpg)
 
 - #### Panel 1
 
@@ -38,7 +36,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.35/page03.jpg)
 
 - #### Panel 3
 
@@ -46,7 +44,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.35/page04.jpg)
 
 - #### Panel 1
 
@@ -54,7 +52,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.35/page05.jpg)
 
 - #### Panel 1
 
@@ -74,7 +72,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.35/page06.jpg)
 
 - #### Panel 5
 
@@ -83,7 +81,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.35/page07.jpg)
 
 - The text of the scroll is presumably taken from a specific reference work on birds which I have not identified.
 
@@ -97,7 +95,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.35/page09.jpg)
 
 - #### Panel 1-4
 
@@ -105,7 +103,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.35/page11.jpg)
 
 - #### Panel 2
 
@@ -117,7 +115,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 12
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page12.jpg)
+> [marginThumb] ![](thumbnails/sandman.35/page12.jpg)
 
 - #### Panel 3
 
@@ -125,7 +123,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.35/page13.jpg)
 
 - #### Panel 2
 
@@ -137,7 +135,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.35/page14.jpg)
 
 - #### Panel 3
 
@@ -145,7 +143,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.35/page18.jpg)
 
 - #### Panel 2
 
@@ -153,7 +151,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.35/page19.jpg)
 
 - George attempts to play Wanda in the Game of You, but Wanda refuses.
 
@@ -163,7 +161,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.35/page21.jpg)
 
 - #### Panel 6
 
@@ -171,7 +169,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.35/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.35/page24.jpg)
 
 - #### Panel 3
 

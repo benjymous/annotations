@@ -1,6 +1,6 @@
-## Issue 54: "The Golden Boy"
+> [marginThumb] ![](thumbnails/sandman.54/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page00.jpg)
+## Issue 54: "The Golden Boy"
 
 ##### Neil Gaiman, Michael Allred, Bryan Talbot, Mark Buckingham
 
@@ -8,7 +8,7 @@ Fourth story in anthology, "Worlds' End"
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page02.jpg)
 
 - #### Panel 1
 
@@ -16,7 +16,7 @@ Fourth story in anthology, "Worlds' End"
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page03.jpg)
 
 - #### Panel 1
 
@@ -36,7 +36,7 @@ This continues the religious theme in this issue.
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page04.jpg)
 
 - #### Panel 3
 
@@ -48,13 +48,13 @@ This continues the religious theme in this issue.
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page05.jpg)
 
 - #### Panel 4
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page06.jpg)
 
 - #### Panel 5:
 
@@ -62,7 +62,7 @@ This continues the religious theme in this issue.
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page07.jpg)
 
 - #### Panel 2
 
@@ -74,17 +74,17 @@ This continues the religious theme in this issue.
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page08.jpg)
 
 - #### Panel 3
 
   When Nixon's tape recordings of office conversations were transcribed for the Watergate hearings, the frequently-used swear words were all replaced with "[expletive deleted]".
 
-> [!FLOATRIGHT_40PC] ![Prez #1 Cover](images/Prez-1.jpg)
+> [floatright width-40pc] ![Prez #1 Cover](images/Prez-1.jpg)
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page09.jpg)
 
 - #### Panel 5
 
@@ -94,7 +94,7 @@ This continues the religious theme in this issue.
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page10.jpg)
 
 - #### Panel 2
 
@@ -114,7 +114,7 @@ This continues the religious theme in this issue.
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page13.jpg)
 
 - #### Panel 3
 
@@ -126,7 +126,7 @@ This continues the religious theme in this issue.
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page14.jpg)
 
 - #### Panel 1
 
@@ -138,7 +138,7 @@ This continues the religious theme in this issue.
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page15.jpg)
 
 - #### Panel 3
 
@@ -151,7 +151,7 @@ This continues the religious theme in this issue.
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page16.jpg)
 
 - #### Panel 1
 
@@ -159,7 +159,7 @@ This continues the religious theme in this issue.
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page17.jpg)
 
 - #### Panels 1-3:
 
@@ -187,7 +187,7 @@ This continues the religious theme in this issue.
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page18.jpg)
 
 - #### Panel 3
 
@@ -199,7 +199,7 @@ This continues the religious theme in this issue.
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page19.jpg)
 
 - #### Panel 5
 
@@ -207,7 +207,7 @@ This continues the religious theme in this issue.
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page20.jpg)
 
 - #### Panel 4
 
@@ -221,7 +221,7 @@ This continues the religious theme in this issue.
 
 ### Page 21
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page21.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page21.jpg)
 
 - #### Panel 2
 
@@ -229,7 +229,7 @@ This continues the religious theme in this issue.
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.54/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.54/page24.jpg)
 
 - #### Panel 1
 

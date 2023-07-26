@@ -1,6 +1,6 @@
-## Issue 7: "Sound and Fury"
+> [marginThumb] ![](thumbnails/sandman.07/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.07/page00.jpg)
+## Issue 7: "Sound and Fury"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -20,13 +20,13 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.07/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.07/page01.jpg)
 
 - These people are walk-ons.
 
 ### Page 2
 
-> [!THUMBNAIL] ![](thumbnails/sandman.07/page02.jpg)
+> [marginThumb] ![](thumbnails/sandman.07/page02.jpg)
 
 - #### Panel 3
 
@@ -34,13 +34,13 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 3:
 
-> [!THUMBNAIL] ![](thumbnails/sandman.07/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.07/page03.jpg)
 
 - The two people are Morpheus (standing) and John Dee. See previous annotations for what's going on.
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.07/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.07/page04.jpg)
 
 - #### Panel 5
 
@@ -49,7 +49,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 8
 
-> [!THUMBNAIL] ![](thumbnails/sandman.07/page08.jpg)
+> [marginThumb] ![](thumbnails/sandman.07/page08.jpg)
 
 - #### Panel 5
 
@@ -57,7 +57,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.07/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.07/page09.jpg)
 
 - #### Panel 2-3
 
@@ -65,7 +65,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.07/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.07/page10.jpg)
 
 - #### Panel 1
 
@@ -85,7 +85,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.07/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.07/page14.jpg)
 
 - #### Panel 1
 
@@ -93,7 +93,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.07/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.07/page15.jpg)
 
 - #### Panel 1
 
@@ -103,7 +103,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.07/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.07/page16.jpg)
 
 - #### Panel 1
 
@@ -111,7 +111,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.07/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.07/page23.jpg)
 
 - #### Panel 2
 
@@ -123,7 +123,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 24
 
-> [!THUMBNAIL] ![](thumbnails/sandman.07/page24.jpg)
+> [marginThumb] ![](thumbnails/sandman.07/page24.jpg)
 
 - #### Panel 3
 
@@ -131,7 +131,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 25
 
-> [!THUMBNAIL] ![](thumbnails/sandman.07/page25.jpg)
+> [marginThumb] ![](thumbnails/sandman.07/page25.jpg)
 
 - #### Panel 1
 

@@ -1,6 +1,6 @@
-## Issue 25
+> [marginThumb] ![](thumbnails/sandman.25/page00.jpg)
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page00.jpg)
+## Issue 25
 
 ##### Neil Gaiman, Matt Wagner, and Malcolm Jones III
 
@@ -9,11 +9,9 @@ Season of Mists Chapter 4
 > In which the dead return;
 > and Charles Rowland concludes his education.
 
-Not yet reprinted in any other form
-
 ### Page 1
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page01.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page01.jpg)
 
 - #### Panel 1
 
@@ -25,7 +23,7 @@ Not yet reprinted in any other form
 
 ### Page 3
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page03.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page03.jpg)
 
 - #### Panel 3
 
@@ -33,7 +31,7 @@ Not yet reprinted in any other form
 
 ### Page 4
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page04.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page04.jpg)
 
 - #### Panel 1
 
@@ -41,7 +39,7 @@ Not yet reprinted in any other form
 
 ### Page 5
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page05.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page05.jpg)
 
 - #### Panel 1-3
 
@@ -55,7 +53,7 @@ Not yet reprinted in any other form
 
 ### Page 6
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page06.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page06.jpg)
 
 - #### Panel 1
 
@@ -63,7 +61,7 @@ Not yet reprinted in any other form
 
 ### Page 7
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page07.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page07.jpg)
 
 - #### Panel 1-2
 
@@ -81,7 +79,7 @@ Not yet reprinted in any other form
 
 ### Page 9
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page09.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page09.jpg)
 
 - #### Panel 2
 
@@ -93,7 +91,7 @@ Not yet reprinted in any other form
 
 ### Page 10
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page10.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page10.jpg)
 
 - #### Panel 2
 
@@ -105,7 +103,7 @@ Not yet reprinted in any other form
 
 ### Page 11
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page11.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page11.jpg)
 
 - #### Panel 4
 
@@ -113,7 +111,7 @@ Not yet reprinted in any other form
 
 ### Page 13
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page13.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page13.jpg)
 
 - #### Panel 1
 
@@ -125,7 +123,7 @@ Not yet reprinted in any other form
 
 ### Page 14
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page14.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page14.jpg)
 
 - #### Panel 2
 
@@ -137,7 +135,7 @@ Not yet reprinted in any other form
 
 ### Page 15
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page15.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page15.jpg)
 
 - #### Panel 1
 
@@ -145,7 +143,7 @@ Not yet reprinted in any other form
 
 ### Page 16
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page16.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page16.jpg)
 
 - #### Panel 1
 
@@ -153,7 +151,7 @@ Not yet reprinted in any other form
 
 ### Page 17
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page17.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page17.jpg)
 
 - #### Panel 3
 
@@ -165,7 +163,7 @@ Not yet reprinted in any other form
 
 ### Page 18
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page18.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page18.jpg)
 
 - #### Panel 2-4
 
@@ -173,7 +171,7 @@ Not yet reprinted in any other form
 
 ### Page 19
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page19.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page19.jpg)
 
 - #### Panel 5
 
@@ -185,7 +183,7 @@ Not yet reprinted in any other form
 
 ### Page 20
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page20.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page20.jpg)
 
 - #### Panel 9; page 21
 
@@ -193,7 +191,7 @@ Not yet reprinted in any other form
 
 ### Page 23
 
-> [!THUMBNAIL] ![](thumbnails/sandman.25/page23.jpg)
+> [marginThumb] ![](thumbnails/sandman.25/page23.jpg)
 
 - #### Panel 1
 
