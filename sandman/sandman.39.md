@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.39/page00.jpg)
+> [marginThumb] ![cover for issue 39](thumbnails/sandman.39/page00.jpg)
 
 ## Issue 39: "Soft Places"
 
@@ -14,7 +14,7 @@ In "Soft Places", Marco Polo travels into a soft place unfamiliar to him, as he 
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.39/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.39/page01.jpg)
 
 - #### Panel 1
 
@@ -24,7 +24,7 @@ In "Soft Places", Marco Polo travels into a soft place unfamiliar to him, as he 
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.39/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.39/page04.jpg)
 
 - #### Panel 4
 
@@ -32,7 +32,7 @@ In "Soft Places", Marco Polo travels into a soft place unfamiliar to him, as he 
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.39/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.39/page05.jpg)
 
 - #### Panel 3
 
@@ -58,7 +58,7 @@ In "Soft Places", Marco Polo travels into a soft place unfamiliar to him, as he 
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.39/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.39/page07.jpg)
 
 - #### Panel 1
 
@@ -72,7 +72,7 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.39/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.39/page08.jpg)
 
 - #### Panel 3
 
@@ -80,7 +80,7 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.39/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.39/page09.jpg)
 
 - #### Panel 6
 
@@ -88,7 +88,7 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.39/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.39/page10.jpg)
 
 - #### Panel 3
 
@@ -108,7 +108,7 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.39/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.39/page11.jpg)
 
 - #### Panel 2
 
@@ -126,7 +126,7 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.39/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.39/page12.jpg)
 
 - #### Panel 1
 
@@ -144,7 +144,7 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.39/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.39/page13.jpg)
 
 - #### Panel 2
 
@@ -161,7 +161,7 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.39/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.39/page14.jpg)
 
 - #### Panel 1
 
@@ -173,7 +173,7 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.39/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.39/page16.jpg)
 
 - #### Panel 6
 
@@ -181,7 +181,7 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.39/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.39/page17.jpg)
 
 - #### Panel 4
 
@@ -195,7 +195,7 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.39/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.39/page20.jpg)
 
 - #### Panel 3
 
@@ -203,7 +203,7 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.39/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.39/page21.jpg)
 
 - #### Panel 5
 
@@ -211,7 +211,7 @@ The lengthy introduction to this edition has quite a lot of information about Po
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.39/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.39/page24.jpg)
 
 - #### Panel 7
 

@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.07/page00.jpg)
+> [marginThumb] ![cover for issue 07](thumbnails/sandman.07/page00.jpg)
 
 ## Issue 7: "Sound and Fury"
 
@@ -20,13 +20,13 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.07/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.07/page01.jpg)
 
 - These people are walk-ons.
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.07/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.07/page02.jpg)
 
 - #### Panel 3
 
@@ -34,13 +34,13 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 3:
 
-> [marginThumb] ![](thumbnails/sandman.07/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.07/page03.jpg)
 
 - The two people are Morpheus (standing) and John Dee. See previous annotations for what's going on.
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.07/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.07/page04.jpg)
 
 - #### Panel 5
 
@@ -49,7 +49,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.07/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.07/page08.jpg)
 
 - #### Panel 5
 
@@ -57,7 +57,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.07/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.07/page09.jpg)
 
 - #### Panel 2-3
 
@@ -65,7 +65,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.07/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.07/page10.jpg)
 
 - #### Panel 1
 
@@ -85,7 +85,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.07/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.07/page14.jpg)
 
 - #### Panel 1
 
@@ -93,17 +93,29 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.07/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.07/page15.jpg)
 
 - #### Panel 1
 
-  It would appear that Eve is in fact the Raven Woman of [issue #2](sandman.02.md). Note the raven. Eve has previously appeared in the DC humor mag _Plop!_ in the 1970s, along with Cain and Abel. Panel 2: "Rag-shag Lord of Nowhere-at-all" sounds like a quote. Panel 3: These three characters are, left to right, Abel, Cain, and Gregory, for whose descriptions see the annotation to [issue #2](sandman.02.md). Panel 4: "Spittle-arsed poxy-pale wanker" is a peculiarly British thing for Dee to be saying. An arse is an ass; poxy is probably related to the diseases of smallpox and chicken pox, or possibly to any of a variety of venereal diseases. A wanker is a self-important idiot; "wanking off" is masturbation, so a wanker is one who prefers masturbation to sex. A North American would probably use "asshole." Panel 5: Destiny was the host of one of DC's mystery titles in the late 70s or early 80s. The first appearance of Destiny was specifically Weird Mystery Tales #1. He has also appeared in _Elvira's House of Mystery_. Marv Wolfman used him for appearances in _Superman_ (Superman#352) and _The New Teen Titans_.
+  It would appear that Eve is in fact the Raven Woman of [issue #2](sandman.02.md). Note the raven. Eve has previously appeared in the DC humor mag _Plop!_ in the 1970s, along with Cain and Abel.
+
+- #### Panel 2
+  "Rag-shag Lord of Nowhere-at-all" sounds like a quote
+
+- #### Panel 3
+  These three characters are, left to right, Abel, Cain, and Gregory, for whose descriptions see the annotation to [issue #2](sandman.02.md).
+
+- #### Panel 4
+  "Spittle-arsed poxy-pale wanker" is a peculiarly British thing for Dee to be saying. An arse is an ass; poxy is probably related to the diseases of smallpox and chicken pox, or possibly to any of a variety of venereal diseases. A wanker is a self-important idiot; "wanking off" is masturbation, so a wanker is one who prefers masturbation to sex. A North American would probably use "asshole."
+
+- #### Panel 5
+  Destiny was the host of one of DC's mystery titles in the late 70s or early 80s. The first appearance of Destiny was specifically Weird Mystery Tales #1. He has also appeared in _Elvira's House of Mystery_. Marv Wolfman used him for appearances in _Superman_ (Superman#352) and _The New Teen Titans_.
 
   In these, it was established that he was more powerful than Superman and not obligated to obey Zeus or Kronos. The character may have had his genesis in the 1960s edition of _The Spectre_. In issues #8-10, the Spectre made some grievous error and was chained by the mysterious voice that resurrected him to a "book of destiny". He was forced to follow mortals around and try to get them to change their destiny, which was written in the book. In effect, the Spectre was demoted to "pseudo-horror anthology host." It has been theorized that Destiny was created from inventory stories for this incarnation of the Spectre; all it would require was slight redrawing, some relettering, and a new color scheme. Destiny was mentioned in [Sandman #1](sandman.01.md) as one of the "Endless", of whom we will see more later.
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.07/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.07/page16.jpg)
 
 - #### Panel 1
 
@@ -111,7 +123,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.07/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.07/page23.jpg)
 
 - #### Panel 2
 
@@ -123,7 +135,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.07/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.07/page24.jpg)
 
 - #### Panel 3
 
@@ -131,7 +143,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 ### Page 25
 
-> [marginThumb] ![](thumbnails/sandman.07/page25.jpg)
+> [marginThumb] ![page 25](thumbnails/sandman.07/page25.jpg)
 
 - #### Panel 1
 

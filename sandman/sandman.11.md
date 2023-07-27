@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.11/page00.jpg)
+> [marginThumb] ![cover for issue 11](thumbnails/sandman.11/page00.jpg)
 
 ## Issue 11: "Moving In"
 
@@ -10,7 +10,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.11/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.11/page01.jpg)
 
 - #### Panel 1
 
@@ -19,7 +19,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.11/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.11/page02.jpg)
 
 - #### Panel 2
 
@@ -35,7 +35,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.11/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.11/page03.jpg)
 
 - #### Panel 2
 
@@ -59,7 +59,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.11/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.11/page06.jpg)
 
 - #### Panel 1
 
@@ -79,7 +79,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.11/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.11/page07.jpg)
 
 - #### Panel 3
 
@@ -93,7 +93,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.11/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.11/page08.jpg)
 
 - #### Panel 1
 
@@ -105,7 +105,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.11/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.11/page09.jpg)
 
 - #### Panel 4
 
@@ -117,7 +117,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.11/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.11/page10.jpg)
 
 - #### Panel 3
 
@@ -125,7 +125,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.11/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.11/page11.jpg)
 
 - #### Panel 1
 
@@ -137,7 +137,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.11/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.11/page12.jpg)
 
 - #### Panel 2
 
@@ -145,13 +145,13 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.11/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.11/page13.jpg)
 
 - We meet Gilbert at last. In particular, notice his response to Rose's question about his name.
 
 ### Page 16-17
 
-> [marginThumb] ![](thumbnails/sandman.11/page16-17.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.11/page16.jpg)
 
 - This is a double page spread. The song in the background is the same song from page 11.
 
@@ -161,7 +161,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.11/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.11/page19.jpg)
 
 - #### Panel 1
 
@@ -173,7 +173,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.11/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.11/page21.jpg)
 
 - #### Panel 5
 
@@ -181,7 +181,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.11/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.11/page22.jpg)
 
 - #### Panel 5
 
@@ -189,7 +189,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.11/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.11/page24.jpg)
 
 - Dream is donning his battle raiment. Specifically, the helmet possesses a great deal of (unspecified) power. Presumably, Dream also is carrying his pouch of sand.
 

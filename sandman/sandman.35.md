@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.35/page00.jpg)
+> [marginThumb] ![cover for issue 35](thumbnails/sandman.35/page00.jpg)
 
 ## Issue 35: "Beginning to See the Light"
 
@@ -16,7 +16,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.35/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.35/page01.jpg)
 
 - #### Panel 2-3
 
@@ -28,7 +28,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.35/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.35/page02.jpg)
 
 - #### Panel 1
 
@@ -36,7 +36,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.35/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.35/page03.jpg)
 
 - #### Panel 3
 
@@ -44,7 +44,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.35/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.35/page04.jpg)
 
 - #### Panel 1
 
@@ -52,7 +52,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.35/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.35/page05.jpg)
 
 - #### Panel 1
 
@@ -72,7 +72,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.35/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.35/page06.jpg)
 
 - #### Panel 5
 
@@ -81,7 +81,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.35/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.35/page07.jpg)
 
 - The text of the scroll is presumably taken from a specific reference work on birds which I have not identified.
 
@@ -95,7 +95,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.35/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.35/page09.jpg)
 
 - #### Panel 1-4
 
@@ -103,7 +103,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.35/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.35/page11.jpg)
 
 - #### Panel 2
 
@@ -115,7 +115,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.35/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.35/page12.jpg)
 
 - #### Panel 3
 
@@ -123,7 +123,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.35/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.35/page13.jpg)
 
 - #### Panel 2
 
@@ -135,7 +135,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.35/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.35/page14.jpg)
 
 - #### Panel 3
 
@@ -143,7 +143,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.35/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.35/page18.jpg)
 
 - #### Panel 2
 
@@ -151,7 +151,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.35/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.35/page19.jpg)
 
 - George attempts to play Wanda in the Game of You, but Wanda refuses.
 
@@ -161,7 +161,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.35/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.35/page21.jpg)
 
 - #### Panel 6
 
@@ -169,7 +169,7 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.35/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.35/page24.jpg)
 
 - #### Panel 3
 

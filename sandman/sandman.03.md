@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.03/page00.jpg)
+> [marginThumb] ![cover for issue 03](thumbnails/sandman.03/page00.jpg)
 
 ## Issue 3: "Dream a Little Dream of Me"
 
@@ -12,13 +12,13 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.03/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.03/page01.jpg)
 
 - This woman will be identified later. This is her first known appearance.
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.03/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.03/page02.jpg)
 
 - #### Panel 3
 
@@ -30,7 +30,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.03/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.03/page03.jpg)
 
 - #### Panel 1
 
@@ -46,7 +46,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.03/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.03/page04.jpg)
 
 - #### Panel 2
 
@@ -62,7 +62,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.03/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.03/page05.jpg)
 
 - #### Panel 1
 
@@ -74,7 +74,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.03/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.03/page06.jpg)
 
 - #### Panel 2
 
@@ -82,7 +82,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.03/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.03/page07.jpg)
 
 - #### Panel 3
 
@@ -90,7 +90,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.03/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.03/page08.jpg)
 
 - #### Panel 1
 
@@ -112,7 +112,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.03/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.03/page09.jpg)
 
 - #### Panel 5
 
@@ -128,7 +128,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.03/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.03/page10.jpg)
 
 - #### Panel 3
 
@@ -136,7 +136,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.03/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.03/page11.jpg)
 
 - #### Panel 1
 
@@ -162,7 +162,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.03/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.03/page13.jpg)
 
 - #### Panel 1
 
@@ -174,7 +174,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.03/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.03/page14.jpg)
 
 - #### Panel 6
 
@@ -182,7 +182,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.03/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.03/page16.jpg)
 
 - #### Panel 3
 
@@ -190,7 +190,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.03/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.03/page20.jpg)
 
 - #### Panel 4
 
@@ -198,7 +198,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.03/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.03/page21.jpg)
 
 - #### Panel 1
 
@@ -206,7 +206,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.03/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.03/page23.jpg)
 
 - #### Panel 6
 
@@ -214,7 +214,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.03/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.03/page24.jpg)
 
 - #### Panel 5
 
@@ -227,8 +227,7 @@ Third story reprinted in _Preludes and Nocturnes_
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
-- Connie Hirsch <fuzzy@athena.mit.edu> (Pinkdex - TNG) identified the title song. William Sherman <sherman@oak.math.ucla.edu> identified the different lyrics to it. Connie and William, along with Steve Simmons
-- <scs@lokkur.dexter.mi.us>, <watts@Csa1.LBL.Gov>, and my parents, Denis and Carolyn Morrow, argued about who sang "Mister Sandman." Connie and James Drew \* <jrd@frame.com> identified Patsy Cline's "Sweet Dreams." Connie, Rob Ingram <rji@nyquist.cs.nott.ac.uk>, and <watts@Csa1.LBL.Gov> identified the songs on page 8. Connie identified the song on page 11. Connie, William, and Andrew David Weiland <aw1s+@andrew.cmu.edu> identified that there was a quote on page 21, and where it was from. Terry Dawson <terry@edsi.plexus.COM> definitively identified the source for "Dream a Little Dream of Me" and "Mister Sandman" using _The Big Song Thesaurus_, 2d. ed.
+- Connie Hirsch <fuzzy@athena.mit.edu> (Pinkdex - TNG) identified the title song. William Sherman <sherman@oak.math.ucla.edu> identified the different lyrics to it. Connie and William, along with Steve Simmons <scs@lokkur.dexter.mi.us>, <watts@Csa1.LBL.Gov>, and my parents, Denis and Carolyn Morrow, argued about who sang "Mister Sandman." Connie and James Drew <jrd@frame.com> identified Patsy Cline's "Sweet Dreams." Connie, Rob Ingram <rji@nyquist.cs.nott.ac.uk>, and <watts@Csa1.LBL.Gov> identified the songs on page 8. Connie identified the song on page 11. Connie, William, and Andrew David Weiland <aw1s+@andrew.cmu.edu> identified that there was a quote on page 21, and where it was from. Terry Dawson <terry@edsi.plexus.COM> definitively identified the source for "Dream a Little Dream of Me" and "Mister Sandman" using _The Big Song Thesaurus_, 2d. ed.
 - Jeffrey Porten <porten@eniac.seas.upenn.edu> and Connie had things to say about the burglar's dream.
 - Chris Jarocha-Ernst <cje@heart.rutgers.edu> speculated on "The Lupus Affair."
 - Steve Murray <SXM101@psuvm.psu.edu> speculated on Constantine's not opening the pouch.

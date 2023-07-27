@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.38/page00.jpg)
+> [marginThumb] ![cover for issue 38](thumbnails/sandman.38/page00.jpg)
 
 ## Issue 38: "The Hunt"
 
@@ -14,7 +14,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.38/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.38/page01.jpg)
 
 - #### Panel 1
 
@@ -44,13 +44,13 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.38/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.38/page02.jpg)
 
 **Real forests, true bears, true wolves**: Akin to Platonic forms, the creatures and places in stories are the true essence of the creature or place, without the rounded-off corners or the compromises required of things that exist. A wolf such as you might meet is hardly more than a dog who has not forgotten how to hunt; a wolf such as you might hear about is a shaggy beast, born to the hunt, little more than hunger and fangs and burning eyes, a creature who might someday hunt you.
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.38/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.38/page03.jpg)
 
 - #### Panel 1
 
@@ -66,7 +66,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.38/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.38/page04.jpg)
 
 - #### Panel 1
 
@@ -88,7 +88,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.38/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.38/page05.jpg)
 
 - #### Panel 2
 
@@ -104,7 +104,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.38/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.38/page06.jpg)
 
 - #### Panel 3
 
@@ -120,7 +120,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.38/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.38/page07.jpg)
 
 - #### Panel 5-6
 
@@ -134,7 +134,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.38/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.38/page08.jpg)
 
 - #### Panel 1-2
 
@@ -150,7 +150,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.38/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.38/page09.jpg)
 
 - #### Panel 1-3
 
@@ -166,7 +166,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.38/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.38/page10.jpg)
 
 - #### Panel 1
 
@@ -182,7 +182,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.38/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.38/page11.jpg)
 
 - #### Panel 3-5
 
@@ -196,7 +196,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.38/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.38/page13.jpg)
 
 - #### Panel 5
 
@@ -204,7 +204,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.38/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.38/page14.jpg)
 
 - #### Panel 7
 
@@ -212,13 +212,13 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.38/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.38/page15.jpg)
 
 - Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives in a hut which has chicken legs, and flies across the night sky in a mortar which she drives with a pestle. She is a great sorceress and, generally, evil. Baba Yaga, or a facsimile thereof, appears in _Books of Magic_, Book III.
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.38/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.38/page17.jpg)
 
 - #### Panel 2
 
@@ -234,7 +234,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.38/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.38/page18.jpg)
 
 - #### Panel 4
 
@@ -246,7 +246,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.38/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.38/page19.jpg)
 
 - #### Panel 2
 
@@ -268,7 +268,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.38/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.38/page20.jpg)
 
 - #### Panel 7
 
@@ -276,7 +276,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.38/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.38/page21.jpg)
 
 - #### Panel 3
 
@@ -288,7 +288,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.38/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.38/page22.jpg)
 
 - #### Panel 1
 
@@ -300,7 +300,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.38/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.38/page23.jpg)
 
 - #### Panel 2
 
@@ -316,7 +316,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.38/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.38/page24.jpg)
 
 - #### Panel 2
 

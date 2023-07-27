@@ -269,8 +269,8 @@
     "claris",
     "Cleef",
     "Cloverdale",
-    "cluracan",
     "Cluracan",
+    "Clúracán",
     "coathanger",
     "Cogsworth",
     "Colan",
@@ -1497,7 +1497,11 @@
     "Zulli",
     "Zwanger"
   ],
-  "ignoreWords": ["ABAAABAB"],
+  "ignoreWords": [
+    "ABAAABAB"
+  ],
   "import": [],
-  "files": ["sandman/*.md"]
+  "files": [
+    "sandman/*.md"
+  ]
 }

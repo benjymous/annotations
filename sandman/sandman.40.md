@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.40/page00.jpg)
+> [marginThumb] ![cover for issue 40](thumbnails/sandman.40/page00.jpg)
 
 ## Issue 40: "The Parliament of Rooks"
 
@@ -18,7 +18,7 @@ Last year he had Jill do him a sketch of Death, and then he sent a copy of it to
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.40/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.40/page01.jpg)
 
 - #### Panel 1
 
@@ -32,7 +32,7 @@ Last year he had Jill do him a sketch of Death, and then he sent a copy of it to
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.40/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.40/page02.jpg)
 
 - It may be worth noting that Lyta is still acting as a storyteller here, and that Daniel doesn't go to sleep till after she's been telling stories for a while.
 
@@ -50,7 +50,7 @@ Last year he had Jill do him a sketch of Death, and then he sent a copy of it to
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.40/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.40/page03.jpg)
 
 - #### Panel 1
 
@@ -66,7 +66,7 @@ Last year he had Jill do him a sketch of Death, and then he sent a copy of it to
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.40/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.40/page04.jpg)
 
 - #### Panel 1
 
@@ -80,7 +80,7 @@ Last year he had Jill do him a sketch of Death, and then he sent a copy of it to
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.40/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.40/page05.jpg)
 
 - #### Panel 2
 
@@ -92,7 +92,7 @@ Last year he had Jill do him a sketch of Death, and then he sent a copy of it to
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.40/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.40/page06.jpg)
 
 - #### Panel 1
 
@@ -104,7 +104,7 @@ Last year he had Jill do him a sketch of Death, and then he sent a copy of it to
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.40/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.40/page07.jpg)
 
 - #### Panel 1-3
 
@@ -136,7 +136,7 @@ Last year he had Jill do him a sketch of Death, and then he sent a copy of it to
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.40/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.40/page08.jpg)
 
 - #### Panel 2
 
@@ -144,7 +144,7 @@ Last year he had Jill do him a sketch of Death, and then he sent a copy of it to
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.40/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.40/page09.jpg)
 
 - #### Panel 4
 
@@ -164,7 +164,7 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.40/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.40/page12.jpg)
 
 - #### Panel 3
 
@@ -180,7 +180,7 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.40/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.40/page13.jpg)
 
 - #### Panel 3
 
@@ -188,7 +188,7 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.40/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.40/page15.jpg)
 
 - #### Panel 1
 
@@ -196,7 +196,7 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.40/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.40/page16.jpg)
 
 - #### Panel 3
 
@@ -206,7 +206,7 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.40/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.40/page17.jpg)
 
 - #### Panel 1
 
@@ -224,7 +224,7 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.40/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.40/page18.jpg)
 
 - #### Panel 4
 
@@ -240,7 +240,7 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.40/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.40/page19.jpg)
 
 - #### Panel 3
 
@@ -248,7 +248,7 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.40/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.40/page20.jpg)
 
 - #### Panel 1
 
@@ -260,7 +260,7 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.40/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.40/page21.jpg)
 
 - #### Panel 1
 
@@ -276,7 +276,7 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.40/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.40/page22.jpg)
 
 - #### Panel 4
 
@@ -290,7 +290,7 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.40/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.40/page23.jpg)
 
 - #### Panel 5-6
 
@@ -298,7 +298,7 @@ A two-page spread. Cain's information on rooks is accurate.
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.40/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.40/page24.jpg)
 
 - #### Panel 1
 

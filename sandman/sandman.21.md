@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.21/page00.jpg)
+> [marginThumb] ![cover for issue 21](thumbnails/sandman.21/page00.jpg)
 
 ## Issue 21: "Season of Mists: a prologue"
 
@@ -12,7 +12,7 @@
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.21/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.21/page01.jpg)
 
 - #### Panel 1
 
@@ -44,7 +44,7 @@
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.21/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.21/page02.jpg)
 
 - #### Panel 2f
 
@@ -60,7 +60,7 @@
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.21/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.21/page03.jpg)
 
 - #### Panel 2-3
 
@@ -68,13 +68,13 @@
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.21/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.21/page04.jpg)
 
 - Destiny's hall would appear to be drawn from reference. Can anyone ID it?
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.21/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.21/page05.jpg)
 
 - #### Panel 1
 
@@ -90,7 +90,7 @@
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.21/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.21/page06.jpg)
 
 - #### Panel 1
 
@@ -102,7 +102,7 @@
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.21/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.21/page07.jpg)
 
 - #### Panel 1-2
 
@@ -139,7 +139,7 @@
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.21/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.21/page08.jpg)
 
 - #### Panel 4
 
@@ -147,7 +147,7 @@
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.21/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.21/page09.jpg)
 
 - #### Panel 1
 
@@ -155,7 +155,7 @@
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.21/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.21/page10.jpg)
 
 - #### Panel 2
 
@@ -167,7 +167,7 @@
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.21/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.21/page13.jpg)
 
 - #### Panel 3
 
@@ -179,7 +179,7 @@
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.21/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.21/page14.jpg)
 
 - #### Panel 1
 
@@ -187,7 +187,7 @@
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.21/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.21/page16.jpg)
 
 - #### Panel 3
 
@@ -195,7 +195,7 @@
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.21/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.21/page17.jpg)
 
 - #### Panel 6
 
@@ -207,7 +207,7 @@
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.21/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.21/page18.jpg)
 
 - #### Panel 2
 
@@ -223,7 +223,7 @@
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.21/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.21/page19.jpg)
 
 - #### Panel 6
 
@@ -231,7 +231,7 @@
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.21/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.21/page23.jpg)
 
 - #### Panel 1
 

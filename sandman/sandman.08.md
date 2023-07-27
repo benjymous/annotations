@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.08/page00.jpg)
+> [marginThumb] ![cover for issue 08](thumbnails/sandman.08/page00.jpg)
 
 ## Issue 8: "The Sound of Her Wings"
 
@@ -48,7 +48,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.08/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.08/page01.jpg)
 
 - #### Panel 1
 
@@ -72,7 +72,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.08/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.08/page03.jpg)
 
 - #### Panel 6
 
@@ -81,15 +81,19 @@ First story reprinted in _The Doll's House_
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.08/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.08/page04.jpg)
 
 - #### Panel 6
 
-  **"Mary Poppins"** was a Disney film of the 60s which mixed live action and animation in an unprecedented manner. Death's description of the movie is accurate.
+  **"Mary Poppins"** was a Disney film of the 60s which mixed live action and animation in an unprecedented manner. Death's description of the movie is accurate, although she gets the quoted line wrong:
+
+  > **Michael:** [about his tuppence] I want it to feed the birds.
+  >
+  > **Mr. Dawes Sr:** Fiddlesticks, boy. Feed the birds and what have you got? Fat birds.
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.08/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.08/page05.jpg)
 
 - #### Panel 2
 
@@ -101,7 +105,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.08/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.08/page06.jpg)
 
 - #### Panel 2
 
@@ -109,7 +113,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.08/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.08/page07.jpg)
 
 - #### Panel 2
 
@@ -121,7 +125,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.08/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.08/page09.jpg)
 
 - #### Panel 4
 
@@ -129,7 +133,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.08/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.08/page10.jpg)
 
 - #### Panel 1
 
@@ -137,7 +141,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.08/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.08/page11.jpg)
 
 - #### Panel 3
 
@@ -145,7 +149,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.08/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.08/page12.jpg)
 
 - #### Panel 5
 
@@ -153,7 +157,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.08/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.08/page13.jpg)
 
 - #### Panel 1
 
@@ -165,7 +169,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.08/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.08/page14.jpg)
 
 - #### Panel 1-2
 
@@ -181,7 +185,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.08/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.08/page15.jpg)
 
 - #### Panel 1
 
@@ -189,7 +193,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.08/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.08/page16.jpg)
 
 - #### Panel 7
 
@@ -201,7 +205,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.08/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.08/page17.jpg)
 
 - #### Panel 2
 
@@ -217,7 +221,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.08/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.08/page18.jpg)
 
 - #### Panel 5
 
@@ -225,7 +229,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.08/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.08/page19.jpg)
 
 - #### Panel 1
 
@@ -237,7 +241,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.08/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.08/page19.jpg)
 
 - #### Panel 4; page 20 panel 1-2
 
@@ -247,7 +251,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.08/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.08/page21.jpg)
 
 - #### Panel 1
 
@@ -255,7 +259,7 @@ First story reprinted in _The Doll's House_
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.08/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.08/page24.jpg)
 
 - #### Panel 3
 
@@ -266,8 +270,7 @@ First story reprinted in _The Doll's House_
 - Originally collated and edited by Greg Morrow.
 - Peter Trei <ptrei@mitre.org> gave a long description of Washington Square Park. Tom White <twhite@mozart.amd.com>, "Nikki" <ngustas@hamp.hampshirt.edu>, and Connie Hirsch <fuzzy@athena.mit.edu> also helped in correcting my misidentification of that scene and the locale of the story. Jhemon Lee <jlee@nlm.nih.gov> spotted the inscription on the arch.
 - jasona@sco.COM added some stuff about Greek mythology.
-- Michael S. Schiffer <mss2@quads.uchicago.edu> was extremely helpful in
-  explicating the Jewish cultural elements. Connie Hirsch and William Sherman
+- Michael S. Schiffer <mss2@quads.uchicago.edu> was extremely helpful in explicating the Jewish cultural elements. Connie Hirsch and William Sherman
 - <sherman@oak.math.ucla.edu> also pointed out the negative connotation of "Yid".
 - Jacob Levy <ST802099@brownvm.brown.edu> differed, saying that "Yid" was not negative in context.
 - William Sherman also pointed out the identification of Death with the angel Uriel.
@@ -285,4 +288,4 @@ First story reprinted in _The Doll's House_
 - Timothy Tan aka TiTan <_> -M2001- <_> 083285@bud.cc.swin.edu.au
 - "Kai'Ckul" <oshinsky@webspan.net> wrote about Washington Square Park.
 - Ralf Hildebrandt added many more details.
-- Richard Munn added the note about Overture, and the possibility of the baby's mother being British.
+- Richard Munn corrected Death about pigeons, added the note about Overture, and the possibility of the baby's mother being British.

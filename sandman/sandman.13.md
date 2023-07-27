@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.13/page00.jpg)
+> [marginThumb] ![cover for issue 13](thumbnails/sandman.13/page00.jpg)
 
 ## Issue 13: "Men of Good Fortune"
 
@@ -20,7 +20,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.13/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.13/page01.jpg)
 
 - #### Panel 1
 
@@ -44,7 +44,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.13/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.13/page02.jpg)
 
 - #### Panel 2
 
@@ -64,7 +64,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.13/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.13/page03.jpg)
 
 - #### Panel 2
 
@@ -80,7 +80,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.13/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.13/page04.jpg)
 
 - #### Panel 7
 
@@ -94,7 +94,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.13/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.13/page05.jpg)
 
 - #### Panel 4
 
@@ -102,7 +102,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.13/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.13/page06.jpg)
 
 - #### Panel 1
 
@@ -114,7 +114,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.13/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.13/page07.jpg)
 
 - #### Panel 3
 
@@ -126,7 +126,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.13/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.13/page08.jpg)
 
 - #### Panel 2
 
@@ -138,7 +138,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.13/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.13/page09.jpg)
 
 - #### Panel 1
 
@@ -150,7 +150,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.13/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.13/page10.jpg)
 
 - #### Panel 1
 
@@ -174,7 +174,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.13/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.13/page11.jpg)
 
 - #### Panel 1
 
@@ -194,7 +194,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.13/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.13/page12.jpg)
 
 - #### Panel 1-2
 
@@ -206,7 +206,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.13/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.13/page13.jpg)
 
 - #### Panel 1
 
@@ -218,7 +218,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.13/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.13/page14.jpg)
 
 - #### Panel 1
 
@@ -230,7 +230,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.13/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.13/page15.jpg)
 
 - #### Panel 1
 
@@ -238,7 +238,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.13/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.13/page16.jpg)
 
 - #### Panel 1
 
@@ -246,7 +246,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.13/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.13/page17.jpg)
 
 - #### Panel 1
 
@@ -262,7 +262,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.13/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.13/page18.jpg)
 
 - #### Panel 1
 
@@ -272,7 +272,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.13/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.13/page19.jpg)
 
 - #### Panel 4
 
@@ -284,7 +284,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.13/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.13/page20.jpg)
 
 - #### Panel 4
 
@@ -300,7 +300,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.13/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.13/page21.jpg)
 
 - #### Panel 1
 
@@ -320,7 +320,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.13/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.13/page22.jpg)
 
 - #### Panel 2
 
@@ -336,7 +336,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.13/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.13/page23.jpg)
 
 - #### Panel 2
 
@@ -344,7 +344,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.13/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.13/page24.jpg)
 
 - #### Panel 1
 
@@ -359,7 +359,9 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 - Originally collated and edited by Greg Morrow.
 - Tom White <twhite@mozart.AMD.COM> gave the year of the Ripper murders (and misremembered the final date of the American Revolution!).
 - Ian Lance Taylor <ian@airs.com> identified Ball and Tyler, elucidated the conundrum of the two Popes, wrote about some of the French politics of 1389, and discussed English hunting rights.
+
   He also researched _The Canterbury Tales_ and _Piers Plowman_, and tried to find "Edmund". With Connie Hirsch <fuzzy@athena.mit.edu> and Jeffrey Porten <porten@eniac.seas.upenn.edu>, he identified flux. With Jeffrey and Viktor Haag <vehaag@crocus.waterloo.edu>, he investigated the Wandering Jew.
+
 - Michele Koch (private communication) undertook to translate "Edmund" into accurate fourteenth century Anglo-Norman.
 - Alex (Chaffee?) <chaffee@reed.edu> spotted Shakespeare's poetry. Ian and Alex explicated the torture _King Lear_ underwent.
 - Tom Galloway <tyg@caen.engin.umich.edu> added some historical information about "actresses" and Robert Kelly <rkelly@triton.unm.edu> chimed in with a typically sleazy remark :-)

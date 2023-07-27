@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.51/page00.jpg)
+> [marginThumb] ![cover for issue 51](thumbnails/sandman.51/page00.jpg)
 
 ## Issue 51: "A Tale of Two Cities"
 
@@ -10,7 +10,7 @@ First story in anthology, "Worlds' End"
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.51/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.51/page03.jpg)
 
 - #### Panel 8
 
@@ -18,7 +18,7 @@ First story in anthology, "Worlds' End"
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.51/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.51/page05.jpg)
 
 - #### Panel 4
 
@@ -26,7 +26,7 @@ First story in anthology, "Worlds' End"
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.51/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.51/page06.jpg)
 
 - #### Panel 5
 
@@ -40,7 +40,7 @@ First story in anthology, "Worlds' End"
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.51/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.51/page07.jpg)
 
 - #### Panel 3
 
@@ -48,7 +48,7 @@ First story in anthology, "Worlds' End"
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.51/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.51/page08.jpg)
 
 - #### Panel 1
 
@@ -62,7 +62,7 @@ First story in anthology, "Worlds' End"
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.51/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.51/page09.jpg)
 
 - #### Panel 4
 
@@ -80,7 +80,7 @@ First story in anthology, "Worlds' End"
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.51/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.51/page10.jpg)
 
 - #### Panels 1 & 5
 
@@ -88,7 +88,7 @@ First story in anthology, "Worlds' End"
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.51/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.51/page11.jpg)
 
 - #### Panel 3
 
@@ -100,7 +100,7 @@ First story in anthology, "Worlds' End"
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.51/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.51/page13.jpg)
 
 - #### Panel 3
 
@@ -108,7 +108,7 @@ First story in anthology, "Worlds' End"
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.51/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.51/page14.jpg)
 
 - #### Panel 3
 
@@ -116,7 +116,7 @@ First story in anthology, "Worlds' End"
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.51/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.51/page16.jpg)
 
 - #### Panel 3
 
@@ -124,7 +124,7 @@ First story in anthology, "Worlds' End"
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.51/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.51/page17.jpg)
 
 - #### Panel 5
 
@@ -132,7 +132,7 @@ First story in anthology, "Worlds' End"
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.51/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.51/page18.jpg)
 
 - #### Panel 1
 
@@ -140,7 +140,7 @@ First story in anthology, "Worlds' End"
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.51/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.51/page19.jpg)
 
 - #### Panel 1
 
@@ -150,7 +150,7 @@ First story in anthology, "Worlds' End"
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.51/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.51/page20.jpg)
 
 - #### Panel 7
 
@@ -158,19 +158,19 @@ First story in anthology, "Worlds' End"
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.51/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.51/page22.jpg)
 
 - Odd that whenever two real people meet, one of them immediately returns to the real city. Coincidence, perhaps.
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.51/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.51/page23.jpg)
 
 - Another inn, in which other tales are told; Gaheris' story turns out to be a story-within-a-story.
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.51/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.51/page24.jpg)
 
 - #### Panel 6
 

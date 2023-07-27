@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.45/page00.jpg)
+> [marginThumb] ![cover for issue 45](thumbnails/sandman.45/page00.jpg)
 
 ## Issue 45: Brief Lives Five
 
@@ -10,7 +10,7 @@
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.45/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.45/page01.jpg)
 
 - #### Panel 4
 
@@ -18,7 +18,7 @@
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.45/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.45/page02.jpg)
 
 - #### Panel 3
 
@@ -32,7 +32,7 @@
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.45/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.45/page05.jpg)
 
 - #### Panel 1
 
@@ -50,7 +50,7 @@
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.45/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.45/page06.jpg)
 
 - #### Panel 5
 
@@ -64,7 +64,7 @@
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.45/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.45/page07.jpg)
 
 - #### Panel 1-5
 
@@ -84,7 +84,7 @@
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.45/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.45/page08.jpg)
 
 - #### Panel 2
 
@@ -100,7 +100,7 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.45/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.45/page09.jpg)
 
 - #### Panel 1
 
@@ -118,7 +118,7 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.45/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.45/page10.jpg)
 
 - #### Panel 1
 
@@ -137,7 +137,7 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.45/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.45/page11.jpg)
 
 - #### Panel 1
 
@@ -146,7 +146,7 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.45/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.45/page12.jpg)
 
 - #### Panel 5-6
 
@@ -154,7 +154,7 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.45/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.45/page13.jpg)
 
 - #### Panel 6
 
@@ -166,7 +166,7 @@ Slang for something quickly and abruptly started and accomplished; originally re
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.45/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.45/page14.jpg)
 
 - #### Panel 1
 
@@ -174,7 +174,7 @@ Slang for something quickly and abruptly started and accomplished; originally re
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.45/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.45/page15.jpg)
 
 - #### Panel 6
 
@@ -182,7 +182,7 @@ Slang for something quickly and abruptly started and accomplished; originally re
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.45/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.45/page16.jpg)
 
 - #### Panel 6
 
@@ -194,7 +194,7 @@ Note the ironic change in meaning of "watches" from section 4.
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.45/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.45/page21.jpg)
 
 - #### Panel 3
 
@@ -202,7 +202,7 @@ Note the ironic change in meaning of "watches" from section 4.
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.45/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.45/page22.jpg)
 
 - #### Panel 4
 
@@ -210,7 +210,7 @@ Note the ironic change in meaning of "watches" from section 4.
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.45/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.45/page24.jpg)
 
 - #### Panel 2
 

@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.63/page00.jpg)
+> [marginThumb] ![cover for issue 63](thumbnails/sandman.63/page00.jpg)
 
 ## Issue 63: "The Kindly Ones: 7"
 
@@ -6,7 +6,7 @@
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.63/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.63/page01.jpg)
 
 - #### Panel 1
 
@@ -22,7 +22,7 @@
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.63/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.63/page03.jpg)
 
 - #### Panel 2
 
@@ -34,7 +34,7 @@
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.63/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.63/page05.jpg)
 
 - #### Panel 1
 
@@ -42,7 +42,7 @@
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.63/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.63/page07.jpg)
 
 - #### Panel 4
 
@@ -50,7 +50,7 @@
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.63/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.63/page10.jpg)
 
 - #### Panel 3
 
@@ -58,7 +58,7 @@
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.63/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.63/page11.jpg)
 
 - #### Panel 4
 
@@ -66,7 +66,7 @@
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.63/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.63/page13.jpg)
 
 - #### Panel 1
 
@@ -78,7 +78,7 @@
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.63/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.63/page15.jpg)
 
 - #### Panel 2
 
@@ -94,13 +94,13 @@
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.63/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.63/page17.jpg)
 
 - This page echoes Lyta's similar reflections in "The Doll's House" part 3 ([12:9](sandman.12.md#page-9)). Compare also [61:21](sandman.61.md#page-21).4.
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.63/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.63/page18.jpg)
 
 - The panel borders here are probably left white by mistake; logic suggests that they ought to be grey shading to black as they are on the next page.
 
@@ -110,13 +110,13 @@
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.63/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.63/page21.jpg)
 
 - The panel borders here are reminiscent of Celtic designs. As is probably clear, the Morrigan is an Irish war goddess, an aspect of the Three-in-One.
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.63/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.63/page22.jpg)
 
 - #### Panels 2-4:
 
@@ -124,7 +124,7 @@
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.63/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.63/page23.jpg)
 
 - #### Panel 4
 

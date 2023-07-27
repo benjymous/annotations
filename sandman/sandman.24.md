@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.24/page00.jpg)
+> [marginThumb] ![cover for issue 24](thumbnails/sandman.24/page00.jpg)
 
 ## Issue 24: "Season of Mists Chapter 3"
 
@@ -11,7 +11,7 @@
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.24/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.24/page01.jpg)
 
 - This is characterized as "the ninth century Norwegian idea of what a great palace should be". Kelley is cautioned to "Forget all the Kirbyish SF stuff." Colorist Steve Oliff is also cautioned to "get as far from the brightly coloured Kirby Asgard as you can here: This is the Asgard of the old Norse, a bitter dangerous place." (Jack Kirby was the original artist on Marvel's _The Mighty Thor_, and his unique style was most certainly not traditionally Norse.)
 
@@ -31,7 +31,7 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.24/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.24/page02.jpg)
 
 - #### Panel 2
 
@@ -39,7 +39,7 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.24/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.24/page04.jpg)
 
 - #### Panel 4
 
@@ -51,7 +51,7 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.24/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.24/page05.jpg)
 
 - #### Panel 1-2
 
@@ -63,7 +63,7 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.24/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.24/page06.jpg)
 
 - #### Panel 1
 
@@ -71,7 +71,7 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.24/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.24/page08.jpg)
 
 - #### Panel 1
 
@@ -87,13 +87,13 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.24/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.24/page09.jpg)
 
 - This is described in the script as Dream's private quarters, which we've never seen before.
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.24/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.24/page11.jpg)
 
 - Chaos and Order are two opposed sets of beings often seen before in DC comics. In one form or another, Dr. Fate is an agent or an actual Lord of Order, as is Amethyst. Hawk and Dove were the incarnations of Lords of Chaos and Order respectively. Generally, Order = Good and Chaos = Bad, though each writer writes Order and Chaos in different and incompatible ways. The major portion of the mythology of Order and Chaos was established by Martin Pasko in Dr. Fate, then completely abrogated by JM deMatteis. Barbara Kesel, Keith Giffen, Paul Kupperburg, William Messner-Loebs, and Grant Morrison have also contributed in comics.
 
@@ -103,7 +103,7 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.24/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.24/page12.jpg)
 
 - #### Panel 1
 
@@ -111,13 +111,13 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.24/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.24/page14.jpg)
 
 - The Silver City is new. It has also appeared in _The Books of Magic_ #1. My own personal feeling is that where the angels dwell is necessarily at least a part of Heaven, but this is not born out by the text. I doubt I need to explain what angels and Heaven are.... The scripts notes that all angels have the same face, and Gaiman suggests Jane Morris, who sat for many of the pre-Raphaelite painters; Barry Windsor-Smith's adaptation of _Red Nails_ used Morris as an inspiration for Valeria.
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.24/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.24/page15.jpg)
 
 - #### Panel 1
 
@@ -127,7 +127,7 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.24/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.24/page16.jpg)
 
 - #### Panel 1
 
@@ -139,7 +139,7 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.24/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.24/page17.jpg)
 
 - #### Panel 2
 
@@ -159,7 +159,7 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.24/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.24/page18.jpg)
 
 - #### Panel 1
 
@@ -183,7 +183,7 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.24/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.24/page19.jpg)
 
 - #### Panel 2
 
@@ -191,7 +191,7 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.24/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.24/page21.jpg)
 
 - #### Panel 2
 
@@ -201,7 +201,7 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.24/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.24/page22.jpg)
 
 - #### Panel 2
 
@@ -223,7 +223,7 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.24/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.24/page23.jpg)
 
 - #### Panel 1
 

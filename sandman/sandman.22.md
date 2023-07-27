@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.22/page00.jpg)
+> [marginThumb] ![cover for issue 22](thumbnails/sandman.22/page00.jpg)
 
 ## Issue 22: "Season of Mists Chapter 1"
 
@@ -24,7 +24,7 @@
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.22/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.22/page01.jpg)
 
 - #### Panel 1
 
@@ -40,7 +40,7 @@
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.22/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.22/page02.jpg)
 
 - #### Panel 1
 
@@ -58,7 +58,7 @@
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.22/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.22/page03.jpg)
 
 - #### Panel 2
 
@@ -70,19 +70,19 @@
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.22/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.22/page05.jpg)
 
 - This is a recap of [Sandman #9](sandman.09.md).
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.22/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.22/page06.jpg)
 
 - This is a recap of [Sandman #4](sandman.04.md).
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.22/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.22/page07.jpg)
 
 - #### Panel 1
 
@@ -94,7 +94,7 @@
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.22/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.22/page08.jpg)
 
 - #### Panel 3
 
@@ -118,7 +118,7 @@
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.22/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.22/page09.jpg)
 
 - #### Panel 1
 
@@ -126,7 +126,7 @@
 
 - #### Panel 3
 
-  The half-faced woman, who is named in the next issue, says "Shut up, scum. Speak when you are spoken to. Get down on your knees."
+  The half-faced woman, who is named in the next issue, says _"Shut up, scum. Speak when you are spoken to. Get down on your knees."_
 
 - #### Panel 6
 
@@ -134,11 +134,11 @@
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.22/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.22/page10.jpg)
 
 - #### Panel 4
 
-  "Eat his face..."
+  _"Eat his face..."_
 
 - #### Panel 6f
 
@@ -154,7 +154,7 @@
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.22/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.22/page11.jpg)
 
 - #### Panel 1-3
 
@@ -162,7 +162,7 @@
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.22/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.22/page12.jpg)
 
 - #### Panel 1-2
 
@@ -172,7 +172,7 @@
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.22/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.22/page14.jpg)
 
 - #### Panel 4
 
@@ -180,16 +180,17 @@
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.22/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.22/page15.jpg)
 
 - #### Panel 3
 
   The father's quote is from the movie _The Wizard of Oz_.
+
   Is there a reference for Cecilie Latour?
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.22/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.22/page16.jpg)
 
 - #### Panel 2
 
@@ -203,7 +204,7 @@
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.22/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.22/page18.jpg)
 
 - #### Panel 1
 
@@ -215,7 +216,7 @@
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.22/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.22/page19.jpg)
 
 - #### Panel 2
 
@@ -231,7 +232,7 @@
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.22/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.22/page20.jpg)
 
 - #### Panel 1
 
@@ -239,7 +240,7 @@
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.22/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.22/page21.jpg)
 
 - #### Panel 6
 
@@ -247,7 +248,7 @@
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.22/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.22/page22.jpg)
 
 - #### Panel 3
 

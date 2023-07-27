@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.17/page00.jpg)
+> [marginThumb] ![cover for issue 17](thumbnails/sandman.17/page00.jpg)
 
 ## Issue 17: "Calliope"
 
@@ -12,7 +12,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.17/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.17/page01.jpg)
 
 - #### Panel 1
 
@@ -28,11 +28,11 @@ First story reprinted in trade paperback _Dream Country_
 
   In the script, Gaiman describes the trichinobezoar as a "fossilized tribble covered in slime" and notes that a photo he had seen quite resembled what Jones had drawn. Jones notes later that he found a description in "Paracelsus Book". Paracelsus was a sixteenth century Swiss physician.
 
-  ![](images/Bezoar.jpg)
+  ![photograph of a bezoar](images/Bezoar.jpg)
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.17/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.17/page02.jpg)
 
 - #### Panel 1
 
@@ -40,7 +40,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.17/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.17/page03.jpg)
 
 - #### Panel 4
 
@@ -52,7 +52,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.17/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.17/page04.jpg)
 
 - #### Panel 3-4
 
@@ -62,7 +62,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.17/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.17/page05.jpg)
 
 - #### Panel 3
 
@@ -78,7 +78,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.17/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.17/page06.jpg)
 
 - According to the script, Kelley Jones drew Calliope emaciated, which editor Karen Berger thought was too extreme. Malcolm Jones inked her a little less skinny.
 
@@ -86,7 +86,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.17/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.17/page07.jpg)
 
 - #### Panel 4
 
@@ -94,7 +94,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.17/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.17/page08.jpg)
 
 - #### Panel 2
 
@@ -106,7 +106,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.17/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.17/page09.jpg)
 
 - #### Panel 1
 
@@ -134,7 +134,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.17/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.17/page10.jpg)
 
 - #### Panel 1
 
@@ -146,7 +146,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.17/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.17/page11.jpg)
 
 - #### Panel 3
 
@@ -182,7 +182,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.17/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.17/page12.jpg)
 
 - #### Panel 1
 
@@ -204,7 +204,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.17/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.17/page13.jpg)
 
 - #### Panel 4
 
@@ -220,7 +220,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.17/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.17/page14.jpg)
 
 - #### Panel 2
 
@@ -238,7 +238,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.17/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.17/page15.jpg)
 
 - #### Panel 2
 
@@ -249,11 +249,12 @@ First story reprinted in trade paperback _Dream Country_
   Gaiman notes that "Here Comes a Candle" was the title of his friend Pete Atkins' first published short story, although he did not know that at the time he wrote this. The phrase itself comes from a nursery rhyme:
 
   > "Here comes a candle to light you to bed
+
   > And here comes a chopper to chop off your head."
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.17/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.17/page17.jpg)
 
 - #### Panel 6
 
@@ -261,7 +262,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.17/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.17/page18.jpg)
 
 - #### Panel 6
 
@@ -273,7 +274,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.17/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.17/page19.jpg)
 
 - #### Panel 3
 
@@ -289,7 +290,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.17/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.17/page20.jpg)
 
 - #### Panel 1
 
@@ -299,7 +300,7 @@ First story reprinted in trade paperback _Dream Country_
 
   This is the same character as from the opening of the story.
 
-  "An old man... who owned the universe and kept it in a jam jar..." Odin gives Dream a "notional universe", contained in what appears to be a glass sphere, in the Season of Mists arc. [Insert exact reference here] Note the writing on the wall, apparently done in blood. The words "a PAN" can be made out in panel 2, and "WEASELS" appears in panel 3. Since one of Madoc's mutterings is about a "weasel on holiday" (page 19, panel 5), perhaps Madoc is making the writing.
+  "An old man... who owned the universe and kept it in a jam jar..." Odin gives Dream a "notional universe", contained in what appears to be a glass sphere, in the Season of Mists arc. ([Sandman #26 page 14-15](sandman.26.md#page-15)) Note the writing on the wall, apparently done in blood. The words _"a PAN"_ can be made out in panel 2, and _"WEASELS"_ appears in panel 3. Since one of Madoc's mutterings is about a _"weasel on holiday"_ (page 19, panel 5), perhaps Madoc is making the writing.
 
 - #### Panel 3
 
@@ -311,7 +312,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.17/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.17/page21.jpg)
 
 - #### Panel 6
 
@@ -325,7 +326,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.17/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.17/page22.jpg)
 
 - #### Panel 4
 
@@ -333,7 +334,7 @@ First story reprinted in trade paperback _Dream Country_
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.17/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.17/page23.jpg)
 
 - #### Panel 1
 

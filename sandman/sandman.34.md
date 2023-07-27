@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.34/page00.jpg)
+> [marginThumb] ![cover for issue 34](thumbnails/sandman.34/page00.jpg)
 
 ## Issue 34: "Bad Moon Rising"
 
@@ -14,7 +14,7 @@ Third part of storyline _A Game of You_
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.34/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.34/page01.jpg)
 
 - #### Panel 2
 
@@ -22,7 +22,7 @@ Third part of storyline _A Game of You_
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.34/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.34/page02.jpg)
 
 - #### Panel 5
 
@@ -30,7 +30,7 @@ Third part of storyline _A Game of You_
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.34/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.34/page04.jpg)
 
 - #### Panel 6
 
@@ -38,7 +38,7 @@ Third part of storyline _A Game of You_
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.34/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.34/page05.jpg)
 
 - #### Panel 5
 
@@ -48,7 +48,7 @@ Third part of storyline _A Game of You_
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.34/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.34/page06.jpg)
 
 - #### Panel 2
 
@@ -56,7 +56,7 @@ Third part of storyline _A Game of You_
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.34/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.34/page07.jpg)
 
 - #### Panel 6
 
@@ -64,7 +64,7 @@ Third part of storyline _A Game of You_
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.34/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.34/page10.jpg)
 
 - #### Panel 4, 6-8
 
@@ -72,7 +72,7 @@ Third part of storyline _A Game of You_
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.34/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.34/page11.jpg)
 
 - #### Panel 3
 
@@ -80,7 +80,7 @@ Third part of storyline _A Game of You_
 
 ### Page 12-13
 
-> [marginThumb] ![](thumbnails/sandman.34/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.34/page12.jpg)
 
 - Thessaly's flaying of George's face is taken directly from the practices of Greek witches, as reported by the third century AD Latin writer Apuleius, in "The Golden Ass". It is extremely significant that Mount Thessaly in Greece was a center of activity of these witches. The practice may have its roots in Sumeria and Babylonia, whose inhabitants wore the faces of their dead enemies, in accordance with the traditions of sympathetic magic.
 
@@ -88,7 +88,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.34/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.34/page14.jpg)
 
 - #### Panel 3
 
@@ -96,7 +96,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.34/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.34/page15.jpg)
 
 - #### Panel 1
 
@@ -114,7 +114,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.34/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.34/page16.jpg)
 
 - #### Panel 9
 
@@ -122,7 +122,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.34/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.34/page17.jpg)
 
 - #### Panel 6
 
@@ -134,7 +134,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.34/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.34/page18.jpg)
 
 - #### Panel 3
 
@@ -154,7 +154,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.34/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.34/page19.jpg)
 
 - #### Panel 1
 
@@ -162,7 +162,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.34/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.34/page21.jpg)
 
 - #### Panel 1
 
@@ -170,7 +170,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.34/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.34/page22.jpg)
 
 - #### Panel 4
 
@@ -178,7 +178,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.34/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.34/page23.jpg)
 
 - #### Panel 1-3
 
@@ -194,7 +194,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.34/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.34/page24.jpg)
 
 - #### Panel 2
 

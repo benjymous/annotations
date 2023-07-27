@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.75/page00.jpg)
+> [marginThumb] ![cover for issue 75](thumbnails/sandman.75/page00.jpg)
 
 ## Issue 75: "The Tempest"
 
@@ -8,7 +8,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.75/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.75/page01.jpg)
 
 - #### Panel 1
 
@@ -16,7 +16,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.75/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.75/page05.jpg)
 
 - #### Panel 2, 4
 
@@ -28,7 +28,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.75/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.75/page06.jpg)
 
 - #### Panel 1
 
@@ -38,7 +38,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.75/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.75/page07.jpg)
 
 - #### Panel 1
 
@@ -50,7 +50,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.75/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.75/page09.jpg)
 
 - #### Panel 6
 
@@ -60,7 +60,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.75/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.75/page10.jpg)
 
 - #### Panel 4-7
 
@@ -68,7 +68,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.75/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.75/page11.jpg)
 
 - #### Panel 1
 
@@ -82,7 +82,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.75/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.75/page13.jpg)
 
 - #### Panel 3
 
@@ -90,7 +90,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.75/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.75/page14.jpg)
 
 - #### Panel 4
 
@@ -102,7 +102,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.75/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.75/page15.jpg)
 
 - #### Panel 2
 
@@ -114,7 +114,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.75/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.75/page16.jpg)
 
 - #### Panel 3
 
@@ -122,7 +122,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.75/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.75/page17.jpg)
 
 - #### Panel 1
 
@@ -134,7 +134,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.75/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.75/page19.jpg)
 
 - #### Panel 1-3
 
@@ -148,7 +148,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.75/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.75/page20.jpg)
 
 - #### Panel 2
 
@@ -160,7 +160,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.75/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.75/page21.jpg)
 
 - #### Panel 4
 
@@ -168,7 +168,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.75/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.75/page22.jpg)
 
 - #### Panel 3-4
 
@@ -176,19 +176,19 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.75/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.75/page23.jpg)
 
 - Act 2 Scene 2 line 25
 
 ### Page 26-28
 
-> [marginThumb] ![](thumbnails/sandman.75/page26.jpg)
+> [marginThumb] ![page 26](thumbnails/sandman.75/page26.jpg)
 
 - Act 4 Scene 1
 
 ### Page 31
 
-> [marginThumb] ![](thumbnails/sandman.75/page31.jpg)
+> [marginThumb] ![page 31](thumbnails/sandman.75/page31.jpg)
 
 - #### Panel 3
 
@@ -196,7 +196,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 32
 
-> [marginThumb] ![](thumbnails/sandman.75/page32.jpg)
+> [marginThumb] ![page 32](thumbnails/sandman.75/page32.jpg)
 
 - #### Panel 5
 
@@ -204,13 +204,13 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 34
 
-> [marginThumb] ![](thumbnails/sandman.75/page34.jpg)
+> [marginThumb] ![page 34](thumbnails/sandman.75/page34.jpg)
 
 - This page is supposed to mirror Hamnet's monologue from [#19](sandman.19.md#page-13):13
 
 ### Page 35
 
-> [marginThumb] ![](thumbnails/sandman.75/page35.jpg)
+> [marginThumb] ![page 35](thumbnails/sandman.75/page35.jpg)
 
 - #### Panel 3
 
@@ -218,7 +218,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 ### Page 38
 
-> [marginThumb] ![](thumbnails/sandman.75/page38.jpg)
+> [marginThumb] ![page 38](thumbnails/sandman.75/page38.jpg)
 
 - #### Panels 1-8
 

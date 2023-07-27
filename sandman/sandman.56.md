@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.56/page00.jpg)
+> [marginThumb] ![cover for issue 56](thumbnails/sandman.56/page00.jpg)
 
 ## Issue 56: "Worlds' End"
 
@@ -12,7 +12,7 @@ Sixth and last story in anthology "Worlds' End"
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.56/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.56/page03.jpg)
 
 - #### Panel 5
 
@@ -20,7 +20,7 @@ Sixth and last story in anthology "Worlds' End"
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.56/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.56/page04.jpg)
 
 - #### Panel 4
 
@@ -37,7 +37,7 @@ Sixth and last story in anthology "Worlds' End"
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.56/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.56/page08.jpg)
 
 - #### Panel 7
 
@@ -45,7 +45,7 @@ Sixth and last story in anthology "Worlds' End"
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.56/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.56/page09.jpg)
 
 - #### Panel 4
 
@@ -53,37 +53,37 @@ Sixth and last story in anthology "Worlds' End"
 
 ### Page 10-11
 
-> [marginThumb] ![](thumbnails/sandman.56/page10-11.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.56/page10.jpg)
 
 The song is part of the Gaiman-written "Generic Folk Song".
 
 ### Page 12-13
 
-> [marginThumb] ![](thumbnails/sandman.56/page12-13.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.56/page12.jpg)
 
 OK, time to play "name the characters". This one is Destiny, of course.
 
 ### Pages 14-15:
 
-> [marginThumb] ![](thumbnails/sandman.56/page14-15.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.56/page14.jpg)
 
 The man with the flag, judging by his coat and vest, is Lucien. Some netters have speculated that the first pallbearer is Desire (who otherwise is noticeably absent from the proceedings), and the second (with red hair) is Loki. The big question is who is in the coffin. Opinions vary, but the most popular guess is Dream, with Orpheus a distant second.
 
 ### Pages 16-17
 
-> [marginThumb] ![](thumbnails/sandman.56/page16-17.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.56/page16.jpg)
 
 Going roughly from left to right: Nuala, Abel, Mervyn Pumpkinhead, Cain, Luz, Wilkinson, Queen Titania, Matthew the raven, Bast, Despair, an angel (perhaps Remiel), Odin, Thor, Emperor Norton, probably Gregory the Gargoyle, Gilbert/Fiddler's Green, and Martin Tenbones.
 
 ### Page 18-19
 
-> [marginThumb] ![](thumbnails/sandman.56/page18-19.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.56/page18.jpg)
 
 Finally, Delirium and Death. In the introduction to the "Death Gallery", Gaiman relates a story from the Kabala, that the Angel of Death collects souls through love: when you see it(/him/her) you fall in love so quickly that your soul is drawn out through your eyes.
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.56/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.56/page22.jpg)
 
 - #### Panel 4
 
@@ -91,7 +91,7 @@ Finally, Delirium and Death. In the introduction to the "Death Gallery", Gaiman 
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.56/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.56/page23.jpg)
 
 - #### Panel 7
 

@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.15/page00.jpg)
+> [marginThumb] ![cover for issue 15](thumbnails/sandman.15/page00.jpg)
 
 ## Issue 15: "Into the Night"
 
@@ -10,7 +10,7 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.15/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.15/page01.jpg)
 
 - #### Panel 2
 
@@ -22,7 +22,7 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.15/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.15/page02.jpg)
 
 - #### Panel 1
 
@@ -34,7 +34,7 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.15/page04-05.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.15/page04.jpg)
 
 - This is Ken's dream, one of money. The top line reads "[typewriter symbols] Talking talking money boy ar[e you] listening 2 [to] me?" Below two small pictures, of a building and a man (possibly Ken's self image, or a father or boss figure), and also beside Ken's head, it reads "Mebbe [Maybe] 100 thou[sand dollars]". Then "Mebbe talk talking money boy got 2 handit 2 u boy" next to the man superimposed over a table of mutual funds values. Mutual funds are a type of investment. Then a picture of the man superimposed over a stock market listing, next to "Mebbee 100 thou/Mebbe more...." A stock market listing has the prices for stocks, which are pieces of paper representing partial ownership of a company. The buying and selling of stocks is important to Western-style economies. Then above a final picture of the man, we have "talking money boy ar u listening 2 me??"
 
@@ -48,37 +48,45 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 6-7
 
-> [marginThumb] ![](thumbnails/sandman.15/page06-07.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.15/page06.jpg)
 
 - Chantal's dream occupies the top half of the double-page spread, Zelda's the bottom. The illustration of the two sleeping implies that they are lovers. Their relationship was uncertain to the other residents of the house. Note that the original comic, a caption from Zelda's dream appears in the central panel, but is virtually obscured by a lace overlay on the art.
 
-- #### The caption reads
+- #### Zelda's first caption reads
 
-  > Mommy and Daddy told me to go away so here I am in the old bone orchard nobody understands me nobody cares nobody else userstands it the beauty of the lost necropolis is the Charnel charm,
+  > _Mommy and Daddy told me to go away so here I am in the old bone orchard nobody understands me nobody cares nobody else userstands it the beauty of the lost necropolis is the Charnel charm,_
 
 - #### The second caption
 
-  > oh but chantal comes along and shows me she's my soul sister me and her true gothic heroines secret brides of the faceless slaves of the forbidden house of the nameless night of the castle of dread desire
+  > _oh but chantal comes along and shows me she's my soul sister me and her true gothic heroines secret brides of the faceless slaves of the forbidden house of the nameless night of the castle of dread desire_
 
 - #### Chantal panel 1
 
-  Chantal's self-image is flat, all solid colors and lines, a sophisticated-looking lady. The style resembles artist Patrick Nagel. The caption reads: "Chantal is having a relationship with a sentence. Just one of those things. A chance meeting that grew into something important for both of them."
+  Chantal's self-image is flat, all solid colors and lines, a sophisticated-looking lady. The style resembles artist Patrick Nagel.
+
+  The caption reads:
+
+  > _"Chantal is having a relationship with a sentence. Just one of those things. A chance meeting that grew into something important for both of them."_
 
 - #### Panel 2
 
-  "They like the same things. She took it to a party. They were a big hit. The perfect couple."
+  > _"They like the same things. She took it to a party. They were a big hit. The perfect couple."_
 
 - #### Panel 3
 
-  "Everybody knows about her and the sentence."
+  > _"Everybody knows about her and the sentence."_
 
 - #### Panel 4
 
-  "The sentence spent most of last year in Czechoslovakian for political reasons. But it was recently translated back into English. In order to stop the sentence being deported, Chantal has arranged to have it read into the Library of Congress. However--" There are two languages in Czechoslovakia, Czech and Slovak. There is no Czechoslovakian. But this is a dream.
+  > _"The sentence spent most of last year in Czechoslovakian for political reasons. But it was recently translated back into English. In order to stop the sentence being deported, Chantal has arranged to have it read into the Library of Congress. However--"_
+
+  There were two languages in Czechoslovakia, Czech and Slovak. There is no Czechoslovakian. But this is a dream.
 
 - #### Panel 5
 
-  "...when the time comes she discovers that she can no longer read. She has no idea what the sentence is about. Despondent and joyless, Chantal begins to cry." The entire sequence reads like a bizarre parody of a real relationship.
+  _"...when the time comes she discovers that she can no longer read. She has no idea what the sentence is about. Despondent and joyless, Chantal begins to cry."_ The entire sequence reads like a bizarre parody of a real relationship.
+
+  It's worth noting that no one can read anything in a dream. That portion of the brain doesn't appear to function during REM sleep.
 
 - #### Zelda panel 1
 
@@ -90,15 +98,21 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 - #### Panel 3
 
-  What does the skull in the cupped hands mean? Above this panel, in the panel of Zelda and Chantal together, there are meant to be two captions. The two captions do not appear in the original comic publication, but were replaced in the trade paperback reprint. The first reads: With Melmoth we walk the corridors of Otranto
+  What does the skull in the cupped hands mean? Above this panel, in the panel of Zelda and Chantal together, there are meant to be two captions. The two captions do not appear in the original comic publication, but were replaced in the trade paperback reprint.
+
+- #### The first reads:
+
+  > _With Melmoth we walk the corridors of Otranto_
 
 - #### The second reads
 
-  > And Chantal says I'm going to take off my veil Zelda and Oh God I know it's going to be my mom saying Oh God Zee you're sick listen Robert do you know wht I found in her room your daughter's disGUSTing
+  > _And Chantal says I'm going to take off my veil Zelda and Oh God I know it's going to be my mom saying Oh God Zee you're sick listen Robert do you know wht I found in her room your daughter's disGUSTing_
 
 - #### Panel 4
 
-  I presume that the "Hey, li'l moron" speech is something Zelda's mother abused her with. Zelda doesn't speak; perhaps she stutters? "Godzilla": Godzilla is the star of a series of giant monster movies made cheaply in Japan. Probably here, Zelda's mom is teasing her: "Do you believe in God...zilla?" or Zelda's mind is forming unconscious connections: "Do you believe in God?" becomes "Do you believe in Godzilla?" It is also possible that "Godzilla" is a cruel twist on the name "Zelda," teasing other children might use.
+  I presume that the "Hey, li'l moron" speech is something Zelda's mother abused her with. Zelda doesn't speak; perhaps she stutters?
+
+  **"Godzilla"**: Godzilla is the star of a series of giant monster movies made cheaply in Japan. Probably here, Zelda's mom is teasing her: "Do you believe in God...zilla?" or Zelda's mind is forming unconscious connections: "Do you believe in God?" becomes "Do you believe in Godzilla?" It is also possible that "Godzilla" is a cruel twist on the name "Zelda," teasing other children might use.
 
 - #### Panel 5
 
@@ -106,7 +120,7 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.15/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.15/page08.jpg)
 
 - This is Hal's dream.
 
@@ -134,7 +148,7 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 9-10
 
-> [marginThumb] ![](thumbnails/sandman.15/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.15/page09.jpg)
 
 - #### Panel 6
 
@@ -146,7 +160,7 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.15/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.15/page11.jpg)
 
 - #### Panel 4
 
@@ -160,7 +174,7 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.15/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.15/page12.jpg)
 
 - #### Panel 1-3
 
@@ -172,13 +186,13 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.15/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.15/page13.jpg)
 
-- Zelda's and Chantal's dreams begin to intersect. Chantal's dream is a recursive story. The captions read "Not quite in nightmare, but far from comfortable, Chantal is held like a crashed computer in an infinitely regressive loop of story. It was a dark and stormy night. And the skipper said to the mate, 'Mate, tell me a story....' And this was the story he told:" The story from "it was a dark..." then repeats, then fragments. "It was a dark and stormy night" was referenced in an earlier issue. The recursive story comes from the book _Arm in Arm: A Collection of Stories, Riddles, and Echolalia_ by Remy Charlip.
+- Zelda's and Chantal's dreams begin to intersect. Chantal's dream is a recursive story. The captions read _"Not quite in nightmare, but far from comfortable, Chantal is held like a crashed computer in an infinitely regressive loop of story. It was a dark and stormy night. And the skipper said to the mate, 'Mate, tell me a story....' And this was the story he told:" The story from "it was a dark..."_ then repeats, then fragments. "It was a dark and stormy night" was referenced in an earlier issue. The recursive story comes from the book _Arm in Arm: A Collection of Stories, Riddles, and Echolalia_ by Remy Charlip.
 
 - #### Panel 3
 
-  Zelda's story. This is the beginning of M.R. James' short story "Lost Hearts", although it is slightly misquoted; it should read `1811' instead of `1911'. James is one of the most famous British writers of ghost stories. Another is titled "The Haunted Doll's House". It had been suggested earlier that Zelda's story was _Vanity Fair_ by William Makepeace Thackeray. This is now believed incorrect.
+  Zelda's story. This is the beginning of M.R. James' short story "Lost Hearts", although it is slightly misquoted; it should read '1811' instead of '1911'. James is one of the most famous British writers of ghost stories. Another is titled "The Haunted Doll's House". It had been suggested earlier that Zelda's story was _Vanity Fair_ by William Makepeace Thackeray. This is now believed incorrect.
 
 - #### Panel 4
 
@@ -186,7 +200,7 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.15/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.15/page14.jpg)
 
 - #### Panel 1-3
 
@@ -194,13 +208,13 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.15/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.15/page15.jpg)
 
 - The commentary on Barbara is important in the context of the later storyline. Hal is pictured walking on the Yellow Brick Road toward the paradise-symbol Emerald City, of the movie _The Wizard of Oz_.
 
 ### Page 16-17
 
-> [marginThumb] ![](thumbnails/sandman.15/page16-17.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.15/page16.jpg)
 
 - #### Panel 1
 
@@ -208,7 +222,7 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.15/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.15/page21.jpg)
 
 - #### Panel 2-3
 
@@ -216,7 +230,7 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.15/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.15/page22.jpg)
 
 - #### Panel 2
 
@@ -224,19 +238,21 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.15/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.15/page23.jpg)
 
 - #### Panel 8-9
 
   See issues of _Swamp Thing_ for what Matt Cable, who became the raven, did. Gilbert's quote is from Christopher Marlowe, _The Jew of Malta_ (c. 1589) IV.i.40:
 
-  > **Friar Barnadine:** Thou hast committed -<br> > **Barabus:** Fornication? But that was in another country: and besides, the wench is dead.
+  > **Friar Barnadine:** Thou hast committed -
+
+  > **Barabus:** Fornication? But that was in another country: and besides, the wench is dead.
 
   Note that we saw Kit Marlowe in [Sandman #13](sandman.13.md), in 1589, although there did not appear to be a reference to this work.
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.15/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.15/page24.jpg)
 
 - #### Panel 7
 
@@ -254,9 +270,8 @@ Eighth story reprinted in trade paperback _The Doll's House_
 - Subrata Kumar Sircar <sksircar@phoenix.Princeton.EDU>, Tom, and Andrew identified Gilbert's quote.
 - William Sherman <sherman@math.ucla.edu> identified "porpentine", identified Frank Morgan, totally lost track of page numbers, amd spotted the Emerald City.
 - Tanaqui C. "33 1/3% Delirium" Weaver noted the lace overlays, and suggests a meaning for Colonel Knowledge.
-  Peter Bruells <Peter.Bruells@arbi.informatik.uni-oldenburg.de> identified Zelda's story.
+- Peter Bruells <Peter.Bruells@arbi.informatik.uni-oldenburg.de> identified Zelda's story.
 - Michael Bowman <mbowman@andromeda.rutgers.edu> originally supplied the missing caption from page 6.
-- carlf@panix.com (Carl Fink)
-  > Re: issue 15, in the discussion of Chantal's dream, when she discovers that she can't read the sentence, it's worth noting that no one can read anything in a dream. That portion of the brain doesn't appear to function during REM sleep.
+- carlf@panix.com (Carl Fink) noted the near impossibility of reading in a dream.
 - Compuserve's Ben Sano 72401,2736 identified Chantal's recursive story, as relayed by Dave "Ed, the Anti-Dave" Stobbe <dave.stobbe@canrem.com>.
 - Ralf Hildebrandt added more details.

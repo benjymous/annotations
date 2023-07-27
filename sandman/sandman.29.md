@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.29/page00.jpg)
+> [marginThumb] ![cover for issue 29](thumbnails/sandman.29/page00.jpg)
 
 ## Issue 29 : "Thermidor"
 
@@ -12,7 +12,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.29/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.29/page01.jpg)
 
 - #### Panel 1
 
@@ -30,7 +30,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.29/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.29/page02.jpg)
 
 - #### Panel 1
 
@@ -46,7 +46,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.29/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.29/page03.jpg)
 
 - #### Panel 3
 
@@ -58,7 +58,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.29/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.29/page04.jpg)
 
 - #### Panel 5
 
@@ -68,7 +68,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.29/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.29/page05.jpg)
 
 - #### Panel 4
 
@@ -80,7 +80,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.29/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.29/page06.jpg)
 
 - #### Panel 4
 
@@ -107,7 +107,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.29/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.29/page07.jpg)
 
 - #### Panel 1
 
@@ -115,7 +115,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.29/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.29/page08.jpg)
 
 - #### Panel 1
 
@@ -147,7 +147,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.29/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.29/page09.jpg)
 
 - #### Panel 5
 
@@ -159,7 +159,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.29/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.29/page10.jpg)
 
 - #### Panel 6
 
@@ -171,7 +171,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.29/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.29/page12.jpg)
 
 - #### Panel 1
 
@@ -187,7 +187,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.29/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.29/page13.jpg)
 
 - #### Panel 1
 
@@ -211,7 +211,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.29/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.29/page15.jpg)
 
 - #### Panel 1
 
@@ -219,7 +219,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.29/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.29/page16.jpg)
 
 - #### Panel 2
 
@@ -227,7 +227,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.29/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.29/page18.jpg)
 
 - #### Panel 2-5
 
@@ -235,7 +235,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.29/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.29/page19.jpg)
 
 - #### Panel 2
 
@@ -243,7 +243,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.29/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.29/page20.jpg)
 
 - #### Panel 1
 
@@ -255,7 +255,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.29/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.29/page21.jpg)
 
 - #### Panel 3
 
@@ -263,13 +263,13 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.29/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.29/page23.jpg)
 
 - On 9 Thermidor [1794], St. Just was interrupted after saying but a few words of his speech and fell silent under a torrent of verbal lashing. In the subsequent uproar, the anti-Robespierre conspirators made their move. The Committee ordered the arraignment of Robespierre, St. Just, and Couthon; the arrest of Dumas, President of the Revolutionary Tribunal; and the removal of Hanriot from command of the National Guard. The five were later released, only to be declared outlaws, their lives forfeit. Before dawn the next day, the Guardsmen came to take them again. St. Just yielded without resistance, but Robespierre either attempted suicide or was shot in the jaw by a soldier who later boasted of shooting the tyrant. The shattered jaw was papered, for there was no linen to staunch the wound; a surgeon later bandaged it and extracted two or three loose teeth. The bandage was indeed torn from his mouth just before his death under the guillotine.
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.29/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.29/page24.jpg)
 
 - #### Panel 1
 

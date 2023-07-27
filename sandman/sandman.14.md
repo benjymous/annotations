@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.14/page00.jpg)
+> [marginThumb] ![cover for issue 14](thumbnails/sandman.14/page00.jpg)
 
 ## Issue 14: "Collectors"
 
@@ -10,7 +10,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.14/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.14/page01.jpg)
 
 - We are back to the real storyline after last issue's side trip, in Dodge County, Georgia. The motel where the conference is held has a sign outside which says: "Cereal Convention", the pun being obvious.
 
@@ -20,7 +20,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.14/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.14/page02.jpg)
 
 - #### Panel 1
 
@@ -32,7 +32,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.14/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.14/page03.jpg)
 
 - #### Panel 1
 
@@ -50,7 +50,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.14/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.14/page04.jpg)
 
 - #### Panel 2
 
@@ -58,7 +58,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.14/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.14/page06.jpg)
 
 - #### Panel 3
 
@@ -70,7 +70,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.14/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.14/page07.jpg)
 
 - #### Panel 1
 
@@ -82,7 +82,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.14/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.14/page08.jpg)
 
 - #### Panel 6
 
@@ -90,7 +90,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.14/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.14/page09.jpg)
 
 - #### Panel 1
 
@@ -106,7 +106,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.14/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.14/page10.jpg)
 
 - #### Panel 4
 
@@ -114,13 +114,13 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.14/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.14/page11.jpg)
 
 - I cannot identify any of these pictures. I suspect that they include famous serial killers of the past.
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.14/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.14/page12.jpg)
 
 - #### Panel 1
 
@@ -132,7 +132,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.14/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.14/page14.jpg)
 
 - #### Panel 2
 
@@ -166,7 +166,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.14/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.14/page15.jpg)
 
 - #### Panel 1
 
@@ -178,7 +178,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.14/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.14/page16.jpg)
 
 - #### Panel 4
 
@@ -190,7 +190,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.14/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.14/page17.jpg)
 
 - #### Panel 4
 
@@ -198,7 +198,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.14/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.14/page18.jpg)
 
 - #### Panel 1
 
@@ -206,7 +206,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.14/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.14/page19.jpg)
 
 - #### Panel 7
 
@@ -224,7 +224,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.14/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.14/page21.jpg)
 
 - #### Panel 1
 
@@ -236,7 +236,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.14/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.14/page22.jpg)
 
 - #### Panel 1-3
 
@@ -256,7 +256,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.14/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.14/page23.jpg)
 
 - #### Panel 6-7
 
@@ -264,7 +264,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.14/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.14/page24.jpg)
 
 - #### Panel 3
 
@@ -272,7 +272,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 26
 
-> [marginThumb] ![](thumbnails/sandman.14/page26.jpg)
+> [marginThumb] ![page 26](thumbnails/sandman.14/page26.jpg)
 
 - #### Panel 2
 
@@ -296,7 +296,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 27
 
-> [marginThumb] ![](thumbnails/sandman.14/page27.jpg)
+> [marginThumb] ![page 27](thumbnails/sandman.14/page27.jpg)
 
 - #### middle top.
 
@@ -304,7 +304,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 28
 
-> [marginThumb] ![](thumbnails/sandman.14/page28.jpg)
+> [marginThumb] ![page 28](thumbnails/sandman.14/page28.jpg)
 
 - #### Panel 1
 
@@ -316,7 +316,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 29
 
-> [marginThumb] ![](thumbnails/sandman.14/page29.jpg)
+> [marginThumb] ![page 29](thumbnails/sandman.14/page29.jpg)
 
 - #### Panel 1
 
@@ -328,7 +328,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 31
 
-> [marginThumb] ![](thumbnails/sandman.14/page31.jpg)
+> [marginThumb] ![page 31](thumbnails/sandman.14/page31.jpg)
 
 - #### Panel 4
 
@@ -336,7 +336,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 32
 
-> [marginThumb] ![](thumbnails/sandman.14/page32.jpg)
+> [marginThumb] ![page 32](thumbnails/sandman.14/page32.jpg)
 
 - #### Panel 4-5
 
@@ -344,7 +344,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 34
 
-> [marginThumb] ![](thumbnails/sandman.14/page34.jpg)
+> [marginThumb] ![page 34](thumbnails/sandman.14/page34.jpg)
 
 - #### Panel 1
 
@@ -352,7 +352,7 @@ Seventh story reprinted in trade paperback _The Doll's House_
 
 ### Page 36
 
-> [marginThumb] ![](thumbnails/sandman.14/page36.jpg)
+> [marginThumb] ![page 36](thumbnails/sandman.14/page36.jpg)
 
 - #### Panel 6
 

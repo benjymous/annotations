@@ -1,3 +1,5 @@
+> [marginThumb] ![cover for issue 52](thumbnails/sandman.52/page00.jpg)
+
 ## Issue 52
 
 ##### Neil Gaiman, John Watkiss, Bryan Talbot, Mark Buckingham
@@ -8,7 +10,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.52/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.52/page01.jpg)
 
 - #### Panel 2
 
@@ -18,7 +20,9 @@ Second story in the anthology "Worlds' End"
 
 - #### Panel 3
 
-  **Quinsy**: suppurative tonsillitis. Derived from the Greek "kunanche"; as we will see in [issue 55](sandman.55.md), many of the names around Litharge seem to be Greek-derived. "Spartan quality goatskins": a reference to Trojans, a brand of condom.
+  **Quinsy**: suppurative tonsillitis. Derived from the Greek "kunanche"; as we will see in [issue 55](sandman.55.md), many of the names around Litharge seem to be Greek-derived.
+
+  **"Spartan quality goatskins"**: a reference to Trojans, a brand of condom.
 
 - #### Panel 4
 
@@ -34,7 +38,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.52/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.52/page02.jpg)
 
 - #### Panel 2
 
@@ -42,7 +46,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.52/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.52/page03.jpg)
 
 - #### Panel 1
 
@@ -54,7 +58,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.52/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.52/page04.jpg)
 
 - #### Panel 5
 
@@ -62,7 +66,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.52/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.52/page05.jpg)
 
 - #### Panel 1
 
@@ -78,7 +82,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.52/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.52/page07.jpg)
 
 - #### Panel 1
 
@@ -86,7 +90,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.52/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.52/page08.jpg)
 
 - #### Panel 4
 
@@ -94,7 +98,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.52/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.52/page11.jpg)
 
 - #### Panel 8
 
@@ -102,7 +106,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.52/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.52/page16.jpg)
 
 - #### Panel 5
 
@@ -110,7 +114,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.52/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.52/page17.jpg)
 
 - #### Panel 2
 
@@ -118,7 +122,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.52/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.52/page20.jpg)
 
 - #### Panel 6
 
@@ -126,7 +130,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.52/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.52/page24.jpg)
 
 - #### Panel 1
 
@@ -136,7 +140,7 @@ Second story in the anthology "Worlds' End"
 
 ### Page 25
 
-> [marginThumb] ![](thumbnails/sandman.52/page25.jpg)
+> [marginThumb] ![page 25](thumbnails/sandman.52/page25.jpg)
 
 - #### Panel 5
 
@@ -146,10 +150,8 @@ Second story in the anthology "Worlds' End"
 
 - Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman Annotations and forwarded much useful information regarding "Worlds' End".
 - Originally collated and edited by David Goldfarb.
-- Kieran Mullen (kieran@cmatter.physics.indiana.edu) searched out
-  references to "litharge" and "Klaproth" in the OED.
+- Kieran Mullen (kieran@cmatter.physics.indiana.edu) searched out references to "litharge" and "Klaproth" in the OED.
 - Lance "Squiddie" Smith (lsmith@cs.umn.edu) commented on the cover.
-- Abhijit Khale (Abhijit_Khale@transarc.com) identified Claw and
-  Stalker.
+- Abhijit Khale (Abhijit_Khale@transarc.com) identified Claw and Stalker.
 - Timothy Hock Seng Tan for Cluracan's bruised eye.
 - Ralf Hildebrandt added more details.

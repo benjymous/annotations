@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.10/page00.jpg)
+> [marginThumb] ![cover for issue 10](thumbnails/sandman.10/page00.jpg)
 
 ## Issue 10: "The Doll's House"
 
@@ -10,13 +10,13 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.10/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.10/page01.jpg)
 
 - We have learned in earlier issues that Desire is Dream's younger sibling. Despite the pronoun games in the fourth caption, Desire is consistently referred to by those who know it as "it". This is Desire's first known appearance. The "Doll's House" of the title refers to many buildings throughout this storyline, one of which is the Threshold.
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.10/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.10/page03.jpg)
 
 - #### Panel 1
 
@@ -24,7 +24,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.10/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.10/page04.jpg)
 
 - #### Panel 1-3
 
@@ -36,7 +36,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.10/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.10/page05.jpg)
 
 - #### Panel 2
 
@@ -60,7 +60,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.10/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.10/page06.jpg)
 
 - #### Panel 2
 
@@ -72,7 +72,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.10/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.10/page07.jpg)
 
 - #### Panel 4
 
@@ -84,7 +84,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.10/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.10/page09.jpg)
 
 - #### Panel 1-2
 
@@ -102,7 +102,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.10/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.10/page10.jpg)
 
 - #### Panel 5
 
@@ -110,7 +110,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 11-12
 
-> [marginThumb] ![](thumbnails/sandman.10/page11-12.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.10/page11.jpg)
 
 - #### Panel 4
 
@@ -118,7 +118,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.10/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.10/page13.jpg)
 
 - #### Panel 1
 
@@ -138,13 +138,13 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.10/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.10/page14.jpg)
 
 - Annulet is defined on the next page. Rose is the dream vortex. The inference from Lucien's remarks is that most vortices are objects, but that it is not unknown for them to be human.
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.10/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.10/page16.jpg)
 
 - #### Panel 1
 
@@ -160,7 +160,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.10/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.10/page17.jpg)
 
 - #### Panel 3
 
@@ -168,7 +168,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.10/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.10/page18.jpg)
 
 - #### Panel 2
 
@@ -176,7 +176,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.10/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.10/page19.jpg)
 
 - The Three-in-One Goddess. See [issue 2](sandman.02.md).
 
@@ -186,7 +186,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.10/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.10/page20.jpg)
 
 - #### Panel 2
 
@@ -198,7 +198,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.10/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.10/page21.jpg)
 
 - #### Panel 1
 
@@ -206,7 +206,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.10/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.10/page22.jpg)
 
 - #### Panel 5-6
 
@@ -214,7 +214,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.10/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.10/page23.jpg)
 
 - #### Panel 1
 
@@ -226,7 +226,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.10/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.10/page24.jpg)
 
 - The Corinthian, we learn, is a sick bastard, and is probably about to kill Davy. We are seeing the world through Corinthian's eyes, as he takes off his dark glasses (panel 5-7) we can see colors. So I think that we are lucky that the story is ending just here!
 
@@ -239,8 +239,7 @@ Third story reprinted in trade paperback _The Doll's House_
 - Matt Telles <mattel@auto-trol.com> failed to remember the Bottle Imp and Something Nasty in the Basement.
 - kieran <kieran@cmatter.physics.indiana.edu> ransacked the OED for Fiddler's Green and D. W. James <vnend@phoenix.Princeton.EDU> did the same for Corinthian.
 - Ian Taylor <ian@airs.com> identified the Fantastic Four issue.
-- Tanaqui C. Weaver <cen@vax.oxford.ac.uk> commented and forwarded some
-- Neil Gaiman comments on various Endless-related stuff, the Major Arcana, and the doll on page 10.
-- Piotr Kilanowski <peterpan@abordo.com.br>
-- Simon Cheesman
+- Tanaqui C. Weaver <cen@vax.oxford.ac.uk> commented and forwarded some Neil Gaiman comments on various Endless-related stuff, the Major Arcana, and the doll on page 10.
+- Piotr Kilanowski <peterpan@abordo.com.br>.
+- Simon Cheesman.
 - Ralf Hildebrandt added more details.

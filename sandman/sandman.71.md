@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.71/page00.jpg)
+> [marginThumb] ![cover for issue 71](thumbnails/sandman.71/page00.jpg)
 
 ## Issue 71: "In Which a Wake is Held"
 
@@ -6,7 +6,7 @@
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.71/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.71/page01.jpg)
 
 - #### Panel 3
 
@@ -18,7 +18,7 @@
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.71/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.71/page02.jpg)
 
 - #### Panel 1
 
@@ -30,7 +30,7 @@
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.71/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.71/page03.jpg)
 
 - #### Panel 1
 
@@ -42,7 +42,7 @@
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.71/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.71/page05.jpg)
 
 - #### Panel 1
 
@@ -50,7 +50,7 @@
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.71/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.71/page07.jpg)
 
 - #### Panel 3
 
@@ -58,7 +58,7 @@
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.71/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.71/page10.jpg)
 
 - #### Panel 1
 
@@ -66,7 +66,7 @@
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.71/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.71/page13.jpg)
 
 - #### Panel 1
 
@@ -78,7 +78,7 @@
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.71/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.71/page15.jpg)
 
 - #### Panel 5
 
@@ -86,7 +86,7 @@
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.71/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.71/page16.jpg)
 
 - #### Panel 6
 
@@ -94,7 +94,7 @@
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.71/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.71/page17.jpg)
 
 - #### Panel 3
 
@@ -102,7 +102,7 @@
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.71/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.71/page18.jpg)
 
 - #### Panel 4
 
@@ -110,7 +110,7 @@
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.71/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.71/page19.jpg)
 
 - #### Panel 3
 
@@ -122,7 +122,7 @@
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.71/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.71/page20.jpg)
 
 - #### Panel 1
 
@@ -130,7 +130,7 @@
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.71/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.71/page22.jpg)
 
 - #### Panel 1
 
@@ -150,7 +150,7 @@
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.71/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.71/page23.jpg)
 
 - #### Panel 4
 
@@ -158,7 +158,7 @@
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.71/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.71/page24.jpg)
 
 - #### Panel 5
 

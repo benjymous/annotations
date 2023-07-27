@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.05/page00.jpg)
+> [marginThumb] ![cover for issue 05](thumbnails/sandman.05/page00.jpg)
 
 ## Issue 5: "Passengers"
 
@@ -10,7 +10,7 @@ Fifth story reprinted in _Preludes and Nocturnes_
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.05/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.05/page01.jpg)
 
 - This is Arkham Asylum, which was referenced earlier. "Funeral March for a Marionette" is the theme song to the show "Alfred Hitchcock Presents." Hitchcock is a famous director, particularly of suspenseful movies; the television shows were also suspense or mystery, introduced by Hitch himself with droll black humor. Hitchcock is known for making cameos in all his film work. "Alfred Hitchcock Presents" is currently being shown on USA Network on cable on Friday nights.
 
@@ -20,7 +20,7 @@ Chorley died in 1872 before the piece could be formally dedicated to him, but it
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.05/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.05/page02.jpg)
 
 - It is unclear how John Dee (Dr. Destiny) has escaped from his cell, unless it be by the amulet he obtained last issue. The Scarecrow is hanging just outside the dining hall as a part of an April Fool's joke (the date established on page 1).
 
@@ -30,7 +30,7 @@ Chorley died in 1872 before the piece could be formally dedicated to him, but it
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.05/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.05/page03.jpg)
 
 - As far as I know, the Scarecrow is correct with his terms for various phobias. It is unclear how he is hanging. Panel 5 clearly shows that the noose is not tight, but then he could not be hanging from the rope (as he clearly is on the previous page and in panel 1) with the rope as in panel 5. The shadows in panel 5 might show the rope attached to a fairly large hook on the back of Crane's straightjacket.
 
@@ -46,7 +46,7 @@ He might have the rope going down his shirt and tied around his waist. They did 
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.05/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.05/page04.jpg)
 
 - #### Panel 5
 
@@ -54,13 +54,13 @@ He might have the rope going down his shirt and tied around his waist. They did 
 
 #### Page 5-7
 
-> [marginThumb] ![](thumbnails/sandman.05/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.05/page05.jpg)
 
 - This is a dream of Mister Miracle. Mister Miracle, who goes by the name "Scott Free", which is a pun, is a New God, and a member of the Justice League. He is the son of the "good" New God Izaya, but was raised in a hellish orphanage run by a wicked woman named Granny Goodness on the planet of the "bad" New Gods, which is named Apokolips. Needless to say, all of this mythology was created by Jack Kirby, specifically for his "Fourth World" titles at DC in the 70s. Mister Miracle is a master escape artist. A number of minor characters are named in this sequence; I assume they are either consistent with his known origin or are new here.
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.05/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.05/page11.jpg)
 
 - #### Panel 1
 
@@ -76,7 +76,7 @@ He might have the rope going down his shirt and tied around his waist. They did 
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.05/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.05/page12.jpg)
 
 - #### Panel 1
 
@@ -84,7 +84,7 @@ He might have the rope going down his shirt and tied around his waist. They did 
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.05/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.05/page13.jpg)
 
 - #### Panel 4
 
@@ -92,7 +92,7 @@ He might have the rope going down his shirt and tied around his waist. They did 
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.05/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.05/page14.jpg)
 
 - #### Panel 2
 
@@ -104,7 +104,7 @@ He might have the rope going down his shirt and tied around his waist. They did 
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.05/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.05/page15.jpg)
 
 - #### Panel 3
 
@@ -132,7 +132,7 @@ He might have the rope going down his shirt and tied around his waist. They did 
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.05/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.05/page16.jpg)
 
 - #### Panel 2
 
@@ -140,7 +140,7 @@ He might have the rope going down his shirt and tied around his waist. They did 
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.05/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.05/page17.jpg)
 
 - #### Panel 2
 
@@ -148,13 +148,13 @@ He might have the rope going down his shirt and tied around his waist. They did 
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.05/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.05/page18.jpg)
 
 - Morpheus while on Earth travels either as a human would (the taxi ride with Constantine and Chas in [#3](sandman.03.md)) or through dreams of people along the way. The latter is consistent with how he obtained food in [#1](sandman.01.md), although there it was stated that Morpheus was too weak to create food from the fabric of dreams directly.
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.05/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.05/page19.jpg)
 
 - #### Panel 3
 
@@ -166,8 +166,7 @@ He might have the rope going down his shirt and tied around his waist. They did 
 - Rich Salz <rsalz@bbn.com>, Tom Galloway <tyg@dip.eecs.umich.edu>, and Curtis Hoffmann <currmann@pnet51.orb.mn.org> identified "Funeral March for a Marionette."
 - David Goldfarb <goldfarb@ocf.berkeley.edu> spotted the hook on page 3 and also commented on Morpheus' means of travel.
 - Brian D. Rogerson <bdrogers@athena.mit.edu> commented on J'onn and Morpheus' encounter.
-- Philip J. (Da Pope!) Birmingham <birmingh@fnal.fnal.gov> and I talked a great deal about the "City of Focative Mirrors." David Henry
-- <UD137927@VM1.NoDak.EDU> found the Shakespearean sexual pun on "focative".
+- Philip J. (Da Pope!) Birmingham <birmingh@fnal.fnal.gov> and I talked a great deal about the "City of Focative Mirrors." David Henry <UD137927@VM1.NoDak.EDU> found the Shakespearean sexual pun on "focative".
 - R I K <SMB147@PSUVM.PSU.EDU> joked about the warehouse and recalled Grant Morrison's appearance in _Animal Man_.
 - Jacob Levy <ST802099@BROWNVM> objected to my dismissal of the possible existence of Gotham, the State.
 - Ralf Hildebrandt added more details.

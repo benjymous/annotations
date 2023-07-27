@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.18/page00.jpg)
+> [marginThumb] ![cover for issue 18](thumbnails/sandman.18/page00.jpg)
 
 ## Issue 18: "A Dream of a Thousand Cats"
 
@@ -10,7 +10,7 @@ Second story reprinted in trade paperback _Dream Country_
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.18/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.18/page10.jpg)
 
 - #### Panel 1
 
@@ -22,7 +22,7 @@ Second story reprinted in trade paperback _Dream Country_
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.18/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.18/page13.jpg)
 
 - #### Panel 1
 
@@ -30,7 +30,7 @@ Second story reprinted in trade paperback _Dream Country_
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.18/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.18/page14.jpg)
 
 - #### Panel 2
 
@@ -43,23 +43,26 @@ Second story reprinted in trade paperback _Dream Country_
   **A cat may look at a king**: Cleveland Amory's book, _The Cat Who Came for Christmas_ has an extensive section on the origins of this proverb, from which I quote:
 
   > In the fifteenth century, the story goes, Maximilian I, of the House of Hapsburg, King of the Romans and soon to be Holy Roman Emperor, was deep in conversation with a friend of his named Hieronymus Resch, a maker of woodcuts. During this conversation, the king looked over and saw Resch's cat, stretched out on a table, staring not at Resch but at him. From this rather less than earth- shaking occurrence came, apparently, not only the actual proof of the proverb but also its rather less than happy future connotation - at least as far as kings are concerned. For Maximilian, who spent a good deal of his reign embroiled in turmoil, intrigue, and warfare, always declared that the cat had looked at him, with, as he put it, "deep suspicion" - a comment which, once again, will come as small surprise to all the cat-owned, before Maximilian's time, and since. And, years later the cat and the king confrontation became the basis for one of the famous "Fantastic Fables" of none other than the late Ambrose Bierce:
-  >
+
   > A Cat was looking at a King as permitted by the proverb.
-  >
+
   > "Well," said the monarch, observing her inspection of the royal person, "how do you like me?"
-  >
+
   > "I can imagine a King," said the Cat, "whom I should like better."
+
   > "For example?"
+
   > "The King of Mice."
 
   We may note that the proverb also makes an appearance in _Alice's Adventures in Wonderland_ when Alice mentions it to the King of Hearts, but herself notes than she read it somewhere. Checking _Bartlett's Familiar Quotations_, we note the following:
 
   > "A cat may looke on a King." - John Heywood (1497-1580)
+
   > Proverbes, Part II, Cap. V
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.18/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.18/page17.jpg)
 
 - #### Panel 1-2
 
@@ -71,7 +74,7 @@ Second story reprinted in trade paperback _Dream Country_
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.18/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.18/page20.jpg)
 
 - #### Panel 4
 
@@ -79,7 +82,7 @@ Second story reprinted in trade paperback _Dream Country_
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.18/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.18/page23.jpg)
 
 - #### Panel 2
 

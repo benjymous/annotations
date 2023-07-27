@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.47/page00.jpg)
+> [marginThumb] ![cover for issue 47](thumbnails/sandman.47/page00.jpg)
 
 ## Issue 47: Brief Lives Seven
 
@@ -14,7 +14,7 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.47/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.47/page01.jpg)
 
 - #### Panel 2
 
@@ -30,7 +30,7 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.47/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.47/page02.jpg)
 
 - #### Panel 6
 
@@ -38,7 +38,7 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.47/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.47/page03.jpg)
 
 - #### Panel 6
 
@@ -48,7 +48,7 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.47/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.47/page05.jpg)
 
 - #### Panel 2
 
@@ -60,7 +60,7 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.47/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.47/page06.jpg)
 
 - #### Panel 3-7
 
@@ -74,7 +74,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.47/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.47/page08.jpg)
 
 - #### Panel 3
 
@@ -82,7 +82,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.47/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.47/page10.jpg)
 
 - #### Panel 6
 
@@ -90,7 +90,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.47/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.47/page11.jpg)
 
 - #### Panel 2-5
 
@@ -98,7 +98,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.47/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.47/page12.jpg)
 
 - #### Panel 2
 
@@ -108,7 +108,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.47/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.47/page13.jpg)
 
 - #### Panel 2
 
@@ -116,7 +116,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.47/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.47/page14.jpg)
 
 - #### Panel 1
 
@@ -134,7 +134,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.47/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.47/page15.jpg)
 
 - #### Panel 2
 
@@ -150,7 +150,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.47/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.47/page19.jpg)
 
 - #### Panel 3
 
@@ -158,7 +158,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.47/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.47/page20.jpg)
 
 - #### Panel 5
 
@@ -166,7 +166,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.47/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.47/page21.jpg)
 
 - #### Panel 3
 
@@ -176,7 +176,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.47/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.47/page24.jpg)
 
 - #### Panel 1
 

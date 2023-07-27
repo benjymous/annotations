@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.62/page00.jpg)
+> [marginThumb] ![cover for issue 62](thumbnails/sandman.62/page00.jpg)
 
 ## Issue 62: "The Kindly Ones: 6"
 
@@ -6,7 +6,7 @@
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.62/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.62/page01.jpg)
 
 - #### Panel 1
 
@@ -18,7 +18,7 @@
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.62/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.62/page02.jpg)
 
 - #### Panel 4
 
@@ -32,7 +32,7 @@
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.62/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.62/page03.jpg)
 
 - #### Panel 3
 
@@ -44,7 +44,7 @@
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.62/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.62/page04.jpg)
 
 - #### Panel 1
 
@@ -64,7 +64,7 @@
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.62/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.62/page05.jpg)
 
 - #### Panel 4
 
@@ -72,7 +72,7 @@
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.62/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.62/page06.jpg)
 
 - #### Panel 7
 
@@ -80,7 +80,7 @@
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.62/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.62/page07.jpg)
 
 - #### Panel 2
 
@@ -88,7 +88,7 @@
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.62/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.62/page08.jpg)
 
 - #### Panel 2
 
@@ -114,13 +114,13 @@
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.62/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.62/page10.jpg)
 
 - For those who don't read letter columns (or who will read this story in book format): the story that follows is not Gaiman's invention, but can be found in somewhat different form in _The Penguin Book of English Folk Tales_.
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.62/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.62/page19.jpg)
 
 - #### Panel 1-2
 
@@ -134,7 +134,7 @@
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.62/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.62/page20.jpg)
 
 - #### Panel 4
 
@@ -150,7 +150,7 @@
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.62/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.62/page21.jpg)
 
 - #### Panel 2
 
@@ -158,7 +158,7 @@
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.62/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.62/page22.jpg)
 
 - #### Panel 1
 
@@ -180,7 +180,7 @@
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.62/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.62/page23.jpg)
 
 - #### Panel 3
 

@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.58/page00.jpg)
+> [marginThumb] ![cover for issue 58](thumbnails/sandman.58/page00.jpg)
 
 ## Issue 58: "The Kindly Ones: 2"
 
@@ -8,7 +8,7 @@
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.58/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.58/page01.jpg)
 
 - #### Panel 4
 
@@ -16,7 +16,7 @@
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.58/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.58/page02.jpg)
 
 - #### Panel 7
 
@@ -26,7 +26,7 @@
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.58/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.58/page05.jpg)
 
 - #### Panel 3
 
@@ -34,7 +34,7 @@
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.58/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.58/page07.jpg)
 
 - #### Panels 3-5
 
@@ -42,7 +42,7 @@
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.58/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.58/page09.jpg)
 
 - #### Panel 4
 
@@ -50,7 +50,7 @@
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.58/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.58/page11.jpg)
 
 - #### Panel 7
 
@@ -62,7 +62,7 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.58/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.58/page14.jpg)
 
 - #### Panel 6
 
@@ -112,7 +112,7 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.58/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.58/page15.jpg)
 
 - #### Panel 1
 
@@ -124,7 +124,7 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.58/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.58/page17.jpg)
 
 - #### Panel 3
 
@@ -132,7 +132,7 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.58/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.58/page18.jpg)
 
 - #### Panel 3
 
@@ -140,7 +140,7 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.58/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.58/page19.jpg)
 
 - #### Panel 6
 
@@ -148,7 +148,7 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.58/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.58/page21.jpg)
 
 - #### Panel 3
 
@@ -156,7 +156,7 @@ In Jungian psychology, if you have a dream in which you go down to a basement, i
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.58/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.58/page23.jpg)
 
 - #### Panel 7
 

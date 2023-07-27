@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.20/page00.jpg)
+> [marginThumb] ![cover for issue 20](thumbnails/sandman.20/page00.jpg)
 
 ## Issue 20: "Facade"
 
@@ -10,7 +10,7 @@ Fourth story reprinted in trade paperback _Dream Country_
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.20/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.20/page01.jpg)
 
 - The central character of the story is Urania "Rainie" Blackwell, who first appeared in _Metamorpho_ #10 (1967). She was an agent with an unnamed US intelligence service who volunteered to expose herself to the radiations of the meteor that formed part of the "Orb of Ra". These radiations had earlier transformed Rex Mason into the superhero Metamorpho. Subsequently, Blackwell took the sobriquet "Element Girl". Both Metamorpho and Element Girl had the ability to transform their bodies into any chemical element or compound found in the human body, and to transform into any shape. As a side effect of their powers, their bodies became non-human in color and composition.
 
@@ -20,7 +20,7 @@ Fourth story reprinted in trade paperback _Dream Country_
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.20/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.20/page02.jpg)
 
 - #### Panel 1
 
@@ -32,7 +32,7 @@ Fourth story reprinted in trade paperback _Dream Country_
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.20/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.20/page04.jpg)
 
 - #### Panel 3
 
@@ -40,7 +40,7 @@ Fourth story reprinted in trade paperback _Dream Country_
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.20/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.20/page05.jpg)
 
 - #### Panel 2
 
@@ -56,7 +56,7 @@ Fourth story reprinted in trade paperback _Dream Country_
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.20/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.20/page06.jpg)
 
 - #### Panel 4-5
 
@@ -68,7 +68,7 @@ Fourth story reprinted in trade paperback _Dream Country_
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.20/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.20/page07.jpg)
 
 - #### Panel 1
 
@@ -76,13 +76,13 @@ Fourth story reprinted in trade paperback _Dream Country_
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.20/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.20/page15.jpg)
 
 - This, of course, is good ol' Death, Dream's older sister. Recall that her symbol, the Ankh, is specifically an _Egyptian_ symbol of life.
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.20/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.20/page18.jpg)
 
 - #### Panel 8
 
@@ -92,7 +92,7 @@ Fourth story reprinted in trade paperback _Dream Country_
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.20/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.20/page19.jpg)
 
 - #### Panel 2
 
@@ -108,7 +108,7 @@ Fourth story reprinted in trade paperback _Dream Country_
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.20/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.20/page20.jpg)
 
 - #### Panel 3
 
@@ -116,7 +116,7 @@ Fourth story reprinted in trade paperback _Dream Country_
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.20/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.20/page21.jpg)
 
 - #### Panel 5
 
@@ -128,7 +128,7 @@ Fourth story reprinted in trade paperback _Dream Country_
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.20/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.20/page23.jpg)
 
 - #### Panel 3
 
@@ -138,7 +138,7 @@ Fourth story reprinted in trade paperback _Dream Country_
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.20/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.20/page24.jpg)
 
 - #### Panel 4-6
 

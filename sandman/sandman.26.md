@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.26/page00.jpg)
+> [marginThumb] ![cover for issue 26](thumbnails/sandman.26/page00.jpg)
 
 ## Issue 26: "Season of Mists Chapter 5"
 
@@ -11,7 +11,7 @@
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.26/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.26/page01.jpg)
 
 - #### Panel 2
 
@@ -21,7 +21,7 @@
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.26/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.26/page02.jpg)
 
 - #### Panel 2
 
@@ -29,7 +29,7 @@
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.26/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.26/page03.jpg)
 
 - I will only note any beings who were not seen in [Sandman #24](sandman.24.md). A knowledge of what has gone before is essential to the understanding of the events of this issue. The servitor here, and the female one on page 5, are dressed in nightclothes, and one infers that Dream has summoned two dreamers to act as servants at his banquet.
 
@@ -39,7 +39,7 @@
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.26/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.26/page04.jpg)
 
 - #### Panel 2
 
@@ -47,7 +47,7 @@
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.26/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.26/page06.jpg)
 
 - #### Panels 6-7
 
@@ -55,13 +55,13 @@
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.26/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.26/page07.jpg)
 
 - This is a splash panel. Note the figures below the angels; we did not see these beings in [Sandman #24](sandman.24.md), where the gods were introduced. We infer these to be more figures interested in obtaining Hell. The leftmost figure resembles the traditional depiction of wizards, with long beard and astrologically-bedecked pointy hat. He is possibly the wizard Merlin, of the Arthurian cycle. The others' identities are not readily apparent.
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.26/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.26/page08.jpg)
 
 - #### Panel 7
 
@@ -69,7 +69,7 @@
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.26/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.26/page09.jpg)
 
 - #### Panel 1
 
@@ -77,7 +77,7 @@
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.26/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.26/page10.jpg)
 
 - #### Panel 1
 
@@ -93,7 +93,7 @@
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.26/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.26/page12.jpg)
 
 - #### Panel 1
 
@@ -101,7 +101,7 @@
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.26/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.26/page13.jpg)
 
 - #### Panel 7
 
@@ -109,7 +109,7 @@
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.26/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.26/page15.jpg)
 
 - #### Panel 1
 
@@ -121,7 +121,7 @@
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.26/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.26/page16.jpg)
 
 - #### Panel 2
 
@@ -133,7 +133,7 @@
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.26/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.26/page17.jpg)
 
 - #### Panel 2
 
@@ -141,7 +141,7 @@
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.26/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.26/page18.jpg)
 
 - Note the Japanese-style art. One would normally expect Susano-O-No-Mikoto, a boisterous, shouting thunder god, to be characterized more like Thor. Here, however, he appears to be the Western image of a Japanese business executive. This is an example of one of Gaiman's theses, that myths are colored by those who tell them and by those who hear them. Here, a Shinto myth changes to satisfy Western expectations. The Japanese would likely be startled to see the Floating Bridge of Heaven as a zaibatsu and the kami as sararimen, save in parody.
 
@@ -149,7 +149,7 @@
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.26/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.26/page19.jpg)
 
 - #### Panel 4
 
@@ -157,7 +157,7 @@
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.26/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.26/page24.jpg)
 
 - Is the Key to Hell ever-changing, or is it a function of imprecise artwork? I lean toward the latter, myself.
 

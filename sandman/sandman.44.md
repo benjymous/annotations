@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.44/page00.jpg)
+> [marginThumb] ![cover for issue 44](thumbnails/sandman.44/page00.jpg)
 
 ## Issue 44: Brief Lives Four
 
@@ -10,7 +10,7 @@
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.44/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.44/page01.jpg)
 
 - #### Panel 1
 
@@ -32,7 +32,7 @@
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.44/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.44/page02.jpg)
 
 - #### Panel 1
 
@@ -42,7 +42,7 @@
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.44/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.44/page03.jpg)
 
 - #### Panel 5
 
@@ -52,7 +52,7 @@
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.44/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.44/page07.jpg)
 
 - #### Panel 4
 
@@ -66,7 +66,7 @@
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.44/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.44/page09.jpg)
 
 - #### Panel 3
 
@@ -76,7 +76,7 @@
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.44/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.44/page10.jpg)
 
 - #### Panel 5
 
@@ -84,7 +84,7 @@
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.44/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.44/page11.jpg)
 
 - #### Panel 4
 
@@ -92,7 +92,7 @@
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.44/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.44/page13.jpg)
 
 - #### Panel 3
 
@@ -100,7 +100,7 @@
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.44/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.44/page15.jpg)
 
 - #### Panel 5
 
@@ -110,7 +110,7 @@
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.44/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.44/page17.jpg)
 
 - #### Panel 3
 
@@ -126,7 +126,7 @@
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.44/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.44/page18.jpg)
 
 - #### Panel 1
 
@@ -160,7 +160,7 @@
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.44/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.44/page19.jpg)
 
 - #### Panel 1
 
@@ -198,7 +198,7 @@
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.44/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.44/page20.jpg)
 
 - #### Panel 3-6
 

@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.12/page00.jpg)
+> [marginThumb] ![cover for issue 12](thumbnails/sandman.12/page00.jpg)
 
 ## Issue 12: "Playing House"
 
@@ -10,7 +10,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.12/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.12/page01.jpg)
 
 - #### Panel 1
 
@@ -31,7 +31,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.12/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.12/page02.jpg)
 
 - #### Panel 1
 
@@ -39,7 +39,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.12/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.12/page03.jpg)
 
 - #### Panel 6
 
@@ -47,7 +47,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.12/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.12/page04.jpg)
 
 - #### Panel 4
 
@@ -55,7 +55,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.12/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.12/page06.jpg)
 
 - #### Panel 1
 
@@ -63,7 +63,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.12/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.12/page07.jpg)
 
 - #### Panel 3
 
@@ -71,7 +71,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.12/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.12/page09.jpg)
 
 - #### Panel 3
 
@@ -83,7 +83,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.12/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.12/page11.jpg)
 
 - #### Panel 3
 
@@ -95,7 +95,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.12/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.12/page12.jpg)
 
 - #### Panels 4-5
 
@@ -103,7 +103,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.12/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.12/page13.jpg)
 
 - #### Panel 3
 
@@ -111,7 +111,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.12/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.12/page16.jpg)
 
 - #### Panel 4
 
@@ -119,7 +119,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.12/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.12/page19.jpg)
 
 - #### Panel 2
 
@@ -131,7 +131,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.12/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.12/page20.jpg)
 
 - #### Panel 9
 
@@ -139,7 +139,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.12/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.12/page21.jpg)
 
 - #### Panel 4
 
@@ -147,7 +147,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.12/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.12/page24.jpg)
 
 - Oopsy. Jed's fled, and soon he'll be dead, 'cause that's the Corinthian who picked him up. Big coincidence? Not really; there's a vortex wandering around totally screwing up causality, and both Jed and the Corinthian are directly linked to her.
 

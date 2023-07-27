@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.04/page00.jpg)
+> [marginThumb] ![cover for issue 04](thumbnails/sandman.04/page00.jpg)
 
 ## Issue 4: "A Hope in Hell"
 
@@ -10,7 +10,7 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.04/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.04/page01.jpg)
 
 - #### Panel 7
 
@@ -22,7 +22,7 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.04/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.04/page04.jpg)
 
 - #### Panel 1-4
 
@@ -34,7 +34,7 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.04/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.04/page05.jpg)
 
 - #### Panel 5
 
@@ -42,7 +42,7 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.04/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.04/page06.jpg)
 
 - #### Panel 5
 
@@ -50,15 +50,19 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.04/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.04/page07.jpg)
 
 - #### Panel 3
 
   Kai'ckul is another name for Morpheus; the prisoner is a woman named Nada -- nada means "nothing" in Spanish. Nada will be important at least twice more, in a single issue and a major storyline.
 
+- #### Panel 4, 6
+
+  Notice that Dream appears differently to Nada.
+
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.04/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.04/page08.jpg)
 
 - #### Panel 1
 
@@ -70,7 +74,7 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.04/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.04/page09.jpg)
 
 - **Note** This is Lucifer's first appearance. In the original monthly publication these two pages were a double page spread. After adverts were removed for the collections, they no longer fell over two pages, so were redrawn.
 
@@ -84,7 +88,7 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.04/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.04/page10.jpg)
 
 - #### Panel 5
 
@@ -92,7 +96,7 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.04/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.04/page11.jpg)
 
 - #### Panel 3
 
@@ -100,7 +104,7 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.04/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.04/page14.jpg)
 
 - #### Panel 2
 
@@ -116,7 +120,7 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.04/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.04/page15.jpg)
 
 - #### Panel 7
 
@@ -126,7 +130,7 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.04/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.04/page18.jpg)
 
 - #### Panel 1
 
@@ -138,7 +142,7 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.04/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.04/page19.jpg)
 
 - #### Panel 8
 
@@ -150,7 +154,7 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.04/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.04/page20.jpg)
 
 - #### Panel 4
 
@@ -158,19 +162,16 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.04/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.04/page24.jpg)
 
 - This is John Dee, Dr. Destiny, who has been mentioned before. The amulet is the same amulet for which Ruthven Sykes traded the helmet to Choronzon; it allegedly protects the wearer from "anything", and it is known to work against magical sendings.
 
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
-- Sol <colomon@zip.eecs.umich.edu>, Ian Lance Taylor <ian@airs.com>,
-- David Goldfarb <goldfarb@ocf.berkeley.edu>, and William Sherman
-- <sherman@oak.math.ucla.edu> found citations for "Lucifer Morningstar."
+- Sol <colomon@zip.eecs.umich.edu>, Ian Lance Taylor <ian@airs.com>, David Goldfarb <goldfarb@ocf.berkeley.edu>, and William Sherman <sherman@oak.math.ucla.edu> found citations for "Lucifer Morningstar."
 - Ian and David, and Sasha <sasha.bbs@shark.cse.fau.edu> and Andrew David Weiland <aw1s+@andrew.cmu.edu> found citations for the Wood of Suicides. Ian also found Agony and Ecstasy's first appearance, and referenced _The Sword in the Stone_.
-- Viktor Haag <vehaag@crocus.waterloo.edu> and Chris Jarocha-Ernst
-  <cje@heart.rutgers.edu> commented on the infernal trinity. Chris also pointed out that Tim Maroney had identified Choronzon some time ago.
+- Viktor Haag <vehaag@crocus.waterloo.edu> and Chris Jarocha-Ernst <cje@heart.rutgers.edu> commented on the infernal trinity. Chris also pointed out that Tim Maroney had identified Choronzon some time ago.
 - R I K <SMB147@PSUVM.PSU.EDU> speculated on the nature of the dead god.
 - Andrew Weiland and David Perry <perry@schaefer.math.wisc.edu> traced the lineage of "Dis".
 - Tanaqui C. Weaver <tweaver@isis.cs.du.edu> spotted Squatterbloat's poetry and relayed Neil Gaiman's correction on the first mention of Despair.

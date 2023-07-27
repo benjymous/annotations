@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.02/page00.jpg)
+> [marginThumb] ![cover for issue 02](thumbnails/sandman.02/page00.jpg)
 
 ## Issue 2: "Imperfect Hosts"
 
@@ -10,7 +10,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 1:
 
-> [marginThumb] ![](thumbnails/sandman.02/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.02/page01.jpg)
 
 - The black-haired man is Abel, the other Cain. These would be familiar to most long-term readers of comics. Originally, they were the hosts for DC's watered-down versions of EC's mystery series. Cain was the host of _House of Mystery_, Abel the host of _House of Secrets_. Cain and Abel also appeared in _Plop!_, a DC humor title of the 1970s, along with Eve; they were drawn there by Sergio Aragones, who has appeared in Mad and currently does _Groo the Wanderer_, which is why Sergio did the pinup of them in [_Sandman_ Special #1](sandman-special1.md).
 
@@ -20,7 +20,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.02/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.02/page02.jpg)
 
 - #### Panel 3
 
@@ -28,7 +28,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.02/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.02/page03.jpg)
 
 - #### Panel 4
 
@@ -48,7 +48,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.02/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.02/page05.jpg)
 
 - #### Panel 1
 
@@ -76,7 +76,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.02/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.02/page06.jpg)
 
 - #### Panel 2
 
@@ -88,7 +88,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.02/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.02/page08.jpg)
 
 - #### Panel 1
 
@@ -106,7 +106,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 12-13
 
-> [marginThumb] ![](thumbnails/sandman.02/page12-13.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.02/page12.jpg)
 
 - #### Panel 2-3
 
@@ -118,7 +118,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 14-15
 
-> [marginThumb] ![](thumbnails/sandman.02/page14-15.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.02/page14.jpg)
 
 - #### Panel 2
 
@@ -142,7 +142,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 16:
 
-> [marginThumb] ![](thumbnails/sandman.02/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.02/page16.jpg)
 
 - _Who's Who_ #15 (1991) has a great deal of information on the Three Witches, or the Three-in-One as they are called here. The Three may appear as a single entity, or as a group of three women. The three women invariably appear symbolically as maiden, mother, and crone.
 
@@ -164,7 +164,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.02/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.02/page18.jpg)
 
 - #### Panel 1
 
@@ -180,7 +180,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.02/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.02/page19.jpg)
 
 - #### Panel 5
 
@@ -196,7 +196,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.02/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.02/page20.jpg)
 
 - #### Panel 3
 
@@ -204,7 +204,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 21:
 
-> [marginThumb] ![](thumbnails/sandman.02/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.02/page21.jpg)
 
 - Note that the Fates give exactly one answer apiece, and it is deliberately incomplete.
 

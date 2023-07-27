@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.27/page00.jpg)
+> [marginThumb] ![cover for issue 27](thumbnails/sandman.27/page00.jpg)
 
 ## Issue 27: "Season of Mists Chapter 5"
 
@@ -14,7 +14,7 @@
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.27/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.27/page01.jpg)
 
 - #### Panel 2
 
@@ -26,7 +26,7 @@
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.27/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.27/page02.jpg)
 
 - #### Panel 4
 
@@ -38,7 +38,7 @@
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.27/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.27/page03.jpg)
 
 - #### Panel 1
 
@@ -48,13 +48,13 @@
 
 ### Page 4-5
 
-> [marginThumb] ![](thumbnails/sandman.27/page04-05.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.27/page04.jpg)
 
 - This is a two page splash panel spread. Note the cherubs spreading the tarpaulin. Beyond those figures gathered below that we have already seen, we may note a figure in a fur cloak and wooden mask, possibly African; a figure in Greco-Roman armor, who resembles _Wonder Woman_'s depiction of the Greek god Ares, and who may therefore be the Roman god Mars; an American Indian in chief's headdress; and a serpent-headed being of unknown provenance. The pictures and designs on the ceiling do not appear to have any obvious significance. Note that the armored figure may be the same figure that appeared briefly in the previous issue.
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.27/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.27/page06.jpg)
 
 - #### Panel 1
 
@@ -66,7 +66,7 @@
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.27/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.27/page09.jpg)
 
 - The flip panel effect of Dream and Duma is somewhat odd, since Duma apparently disappears from panels 2 and 3. I reconstruct the sequence as follows:
 
@@ -92,13 +92,13 @@
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.27/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.27/page10.jpg)
 
 - Remiel's speech on this page is a swipe of a speech preached upon the Mount of Olives in the Garden of Gethsemane, the sequence in the Bible where Jesus asks his father if he may avoid the suffering that he will face in the next day. "Let this burden pass" and the cup metaphor are exactly taken from that soliloquy.
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.27/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.27/page11.jpg)
 
 - #### Panel 1
 
@@ -110,7 +110,7 @@
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.27/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.27/page15.jpg)
 
 - #### Panel 4
 
@@ -118,7 +118,7 @@
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.27/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.27/page19.jpg)
 
 - #### Panel 4
 
@@ -126,7 +126,7 @@
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.27/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.27/page20.jpg)
 
 - #### Panel 1
 
@@ -139,7 +139,7 @@
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.27/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.27/page22.jpg)
 
 - #### Panel 8
 
@@ -147,7 +147,7 @@
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.27/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.27/page24.jpg)
 
 - #### Panel 2
 

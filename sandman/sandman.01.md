@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.01/page00.jpg)
+> [marginThumb] ![cover for issue 01](thumbnails/sandman.01/page00.jpg)
 
 ## Issue 1: "Sleep of the Just"
 
@@ -12,7 +12,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.01/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.01/page01.jpg)
 
 - #### Panel 2
 
@@ -20,7 +20,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.01/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.01/page02.jpg)
 
 - #### Panel 1
 
@@ -34,7 +34,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.01/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.01/page03.jpg)
 
 - #### Panels 1-4
 
@@ -44,7 +44,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.01/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.01/page04.jpg)
 
 - #### Panel 1
 
@@ -56,7 +56,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 5-7:
 
-> [marginThumb] ![](thumbnails/sandman.01/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.01/page05.jpg)
 
 - Let's look at the materials in the summoning ritual. On page five, the materials are fairly mundane, except in panel 7: A feather pulled from an angel's wing. This would appear to be fairly difficult, and worth a story in its own.
 
@@ -64,7 +64,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.01/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.01/page06.jpg)
 
 - #### Panel 4
 
@@ -76,7 +76,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.01/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.01/page07.jpg)
 
 - #### Panel 6
 
@@ -84,13 +84,13 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 8-9:
 
-> [marginThumb] ![](thumbnails/sandman.01/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.01/page08.jpg)
 
 - We clearly see here the removal of the helmet, ruby, and pouch of sand, whose recovery will occupy most of _More than Rubies_.
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.01/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.01/page10.jpg)
 
 - #### Panel 1
 
@@ -98,7 +98,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.01/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.01/page11.jpg)
 
 - #### Panel 2
 
@@ -106,7 +106,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.01/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.01/page14.jpg)
 
 - #### Panel 2
 
@@ -118,7 +118,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.01/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.01/page15.jpg)
 
 - #### Panel 4
 
@@ -136,7 +136,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.01/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.01/page18.jpg)
 
 - #### Panel 3
 
@@ -148,7 +148,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.01/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.01/page21.jpg)
 
 - #### Panel 2
 
@@ -156,7 +156,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.01/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.01/page23.jpg)
 
 - #### Panel 6
 
@@ -171,7 +171,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.01/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.01/page24.jpg)
 
 - #### Panel 7
 
@@ -185,7 +185,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 27
 
-> [marginThumb] ![](thumbnails/sandman.01/page27.jpg)
+> [marginThumb] ![page 27](thumbnails/sandman.01/page27.jpg)
 
 - #### Panels 6-7
 
@@ -193,7 +193,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 29
 
-> [marginThumb] ![](thumbnails/sandman.01/page29.jpg)
+> [marginThumb] ![page 29](thumbnails/sandman.01/page29.jpg)
 
 - #### Panel 7
 
@@ -201,7 +201,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 31
 
-> [marginThumb] ![](thumbnails/sandman.01/page31.jpg)
+> [marginThumb] ![page 31](thumbnails/sandman.01/page31.jpg)
 
 - #### Panel 4
 
@@ -223,7 +223,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 32
 
-> [marginThumb] ![](thumbnails/sandman.01/page32.jpg)
+> [marginThumb] ![page 32](thumbnails/sandman.01/page32.jpg)
 
 - #### Panel 6
 
@@ -231,7 +231,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 35
 
-> [marginThumb] ![](thumbnails/sandman.01/page35.jpg)
+> [marginThumb] ![page 35](thumbnails/sandman.01/page35.jpg)
 
 - #### Panel 1
 
@@ -239,7 +239,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 36
 
-> [marginThumb] ![](thumbnails/sandman.01/page36.jpg)
+> [marginThumb] ![page 36](thumbnails/sandman.01/page36.jpg)
 
 - #### Panel 7
 
@@ -247,7 +247,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 ### Page 40
 
-> [marginThumb] ![](thumbnails/sandman.01/page40.jpg)
+> [marginThumb] ![page 40](thumbnails/sandman.01/page40.jpg)
 
 - #### Panel 5
 
@@ -270,5 +270,5 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 - Dan Holzman <holzman@fnal.fnal.gov>
 - Neil Gaiman, via Tanaqui C. Weaver <tweaver@isis.cs.du.edu>
 - Andrew Sigel <sigel@vsscad.enet.dec.com>
-- Ralf Hildebrandt added a note about the title, the connection between Unity and Desire, more info about the Yellow Pages and lots more details and edits
-- Richard Munn confirmed the T.S. Eliot quote, and updated the references to Paul's Return
+- Ralf Hildebrandt added a note about the title, the connection between Unity and Desire, more info about the Yellow Pages and lots more details and edits.
+- Richard Munn confirmed the T.S. Eliot quote, and updated the references to Paul's Return.

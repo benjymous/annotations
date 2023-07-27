@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.60/page00.jpg)
+> [marginThumb] ![cover for issue 60](thumbnails/sandman.60/page00.jpg)
 
 ## Issue 60: "The Kindly Ones: 4"
 
@@ -6,7 +6,7 @@
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.60/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.60/page01.jpg)
 
 - #### Panel 1
 
@@ -16,7 +16,7 @@
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.60/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.60/page02.jpg)
 
 - #### Panel 3
 
@@ -28,7 +28,7 @@
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.60/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.60/page05.jpg)
 
 - #### Panel 6
 
@@ -36,7 +36,7 @@
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.60/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.60/page06.jpg)
 
 - #### Panel 5
 
@@ -48,19 +48,19 @@
 
 ### Pages 8-9
 
-> [marginThumb] ![](thumbnails/sandman.60/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.60/page08.jpg)
 
 - I don't recognize either of these characters.
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.60/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.60/page10.jpg)
 
 - This is "Puss in Boots". I don't have on me a specific reference to her story.
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.60/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.60/page12.jpg)
 
 - #### Panel 3
 
@@ -72,7 +72,7 @@
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.60/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.60/page13.jpg)
 
 - #### Panel 9
 
@@ -80,7 +80,7 @@
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.60/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.60/page14.jpg)
 
 - #### Panel 3
 
@@ -92,7 +92,7 @@
 
 ### Page 15
 
-> [marginThumb] ![](thumbnails/sandman.60/page15.jpg)
+> [marginThumb] ![page 15](thumbnails/sandman.60/page15.jpg)
 
 - #### Panel 2
 
@@ -110,7 +110,7 @@
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.60/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.60/page16.jpg)
 
 - #### Panel 4
 
@@ -122,7 +122,7 @@
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.60/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.60/page17.jpg)
 
 - #### Panel 5
 
@@ -130,7 +130,7 @@
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.60/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.60/page18.jpg)
 
 - #### Panel 2
 
@@ -142,7 +142,7 @@
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.60/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.60/page20.jpg)
 
 - #### Panel 4
 
@@ -150,7 +150,7 @@
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.60/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.60/page21.jpg)
 
 - #### Panel 2
 

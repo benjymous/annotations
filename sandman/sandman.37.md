@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.37/page00.jpg)
+> [marginThumb] ![cover for issue 37](thumbnails/sandman.37/page00.jpg)
 
 ## Issue 37: "I Woke Up and One of Us Was Crying."
 
@@ -14,7 +14,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.37/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.37/page01.jpg)
 
 - #### Panel 1
 
@@ -22,7 +22,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.37/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.37/page02.jpg)
 
 - #### Panel 4
 
@@ -34,7 +34,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.37/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.37/page03.jpg)
 
 - #### Panel 2
 
@@ -42,7 +42,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.37/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.37/page04.jpg)
 
 - #### Panel 5
 
@@ -50,7 +50,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.37/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.37/page06.jpg)
 
 - #### Panel 2
 
@@ -60,7 +60,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.37/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.37/page08.jpg)
 
 - #### Panel 3
 
@@ -76,7 +76,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.37/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.37/page09.jpg)
 
 - #### Panel 1
 
@@ -88,7 +88,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.37/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.37/page10.jpg)
 
 - #### Panel 3
 
@@ -96,7 +96,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.37/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.37/page11.jpg)
 
 - #### Panel 4
 
@@ -114,7 +114,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.37/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.37/page12.jpg)
 
 - #### Panel 8
 
@@ -126,7 +126,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.37/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.37/page13.jpg)
 
 - #### Panel 1
 
@@ -142,7 +142,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.37/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.37/page14.jpg)
 
 - #### Panel 2
 
@@ -150,7 +150,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.37/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.37/page17.jpg)
 
 - #### Panel 4
 
@@ -164,7 +164,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.37/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.37/page18.jpg)
 
 - #### Panel 2
 
@@ -176,7 +176,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.37/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.37/page19.jpg)
 
 - #### Panel 2-4
 
@@ -184,7 +184,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.37/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.37/page20.jpg)
 
 - #### Panel 1
 
@@ -196,7 +196,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.37/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.37/page23.jpg)
 
 - #### Panel 2
 
@@ -212,7 +212,7 @@ Sixth part of storyline _A Game of You_
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.37/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.37/page24.jpg)
 
 - #### Panel 4
 

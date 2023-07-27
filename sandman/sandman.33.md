@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.33/page00.jpg)
+> [marginThumb] ![cover for issue 33](thumbnails/sandman.33/page00.jpg)
 
 ## Issue 33: "Lullabies of Broadway"
 
@@ -35,7 +35,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.33/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.33/page01.jpg)
 
 - #### Panel 6
 
@@ -43,7 +43,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.33/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.33/page02.jpg)
 
 - #### Panel 1
 
@@ -51,7 +51,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.33/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.33/page03.jpg)
 
 - #### Panel 4
 
@@ -63,7 +63,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.33/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.33/page04.jpg)
 
 - #### Panel 2
 
@@ -81,7 +81,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.33/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.33/page05.jpg)
 
 - #### Panel 2
 
@@ -89,7 +89,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.33/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.33/page06.jpg)
 
 - #### Panel 4
 
@@ -101,7 +101,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.33/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.33/page07.jpg)
 
 - #### Panel 1
 
@@ -121,13 +121,13 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.33/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.33/page08.jpg)
 
 - This sequence is said to be reminiscent of the wardrobe which transports the children to Narnia in _The Lion, the Witch, and the Wardrobe_.
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.33/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.33/page09.jpg)
 
 - #### Panel 2
 
@@ -145,7 +145,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 10-11
 
-> [marginThumb] ![](thumbnails/sandman.33/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.33/page10.jpg)
 
 - We still don't know what George is, but he's weird for sure.
 
@@ -155,7 +155,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.33/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.33/page12.jpg)
 
 - #### Panel 2-4
 
@@ -167,7 +167,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.33/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.33/page13.jpg)
 
 - #### Panel 1
 
@@ -183,13 +183,13 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 ### Page 14-15
 
-> [marginThumb] ![](thumbnails/sandman.33/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.33/page14.jpg)
 
 Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's "baby" - she wants Fox to accept the baby as her own & help look after it with Hazel. But Hazel is scared that her baby will really drive Fox away from her ("devour" her), ruining their friendship.
 
 ### Page 16
 
-> [marginThumb] ![](thumbnails/sandman.33/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.33/page16.jpg)
 
 - #### Panel 1
 
@@ -211,7 +211,7 @@ Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's 
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.33/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.33/page17.jpg)
 
 - #### Panel 2
 
@@ -223,7 +223,7 @@ Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's 
 
 ### Page 18
 
-> [marginThumb] ![](thumbnails/sandman.33/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.33/page18.jpg)
 
 - The Game of Thessaly is really limited to the question of "who is Thessaly", since we now know that there is at least as much unknown about her as there is about George.
 
@@ -233,7 +233,7 @@ Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's 
 
 ### Page 19
 
-> [marginThumb] ![](thumbnails/sandman.33/page19.jpg)
+> [marginThumb] ![page 19](thumbnails/sandman.33/page19.jpg)
 
 - #### Panel 5
 
@@ -245,7 +245,7 @@ Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's 
 
 ### Page 21
 
-> [marginThumb] ![](thumbnails/sandman.33/page21.jpg)
+> [marginThumb] ![page 21](thumbnails/sandman.33/page21.jpg)
 
 - #### Panel 1
 
@@ -253,7 +253,7 @@ Possible interpretation of Hazel's dream: Hazel wants her baby to also be Fox's 
 
 ### Page 23
 
-> [marginThumb] ![](thumbnails/sandman.33/page23.jpg)
+> [marginThumb] ![page 23](thumbnails/sandman.33/page23.jpg)
 
 - #### Panel 1
 

@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.65/page00.jpg)
+> [marginThumb] ![cover for issue 65](thumbnails/sandman.65/page00.jpg)
 
 ## Issue 65: "The Kindly Ones: 9"
 
@@ -6,7 +6,7 @@
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.65/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.65/page01.jpg)
 
 - #### Panel 1
 
@@ -18,7 +18,7 @@
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.65/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.65/page02.jpg)
 
 - #### Panel 1
 
@@ -30,7 +30,7 @@
 
 ### Page 3
 
-> [marginThumb] ![](thumbnails/sandman.65/page03.jpg)
+> [marginThumb] ![page 03](thumbnails/sandman.65/page03.jpg)
 
 - #### Panel 2
 
@@ -48,7 +48,7 @@
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.65/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.65/page04.jpg)
 
 - #### Panel 6
 
@@ -56,7 +56,7 @@
 
 ### Page 5
 
-> [marginThumb] ![](thumbnails/sandman.65/page05.jpg)
+> [marginThumb] ![page 05](thumbnails/sandman.65/page05.jpg)
 
 - #### Panel 1
 
@@ -78,7 +78,7 @@
 
 ### Page 6
 
-> [marginThumb] ![](thumbnails/sandman.65/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.65/page06.jpg)
 
 - #### Panel 1
 
@@ -86,7 +86,7 @@
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.65/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.65/page07.jpg)
 
 - #### Panel 3
 
@@ -94,7 +94,7 @@
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.65/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.65/page08.jpg)
 
 - #### Panel 1
 
@@ -112,7 +112,7 @@
 
 ### Page 9
 
-> [marginThumb] ![](thumbnails/sandman.65/page09.jpg)
+> [marginThumb] ![page 09](thumbnails/sandman.65/page09.jpg)
 
 - #### Panel 2
 
@@ -120,7 +120,7 @@
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.65/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.65/page10.jpg)
 
 - #### Panel 1
 
@@ -132,7 +132,7 @@
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.65/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.65/page12.jpg)
 
 - #### Panels 1-5
 
@@ -144,7 +144,7 @@
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.65/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.65/page13.jpg)
 
 - #### Panel 1
 
@@ -156,7 +156,7 @@
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.65/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.65/page14.jpg)
 
 - #### Panel 1
 
@@ -164,13 +164,13 @@
 
 ### Page 17
 
-> [marginThumb] ![](thumbnails/sandman.65/page17.jpg)
+> [marginThumb] ![page 17](thumbnails/sandman.65/page17.jpg)
 
 - Note the black panel borders. We've seen them only once before, when Lyta met the Furies for the first time.
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.65/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.65/page20.jpg)
 
 - #### Panel 3
 
@@ -182,7 +182,7 @@
 
 ### Page 22
 
-> [marginThumb] ![](thumbnails/sandman.65/page22.jpg)
+> [marginThumb] ![page 22](thumbnails/sandman.65/page22.jpg)
 
 - #### Panel 1
 

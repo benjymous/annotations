@@ -1,4 +1,4 @@
-> [marginThumb] ![](thumbnails/sandman.68/page00.jpg)
+> [marginThumb] ![cover for issue 68](thumbnails/sandman.68/page00.jpg)
 
 ## Issue 68: "The Kindly Ones: 12"
 
@@ -6,7 +6,7 @@
 
 ### Page 1
 
-> [marginThumb] ![](thumbnails/sandman.68/page01.jpg)
+> [marginThumb] ![page 01](thumbnails/sandman.68/page01.jpg)
 
 - #### Panel 2
 
@@ -14,7 +14,7 @@
 
 ### Page 2
 
-> [marginThumb] ![](thumbnails/sandman.68/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.68/page02.jpg)
 
 - #### Panel 5
 
@@ -26,7 +26,7 @@
 
 ### Page 4
 
-> [marginThumb] ![](thumbnails/sandman.68/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.68/page04.jpg)
 
 - #### Panel 5
 
@@ -34,7 +34,7 @@
 
 ### Page 7
 
-> [marginThumb] ![](thumbnails/sandman.68/page07.jpg)
+> [marginThumb] ![page 07](thumbnails/sandman.68/page07.jpg)
 
 - #### Panel 1
 
@@ -50,7 +50,7 @@
 
 ### Page 8
 
-> [marginThumb] ![](thumbnails/sandman.68/page08.jpg)
+> [marginThumb] ![page 08](thumbnails/sandman.68/page08.jpg)
 
 - #### Panel 3
 
@@ -58,7 +58,7 @@
 
 ### Page 10
 
-> [marginThumb] ![](thumbnails/sandman.68/page10.jpg)
+> [marginThumb] ![page 10](thumbnails/sandman.68/page10.jpg)
 
 - #### Panel 5
 
@@ -66,7 +66,7 @@
 
 ### Page 11
 
-> [marginThumb] ![](thumbnails/sandman.68/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.68/page11.jpg)
 
 - #### Panels 4-5:
 
@@ -78,7 +78,7 @@
 
 ### Page 12
 
-> [marginThumb] ![](thumbnails/sandman.68/page12.jpg)
+> [marginThumb] ![page 12](thumbnails/sandman.68/page12.jpg)
 
 - #### Panel 1
 
@@ -86,7 +86,7 @@
 
 ### Page 13
 
-> [marginThumb] ![](thumbnails/sandman.68/page13.jpg)
+> [marginThumb] ![page 13](thumbnails/sandman.68/page13.jpg)
 
 - #### Panel 3
 
@@ -102,7 +102,7 @@
 
 ### Page 14
 
-> [marginThumb] ![](thumbnails/sandman.68/page14.jpg)
+> [marginThumb] ![page 14](thumbnails/sandman.68/page14.jpg)
 
 - #### Panel 3
 
@@ -110,7 +110,7 @@
 
 ### Page 20
 
-> [marginThumb] ![](thumbnails/sandman.68/page20.jpg)
+> [marginThumb] ![page 20](thumbnails/sandman.68/page20.jpg)
 
 - #### Panel 2
 
@@ -122,7 +122,7 @@
 
 ### Page 24
 
-> [marginThumb] ![](thumbnails/sandman.68/page24.jpg)
+> [marginThumb] ![page 24](thumbnails/sandman.68/page24.jpg)
 
 - #### Panels 1-6:
 
