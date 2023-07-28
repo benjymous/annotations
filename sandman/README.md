@@ -6,7 +6,7 @@
 
 Originally written, compiled and edited by Greg Morrow and David Goldfarb. Updated and revised edition by Richard Munn.
 
-This is the 'refreshed' Sandman Annotations (not to be confused with the hardback Annotated Sandman books published by DC themselves.)   These annotations date back to the 80s-90s and were published usenet, Compuserve, Genie, and other services that have long been forgotten by the 21st centaury.
+This is the 'refreshed' Sandman Annotations (not to be confused with the hardback Annotated Sandman books published by DC themselves.)   These annotations date back to the 80s-90s and were published usenet, Compuserve, Genie, and other services that have long been forgotten by the 21st century.
 
 This is now licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/), which differs from the original licensing, but I hope follows the original spirit.
 
