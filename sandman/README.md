@@ -29,13 +29,13 @@ This is a living community document, and is open to edits and suggestions - thes
 
 - Ideally someone should be able to read these annotations alongside their first ever read of the comic - we shouldn't assume people are coming to this after reading the whole thing.   They might not have read anything yet, and want clarification on something in the Netflix show or Audible adaptation.   This means we aught to be careful with spoilers, and try and edit out any that are already here.
 
- - Originally these were just text files (they pre-date the world wide web, and html), so enriching the pages with photo references helps.  If a real world person, place or thing is mentioned or depicted, it'd be nice to add some reference images.   Likewise linking in wikipedia articles (or other reference material) would be helpful.
+- Originally these were just text files (they pre-date the world wide web, and html), so enriching the pages with photo references helps.  If a real world person, place or thing is mentioned or depicted, it'd be nice to add some reference images.   Likewise linking in wikipedia articles (or other reference material) would be helpful.
 
- - Neil Gaiman has blogged, tweeted, given many interviews, and much more in the last ~30+ years.  Adding any additional information from him would be really helpful.
+- Neil Gaiman has blogged, tweeted, given many interviews, and much more in the last ~30+ years.  Adding any additional information from him would be really helpful.
 
- - The annotations for the last 25-ish issues are much less detailed than the earlier ones.   This seems to be when Greg Morrow (the original editor) stepped away.
+- The annotations for the last 25-ish issues are much less detailed than the earlier ones.   This seems to be when Greg Morrow (the original editor) stepped away.
 
- - They currently stop at Issue #75, and don't cover _Endless Nights_, _The Dream Hunters_ or _Overture_.
+- They currently stop at Issue #75, and don't cover _Endless Nights_, _The Dream Hunters_ or _Overture_.
 
 ## Disclaimer
 
