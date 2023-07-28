@@ -19,7 +19,7 @@ This is a living community document, and is open to edits and suggestions - thes
 - Raise an issue on the [github issues tracker](https://github.com/benjymous/annotations/issues).
 - Make the [edits yourself](https://github.com/benjymous/annotations/) and raise a pull request.
 
-### What needs doing?
+## What needs doing?
 
 - These annotations were largely written at the time the original issues were published, and so will explain references that might be obscure to an early 90s reader.   Obviously time has passed since then, and there are likely _lots_ of references that may be baffling to someone in the 2020s.  If you spot any of those, please see if you can add a comment.
 
