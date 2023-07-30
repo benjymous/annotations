@@ -204,6 +204,14 @@ Third story reprinted in _Preludes and Nocturnes_
 
   Rachel's line about the setting sun is from a Kate Bush song, "The Dreaming," taken from the album of the same name.
 
+### Page 22
+
+> [marginThumb] ![page 21](thumbnails/sandman.03/page22.jpg)
+
+- #### Panel 5
+
+  The narrative box claims that Rachel's last dream is "the best of all possible worlds."  This phrase from _Candide_ pops up again in the _Season of Mists_ storyline, in reference to Hell.
+
 ### Page 23
 
 > [marginThumb] ![page 23](thumbnails/sandman.03/page23.jpg)
@@ -232,3 +240,4 @@ Third story reprinted in _Preludes and Nocturnes_
 - Chris Jarocha-Ernst <cje@heart.rutgers.edu> speculated on "The Lupus Affair."
 - Steve Murray <SXM101@psuvm.psu.edu> speculated on Constantine's not opening the pouch.
 - David Henry <UD137927@VM1.NoDak.EDU> corrected Mad Hettie's appearance.
+- Aaron Bibb added the annotation to page 22, panel 5.

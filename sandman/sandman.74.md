@@ -92,6 +92,9 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
   These horsemen were also seen in [#39](sandman.39.md). However, these men appear to be Roman soldiers, whereas the Soft Places horsemen where dressed as Mongols.
 
+- #### Panel 4:
+  "I must smash the emerald." This is a reflection of [#7](sandman.07.md), where John Dee crushes Dream's Ruby.
+
 ### Page 21
 
 > [marginThumb] ![page 21](thumbnails/sandman.74/page21.jpg)

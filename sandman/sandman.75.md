@@ -36,6 +36,12 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
   It is not clear whether this was an actual tavern, or was invented by Gaiman for the script.
 
+  It can also be noted that Elizabeth Quiney was illustrated to resemble  from the Bone comics...  from the Boneville message boards: (which no longer seem to be online):
+
+  > Jeff replied "Yes, that is Gran'ma running the inn. It was drawn by Charles Vess (who illustrated Rose, of course). And it was a wink toward the Dreaming in Bone. As I remember it, DC's legal dept. insisted on minor changes in her appeance so I couldn't sue. Which I wouldn't have anyway.
+  >
+  > Charles also put a red dragon above the gateway to the Dreaming castle. It was a surprise when the issue came out, and I enjoyed it a lot! Charles gave the original art pages to me later as gift."
+
 ### Page 7
 
 > [marginThumb] ![page 07](thumbnails/sandman.75/page07.jpg)
@@ -232,3 +238,4 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 - Greg "elmo" Morrow created the Sandman Annotations.
 - Originally collated and edited by Richard Munn.
+- Bone reference via M. Bezuijen and Ralf Hildebrandt.
