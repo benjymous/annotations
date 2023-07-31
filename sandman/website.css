@@ -1,0 +1,46 @@
+.marginThumb {
+  float: left !important;
+  background: transparent !important;
+  overflow: hidden !important;
+  border: none !important;
+  padding: 0px !important;
+  margin: 0px !important;
+  padding-right: 10px !important;
+  margin-top: -61px !important;
+  -webkit-mask-image: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 255, 255, 1) 50%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  mask-image: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 1) 0%,
+    rgba(255, 255, 255, 1) 50%,
+    rgba(0, 0, 0, 0) 100%
+  );
+}
+
+@container (min-width: 1000px) {
+  .page-inner {
+    padding-left: 128px;
+    padding-right: 128px;
+  }
+
+  .marginThumb {
+    width: 130px;
+    margin-left: -138px !important;
+  }
+}
+
+@container (max-width: 999px) {
+  .page-inner {
+    padding-left: 14%;
+    padding-right: 14%;
+  }
+
+  .marginThumb {
+    width: 16%;
+    margin-left: -16% !important;
+  }
+}

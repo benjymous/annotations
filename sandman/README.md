@@ -10,7 +10,7 @@ This is the 'refreshed' Sandman Annotations (not to be confused with the hardbac
 
 This is now licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/), which differs from the original licensing, but I hope follows the original spirit.
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![Creative Commons License](images/by-nc-sa-4_0.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Contributions
 

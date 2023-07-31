@@ -6,8 +6,7 @@ var applyBlockquoteClass = function (page) {
   // Loop through each h3 found in the page content
   $("h3").each(function () {
     const h3 = $(this);
-    const id = h3.text().toLowerCase().replace(" ","-").replace(":","");
-    //console.log(h3.text(), id)
+    const id = h3.text().toLowerCase().replace(" ", "-").replace(":", "");
     if (id.startsWith("page")) {
       h3.append(`<a class="header-link" href="#${id}">#</a>`);
     }
@@ -23,7 +22,9 @@ module.exports = {
   // Map of hooks
   hooks: {
     page: function (page) {
-      return applyBlockquoteClass(page);
+      return this.output.name === "website"
+        ? applyBlockquoteClass(page)
+        : page;
     },
   },
 

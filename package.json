@@ -1,7 +1,7 @@
 {
   "scripts": {
     "build": "honkit build",
-    "build-pdf": "honkit pdf ./ ./_publish_annotations.pdf",
+    "build-pdf": "honkit pdf ./ ./_publish/annotations.pdf",
     "serve": "honkit serve",
     "spell": "npx cspell sandman",
     "prettier": "npx prettier sandman/*.md -w"
