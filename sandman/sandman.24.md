@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 24](thumbnails/sandman.24/page00.jpg)
 
-## Issue 24: "Season of Mists Chapter 3"
+# Issue 24: "Season of Mists Chapter 3"
 
 ##### Neil Gaiman, Kelley Jones, and P. Craig Russell
 
@@ -15,11 +15,11 @@
 
 - This is characterized as "the ninth century Norwegian idea of what a great palace should be". Kelley is cautioned to "Forget all the Kirbyish SF stuff." Colorist Steve Oliff is also cautioned to "get as far from the brightly coloured Kirby Asgard as you can here: This is the Asgard of the old Norse, a bitter dangerous place." (Jack Kirby was the original artist on Marvel's _The Mighty Thor_, and his unique style was most certainly not traditionally Norse.)
 
-Odin himself is described as a tall, pale Lee Van Cleef.
+  Odin himself is described as a tall, pale Lee Van Cleef.
 
 - #### Panel 1
 
-  **Norse mythology in a bottle cap**: Odin is king of the gods, or Aesir. They all dwell in Asgard (city of Aesir, gard is a fence around something, and the word came to mean the thing enclosed by the fence, a city. (Gar\360ur is a modern Icelandic word meaning garden, a thing defined by it's fences ;-)). Odin's personal hall is named Gladsheim (-heim = home, pronounced with a long `a' sound in Icelandic). Odin is attended by two wolves. The script calls for the wolves' eyes to be green, though they were printed red. Odin traded one eye to Mimir for a drink from the Well of Wisdom.
+  Norse mythology in a bottle cap: Odin is king of the gods, or Aesir. They all dwell in Asgard (city of Aesir, gard is a fence around something, and the word came to mean the thing enclosed by the fence, a city. (Garður is a modern Icelandic word meaning garden, a thing defined by it's fences ;-) ). Odin's personal hall is named Gladsheim (-heim = home, pronounced with a long `a' sound in Icelandic). Odin is attended by two wolves. The script calls for the wolves' eyes to be green, though they were printed red. Odin traded one eye to Mimir for a drink from the Well of Wisdom.
 
 - #### Panel 3
 
@@ -109,6 +109,20 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
   Dream is in his gallery. The sigils of the Endless are arrayed left to right in order of age. Destiny's book is first, then Death's ankh. Next we see Dream's face, as if in a mirror, then the missing sigil of the Prodigal, then the heart of Desire. Note: When we saw Desire's gallery, we saw her face for her sigil, and Dream's helmet for his. This suggests an obvious rule for such galleries.
 
+  Note that Dream seems to have got dressed up again.  Does this mean he's already paid a visit to Destiny?
+
+- #### Panel 4-5
+
+  "Shoot" - Dream doesn't get modern slang (for obvious reasons.)  Presumably Death, spending a lot more time with Humans is far better versed.
+
+### Page 13
+
+> [marginThumb] ![page 12](thumbnails/sandman.24/page13.jpg)
+
+- #### Panel 5
+
+  "The dead are coming back" - Other than [Issue 25](sandman.25.md), very little else is made of the time when all the dead came back - Presumably the people of the DC/Sandman universe are pretty used to _weird shit_ happening, that they shrug it off.
+
 ### Page 14
 
 > [marginThumb] ![page 14](thumbnails/sandman.24/page14.jpg)
@@ -155,7 +169,7 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 - #### Panel 5
 
-  Nada was seen in [Sandman #4](sandman.04.md), 9; she is an erstwhile lover of Dream, whom he cruelly imprisoned in Hell.
+  Nada was seen in [Sandman #4](sandman.04.md), [#9](sandman.09.md); she is an erstwhile lover of Dream, whom he cruelly imprisoned in Hell.
 
 ### Page 18
 
@@ -167,7 +181,7 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 - #### Panel 2
 
-  Gaiman characterized this mountain as a "Brian Froud" mountain.
+  Gaiman characterized this mountain as a "[Brian Froud](https://en.wikipedia.org/wiki/Brian_Froud)" mountain.
 
 - #### Panel 3
 
@@ -254,3 +268,4 @@ Odin himself is described as a tall, pale Lee Van Cleef.
 
 - Kull29@aol.com for the bit about the Lords of Order and Chaos!
 - Ralf Hildebrandt added more details.
+- Richard Munn added some thoughts on Dream's dress up, Death's use of slang, and the lack of fanfare when the dead returned.

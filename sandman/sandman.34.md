@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 34](thumbnails/sandman.34/page00.jpg)
 
-## Issue 34: "Bad Moon Rising"
+# Issue 34: "Bad Moon Rising"
 
 ##### Neil Gaiman, Colleen Doran, George Pratt and Dick Giordano
 

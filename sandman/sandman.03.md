@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 03](thumbnails/sandman.03/page00.jpg)
 
-## Issue 3: "Dream a Little Dream of Me"
+# Issue 3: "Dream a Little Dream of Me"
 
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 

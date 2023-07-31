@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 59](thumbnails/sandman.59/page00.jpg)
 
-## Issue 59: "The Kindly Ones: 3"
+# Issue 59: "The Kindly Ones: 3"
 
 ##### Neil Gaiman, Marc Hempel, D'Israeli
 

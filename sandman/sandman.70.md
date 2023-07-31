@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 70](thumbnails/sandman.70/page00.jpg)
 
-## Issue 70: "Which Occurs in the Wake of What Has Gone Before"
+# Issue 70: "Which Occurs in the Wake of What Has Gone Before"
 
 ##### Neil Gaiman, Michael Zulli
 

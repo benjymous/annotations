@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 32](thumbnails/sandman.32/page00.jpg)
 
-## Issue 32 : "Slaughter on Fifth Avenue"
+# Issue 32 : "Slaughter on Fifth Avenue"
 
 ##### Neil Gaiman and Shawn McManus
 

@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 46](thumbnails/sandman.46/page00.jpg)
 
-## Issue 46: Brief Lives Six
+# Issue 46: Brief Lives Six
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 

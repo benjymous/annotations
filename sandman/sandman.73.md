@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 73](thumbnails/sandman.73/page00.jpg)
 
-## Issue 73: "Sunday Mourning"
+# Issue 73: "Sunday Mourning"
 
 ##### Neil Gaiman, Michael Zulli
 

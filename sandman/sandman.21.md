@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 21](thumbnails/sandman.21/page00.jpg)
 
-## Issue 21: "Season of Mists: a prologue"
+# Issue 21: "Season of Mists: a prologue"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -264,5 +264,7 @@
 16. Destiny likes to go to first causes. When the first race capable of perceiving Death arose, they perceived her in that outfit (as well as all the others in theirs) and, as far as Destiny's concerned, that clinched it. (Destiny's also smug because he got to choose his own outfit, by surreptitious application of Liquid Paper to his book.)
 17. Destiny realized that he needed to comment on the outfit, so she'd change it, causing a note of this fact in the annotations, and a subsequent irreverent post postulating improbable reasons, in order to fulfill some ineffable cosmic balance.
 18. One of the creative staff has a petticoat fetish.
+
     **AND THE NUMBER ONE REASON WHY DESTINY CONSIDERS DEATH'S CLOTHING APPROPRIATE**:
+
 19. Destiny's afraid that seeing Death in the tank top would arouse those incestuous urges again, and he doesn't want a repeat of the "Delight Incident."

@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 74](thumbnails/sandman.74/page00.jpg)
 
-## Issue 74: "Exiles"
+# Issue 74: "Exiles"
 
 ##### Neil Gaiman, Jon J Muth
 

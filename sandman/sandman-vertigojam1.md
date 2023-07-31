@@ -1,4 +1,4 @@
-## Vertigo Jam: "The Castle"
+# Vertigo Jam: "The Castle"
 
 ##### Neil Gaiman, Kevin Nowlan
 

@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 55](thumbnails/sandman.55/page00.jpg)
 
-## Issue 55: "Cerements"
+# Issue 55: "Cerements"
 
 - Fifth story in anthology, "Worlds' End"
 

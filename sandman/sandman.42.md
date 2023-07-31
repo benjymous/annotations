@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 42](thumbnails/sandman.42/page00.jpg)
 
-## Issue 42: Brief Lives Two
+# Issue 42: Brief Lives Two
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 

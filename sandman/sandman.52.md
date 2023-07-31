@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 52](thumbnails/sandman.52/page00.jpg)
 
-## Issue 52
+# Issue 52
 
 ##### Neil Gaiman, John Watkiss, Bryan Talbot, Mark Buckingham
 

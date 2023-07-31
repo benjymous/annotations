@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 30](thumbnails/sandman.30/page00.jpg)
 
-## Issue 30 : "August"
+# Issue 30 : "August"
 
 ##### Neil Gaiman, Brian Talbot, and Stan Woch
 

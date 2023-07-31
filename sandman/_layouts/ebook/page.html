@@ -1,0 +1,7 @@
+{% extends template.self %} {% block title %}{% if page.fullTitle %}{{
+    page.fullTitle }}{% else %}{{ super() }}{% endif %}{% endblock %} {% block head
+    %} {{ super() }}
+
+    <link rel="stylesheet" href="annotations.css">
+
+    {% endblock %}

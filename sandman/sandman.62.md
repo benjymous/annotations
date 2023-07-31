@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 62](thumbnails/sandman.62/page00.jpg)
 
-## Issue 62: "The Kindly Ones: 6"
+# Issue 62: "The Kindly Ones: 6"
 
 ##### Neil Gaiman, Glyn Dillon, Charles Vess, Dean Ormston, D'Israeli
 

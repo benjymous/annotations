@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 01](thumbnails/sandman.01/page00.jpg)
 
-## Issue 1: "Sleep of the Just"
+# Issue 1: "Sleep of the Just"
 
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
@@ -54,7 +54,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
   "Aleister" is Aleister Crowley, the most widely known demonologist and occultist of that era (and probably still today). Roderick Burgess is essentially only Aleister Crowley renamed.
 
-### Page 5-7:
+### Page 5-7
 
 > [marginThumb] ![page 05](thumbnails/sandman.01/page05.jpg)
 
@@ -82,7 +82,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
   First known appearance of Morpheus, the Sandman. Morpheus has many different names, since every culture has known of him in some form. Morpheus is fairly rarely referred to directly as the Sandman, with the major exception being [issue #3](sandman.03.md). In this shot, he is wearing a helmet; that is not his head.
 
-### Page 8-9:
+### Page 8-9
 
 > [marginThumb] ![page 08](thumbnails/sandman.01/page08.jpg)
 

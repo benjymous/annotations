@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 31](thumbnails/sandman.31/page00.jpg)
 
-## Issue 31 : "Three Septembers and a January"
+# Issue 31 : "Three Septembers and a January"
 
 ##### Neil Gaiman and Shawn McManus
 

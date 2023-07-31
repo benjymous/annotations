@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 15](thumbnails/sandman.15/page00.jpg)
 
-## Issue 15: "Into the Night"
+# Issue 15: "Into the Night"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -32,15 +32,17 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
   I'm familiar with the moral tale, but it is quite long and I'll merely say that the point is that God does not abandon you during difficult times, those times are when he supports you the most.
 
-### Page 4
+### Page 4-5
 
-> [marginThumb] ![page 04](thumbnails/sandman.15/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.15/page04-05.jpg)
 
-- This is Ken's dream, one of money. The top line reads "[typewriter symbols] Talking talking money boy ar[e you] listening 2 [to] me?" Below two small pictures, of a building and a man (possibly Ken's self image, or a father or boss figure), and also beside Ken's head, it reads "Mebbe [Maybe] 100 thou[sand dollars]". Then "Mebbe talk talking money boy got 2 handit 2 u boy" next to the man superimposed over a table of mutual funds values. Mutual funds are a type of investment. Then a picture of the man superimposed over a stock market listing, next to "Mebbee 100 thou/Mebbe more...." A stock market listing has the prices for stocks, which are pieces of paper representing partial ownership of a company. The buying and selling of stocks is important to Western-style economies. Then above a final picture of the man, we have "talking money boy ar u listening 2 me??"
+- #### Left page
 
-### Page 5
+  This is Ken's dream, one of money. The top line reads _"[typewriter symbols] Talking talking money boy ar[e you] listening 2 [to] me?"_ Below two small pictures, of a building and a man (possibly Ken's self image, or a father or boss figure), and also beside Ken's head, it reads _"Mebbe [Maybe] 100 thou[sand dollars]"_. Then _"Mebbe talk talking money boy got 2 handit 2 u boy"_ next to the man superimposed over a table of mutual funds values. Mutual funds are a type of investment. Then a picture of the man superimposed over a stock market listing, next to _"Mebbee 100 thou/Mebbe more...."_ A stock market listing has the prices for stocks, which are pieces of paper representing partial ownership of a company. The buying and selling of stocks is important to Western-style economies. Then above a final picture of the man, we have _"talking money boy ar u listening 2 me??"_
 
-- This is Barbie's dream. Barbie's dream is the subject of an entire subsequent long storyline, so pay attention. Barbie's dream is a fairy tale.
+- #### Right page
+
+  This is Barbie's dream. Barbie's dream is the subject of an entire subsequent long storyline, so pay attention. Barbie's dream is a fairy tale.
 
   The first panel of the dream pictures Barbie's self-image; the Porpentine, a magic amulet, described below as "a confection of spun silver and rose quartz"; and Martin Tenbones, first known appearance, will appear later. "Porpentine" is used in Shakespeare's _Hamlet_, Act I Scene 5, to mean "porcupine". I suppose the amulet pictured here could be considered to resemble a porcupine.
 
@@ -48,7 +50,7 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 6-7
 
-> [marginThumb] ![page 06](thumbnails/sandman.15/page06.jpg)
+> [marginThumb] ![page 06](thumbnails/sandman.15/page06-07.jpg)
 
 - Chantal's dream occupies the top half of the double-page spread, Zelda's the bottom. The illustration of the two sleeping implies that they are lovers. Their relationship was uncertain to the other residents of the house. Note that the original comic, a caption from Zelda's dream appears in the central panel, but is virtually obscured by a lace overlay on the art.
 
@@ -214,7 +216,7 @@ Eighth story reprinted in trade paperback _The Doll's House_
 
 ### Page 16-17
 
-> [marginThumb] ![page 16](thumbnails/sandman.15/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.15/page16-17.jpg)
 
 - #### Panel 1
 

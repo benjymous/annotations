@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 51](thumbnails/sandman.51/page00.jpg)
 
-## Issue 51: "A Tale of Two Cities"
+# Issue 51: "A Tale of Two Cities"
 
 [Note: no official title is given; I am using Gaheris' title for his internal story.]
 

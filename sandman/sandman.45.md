@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 45](thumbnails/sandman.45/page00.jpg)
 
-## Issue 45: Brief Lives Five
+# Issue 45: Brief Lives Five
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 

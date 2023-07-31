@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 17](thumbnails/sandman.17/page00.jpg)
 
-## Issue 17: "Calliope"
+# Issue 17: "Calliope"
 
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
 

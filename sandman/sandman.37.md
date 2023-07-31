@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 37](thumbnails/sandman.37/page00.jpg)
 
-## Issue 37: "I Woke Up and One of Us Was Crying."
+# Issue 37: "I Woke Up and One of Us Was Crying."
 
 ##### Neil Gaiman and Shawn McManus
 

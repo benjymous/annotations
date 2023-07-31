@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 23](thumbnails/sandman.23/page00.jpg)
 
-## Issue 23: "Season of Mists Chapter 2"
+# Issue 23: "Season of Mists Chapter 2"
 
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
 
@@ -23,11 +23,9 @@
 
 ### Page 2-3
 
-> [marginThumb] ![page 02](thumbnails/sandman.23/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.23/page02-03.jpg)
 
-This is a double page splash panel. "I can open doors":
-
-foreshadowing.
+This is a double page splash panel. "I can open doors": foreshadowing.
 
 ### Page 4
 
@@ -180,8 +178,6 @@ foreshadowing.
   Limbo is generally assumed to be a realm of nothingness. The Far Realms would appear to be little more than mythical lexical wordplay.
 
 ### Page 19-20
-
-> [marginThumb] ![page 19](thumbnails/sandman.23/page19.jpg)
 
 - It is somewhat unclear what is occurring on these two pages. On 19, Lucifer and Dream appear to exit a gate (and note that it is entirely unclear whether Lucifer is the last out, as he predicted). On page 20, however, Lucifer locks a floating lump that does not seem to be attached to anything, and announces that the last of the gates is closed, even though page 19 panel 5 clearly shows the two well outside Hell's wall.
 

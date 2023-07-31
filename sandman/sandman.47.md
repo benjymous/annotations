@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 47](thumbnails/sandman.47/page00.jpg)
 
-## Issue 47: Brief Lives Seven
+# Issue 47: Brief Lives Seven
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 

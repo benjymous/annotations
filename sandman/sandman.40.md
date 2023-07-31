@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 40](thumbnails/sandman.40/page00.jpg)
 
-## Issue 40: "The Parliament of Rooks"
+# Issue 40: "The Parliament of Rooks"
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 

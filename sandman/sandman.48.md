@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 48](thumbnails/sandman.48/page00.jpg)
 
-## Issue 48: Brief Lives Eight
+# Issue 48: Brief Lives Eight
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 

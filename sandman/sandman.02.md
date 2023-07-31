@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 02](thumbnails/sandman.02/page00.jpg)
 
-## Issue 2: "Imperfect Hosts"
+# Issue 2: "Imperfect Hosts"
 
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
@@ -8,7 +8,7 @@ Second part of first storyline, _More than Rubies_
 
 Second story reprinted in _Preludes and Nocturnes_
 
-### Page 1:
+### Page 1
 
 > [marginThumb] ![page 01](thumbnails/sandman.02/page01.jpg)
 
@@ -140,7 +140,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
   The restriction on gargoyle names may be an unspoken rule from the mystery books.
 
-### Page 16:
+### Page 16
 
 > [marginThumb] ![page 16](thumbnails/sandman.02/page16.jpg)
 
@@ -174,7 +174,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
   "Hecateae" is probably the correct Greek plural for "Hecate", although this appears to be an unusual way of referring to that form of the Three.
 
-### Page 19-20:
+### Page 19-20
 
 - Notice that the ladies are changing position, or into one another's shape, cyclically, and that what one eats, the next finishes.
 
@@ -202,7 +202,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
   I am not aware of any conflict between the Fates and Circe (a magician in the Odyssey, also a villain in Wonder Woman, and the main villainess in War of the Gods).
 
-### Page 21:
+### Page 21
 
 > [marginThumb] ![page 21](thumbnails/sandman.02/page21.jpg)
 

@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 20](thumbnails/sandman.20/page00.jpg)
 
-## Issue 20: "Facade"
+# Issue 20: "Facade"
 
 ##### Neil Gaiman, Colleen Doran, and Malcolm Jones III
 

@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 11](thumbnails/sandman.11/page00.jpg)
 
-## Issue 11: "Moving In"
+# Issue 11: "Moving In"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -46,6 +46,8 @@ Fourth story reprinted in trade paperback _The Doll's House_
   The raven at the window is significant.
 
 ### Page 4
+
+> [marginThumb] ![page 03](thumbnails/sandman.11/page04.jpg)
 
 - The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberland", which is widely regarded as being of the highest quality.
 
@@ -151,17 +153,15 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 ### Page 16-17
 
-> [marginThumb] ![page 16](thumbnails/sandman.11/page16.jpg)
+> [marginThumb] ![page 16](thumbnails/sandman.11/page16-17.jpg)
 
 - This is a double page spread. The song in the background is the same song from page 11.
-
-### Page 19-20
-
-- We find confirmed that the Corinthian is a killer, and that he _yuck_ likes to eat eyes. Note that he seems to be talking and eating simultaneously, which is a hint of sorts.
 
 ### Page 19
 
 > [marginThumb] ![page 19](thumbnails/sandman.11/page19.jpg)
+
+- We find confirmed that the Corinthian is a killer, and that he _yuck_ likes to eat eyes. Note that he seems to be talking and eating simultaneously, which is a hint of sorts.
 
 - #### Panel 1
 

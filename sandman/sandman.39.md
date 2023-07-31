@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 39](thumbnails/sandman.39/page00.jpg)
 
-## Issue 39: "Soft Places"
+# Issue 39: "Soft Places"
 
 ##### Neil Gaiman and John Watkiss
 

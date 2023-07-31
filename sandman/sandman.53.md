@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 53](thumbnails/sandman.53/page00.jpg)
 
-## Issue 53: "Hob's Leviathan"
+# Issue 53: "Hob's Leviathan"
 
 - Third story in anthology, "Worlds' End"
 

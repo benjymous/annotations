@@ -1,6 +1,7 @@
 {
   "scripts": {
     "build": "honkit build",
+    "build-pdf": "honkit pdf ./ ./_publish_annotations.pdf",
     "serve": "honkit serve",
     "spell": "npx cspell sandman",
     "prettier": "npx prettier sandman/*.md -w"
@@ -11,6 +12,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "gitbook-plugin-blockclasses": "file:plugins/BlockClasses",
+    "gitbook-plugin-headerlinks": "file:plugins/HeaderLinks",
     "honkit-plugin-search-plus": "^1.0.0"
   }
 }

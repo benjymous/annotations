@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 44](thumbnails/sandman.44/page00.jpg)
 
-## Issue 44: Brief Lives Four
+# Issue 44: Brief Lives Four
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 

@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 54](thumbnails/sandman.54/page00.jpg)
 
-## Issue 54: "The Golden Boy"
+# Issue 54: "The Golden Boy"
 
 ##### Neil Gaiman, Michael Allred, Bryan Talbot, Mark Buckingham
 

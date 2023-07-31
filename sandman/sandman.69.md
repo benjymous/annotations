@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 69](thumbnails/sandman.69/page00.jpg)
 
-## Issue 69: "The Kindly Ones: 13"
+# Issue 69: "The Kindly Ones: 13"
 
 ##### Neil Gaiman, Marc Hempel
 

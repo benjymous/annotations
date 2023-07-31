@@ -1,4 +1,4 @@
-## Vertigo Preview: "Fear of Falling"
+# Vertigo Preview: "Fear of Falling"
 
 ##### Neil Gaiman and Kent Williams
 

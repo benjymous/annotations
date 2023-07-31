@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 50](thumbnails/sandman.50/page00.jpg)
 
-## Issue 50: "Ramadan"
+# Issue 50: "Ramadan"
 
 ##### Neil Gaiman and P. Craig Russell
 

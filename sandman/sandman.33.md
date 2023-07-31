@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 33](thumbnails/sandman.33/page00.jpg)
 
-## Issue 33: "Lullabies of Broadway"
+# Issue 33: "Lullabies of Broadway"
 
 ##### Neil Gaiman and Shawn McManus
 

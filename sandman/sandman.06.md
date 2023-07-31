@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 06](thumbnails/sandman.06/page00.jpg)
 
-## Issue 6: "24 Hours"
+# Issue 6: "24 Hours"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 

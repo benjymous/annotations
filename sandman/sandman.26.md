@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 26](thumbnails/sandman.26/page00.jpg)
 
-## Issue 26: "Season of Mists Chapter 5"
+# Issue 26: "Season of Mists Chapter 5"
 
 ##### Neil Gaiman, Kelley Jones, and George Pratt
 

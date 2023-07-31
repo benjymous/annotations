@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 43](thumbnails/sandman.43/page00.jpg)
 
-## Issue 43: Brief Lives Three
+# Issue 43: Brief Lives Three
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 

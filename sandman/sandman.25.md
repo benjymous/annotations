@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 25](thumbnails/sandman.25/page00.jpg)
 
-## Issue 25
+# Issue 25
 
 ##### Neil Gaiman, Matt Wagner, and Malcolm Jones III
 

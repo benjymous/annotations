@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 36](thumbnails/sandman.36/page00.jpg)
 
-## Issue 36: "Over the Sea to Sky"
+# Issue 36: "Over the Sea to Sky"
 
 ##### Neil Gaiman, Shawn McManus, Bryan Talbot, and Stan Woch
 

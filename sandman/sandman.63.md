@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 63](thumbnails/sandman.63/page00.jpg)
 
-## Issue 63: "The Kindly Ones: 7"
+# Issue 63: "The Kindly Ones: 7"
 
 ##### Neil Gaiman, Marc Hempel
 

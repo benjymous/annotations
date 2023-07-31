@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 49](thumbnails/sandman.49/page00.jpg)
 
-## Issue 49: Brief Lives Nine
+# Issue 49: Brief Lives Nine
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 

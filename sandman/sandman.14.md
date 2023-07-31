@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 14](thumbnails/sandman.14/page00.jpg)
 
-## Issue 14: "Collectors"
+# Issue 14: "Collectors"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 

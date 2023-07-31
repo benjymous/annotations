@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 38](thumbnails/sandman.38/page00.jpg)
 
-## Issue 38: "The Hunt"
+# Issue 38: "The Hunt"
 
 ##### Neil Gaiman, Duncan Eagleson, and Vince Locke
 

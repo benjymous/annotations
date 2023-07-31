@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 61](thumbnails/sandman.61/page00.jpg)
 
-## Issue 61: "The Kindly Ones: 5"
+# Issue 61: "The Kindly Ones: 5"
 
 ##### Neil Gaiman, Marc Hempel, D'Israeli
 

@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 41](thumbnails/sandman.41/page00.jpg)
 
-## Issue 41: Brief Lives One
+# Issue 41: Brief Lives One
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 

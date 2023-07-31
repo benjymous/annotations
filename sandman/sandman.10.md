@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 10](thumbnails/sandman.10/page00.jpg)
 
-## Issue 10: "The Doll's House"
+# Issue 10: "The Doll's House"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -110,7 +110,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
 ### Page 11-12
 
-> [marginThumb] ![page 11](thumbnails/sandman.10/page11.jpg)
+> [marginThumb] ![page 11](thumbnails/sandman.10/page11-12.jpg)
 
 - #### Panel 4
 

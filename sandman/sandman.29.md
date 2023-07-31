@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 29](thumbnails/sandman.29/page00.jpg)
 
-## Issue 29 : "Thermidor"
+# Issue 29 : "Thermidor"
 
 ##### Neil Gaiman, Stan Woch, and Dick Giordano
 

@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 16](thumbnails/sandman.16/page00.jpg)
 
-## Issue 16: "Lost Hearts"
+# Issue 16: "Lost Hearts"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 

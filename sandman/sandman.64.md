@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 64](thumbnails/sandman.64/page00.jpg)
 
-## Issue 64: "The Kindly Ones: 8"
+# Issue 64: "The Kindly Ones: 8"
 
 ##### Neil Gaiman, Teddy Kristiansen
 

@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 18](thumbnails/sandman.18/page00.jpg)
 
-## Issue 18: "A Dream of a Thousand Cats"
+# Issue 18: "A Dream of a Thousand Cats"
 
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
 

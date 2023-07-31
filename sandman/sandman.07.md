@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 07](thumbnails/sandman.07/page00.jpg)
 
-## Issue 7: "Sound and Fury"
+# Issue 7: "Sound and Fury"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
@@ -32,7 +32,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
   First known appearance of Nan Fowler. She will make a one-panel appearance later in this issue.
 
-### Page 3:
+### Page 3
 
 > [marginThumb] ![page 03](thumbnails/sandman.07/page03.jpg)
 

@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 72](thumbnails/sandman.72/page00.jpg)
 
-## Issue 72: "In Which We Wake"
+# Issue 72: "In Which We Wake"
 
 ##### Neil Gaiman, Michael Zulli
 

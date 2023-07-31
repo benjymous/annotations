@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 71](thumbnails/sandman.71/page00.jpg)
 
-## Issue 71: "In Which a Wake is Held"
+# Issue 71: "In Which a Wake is Held"
 
 ##### Neil Gaiman, Michael Zulli
 

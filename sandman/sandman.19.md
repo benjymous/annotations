@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 19](thumbnails/sandman.19/page00.jpg)
 
-## Issue 19: "A Midsummer Night's Dream"
+# Issue 19: "A Midsummer Night's Dream"
 
 ##### Neil Gaiman and Charles Vess
 

@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 58](thumbnails/sandman.58/page00.jpg)
 
-## Issue 58: "The Kindly Ones: 2"
+# Issue 58: "The Kindly Ones: 2"
 
 ##### Neil Gaiman, Marc Hempel, D'Israeli
 

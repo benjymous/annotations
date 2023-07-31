@@ -1,6 +1,6 @@
 > [marginThumb] ![](thumbnails/sandman-special1//page00.jpg)
 
-## Sandman Special #1: "The Song of Orpheus"
+# Sandman Special #1: "The Song of Orpheus"
 
 ##### Neil Gaiman, Bryan Talbot, and Mark Buckingham
 

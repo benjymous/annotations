@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 65](thumbnails/sandman.65/page00.jpg)
 
-## Issue 65: "The Kindly Ones: 9"
+# Issue 65: "The Kindly Ones: 9"
 
 ##### Neil Gaiman, Marc Hempel, Richard Case
 

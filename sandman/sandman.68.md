@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 68](thumbnails/sandman.68/page00.jpg)
 
-## Issue 68: "The Kindly Ones: 12"
+# Issue 68: "The Kindly Ones: 12"
 
 ##### Neil Gaiman, Marc Hempel, Richard Case
 

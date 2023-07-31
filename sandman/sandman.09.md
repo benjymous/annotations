@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 09](thumbnails/sandman.09/page00.jpg)
 
-## Issue 9: "Tales in the Sand"
+# Issue 9: "Tales in the Sand"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 

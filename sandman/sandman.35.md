@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 35](thumbnails/sandman.35/page00.jpg)
 
-## Issue 35: "Beginning to See the Light"
+# Issue 35: "Beginning to See the Light"
 
 ##### Neil Gaiman and Shawn McManus
 

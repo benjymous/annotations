@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 27](thumbnails/sandman.27/page00.jpg)
 
-## Issue 27: "Season of Mists Chapter 5"
+# Issue 27: "Season of Mists Chapter 5"
 
 ##### Neil Gaiman, Kelley Jones, and Dick Giordano
 
@@ -48,7 +48,7 @@
 
 ### Page 4-5
 
-> [marginThumb] ![page 04](thumbnails/sandman.27/page04.jpg)
+> [marginThumb] ![page 04](thumbnails/sandman.27/page04-05.jpg)
 
 - This is a two page splash panel spread. Note the cherubs spreading the tarpaulin. Beyond those figures gathered below that we have already seen, we may note a figure in a fur cloak and wooden mask, possibly African; a figure in Greco-Roman armor, who resembles _Wonder Woman_'s depiction of the Greek god Ares, and who may therefore be the Roman god Mars; an American Indian in chief's headdress; and a serpent-headed being of unknown provenance. The pictures and designs on the ceiling do not appear to have any obvious significance. Note that the armored figure may be the same figure that appeared briefly in the previous issue.
 

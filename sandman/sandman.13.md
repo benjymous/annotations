@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 13](thumbnails/sandman.13/page00.jpg)
 
-## Issue 13: "Men of Good Fortune"
+# Issue 13: "Men of Good Fortune"
 
 ##### Neil Gaiman, Michael Zulli, and [Steve?] Parkhouse
 

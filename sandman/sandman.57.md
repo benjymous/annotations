@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 57](thumbnails/sandman.57/page00.jpg)
 
-## Issue 57: "The Kindly Ones: 1"
+# Issue 57: "The Kindly Ones: 1"
 
 ##### Neil Gaiman, Marc Hempel
 

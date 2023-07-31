@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 08](thumbnails/sandman.08/page00.jpg)
 
-## Issue 8: "The Sound of Her Wings"
+# Issue 8: "The Sound of Her Wings"
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 

@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 12](thumbnails/sandman.12/page00.jpg)
 
-## Issue 12: "Playing House"
+# Issue 12: "Playing House"
 
 ##### Neil Gaiman, Chris Bachalo, and Malcolm Jones III
 

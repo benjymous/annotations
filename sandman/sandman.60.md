@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 60](thumbnails/sandman.60/page00.jpg)
 
-## Issue 60: "The Kindly Ones: 4"
+# Issue 60: "The Kindly Ones: 4"
 
 ##### Neil Gaiman, Marc Hempel, Disraeli
 

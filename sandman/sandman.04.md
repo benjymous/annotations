@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 04](thumbnails/sandman.04/page00.jpg)
 
-## Issue 4: "A Hope in Hell"
+# Issue 4: "A Hope in Hell"
 
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 

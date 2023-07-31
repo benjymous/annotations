@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 22](thumbnails/sandman.22/page00.jpg)
 
-## Issue 22: "Season of Mists Chapter 1"
+# Issue 22: "Season of Mists Chapter 1"
 
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
 

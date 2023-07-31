@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 56](thumbnails/sandman.56/page00.jpg)
 
-## Issue 56: "Worlds' End"
+# Issue 56: "Worlds' End"
 
 ##### Neil Gaiman, Bryan Talbot, Mark Buckingham, Gary Amaro, Dick Giordano,
 

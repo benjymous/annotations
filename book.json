@@ -3,5 +3,5 @@
 
   "root": "sandman",
 
-  "plugins": ["-search", "fontsettings", "search-plus", "blockclasses"]
+  "plugins": ["-search", "fontsettings", "search-plus", "blockclasses", "headerlinks"]
 }

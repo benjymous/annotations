@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 05](thumbnails/sandman.05/page00.jpg)
 
-## Issue 5: "Passengers"
+# Issue 5: "Passengers"
 
 ##### Neil Gaiman, Sam Kieth, and Malcolm Jones III
 

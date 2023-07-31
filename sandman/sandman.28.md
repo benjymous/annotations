@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 28](thumbnails/sandman.28/page00.jpg)
 
-## Issue 28: "Season of Mists Epilogue"
+# Issue 28: "Season of Mists Epilogue"
 
 ##### Neil Gaiman, Mike Dringenberg, and George Pratt
 
