@@ -62,7 +62,7 @@ Second story reprinted in _The Doll's House_
 
 - #### Panel 2-3
 
-  This has the flavor of one of Kipling's Just-So stories.
+  This has the flavor of one of Kipling's Just-So stories.  In The Sandman Companion, Gaiman states that this is here to signal to the reader that the original story has decayed over time.
 
 ### Page 11
 
@@ -145,3 +145,4 @@ Second story reprinted in _The Doll's House_
 - Chris Siebenmann <cks@hawkwind.utcs.toronto.edu> thinks that Dream came off pretty well in this story, but in the women's story is portrayed as a real bastard. I was under the impression that Dream was a bastard in the men's story....
 - Joanna <JBird66680@aol.com> -- for the women's story
 - Ralf Hildebrandt added more details.
+- Richard Munn added a note about the decay of the story from The Sandman Companion.

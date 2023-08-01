@@ -32,7 +32,7 @@
 
 - #### Panel 6
 
-  Specifically in 21:2:4. In this, the last long _Sandman_ arc, there are many echoes of the past: old characters return, and things seen before recur. Loose ends are tied up (or snipped off!) as the story draws to a close.
+  Specifically in [21:2](sandman.21.md#page-2):4. In this, the last long _Sandman_ arc, there are many echoes of the past: old characters return, and things seen before recur. Loose ends are tied up (or snipped off!) as the story draws to a close.
 
 ### Page 4
 
@@ -155,6 +155,8 @@
 
   Michael Eisner is head of Disney Studios. Michael Ovitz is a high-powered agent and deal-maker, called "The most powerful man in Hollywood" by _Newsweek_ magazine.
 
+  Lucifer, here, has ticked off some more of his [Bucket List](sandman.23.md#page-20), having built a house (well, a bar), and learnt to play the piano.   No sign of any dancing though.
+
 - #### Panel 4
 
   The song is "These Foolish Things", by Jack Strachey and Eric Maschwitz, English lyrics by Harry Link. A notable line not quoted:
@@ -220,4 +222,4 @@
 - Keith Kole, as reported by Joel Finkle (jjfink@skcla.monsanto.com) noticed the first-panel pattern.
 - Michele Tepper (misha@umich.edu) referenced the Eliot poem; so did Steven Zwanger (szwanger@panix.com), Paul O'Brien (prob@festival.ed.ac.uk), and Doug Noble (D.NOBLE@dundee.ac.uk)
 - Ralf Hildebrandt added more details.
-- Richard Munn added the note about Eric Needham's identity.
+- Richard Munn added the note about Eric Needham's identity, and Lucifer's bucket list.

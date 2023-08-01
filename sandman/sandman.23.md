@@ -183,6 +183,19 @@ This is a double page splash panel. "I can open doors": foreshadowing.
 
   Perhaps the most reasonable guess is that Dream and Lucifer exited Hell through the main gate, then proceeded to a lesser gate and locked it from the outside. This strikes me as a very odd sequence for a closing down of such mythic import.
 
+### Page 20
+
+- #### Panel 1
+
+  Lucifer sets out a little Bucket List for himself here:
+  - Lie on a beach somewhere,
+  - Listen to music,
+  - Build a house,
+  - Learn how to dance,
+  - Learn to play the piano.
+
+  We shall see how many of these he can tick off.
+
 ### Page 21
 
 > [marginThumb] ![page 21](thumbnails/sandman.23/page21.jpg)
@@ -251,3 +264,4 @@ This is a double page splash panel. "I can open doors": foreshadowing.
 - Michael Bowman <mbowman@andromeda.rutgers.edu> hit the library floor a-running to look up Weep-Not, Rimmon, Raguel, and Sandalphon. (Michael, the saying is "Waste not want not", not "Weep not...")
 - <emble@aol.com> added more background on Mazikeen
 - Ralf Hildebrandt added more details.
+- Richard Munn noted Lucifer's bucket list.

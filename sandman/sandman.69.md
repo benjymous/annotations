@@ -58,6 +58,8 @@
 
 ### Pages 10-11
 
+> [marginThumb] ![pages 10-11](thumbnails/sandman.69/page10-11.jpg)
+
 - #### Panel 3
 
   The positions of the hands is reminiscent of those of God and Adam in Michelangelo's "Creation of Adam".
@@ -96,7 +98,7 @@
 
 - #### Panel 2
 
-  Lucifer echoes Loki's words to Carla in [60](sandman.60.md):24.2. Mazikeen's line: "How _what_ comes out?"
+  Lucifer echoes Loki's words to Carla in [60](sandman.60.md):24.2. Mazikeen's line: _"How _**what** comes out?"_
 
 - #### Panel 6
 
@@ -110,7 +112,7 @@
 
   Mazikeen's lines:
 
-  > "Where are you going this time?" "I will follow you for ever...I must."
+  > _"Where are you going this time?"_ _"I will follow you for ever...I must."_
 
 ### Page 17
 
@@ -180,7 +182,7 @@
 
 - #### Panel 1
 
-  This panel, beginning the epilogue to "The Kindly Ones" **echoes another from the prologue to it**: [57](sandman.57.md):2.2.
+  This panel, beginning the epilogue to "The Kindly Ones" echoes another from the prologue to it: [57](sandman.57.md):2.2.
 
   It also concludes the meta-narrative on the story that runs through most of the starting panels:
 

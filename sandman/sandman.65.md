@@ -148,7 +148,9 @@
 
 - #### Panel 1
 
-  "They" meaning the Kindly Ones?
+  _"They can kill you, but **we** can kill you worse"_ : this is a chapter title from [R.A. Lafferty’s, 'Fourth Mansions'](https://en.wikipedia.org/wiki/Fourth_Mansions), which may in itself be a quotation from elsewhere.
+
+   In this case, "They" meaning the Kindly Ones, presumably.
 
 - #### Panel 3
 
@@ -206,3 +208,4 @@
 - David Silberstein (dasbc@cunyvm.cuny.edu) noted the keys and the echoes of Dream's castle; translated "Swartalfheim"; and recalled Thessaly's deeds in "A Game of You".
 - Timothy Tan aka TiTan <_> -M2001- <_> 083285@bud.cc.swin.edu.au
 - Ralf Hildebrandt added the note about dreams going into basements.
+- Richard Munn added the 'Then can kill you'... reference.

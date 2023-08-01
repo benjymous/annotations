@@ -83,7 +83,14 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 > [marginThumb] ![page 07](thumbnails/sandman.35/page07.jpg)
 
-- The text of the scroll is presumably taken from a specific reference work on birds which I have not identified.
+
+- The Sandman Companion states that the text on the scroll is from a 1920s reference book titled _The Birds of the British Isles and Migrations_.  Neil mentions the same book was used again in [#40](sandman.40.md)'s The Parliament of Rooks, and was also leant to Alan Moore for material on owls for Watchmen.
+
+  The same book, within its entry on the cuckoo also mentions:
+
+  >  The Welsh name of the Meadow-Pipit is "Gwas-y-Gog," the Cuckoo's servant.
+
+  Which is presumably where Neil came up with that name from.
 
 - #### Panel 3
 
@@ -183,3 +190,4 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 - Mike "Killans" Collins (mcollins@nyx.cs.du.edu) recalled Tolkien's Ents, and pointed out my omission of Shade.
 - Mike Kelly (mkelly@ovid.helios.nd.edu) and Glenn Carnagey (lf7z@ellis.uchicago.edu) have theories about the antecedents of Gniedrigs and Tantoblins (Dringenberg and Totleben; Gnome + Niedrig and Tanto + Goblin, meaning "lowly gnome" and "too much goblin"), neither of which I agree with.
 - Glenn also thinks the parallels between Tolkien and the Land are extreme and deliberate. I submit that this is because the Land is built on the same principles that Tolkien used in his work. In other words, they're similar because they're similar to the same thing, not because they're similar to each other.
+- Richard Munn added the bird book reference from Sandman Companion, and noticed the probably source of Gwas-y-Gog.

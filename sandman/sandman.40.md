@@ -204,6 +204,8 @@ A two-page spread. Cain's information on rooks is accurate.
 
   The Lilim are more traditionally identified with succubi, demons that have sex with men as they dream and so drain them.
 
+  The story of Lilith and the Lilim is further expanded upon in Mike Carey's _Lucifer_ spin-off.
+
 ### Page 17
 
 > [marginThumb] ![page 17](thumbnails/sandman.40/page17.jpg)

@@ -120,6 +120,10 @@
 
   Lucien is quoting _Swamp Thing_ #26, written by Alan Moore. The man in question was Matthew himself, who had been driving drunk and crashed his car; ultimately he died of it and became Morpheus's raven.
 
+- #### Panel 6
+
+  Here Lucian sums up the entire story.
+
 ### Page 20
 
 > [marginThumb] ![page 20](thumbnails/sandman.71/page20.jpg)

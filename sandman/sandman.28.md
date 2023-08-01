@@ -28,7 +28,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 ### Page 2-3
 
-> [marginThumb] ![page 02](thumbnails/sandman.28/page02.jpg)
+> [marginThumb] ![page 02](thumbnails/sandman.28/page02-03.jpg)
 
 - #### Panel 3 (left)
 
@@ -106,6 +106,9 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 - #### Panel 1-2
 
+
+  > [floatright width-40pc] !['The Best of Emerson, Lake, and Palmer'](images/BestOfEmersonLakePalmer.jpg)
+
   These are drawn in the classical Japanese "Ukiyo-E" (or "Floating World") style. Westerners might be familiar with this style from the cover of the album _The Best of Emerson, Lake, and Palmer_.
 
 - #### Panel 6
@@ -172,7 +175,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 - #### Panel 1
 
-  This is our old friend, Lucifer, ex-ruler of Hell.
+  This is our old friend, Lucifer, ex-ruler of Hell,  ticking off the first item on his [Bucket List](sandman.23.md#page-20).
 
 - #### Panel 3
 
@@ -198,13 +201,14 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 - #### Panel 1
 
+
   **Pom**: slang meaning British. Of uncertain origin, with many proposed acronymic histories, from "Prisoner of Mother England" (Australia's colonization was originally for the purposes of serving as a penal colony; English newcomers would therefore be "pommies"). It may also somehow arise from "pomegranate". Folk etymologies are notoriously unreliable, however. The short version of the OED labels the etymology unknown.
 
   Why, though, is Lucifer identifiably British? Probably he has a British accent, but why? (Note that his teeth in panel 4 seem to be quite white and straight, indications that he's not a victim of the British orthodontal industry (or lack thereof), although he might have a nasty overbite in panel 3. Smilies where appropriate :-) Obviously, Lucifer is a pog (Prisoner of God); Australia was Britain's Hell.
 
 - #### Panel 3-5
 
-  Lucifer's talking to the Creator, here.
+  Lucifer's talking to the Creator, here.  You can clearly see the "Young David Bowie" influence here.
 
 ### Page 21
 

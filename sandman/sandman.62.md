@@ -124,7 +124,7 @@
 
 - #### Panel 1-2
 
-  There's been speculation on the net that this "Helena" is Helena Kosmatos, the Golden Age Fury and (post-Crisis at least) Lyta Hall's lost mother. If so, it would fit in with the difficulty of saying her last name. Certainly the actions described here are those one would expect of a Fury. Also, there is some resemblance to the photo in [57:19](sandman.57.md#page-19).8.
+  The Sandman Companion confirms the speculation et that this "Helena" is Helena Kosmatos, the Golden Age Fury and (post-Crisis at least) Lyta Hall's lost mother, which explains the difficulty of saying her last name. Certainly the actions described here are those one would expect of a Fury. Also, there is some resemblance to the photo in [57:19](sandman.57.md#page-19).8.
 
   Note the women's names. The Greek writers who portrayed the Furies as a trio of women named them Tisiphone, Alecto, and Megaera. Amelia -- Alecto; Magda -- Megaera; and the Golden Age Fury was shown as receiving her powers specifically from Tisiphone.
 

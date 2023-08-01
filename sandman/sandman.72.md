@@ -120,11 +120,11 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 - #### Panel 3
 
-  The girl with the balloon is Shivering Jemmy of the Shallow Brigade, whom DC's "Lords of Chaos" sent to bargain with Dream for Hell in "The Season of Mists". She was last seen at the end of that story. (27: 21.5) Chaos's opponents, "The Lords of Order", also sent a representative; from the caption, he was meant to appear here, although Zulli did not draw him.
+  The girl with the balloon is Shivering Jemmy of the Shallow Brigade, whom DC's "Lords of Chaos" sent to bargain with Dream for Hell in "The Season of Mists". She was last seen at the end of that story. ([27: 21.5](sandman.27.md#page-4-5)) Chaos's opponents, "The Lords of Order", also sent a representative; from the caption, he was meant to appear here, although Zulli did not draw him.
 
 - #### Panel 4
 
-  This is Faramond, who gave up being a Babylonian deity in favor of being a travel agent. He was last seen in "Brief Lives" part 6. (46:8.6)
+  This is Pharamond, who gave up being a Babylonian deity in favor of being a travel agent. He was last seen in ["Brief Lives" part 6. (46:8.6)](sandman.46.md#page-8)
 
 - #### Panel 5
 
@@ -134,17 +134,25 @@ As each member of Dream's family delivers their eulogy, notice how the flowers a
 
 > [marginThumb] ![page 17](thumbnails/sandman.72/page17.jpg)
 
-- #### Panel 4
+- #### Panel 3-4
 
-  I believe the young oriental boy throwing the blue roses in honor of Dream's passing barge is actually the reincarnated Nada. The age is about right.
+  In The Sandman Companion, it's confirmed that the young boy in red throwing the blue roses in honor of Dream's passing barge is is the reincarnated Nada.
 
 ### Page 18-19
 
-> [marginThumb] ![page 18](thumbnails/sandman.72/page18.jpg)
+> [marginThumb] ![page 18](thumbnails/sandman.72/page18-19.jpg)
 
 As Morpheus's funereal barge goes over the waterfall, the figurehead keeps changing. Notice when it becomes the hand holding the Ruby, it's being clutched very violently, reminiscent of the end of the Preludes and Nocturnes storyline when Dr. Dee crushed the Ruby with his bare hand, returning its power to Morpheus. In The Wake trade paperback, this sequence is expanded to stretch over three pages, and when that particular form of the barge is drawn, Zulli gave it two hands, and they're cradling the ruby much more gently. Also, in the trade, Zulli saw fit to include a version of the barge with Morpheus's visage as the figure head, with short hair, which appears between the Helm-barge and the Ruby-barge.
 
 Perhaps these figureheads correspond to various important points in Morpheus's existence (his falling-out with Orpheus, his imprisonment, the destruction of the ruby and the beginning of this chronicle)?
+
+### Page 20
+
+> [marginThumb] ![page 21](thumbnails/sandman.72/page20.jpg)
+
+- #### Panel 3
+
+  The barge disappears into the sky, and becomes a star.
 
 ### Page 21
 
@@ -154,6 +162,8 @@ Perhaps these figureheads correspond to various important points in Morpheus's e
 
   The man in the coat just to the left of Lyta Hall is Doctor Destiny, or Doctor Dee. He was last seen in [7:23](sandman.07.md#page-23).1.
 
+  Note the star watching over everything.
+
 - #### Panel 4
 
   The sequence that follows echoes the one at the end of issue 1 ([1](sandman.01.md):34-37), with reversals that work on numerous levels. This Dream gives mercy instead of punishment; the cat that Burgess follows is white instead of black; we go from the tower to the hallways instead of the other way around.
@@ -161,6 +171,10 @@ Perhaps these figureheads correspond to various important points in Morpheus's e
 ### Page 22
 
 > [marginThumb] ![page 22](thumbnails/sandman.72/page22.jpg)
+
+- #### Panel 1, 5, 6
+
+  Again, we're followed by the star.
 
 - #### Panel 6
 
@@ -186,6 +200,10 @@ Perhaps these figureheads correspond to various important points in Morpheus's e
 
   It was the French. They used to say it when they had kings.
 
+- #### Panel 4
+
+  And the main story ends, still watched by Morpheus' star, with more echoes of the start of [#1](sandman.01.md) - _You woke up_.
+
 ## Credits
 
 - Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman Annotations.
@@ -199,3 +217,4 @@ Perhaps these figureheads correspond to various important points in Morpheus's e
 - Steve Zwanger (szwanger@gnu.ai.mit.edu) identified the flowers.
 - April LePaige (73654.2110@CompuServe.COM) also commented on them.
 - Stuart Friedberg (stuartf@sequent.com) noticed the change in Ric Madoc's surroundings.
+- Richard Munn confirmed Nada, noted Morpheus' star, and the mirroring words.

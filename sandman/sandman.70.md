@@ -62,7 +62,7 @@
 
 - #### Panel 7
 
-  ...But it is not known why Despair should create the eyes. Perhaps because she skewers her own eye in the Brief Lives arc? [Insert exact reference here]
+  ...But it is not known why Despair should create the eyes. Perhaps because she skewers her own eye in the Brief Lives arc? ([41:20.5](sandman.41.md#page-20))
 
 - #### Panel 8
 

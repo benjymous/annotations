@@ -330,7 +330,7 @@ Many of the chapters of this storyline have titles taken from songs. Can anyone 
 
   Note what appear to be many keyholes on Barbie's door; New York residents have multiple deadbolts and police locks to help keep thieves out.
 
-  Note also the man standing in the background. Is he merely loitering, or is he interested in what happens to Barbie?
+  Note also George standing in the background. Is he merely loitering, or is he interested in what happens to Barbie?
 
 ### Page 24
 

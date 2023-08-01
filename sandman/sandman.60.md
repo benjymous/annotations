@@ -82,6 +82,10 @@
 
 > [marginThumb] ![page 14](thumbnails/sandman.60/page14.jpg)
 
+- #### Panel 1
+
+  **Roseanne**: see [p15](#page-15)
+
 - #### Panel 3
 
   Those wishing to learn more about Rose's family tree are directed first to [issue #1](sandman.01.md), then to the "Doll's House" story.
@@ -99,7 +103,9 @@
   Carmilla Bristol seems to be fictional.
 
   On the TV set, there are books on the TV shows "The Golden Girls" and "Bewitched". Not too sure about the Bewitched reference, but weren't there three "Golden Girls"? (plus Estelle Getty, of course, who played the mother of one of the three).
+
   A quick note about why Rose Walker is studying the triple goddesses in the TV show "Bewitched":
+
   The main character, Sam, was a witch.
 
   Her mother, Endora, was also a witch.
@@ -107,6 +113,12 @@
   In later episodes, Darren and Sam had a daughter, and she also had witching powers.
 
   So, we have 3 witches.
+
+  And of course, on the TV itself, is _Roseanne_ which has Darlene, Roseanne and Bev.
+
+  It should also be noted that Roseanne itself referenced back to The Sandman:
+
+> [flex cols-2] ![Sandman posters in Darlene's bedroom](images/Roseanne-1.jpg) ![David wearing a Sandman T-Shirt](images/Roseanne-2.jpg)
 
 ### Page 16
 
@@ -170,3 +182,4 @@
 - Rose's youth and her having lost her heart.
 - eddietomb@yahoo.com made some more observations on Rose's posters
 - Ralf Hildebrandt added more details.
+- Richard Munn added the Roseanne references.

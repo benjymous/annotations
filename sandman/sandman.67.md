@@ -58,6 +58,14 @@
 
   Dream's statement here is rather curious; on the one occasion that he spoke with Ishtar ([issue #45](sandman.45.md) -- "Brief Lives" part 5) the subject of change did not arise. He told Destruction that he had not changed, and a little bit later, Orpheus.
 
+### Page 6
+
+> [marginThumb] ![page 07](thumbnails/sandman.67/page07.jpg)
+
+- #### Panel 1
+
+  _"...as has been recently pointed out to me..."_ see [#65](sandman.65.md):21.4
+
 ### Page 9
 
 > [marginThumb] ![page 09](thumbnails/sandman.67/page09.jpg)
