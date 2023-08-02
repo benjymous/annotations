@@ -85,7 +85,7 @@ We see Manhattan, it turns back to Shaws face, and she finishes the song, while 
 
 - #### Panel 2
 
-  It looks to me like "dicks" got changed to "dorks", which is a pretty sad editorial change in a "mature readers" title. (It appears that it was changed back in later editions.) There is a lettering correction mark between the d and the o. Note that "dork" is, however, English slang for "penis", at about the same social level as "dick", so Gaiman may have slipped one past Karen again. (He replaced "shit" with "felching" in Books of Magic; "felching" is far more obscene than "shit", albeit more obscure.)
+  In the original issue, "dicks" got changed to "dorks", which is a pretty sad editorial change in a "mature readers" title. (It appears that it was changed back in later editions.) There is a lettering correction mark between the d and the o. Note that "dork" is, however, English slang for "penis", at about the same social level as "dick", so Gaiman may have slipped one past Karen again. (He replaced "shit" with "felching" in Books of Magic; "felching" is far more obscene than "shit", albeit more obscure.)
 
 ### Page 6
 

@@ -76,6 +76,14 @@
 
   Note Hob Gadling in the background from page 8 panel 4. This is a bit odd, as the pictures in Despair's realm are supposedly all the backs of mirrors; there certainly was no mirror there in the cemetery.
 
+### Page 11
+
+> [marginThumb] ![page 12](thumbnails/sandman.59/page11.jpg)
+
+- #### Panel 2
+
+  We never see anything else in The Threshold, other than Desire's flesh and blood Citadel, and surrounding clouds, yet here there appears to be a bird.
+
 ### Page 13
 
 > [marginThumb] ![page 13](thumbnails/sandman.59/page13.jpg)
@@ -151,3 +159,4 @@
 - Greg "elmo" Morrow (morrow@physics.rice.edu) created the Sandman Annotations.
 - Originally collated and edited by David Goldfarb.
 - Ralf Hildebrandt added more details.
+- Richard Munn noticed Desire's bird.

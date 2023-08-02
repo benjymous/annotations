@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 46](thumbnails/sandman.46/page00.jpg)
 
-# Issue 46: Brief Lives Six
+# Issue 46: Brief Lives: Chapter Six
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
@@ -8,7 +8,7 @@
 
 **Insert**: This issue contains a special insert, "Death Talks about Life", by Gaiman, art by Dave McKean. I have no particular notes, save that the information presented is accurate within the limitations of the medium. And it can save your life.
 
-### 1: _Life Isn't Pleasant, Petrified_
+## 1: _Life Isn't Pleasant, Petrified_
 
 ### Page 1
 
@@ -54,9 +54,9 @@
 
   **Doggerel**: a pun. Note Barnabas's coiled tail, indicating that he's probably a Spitz breed, akin to huskies, corgis, and other working dogs. Spitz are characterized by "foxy" heads, such as Barnabas's large, triangular ears and long, narrow muzzle.
 
-### 2: _The Parting of the Ways_
+## 2: _The Parting of the Ways_
 
-### 3: _The Trouble with Mortals_
+## 3: _The Trouble with Mortals_
 
 ### Page 8
 
@@ -70,7 +70,7 @@
 
   Pharamond's "trouble with mortals" is ironic considering the theme of _Brief Lives_.
 
-### 4: _Dreamings of Meeting or Meetings of Dreaming?_
+## 4: _Dreamings of Meeting or Meetings of Dreaming?_
 
 ### Page 9
 
@@ -108,9 +108,9 @@
 
   The ancient Egyptians revered cats, and mummified cats have been found in Egyptian tombs.
 
-### 5: _The Trouble with Gods_
+## 5: _The Trouble with Gods_
 
-Compare with Section 3.
+- Compare with Section 3.
 
 ### Page 15
 
@@ -120,7 +120,7 @@ Compare with Section 3.
 
   The cat being euthanized is probably Chloe Russell's cat ([#43](sandman.43.md), [#49](sandman.49.md)).
 
-### 6: _Mervyn Sets Him Straight_
+## 6: _Mervyn Sets Him Straight_
 
 ### Page 16
 
@@ -134,12 +134,12 @@ Compare with Section 3.
 
   More books from Lucien's library:
 
-- _The Death of Kai Lung_ by Ernest Bramah: See the Appendix.
-- _Chanticleer's Dance_ by Hope Mirrlees: Mirrlees is a favorite author of Gaiman. See annotation [#22](sandman.22.md) for more details.
-- _The Last Voyage of Lemuel Gulliver_ by [Jonathan] Swift: Swift, a late-17th, early-18th century, Irish satirist, is perhaps best-remembered for his _Gulliver's Travels_, a work about a shipwrecked doctor whose encounters with various unusual societies effectively satirized Swift's own society.
-- _The Emperor Over the Sea_ by C.S. Lewis: Lewis has been referenced before (notably [#36](sandman.36.md)). He is an early fantasist and Christian writer, noted for his _Chronicles of Narnia_, of which this book is a continuance. The Emperor over the Sea is the one who sent Aslan to free Narnia, by allegory, therefore, the Christian God. King Caspian turns his ship back at the border of the Emperor's kingdom in _Voyage of the Dawn Treader_, the third book. The Emperor's story might very well be about life in the Narnian analog to the kingdom of heaven, since the final Narnia story, _The Last Battle_, chronicles the end of Narnia and the judgment and departure of its inhabitants.
-- _Ian and Ann's Book of Days_: No refs.
-- A partial title ending in "Phoenix", written by an author whose name ends in "bit": British children's author Edith Nesbit wrote _The Phoenix and the Carpet_, among others; this book may be _The Sand-Fairy and the Phoenix_, a second encounter between two of her fantastic beasts.
+  - _The Death of Kai Lung_ by Ernest Bramah: See the Appendix.
+  - _Chanticleer's Dance_ by Hope Mirrlees: Mirrlees is a favorite author of Gaiman. See annotation [#22](sandman.22.md) for more details.
+  - _The Last Voyage of Lemuel Gulliver_ by [Jonathan] Swift: Swift, a late-17th, early-18th century, Irish satirist, is perhaps best-remembered for his _Gulliver's Travels_, a work about a shipwrecked doctor whose encounters with various unusual societies effectively satirized Swift's own society.
+  - _The Emperor Over the Sea_ by C.S. Lewis: Lewis has been referenced before (notably [#36](sandman.36.md)). He is an early fantasist and Christian writer, noted for his _Chronicles of Narnia_, of which this book is a continuance. The Emperor over the Sea is the one who sent Aslan to free Narnia, by allegory, therefore, the Christian God. King Caspian turns his ship back at the border of the Emperor's kingdom in _Voyage of the Dawn Treader_, the third book. The Emperor's story might very well be about life in the Narnian analog to the kingdom of heaven, since the final Narnia story, _The Last Battle_, chronicles the end of Narnia and the judgment and departure of its inhabitants.
+  - _Ian and Ann's Book of Days_: No refs.
+  - A partial title ending in "Phoenix", written by an author whose name ends in "bit": British children's author Edith Nesbit wrote _The Phoenix and the Carpet_, among others; this book may be _The Sand-Fairy and the Phoenix_, a second encounter between two of her fantastic beasts.
 
 ### Page 17
 
@@ -157,7 +157,7 @@ Compare with Section 3.
 
   Note the mirror in the place of Dream's sigil.
 
-### 7: _"Have You Got Anything with a Happy Ending?"_
+## 7: _"Have You Got Anything with a Happy Ending?"_
 
 ### Page 19
 
@@ -165,9 +165,9 @@ Compare with Section 3.
 
 - #### Panel 6
 
-  **Note the use of cartoon iconography**: the wavy lines indicating that a character is "steamed", thus angry; the question mark indicating puzzlement. Visual shorthand like this is generally restricted to more "cartoony" works than _Sandman_. (Compare to Scott McCloud's triangle of iconography in _Understanding Comics_.) Shorthand is necessarily more superficial than more explicit characterization. Panel 6 is duplicated in Death's words in panel 5 and her expression in panel 7, and Dream's words in panels 4 and 7.
+  Note the use of cartoon iconography: the wavy lines indicating that a character is "steamed", thus angry; the question mark indicating puzzlement. Visual shorthand like this is generally restricted to more "cartoony" works than _Sandman_. (Compare to Scott McCloud's triangle of iconography in _Understanding Comics_.) Shorthand is necessarily more superficial than more explicit characterization. Panel 6 is duplicated in Death's words in panel 5 and her expression in panel 7, and Dream's words in panels 4 and 7.
 
-Needless to say, it would be interesting to see the script to this issue to see how (if) Gaiman described this panel.
+  Needless to say, it would be interesting to see the script to this issue to see how (if) Gaiman described this panel.
 
 ### Page 20
 
@@ -179,9 +179,9 @@ Needless to say, it would be interesting to see the script to this issue to see 
 
   [15 or 16 is the usual age given as a guide to the artists.]
 
-### 8: _Tempus Frangit._
+## 8: _Tempus Frangit._
 
-Latin for "time breaks" or "time shatters"; the inscription on Delirium's unusual sundial. Formed by parallel with "tempus fugit", or "time flies", a common saying.
+- Latin for "time breaks" or "time shatters"; the inscription on Delirium's unusual sundial. Formed by parallel with "tempus fugit", or "time flies", a common saying.
 
 ### Page 21
 
@@ -197,7 +197,7 @@ Latin for "time breaks" or "time shatters"; the inscription on Delirium's unusua
 
 > [marginThumb] ![page 22](thumbnails/sandman.46/page22.jpg)
 
-- "Tempus Frangit" means "Time breaks/shatters", which is probably why Delirium says "It's stopped". "Tempus Frangit" could also refer to Delirium's realm.
+- Delirium, referring to the sundial says "It's stopped", which makes sense when considering the definition of _Tempus Frangit_. "Tempus Frangit" could also refer to Delirium's realm.
 
 ### Page 23-24
 

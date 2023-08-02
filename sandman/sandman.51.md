@@ -2,8 +2,6 @@
 
 # Issue 51: "A Tale of Two Cities"
 
-[Note: no official title is given; I am using Gaheris' title for his internal story.]
-
 ##### Neil Gaiman, Bryan Talbot, Alec Stevens, Mark Buckingham
 
 First story in anthology, "Worlds' End"

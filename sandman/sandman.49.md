@@ -1,12 +1,12 @@
 > [marginThumb] ![cover for issue 49](thumbnails/sandman.49/page00.jpg)
 
-# Issue 49: Brief Lives Nine
+# Issue 49: Brief Lives: Chapter Nine
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
 **Notes**: See [#41](sandman.41.md). This issue is the coda for the arc, reprising all that we've seen before and reiterating "change" as the theme. The briefness of life reinforces the change embodied by Destruction. The emphasis upon change is meant to point out the change in Dream since his imprisonment, as remarked by Orpheus in [49](sandman.49.md):3.3 and by Destruction in [47:24](sandman.47.md#page-24).2 and [48:17](sandman.48.md#page-17).5. It is perhaps worth noting that the epilog does not strictly begin until 3: or 4:. 1: and 2: are necessarily a part of the central story and are themselves reprised in 7:. Despair's reappearance in 4: is a strict reprise of her role in [#41](sandman.41.md).
 
-### 1: _Farewells_
+## 1: _Farewells_
 
 ### Page 1
 
@@ -20,9 +20,11 @@
 
   **House across the bay**: Destruction's house, as made clear last issue.
 
-### 2: _Answered Prayers_
+## 2: _Answered Prayers_
 
-### 3: _The Flowers of Romance_
+## 3: _The Flowers of Romance_
+
+- This is also the title of one of the [Winters Edge short stories](sandman-flowers-romance.md)
 
 ### Page 6
 
@@ -42,7 +44,7 @@
 
   Again, see [Special #1](sandman-special1.md) or Graves or another classical Greek myth text for details.
 
-### 4: _Journey's End_
+## 4: _Journey's End_
 
 ### Page 7
 
@@ -84,9 +86,9 @@
 
   Is that Etain ([43:13](sandman.43#page-13)) in the mirror behind Despair?
 
-### 5: _The Gates of Horn_
+## 5: _The Gates of Horn_
 
-**Note**: The gates' purpose is as given in classical mythology. See the annotation to [#2](sandman.02.md) for citations from Homer and Virgil.
+- **Note**: The gates' purpose is as given in classical mythology. See the annotation to [#2](sandman.02.md) for citations from Homer and Virgil.
 
 ### Page 11
 
@@ -100,7 +102,7 @@
 
   Other sources indicate that Morpheus, Icalus/Phobetor, and Phantasus were the children of Hypnos. [Lance Smith has accumulated some fairly exhaustive notes on the Greek sources of Dream and the other Endless.]
 
-### 6: _Things Unlooked For_
+## 6: _Things Unlooked For_
 
 ### Page 14
 
@@ -157,13 +159,13 @@
 
 - #### Panel 5
 
-  "Little" and "sky is falling" may be an oblique reference to the story of Chicken Little, who thought the sky was falling.
+  **"Little"** and **"sky is falling"** may be an oblique reference to the story of Chicken Little, who thought the sky was falling.
 
 - #### Panel 6
 
   **Real life**: Mervyn's talent for putting his foot in his mouth shows through again, as Dream is probably "overreacting" to the knowledge that the Kindly Ones will demand his death for spilling family blood.
 
-### 7: _Brief Lives_
+## 7: _Brief Lives_
 
 ### Page 19
 

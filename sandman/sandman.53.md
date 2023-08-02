@@ -64,7 +64,7 @@
 
 - #### Panel 5-6
 
-  Rhyming slang. "Khyber [Pass]" -- "Ass". "Apples and Pears" -- "stairs".
+  Rhyming slang. **"Khyber [Pass]"** -- "Ass". **"Apples and Pears"** -- "stairs".
 
 ### Page 11
 
@@ -104,7 +104,7 @@
 
 - #### Panel 3
 
-  In the Kindly Ones arc, Hob Gadling mentions a previous wife of his called Peggy. (Don't have the exact reference.) Could "Jim" be the same person he mentions?
+  In the Kindly Ones arc ([#59:8](sandman.59.md#page-8).1), Hob Gadling mentions a previous wife of his called Peggy. Could "Jim" be the same person he mentions?
 
 ### Page 24
 

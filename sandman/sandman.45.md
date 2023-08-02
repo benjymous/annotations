@@ -1,12 +1,12 @@
 > [marginThumb] ![cover for issue 45](thumbnails/sandman.45/page00.jpg)
 
-# Issue 45: Brief Lives Five
+# Issue 45: Brief Lives: Chapter Five
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
 **Notes**: See [#41](sandman.41.md). For references on Ishtar and Ancient Near Eastern rites, consult the appendix. This issue, the middle one of the arc, has many points in common with [#41](sandman.41.md), the first one of the arc.
 
-### 1: _The Things We Do to Be Loved_
+## 1: _The Things We Do to Be Loved_
 
 ### Page 1
 
@@ -28,7 +28,7 @@
 
   **Shooting up**: Taking heroin, which is administered via syringe.
 
-### 2: _Her Hands Do Not Go to the Moon_
+## 2: _Her Hands Do Not Go to the Moon_
 
 ### Page 5
 
@@ -40,13 +40,13 @@
 
 - #### Panel 2
 
-  "I'm a very good driver" is an oft-quoted line of dialog from the movie _Rain Man_, spoken by Dustin Hoffman's autistic character.
+  **"I'm a very good driver"** is an oft-quoted line of dialog from the movie _Rain Man_, spoken by Dustin Hoffman's autistic character.
 
 - #### Panel 3-5
 
   Del's actions here are reminiscent of Dream's punishment of Alex Burgess in [#1](sandman.01.md). It is evident that the Endless have the ability to cloud people's minds (as in [#41](sandman.41.md) and [#44](sandman.44.md), as well as on page 16, for example).
 
-### 3: _The Driving Instructor_
+## 3: _The Driving Instructor_
 
 ### Page 6
 
@@ -60,7 +60,7 @@
 
   Matthew is referring to the incident in Swamp Thing #27, where he was possessed by the spirit of his wife's uncle, the evil sorceror-scientist-supervillain Anton Arcane.
 
-### 4: _Tiffany Watches I_
+## 4: _Tiffany Watches I_
 
 ### Page 7
 
@@ -94,9 +94,9 @@
 
   There's a parallel here, since Madonna was married to a "Sean"--Sean Penn--for a short time.
 
-### 5: _White Knights and/or Pond-Scum_
+## 5: _White Knights and/or Pond-Scum_
 
-Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recognized as a compound noun. There are three stages in the life of an English compound noun. In the first, two words become associated with a single meaning, as in "pond scum". After a while, the written form becomes hyphenated, as it is here. Finally, the two original words are jammed together as a single word: "pondscum".
+- Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recognized as a compound noun. There are three stages in the life of an English compound noun. In the first, two words become associated with a single meaning, as in "pond scum". After a while, the written form becomes hyphenated, as it is here. Finally, the two original words are jammed together as a single word: "pondscum".
 
 ### Page 9
 
@@ -104,7 +104,7 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
 - #### Panel 1
 
-  Note that "pond scum" is not hyphenated.
+  Note that "pond scum" is not hyphenated here.
 
 - #### Panel 3
 
@@ -114,7 +114,7 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
   **Blow**: cocaine.
 
-### 6: _Are Dalmations Flowers?_
+## 6: _Are Dalmations Flowers?_
 
 ### Page 10
 
@@ -133,7 +133,7 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
   **101 Dalmatians**: A full-length cartoon by Walt Disney Studios. There are, in fact, 101 Dalmatians, mostly puppies, in the film. "Dalmatiums" are a type of flower. Dalmatia is a region in Yugoslavia along the Adriatic.
 
-### 7: _Nancy Displays Her Erudition_
+## 7: _Nancy Displays Her Erudition_
 
 ### Page 11
 
@@ -142,7 +142,8 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 - #### Panel 1
 
   **Suffragette City**: A song by David Bowie. "Suffragette" was the term applied to women who sought to obtain the ability to vote.
-  ("Suffrage" = "vote", from the Latin for "voting tablet".)
+
+  (**"Suffrage"** = "vote", from the Latin for "voting tablet".)
 
 ### Page 12
 
@@ -150,7 +151,7 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
 - #### Panel 5-6
 
-  **Oprah" and "Donahue**: American talk shows, often devoted to the latest sensationalistic book, scam, or fad. The "Donahue" topic given in 13.5 is a good parody of a typical show. The hosts' full names are Oprah Winfrey and Phil Donahue.
+  **Oprah** and **Donahue**: American talk shows, often devoted to the latest sensationalistic book, scam, or fad. The "Donahue" topic given in 13.5 is a good parody of a typical show. The hosts' full names are Oprah Winfrey and Phil Donahue.
 
 ### Page 13
 
@@ -160,9 +161,9 @@ Note that "pond-scum" is usually not hyphenated. However, "pond scum" is recogni
 
   **Mai Lai**: Possibly an amalgam of "mai tai", a kind of rum drink (to which Tiffany refers), and "My Lai", a village in South Vietnam where American military forces engaged in a massacre of civilians.
 
-### 8: _Wham Bam Thank You Ma'am_
+## 8: _Wham Bam Thank You Ma'am_
 
-Slang for something quickly and abruptly started and accomplished; originally referring to the legendary speed of men during the sex act. Notable as a shouted lyric near the end of David Bowie's "Suffragette City".
+- Slang for something quickly and abruptly started and accomplished; originally referring to the legendary speed of men during the sex act. Notable as a shouted lyric near the end of David Bowie's _"Suffragette City"_.
 
 ### Page 14
 
@@ -188,9 +189,9 @@ Slang for something quickly and abruptly started and accomplished; originally re
 
   Recall that Del pulled the same trick in [#41](sandman.41.md).
 
-### 9: _Tiffany Watches II_
+## 9: _Tiffany Watches II_
 
-Note the ironic change in meaning of "watches" from section 4.
+- Note the ironic change in meaning of "watches" from section 4.
 
 ### Page 21
 

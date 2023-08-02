@@ -1,12 +1,12 @@
 > [marginThumb] ![cover for issue 44](thumbnails/sandman.44/page00.jpg)
 
-# Issue 44: Brief Lives Four
+# Issue 44: Brief Lives: Chapter Four
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
 **Notes**: See [#41](sandman.41.md). The subtheme of the issue is color. Note that Del has not changed clothing since the middle of last issue.
 
-### 1: _The Other Side of the Sky_
+## 1: _The Other Side of the Sky_
 
 ### Page 1
 
@@ -38,7 +38,7 @@
 
   **Cerulean**: A deep sky blue. From the Latin caelum, "sky". In other words, the sky turns sky blue, a tautology.
 
-### 2: _A Bear and His Shadow_
+## 2: _A Bear and His Shadow_
 
 ### Page 3
 
@@ -48,7 +48,7 @@
 
   **Leib-Olmai**: Lapp for "Alder Man". A mythical bear-man or bear-god. He protected the bear, a holy animal, and provided good luck to hunters that honored him. If hunters did snub Lieb, they would often lose their prey and occasionally Lieb might help a bear if it were to attack the hunters. He is a bit of a male chauvinist. Lapp women were not allowed to walk around a tent where hunting equipment is kept.
 
-### 3: _Departed Secrets_
+## 3: _Departed Secrets_
 
 ### Page 7
 
@@ -62,7 +62,7 @@
 
   **Smack**: slang for heroin. Raw heroin is brown; when processed, it becomes white.
 
-### 4: _"Twinkle's a Nice Word. So's Viridian."_
+## 4: _"Twinkle's a Nice Word. So's Viridian."_
 
 ### Page 9
 
@@ -70,9 +70,9 @@
 
 - #### Panel 3
 
-  Del's balloon should be multicolored.
+  Del's balloon was miscolored in early editions.
 
-### 5: _Three Keys_
+## 5: _Three Keys_
 
 ### Page 10
 
@@ -106,7 +106,7 @@
 
   **Ishtar**: A Babylonian goddess. See the Appendix to the annotation for [#45](sandman.45.md). Note that the manager's list does not say "Ishtar" in the appropriate place, but rather "Ca" plus obscured letters. Significance?
 
-### 6: _A Treatise on Optics_
+## 6: _A Treatise on Optics_
 
 ### Page 17
 
@@ -114,7 +114,7 @@
 
 - #### Panel 3
 
-  The Corinthian is wrongly colored white.
+  Another coloring error - The Corinthian is wrongly colored white in early editions.
 
 - #### Panel 6
 
@@ -134,7 +134,7 @@
 
 - #### Panel 2
 
-  Tyburn Tree (an elm?) was the site of the London gallows.
+  **Tyburn Tree** was the site of the London gallows.  Not a literal tree, but the [name for the gallows themselves](https://marble-arch.london/culture-blog/history-of-tyburn-tree/). (_"Tyburn's Tree"_)
 
   It is now known as Speaker's Corner, at the northeast corner of Hyde Park.
 
@@ -156,7 +156,7 @@
 
 - #### Panel 5
 
-  Dream is wrongly colored human, and the Corinthian's forehead is wrongly colored white.
+  Yet more early edition coloring errors - Dream was wrongly colored human, and the Corinthian's forehead white.
 
 ### Page 19
 
@@ -186,7 +186,7 @@
 
   **Homo sylvestris**: An obsolete classification of the orangutan, meaning "man of the woods", which is also the literal translation of the Malay phrase which became the common name. Note that taxonomy did not begin to standardize until the 1732 publication of Carl von Linne's great botanical treatise on the subject.
 
-  The earliest known citation of "orangutan" in English dates from 1691.
+  The earliest known citation of "**orangutan**" in English dates from 1691.
 
   In 1699, Edward Tyson published a treatise on the anatomy of what he called an Orang-Outang (which was actually a baby chimpanzee), based on a dissection he performed in June and July 1698. The chimp had come from Angola and had died on the ship two months earlier in April. The skeleton was displayed for many years at the British Museum, and may still be visible there. The body pictured here is clearly an adult orangutan. ObPratchett: Ook!
 
@@ -208,7 +208,7 @@
 
   The Corinthian, of course, likes to eat eyes with his eyeteeth.
 
-### 7: _The Perils of Smoking in Bed?_
+## 7: _The Perils of Smoking in Bed?_
 
 ## Credits
 
@@ -221,6 +221,7 @@
 - R.J.Johnston (R.J.Johnston@newcastle.ac.uk) identified VDU green.
 - Damon B. Crumpler (dbc3@po.CWRU.Edu) noted some of Delirium's bubbles and explained "Totoro".
 - Ralf Hildebrandt added more details.
+- Richard Munn corrected the "Tyburn Tree" reference.
 
 ## Appendix: On Newton's Opticks (by Lance Smith)
 

@@ -14,6 +14,10 @@
 
   Evidently he was rocking the boat...
 
+- #### Panel 6
+
+  Not sure if _National Jazzercise Week_ is a real thing...
+
 ### Page 2
 
 > [marginThumb] ![page 02](thumbnails/sandman.58/page02.jpg)
@@ -22,7 +26,7 @@
 
   Lyta calles Lieutenant Pinkerton "Lieutenant Pinkwater" -- tip of the hat to Daniel Manus Pinkwater, National Public Radio commentator and author of the classic young adult books _Lizard Music_, _The Last Guru_ and _Young Adult Novel_, as well as several books for younger readers.
 
-  Gaiman and Pinkwater have been known to hang out on each other's discussion fora on GEnie. (This was back in '93-'94; not sure if it's still the case)
+  Gaiman and Pinkwater have been known to hang out on each other's discussion fora on GEnie. (This was back in '93-'94; not sure if it's still the case.)
 
 ### Page 5
 
@@ -58,7 +62,7 @@
 
 ### Page 14-16
 
-In Jungian psychology, if you have a dream in which you go down to a basement, it means that you are confronting something from your subconscious. Here, Lyta is confronting the fact that her son may be dead. (C.f. Rose's dream in #65, 5, 7.)
+In Jungian psychology, if you have a dream in which you go down to a basement, it means that you are confronting something from your subconscious. Here, Lyta is confronting the fact that her son may be dead. (C.f. Rose's dream in [#65:5](sandman.65.md#page-5).7)
 
 ### Page 14
 

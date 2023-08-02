@@ -100,13 +100,11 @@
 
 - #### Panel 4
 
-  "Blockbuster" is a long-running TV show hosted by Bob Holness.
+  "[Blockbusters](https://en.wikipedia.org/wiki/Blockbusters_(British_game_show))" was a long-running TV show in the 80s and 90s hosted by Bob Holness.
 
   They test whether 2 heads are better than one, by having a team of one play against a team of two. (NB. 3 contestants).
 
-  It's essentially a quiz-board game. Teams "win" squares by answering questions.
-
-  Then they choose which square to attempt next.
+  It's essentially a quiz-board game. Teams "win" spaces (hexagons) on the board by answering questions, and win the round by creating a line from top to bottom (or left to right), blocking their opponent.
 
   All the squares have letters on and the questions are phrased like "Which P is the capital of France?".
 
@@ -124,7 +122,7 @@
 
 - #### Panel 1-2
 
-  The Sandman Companion confirms the speculation et that this "Helena" is Helena Kosmatos, the Golden Age Fury and (post-Crisis at least) Lyta Hall's lost mother, which explains the difficulty of saying her last name. Certainly the actions described here are those one would expect of a Fury. Also, there is some resemblance to the photo in [57:19](sandman.57.md#page-19).8.
+  The Sandman Companion confirms that this "Helena" is Helena Kosmatos, the Golden Age Fury and (post-Crisis at least) Lyta Hall's lost mother, which explains the difficulty of saying her last name. Certainly the actions described here are those one would expect of a Fury. Also, there is some resemblance to the photo in [57:19](sandman.57.md#page-19).8.
 
   Note the women's names. The Greek writers who portrayed the Furies as a trio of women named them Tisiphone, Alecto, and Megaera. Amelia -- Alecto; Magda -- Megaera; and the Golden Age Fury was shown as receiving her powers specifically from Tisiphone.
 

@@ -1,12 +1,12 @@
 > [marginThumb] ![cover for issue 48](thumbnails/sandman.48/page00.jpg)
 
-# Issue 48: Brief Lives Eight
+# Issue 48: Brief Lives: Chapter Eight
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
 **Notes**: See [#41](sandman.41.md). It's hard to break this one down into sections, but I think it goes: 1: 1-6; 2: 7; 3: 8-10; 4: 11; 5: 12-13; 6: 14-15; 7: 16; 8: 17-24. Trouble spots are the break between 3: and 4: and 7: and 8: and a number of breaks seem to fall in the middle of pages, which is inconsistent with what we've seen before.
 
-### 1: _Journey's End_
+## 1: _Journey's End_
 
 ### Page 1
 
@@ -34,7 +34,9 @@
 
 ### Page 4-5
 
-Del is retelling the story; her physical changes reflect her state at each point in the story.
+> [marginThumb] ![page 04](thumbnails/sandman.48/page04.jpg)
+
+- Del is retelling the story; her physical changes reflect her state at each point in the story.
 
 ### Page 5
 
@@ -56,7 +58,7 @@ Del is retelling the story; her physical changes reflect her state at each point
 
   **Despair**: This is the first we've heard that she's a replacement. See Lance Smith's Sandman FAQ.
 
-### 2: _Brains, a Heart, a Ride in a Balloon_
+## 2: _Brains, a Heart, a Ride in a Balloon_
 
 ### Page 7
 
@@ -66,7 +68,7 @@ Del is retelling the story; her physical changes reflect her state at each point
 
   A reference to _The [Wonderful] Wizard of Oz_, by L. Frank Baum. The Scarecrow was seeking a brain, the Tin Man a heart. A balloon ride figures prominently in Dorothy's quest to return home. (The book is thought by some to be allegory or satire of American politics.)
 
-### 3: _Dinner_
+## 3: _Dinner_
 
 ### Page 8
 
@@ -91,7 +93,7 @@ Del is retelling the story; her physical changes reflect her state at each point
 
 - #### Panel 4
 
-  A word balloon fell off the art. Dream says something like "How did you know we were coming?"
+  A word balloon was missing in the early editions. Dream says _"How did you know we were coming?"_
 
 ### Page 10
 
@@ -101,7 +103,7 @@ Del is retelling the story; her physical changes reflect her state at each point
 
   Greek coffee is very thick and strong.
 
-### 4: _Something New_
+## 4: _Something New_
 
 ### Page 11
 
@@ -119,12 +121,17 @@ Del is retelling the story; her physical changes reflect her state at each point
 
   Destruction's denial of _anyone's_ responsibility can be argued, of course.
 
-### 5: _The Illusion of Permanence_
+## 5: _The Illusion of Permanence_
 
-Page 12-13 (A double page spread): Hmm. Gaiman is speaking in "thematic voice" again.
-Compare Destruction's perception of time passing quickly with Dream's complaint in [#1](sandman.01.md) that time passed as slowly for him in his seventy-year imprisonment as it did for everyone else.
+### Page 12-13
 
-### 6: _A Wreath of Bright Stars_
+> [marginThumb] ![page 12-13](thumbnails/sandman.48/page12-13.jpg)
+
+ - (A double page spread): Hmm. Gaiman is speaking in "thematic voice" again.
+
+  Compare Destruction's perception of time passing quickly with Dream's complaint in [#1](sandman.01.md) that time passed as slowly for him in his seventy-year imprisonment as it did for everyone else.
+
+## 6: _A Wreath of Bright Stars_
 
 ### Page 14-15
 
@@ -142,7 +149,7 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 
   Delirium's creation, seen clearly here, is a winged Cerebus. Cerebus is an anthropomorphic aardvark, the central character of Dave Sim's _Cerebus_ epic. Sim and Gaiman are friends; Sim has parodied Gaiman's characters as the "Clueless".
 
-### 7: _Echoes of Darkness_
+## 7: _Echoes of Darkness_
 
 ### Page 16
 
@@ -160,7 +167,7 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 
   IMHO, Hatred is not the opposite of Desire. Indifference is the opposite of Desire. Hatred is merely Desire of a different quality.
 
-### 8: _Up. Out._
+## 8: _Up. Out._
 
 ### Page 17
 
@@ -247,37 +254,23 @@ Destruction's cape and headband are pre-Crisis Kryptonian fashion, although his 
 
 ## Appendix: Some Recipes from Destruction's Table, by Michael Chary
 
-### Stuffed grape leaves (Dolmades, dolmadaia, or sarma)
+#### Stuffed grape leaves (Dolmades, dolmadaia, or sarma)
 
-1# grape leaves (Check in either your grocer's import section or a deli. I found some in Bowling Green, KY which is not the most cosmopolitan place on earth. Don't pick your own. They have to be pickled, for one thing.)
-
-1 1/2 ground lamb (For preference. Beef may be used, or poultry, although the cooking time would have have to be adjusted. Rice may also be substituted, and in fact is generally used in the cold versions.)
-
-1 cup raw rice (This is important. The rice _MUST BE RAW_. Riceland rice is probably the best raw rice. THis going to stew for a while and instant rice wil turn into wallpaper paste. The rice will probably take longer to cook than the meat.)
-
-1 small onion minced (Chopped up fine, not pulverized. Also, small does not mean tiny, it just means don't use a ton of onion. Easy on the onion or it will overpower everything else in the dish.)
-
-2 tsp oregano
-
-1/2 tsp cinnamon
-
-1 tsp salt
-
-1/2 tsp black pepper
-
-1/2 cup water
-
-4 tsp olive oil (extra virgin is what I use)
-
-4 cups chicken stock (you can use bouillon if you want, about 6 cups to 4 cups water should do her.)
-
-2 tblspns butter (it has to be butter)
-
-4 eggs
-
-6 tablespoons lemon juice.
-
-2 tblspns pine nuts (if desired)
+- 1# grape leaves (Check in either your grocer's import section or a deli. I found some in Bowling Green, KY which is not the most cosmopolitan place on earth. Don't pick your own. They have to be pickled, for one thing.)
+- 1 1/2 ground lamb (For preference. Beef may be used, or poultry, although the cooking time would have have to be adjusted. Rice may also be substituted, and in fact is generally used in the cold versions.)
+- 1 cup raw rice (This is important. The rice _MUST BE RAW_. Riceland rice is probably the best raw rice. This going to stew for a while and instant rice wil turn into wallpaper paste. The rice will probably take longer to cook than the meat.)
+- 1 small onion minced (Chopped up fine, not pulverized. Also, small does not mean tiny, it just means don't use a ton of onion. Easy on the onion or it will overpower everything else in the dish.)
+- 2 tsp oregano
+- 1/2 tsp cinnamon
+- 1 tsp salt
+- 1/2 tsp black pepper
+- 1/2 cup water
+- 4 tsp olive oil (extra virgin is what I use)
+- 4 cups chicken stock (you can use bouillon if you want, about 6 cups to 4 cups water should do her.)
+- 2 tblspns butter (it has to be butter)
+- 4 eggs
+- 6 tablespoons lemon juice.
+- 2 tblspns pine nuts (if desired)
 
 Rinse leaves and cover with cold water.
 
@@ -290,33 +283,27 @@ You should be able to make about 50 leaves.
 Put the rest of the olive oil in a large sauce pan. Put the leaves in. Pour 2 1/2 cups of boullion over the leaves, cover sarma directly with a plate, heat over low flame for 45 min to an hour.
 
 **Lemon Sauce**: beat eggs and lemon juice, add 1/2 cup hot stock, beat some more, pour into rest of stock, stir until blended, serve with dolmades.
+
 Don't try to reheat the sauce.
 
 ---
 
-### Meatballs (Kuftete)
+#### Meatballs (Kuftete)
 
-1# ground lamb
-
-3 beaten eggs
-
-1 clove garlic minced (pulverized)
-
-3 cups crushed bread crumbs
-
-1/4 cup mint
-
-1/2 tsp cinnamon
-
-2 teaspoons flour
-
-dash of salt
+- 1# ground lamb
+- 3 beaten eggs
+- 1 clove garlic minced (pulverized)
+- 3 cups crushed bread crumbs
+- 1/4 cup mint
+- 1/2 tsp cinnamon
+- 2 teaspoons flour
+- dash of salt
 
 Combine everything, cover for an hour and a half, make into 1 inch balls, fry in a skillet with oil.
 
 ---
 
-### Red Caviar Dip (Taramosalata)
+#### Red Caviar Dip (Taramosalata)
 
 (I'm swiping this recipe from a friend of mine. Since he currently uses _MY_ Matzo ball soup in his restaurant I don't feel any guilt :-)
 

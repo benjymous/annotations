@@ -1,12 +1,12 @@
 > [marginThumb] ![cover for issue 43](thumbnails/sandman.43/page00.jpg)
 
-# Issue 43: Brief Lives Three
+# Issue 43: Brief Lives: Chapter Three
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
 **Notes**: See [#41](sandman.41.md). The first two chapters in this issue are strongly demonstrative of the primary theme of "Brief Lives". Chapter titles in this issue seem to be mostly descriptive. Note that the fourth chapter, which is "Bored, She Makes Little Frogs" (pg 10 panel 3--pg 12) if we believe the title page, follows the fifth chapter, "Truth or Consequences, and Other Places" (pg 9--pg 10 panel 2). This break is also unusual for not coinciding with a page break.
 
-### 1: _The People Who Remember Atlantis_
+## 1: _The People Who Remember Atlantis_
 
 ### Page 1
 
@@ -26,7 +26,7 @@
 
   The dinosaur used could be any one of a large lineage of carnivorous, bipedal dinosaurs, including the famed Tyrannosaurus rex.
 
-### 2: _Concerning Mammoths, and Falling Walls_
+## 2: _Concerning Mammoths, and Falling Walls_
 
 ### Page 2
 
@@ -82,7 +82,7 @@
 
   Look, a theme!
 
-### 3: _Who Controls Transportation?_
+## 3: _Who Controls Transportation?_
 
 ### Page 8
 
@@ -96,9 +96,9 @@
 
   Delirium is reading NATIONAL GEOGRAPHIC upside-down.
 
-### 5: _Truth or Consequences, and Other Places_
+## 5: _Truth or Consequences, and Other Places_
 
-"Truth or Consequences" is a town in New Mexico.
+- **"Truth or Consequences"** is a town in New Mexico.
 
 ### Page 9
 
@@ -108,7 +108,7 @@
 
   **Body and Blood**: An oath referring to the Christian mass, an unusual choice for someone who was in ancient Babylon, but he keeps up with the times.
 
-### 4: _Bored, She Makes Little Frogs_
+## 4: _Bored, She Makes Little Frogs_
 
 ### Page 12
 
@@ -118,9 +118,9 @@
 
   Note that Del has changed clothes and hair, as she often does between issues. "The lawyer" was Capax; the others will soon appear.
 
-### 6: _Ancestral Voices Prophesying_
+## 6: _Ancestral Voices Prophesying_
 
-From Coleridge's "Xanadu".
+- From Coleridge's "Xanadu".
 
 ### Page 13
 
@@ -142,9 +142,9 @@ From Coleridge's "Xanadu".
 
   Quotes from the poem.
 
-### 7: _The Dogs of Art_
+## 7: _The Dogs of Art_
 
-A transformation of the poetic image "the dogs of war", from William Shakespeare's _Julius Caesar_, Act Three, Scene 1, line 274 or 276 (count varies), as spoken by Antony: "Cry `Havoc!' and let slip the dogs of war." See the Appendix for the full text. "Dogs" in this case are fastening devices, although the word probably derives from a metaphorical use of the canine.
+- A transformation of the poetic image "the dogs of war", from William Shakespeare's _Julius Caesar_, Act Three, Scene 1, line 274 or 276 (count varies), as spoken by Antony: "Cry `Havoc!' and let slip the dogs of war." See the Appendix for the full text. "Dogs" in this case are fastening devices, although the word probably derives from a metaphorical use of the canine.
 
 ### Page 17
 
@@ -168,7 +168,9 @@ A transformation of the poetic image "the dogs of war", from William Shakespeare
 
   Note the sword in Destruction's gallery. Its presence here explains why it is not seen in any other gallery.
 
-### 8: _"When I Dream, Sometimes I Remember How to Fly" See also the Vertigo Preview._
+## 8: _"When I Dream, Sometimes I Remember How to Fly"_
+
+- See also the [Vertigo Preview](sandman-vertigopreview.md).
 
 ### Page 20
 

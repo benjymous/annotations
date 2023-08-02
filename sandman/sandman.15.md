@@ -2,7 +2,7 @@
 
 # Issue 15: "Into the Night"
 
-##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
+##### Neil Gaiman, Mike Dringenberg, Sam Kieth, and Malcolm Jones III
 
 Sixth part of long storyline _The Doll's House_
 

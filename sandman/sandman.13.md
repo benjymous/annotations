@@ -2,7 +2,7 @@
 
 # Issue 13: "Men of Good Fortune"
 
-##### Neil Gaiman, Michael Zulli, and [Steve?] Parkhouse
+##### Neil Gaiman, Michael Zulli, and Steve Parkhouse
 
 Fourth part of long storyline _The Doll's House_ (but see below)
 

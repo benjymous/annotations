@@ -2,7 +2,7 @@
 
 # Issue 60: "The Kindly Ones: 4"
 
-##### Neil Gaiman, Marc Hempel, Disraeli
+##### Neil Gaiman, Marc Hempel, D'Israeli
 
 ### Page 1
 
@@ -12,7 +12,7 @@
 
   Every Hempel-drawn issue has a string or cord in this panel.
 
-**This issue**: an electrical cord going into a manhole. The man is the angel Remiel, who was last seen at the end of "The Season of Mists", [issue #28](sandman.28.md). **Note the shadow**: his feet do not quite touch the ground.
+  This issue: an electrical cord going into a manhole. The man is the angel Remiel, who was last seen at the end of "The Season of Mists", [issue #28](sandman.28.md). Note the shadow: his feet do not quite touch the ground.
 
 ### Page 2
 
@@ -20,7 +20,9 @@
 
 - #### Panel 3
 
-  A reference to [Bible quote].
+  A reference to Mark 9:44:
+
+  > Where their worm dieth not, and the fire is not quenched.
 
 - #### Panel 4
 
@@ -29,6 +31,11 @@
 ### Page 5
 
 > [marginThumb] ![page 05](thumbnails/sandman.60/page05.jpg)
+
+
+- #### Panel 2
+
+  [Correct](sandman.27.md#page-10)
 
 - #### Panel 6
 

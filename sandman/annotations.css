@@ -49,6 +49,7 @@ img {
   margin: 0px !important;
   padding: 0px !important;
 }
+
 .flex {
   background: transparent !important;
   padding: 0px !important;
@@ -89,6 +90,10 @@ img {
 
 .marginThumb img {
   border: none !important;
+}
+
+h2 {
+  border-bottom: 1px solid;
 }
 
 h3 {

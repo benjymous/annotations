@@ -1,12 +1,14 @@
 > [marginThumb] ![cover for issue 42](thumbnails/sandman.42/page00.jpg)
 
-# Issue 42: Brief Lives Two
+# Issue 42: Brief Lives: Chapter Two
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
 **Notes**: See [#41](sandman.41.md).
 
-### 1: _It Always Rains on the Unloved From "Peanuts", the comic strip written by Charles Schulz, as said by Charlie Brown, a karmically oppressed child._
+## 1: _It Always Rains on the Unloved_
+
+- From "Peanuts", the comic strip written by Charles Schulz, as said by Charlie Brown, a karmically oppressed child.
 
 ### Page 1
 
@@ -18,9 +20,9 @@
 
   We know that she has appeared before, that she is not one of his former lovers, that the relationship lasted a "handful of months", and that she is in the "waking world". I lean toward Thessaly, given the above and that Neil asked his GEnie forum if they were interested in seeing her again, about the time he was planning _Convergence_.
 
-### 2: _Wet Dreams_
+## 2: _Wet Dreams_
 
-"Wet dreams" is a pun here; it actually refers to dreams that result in orgasm. There is a demented song by Kip Adotta called "Wet Dream", consisting mostly of fish puns.
+- **Wet dreams** is a pun here; it actually refers to dreams that result in orgasm. There is a demented song by Kip Adotta called "Wet Dream", consisting mostly of fish puns.
 
 ### Page 4
 
@@ -40,7 +42,7 @@
 
 - #### Panel 3
 
-  **Flick it**: A curious euphemism for a supposedly mature book. Obviously meant to be "fuck it"; note that all-caps comic book lettering causes "flick it" and "fuck it" to look very similar.
+  **Flick it**: A curious euphemism for a supposedly mature book. Obviously meant to be "fuck it"; note that all-caps comic book lettering causes "flick it" and "fuck it" to look very similar.  This one must've been intentional, as it wasn't changed back in later editions, unlike other "language" edits (see [#33:5](sandman.33.md#page-5))
 
 ### Page 7
 
@@ -54,9 +56,9 @@
 
   **Dead balloon**: The more usual phrase is "went over like a lead balloon".
 
-### 3: _A Fishing Expedition_
+## 3: _A Fishing Expedition_
 
-Source? "Fishing expedition" is the term used when detectives in detective fiction cause trouble because they don't have any questions to ask, i.e., they're fishing for clues.
+- **A Fishing expedition** is the term used when detectives in detective fiction cause trouble because they don't have any questions to ask, i.e., they're fishing for clues.
 
 ### Page 8
 
@@ -78,7 +80,7 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
   Abel's song is a popular WW I shanty. Drop the stutter and the "mm hm er" bits and he's got the chorus correct.
 
-### 4: _She Kisses Wyverns (The Disneyland Analogy)_
+## 4: _She Kisses Wyverns (The Disneyland Analogy)_
 
 ### Page 11
 
@@ -86,7 +88,7 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
 - #### Panel 2
 
-  The wyvern says "She said she was your sister".
+  The wyvern says _"She said she was your sister"_.
 
 ### Page 12
 
@@ -100,7 +102,7 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
   Note that Delirium's clothing has changed. Her clothing changes at least once an issue.
 
-### 5: _Dinner Etiquette and Chocolate Lovers_
+## 5: _Dinner Etiquette and Chocolate Lovers_
 
 ### Page 13
 
@@ -108,7 +110,9 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
 - #### Panel 4
 
-  Apparently, Neil meant for the servitor's name to be Taramis, not Tamaris. Lance Smith writes:
+  Early editions had an error, naming the servitor as _"Tamaris"_ rather than _"Taramis"_.  As with other errors, this was later corrected.
+
+  Lance Smith writes:
 
   > Taramis? Not Taranis? Or maybe Tarani? (Taranis is a Gaulish deity that the Romans likened to Jupiter, though it may have been a death goddess.
   >
@@ -130,7 +134,9 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
 - #### Panel 2
 
-  Del is altering a common playground taunt: "\<X\> and \<Y\> sittin' in a tree, K-I-S-S-I-N-G /First comes love, then comes marriage, then comes baby in a baby carriage."
+  Del is altering a common playground taunt:
+  > "\<X\> and \<Y\> sittin' in a tree, K-I-S-S-I-N-G<br>
+  > First comes love, then comes marriage, then comes baby in a baby carriage."
 
 - #### Panel 4
 
@@ -140,7 +146,7 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
   Note the "brief lives" reference, an example of a common motif. The phrase "copulating desperately" was also used in [5:18](sandman.05.md#page-18).3, in a scene with Mervyn Pumpkinhead.
 
-### 6: _Desire Swears by the First Circle_
+## 6: _Desire Swears by the First Circle_
 
 ### Page 19
 
@@ -158,9 +164,9 @@ Source? "Fishing expedition" is the term used when detectives in detective ficti
 
   **Gleet**: Inflammation of a bodily orifice or the discharge therefrom, as from a venereal disease.
 
-### 7: _"Things Are Changing"_
+## 7: _"Things Are Changing"_
 
-Possibly a reference to a Bob Dylan song.
+- Possibly a reference to a Bob Dylan song.
 
 ### Page 20
 
@@ -168,11 +174,11 @@ Possibly a reference to a Bob Dylan song.
 
 - #### Panel 2
 
-  We know from [Sp1:5](sandman-special1.md#page-5)4 that Delight had become Delirium by at least Greece's Heroic Age.
+  We know from [Sp1:5](sandman-special1.md#page-5).4 that Delight had become Delirium by at least Greece's Heroic Age.
 
-### 8: _What Can Possibly Go Wrong?_
+## 8: _What Can Possibly Go Wrong?_
 
-A common statement by main characters, inevitably disastrously wrong.
+- A common statement by main characters, inevitably disastrously wrong.
 
 ### Page 21
 

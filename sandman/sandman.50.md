@@ -6,7 +6,9 @@
 
 Fourth story in anthology _Distant Mirrors_
 
-**Note**: This story was written in prose by Neil Gaiman, then adapted to comics by Craig Russell. Most of Russell's work has been adaptations.
+**Note**: This story was written in prose by Neil Gaiman, then adapted to comics by Craig Russell. Most of Russell's work has been adaptations.  The script is included in the extras in the Deluxe Edition Book 3, although as Neil notes in the introduction:
+
+> I'm not sure that there's a lot to learn from the script that isn't in the comic, other than how very, very good Craig Russell is.
 
 Arabic words (such as "Koran") were originally written in Arabic script. There is no exact way to render them in the Roman alphabet, but common transliterations have been used.
 

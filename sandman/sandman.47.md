@@ -1,8 +1,8 @@
 > [marginThumb] ![cover for issue 47](thumbnails/sandman.47/page00.jpg)
 
-# Issue 47: Brief Lives Seven
+# Issue 47: Brief Lives: Chapter Seven
 
-##### Neil Gaiman, Jill Thompson, and Vince Locke
+##### Neil Gaiman, Jill Thompson, Vince Locke and Dick Giordano
 
 **Notes**: See [#41](sandman.41.md).
 
@@ -10,7 +10,7 @@
 
 The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoid" from 1954.
 
-### 1: _Cooking Considered as One of the Fine Arts_
+## 1: _Cooking Considered as One of the Fine Arts_
 
 ### Page 1
 
@@ -44,7 +44,11 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 
   Barnabas is a _real_ dog. Admittedly, he's a real _talking_ dog, but he's not a human in a dog's body the way Matthew is a human in a raven's body (the superficial characterization of [#40](sandman.40.md) aside, Matthew still _acts_ human). Incidentally, chocolate is not particularly healthy for dogs; they have trouble digesting it and they, like the rest of the Carnivora, overreact to stimulants.
 
-### 2: _"My Envelope Isn't Any Good Anymore"_
+    Neil addresses this in _The Sandman Companion_ saying:
+
+    > Destruction didn't know; and Barnabas certainly wasn't going to tell him.
+
+## 2: _"My Envelope Isn't Any Good Anymore"_
 
 ### Page 5
 
@@ -56,7 +60,7 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 
   See Appendix for discussion on Santa Claus.
 
-### 3: _Where All Mazes Meet_
+## 3: _Where All Mazes Meet_
 
 ### Page 6
 
@@ -68,9 +72,9 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 
   Note that the maze gradually changes from man-made to naturally grown.
 
-### 4: _The Other Side of the Coin_
+## 4: _The Other Side of the Coin_
 
-Note that throughout this sequence, Dream stays on the path, Destiny stays off the path, and Delirium charts her own course.
+- Note that throughout this sequence, Dream stays on the path, Destiny stays off the path, and Delirium charts her own course.
 
 ### Page 8
 
@@ -104,7 +108,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
   Del's eyes should be the same color again.
 
-### 5: _Life as a Glass of Bitter Wine_
+## 5: _Life as a Glass of Bitter Wine_
 
 ### Page 13
 
@@ -112,7 +116,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
 - #### Panel 2
 
-  Delirium considers Destiny's "little flappy things" equivalent to Dream's ravens or Despair's rats (#41).
+  Delirium considers Destiny's "little flappy things" equivalent to Dream's ravens or Despair's rats ([#41:17](sandman.41.md#page-17)).
 
 ### Page 14
 
@@ -130,7 +134,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
   It seems probable that this is a depiction of a event; the color of Dream's clothing and hair is significant.
 
-### 6: _Cherries Are Counted, and a Bargain Is Made_
+## 6: _Cherries Are Counted, and a Bargain Is Made_
 
 ### Page 15
 
@@ -172,7 +176,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 
   This island, Destruction's refuge, was seen in [#41](sandman.41.md).
 
-### 7: _An Unlikely Growth_
+## 7: _An Unlikely Growth_
 
 ### Page 24
 
@@ -201,7 +205,7 @@ Note that throughout this sequence, Dream stays on the path, Destiny stays off t
 - Byron Go (bgo@ucsee.Berkeley.EDU) IDed
 - John Mc Donagh <Kull29@Aol.com> wrote about Santa Claus
 - Ralf Hildebrandt added more details.
-- Richard Munn updated some notes on earlier coloring errors.
+- Richard Munn updated some notes on earlier coloring errors, and Neil's comment on the Chocolate issue.
 
 ## Appendix: All about Saint Nick
 

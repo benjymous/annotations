@@ -2,7 +2,7 @@
 
 # Issue 56: "Worlds' End"
 
-##### Neil Gaiman, Bryan Talbot, Mark Buckingham, Gary Amaro, Dick Giordano,
+##### Neil Gaiman, Bryan Talbot, Mark Buckingham, Gary Amaro, Dick Giordano, Steve Leialoha
 
 Tony Harris, Steve Leialoha
 
@@ -53,31 +53,31 @@ Sixth and last story in anthology "Worlds' End"
 
 ### Page 10-11
 
-> [marginThumb] ![page 10](thumbnails/sandman.56/page10.jpg)
+> [marginThumb] ![page 10-11](thumbnails/sandman.56/page10-11.jpg)
 
 The song is part of the Gaiman-written "Generic Folk Song".
 
 ### Page 12-13
 
-> [marginThumb] ![page 12](thumbnails/sandman.56/page12.jpg)
+> [marginThumb] ![page 12-13](thumbnails/sandman.56/page12-13.jpg)
 
 OK, time to play "name the characters". This one is Destiny, of course.
 
 ### Pages 14-15:
 
-> [marginThumb] ![page 14](thumbnails/sandman.56/page14.jpg)
+> [marginThumb] ![page 14-15](thumbnails/sandman.56/page14-15.jpg)
 
 The man with the flag, judging by his coat and vest, is Lucien. Some netters have speculated that the first pallbearer is Desire (who otherwise is noticeably absent from the proceedings), and the second (with red hair) is Loki. The big question is who is in the coffin. Opinions vary, but the most popular guess is Dream, with Orpheus a distant second.
 
 ### Pages 16-17
 
-> [marginThumb] ![page 16](thumbnails/sandman.56/page16.jpg)
+> [marginThumb] ![page 16-17](thumbnails/sandman.56/page16-17.jpg)
 
 Going roughly from left to right: Nuala, Abel, Mervyn Pumpkinhead, Cain, Luz, Wilkinson, Queen Titania, Matthew the raven, Bast, Despair, an angel (perhaps Remiel), Odin, Thor, Emperor Norton, probably Gregory the Gargoyle, Gilbert/Fiddler's Green, and Martin Tenbones.
 
 ### Page 18-19
 
-> [marginThumb] ![page 18](thumbnails/sandman.56/page18.jpg)
+> [marginThumb] ![page 18-19](thumbnails/sandman.56/page18-19.jpg)
 
 Finally, Delirium and Death. In the introduction to the "Death Gallery", Gaiman relates a story from the Kabala, that the Angel of Death collects souls through love: when you see it(/him/her) you fall in love so quickly that your soul is drawn out through your eyes.
 

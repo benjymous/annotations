@@ -28,7 +28,7 @@ Fourth story in anthology, "Worlds' End"
 
   "With all his heart and mind and soul..." This is reminiscent of Jesus' description of the greatest commandment: "Love the Lord with all your heart, and all your mind, and all your strength." (Mark 12:30, Luke 10:27, Matthew @22:37).
 
-This continues the religious theme in this issue.
+  This continues the religious theme in this issue.
 
 - #### Panel 4
 
@@ -45,12 +45,6 @@ This continues the religious theme in this issue.
 - #### Panel 6
 
   "Prince of This World" is a medieval title for Satan -- as opposed to Jesus, the prince of the next.
-
-### Page 5
-
-> [marginThumb] ![page 05](thumbnails/sandman.54/page05.jpg)
-
-- #### Panel 4
 
 ### Page 6
 

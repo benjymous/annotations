@@ -1,6 +1,6 @@
 > [marginThumb] ![cover for issue 41](thumbnails/sandman.41/page00.jpg)
 
-# Issue 41: Brief Lives One
+# Issue 41: Brief Lives: Chapter One
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
@@ -16,7 +16,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 **Cover**: Any art historians out there? Two items that catch the eye are a Rembrandt-like portrait and the head of a Greek or Greek-revival statue.
 
-### 1: _Blossom for a Lady_
+## 1: _Blossom for a Lady_
 
 ### Page 1
 
@@ -70,11 +70,11 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
   Rhodocanakis? Rhodo- is a combinational form meaning "rose". Note the contrast between Naxos's weather and the next scene.
 
-### 2: _Rain in the Doorway_
+## 2: _Rain in the Doorway_
 
-**Source**: _Rain in The Doorway_ is a book by Thorne Smith, which is described as:
+- **Rain in The Doorway** is a book by Thorne Smith, which is described as:
 
-> a really funny (in more than one sense) fantasy novel from 1933. It begins with a man standing in the doorway of a department store to escape a torrential downpour. Rain dripping down his nose, he feels depressed and dissatisfied... and the doorway behind him opens, a hand reaches out to grab him and he's drawn through into another universe. It seems much like ours, except that people take things much less seriously... as with all Thorne Smith books (he's best known for _Topper_) there is much drunkenness and nudity and silly dialog.
+  > a really funny (in more than one sense) fantasy novel from 1933. It begins with a man standing in the doorway of a department store to escape a torrential downpour. Rain dripping down his nose, he feels depressed and dissatisfied... and the doorway behind him opens, a hand reaches out to grab him and he's drawn through into another universe. It seems much like ours, except that people take things much less seriously... as with all Thorne Smith books (he's best known for _Topper_) there is much drunkenness and nudity and silly dialog.
 
 ### Page 6
 
@@ -124,7 +124,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
   Possibly long-term foreshadowing, given Destruction's comments in [48:17](sandman.48#page-17).4
 
-### 3: _Not Her Sister_
+## 3: _Not Her Sister_
 
 ### Page 9
 
@@ -136,7 +136,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 - #### Panel 3-4
 
-  This scene is reminiscent of similar scenes in comics and movies, and is repeated by Dream in [45](sandman.45.md):16.6. In the 1977 movie _Star Wars_, Obi-Wan Kenobi uses the "Force" on stormtroopers to convince them that "these aren't the droids you're looking for". In _Hellblazer_, street magician John Constantine, an expert at instant hypnosis, bulls his way into a university club by convincing the doorman that he is a guest of a member, and is dressed formally.
+  This scene is reminiscent of similar scenes in comics and movies, and is repeated by Dream in [45:16](sandman.45.md#page-16).6. In the 1977 movie _Star Wars_, Obi-Wan Kenobi uses the "Force" on stormtroopers to convince them that "these aren't the droids you're looking for". In _Hellblazer_, street magician John Constantine, an expert at instant hypnosis, bulls his way into a university club by convincing the doorman that he is a guest of a member, and is dressed formally.
 
 - #### Panel 4
 
@@ -179,7 +179,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
   Obviously, this is Desire, another of Delirium's siblings.
 
-### 4: _Want/Not Want_
+## 4: _Want/Not Want_
 
 ### Page 13
 
@@ -215,7 +215,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
   Delirium is wrong. Not-wanting is a kind of wanting.
 
-### 5: _The View from the Back of Mirrors_
+## 5: _The View from the Back of Mirrors_
 
 ### Page 16
 
@@ -241,7 +241,9 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ### Page 18-20
 
-Note Despair's use of pain to distract her from unpleasant topics.
+> [marginThumb] ![page 18](thumbnails/sandman.41/page18.jpg)
+
+* Note Despair's use of pain to distract her from unpleasant topics.
 
 ### Page 20
 
@@ -255,9 +257,9 @@ Note Despair's use of pain to distract her from unpleasant topics.
 
   An extreme example of the eye motif. (Consider also _Seduction of the Innocent_, a 1950's, anti-comics diatribe, which featured much discussion of the "injury to the eye" motif.)
 
-### 6: _Journal of the Plague Year_
+## 6: _Journal of the Plague Year_
 
-_Journal of the Plague Year_ is by Daniel Defoe (better known for _Robinson Crusoe_). Defoe lived from c.1661-1731, so he was a young child during the plague of 1665.
+* **Journal of the Plague Year** is by Daniel Defoe (better known for _Robinson Crusoe_). Defoe lived from c.1661-1731, so he was a young child during the plague of 1665.
 
 ### Page 21
 
@@ -303,9 +305,9 @@ _Journal of the Plague Year_ is by Daniel Defoe (better known for _Robinson Crus
 
   This fixes Destruction's departure c. 1695. Historical significance?
 
-### 7: _"The Number You Have Dialed..."_
+## 7: _"The Number You Have Dialed..."_
 
-This is a quote from a telephone industry recording informing the dialer that the number she is trying to reach is out of service.
+* This is a quote from a telephone industry recording informing the dialer that the number she is trying to reach is out of service.
 
 ## Credits
 

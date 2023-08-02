@@ -153,13 +153,15 @@
 
 - #### Panel 3
 
-  Michael Eisner is head of Disney Studios. Michael Ovitz is a high-powered agent and deal-maker, called "The most powerful man in Hollywood" by _Newsweek_ magazine.
+  **La-La-Land:** Los Angeles.
+
+  **Michael Eisner** is head of Disney Studios. **Michael Ovitz** is a high-powered agent and deal-maker, called _"The most powerful man in Hollywood"_ by _Newsweek_ magazine.
 
   Lucifer, here, has ticked off some more of his [Bucket List](sandman.23.md#page-20), having built a house (well, a bar), and learnt to play the piano.   No sign of any dancing though.
 
 - #### Panel 4
 
-  The song is "These Foolish Things", by Jack Strachey and Eric Maschwitz, English lyrics by Harry Link. A notable line not quoted:
+  The song is _"These Foolish Things"_, by Jack Strachey and Eric Maschwitz, English lyrics by Harry Link. A notable line not quoted:
 
   > "Oh, how the ghost of you clings."
 
@@ -203,7 +205,10 @@
 
 - #### Panel 6
 
-  The song is called "Sit Down, You're Rocking the Boat". It's from the musical "Guys and Dolls"; music and lyrics by Frank Loesser. Two notable lines not quoted: "And the Devil will drag you under/By the sharp lapel on your checkered coat".
+  The song is called _"Sit Down, You're Rocking the Boat"_. It's from the musical _"Guys and Dolls"_; music and lyrics by Frank Loesser. Two notable lines not quoted:
+  > "And the Devil will drag you under
+  >
+  > By the sharp lapel on your checkered coat".
 
 ### Page 23
 
