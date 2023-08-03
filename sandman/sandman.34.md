@@ -233,7 +233,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 - Ralf Hildebrandt added a note about the chant on p18
 - Richard Munn added the note from the letters page that's listed below in the Appendix.
 
-### Appendix: From the #34 letters page
+## Appendix: From the #34 letters page
 
 > As for SANDMAN readers being more than passive scholars, I would like to mention here that someone a few letter columns ago caught a nuance that went completely over my head. "Death" is not called "Death" by her siblings for a very real reason, according to Neil.
 

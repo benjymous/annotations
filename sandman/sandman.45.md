@@ -256,7 +256,7 @@ That Ishtar dancing to "Like a Virgin" is only appropriate. Despite being the go
 
 I'm a little over my head in Babylonian/Assyrian/Phoenician/Sumerian mythology so feel free to point out mistakes.
 
-### Appendix: Ishtar (by Glenn Carnagey)
+## Appendix: Ishtar (by Glenn Carnagey)
 
 [Compiled from several notes, so may read unevenly. Apologies--ed.]
 
