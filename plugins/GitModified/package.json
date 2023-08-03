@@ -1,0 +1,13 @@
+{
+  "name": "gitbook-plugin-gitmodified",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "Apache-2.0",
+  "description": "",
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12"
+  }
+}

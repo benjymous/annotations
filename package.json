@@ -12,6 +12,7 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.12",
     "gitbook-plugin-blockclasses": "file:plugins/BlockClasses",
+    "gitbook-plugin-gitmodified": "file:plugins/GitModified",
     "gitbook-plugin-headerlinks": "file:plugins/HeaderLinks",
     "honkit-plugin-search-plus": "^1.0.0"
   }

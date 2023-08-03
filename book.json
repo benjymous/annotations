@@ -1,7 +1,19 @@
 {
   "title": "The (Community) Sandman Annotations",
-
   "root": "sandman",
-
-  "plugins": ["-search", "fontsettings", "search-plus", "blockclasses", "headerlinks"]
+  "plugins": [
+    "-search",
+    "fontsettings",
+    "search-plus",
+    "blockclasses",
+    "headerlinks",
+    "gitmodified"
+  ],
+  "pluginsConfig": {
+    "gitmodified": {
+      "logFormat": " <a href=https://github.com/benjymous/annotations/commit/%h>Last modified</a> by %aN on %as - <i>%B</i><br>",
+      "historyUrlPrefix": "https://github.com/benjymous/annotations/commits/main/sandman/",
+      "editUrlPrefix": "https://github.com/benjymous/annotations/edit/main/sandman/"
+    }
+  }
 }
