@@ -72,7 +72,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 - #### Panel 2-3
 
-  > [floatright width-40pc] ![Original photo of G.K. Chesterton](images/GKChesterton.jpg)
+  > [floatright width-40pc shift-up] ![Original photo of G.K. Chesterton](images/GKChesterton.jpg)
 
   We saw Judy, and the massacre, in [Sandman #6](sandman.06.md). We will see Donna in a later storyline.
 

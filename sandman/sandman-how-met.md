@@ -4,13 +4,15 @@
 
 **Note**: This stand-alone story originally appeared in the Vertigo: Winters Edge #3 anthology
 
-> [floatright width-40pc] ![How They Met Themselves](images/HowTheyMetThemselves.jpg)
+
 
 ### Page 1
 
 > [marginThumb] ![](thumbnails/sandman-how-met/page01.jpg)
 
 - #### Panel 1
+
+> [floatright width-30pc shift-up] ![How They Met Themselves](images/HowTheyMetThemselves.jpg)
 
   The drawing is "How They Met Themselves" by [Dante Gabriel Rossetti](https://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti) after which this short story is named.
 
@@ -22,11 +24,11 @@
 
 > [marginThumb] ![](thumbnails/sandman-how-met/page02-03.jpg)
 
-A Double page Splash.
+- A Double page Splash.
 
-**Laudanum**: A medicinal syrup containing about 10% opium by weight. Commonly used in Victorian times as a pain killer and a sleeping aid.
+  **Laudanum**: A medicinal syrup containing about 10% opium by weight. Commonly used in Victorian times as a pain killer and a sleeping aid.
 
-Lizzie here, is [Lizzie Siddal](https://en.wikipedia.org/wiki/Elizabeth_Siddal), an accomplished artist, model and poet in her own right.
+  Lizzie here, is [Lizzie Siddal](https://en.wikipedia.org/wiki/Elizabeth_Siddal), an accomplished artist, model and poet in her own right.
 
 ### Page 4
 

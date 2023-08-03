@@ -25,7 +25,7 @@
 
 > [marginThumb] ![page 02](thumbnails/sandman.23/page02-03.jpg)
 
-This is a double page splash panel. "I can open doors": foreshadowing.
+- This is a double page splash panel. "I can open doors": foreshadowing.
 
 ### Page 4
 
@@ -184,6 +184,8 @@ This is a double page splash panel. "I can open doors": foreshadowing.
   Perhaps the most reasonable guess is that Dream and Lucifer exited Hell through the main gate, then proceeded to a lesser gate and locked it from the outside. This strikes me as a very odd sequence for a closing down of such mythic import.
 
 ### Page 20
+
+> [marginThumb] ![page 20](thumbnails/sandman.23/page20.jpg)
 
 - #### Panel 1
 

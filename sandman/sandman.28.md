@@ -106,7 +106,6 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 - #### Panel 1-2
 
-
   > [floatright width-40pc] !['The Best of Emerson, Lake, and Palmer'](images/BestOfEmersonLakePalmer.jpg)
 
   These are drawn in the classical Japanese "Ukiyo-E" (or "Floating World") style. Westerners might be familiar with this style from the cover of the album _The Best of Emerson, Lake, and Palmer_.
@@ -200,7 +199,6 @@ The third & fourth character are to be read together to mean "baby", all four ch
 > [marginThumb] ![page 20](thumbnails/sandman.28/page20.jpg)
 
 - #### Panel 1
-
 
   **Pom**: slang meaning British. Of uncertain origin, with many proposed acronymic histories, from "Prisoner of Mother England" (Australia's colonization was originally for the purposes of serving as a penal colony; English newcomers would therefore be "pommies"). It may also somehow arise from "pomegranate". Folk etymologies are notoriously unreliable, however. The short version of the OED labels the etymology unknown.
 

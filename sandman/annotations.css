@@ -30,7 +30,7 @@
 }
 
 .markdown-section h3 {
-  clear: left;
+  clear: both;
 }
 
 img {
@@ -83,9 +83,18 @@ img {
   border: 50px !important;
 }
 
+.width-30pc {
+  width: 30%;
+  min-width: 180px;
+}
+
 .width-40pc {
   width: 40%;
   min-width: 180px;
+}
+
+.shift-up {
+  margin-top: -70px !important;
 }
 
 .marginThumb img {

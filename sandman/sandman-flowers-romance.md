@@ -16,7 +16,7 @@
 
 > [marginThumb] ![](thumbnails/sandman-flowers-romance/page02-03.jpg)
 
-The Blue ladies on the right hand side are presumably the Naiads - water nymphs, mentioned in the lower caption.
+- The Blue ladies on the right hand side are presumably the Naiads - water nymphs, mentioned in the lower caption.
 
 ### Page 4
 

@@ -74,13 +74,13 @@ Fourth story in anthology, "Worlds' End"
 
   When Nixon's tape recordings of office conversations were transcribed for the Watergate hearings, the frequently-used swear words were all replaced with "[expletive deleted]".
 
-> [floatright width-40pc] ![Prez #1 Cover](images/Prez-1.jpg)
-
 ### Page 9
 
 > [marginThumb] ![page 09](thumbnails/sandman.54/page09.jpg)
 
 - #### Panel 5
+
+> [floatright width-30pc shift-up] ![Prez #1 Cover](images/Prez-1.jpg)
 
   This panel is essentially the cover of _Prez_ #1. This would seem to be the 1972 election. The caption here is inconsistent with the one on 3:4; either this one should read "nineteenth" or that one should read "seven".
 

@@ -12,7 +12,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 - #### Panel 1
 
-  ACT I Scene 1
+  Act I Scene 1.
 
 ### Page 5
 
@@ -36,12 +36,6 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
   It is not clear whether this was an actual tavern, or was invented by Gaiman for the script.
 
-  It can also be noted that Elizabeth Quiney was illustrated to resemble  from the Bone comics...  from the Boneville message boards: (which no longer seem to be online):
-
-  > Jeff replied "Yes, that is Gran'ma running the inn. It was drawn by Charles Vess (who illustrated Rose, of course). And it was a wink toward the Dreaming in Bone. As I remember it, DC's legal dept. insisted on minor changes in her appeance so I couldn't sue. Which I wouldn't have anyway.
-  >
-  > Charles also put a red dragon above the gateway to the Dreaming castle. It was a surprise when the issue came out, and I enjoyed it a lot! Charles gave the original art pages to me later as gift."
-
 ### Page 7
 
 > [marginThumb] ![page 07](thumbnails/sandman.75/page07.jpg)
@@ -53,6 +47,16 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 - #### Panel 2
 
   Shakespeare will on [page 19](#page-19).6 tell a different story of what Dickon was really up to in London...
+
+  It can also be noted that Elizabeth Quiney was illustrated by Vess to resemble [Gran'ma Ben](https://boneville.fandom.com/wiki/Rose_Harvestar) from the [Bone comics](https://boneville.fandom.com/)...
+
+  From the Boneville message boards: (which no longer seem to be online):
+
+  > Jeff replied "Yes, that is Gran'ma running the inn. It was drawn by Charles Vess (who illustrated Rose, of course). And it was a wink toward the Dreaming in Bone. As I remember it, DC's legal dept. insisted on minor changes in her appearance so I couldn't sue. Which I wouldn't have anyway.
+  >
+  > Charles also put a red dragon above the gateway to the Dreaming castle. It was a surprise when the issue came out, and I enjoyed it a lot! Charles gave the original art pages to me later as gift."
+
+  (The Red dragon doesn't really seem directly to be a Bone reference, as the Wyvern is colored red plenty of other times too.)
 
 ### Page 9
 
@@ -78,13 +82,13 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 - #### Panel 1
 
-  > ACT I Scene 2, Line 56
+  Act I Scene 2, Line 56.
 
 - #### Panel 4
 
-> [floatright width-40pc] ![Benjamin Jonson by Abraham van Blyenberch](images/BenjaminJonson.jpg)
+  > [floatright width-40pc shift-up] ![Benjamin Jonson by Abraham van Blyenberch](images/BenjaminJonson.jpg)
 
-[Ben Jonson](https://en.wikipedia.org/wiki/Ben_Jonson) was a contemporary and a friend of Shakespeare who loved him and honored his memory as the star of poets but also criticized him for his lack of art and disregard for the Classical rules.
+  [Ben Jonson](https://en.wikipedia.org/wiki/Ben_Jonson) was a contemporary and a friend of Shakespeare who loved him and honored his memory as the star of poets but also criticized him for his lack of art and disregard for the Classical rules.
 
 ### Page 13
 
@@ -124,7 +128,9 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 - #### Panel 3
 
-  > **Do you think of her ever** - figure out who Ben is referencing
+  > Do you think of her ever
+
+  -- figure out who Ben is referencing
 
 ### Page 17
 
@@ -162,7 +168,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 - #### Panel 7
 
-  Act I Scene 2 line 437
+  Act I Scene 2 line 437.
 
 ### Page 21
 
@@ -170,7 +176,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 - #### Panel 4
 
-  The script here describes the background "transmuting into an island", which it seems wasn't kept for the final art. This makes it clear that Shakespeare is already dreaming at this point.
+  The script here describes the background _"transmuting into an island"_, which it seems wasn't kept for the final art. This makes it clear that Shakespeare is already dreaming at this point.
 
 ### Page 22
 
@@ -228,7 +234,7 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 - #### Panels 1-8
 
-  Act IV Scene 1 line 370
+  Act IV Scene 1 line 370.
 
 - #### Panel 9
 

@@ -18,7 +18,7 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 ### Page 3
 
-> [marginThumb] ![page 02](thumbnails/sandman.74/page02.jpg)
+> [marginThumb] ![page 2-3](thumbnails/sandman.74/page02-03.jpg)
 
 - #### Panel 2
 
@@ -26,13 +26,13 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 ### Page 4
 
-> [marginThumb] ![page 04](thumbnails/sandman.74/page04.jpg)
+> [marginThumb] ![page 4](thumbnails/sandman.74/page04.jpg)
 
 - The White Lotus was a Buddhist sect that appealed to the lowerclasses. It's known to have existed as early as the 13th century C.E.The "White Lotus Rebellion" lasted from 1796 to 1804.
 
 ### Page 5
 
-> [marginThumb] ![page 05](thumbnails/sandman.74/page05.jpg)
+> [marginThumb] ![page 5](thumbnails/sandman.74/page05.jpg)
 
 - #### Panel 1
 
@@ -44,7 +44,7 @@ The large lettering on the two tables seems to be Japanese rather than Chinese, 
 
 ### Page 6
 
-> [marginThumb] ![page 06](thumbnails/sandman.74/page06.jpg)
+> [marginThumb] ![page 6](thumbnails/sandman.74/page06.jpg)
 
 - #### Panel 5
 
