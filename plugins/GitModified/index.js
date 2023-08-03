@@ -28,7 +28,7 @@ var addModifiedBlock = function (page) {
         if (historyUrl) footer += ` [<a href="${historyUrl}${page.path}">page history</a>]`
 
         $('body')
-          .append(`<blockquote>${footer}</blockquote>`);
+          .append(`<blockquote class="gitmodified">${footer}</blockquote>`);
 
         page.content = $.html();
       }
