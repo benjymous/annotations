@@ -131,6 +131,9 @@ h3 {
 }
 
 .gitmodified {
-  margin-top: 100px;
+  padding: 0px !important;
   font-size: x-small;
+  margin: 100px 0px 0px 0px !important;
+  background: transparent !important;
+  border: none !important;
 }
