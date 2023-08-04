@@ -103,6 +103,8 @@ img {
 
 h2 {
   border-bottom: 1px solid;
+  margin-left: -12%;
+  margin-right: -12%;
 }
 
 h3 {
@@ -133,7 +135,7 @@ h3 {
 .gitmodified {
   padding: 0px !important;
   font-size: x-small;
-  margin: 100px 0px 0px 0px !important;
+  margin: 100px -12% 0px -12% !important;
   background: transparent !important;
   border: none !important;
 }
