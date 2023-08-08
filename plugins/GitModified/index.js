@@ -8,7 +8,7 @@ var historyUrl = "";
 var addModifiedBlock = function (page) {
 
 
-  const cmd = `git log -1 --pretty='format:${logFmt}' ${page.rawPath};`
+  const cmd = `git log -1 --pretty="format:${logFmt}" "${page.rawPath}"`
 
   return new Promise((resolve, reject) => {
     exec(cmd, (error, stdout, stderr) => {
@@ -22,7 +22,7 @@ var addModifiedBlock = function (page) {
 
         var $ = cheerio.load(page.content);
 
-        footer = stdout;
+        footer = stdout.replaceAll("[[","<").replaceAll("]]",">");
 
         if (editUrl) footer += ` [<a href="${editUrl}${page.path}">edit this page</a>]`
         if (historyUrl) footer += ` [<a href="${historyUrl}${page.path}">page history</a>]`

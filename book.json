@@ -11,7 +11,7 @@
   ],
   "pluginsConfig": {
     "gitmodified": {
-      "logFormat": " <a href=https://github.com/benjymous/annotations/commit/%h>Last modified</a> by %aN on %as - <i>%B</i><br>",
+      "logFormat": "[[a href=https://github.com/benjymous/annotations/commit/%h]]Last modified[[/a]] by %aN on %as - [[i]]%B[[/i]][[br]]",
       "historyUrlPrefix": "https://github.com/benjymous/annotations/commits/main/sandman/",
       "editUrlPrefix": "https://github.com/benjymous/annotations/edit/main/sandman/"
     }
