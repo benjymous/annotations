@@ -62,6 +62,10 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
   The coin, stick, song, and knife may correspond to the Disk, Wand, Cup, and Sword suits of the Tarot cards. Disks are analogous to modern diamonds, and represent earth and business. Wands became clubs, and represent fire and energy. Cups became hearts, and represent water and emotions, and are a feminine suit. Swords became spades, and represent air and intellect, and are a masculine suit.
 
+  The spell itself was inspired by the poem _"The Magic Wood"_ by [Henry Treece](https://en.wikipedia.org/wiki/Henry_Treece).
+
+  [Here’s a YouTube link](https://www.youtube.com/watch?v=UUfITbcisNo) to Neil talking about it followed by a reading by Peter Capaldi.
+
 ### Page 6
 
 > [marginThumb] ![page 06](thumbnails/sandman.01/page06.jpg)
@@ -275,3 +279,4 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 - Andrew Sigel <sigel@vsscad.enet.dec.com>
 - Ralf Hildebrandt added a note about the title, the connection between Unity and Desire, more info about the Yellow Pages and lots more details and edits.
 - Richard Munn confirmed the T.S. Eliot quote, updated the references to Paul's Return, and noted the mirroring in the first and last panels.
+- /u/PonyEnglish pointed out the Henry Treece reference.
