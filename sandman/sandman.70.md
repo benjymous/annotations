@@ -42,7 +42,7 @@
 
 - #### Panel 1
 
-  We've heard the true version of this rhyme in "The Parliament of Rooks": 40:7.3-4. Delirium's messenger would seem to have been a magpie.
+  We've heard the true version of this rhyme in "The Parliament of Rooks": [40:7](sandman.40.md#page-7).3-4. Delirium's messenger would seem to have been a magpie.
 
 - #### Panel 3
 
