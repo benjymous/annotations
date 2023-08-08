@@ -216,7 +216,7 @@ Note how Eve gets progressively younger. We've seen this happen before in [Seaso
 
 - #### Panel 2
 
-  "Duma's feet may, or may not, quite touch the ground." Possibly as a result of having been corrupted. [See my annotation in the Kindly Ones section.]
+  "Duma's feet may, or may not, quite touch the ground." Possibly as a result of having been corrupted. [See [60:1](sandman.60.md#page-1)]
 
 ### Page 22
 
@@ -232,7 +232,7 @@ Note how Eve gets progressively younger. We've seen this happen before in [Seaso
 
 - #### Panel 1
 
-  Alex Burgess is quoting the page from the _Liber Paginarum Fulvarum_ describing Morpheus. In issue [#1](sandman.01.md) he was shown reading that page over and over. Note the Siamese cat on the rocks, probably the cat-prophet from "Dream of a Thousand Cats"; also the figure with the staff further up the stairs, who is quite possibly Odin.
+  Alex Burgess is quoting the page from the _Liber Paginarum Fulvarum_ describing Morpheus. In issue [#1](sandman.01.md) he was shown reading that page over and over. Note the Siamese cat on the rocks, probably the cat-prophet from "[Dream of a Thousand Cats](sandman.18.md)"; also the figure with the staff further up the stairs, who is quite possibly Odin.
 
 ## Credits
 
