@@ -252,6 +252,8 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
   We saw this book shelved in Lucien's library in [Sandman #22](sandman.22.md). Others more familiar with Chesterton than I have said that the quote is typically Chestertonian, although it does not seem to be closer to the corresponding work, _The Man Who Was Thursday_, than it does to the rest of the Chesterton oeuvre.
 
+  As seems to be a common theme, this arc ends back where it started, in [Destiny's Garden](sandman.21.md)
+
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
@@ -268,3 +270,4 @@ The third & fourth character are to be read together to mean "baby", all four ch
 - Col. G. L. Sicherman (gls@windmill.att.com) spoke on the vagaries of Australian slang.
 - Mike "Killans" Collins (mcollins@isis.cs.du.edu) addressed the usage of 'strewth and pom. Nathan D. Johnson (ndj20710@uxa.cso.uiuc.edu), Zoz, Shaun (shaun@iris.mincom.oz.au), Aamod Sane (sane@cs.uiuc.ed), and Pete Hartman (pwh@bradley.bradley.edu) followed up with clarifications on 'strewth's use.
 - Ralf Hildebrandt added more details on the Chinese writing
+- Richard Munn noted how the arc begins and ends.

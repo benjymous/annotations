@@ -266,7 +266,7 @@
 
 - #### Panel 6
 
-  Echoes [57:1](sandman.57.md#page-1).1.
+  As is the theme, this panel returns to the start, echoing [57:1](sandman.57.md#page-1).1.
 
 - #### Panel 7
 
@@ -291,4 +291,4 @@
 - Timothy Hock Seng Tan <083285@bud.cc.swin.edu.au> who knew who Loki & Puck are working for.
 - Sarah Alderdice <viverais@freeze.com> added a note about p18.
 - Ralf Hildebrandt added more details.
-- Richard Munn noted the first panel meta-commentary.
+- Richard Munn noted the first panel meta-commentary, and the continued theme of start-end panels on arcs.

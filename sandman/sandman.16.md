@@ -134,6 +134,15 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
   Delirium is the name of the Endless whose sigil is the swirly one to the right of Despair's on [issue 10, page 4](sandman.10.md#page-4).
 
+### Page 24
+
+> [marginThumb] ![page 23](thumbnails/sandman.16/page24.jpg)
+
+- #### Panel 5
+
+ This arc ends back where it started, overlooking [The Threshold](sandman.10.md)
+
+
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
@@ -142,4 +151,4 @@ Ninth story reprinted in trade paperback _The Doll's House_
 - Neil Gaiman, via Tanaqui C. Weaver <cen@vax.oxford.ac.uk> expanded on material in Rose's room.
 - David Goldfarb <goldfarb@ocf.berkeley.edu> speculated on the nature of an Endless disaster.
 - Ralf Hildebrandt added more details.
-- Richard Munn included a better quality copy of the G.K. Chesterton photo, and the Overture references.
+- Richard Munn included a better quality copy of the G.K. Chesterton photo, added the Overture references, and noted how the arc begins and ends.

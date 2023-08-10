@@ -209,6 +209,14 @@
 
   The eye is Desire's.
 
+### Page 24
+
+> [marginThumb] ![page 24](thumbnails/sandman.49/page24.jpg)
+
+- #### Panel 6
+
+  Again this arc finishes [where it began](sandman.41.md), back on Naxos.
+
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
@@ -236,3 +244,4 @@
 - "Esther" William Sherman <sherman@math.ucla.edu> noted graves, misIDed the Night Land and IDed Hy-Brasil.
 - Catherine LeCuyer <lecuyer@wam.umd.edu> IDed Hy-Brasil.
 - Jim Henry (jim.henry@ehbbs.com) IDed Sardathrion.
+- Richard Munn noted how the arc begins and ends.
