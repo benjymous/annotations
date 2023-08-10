@@ -289,11 +289,8 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 > [marginThumb] ![page 22](thumbnails/sandman.06/page22.jpg)
 
+
 - The sign in the upper left reads "Please and Thank You are the magic words."
-
-### Page 22
-
-- #### Panel 1
 
   In the lower left corner there is an old clock. Exactly the same clock can be found in [Sandman #4](sandman.04.md) ("A Hope In Hell") on page 11, panel 3, also in the lower left corner.
 
