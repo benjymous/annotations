@@ -64,7 +64,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
   The spell itself was inspired by the poem _"The Magic Wood"_ by [Henry Treece](https://en.wikipedia.org/wiki/Henry_Treece).
 
-  [Here’s a YouTube link](https://www.youtube.com/watch?v=UUfITbcisNo) to Neil talking about it followed by a reading by Peter Capaldi.
+  [Here’s a YouTube link](https://www.youtube.com/watch?v=UUfITbcisNo) to Neil talking about it on _With Great Pleasure_ on BBC Radio 4, followed by a reading by Peter Capaldi.
 
 ### Page 6
 
@@ -186,6 +186,14 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
   Usually, people only read tenth or twelfth had copies. There was once a wizard who started to read it and let his mind wander. Next morning they found all his clothes on the chair and his hat on top of them and the book had ... a lot more pages.
 
+### Page 26
+
+> [marginThumb] ![page 26](thumbnails/sandman.01/page26.jpg)
+
+- #### Panels 5-6
+
+  The Sun is a British tabloid newspaper that has been published since 1964. It is known for its sensationalist headlines, celebrity gossip, and political scandals. One of its most controversial features was Page 3, which started in 1970 and featured topless or nude photos of female models on the third page of the paper. Page 3 was seen as a symbol of British culture by some, but also as a source of sexism and objectification by others. It faced many protests and campaigns to end it, and was eventually discontinued in 2015.
+
 ### Page 27
 
 > [marginThumb] ![page 27](thumbnails/sandman.01/page27.jpg)
@@ -210,7 +218,7 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
   We are seeing Mort Notkin's dream, in which he is dressed as a clown at a party which is not a costume party after all (a common dream).
 
-  The people pictured are, left to right, Marilyn Monroe, an American film actress; Jimmy Durante, an American film actor; Mort himself (note dismayed expression); Elvis Presley, an American rock musician; (small face) unknown (Humphrey Bogart?); John Wayne, American film actor; unknown (Jane Fonda?).
+  The people pictured are, left to right, [Marilyn Monroe](https://en.wikipedia.org/wiki/Marilyn_Monroe), an American film actress; [Jimmy Durante](https://en.wikipedia.org/wiki/Jimmy_Durante), an American film actor; Mort himself (note dismayed expression); [Elvis Presley](https://en.wikipedia.org/wiki/Elvis_Presley), an American rock musician; (small face) unknown (Humphrey Bogart?); [John Wayne](https://en.wikipedia.org/wiki/John_Wayne), American film actor; unknown (Jane Fonda?).
 
 - #### Panel 5
 
@@ -278,5 +286,5 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 - Neil Gaiman, via Tanaqui C. Weaver <tweaver@isis.cs.du.edu>
 - Andrew Sigel <sigel@vsscad.enet.dec.com>
 - Ralf Hildebrandt added a note about the title, the connection between Unity and Desire, more info about the Yellow Pages and lots more details and edits.
-- Richard Munn confirmed the T.S. Eliot quote, updated the references to Paul's Return, and noted the mirroring in the first and last panels.
+- Richard Munn confirmed the T.S. Eliot quote, updated the references to Paul's Return, and noted the mirroring in the first and last panels, and added the note about The Sun.
 - /u/PonyEnglish pointed out the Henry Treece reference.
