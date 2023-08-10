@@ -78,7 +78,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 2
 
-  I am not familiar with the practice of "creeping"; it may be exclusively British, or more simply a short-lived phenomenon.
+  It is not clear if the practice of "creepers" breaking into an occupied house for sport (rather than to actually steal anything) was a real phenomenon, or just something Gaiman invented for the story.
 
 ### Page 7
 
@@ -241,3 +241,4 @@ Third story reprinted in _Preludes and Nocturnes_
 - Steve Murray <SXM101@psuvm.psu.edu> speculated on Constantine's not opening the pouch.
 - David Henry <UD137927@VM1.NoDak.EDU> corrected Mad Hettie's appearance.
 - Aaron Bibb added the annotation to page 22, panel 5.
+- Richard Munn tried (and failed) to do more research on "creepers".
