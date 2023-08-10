@@ -118,7 +118,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 ### Page 14-15
 
-> [marginThumb] ![page 14](thumbnails/sandman.02/page14.jpg)
+> [marginThumb] ![page 14-15](thumbnails/sandman.02/page14-15.jpg)
 
 - #### Panel 2
 
