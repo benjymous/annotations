@@ -14,9 +14,9 @@ Fifth story reprinted in _Preludes and Nocturnes_
 
 - This is Arkham Asylum, which was referenced earlier. "Funeral March for a Marionette" is the theme song to the show "Alfred Hitchcock Presents." Hitchcock is a famous director, particularly of suspenseful movies; the television shows were also suspense or mystery, introduced by Hitch himself with droll black humor. Hitchcock is known for making cameos in all his film work. "Alfred Hitchcock Presents" is currently being shown on USA Network on cable on Friday nights.
 
-You may find the song on the compact disc "Chiller," Telarc CD-80189, in the classical section. The song was written by Charles Gounod, as a musical caricature of a music critic, Henfry [sic; perhaps "Henry"] F. Chorley.
+  You may find the song on the compact disc "Chiller," Telarc CD-80189, in the classical section. The song was written by Charles Gounod, as a musical caricature of a music critic, Henfry [sic; perhaps "Henry"] F. Chorley.
 
-Chorley died in 1872 before the piece could be formally dedicated to him, but it became an instant hit with amateur pianists.
+  Chorley died in 1872 before the piece could be formally dedicated to him, but it became an instant hit with amateur pianists.
 
 ### Page 2
 
@@ -34,7 +34,7 @@ Chorley died in 1872 before the piece could be formally dedicated to him, but it
 
 - As far as I know, the Scarecrow is correct with his terms for various phobias. It is unclear how he is hanging. Panel 5 clearly shows that the noose is not tight, but then he could not be hanging from the rope (as he clearly is on the previous page and in panel 1) with the rope as in panel 5. The shadows in panel 5 might show the rope attached to a fairly large hook on the back of Crane's straightjacket.
 
-He might have the rope going down his shirt and tied around his waist. They did this in the movie "Heathers."
+  He might have the rope going down his shirt and tied around his waist. They did this in the movie "Heathers."
 
 - #### Panel 7
 
