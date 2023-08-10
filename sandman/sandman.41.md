@@ -146,7 +146,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 - #### Panel 5
 
-  The song is "Tear in Your Hand" by Tori Amos, from the album _little earthquakes_. The next line is
+  The song is "[Tear in Your Hand](https://www.youtube.com/watch?v=kGjpRNtoA0A)" by Tori Amos, from the album _little earthquakes_. The next line is
 
   > If you need me, me and Neil will be hanging out with the Dream King<br>
   > Neil says hi, by the way.

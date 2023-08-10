@@ -54,7 +54,7 @@ In "Soft Places", Marco Polo travels into a soft place unfamiliar to him, as he 
 
 - #### Panel 6
 
-  The first song is "Brother, Can You Spare a Dime?", lyrics Edgar Y. Harburg, music Jay Gerney, 1932, a song of the Great Depression. The others are unknown.
+  The first song is "[Brother, Can You Spare a Dime?](https://www.youtube.com/watch?v=glf8sbuECJo)", lyrics Edgar Y. Harburg, music Jay Gerney, 1932, a song of the Great Depression. The others are unknown.
 
 ### Page 7
 

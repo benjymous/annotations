@@ -98,7 +98,7 @@ Third story reprinted in trade paperback _The Doll's House_
 
   Lucien is taking a census. It struck me as funny that the census rolls include "Something Nasty in the Basement". I can just see the junk mail from Ed McMahon: "On January 23, will I announce 'Mr. Something N. Basement has just won $23 million dollars? Enter now!" It does not appear that Mr. Basement or the Bottle Imp date back to the original run of _House of Secrets_.
 
-  The lyrics are from "Lydia the Tattooed Lady" by the Marx Brothers.
+  The lyrics are from "[Lydia the Tattooed Lady](https://www.youtube.com/watch?v=n4zRe_wvJw8)" by the Marx Brothers.
 
 ### Page 10
 

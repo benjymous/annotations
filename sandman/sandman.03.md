@@ -8,7 +8,7 @@ Third part of first storyline, _More than Rubies_
 
 Third story reprinted in _Preludes and Nocturnes_
 
-**Title**: "Dream a Little Dream of Me" is a 1931 song. Words by Gus Kahn, music by Wilbur Schwandt & Fabian Andre. It has been recorded many times by many artists, but most familiar to the audience is probably the version by the Mamas and the Papas, sung by Mama Cass Elliot.
+**Title**: "Dream a Little Dream of Me" is a 1931 song. Words by Gus Kahn, music by Wilbur Schwandt & Fabian Andre. It has been recorded many times by many artists, but most familiar to the audience is probably the version by the [Mamas and the Papas](https://www.youtube.com/watch?v=v8I5vDewcZo), sung by Mama Cass Elliot.
 
 ### Page 1
 
@@ -54,7 +54,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 3-4
 
-  The lyrics are from a Patsy Cline song, "Sweet Dreams," also covered by Elvis Costello on the album "Almost Blue." The lyrics may have also appeared in the comic _Badlands_ #4. The song is considered a classic "proof" of a singer's a capella ("without accompaniment") abilities.
+  The lyrics are from a Patsy Cline song, "[Sweet Dreams](https://www.youtube.com/watch?v=n0YktY3mL7o)," also covered by Elvis Costello on the album "Almost Blue." The lyrics may have also appeared in the comic _Badlands_ #4. The song is considered a classic "proof" of a singer's a capella ("without accompaniment") abilities.
 
 - #### Panel 4
 
@@ -94,17 +94,17 @@ Third story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 1
 
-  The lyrics are from "Sweet Dreams" by the Eurythmics.
+  The lyrics are from "[Sweet Dreams](https://www.youtube.com/watch?v=qeMFqkcPYcg)" by the Eurythmics.
 
 - #### Panel 2
 
-  The lyrics are from "Dream Lover" by Bobby Darin. It was a #2 hit in 1959.
+  The lyrics are from "[Dream Lover](https://www.youtube.com/watch?v=iAEZ9KtkAaI)" by Bobby Darin. It was a #2 hit in 1959.
 
 - #### Panel 3
 
-  The lyrics are from "Power of Love" by Frankie Goes To Hollywood. They were used in public service messages about AIDS in Britain.
+  The lyrics are from "[Power of Love](https://www.youtube.com/watch?v=WtdRv6GT9Zg)" by Frankie Goes To Hollywood. They were used in public service messages about AIDS in Britain.
 
-  The Ley-lines (pronounced like the name Lee) are a particular reference to a case of Constantine's, the Fear Machine, which ran for something like nine issues in the teens of _Hellblazer_. Leptons are a class of fundamental particles in physics. A plasma is an aggregate of charged particles; "Plasma fields" is incorrect jargon and sounds like New Age crap.
+  The [Ley-lines](https://en.wikipedia.org/wiki/Ley_line) (pronounced "Lay") are a particular reference to a case of Constantine's, the Fear Machine, which ran for something like nine issues in the teens of _Hellblazer_. [Leptons](https://en.wikipedia.org/wiki/Lepton) are a class of fundamental particles in physics. [Plasma](https://en.wikipedia.org/wiki/Plasma_(physics)) is an aggregate of charged particles; "Plasma fields" is incorrect jargon and sounds like New Age crap.
 
 - #### Panel 6, page 9 panel 1
 
@@ -156,7 +156,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 5
 
-  The lyrics are from a song by Roy Orbison, "In Dreams".
+  The lyrics are from a song by Roy Orbison, "[In Dreams](https://www.youtube.com/watch?v=MVRunwyoTMA)".
 
   The song is featured prominently in the soundtrack of David Lynch's movie _Blue Velvet_.
 

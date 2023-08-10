@@ -171,7 +171,7 @@
 
 - #### Panel 1
 
-  **I Heard It Through the Grapevine**: a song originally popularized by Gladys Knight and the Pips, later taken to the top of the charts by Marvin Gaye. Lyrics are quoted in the third caption of panel 1, the third caption of panel 2, and the caption of page 15 panel 1.
+  **I Heard It Through the Grapevine**: a song originally popularized by Gladys Knight and the Pips, later taken to the top of the charts by [Marvin Gaye](https://www.youtube.com/watch?v=cXWHpbpNdHE). Lyrics are quoted in the third caption of panel 1, the third caption of panel 2, and the caption of page 15 panel 1.
 
 ### Page 15
 
@@ -179,7 +179,7 @@
 
 - #### Panel 6
 
-  **Under Pressure**: A song written and performed by David Bowie and Queen. (Recall the mention of Queen frontsman Freddie Mercury in [#41](sandman.41.md).) The song is about closeted homosexuals.
+  **Under Pressure**: A song written and performed by [David Bowie and Queen](https://www.youtube.com/watch?v=a01QQZyl-_I). (Recall the mention of Queen frontsman Freddie Mercury in [#41](sandman.41.md).) The song is about closeted homosexuals.
 
 ### Page 16
 

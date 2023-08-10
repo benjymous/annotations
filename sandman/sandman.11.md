@@ -135,7 +135,7 @@ Fourth story reprinted in trade paperback _The Doll's House_
 
 - #### Panel 2
 
-  Rose is singing a song, presumably from the drag show she has just seen. The song is "Oh, You Beautiful Doll." Lyrics by Seymour Brown, music by Nat Ayer. Jerome Remick & Co., 1911.
+  Rose is singing a song, presumably from the drag show she has just seen. The song is "[Oh, You Beautiful Doll](https://www.youtube.com/watch?v=j3coxX-GnM0)." Lyrics by Seymour Brown, music by Nat Ayer. Jerome Remick & Co., 1911.
 
 ### Page 12
 
