@@ -36,7 +36,7 @@
 @container (max-width: 999px) {
   .page-inner {
     padding-left: 14%;
-    padding-right: 14%;
+    padding-right: 20px;
   }
 
   .marginThumb {
