@@ -8,7 +8,7 @@ Referred to by Gaiman as the epilogue to _More than Rubies_
 
 Eighth story reprinted in _Preludes and Nocturnes_
 
-First story reprinted in _The Doll's House_
+First story reprinted in _The Doll's House_ (in early editions)
 
 **Note**: _The Doll's House_ and [Sandman #8](sandman.08.md) both contain an introduction written by Neil Gaiman explaining the story thus far. The introduction does not appear in _Preludes and Nocturnes_. Sandman #8 also contains words of praise for _Sandman_ (and Neil Gaiman) from many writers and artists, both of comic books and mainstream fiction. The introduction is illustrated by original art by Mike Dringenberg in #8. The illustrations in _The Doll's House_ are different and more general. The notes below about the illustrations refer to the ones in #8.
 
@@ -163,6 +163,10 @@ First story reprinted in _The Doll's House_
 
   **Romany** is the name of the Gypsies for themselves and for their language.
 
+  The artwork seen here is [The Dance](https://en.wikipedia.org/wiki/Dance_(Matisse)) by Matisse
+
+  ![The Dance by Matisse](images/MatisseDance.jpg)
+
 - #### Panel 5
 
   **Yid**: Yiddish is the traditional lingua franca of the Ashkenazic Jews, those who have ancestors that lived in Germany, Europe and Slavic countries. Yiddish is the closest language to early German but is written in Hebraic characters. The Yiddish people were generally called Ashkenazim or Ashkenazic Jews to distinguish them from the Sephardim or Sephardic Jews, Mediterranean Jews of Spanish origin, expelled from Spain due to religious persecution in 1492. "Yid" means "Jew" in Yiddish. It is a strong racial epithet, particularly when used in Europe by a Gentile. The American equivalent is probably "kike". Here, used by a Jew, "Yid" may be seen as self- deprecating humor.
@@ -239,10 +243,6 @@ First story reprinted in _The Doll's House_
 
   Note the graffito: "Dreams make no promises". In conjunction with the dead man, this may be seen as a contrast between the siblings' realms.
 
-### Page 19
-
-> [marginThumb] ![page 19](thumbnails/sandman.08/page19.jpg)
-
 - #### Panel 4; page 20 panel 1-2
 
   The song to Death is a verse taken from a papyrus, c. 2000 BC, which contains a work called "Dialogue of a Misanthrope with His Soul". The most accessible reference for this is Joseph Campbell's _Oriental Mythology_. Campbell cites 19th century German works for his information.
@@ -256,6 +256,14 @@ First story reprinted in _The Doll's House_
 - #### Panel 1
 
   Note that the arch is clearly marked "Erected by the People of the City of New York".
+
+### Page 23
+
+> [marginThumb] ![page 24](thumbnails/sandman.08/page23.jpg)
+
+- #### Panel 3
+
+Note what we can see in the background.
 
 ### Page 24
 
@@ -288,4 +296,4 @@ First story reprinted in _The Doll's House_
 - Timothy Tan aka TiTan <_> -M2001- <_> 083285@bud.cc.swin.edu.au
 - "Kai'Ckul" <oshinsky@webspan.net> wrote about Washington Square Park.
 - Ralf Hildebrandt added many more details.
-- Richard Munn corrected Death about pigeons, added the note about Overture, and the possibility of the baby's mother being British.
+- Richard Munn corrected Death about pigeons, added the note about Overture,  the possibility of the baby's mother being British, Identified Harry's Matisse print, and noted Franklin in the background (and foreground) on p23.
