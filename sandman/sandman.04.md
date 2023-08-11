@@ -100,7 +100,7 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 3
 
-  In the lower left corner there is an old clock on Lucifer's table. Exactly the same clock can be found in [Sandman #6](sandman.06.md) ("24 hours") on page 22, panel 1, also in the lower left corner.
+  In the lower left corner there is an old clock on Lucifer's table. Exactly the same clock can be found in [Sandman #6](sandman.06.md#page-16) ("24 hours") on pages [16](sandman.06.md#page-16) and [22](sandman.06.md#page-22).
 
 ### Page 14
 

@@ -220,15 +220,17 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 - In this sequence, the three women take the roles of the Hecateae, reintroduced in [issue 3](sandman.03.md). Dee repeatedly demands a prophecy until he hears what he wants to hear. Notice that Judy has lost her shirt, which is consistent with Judy being involved in the sex scene on the previous page. Also note that the women are arranged in a maiden/mother/crone order.
 
-- #### Panel 3
-
-  Kate seems to be referring to Arkham Asylum here, where John Dee just came from. Bette is in the role of Atropos, who cuts the thread of each person's life as it ends, in Greek mythology.
+- #### Panel 2, 4
 
   This is the same "bell jar clock" that previously appeared next to Lucifer in [Sandman Issue #4](sandman.04.md#page-11)
 
   > [flex cols-2] ![clock from issue 4](images/JarClock1.jpg) ![clock from issue 6](images/JarClock2.jpg)
 
   While the clock image has appeared previously, I direct you to [Sandman Issue #10](sandman.10.md#page-19) "the Doll's House", page 19 panel 1. The ceiling is a giant watch /clock, implying a connection between time and the Hecatae. Since the three women in [issue #6, page 16](sandman.06.md#page-16) are playing the role of the Hecatae, they are giving a watch/clock as well.
+
+- #### Panel 3
+
+  Kate seems to be referring to Arkham Asylum here, where John Dee just came from. Bette is in the role of Atropos, who cuts the thread of each person's life as it ends, in Greek mythology.
 
 ### Page 17
 
@@ -292,7 +294,7 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 - The sign in the upper left reads "Please and Thank You are the magic words."
 
-  In the lower left corner there is an old clock. Exactly the same clock can be found in [Sandman #4](sandman.04.md) ("A Hope In Hell") on page 11, panel 3, also in the lower left corner.
+  The clock from [page 16](#page-16) appears again here.   Note that it always shows the same time, so doesn't appear to even be working.
 
 ### Page 24
 
