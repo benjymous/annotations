@@ -145,11 +145,21 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
   **Hippolyta**: When Fury was the daughter of the original Wonder Woman, being named for the queen of the Amazons made sense. Post-Crisis, of course, nothing made sense.
 
+### Page 23
+
+> [marginThumb] ![page 23](thumbnails/sandman.12/page23.jpg)
+
+- #### Panel 6
+
+  Note that Dream says he has a **prior engagement**.
+
 ### Page 24
 
 > [marginThumb] ![page 24](thumbnails/sandman.12/page24.jpg)
 
 - Oopsy. Jed's fled, and soon he'll be dead, 'cause that's the Corinthian who picked him up. Big coincidence? Not really; there's a vortex wandering around totally screwing up causality, and both Jed and the Corinthian are directly linked to her.
+
+- The text under the bottom panel was missing in the original editions (Gaiman said someone in Editorial must've removed the text, thinking it a mistake), later changed to "Next: Men of Good Fortune", and was finally corrected back to what Gaiman put in the script in the first place:  "Next:  The Prior Engagement."  Referring to what Dream said on the previous page, and the events that will come in [Issue 13](sandman.13.md).
 
 ## Credits
 
@@ -167,3 +177,4 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 - Ed (The Anti-Dave) (Dave Stobbe <dave.stobbe@canrem.com>) explained the metaphorical significance of a Dutch Uncle.
 - Ralf Hildebrandt added more details.
+- Richard Munn noted the Prior Engagement.

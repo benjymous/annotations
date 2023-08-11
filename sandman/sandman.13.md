@@ -354,6 +354,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
   Note that before, Dream always wore formal attire, but here is wearing quite casual clothing. This perhaps represents a personality change as a consequence of his imprisonment. Alternately, what was formerly a formal situation has become a casual meeting between friends, or the clothing of the upper class has gone from formal to casual and Dream is merely up-to-the-minute.
 
+  If it's not obvious, this is the **prior engagement** referred to in the [last issue](sandman.12.md#page-23).
+
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
@@ -372,3 +374,4 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 - Mark MacBear <mamcconnell@uccs.edu> identifying Marlowe's role in Shakespeare's sonnets (I think that who said it and who he meant, I lost most of the reference.)
 - Dave Stobbe, who signs himself "Ed (the Anti-Dave)", <dave.stobbe@canrem.com> corrected my attribution of movable type to Gutenberg.
 - Ralf Hildebrandt added more details.
+- Richard Munn noted the Prior Engagement.
