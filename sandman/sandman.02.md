@@ -220,6 +220,14 @@ Second story reprinted in _Preludes and Nocturnes_
 
   The mother is Ethel Cripps Dee, the son is John (Dr. Destiny) Dee, the superhumans are the Justice League of America. "Weird" as in "weird sisters" is a old word meaning "fate."
 
+  ### Page 23
+
+> [marginThumb] ![page 23](thumbnails/sandman.02/page23.jpg)
+
+- #### Panel 7
+
+  These are the Gates of Horn and Ivory, mentioned on [page 5](#page-5)
+
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
@@ -238,3 +246,4 @@ Second story reprinted in _Preludes and Nocturnes_
 - Tanaqui C. Weaver <cen@vax.oxford.ac.uk>
 - Much of the information on the Three Witches is liberally plagiarized from Alisa Kwitney's writing in _Who's Who_ #15 (1991).
 - Ralf Hildebrandt added lots more details and made some edits.
+- Richard Munn added the additional reference to the Gates of Horn and Ivory on p 21.
