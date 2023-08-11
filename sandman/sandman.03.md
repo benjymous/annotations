@@ -16,6 +16,16 @@ Third story reprinted in _Preludes and Nocturnes_
 
 - This woman will be identified later. This is her first known appearance.
 
+> [floatright width-30pc] ![Frank Zappa Them or Us](images/ZappaThemOrUs.jpg)
+
+- #### Panel 2
+
+  **Radio 1**: A Pop music station run by the BBC in the UK.
+
+- #### Panel 3
+
+  The poster in the background is the Album art from Frank Zappa's 1984 album [Them or Us](https://en.wikipedia.org/wiki/Them_or_Us)
+
 ### Page 2
 
 > [marginThumb] ![page 02](thumbnails/sandman.03/page02.jpg)
@@ -210,7 +220,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 5
 
-  The narrative box claims that Rachel's last dream is "the best of all possible worlds."  This phrase from _Candide_ pops up again in the _Season of Mists_ storyline, in reference to Hell.
+  The narrative box claims that Rachel's last dream is "the best of all possible worlds." This phrase from _Candide_ pops up again in the _Season of Mists_ storyline, in reference to Hell.
 
 ### Page 23
 
@@ -241,4 +251,4 @@ Third story reprinted in _Preludes and Nocturnes_
 - Steve Murray <SXM101@psuvm.psu.edu> speculated on Constantine's not opening the pouch.
 - David Henry <UD137927@VM1.NoDak.EDU> corrected Mad Hettie's appearance.
 - Aaron Bibb added the annotation to page 22, panel 5.
-- Richard Munn tried (and failed) to do more research on "creepers".
+- Richard Munn added the Radio 1 and Zappa references, and tried (and failed) to do more research on "creepers".
