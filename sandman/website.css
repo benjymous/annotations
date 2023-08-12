@@ -1,12 +1,20 @@
+.page-inner {
+  max-width: 896px;
+  padding-left: max(64px, min(128px, 14%));
+  margin-right: auto !important;
+}
+
 .marginThumb {
   float: left !important;
   background: transparent !important;
   overflow: hidden !important;
   border: none !important;
   padding: 0px !important;
+  width: max(64px, 16%);
   margin: 0px !important;
   padding-right: 10px !important;
   margin-top: -61px !important;
+  margin-left: min(-16%,-64px) !important;
   -webkit-mask-image: radial-gradient(
     circle,
     rgba(255, 255, 255, 1) 0%,
@@ -21,26 +29,3 @@
   );
 }
 
-@container (min-width: 1000px) {
-  .page-inner {
-    padding-left: 128px;
-    padding-right: 128px;
-  }
-
-  .marginThumb {
-    width: 130px;
-    margin-left: -138px !important;
-  }
-}
-
-@container (max-width: 999px) {
-  .page-inner {
-    padding-left: 14%;
-    padding-right: 20px;
-  }
-
-  .marginThumb {
-    width: 16%;
-    margin-left: -16% !important;
-  }
-}

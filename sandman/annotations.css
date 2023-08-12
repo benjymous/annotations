@@ -1,6 +1,3 @@
-.page-wrapper {
-  container-type: inline-size;
-}
 
 .page-inner {
   max-width: 1024px;
@@ -129,7 +126,7 @@ h3 {
 
 .header-link {
   position: absolute;
-  right: 15%;
+  right: 5%;
 }
 
 .gitmodified {
