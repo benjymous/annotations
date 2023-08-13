@@ -15,13 +15,14 @@ var applyBlockquoteClass = function (page) {
         if (data) {
           var check = data.trim();
 
-          if (check.startsWith("[") && check.endsWith("]")) {
-            check = check.replace(/\[|\]/g, "");
-            check.split(" ").forEach((bit) => {
-              $(blockquote).addClass(bit);
-              addedClass = true;
-            });
-            $(this).contents()[0].data = "";
+          const regex = /^\[(.+)\]/gm;
+
+          const m = regex.exec(check);
+
+          if (m) {
+            const val = m[1];
+            $(blockquote).addClass(val);
+            $(this).contents()[0].data = data.replace(regex, "");
           }
         }
       });
