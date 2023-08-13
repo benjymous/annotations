@@ -10,6 +10,10 @@ First story reprinted in _Preludes and Nocturnes_
 
 Another _possible_ Elvis Costello influence is the title to Sandman #1 - there IS an Elvis Costello song entitled "[Sleep of the just](https://www.youtube.com/watch?v=nvhdHxY0Y4A)", though nothing in the lyrics correlates with the story.
 
+### Introduction
+
+> [audible] The Audible version adds an introduction here, explaining the nature of The Endless, and a voiceover from John Hathaway expanding on what is said on p13.
+
 ### Page 1
 
 > [marginThumb] ![page 01](thumbnails/sandman.01/page01.jpg)
@@ -138,6 +142,14 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
   First known appearance of a demon we will see again. The amulet will also appear again.
 
+### Page 16
+
+> [marginThumb] ![page 16](thumbnails/sandman.01/page16.jpg)
+
+- #### Panel 4
+
+  > [audible] The Audible narration mentions that Ethel Cripps discovers she is pregnant, but by Sykes or Burgess she cannot be sure.
+
 ### Page 18
 
 > [marginThumb] ![page 18](thumbnails/sandman.01/page18.jpg)
@@ -149,6 +161,8 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 - #### Panel 4-6
 
   Wesley Dodds was the Golden Age Sandman. The dreams are a retcon. The costume is correct; it is Dodds' first costume. Later he will don a purple and gold outfit and acquire a sidekick, Sandy. Dodds will be referred to again.
+
+  > [audible] This sequence is expanded in the Audible version.
 
 ### Page 21
 
@@ -286,5 +300,5 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 - Neil Gaiman, via Tanaqui C. Weaver <tweaver@isis.cs.du.edu>
 - Andrew Sigel <sigel@vsscad.enet.dec.com>
 - Ralf Hildebrandt added a note about the title, the connection between Unity and Desire, more info about the Yellow Pages and lots more details and edits.
-- Richard Munn confirmed the T.S. Eliot quote, updated the references to Paul's Return, and noted the mirroring in the first and last panels, and added the note about The Sun.
+- Richard Munn confirmed the T.S. Eliot quote, updated the references to Paul's Return, noted the mirroring in the first and last panels, added the note about The Sun, and added some details given in the Audible version.
 - /u/PonyEnglish pointed out the Henry Treece reference.
