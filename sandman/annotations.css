@@ -1,5 +1,6 @@
 .page-inner {
   max-width: 1024px;
+  overflow-x: hidden;
 }
 
 .markdown-section {
@@ -12,7 +13,7 @@
   padding: 0 15px;
   color: #333333;
   border-left: 4px solid #ddd;
-  background: #efefef;
+  background: #00000010;
 }
 
 .markdown-section h3 {
@@ -24,14 +25,14 @@ img {
   padding: 5px;
 }
 
-.classedBlock {
+.flex .floatright .marginThumb {
   background: none !important;
   margin: none;
   padding: none;
   border: none !important;
 }
 
-.classedBlock p {
+.flex p, .floatright p, .marginThumb p {
   margin: 0px !important;
   padding: 0px !important;
 }
@@ -112,10 +113,15 @@ h3 {
   margin: 10px;
   display: block;
   border-bottom: 1px solid #e8e8e8;
-  background: #f0f0f0;
+  background: #00000010;
   padding-left: 400px;
   margin-right: -400px;
   margin-left: -400px;
+}
+
+.book-body {
+  background-image: url("images/bg_white.jpg");
+  background-size: auto 100%;
 }
 
 .book.color-theme-1 .book-body {
@@ -133,7 +139,7 @@ h3 {
 
 .color-theme-1 blockquote {
   background: #70421422;
-  color: #9b632b;
+  color: #704214;
 }
 
 .book.color-theme-2 .book-body {

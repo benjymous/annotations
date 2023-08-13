@@ -23,6 +23,7 @@ var applyBlockquoteClass = function (page) {
             const val = m[1];
             $(blockquote).addClass(val);
             $(this).contents()[0].data = data.replace(regex, "");
+            addedClass = true;
           }
         }
       });
