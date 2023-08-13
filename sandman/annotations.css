@@ -1,4 +1,3 @@
-
 .page-inner {
   max-width: 1024px;
 }
@@ -14,16 +13,6 @@
   color: #333333;
   border-left: 4px solid #ddd;
   background: #efefef;
-}
-
-.color-theme-1 blockquote {
-  background: #dbd3b7;
-  color: #9b632b;
-}
-
-.color-theme-2 blockquote {
-  background: #000;
-  color: #bdcadb;
 }
 
 .markdown-section h3 {
@@ -78,6 +67,7 @@ img {
 .floatright {
   float: right;
   border: 50px !important;
+  background: transparent !important;
 }
 
 .width-30pc {
@@ -98,6 +88,20 @@ img {
   border: none !important;
 }
 
+.audible {
+  border-left: 28px solid #f7991d !important;
+}
+
+.audible:before {
+  content: "";
+  background: url("images/Audible.svg");
+  background-size: cover;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin-left: -38px;
+}
+
 h2 {
   border-bottom: 1px solid;
   margin-left: -12%;
@@ -114,14 +118,40 @@ h3 {
   margin-left: -400px;
 }
 
+.book.color-theme-1 .book-body {
+  background-image: url("images/bg_sepia.jpg");
+}
+
+.book.color-theme-1 .book-body .page-wrapper .page-inner section {
+  background: transparent !important;
+}
+
 .color-theme-1 h3 {
   border-bottom: 1px solid #d8c37b;
-  background: #e8dbaf;
+  background: #70421422;
+}
+
+.color-theme-1 blockquote {
+  background: #70421422;
+  color: #9b632b;
+}
+
+.book.color-theme-2 .book-body {
+  background-image: url("images/bg_night.jpg");
+}
+
+.book.color-theme-2 .book-body .page-wrapper .page-inner section {
+  background: transparent !important;
 }
 
 .color-theme-2 h3 {
   border-bottom: 1px solid #000;
-  background: #0e1016;
+  background: #0e101622;
+}
+
+.color-theme-2 blockquote {
+  background: #0e101622;
+  color: #bdcadb;
 }
 
 .header-link {
