@@ -142,7 +142,7 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 
 - #### Panel 2
 
-  Another coloring error in some editions - Dream's cloak pin is supposed to be colored silver. It is not Dream's ruby, which was destroyed in [#7](sandman.07.md).
+  > [oops] Another coloring error in some editions - Dream's cloak pin is supposed to be colored silver. It is not Dream's ruby, which was destroyed in [#7](sandman.07.md).
 
 - #### Panel 3
 

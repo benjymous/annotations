@@ -66,7 +66,7 @@ Second story reprinted in trade paperback _Dream Country_
 
 - #### Panel 1-2
 
-  In early editions, the male was not not coloured with golden-hair. This appears to have been fixed in later versions.
+  > [oops] In early editions, the male was not not coloured with golden-hair. This appears to have been fixed in later versions.
 
 - #### Panel 2,4
 

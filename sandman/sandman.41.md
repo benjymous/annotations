@@ -104,7 +104,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 - #### Panel 3
 
-  Delirium's eyes were colored incorrectly in some editions. They should be: right eye green, left eye blue.
+  > [oops] Delirium's eyes were colored incorrectly in some editions. They should be: right eye green, left eye blue.
 
 - #### Panel 4
 

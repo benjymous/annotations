@@ -64,7 +64,7 @@
 
 - #### Panel 1
 
-  Pharamond's name was spelt **Faramond** in early editions - this was apparently fixed in later versions.
+  > [oops] Pharamond's name was spelt **Faramond** in early editions - this was apparently fixed in later versions.
 
 - #### Panel 5
 
@@ -203,7 +203,7 @@
 
 > [marginThumb] ![page 23](thumbnails/sandman.46/page23.jpg)
 
-- Again early editions miscolored Del's eyes. The grey tone of her balloons remained.
+- > [oops] Again early editions miscolored Del's eyes. The grey tone of her balloons remained.
 
 ## Credits
 

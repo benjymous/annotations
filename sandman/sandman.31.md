@@ -168,7 +168,7 @@ Other important themes touched on in this trilogy include responsibility in many
 
   Clemens is recounting what will become one of his most famous stories, "The Celebrated Jumping Frog of Calaveras County". This is an anachronism, as Twain had not yet heard the story.
 
-  In early editions, Delirium's word balloon was uncolored, but this was corrected in later issues.
+  > [oops] In early editions, Delirium's word balloon was uncolored, but this was corrected in later issues.
 
 - #### Panel 6
 

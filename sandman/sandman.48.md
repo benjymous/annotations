@@ -18,7 +18,7 @@
 
 - #### Panel 2-3
 
-  Note that in some editions the color separators got Dream's cloak pin correct, but screwed up Del's eyes again.
+  > [oops] Note that in some editions the color separators got Dream's cloak pin correct, but screwed up Del's eyes again.
 
 ### Page 2
 
@@ -93,7 +93,7 @@
 
 - #### Panel 4
 
-  A word balloon was missing in the early editions. Dream says _"How did you know we were coming?"_
+  > [oops] A word balloon was missing in the early editions. Dream says _"How did you know we were coming?"_
 
 ### Page 10
 

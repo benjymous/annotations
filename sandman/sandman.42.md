@@ -110,7 +110,7 @@
 
 - #### Panel 4
 
-  Early editions had an error, naming the servitor as _"Tamaris"_ rather than _"Taramis"_.  As with other errors, this was later corrected.
+  > [oops] Early editions had an error, naming the servitor as _"Tamaris"_ rather than _"Taramis"_.  As with other errors, this was later corrected.
 
   Lance Smith writes:
 
@@ -202,7 +202,7 @@
 
 - #### Panel 4
 
-  Early editions had interesting coloring on this rainbow. Later editions appear to get it correct!
+  > [oops] Early editions had interesting coloring on this rainbow. Later editions appear to get it correct!
 
 ## Credits
 

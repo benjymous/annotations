@@ -70,7 +70,7 @@
 
 - #### Panel 3
 
-  Del's balloon was miscolored in early editions.
+  > [oops] Del's balloon was miscolored in early editions.
 
 ## 5: _Three Keys_
 
@@ -114,7 +114,7 @@
 
 - #### Panel 3
 
-  Another coloring error - The Corinthian is wrongly colored white in early editions.
+  > [oops] Another coloring error - The Corinthian is wrongly colored white in early editions.
 
 - #### Panel 6
 

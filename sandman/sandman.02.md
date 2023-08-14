@@ -98,9 +98,11 @@ Second story reprinted in _Preludes and Nocturnes_
 
   Ethel Dee was born Ethel Cripps, whom we saw in [issue #1](sandman.01.md).
 
-  The letter balloon between panel 3 and panel 4 is incorrectly drawn. The first part is correctly identified as being said by the Asylum administrator, Doctor Huntoon. The second part is actually said by Ethel Dee. Dr. Huntoon has appeared before, in a Rick Veitch issue of _Swamp Thing_. He has the nickname "Piggy." Dr. Destiny (whose name may or may not have been given before as John Dee) has fought the Justice League of America on the order of ten times. He originally appeared as a normal human being who had invented anti-gravity (this from _JLA_ #5, "When Gravity Went Wild"). Subsequently, he invented a "materioptikon", which turned dreams into reality. Later, he invented a ruby materioptikon, and a dream materioptikon. At that point, it became necessary to remove his power to dream, which caused him to waste away to a human skeleton.
+  > [oops] The letter balloon between panel 3 and panel 4 is incorrectly drawn. The first part is correctly identified as being said by the Asylum administrator, Doctor Huntoon. The second part is actually said by Ethel Dee.
 
-  It has been suggested that John Dee is the son of Ruthven Sykes.
+  Dr. Huntoon has appeared before, in a Rick Veitch issue of _Swamp Thing_. He has the nickname "Piggy." Dr. Destiny (whose name may or may not have been given before as John Dee) has fought the Justice League of America on the order of ten times. He originally appeared as a normal human being who had invented anti-gravity (this from _JLA_ #5, "When Gravity Went Wild"). Subsequently, he invented a "materioptikon", which turned dreams into reality. Later, he invented a ruby materioptikon, and a dream materioptikon. At that point, it became necessary to remove his power to dream, which caused him to waste away to a human skeleton.
+
+  It has been suggested that John Dee is the son of either Roderick Burgess or Ruthven Sykes.
 
   Although Dee's coloration, which is not consistent with earlier appearances, suggests that he might have non-Caucasian blood, this is not consistent with his surname, which is the same as what is presumably his mother's married name. There may be some relationship with the historical Dr. John Dee, the court astrologer of Queen Elizabeth I and the inventor/discoverer of the Enochian Keys (no clue what they are, though).
 

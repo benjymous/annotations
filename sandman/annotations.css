@@ -16,7 +16,8 @@
   background: #00000010;
 }
 
-.markdown-section h3 {
+.markdown-section h3,
+.markdown-section h2 {
   clear: both;
 }
 
@@ -75,12 +76,17 @@ img {
 
 .width-30pc {
   width: 30%;
-  min-width: 180px;
+  min-width: 150px;
 }
 
 .width-40pc {
   width: 40%;
-  min-width: 180px;
+  min-width: 150px;
+}
+
+.width-50pc {
+  width: 50%;
+  min-width: 150px;
 }
 
 .shift-up {
@@ -102,7 +108,23 @@ img {
   position: absolute;
   width: 20px;
   height: 20px;
-  margin-left: -38px;
+  margin-left: -39px;
+  margin-top: 4px;
+}
+
+.oops {
+  border-left: 28px solid #b00020 !important;
+}
+
+.oops:before {
+  content: "";
+  background: url("images/alert-circle.svg");
+  background-size: cover;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin-left: -39px;
+  margin-top: 4px;
 }
 
 h2 {
