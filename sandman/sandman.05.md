@@ -140,6 +140,10 @@ Fifth story reprinted in _Preludes and Nocturnes_
 
   This may be oblique foreshadowing; the letter D is important to background mythology surrounding Morpheus that will be developed more in later issues.
 
+- #### Panel 4
+
+  [Hermeticism](https://en.wikipedia.org/wiki/Hermeticism) is a system of beliefs based on the teachings of Hermes Trismegistus, a mythical figure who combined the aspects of the Greek god Hermes and the Egyptian god Thoth1. It involves topics such as magic, astrology, alchemy, and spiritual development
+
 ### Page 17
 
 > [marginThumb] ![page 17](thumbnails/sandman.05/page17.jpg)
@@ -173,3 +177,4 @@ Fifth story reprinted in _Preludes and Nocturnes_
 - Jacob Levy <ST802099@BROWNVM> objected to my dismissal of the possible existence of Gotham, the State.
 - Ralf Hildebrandt added more details.
 - <Kull29@aol.com> added more details about the origin of Gotham.
+- Richard Munn added the note on Hermeticism.
