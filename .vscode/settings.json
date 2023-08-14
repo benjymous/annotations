@@ -2,10 +2,6 @@
   "editor.formatOnSave": true,
   "editor.wordWrap": "on",
   "editor.wrappingIndent": "indent",
-  "diffEditor.experimental.collapseUnchangedRegions": true,
-  "diffEditor.experimental.useVersion2": true,
   "files.trimTrailingWhitespace": true,
-  "diffEditor.diffAlgorithm": "advanced",
-  "diffEditor.ignoreTrimWhitespace": true,
-  "liveServer.settings.root": "/_book/",
+  "liveServer.settings.root": "/_book/"
 }

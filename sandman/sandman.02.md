@@ -14,6 +14,8 @@ Second story reprinted in _Preludes and Nocturnes_
 
 - The black-haired man is Abel, the other Cain. These would be familiar to most long-term readers of comics. Originally, they were the hosts for DC's watered-down versions of EC's mystery series. Cain was the host of _House of Mystery_, Abel the host of _House of Secrets_. Cain and Abel also appeared in _Plop!_, a DC humor title of the 1970s, along with Eve; they were drawn there by Sergio Aragones, who has appeared in Mad and currently does _Groo the Wanderer_, which is why Sergio did the pinup of them in [_Sandman_ Special #1](sandman-special1.md).
 
+  > [floatright width-40pc] ![Sergio Aragones's pinup from Special#1](images/AragonesPoster.jpg)
+
   Cain and Abel, of course, are the first two children of the first two people in Genesis, the biblical creation story. Cain slew Abel over a disagreement over their offerings to God, was marked by God, and was sent to live in the Land of Nod. The nursery rhyme of "Winken, Blinken, and Nod" identifies the Land of Nod as the Land of Dreams.
 
   In _Swamp Thing_ #33 (I believe), Alan Moore identified them as living in humanity's subconscious when Abigail Arcane Cable visited them in a dream and learned more about Swamp Thing's origins. Under Moore's terminology, a mystery may be shared, but a secret must be forgotten if one tries to tell it. Since the issue is mostly a reprint of the first Swamp Thing appearance from _HoS #92_, Abby chooses to hear a secret rather than a mystery. She wakes up, tries to talk about the dream, and forgets it. Since then, Cain and Abel have been wandering around the fringes of DC's mystic titles (and a rather silly version of Cain appeared in _Blue Devil_). It has been established that Cain kills Abel rather often, but Abel always gets better. They, and many other characters in this issue, appear because of their roles as "mystery title hosts"; this issue is Gaiman's homage to the predecessors to DC horror line of today.
@@ -35,6 +37,8 @@ Second story reprinted in _Preludes and Nocturnes_
   Morpheus is here referred to as the Prince of Stories.
 
 ### Page 4
+
+> [marginThumb] ![page 04](thumbnails/sandman.02/page04.jpg)
 
 - #### Panel 3
 
@@ -60,7 +64,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 3-4, 6
 
-  The Dreamtime is one name of Morpheus' realm. It is also the name of an astral-space-like realm in Australian aboriginal myth. "Dreamscape" is the name of a moderately good film from the early 80s with Dennis Quaid, as well as being the obvious choice for a word that means "the landscape of the dream realm." The Gates of Horn and Ivory are evidently the entry points to Morpheus' stronghold in the Dreamtime. True dreams exit through the Gate of Horn, and false dreams through the Gate of Ivory. This conceit dates back at least to Greek and Roman mythology:
+  _The Dreamtime_ is one name of Morpheus' realm, more commonly named later as _The Dreaming_  (see note on [page 10](#page-10)). It is also the name of an astral-space-like realm in Australian aboriginal myth. "Dreamscape" is the name of a moderately good film from the early 80s with Dennis Quaid, as well as being the obvious choice for a word that means "the landscape of the dream realm." The Gates of Horn and Ivory are evidently the entry points to Morpheus' stronghold in the Dreamtime. True dreams exit through the Gate of Horn, and false dreams through the Gate of Ivory. This conceit dates back at least to Greek and Roman mythology:
 
   > Dreams surely are difficult, confusing, and not everything in them is brought to pass for mankind. For fleeting dreams have two gates: one is fashioned of horn and one of ivory. Those which pass through the one of sawn ivory are deceptive, bringing tidings which come to nought, but those which issue from the one of polished bone bring true results when a mortal sees them.
   >
@@ -106,11 +110,21 @@ Second story reprinted in _Preludes and Nocturnes_
 
   Although Dee's coloration, which is not consistent with earlier appearances, suggests that he might have non-Caucasian blood, this is not consistent with his surname, which is the same as what is presumably his mother's married name. There may be some relationship with the historical Dr. John Dee, the court astrologer of Queen Elizabeth I and the inventor/discoverer of the Enochian Keys (no clue what they are, though).
 
+### Page 10
+
+> [marginThumb] ![page 10](thumbnails/sandman.02/page10.jpg)
+
+- #### Panel 2
+
+  > [audible] Here, the comic reads "Shouldn't we have _told_ him?  About the _Castle?_  About what's _happened_ to the **_Dreamtime?_**"  but the line in the Audible version is _"...what's happened to **The Dreaming**_".  This indicates that at some point Gaiman changed his mind over the canonical name of Dream's domain.
+
 ### Page 12-13
 
-> [marginThumb] ![page 12](thumbnails/sandman.02/page12.jpg)
+> [marginThumb] ![page 12-13](thumbnails/sandman.02/page12-13.jpg)
 
 - #### Panel 2-3
+
+  > [floatright width-50pc] ![Lucian's first appearance in Tales of Ghost Castle](images/LucianGhostCastle.jpg)
 
   This is a double page spread. Lucien, who henceforth often appears in the role of major domo to Morpheus, was the host of a comic called _Tales of Ghost Castle_ which ran for three issues in 1975. Lucien was the guardian and librarian of an abandoned castle, in Transylvania, which fits closely with his role in _Sandman_. "Lucien" is the French equivalent of "Lucian." The name may derive from the Latin word for "light", or may be related to Lucian (A.D. 118-170), a Greek rhetorician and satirist, or to "Lucian the Martyr," (A.D. 240-312), a theologian and Biblical critic.
 
@@ -202,7 +216,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 3
 
-  I am not aware of any conflict between the Fates and Circe (a magician in the Odyssey, also a villain in Wonder Woman, and the main villainess in War of the Gods).
+  I am not aware of any conflict between the Fates and Circé (a magician in the Odyssey, also a villain in Wonder Woman, and the main villainess in War of the Gods).
 
 ### Page 21
 
@@ -212,7 +226,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 1
 
-  John Constantine originally appeared in _Swamp Thing_ (#37?), and is the main character in _Hellblazer_. He is a minor magician, a "jumped-up street thug". His tarot card is always "The Hanged Man" or "The Fool." He is of a long line of Constantines who live dirty lives of betrayal and death. He, as well as Morpheus and most of DC's mystic characters, may be seen in the _Books of Magic_, a four issue Prestige Format series written by Gaiman.
+  John Constantine originally appeared in [_Swamp Thing_ #37](https://dc.fandom.com/wiki/Swamp_Thing_Vol_2_37), and is the main character in _Hellblazer_. He is a minor magician, a "jumped-up street thug". His tarot card is always "The Hanged Man" or "The Fool." He is of a long line of Constantines who live dirty lives of betrayal and death. He, as well as Morpheus and most of DC's mystic characters, may be seen in the _Books of Magic_, a four issue Prestige Format series written by Gaiman.
 
 - #### Panel 2
 
@@ -229,6 +243,14 @@ Second story reprinted in _Preludes and Nocturnes_
 - #### Panel 7
 
   These are the Gates of Horn and Ivory, mentioned on [page 5](#page-5)
+
+  ### Page 24
+
+> [marginThumb] ![page 24](thumbnails/sandman.02/page24.jpg)
+
+- #### Panel  2
+
+  Goldie is named after an imaginary friend to whom Abel told his original stories in _House of Secrets_.
 
 ## Credits
 
@@ -248,4 +270,4 @@ Second story reprinted in _Preludes and Nocturnes_
 - Tanaqui C. Weaver <cen@vax.oxford.ac.uk>
 - Much of the information on the Three Witches is liberally plagiarized from Alisa Kwitney's writing in _Who's Who_ #15 (1991).
 - Ralf Hildebrandt added lots more details and made some edits.
-- Richard Munn added the additional reference to the Gates of Horn and Ivory on p 21.
+- Richard Munn added some image references, noted the "Dreamtime/Dreaming" differences, and added the additional reference to the Gates of Horn and Ivory on p 21.

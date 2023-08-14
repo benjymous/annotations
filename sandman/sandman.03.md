@@ -68,7 +68,9 @@ Third story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 4
 
-  Mad Hettie is a London bag lady whom Constantine has encountered somewhere in the Rick Veitch run of _Swamp Thing_. She is insane, a prophet, and immortal.
+  Mad Hettie is a London bag lady whom Constantine previously encountered in [Hellblazer #9](https://dc.fandom.com/wiki/Hellblazer_Vol_1_9). She is insane, a prophet, and immortal.
+
+  ![Mad Hettie in Hellblazer](images/HettieHellblazer.jpg)
 
 ### Page 5
 
@@ -249,6 +251,5 @@ Third story reprinted in _Preludes and Nocturnes_
 - Jeffrey Porten <porten@eniac.seas.upenn.edu> and Connie had things to say about the burglar's dream.
 - Chris Jarocha-Ernst <cje@heart.rutgers.edu> speculated on "The Lupus Affair."
 - Steve Murray <SXM101@psuvm.psu.edu> speculated on Constantine's not opening the pouch.
-- David Henry <UD137927@VM1.NoDak.EDU> corrected Mad Hettie's appearance.
 - Aaron Bibb added the annotation to page 22, panel 5.
-- Richard Munn added the Radio 1 and Zappa references, and tried (and failed) to do more research on "creepers".
+- Richard Munn added the Radio 1 and Zappa references, fixed the Mad Hettie reference, and tried (and failed) to do more research on "creepers".

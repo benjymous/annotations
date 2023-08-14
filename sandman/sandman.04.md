@@ -38,7 +38,9 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 5
 
-  Etrigan first appeared in a Kirby book of the 70s. He is a demon, the son of Belial and the half-brother of Merlin. He shares a body on Earth with Jason Blood, and has since the time of Camelot. Etrigan has had three series, all called _The Demon_, with one currently being published. The Demon (Etrigan)'s speech originally did not rhyme, but Alan Moore did not invent the rhyming pattern of Etrigan's speech. This was invented by Len Wein (who later wrote one of the Dreaming mini-series) in DC COMICS PRESENTS#66. Etrigan is, to judge by the meter of his speech in several instances, pronounced "eh-tri-GAN", with a short i sound. (I'd reproduce it phonetically except that 1. most of the audience wouldn't get it and 2. this keyboard doesn't have the right characters--all three vowels are non-Roman: epsilon, small-caps-I, aesch.)
+  > [floatright width-40pc] ![The Demon #1](images/TheDemon.jpg)
+
+  Etrigan first appeared in [The Demon](https://dc.fandom.com/wiki/The_Demon_Vol_1_1) - a Kirby book of the 70s. He is a demon, the son of Belial and the half-brother of Merlin. He shares a body on Earth with Jason Blood, and has since the time of Camelot. Etrigan has had three series, all called _The Demon_, with one currently being published. The Demon (Etrigan)'s speech originally did not rhyme, but Alan Moore did not invent the rhyming pattern of Etrigan's speech. This was invented by Len Wein (who later wrote one of the Dreaming mini-series) in DC COMICS PRESENTS#66. Etrigan is, to judge by the meter of his speech in several instances, pronounced "eh-tri-GAN", with a short i sound. (I'd reproduce it phonetically except that 1. most of the audience wouldn't get it and 2. this keyboard doesn't have the right characters--all three vowels are non-Roman: epsilon, small-caps-I, aesch.)
 
 ### Page 6
 
@@ -177,4 +179,4 @@ Fourth story reprinted in _Preludes and Nocturnes_
 - Tanaqui C. Weaver <tweaver@isis.cs.du.edu> spotted Squatterbloat's poetry and relayed Neil Gaiman's correction on the first mention of Despair.
 - David Henry <UD137927@VM1.NoDak.EDU> recalled the Riddle Game.
 - Ralf Hildebrandt added more details.
-- Richard Munn filled in the details about the first appearance of Lucifer being redrawn.
+- Richard Munn added image references, and filled in the details about the first appearance of Lucifer being redrawn.
