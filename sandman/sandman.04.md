@@ -110,7 +110,7 @@ Fourth story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 2
 
-  What dead god? An unexplained reference. It is possible that this may refer to the Christian god Jesus, who died, although he is by no means the only god to have done so.
+  The story of the _Dead God_ that Dream refers to will get told later in the story. (See [#49:11](sandman.49.md#page-11) if you wish to jump ahead.)
 
 - #### Panel 6-7
 
@@ -174,9 +174,8 @@ Fourth story reprinted in _Preludes and Nocturnes_
 - Sol <colomon@zip.eecs.umich.edu>, Ian Lance Taylor <ian@airs.com>, David Goldfarb <goldfarb@ocf.berkeley.edu>, and William Sherman <sherman@oak.math.ucla.edu> found citations for "Lucifer Morningstar."
 - Ian and David, and Sasha <sasha.bbs@shark.cse.fau.edu> and Andrew David Weiland <aw1s+@andrew.cmu.edu> found citations for the Wood of Suicides. Ian also found Agony and Ecstasy's first appearance, and referenced _The Sword in the Stone_.
 - Viktor Haag <vehaag@crocus.waterloo.edu> and Chris Jarocha-Ernst <cje@heart.rutgers.edu> commented on the infernal trinity. Chris also pointed out that Tim Maroney had identified Choronzon some time ago.
-- R I K <SMB147@PSUVM.PSU.EDU> speculated on the nature of the dead god.
 - Andrew Weiland and David Perry <perry@schaefer.math.wisc.edu> traced the lineage of "Dis".
 - Tanaqui C. Weaver <tweaver@isis.cs.du.edu> spotted Squatterbloat's poetry and relayed Neil Gaiman's correction on the first mention of Despair.
 - David Henry <UD137927@VM1.NoDak.EDU> recalled the Riddle Game.
 - Ralf Hildebrandt added more details.
-- Richard Munn added image references, and filled in the details about the first appearance of Lucifer being redrawn.
+- Richard Munn added image references, added the link to the story of the dead god, and filled in the details about the first appearance of Lucifer being redrawn.
