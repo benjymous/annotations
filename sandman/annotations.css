@@ -32,7 +32,9 @@ img {
   border: none !important;
 }
 
-.flex p, .floatright p, .marginThumb p {
+.flex p,
+.floatright p,
+.marginThumb p {
   margin: 0px !important;
   padding: 0px !important;
 }
@@ -121,11 +123,16 @@ h3 {
 
 .book-body {
   background-image: url("images/bg_white.jpg");
-  background-size: auto 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .book.color-theme-1 .book-body {
   background-image: url("images/bg_sepia.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .book.color-theme-1 .book-body .page-wrapper .page-inner section {
@@ -144,6 +151,9 @@ h3 {
 
 .book.color-theme-2 .book-body {
   background-image: url("images/bg_night.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .book.color-theme-2 .book-body .page-wrapper .page-inner section {
