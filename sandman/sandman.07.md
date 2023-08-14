@@ -47,6 +47,10 @@ This story had been teased in the previous issue as having the title "WAITING FO
   _Death Takes A Holiday_ was a play during the 1920s and a black-and-white movie from the 1930s with Fredric March in the title role.
   Death appears for one night, during which nothing dies, as the "Prince Sirki."
 
+- #### Panel 7
+
+  > [audible] The narration again gives deeper knowledge here, namely that the ruby was created back when the Earth was cooling from a molten state.
+
 ### Page 8
 
 > [marginThumb] ![page 08](thumbnails/sandman.07/page08.jpg)
@@ -89,7 +93,7 @@ This story had been teased in the previous issue as having the title "WAITING FO
 
 - #### Panel 1
 
-  "Stinkard lord of piss and mire" sounds like a quote.
+  "Stinkard lord of piss and mire" sounds like it should be a quote, but no references can be found.
 
 ### Page 15
 
@@ -158,3 +162,4 @@ This story had been teased in the previous issue as having the title "WAITING FO
 - Andrew David Weiland <aw1s+@andrew.cmu.edu> thinks "the pox" is VD.
 - Ian Lance Taylor <ian@airs.com> clarified "magick" a bit.
 - Ralf Hildebrandt added many more details
+- Richard Munn added another note from the Audible narration, and failed to find any obvious reference to the "Stinkard Lord" line.
