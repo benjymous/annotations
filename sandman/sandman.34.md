@@ -95,7 +95,7 @@ George Pratt's version on the left - Colleen Doran's re-inked version on the rig
 
 - Thessaly's flaying of George's face is taken directly from the practices of Greek witches, as reported by the third century AD Latin writer Apuleius, in "The Golden Ass". It is extremely significant that Mount Thessaly in Greece was a center of activity of these witches. The practice may have its roots in Sumeria and Babylonia, whose inhabitants wore the faces of their dead enemies, in accordance with the traditions of sympathetic magic.
 
-In medieval times, demons were believed to flay their victims and wear their skins to fool mortals; in certain varieties of Satanism, the skin of a sacrificial victim is the gateway to Hell (which may be seen in certain issues of the comic book _Grimjack_). George's skin is not exactly the gateway to the Dreaming, but there is some parallelism there.
+  In medieval times, demons were believed to flay their victims and wear their skins to fool mortals; in certain varieties of Satanism, the skin of a sacrificial victim is the gateway to Hell (which may be seen in certain issues of the comic book _Grimjack_). George's skin is not exactly the gateway to the Dreaming, but there is some parallelism there.
 
 ### Page 14
 
@@ -242,7 +242,7 @@ In medieval times, demons were believed to flay their victims and wear their ski
 - Jerry Stratton (jerry@teetot.acusd.edu) quoted Manfred Lurker's _Dictionary of Gods and Goddesses, Devils and Demons_.
 - William Sherman <sherman@math.ucla.edu> referenced Goody Two-Shoes.
 - Ralf Hildebrandt added a note about the chant on p18
-- Richard Munn added the note from the letters page that's listed below in the Appendix.
+- Richard Munn updated the note about the "bad art", and added the note from the letters page that's listed below in the Appendix.
 
 ## Appendix: From the #34 letters page
 
