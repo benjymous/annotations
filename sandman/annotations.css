@@ -148,6 +148,7 @@ h3 {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  height: 100vh;
 }
 
 .book.color-theme-1 .book-body {
