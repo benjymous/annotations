@@ -4,9 +4,10 @@
 
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
 
-Second story in anthology _Dream Country_
-
-Second story reprinted in trade paperback _Dream Country_
+- Second story in anthology, _Dream Country_
+- Second story reprinted in trade paperback _Dream Country_
+- Audible Act I Chapter 18
+- Netflix Episode (first half)
 
 ### Page 10
 

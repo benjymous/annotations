@@ -4,6 +4,10 @@
 
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
 
+- Second part of long storyline, _Season of Mists_
+- Third story reprinted in trade paperback _Season of Mists_
+- Audible Act II Chapter 3
+
 > In which the Lord of Dreams returns to Hell;
 > his confrontation with the Lord of that realm;
 > in which a number of doors are closed for the last time;
@@ -190,6 +194,7 @@
 - #### Panel 1
 
   Lucifer sets out a little Bucket List for himself here:
+
   - Lie on a beach somewhere,
   - Listen to music,
   - Build a house,

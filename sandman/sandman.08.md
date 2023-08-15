@@ -6,9 +6,10 @@
 
 Referred to by Gaiman as the epilogue to _More than Rubies_
 
-Eighth story reprinted in _Preludes and Nocturnes_
-
-First story reprinted in _The Doll's House_ (in early editions)
+- Eighth story reprinted in _Preludes and Nocturnes_
+- (Also reprinted in earlier editions of _The Doll's House_)
+- Audible Act I Chapter 8
+- Netflix Episode 6 (first half)
 
 **Note**: _The Doll's House_ and [Sandman #8](sandman.08.md) both contain an introduction written by Neil Gaiman explaining the story thus far. The introduction does not appear in _Preludes and Nocturnes_. Sandman #8 also contains words of praise for _Sandman_ (and Neil Gaiman) from many writers and artists, both of comic books and mainstream fiction. The introduction is illustrated by original art by Mike Dringenberg in #8. The illustrations in _The Doll's House_ are different and more general. The notes below about the illustrations refer to the ones in #8.
 
@@ -163,7 +164,7 @@ First story reprinted in _The Doll's House_ (in early editions)
 
   **Romany** is the name of the Gypsies for themselves and for their language.
 
-  The artwork seen here is [The Dance](https://en.wikipedia.org/wiki/Dance_(Matisse)) by Matisse
+  The artwork seen here is [The Dance](<https://en.wikipedia.org/wiki/Dance_(Matisse)>) by Matisse
 
   ![The Dance by Matisse](images/MatisseDance.jpg)
 
@@ -296,4 +297,4 @@ Note what we can see in the background.
 - Timothy Tan aka TiTan <_> -M2001- <_> 083285@bud.cc.swin.edu.au
 - "Kai'Ckul" <oshinsky@webspan.net> wrote about Washington Square Park.
 - Ralf Hildebrandt added many more details.
-- Richard Munn corrected Death about pigeons, added the note about Overture,  the possibility of the baby's mother being British, Identified Harry's Matisse print, and noted Franklin in the background (and foreground) on p23.
+- Richard Munn corrected Death about pigeons, added the note about Overture, the possibility of the baby's mother being British, Identified Harry's Matisse print, and noted Franklin in the background (and foreground) on p23.

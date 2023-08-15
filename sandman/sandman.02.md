@@ -4,9 +4,10 @@
 
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
-Second part of first storyline, _More than Rubies_
-
-Second story reprinted in _Preludes and Nocturnes_
+- Second part of first storyline, _More than Rubies_
+- Second story reprinted in _Preludes and Nocturnes_
+- Audible Act I Chapter 2
+- Netflix Episode 2
 
 ### Page 1
 
@@ -64,7 +65,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 3-4, 6
 
-  _The Dreamtime_ is one name of Morpheus' realm, more commonly named later as _The Dreaming_  (see note on [page 10](#page-10)). It is also the name of an astral-space-like realm in Australian aboriginal myth. "Dreamscape" is the name of a moderately good film from the early 80s with Dennis Quaid, as well as being the obvious choice for a word that means "the landscape of the dream realm." The Gates of Horn and Ivory are evidently the entry points to Morpheus' stronghold in the Dreamtime. True dreams exit through the Gate of Horn, and false dreams through the Gate of Ivory. This conceit dates back at least to Greek and Roman mythology:
+  _The Dreamtime_ is one name of Morpheus' realm, more commonly named later as _The Dreaming_ (see note on [page 10](#page-10)). It is also the name of an astral-space-like realm in Australian aboriginal myth. "Dreamscape" is the name of a moderately good film from the early 80s with Dennis Quaid, as well as being the obvious choice for a word that means "the landscape of the dream realm." The Gates of Horn and Ivory are evidently the entry points to Morpheus' stronghold in the Dreamtime. True dreams exit through the Gate of Horn, and false dreams through the Gate of Ivory. This conceit dates back at least to Greek and Roman mythology:
 
   > Dreams surely are difficult, confusing, and not everything in them is brought to pass for mankind. For fleeting dreams have two gates: one is fashioned of horn and one of ivory. Those which pass through the one of sawn ivory are deceptive, bringing tidings which come to nought, but those which issue from the one of polished bone bring true results when a mortal sees them.
   >
@@ -116,7 +117,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 - #### Panel 2
 
-  > [audible] Here, the comic reads "Shouldn't we have _told_ him?  About the _Castle?_  About what's _happened_ to the **_Dreamtime?_**"  but the line in the Audible version is _"...what's happened to **The Dreaming**_".  This indicates that at some point Gaiman changed his mind over the canonical name of Dream's domain.
+  > [audible] Here, the comic reads "Shouldn't we have _told_ him? About the _Castle?_ About what's _happened_ to the **_Dreamtime?_**" but the line in the Audible version is _"...what's happened to **The Dreaming**_". This indicates that at some point Gaiman changed his mind over the canonical name of Dream's domain.
 
 ### Page 12-13
 
@@ -248,7 +249,7 @@ Second story reprinted in _Preludes and Nocturnes_
 
 > [marginThumb] ![page 24](thumbnails/sandman.02/page24.jpg)
 
-- #### Panel  2
+- #### Panel 2
 
   Goldie is named after an imaginary friend to whom Abel told his original stories in _House of Secrets_.
 

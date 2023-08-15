@@ -4,6 +4,9 @@
 
 ##### Neil Gaiman, Marc Hempel
 
+- Seventh part of storyline, _The Kindly Ones_
+- Eighth story reprinted in trade paperback _The Kindly Ones_
+
 ### Page 1
 
 > [marginThumb] ![page 01](thumbnails/sandman.63/page01.jpg)

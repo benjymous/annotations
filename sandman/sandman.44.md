@@ -4,6 +4,10 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
+- Fourth part of storyline, _Brief Lives_
+- Fourth story reprinted in trade paperback _Brief Lives_
+- Audible Act III Chapter 7
+
 **Notes**: See [#41](sandman.41.md). The subtheme of the issue is color. Note that Del has not changed clothing since the middle of last issue.
 
 ## 1: _The Other Side of the Sky_
@@ -134,7 +138,7 @@
 
 - #### Panel 2
 
-  **Tyburn Tree** was the site of the London gallows.  Not a literal tree, but the [name for the gallows themselves](https://marble-arch.london/culture-blog/history-of-tyburn-tree/). (_"Tyburn's Tree"_)
+  **Tyburn Tree** was the site of the London gallows. Not a literal tree, but the [name for the gallows themselves](https://marble-arch.london/culture-blog/history-of-tyburn-tree/). (_"Tyburn's Tree"_)
 
   It is now known as Speaker's Corner, at the northeast corner of Hyde Park.
 

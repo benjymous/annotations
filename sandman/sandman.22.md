@@ -4,6 +4,10 @@
 
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
 
+- First part of storyline, _Season of Mists_
+- Second story reprinted in trade paperback _Season of Mists_
+- Audible Act II Chapter 2
+
 > In which the Lord of Dreams makes preparations
 > to visit the realms infernal;
 > farewells are said;

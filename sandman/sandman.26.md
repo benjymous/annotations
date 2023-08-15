@@ -4,6 +4,10 @@
 
 ##### Neil Gaiman, Kelley Jones, and George Pratt
 
+- Fifth part of storyline, _Season of Mists_
+- Sixth story reprinted in trade paperback _Season of Mists_
+- Audible Act II Chapter 6
+
 > In which a banquet is held,
 > and of what comes after;
 > concerning diplomacy and bedrooms, blackmail and threats;

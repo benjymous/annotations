@@ -4,9 +4,11 @@
 
 ##### Neil Gaiman and P. Craig Russell
 
-Fourth story in anthology _Distant Mirrors_
+- Fourth story in anthology, _Distant Mirrors_
+- Ninth story reprinted in trade paperback _Fables & Reflections_
+- Audible Act II Chapter 21
 
-**Note**: This story was written in prose by Neil Gaiman, then adapted to comics by Craig Russell. Most of Russell's work has been adaptations.  The script is included in the extras in the Deluxe Edition Book 3, although as Neil notes in the introduction:
+**Note**: This story was written in prose by Neil Gaiman, then adapted to comics by Craig Russell. Most of Russell's work has been adaptations. The script is included in the extras in the Deluxe Edition Book 3, although as Neil notes in the introduction:
 
 > I'm not sure that there's a lot to learn from the script that isn't in the comic, other than how very, very good Craig Russell is.
 

@@ -2,6 +2,9 @@
 
 ##### Neil Gaiman, John Bolton
 
+- Standalone story, originally printed in Vertigo: Winters Edge #1
+- Audible Act III Chapter 3
+
 **Note**: This stand-alone story originally appeared in the Vertigo: Winters Edge #1 anthology.
 
 ### Page 1

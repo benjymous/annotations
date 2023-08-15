@@ -4,9 +4,9 @@
 
 ##### Neil Gaiman, Colleen Doran, and Malcolm Jones III
 
-Fourth story in anthology _Dream Country_
-
-Fourth story reprinted in trade paperback _Dream Country_
+- Fourth story in anthology, _Dream Country_
+- Fourth story reprinted in trade paperback _Dream Country_
+- Audible Act I Chapter 19
 
 ### Page 1
 

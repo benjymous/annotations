@@ -4,9 +4,10 @@
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
-Sixth part of first storyline, _More than Rubies_
-
-Sixth story reprinted in _Preludes and Nocturnes_
+- Sixth part of first storyline, _More than Rubies_
+- Sixth story reprinted in _Preludes and Nocturnes_
+- Audible Act I Chapter 6
+- Netflix Episode 5 (first half)
 
 ### Page 1
 
@@ -291,10 +292,9 @@ Sixth story reprinted in _Preludes and Nocturnes_
 
 > [marginThumb] ![page 22](thumbnails/sandman.06/page22.jpg)
 
-
 - The sign in the upper left reads "Please and Thank You are the magic words."
 
-  The clock from [page 16](#page-16) appears again here.   Note that it always shows the same time, so doesn't appear to even be working.
+  The clock from [page 16](#page-16) appears again here. Note that it always shows the same time, so doesn't appear to even be working.
 
 ### Page 24
 

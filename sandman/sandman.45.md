@@ -4,6 +4,10 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
+- Fifth part of storyline, _Brief Lives_
+- Fifth story reprinted in trade paperback _Brief Lives_
+- Audible Act III Chapter 8
+
 **Notes**: See [#41](sandman.41.md). For references on Ishtar and Ancient Near Eastern rites, consult the appendix. This issue, the middle one of the arc, has many points in common with [#41](sandman.41.md), the first one of the arc.
 
 ## 1: _The Things We Do to Be Loved_

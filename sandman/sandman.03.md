@@ -4,9 +4,10 @@
 
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
-Third part of first storyline, _More than Rubies_
-
-Third story reprinted in _Preludes and Nocturnes_
+- Third part of first storyline, _More than Rubies_
+- Third story reprinted in _Preludes and Nocturnes_
+- Audible Act I Chapter 3
+- Netflix Episode 3
 
 **Title**: "Dream a Little Dream of Me" is a 1931 song. Words by Gus Kahn, music by Wilbur Schwandt & Fabian Andre. It has been recorded many times by many artists, but most familiar to the audience is probably the version by the [Mamas and the Papas](https://www.youtube.com/watch?v=v8I5vDewcZo), sung by Mama Cass Elliot.
 
@@ -116,7 +117,7 @@ Third story reprinted in _Preludes and Nocturnes_
 
   The lyrics are from "[Power of Love](https://www.youtube.com/watch?v=WtdRv6GT9Zg)" by Frankie Goes To Hollywood. They were used in public service messages about AIDS in Britain.
 
-  The [Ley-lines](https://en.wikipedia.org/wiki/Ley_line) (pronounced "Lay") are a particular reference to a case of Constantine's, the Fear Machine, which ran for something like nine issues in the teens of _Hellblazer_. [Leptons](https://en.wikipedia.org/wiki/Lepton) are a class of fundamental particles in physics. [Plasma](https://en.wikipedia.org/wiki/Plasma_(physics)) is an aggregate of charged particles; "Plasma fields" is incorrect jargon and sounds like New Age crap.
+  The [Ley-lines](https://en.wikipedia.org/wiki/Ley_line) (pronounced "Lay") are a particular reference to a case of Constantine's, the Fear Machine, which ran for something like nine issues in the teens of _Hellblazer_. [Leptons](https://en.wikipedia.org/wiki/Lepton) are a class of fundamental particles in physics. [Plasma](<https://en.wikipedia.org/wiki/Plasma_(physics)>) is an aggregate of charged particles; "Plasma fields" is incorrect jargon and sounds like New Age crap.
 
 - #### Panel 6, page 9 panel 1
 

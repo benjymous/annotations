@@ -4,6 +4,9 @@
 
 ##### Neil Gaiman, Marc Hempel, Richard Case
 
+- Eleventh part of storyline, _The Kindly Ones_
+- Twelfth story reprinted in trade paperback _The Kindly Ones_
+
 **Cover**: Most of the things on this cover seem to be symbols of Delirium: the music-stand, very angular and linear, dissolving and twisting; the crayoned rainbow -- Del is frequently very colorful, both in speech balloons and in hairstyle, while the crayons represent her childishness; the fish, which she was being when we first saw her this arc; a picture of women being moonstruck (a traditional symbol of insanity). The cord is not a symbol of Delirium directly, but there have been a number of hints that Delirium is important to Dream's fate, which would explain why the fish is tangled up in it.
 
 ### Page 1

@@ -4,6 +4,9 @@
 
 ##### Neil Gaiman, Marc Hempel
 
+- First part of storyline, _The Kindly Ones_
+- Second story reprinted in trade paperback _The Kindly Ones_
+
 **The Kindly Ones**: Translation of Greek "Eumenides". Terrifying hags who pursue those who slay their own kin; really named "Furies", called "kindly" as a euphemism. As with many Greek myths, exact details vary: Aeschylus had a whole chorus of them; other sources number them at exactly three and name them Tisiphone, Alecto, and Megaera. Gaiman follows this version; we see exactly three Furies in Hades in the "Song of Orpheus" -- unsurprising, given the recurring Triple Goddess character. In "Three Septembers and a January" Desire vows to bring the Kindly Ones down on Dream's head ([31:21](sandman.31.md#page-21):5), and it's implied in "The Doll's House" that if Dream had killed his great-niece Rose Walker this would have happened. Now Dream has killed his son Orpheus...
 
 **Cover**: The tape is medieval German; someone identified it as from the _Nibelungenlied_, the saga that Wagner drew on for his "Ring" cycle.

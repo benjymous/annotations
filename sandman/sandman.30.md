@@ -4,7 +4,9 @@
 
 ##### Neil Gaiman, Brian Talbot, and Stan Woch
 
-Second story in anthology _Distant Mirrors_
+- Second story in anthology, _Distant Mirrors_
+- Fifth story reprinted in trade paperback _Fables & Reflections_
+- Audible Act II Chapter 10
 
 **Sources**: A note in [Sandman #31](sandman.31.md) indicates that the title of this anthology came from Barbara Tuchman's text _A Distant Mirror: The Calamitous 14th Century_.
 

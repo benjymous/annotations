@@ -4,9 +4,10 @@
 
 ##### Neil Gaiman, Mike Dringenberg, Sam Kieth, and Malcolm Jones III
 
-Sixth part of long storyline _The Doll's House_
-
-Eighth story reprinted in trade paperback _The Doll's House_
+- Sixth part of long storyline _The Doll's House_
+- Seventh story reprinted in trade paperback _The Doll's House_
+- Audible Act I Chapter 15
+- Netflix Episode 8
 
 ### Page 1
 

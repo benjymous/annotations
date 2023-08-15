@@ -4,6 +4,10 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
+- First part of storyline, _Brief Lives_
+- First story reprinted in trade paperback _Brief Lives_
+- Audible Act III Chapter 4
+
 **Notes**: _Brief Lives_ is in common use as a title, dating back to the earliest-reported citation, a collection of short biographies by John Aubrey, published in 1813.
 
 Probably because of Delirium's presence, there is a motif of eyes in _Brief Lives_. The dialog is filled with references to eyes, sight, and seeing, and the art is filled with closeups where eyes are clearly visible. The title _Brief Lives_ gives away one of the themes of the book. We see explicitly in [#43](sandman.43.md) that even the long-lived have brief lives; as Death tells Capax, "You lived what anyone gets, Bernie. You got a lifetime." Dream calls Orpheus' life short. We observe the ending of many lives, from Ruby's short span to Capax and even to the goddess Ishtar. In a sense, then, all lives, except those of the Endless, are "brief".
@@ -243,7 +247,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 > [marginThumb] ![page 18](thumbnails/sandman.41/page18.jpg)
 
-* Note Despair's use of pain to distract her from unpleasant topics.
+- Note Despair's use of pain to distract her from unpleasant topics.
 
 ### Page 20
 
@@ -259,7 +263,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ## 6: _Journal of the Plague Year_
 
-* **Journal of the Plague Year** is by Daniel Defoe (better known for _Robinson Crusoe_). Defoe lived from c.1661-1731, so he was a young child during the plague of 1665.
+- **Journal of the Plague Year** is by Daniel Defoe (better known for _Robinson Crusoe_). Defoe lived from c.1661-1731, so he was a young child during the plague of 1665.
 
 ### Page 21
 
@@ -307,7 +311,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
 ## 7: _"The Number You Have Dialed..."_
 
-* This is a quote from a telephone industry recording informing the dialer that the number she is trying to reach is out of service.
+- This is a quote from a telephone industry recording informing the dialer that the number she is trying to reach is out of service.
 
 ## Credits
 

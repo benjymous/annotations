@@ -4,9 +4,10 @@
 
 ##### Neil Gaiman, Michael Zulli, and Steve Parkhouse
 
-Fourth part of long storyline _The Doll's House_ (but see below)
-
-Sixth story reprinted in trade paperback _The Doll's House_
+- Fourth part of long storyline _The Doll's House_ (but see below)
+- Fifth story reprinted in trade paperback _The Doll's House_
+- Audible Act I Chapter 10 (this story is out of sequence compared to the issue order)
+- Netflix Episode 6 (second half)
 
 **General**: This story is unusual, in that it bears the onus of being "The Doll's House part 4", but has no direct relationship to the larger story, being a side trip into the past.
 

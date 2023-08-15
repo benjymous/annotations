@@ -4,8 +4,9 @@
 
 ##### Neil Gaiman, Bryan Talbot, and Mark Buckingham
 
-Not part of any anthology or storyline
-Not reprinted in any other form
+- Standalone story
+- Seventh story reprinted in trade paperback _Fables & Reflections_
+- Audible Act III Chapter 1
 
 **Note**: This issue was published between [_Sandman_ #31](sandman.31.md) and [32](sandman.32.md); it is unassociated with either the _Distant Mirrors_ anthology or the _A Game of You_ storyline.
 

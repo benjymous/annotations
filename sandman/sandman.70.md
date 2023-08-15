@@ -4,6 +4,9 @@
 
 ##### Neil Gaiman, Michael Zulli
 
+- First part of storyline, _The Wake_
+- First story reprinted in trade paperback _The Wake_
+
 ### Page 1
 
 > [marginThumb] ![page 01](thumbnails/sandman.70/page01.jpg)

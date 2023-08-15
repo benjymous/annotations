@@ -4,6 +4,9 @@
 
 ##### Neil Gaiman, Michael Zulli
 
+- Standalone Story, Epilogue to _The Wake_
+- Fourth story reprinted in trade paperback _The Wake_
+
 ### Page 1
 
 > [marginThumb] ![page 01](thumbnails/sandman.73/page01.jpg)

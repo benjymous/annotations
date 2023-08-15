@@ -4,9 +4,10 @@
 
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
-First part of first storyline, _More than Rubies_
-
-First story reprinted in _Preludes and Nocturnes_
+- First part of first storyline, _More than Rubies_
+- First story reprinted in _Preludes and Nocturnes_
+- Audible Act I Chapter 1
+- Netflix Episode 1
 
 Another _possible_ Elvis Costello influence is the title to Sandman #1 - there IS an Elvis Costello song entitled "[Sleep of the just](https://www.youtube.com/watch?v=nvhdHxY0Y4A)", though nothing in the lyrics correlates with the story.
 

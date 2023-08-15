@@ -4,6 +4,9 @@
 
 ##### Neil Gaiman, Glyn Dillon, Charles Vess, Dean Ormston, D'Israeli
 
+- Sixth part of storyline, _The Kindly Ones_
+- Seventh story reprinted in trade paperback _The Kindly Ones_
+
 ### Page 1
 
 > [marginThumb] ![page 01](thumbnails/sandman.62/page01.jpg)

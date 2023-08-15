@@ -4,9 +4,10 @@
 
 ##### Neil Gaiman, Sam Kieth, and Mike Dringenberg
 
-Fourth part of first storyline, _More than Rubies_
-
-Fourth story reprinted in _Preludes and Nocturnes_
+- Fourth part of first storyline, _More than Rubies_
+- Fourth story reprinted in _Preludes and Nocturnes_
+- Audible Act I Chapter 4
+- Netflix Episode 4
 
 ### Page 1
 

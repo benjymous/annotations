@@ -1,10 +1,12 @@
 > [marginThumb] ![cover for issue 25](thumbnails/sandman.25/page00.jpg)
 
-# Issue 25
+# Issue 25: "Season of Mists Chapter 4"
 
 ##### Neil Gaiman, Matt Wagner, and Malcolm Jones III
 
-Season of Mists Chapter 4
+- Fourth part of storyline, _Season of Mists_
+- Fifth story reprinted in trade paperback _Season of Mists_
+- Audible Act II Chapter 5
 
 > In which the dead return;
 > and Charles Rowland concludes his education.

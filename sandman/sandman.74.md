@@ -4,6 +4,9 @@
 
 ##### Neil Gaiman, Jon J Muth
 
+- Standalone Story
+- Fifth story reprinted in trade paperback _The Wake_
+
 This story is similar to [#39](sandman.39.md), _Soft Places_.
 
 **Cover**: The cover seems to have a lot in common with the "Vertigo Tarot" images, in particular the Two of Cups. It's got the dark, almost earthen-looking frame, and the theme of reversibility. The final version of the Cup 2 has two nude torsos. This cover also has the fossil seashell image in it that shows up in the Tarot quite often. On the other hand, it's in warm colors where the Two of Cups is blue -- perhaps this reflects the desert that dominates the story inside.

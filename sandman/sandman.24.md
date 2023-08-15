@@ -4,6 +4,10 @@
 
 ##### Neil Gaiman, Kelley Jones, and P. Craig Russell
 
+- Third part of storyline, _Season of Mists_
+- Fourth story reprinted in trade paperback _Season of Mists_
+- Audible Act II Chapter 4
+
 > In which Lucifer's parting gift attracts unwanted attention;
 > and the Dream Lord receives unwelcome visitors.
 
@@ -109,11 +113,11 @@
 
   Dream is in his gallery. The sigils of the Endless are arrayed left to right in order of age. Destiny's book is first, then Death's ankh. Next we see Dream's face, as if in a mirror, then the missing sigil of the Prodigal, then the heart of Desire. Note: When we saw Desire's gallery, we saw her face for her sigil, and Dream's helmet for his. This suggests an obvious rule for such galleries.
 
-  Note that Dream seems to have got dressed up again.  Does this mean he's already paid a visit to Destiny?
+  Note that Dream seems to have got dressed up again. Does this mean he's already paid a visit to Destiny?
 
 - #### Panel 4-5
 
-  "Shoot" - Dream doesn't get modern slang (for obvious reasons.)  Presumably Death, spending a lot more time with Humans is far better versed.
+  "Shoot" - Dream doesn't get modern slang (for obvious reasons.) Presumably Death, spending a lot more time with Humans is far better versed.
 
 ### Page 13
 

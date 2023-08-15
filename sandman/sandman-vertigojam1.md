@@ -2,7 +2,8 @@
 
 ##### Neil Gaiman, Kevin Nowlan
 
-**Note**: Included as a prologue to The Kindly Ones.
+- Originally printed in Vertigo Jam 1
+- First story reprinted in trade paperback _The Kindly Ones_
 
 **Note**: One of the few times The Sandman isn't lettered by Todd Klein.
 

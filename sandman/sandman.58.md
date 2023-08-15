@@ -4,6 +4,9 @@
 
 ##### Neil Gaiman, Marc Hempel, D'Israeli
 
+- Second part of storyline, _The Kindly Ones_
+- Third story reprinted in trade paperback _The Kindly Ones_
+
 **Cover**: Benjamin Disraeli (1804-1881) was Earl of Beaconsfield and Prime Minister of England. The inker's pen name is probably derived from him, although he did not spell his name with an apostrophe.
 
 ### Page 1

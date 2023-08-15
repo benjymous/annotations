@@ -4,6 +4,9 @@
 
 ##### Neil Gaiman, Teddy Kristiansen
 
+- Eighth part of storyline, _The Kindly Ones_
+- Ninth story reprinted in trade paperback _The Kindly Ones_
+
 ### Page 1
 
 > [marginThumb] ![page 01](thumbnails/sandman.64/page01.jpg)

@@ -4,6 +4,10 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
+- Eighth part of storyline, _Brief Lives_
+- Eighth story reprinted in trade paperback _Brief Lives_
+- Audible Act III Chapter 11
+
 **Notes**: See [#41](sandman.41.md). It's hard to break this one down into sections, but I think it goes: 1: 1-6; 2: 7; 3: 8-10; 4: 11; 5: 12-13; 6: 14-15; 7: 16; 8: 17-24. Trouble spots are the break between 3: and 4: and 7: and 8: and a number of breaks seem to fall in the middle of pages, which is inconsistent with what we've seen before.
 
 ## 1: _Journey's End_
@@ -127,9 +131,9 @@
 
 > [marginThumb] ![page 12-13](thumbnails/sandman.48/page12-13.jpg)
 
- - (A double page spread): Hmm. Gaiman is speaking in "thematic voice" again.
+- (A double page spread): Hmm. Gaiman is speaking in "thematic voice" again.
 
-  Compare Destruction's perception of time passing quickly with Dream's complaint in [#1](sandman.01.md) that time passed as slowly for him in his seventy-year imprisonment as it did for everyone else.
+Compare Destruction's perception of time passing quickly with Dream's complaint in [#1](sandman.01.md) that time passed as slowly for him in his seventy-year imprisonment as it did for everyone else.
 
 ## 6: _A Wreath of Bright Stars_
 

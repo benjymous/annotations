@@ -2,9 +2,8 @@
 
 ##### Neil Gaiman, Michael Zulli
 
-**Note**: This stand-alone story originally appeared in the Vertigo: Winters Edge #3 anthology
-
-
+- Standalone story, originally printed in Vertigo: Winters Edge #3
+- Audible Act III Chapter 13
 
 ### Page 1
 

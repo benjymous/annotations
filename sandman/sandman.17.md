@@ -4,9 +4,10 @@
 
 ##### Neil Gaiman, Kelley Jones, and Malcolm Jones III
 
-First story in anthology _Dream Country_
-
-First story reprinted in trade paperback _Dream Country_
+- First story in anthology, _Dream Country_
+- First story reprinted in trade paperback _Dream Country_
+- Audible Act I Chapter 17
+- Netflix Episode 11 (Part 2)
 
 **Note**: The script for this issue, complete with Neil's and Kelley's notes, is printed in the back of _Dream Country_.
 

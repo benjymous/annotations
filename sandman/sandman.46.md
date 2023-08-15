@@ -4,6 +4,10 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
+- Sixth part of storyline, _Brief Lives_
+- Sixth story reprinted in trade paperback _Brief Lives_
+- Audible Act III Chapter 9
+
 **Notes**: See [#41](sandman.41.md). This issue is structurally similar to [#42](sandman.42.md).
 
 **Insert**: This issue contains a special insert, "Death Talks about Life", by Gaiman, art by Dave McKean. I have no particular notes, save that the information presented is accurate within the limitations of the medium. And it can save your life.

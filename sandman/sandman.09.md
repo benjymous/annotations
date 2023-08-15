@@ -4,9 +4,9 @@
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
-Not a part of any long storyline
-
-Second story reprinted in _The Doll's House_
+- Standalone story
+- First story reprinted in _The Doll's House_ (excluding Sound of Her Wings)
+- Audible Act I Chapter 9
 
 **General**: When asked about this story, Gaiman has said that he did some research on African oral tradition, and then went out and made this story up from beginning to end. The Gaiman statement is from an interview which appeared in the Comics Buyer's Guide, a trade journal. To me, the story sounds absolutely authentic as an example of oral tradition. Little seems to make it essentially "African", however, except the clothes, hair, and skin color. I see here two of Gaiman's best traits as a writer: primarily, storytelling ability (and I mean storytelling as an art, not technical skill); secondarily, the ability to _sound_ right even when he's making it all up. One correspondent has noted a great deal of similarity to Australian Western Desert Aborigine tradition. In particular, the manhood ritual and the sacred sites are quite close. However, the story, from context, is quite clearly meant to be African; for example, page 1 refers to apes and lions, page 14 panel 1 to gazelles, and so forth.
 
@@ -62,7 +62,7 @@ Second story reprinted in _The Doll's House_
 
 - #### Panel 2-3
 
-  This has the flavor of one of Kipling's Just-So stories.  In The Sandman Companion, Gaiman states that this is here to signal to the reader that the original story has decayed over time.
+  This has the flavor of one of Kipling's Just-So stories. In The Sandman Companion, Gaiman states that this is here to signal to the reader that the original story has decayed over time.
 
 ### Page 11
 

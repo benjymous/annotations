@@ -4,9 +4,9 @@
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
-Seventh part of long storyline _The Doll's House_
-
-Ninth story reprinted in trade paperback _The Doll's House_
+- Seventh part of long storyline _The Doll's House_
+- Eighth story reprinted in trade paperback _The Doll's House_
+- Audible Act I Chapter 16
 
 ### Page 4
 
@@ -140,8 +140,7 @@ Ninth story reprinted in trade paperback _The Doll's House_
 
 - #### Panel 5
 
- This arc ends back where it started, overlooking [The Threshold](sandman.10.md)
-
+This arc ends back where it started, overlooking [The Threshold](sandman.10.md)
 
 ## Credits
 

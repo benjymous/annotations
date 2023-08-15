@@ -4,6 +4,9 @@
 
 ##### Neil Gaiman, Michael Zulli
 
+- Third part of storyline, _The Wake_
+- Third story reprinted in trade paperback _The Wake_
+
 As each member of Dream's family delivers their eulogy, notice how the flowers around the bier change (especially Delirium and her lawn flamingos!!)
 
 ### Page 1

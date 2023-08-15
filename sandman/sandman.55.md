@@ -2,9 +2,11 @@
 
 # Issue 55: "Cerements"
 
-- Fifth story in anthology, "Worlds' End"
-
 ##### Neil Gaiman, Shea Anton Pensa, Vince Locke, Bryan Talbot, Mark Buckingham
+
+- Fifth story in anthology, _Worlds' End_
+- Fifth story reprinted in trade paperback _Worlds' End_
+- Audible Act III Chapter 18
 
 ### Page 1
 

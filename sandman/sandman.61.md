@@ -4,6 +4,9 @@
 
 ##### Neil Gaiman, Marc Hempel, D'Israeli
 
+- Fifth part of storyline, _The Kindly Ones_
+- Sixth story reprinted in trade paperback _The Kindly Ones_
+
 ### Page 1
 
 > [marginThumb] ![page 01](thumbnails/sandman.61/page01.jpg)

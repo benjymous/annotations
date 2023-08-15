@@ -4,7 +4,9 @@
 
 ##### Neil Gaiman, Michael Allred, Bryan Talbot, Mark Buckingham
 
-Fourth story in anthology, "Worlds' End"
+- Fourth story in anthology, _Worlds' End_
+- Fourth story reprinted in trade paperback _Worlds' End_
+- Audible Act III Chapter 17
 
 ### Page 2
 
@@ -82,9 +84,9 @@ Fourth story in anthology, "Worlds' End"
 
 > [floatright width-30pc shift-up] ![Prez #1 Cover](images/Prez-1.jpg)
 
-  This panel is essentially the cover of _Prez_ #1. This would seem to be the 1972 election. The caption here is inconsistent with the one on 3:4; either this one should read "nineteenth" or that one should read "seven".
+This panel is essentially the cover of _Prez_ #1. This would seem to be the 1972 election. The caption here is inconsistent with the one on 3:4; either this one should read "nineteenth" or that one should read "seven".
 
-  I think this panel is actually a reference to the various miracles performed by Jesus during His time on Earth. (E.g. giving sight to the blind, giving hearing to the deaf, curing disease, etc.)
+I think this panel is actually a reference to the various miracles performed by Jesus during His time on Earth. (E.g. giving sight to the blind, giving hearing to the deaf, curing disease, etc.)
 
 ### Page 10
 

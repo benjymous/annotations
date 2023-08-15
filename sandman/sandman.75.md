@@ -2,6 +2,9 @@
 
 # Issue 75: "The Tempest"
 
+- Standalone Story
+- Sixth story reprinted in trade paperback _The Wake_
+
 ##### Neil Gaiman, Charles Vess
 
 Note: The full script to this issue was published in The Deluxe Edition book five. I'll try to add any interesting details.

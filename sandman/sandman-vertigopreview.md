@@ -2,7 +2,11 @@
 
 ##### Neil Gaiman and Kent Williams
 
-**Note**: This stand-alone story appears as an extra in a preview of DC's Vertigo titles, a new editorially-linked "Mature Readers" imprint including _Sandman_. With the exception of Dream and Matthew, all characters have not appeared before or since, although a somewhat similar movie writer-director is the central character of Gaiman and Dave McKean's _Signal to Noise_.
+- Originally printed in Vertigo Preview
+- First story reprinted in trade paperback _Fables & Reflections_
+- Audible Act III Chapter 2
+
+**Note**: This stand-alone story appeared as an extra in a preview of DC's Vertigo titles, when the imprint was newly launched. With the exception of Dream and Matthew, all characters have not appeared before or since, although a somewhat similar movie writer-director is the central character of Gaiman and Dave McKean's _Signal to Noise_.
 
 ### Page 1
 

@@ -4,7 +4,9 @@
 
 ##### Neil Gaiman, Bryan Talbot, Alec Stevens, Mark Buckingham
 
-First story in anthology, "Worlds' End"
+- First story in anthology, _Worlds' End_
+- First story reprinted in trade paperback _Worlds' End_
+- Audible Act III Chapter 14
 
 ### Page 3
 

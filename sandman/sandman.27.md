@@ -1,8 +1,12 @@
 > [marginThumb] ![cover for issue 27](thumbnails/sandman.27/page00.jpg)
 
-# Issue 27: "Season of Mists Chapter 5"
+# Issue 27: "Season of Mists Chapter 6"
 
 ##### Neil Gaiman, Kelley Jones, and Dick Giordano
+
+- Sixth part of storyline, _Season of Mists_
+- Seventh story reprinted in trade paperback _Season of Mists_
+- Audible Act II Chapter 7
 
 > In which the vexing question
 > of the sovereignty of Hell is finally settled,

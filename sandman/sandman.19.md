@@ -4,9 +4,10 @@
 
 ##### Neil Gaiman and Charles Vess
 
-Third story in anthology _Dream Country_
+- Third story in anthology, _Dream Country_
+- Third story reprinted in trade paperback _Dream Country_
+- Audible Act I Chapter 20
 
-Third story reprinted in trade paperback _Dream Country_
 Winner of 1991 World Fantasy Award in the short story category
 
 **Note**: Charles Vess illustrated the text of the original play in a Starblaze edition that may still be available.

@@ -4,7 +4,9 @@
 
 ##### Neil Gaiman and Shawn McManus
 
-Fourth part of storyline _A Game of You_
+- Fourth part of storyline _A Game of You_
+- Fourth story reprinted in trade paperback _A Game of You_
+- Audible Act II Chapter 15
 
 **Title**: _A Game of You_ clearly refers to the question of identity. Who and what the characters in this story are is a question either to the readers or to the character him, her, or itself, and that is the most important theme the reader should keep in mind when reading this story. This issue has a number of parallels with #32, suggesting an overall structure for the storyline, similar to what was done with _The Doll's House_.
 
@@ -83,12 +85,11 @@ The title of this chapter is taken from the Velvet Underground song of the same 
 
 > [marginThumb] ![page 07](thumbnails/sandman.35/page07.jpg)
 
-
-- The Sandman Companion states that the text on the scroll is from a 1920s reference book titled _The Birds of the British Isles and Migrations_.  Neil mentions the same book was used again in [#40](sandman.40.md)'s The Parliament of Rooks, and was also leant to Alan Moore for material on owls for Watchmen.
+- The Sandman Companion states that the text on the scroll is from a 1920s reference book titled _The Birds of the British Isles and Migrations_. Neil mentions the same book was used again in [#40](sandman.40.md)'s The Parliament of Rooks, and was also leant to Alan Moore for material on owls for Watchmen.
 
   The same book, within its entry on the cuckoo also mentions:
 
-  >  The Welsh name of the Meadow-Pipit is "Gwas-y-Gog," the Cuckoo's servant.
+  > The Welsh name of the Meadow-Pipit is "Gwas-y-Gog," the Cuckoo's servant.
 
   Which is presumably where Neil came up with that name from.
 

@@ -4,6 +4,10 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
+- Second part of storyline, _Brief Lives_
+- Second story reprinted in trade paperback _Brief Lives_
+- Audible Act III Chapter 5
+
 **Notes**: See [#41](sandman.41.md).
 
 ## 1: _It Always Rains on the Unloved_
@@ -42,7 +46,7 @@
 
 - #### Panel 3
 
-  **Flick it**: A curious euphemism for a supposedly mature book. Obviously meant to be "fuck it"; note that all-caps comic book lettering causes "flick it" and "fuck it" to look very similar.  This one must've been intentional, as it wasn't changed back in later editions, unlike other "language" edits (see [#33:5](sandman.33.md#page-5))
+  **Flick it**: A curious euphemism for a supposedly mature book. Obviously meant to be "fuck it"; note that all-caps comic book lettering causes "flick it" and "fuck it" to look very similar. This one must've been intentional, as it wasn't changed back in later editions, unlike other "language" edits (see [#33:5](sandman.33.md#page-5))
 
 ### Page 7
 
@@ -110,7 +114,7 @@
 
 - #### Panel 4
 
-  > [oops] Early editions had an error, naming the servitor as _"Tamaris"_ rather than _"Taramis"_.  As with other errors, this was later corrected.
+  > [oops] Early editions had an error, naming the servitor as _"Tamaris"_ rather than _"Taramis"_. As with other errors, this was later corrected.
 
   Lance Smith writes:
 
@@ -135,6 +139,7 @@
 - #### Panel 2
 
   Del is altering a common playground taunt:
+
   > "\<X\> and \<Y\> sittin' in a tree, K-I-S-S-I-N-G<br>
   > First comes love, then comes marriage, then comes baby in a baby carriage."
 

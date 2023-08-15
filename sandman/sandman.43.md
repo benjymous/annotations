@@ -4,6 +4,10 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
+- Third part of storyline, _Brief Lives_
+- Third story reprinted in trade paperback _Brief Lives_
+- Audible Act III Chapter 6
+
 **Notes**: See [#41](sandman.41.md). The first two chapters in this issue are strongly demonstrative of the primary theme of "Brief Lives". Chapter titles in this issue seem to be mostly descriptive. Note that the fourth chapter, which is "Bored, She Makes Little Frogs" (pg 10 panel 3--pg 12) if we believe the title page, follows the fifth chapter, "Truth or Consequences, and Other Places" (pg 9--pg 10 panel 2). This break is also unusual for not coinciding with a page break.
 
 ## 1: _The People Who Remember Atlantis_

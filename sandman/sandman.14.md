@@ -4,9 +4,10 @@
 
 ##### Neil Gaiman, Mike Dringenberg, and Malcolm Jones III
 
-Fifth part of long storyline _The Doll's House_
-
-Seventh story reprinted in trade paperback _The Doll's House_
+- Fifth part of long storyline _The Doll's House_
+- Sixth story reprinted in trade paperback _The Doll's House_
+- Audible Act I Chapter 14
+- Netflix Episode 9
 
 ### Page 1
 

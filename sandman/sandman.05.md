@@ -4,9 +4,10 @@
 
 ##### Neil Gaiman, Sam Kieth, and Malcolm Jones III
 
-Fifth part of first storyline, _More than Rubies_
-
-Fifth story reprinted in _Preludes and Nocturnes_
+- Fifth part of first storyline, _More than Rubies_
+- Fifth story reprinted in _Preludes and Nocturnes_
+- Audible Act I Chapter 5
+- Netflix Episode 4
 
 ### Page 1
 

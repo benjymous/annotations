@@ -4,6 +4,10 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
+- Ninth part of storyline, _Brief Lives_
+- Ninth story reprinted in trade paperback _Brief Lives_
+- Audible Act III Chapter 12
+
 **Notes**: See [#41](sandman.41.md). This issue is the coda for the arc, reprising all that we've seen before and reiterating "change" as the theme. The briefness of life reinforces the change embodied by Destruction. The emphasis upon change is meant to point out the change in Dream since his imprisonment, as remarked by Orpheus in [49](sandman.49.md):3.3 and by Destruction in [47:24](sandman.47.md#page-24).2 and [48:17](sandman.48.md#page-17).5. It is perhaps worth noting that the epilog does not strictly begin until 3: or 4:. 1: and 2: are necessarily a part of the central story and are themselves reprised in 7:. Despair's reappearance in 4: is a strict reprise of her role in [#41](sandman.41.md).
 
 ## 1: _Farewells_

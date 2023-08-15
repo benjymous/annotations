@@ -4,6 +4,10 @@
 
 ##### Neil Gaiman, Mike Dringenberg, and George Pratt
 
+- Epilogue to storyline, _Season of Mists_
+- Eighth story reprinted in trade paperback _Season of Mists_
+- Audible Act II Chapter 8
+
 > In which we bid farewell to absent friends,
 > lost loves, old gods, and the season of mists;
 > and in which we give the devil his due.
@@ -174,7 +178,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 - #### Panel 1
 
-  This is our old friend, Lucifer, ex-ruler of Hell,  ticking off the first item on his [Bucket List](sandman.23.md#page-20).
+  This is our old friend, Lucifer, ex-ruler of Hell, ticking off the first item on his [Bucket List](sandman.23.md#page-20).
 
 - #### Panel 3
 
@@ -206,7 +210,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 - #### Panel 3-5
 
-  Lucifer's talking to the Creator, here.  You can clearly see the "Young David Bowie" influence here.
+  Lucifer's talking to the Creator, here. You can clearly see the "Young David Bowie" influence here.
 
 ### Page 21
 

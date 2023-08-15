@@ -4,7 +4,9 @@
 
 ##### Neil Gaiman, John Watkiss, Bryan Talbot, Mark Buckingham
 
-Second story in the anthology "Worlds' End"
+- Second story in the anthology, _Worlds' End_
+- Second story reprinted in trade paperback _Worlds' End_
+- Audible Act III Chapter 15
 
 **Cover**: Note the photograph, which will turn up as next issue's cover, and the vines from last issue's. The covers for "Worlds' End" have layers and multiple references just as the stories inside do.
 

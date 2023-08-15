@@ -4,7 +4,9 @@
 
 ##### Neil Gaiman, Jill Thompson, and Vince Locke
 
-Third story in anthology _Convergences_
+- Third story in anthology, _Convergences_
+- Eighth story reprinted in trade paperback _Fables & Reflections_
+- Audible Act II Chapter 20
 
 **Themes**: _Convergences_ is about storytelling, as is _Sandman_ overall. In particular, _Convergences_ tells tales where the storyteller becomes the story, and where reality intersects with story and with fantasy. And, it may be noted, dreams are where reality and fiction converge.
 

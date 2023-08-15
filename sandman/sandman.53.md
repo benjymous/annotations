@@ -2,9 +2,11 @@
 
 # Issue 53: "Hob's Leviathan"
 
-- Third story in anthology, "Worlds' End"
-
 ##### Neil Gaiman, Michael Zulli, Dick Giordano, Bryan Talbot, Mark Buckingham
+
+- Third story in anthology, _Worlds' End_
+- Third story reprinted in trade paperback _Worlds' End_
+- Audible Act III Chapter 16
 
 **Cover**: Note the photograph in the lower left, which was used in the cover to [issue #51](sandman.51.md). The covers to "Worlds' End" are nested and inter- relate, just as the stories do.
 

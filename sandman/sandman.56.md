@@ -6,7 +6,9 @@
 
 Tony Harris, Steve Leialoha
 
-Sixth and last story in anthology "Worlds' End"
+- Sixth and last story in anthology "Worlds' End"
+- Sixth story reprinted in trade paperback _Worlds' End_
+- Audible Act III Chapter 19
 
 **Cover**: Note that the sign is a mirror-reversed negative image of the sign from the cover of [issue #51](sandman.51.md).
 

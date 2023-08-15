@@ -4,9 +4,10 @@
 
 ##### Neil Gaiman, Chris Bachalo, and Malcolm Jones III
 
-Third part of long storyline _The Doll's House_
-
-Fifth story reprinted in trade paperback _The Doll's House_
+- Third part of long storyline _The Doll's House_
+- Fourth story reprinted in trade paperback _The Doll's House_
+- Audible Act I Chapter 13
+- Netflix Episode 8
 
 ### Page 1
 
@@ -159,7 +160,7 @@ Fifth story reprinted in trade paperback _The Doll's House_
 
 - Oopsy. Jed's fled, and soon he'll be dead, 'cause that's the Corinthian who picked him up. Big coincidence? Not really; there's a vortex wandering around totally screwing up causality, and both Jed and the Corinthian are directly linked to her.
 
-> [oops] The text under the bottom panel was missing in the original editions (Gaiman said someone in Editorial must've removed the text, thinking it a mistake), later changed to "Next: Men of Good Fortune", and was finally corrected back to what Gaiman put in the script in the first place:  "Next:  The Prior Engagement."  Referring to what Dream said on the previous page, and the events that will come in [Issue 13](sandman.13.md).
+> [oops] The text under the bottom panel was missing in the original editions (Gaiman said someone in Editorial must've removed the text, thinking it a mistake), later changed to "Next: Men of Good Fortune", and was finally corrected back to what Gaiman put in the script in the first place: "Next: The Prior Engagement." Referring to what Dream said on the previous page, and the events that will come in [Issue 13](sandman.13.md).
 
 ## Credits
 

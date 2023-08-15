@@ -4,6 +4,10 @@
 
 ##### Neil Gaiman, Jill Thompson, Vince Locke and Dick Giordano
 
+- Seventh part of storyline, _Brief Lives_
+- Seventh story reprinted in trade paperback _Brief Lives_
+- Audible Act III Chapter 10
+
 **Notes**: See [#41](sandman.41.md).
 
 **Cover**: Maps on the cover: The map to the right seems to be a map of China. It is several centuries old, since the typography uses the `long s' form of the letter. The map behind the _Sandman_ logo is unidentified.
@@ -44,9 +48,9 @@ The object that Dream is holding is the M.C. Escher woodcut "Four-Faced Planetoi
 
   Barnabas is a _real_ dog. Admittedly, he's a real _talking_ dog, but he's not a human in a dog's body the way Matthew is a human in a raven's body (the superficial characterization of [#40](sandman.40.md) aside, Matthew still _acts_ human). Incidentally, chocolate is not particularly healthy for dogs; they have trouble digesting it and they, like the rest of the Carnivora, overreact to stimulants.
 
-    Neil addresses this in _The Sandman Companion_ saying:
+  Neil addresses this in _The Sandman Companion_ saying:
 
-    > Destruction didn't know; and Barnabas certainly wasn't going to tell him.
+  > Destruction didn't know; and Barnabas certainly wasn't going to tell him.
 
 ## 2: _"My Envelope Isn't Any Good Anymore"_
 

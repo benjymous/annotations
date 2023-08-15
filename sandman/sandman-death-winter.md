@@ -2,7 +2,7 @@
 
 ##### Neil Gaiman, Jeff Jones
 
-**Note**: This stand-alone story originally appeared in the Vertigo: Winters Edge #2 anthology
+- Standalone story, originally printed in Vertigo: Winters Edge #2
 
 ### Page 3
 

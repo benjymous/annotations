@@ -4,7 +4,9 @@
 
 ##### Neil Gaiman and Shawn McManus
 
-Second part of storyline _A Game of You_
+- Second part of storyline _A Game of You_
+- Second story reprinted in trade paperback _A Game of You_
+- Audible Act II Chapter 13
 
 **Title**: _A Game of You_ clearly refers to the question of identity. Who and what the characters in this story are is a question either to the readers or to the character him, her, or itself, and that is the most important theme the reader should keep in mind when reading this story.
 

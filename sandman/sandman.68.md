@@ -4,6 +4,9 @@
 
 ##### Neil Gaiman, Marc Hempel, Richard Case
 
+- Twelfth part of storyline, _The Kindly Ones_
+- Thirteenth story reprinted in trade paperback _The Kindly Ones_
+
 ### Page 1
 
 > [marginThumb] ![page 01](thumbnails/sandman.68/page01.jpg)
