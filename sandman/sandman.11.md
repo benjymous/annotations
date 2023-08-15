@@ -16,6 +16,7 @@
 - #### Panel 1
 
   First known appearance of Hal Carter, who will appear throughout this storyline. The house is also metaphorically the Doll's House of the storyline title.
+
   The similarities between this picture and [issue 10, page 22](sandman.10.md#page-22), panel 5-6 (Dream watching from doll's house in Unity's room) struck me.
 
 ### Page 2
@@ -38,6 +39,10 @@
 
 > [marginThumb] ![page 03](thumbnails/sandman.11/page03.jpg)
 
+- #### Panel 1
+
+  First mention of Gilbert.
+
 - #### Panel 2
 
   Hal's statement brings to mind the movie _Kiss of the Spider Woman_, as well as classic drive-in schlock movies like _Attack of the 50 Foot Woman_.
@@ -50,7 +55,7 @@
 
 > [marginThumb] ![page 03](thumbnails/sandman.11/page04.jpg)
 
-- The layout is reminiscent of Winsor McKay's comic strip "Little Nemo in Slumberland", which is widely regarded as being of the highest quality.
+- The layout here is styled after Winsor McKay's comic strip "Little Nemo in Slumberland", which is widely regarded as being of the highest quality.  In The Sandman Companion, Gaiman notes that he wished they'd been able to mimic the style even more closely, but someone at DC was worried about copyright infringement (even though Little Nemo was published in 1905.)
 
 - #### Panel 2
 
@@ -91,6 +96,8 @@
   Hal/dolly's cross dressing is somewhat paralleled by the "hooked 'actresses'" in #13 Men of good fortune (page 11), and both of these sexual confusions are paralleled by Desire's androgyny (who, as you will remember, is behind the whole vortex story arc.) this allusion within allusion resembles Arabian Nights, which I believe was the subject of at least one issue later in the series.
 
 - #### Panel 5
+
+  > [floatright width-30pc] ![The Cure - Boys Don't Cry](images/CureBoysDontCry.jpg)
 
   The poster actually exists and is for an album, by group The Cure, named _Boys Don't Cry_. It's sort of funny that there's a boy crying, or at least moaning, in front of a poster that says "Boys Don't Cry". I'm guessing that was intentional, particularly as Rose doesn't seem to me the type of person to be a The Cure fan...
 
@@ -205,3 +212,4 @@
 - Henry Spencer <henry@zoo.toronto.edu> pointed out the curious juxtaposition of the ever-polite Corinthian's eating and talking.
 - Dave Rumblehumper <rumblehumper@andythepooh.com> who pointed out about the poster and the parallelism to the horned actresses
 - Ralf Hildebrandt added more details.
+- Richard Munn noted that the Little Nemo comparison was intentional, and added The Cure reference.
