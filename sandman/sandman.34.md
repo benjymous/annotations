@@ -2,7 +2,7 @@
 
 # Issue 34: "Bad Moon Rising"
 
-##### Neil Gaiman, Colleen Doran, George Pratt and Dick Giordano
+##### Neil Gaiman, Colleen Doran, [George Pratt and Dick Giordano]
 
 - Third part of storyline _A Game of You_
 - Third story reprinted in trade paperback _A Game of You_
@@ -10,9 +10,18 @@
 
 **Title**: _A Game of You_ clearly refers to the question of identity. Who and what the characters in this story are is a question either to the readers or to the character him, her, or itself, and that is the most important theme the reader should keep in mind when reading this story.
 
-"Bad Moon Rising" is a song by Credence Clearwater Revival; the relevant line in the song is "I see a bad moon rising". The stylized `3' in the title is the chapter number.
+"Bad Moon Rising" is a song by Credence Clearwater Revival; the relevant line in the song is "I see a bad moon rising". The stylized '3' in the title is the chapter number.
 
-**Credits**: Yes, the art looks really bad. It's George Pratt's fault. According to hearsay, Pratt inked Doran's pencils in two days. According to Neil Gaiman, Pratt left for vacation leaving the last four pages undone. Dick Giordano inked those, deliberating using a style similar to Pratt's. Doran has threatened to "break Pratt's fingers" if he ever comes near her art again, and now has an "inker approval" clause in her contracts with DC.
+> [oops] In the original edition, the inking was not up to quality. According to hearsay, George Pratt inked Doran's pencils in two days. According to Neil Gaiman, Pratt left for vacation leaving the last four pages undone. Dick Giordano inked those, deliberating using a style similar to Pratt's. Doran has threatened to "break Pratt's fingers" if he ever comes near her art again, and now has an "inker approval" clause in her contracts with DC.
+>
+> For the Absolute edition, Colleen got to re-ink the artwork herself, and so the vastly improved version is used for all modern versions.
+
+<br>
+
+> [flex cols-2] ![George Pratt version](images/BadMoonPratt.jpg) ![Colleen Doran Version](images/BadMoonDoran.jpg)
+
+George Pratt's version on the left - Colleen Doran's re-inked version on the right.
+
 
 ### Page 1
 
