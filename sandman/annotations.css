@@ -151,6 +151,7 @@ h3 {
 }
 
 .book.color-theme-1 .book-body {
+  background: #f8f2dc;
   background-image: url("images/bg_sepia.jpg");
   background-repeat: no-repeat;
   background-position: center;
@@ -172,6 +173,7 @@ h3 {
 }
 
 .book.color-theme-2 .book-body {
+  background: #1c1f2b;
   background-image: url("images/bg_night.jpg");
   background-repeat: no-repeat;
   background-position: center;
