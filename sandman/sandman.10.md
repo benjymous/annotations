@@ -15,6 +15,16 @@
 
 - We have learned in earlier issues that Desire is Dream's younger sibling. Despite the pronoun games in the fourth caption, Desire is consistently referred to by those who know it as "it". This is Desire's first known appearance. The "Doll's House" of the title refers to many buildings throughout this storyline, one of which is the Threshold.
 
+> [audible] The Audible version expands considerably on the description of The Threshold given on the page.
+
+### Page 2
+
+> [marginThumb] ![page 02](thumbnails/sandman.10/page02.jpg)
+
+- #### Panel 3
+
+> [audible] The Audible (and Netflix) versions both use "she/he/they" to refer to Desire, rather than "it" as used in the comic.
+
 ### Page 3
 
 > [marginThumb] ![page 03](thumbnails/sandman.10/page03.jpg)
@@ -55,13 +65,11 @@
 
   We do not know, but will learn, what a dream vortex is.
 
-### Page 6-7
-
-- First known appearances of Miranda and Rose Walker, who will be very important to this storyline, and Mr. Jack Holdaway, who will not. It will be confirmed later that Rose is in fact the person Judy was talking to on page 6 of [issue 6](sandman.06.md).
-
 ### Page 6
 
 > [marginThumb] ![page 06](thumbnails/sandman.10/page06.jpg)
+
+- First known appearances of Miranda and Rose Walker, who will be very important to this storyline, and, on the next page, Mr. Jack Holdaway, who will not. It will be confirmed later that Rose is in fact the person Judy was talking to on page 6 of [issue 6](sandman.06.md).
 
 - #### Panel 2
 
@@ -105,7 +113,11 @@
 
 > [marginThumb] ![page 10](thumbnails/sandman.10/page10.jpg)
 
-- #### Panel 5
+- #### Panel 2
+
+  The first appearance of the three Guardians here, The Wyvern, the Hippogriff and the Gryphon.
+
+- #### Panel 4
 
   Neil Gaiman says "Note the doll": Well isn't it the same doll's house which we find in the room of who-was-to-be-a-dream-vortex, Unity Kinkaid? Just look at the Morpheus in its window on pages 22-23.
 
@@ -223,13 +235,15 @@
 
 - #### Panel 4,5,6
 
-  Here we have Unity symbolically transferring the powers of the vortex to Rose, using annullet (Lucien's words). So here we have a magical ring!
+  Here we have Unity symbolically transferring the powers of the vortex to Rose, using annulet (Lucien's words). So here we have a magical ring!
 
 ### Page 24
 
 > [marginThumb] ![page 24](thumbnails/sandman.10/page24.jpg)
 
 - The Corinthian, we learn, is a sick bastard, and is probably about to kill Davy. We are seeing the world through Corinthian's eyes, as he takes off his dark glasses (panel 5-7) we can see colors. So I think that we are lucky that the story is ending just here!
+
+> [audible] The Audible version gives away a little more here (that the observant will have noticed anyway back on p13.)
 
 ## Credits
 
