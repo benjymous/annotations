@@ -19,11 +19,15 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 "Men of Good Fortune" can also be argued to have a structural relationship with the second long thread, in that the two have contrasts that seem to me to be significant. The relationship with Nada (love) was destructive (at least for Nada!) and suspect, as it was apparently engineered for malicious reasons by Desire (and Despair?). The relationship with Hob (friendship) is positive (for both parties) and trustworthy, as it was set up by Dream (and presumably Death, who was there at the time). A further contrast is found between Hob's fate and what happens to Lyta, Rose, and Unity; one imagines that the latter is more typical of Dream's relationships with humans--it is impersonal and dictated by the requirements of Dreaming.
 
+## 1389
+
 ### Page 1
 
 > [marginThumb] ![page 01](thumbnails/sandman.13/page01.jpg)
 
 - #### Panel 1
+
+  > [audible] The Audible version adds a bit more dialog, and scene setting before the first panels open.
 
   The year, as we can deduce from page 5 panel 4, is 1389. Note the background chatter prominently placed throughout the story. The theme of each snippet is repeated at least once, across a time frame of many centuries. This supports the contention that the theme of the story is uttered by Hob on page 23.
 
@@ -101,6 +105,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
   "King Dick" is presumably Richard II, the last Plantagenet king, who ruled from 1377-1399. Evidently, he's fairly "thick", or stupid. "Year of our Lord" is, of course, the English translation of the Latin Anno Domini, or A.D.
 
+## 1489
+
 ### Page 6
 
 > [marginThumb] ![page 06](thumbnails/sandman.13/page06.jpg)
@@ -136,6 +142,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 - #### Panel 4
 
   Gutenberg did invent typography and made movable type into an industry in the 1400s.
+
+## 1589
 
 ### Page 9
 
@@ -217,6 +225,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
   Beware hubris, Hob. Also, "foreshadowing: your guide to quality literature", to quote "Bloom County".
 
+## 1689
+
 ### Page 14
 
 > [marginThumb] ![page 14](thumbnails/sandman.13/page14.jpg)
@@ -244,6 +254,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 - #### Panel 1
 
   Oliver Cromwell, and Parliament, took over England for a while during the 1600s. The monarchy was eventually restored. Hob picked the losing side.
+
+## 1789
 
 ### Page 17
 
@@ -299,6 +311,8 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
   Queen Bess is Queen Elizabeth I (1533-1603).
 
+## 1889
+
 ### Page 21
 
 > [marginThumb] ![page 21](thumbnails/sandman.13/page21.jpg)
@@ -309,15 +323,21 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 - #### Panel 2
 
+  The lady here is _Lushing Lou_, who was a real Victorian prostitute, described by Henry Mayhew in [London Labour and the London Poor](https://en.wikipedia.org/wiki/London_Labour_and_the_London_Poor) in 1851.
+
   "Bloody Jack" is Jack the Ripper, of course. The Ripper killed five prostitutes in London in 1888 and was never caught. The Alan Moore-Eddy Campbell series _From Hell_ is a look at the historical legend in comic book form. _Gotham by Gaslight_ features the Batman versus the Ripper.
+
+- #### Panel 3
+
+> [audible] The Audible version adds an extra line, as the prostitute grabs Dream: _"Please release my arm, I do not care to be touched."_
 
 - #### Panel 4
 
-  Lovely slang here. I couldn't even begin to contemplate what a "chickaleary" is.
+  Lovely slang here.  According to [Green's Dictionary of Slang](https://greensdictofslang.com/entry/e2a67va), **chickaleary** is an adjective that means **artful, knowing**. It is usually used as chickaleary cove, which means **an artful, knowing, 'clever' fellow**. The word may have originated from a combination of cheeky, leery and cove, and was popularized by a music-hall song.
 
 - #### Panel 5
 
-  Who can identify the song?...Anyone?...Anyone?
+  This song was actually sung by Lushing Lou, according to Mayhew's writing.
 
 ### Page 22
 
@@ -342,6 +362,12 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 - #### Panel 2
 
   Aha! The theme to the entire issue!
+
+- #### Panel 6
+
+  And on the subject of change...
+
+## 1989
 
 ### Page 24
 
@@ -375,4 +401,4 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 - Mark MacBear <mamcconnell@uccs.edu> identifying Marlowe's role in Shakespeare's sonnets (I think that who said it and who he meant, I lost most of the reference.)
 - Dave Stobbe, who signs himself "Ed (the Anti-Dave)", <dave.stobbe@canrem.com> corrected my attribution of movable type to Gutenberg.
 - Ralf Hildebrandt added more details.
-- Richard Munn noted the Prior Engagement.
+- Richard Munn noted added some notes from the Audible version, some details on Lushing Lou and the Prior Engagement.
