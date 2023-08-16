@@ -82,6 +82,14 @@
 
   Gaiman may be obliquely referring to the fact the Fury's mother was original the Golden Age Wonder Woman, who was retconned out of existence by Crisis. Or he may be referring to the patch Roy Thomas did by creating the Golden Age Fury in The Young All-Stars. GA Fury mothered Lyta and then vanished, although this was never made particularly clear.
 
+### Page 10
+
+> [marginThumb] ![page 10](thumbnails/sandman.12/page10.jpg)
+
+- #### Panel 4
+
+  It's not immediately clear what Brute and Glob's end plan actually was - to take over The Dreaming itself?
+
 ### Page 11
 
 > [marginThumb] ![page 11](thumbnails/sandman.12/page11.jpg)
@@ -118,6 +126,14 @@
 
   I believe that the ultra-sonic whistle was in fact a weapon of the original 1970s Sandman. Hey, it was Kirby. You want sense, read a newspaper. You want thunder and fury, read Kirby.
 
+### Page 18
+
+> [marginThumb] ![page 17](thumbnails/sandman.12/page18.jpg)
+
+- #### Panel 2
+
+  The Sandman Companion points out, this is the _only_ time we hear Dream really laugh.
+
 ### Page 19
 
 > [marginThumb] ![page 19](thumbnails/sandman.12/page19.jpg)
@@ -134,6 +150,10 @@
 
 > [marginThumb] ![page 20](thumbnails/sandman.12/page20.jpg)
 
+- #### Panel 4
+
+  [Garrett Sanford](<https://dc.fandom.com/wiki/Garrett_Sanford_(New_Earth)>) was the second DC Comics Sandman created, created by Simon & Kirby in the 70s. He was replaced in the 80s by Hector Hall.
+
 - #### Panel 9
 
   Note that Jed is younger, like he is in his dreams (see [Issue #11](sandman.11.md)).
@@ -145,6 +165,14 @@
 - #### Panel 4
 
   **Hippolyta**: When Fury was the daughter of the original Wonder Woman, being named for the queen of the Amazons made sense. Post-Crisis, of course, nothing made sense.
+
+### Page 22
+
+> [marginThumb] ![page 22](thumbnails/sandman.12/page22.jpg)
+
+- #### Panel 6
+
+  > [audible] In an addition here, in the Audible version Dream sees Jed hiding at the top of the stairs and tells him he's free to go. He knows that Rose is looking for him, but makes no attempt to get involved. Again we see he wasn't overly concerned about the welfare of mortals (such as the safety of this small boy who's lost everything) - he was only really concerned about stopping the machinations of Brute and Glob.
 
 ### Page 23
 
@@ -178,4 +206,4 @@
 
 - Ed (The Anti-Dave) (Dave Stobbe <dave.stobbe@canrem.com>) explained the metaphorical significance of a Dutch Uncle.
 - Ralf Hildebrandt added more details.
-- Richard Munn noted the Prior Engagement.
+- Richard Munn questioned Brute and Glob's motivations, noted Dream's laugh, the second Sandman, Dreams lack of consideration over Jed, and the Prior Engagement.
