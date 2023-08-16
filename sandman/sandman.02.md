@@ -37,6 +37,8 @@
 
   Morpheus is here referred to as the Prince of Stories.
 
+  In Leslie Klinger's annotations, it's noted that "The Prince of Stories" appears in "[I'm set free](https://www.youtube.com/watch?v=B_uWjT9bMJ4)" by the Velvet Underground. Neil Gaiman mentions this song as somewhat of an inspiration on his blog and says the song _"seems to have the whole plot of Sandman in it."_
+
 ### Page 4
 
 > [marginThumb] ![page 04](thumbnails/sandman.02/page04.jpg)
@@ -217,7 +219,12 @@
 
 - #### Panel 3
 
-  I am not aware of any conflict between the Fates and Circé (a magician in the Odyssey, also a villain in Wonder Woman, and the main villainess in War of the Gods).
+  In regards to the conflict between The Fates and Circé, Klinger says that in the DC Universe, Circe is interpreted as the daughter of Hecate, who eventually battles with Hecate's version of Diana/Wonder Woman.
+
+  I'll specify that a bit because I think Klinger's wording is misleading here and not very clear: At one point, Hecate divided her essence/power into five humans/beings. These humans usually didn't know of it, and when they died, it was passed on to the next person until Hecate had need for it. And two of these were Circe (she was given the witchmark by Hecate in person early on) and Diana/Wonder Woman (one of the other ones was Black Orchid). The arc is long-winded and probably too much to go into here, but the bottom line is that Diana had 4/5 of power within herself at some point (you would need to read Witching Hour) and was under Hecate's control. Circe then set the Justice League Dark on her heels to kill her. Diana managed to do that herself though because she regained control of her body and killed Hecate (quite gruesome really 😂). And then Circe sneakily absorbed all the remaining powers and became the new goddess of magic.
+
+  So that's why there's bad blood I guess. Not between Morpheus and all incarnations of the Three (well…), but the Hecateae specifically. How and where he should have helped—who knows, but god(esses) are born and die in the Dreaming, so to speak, so it would probably always be possible to find a connection that way. It was probably just to tie everything that was happening in the wider DC Universe at the time together.
+
 
 ### Page 21
 
@@ -272,3 +279,4 @@
 - Much of the information on the Three Witches is liberally plagiarized from Alisa Kwitney's writing in _Who's Who_ #15 (1991).
 - Ralf Hildebrandt added lots more details and made some edits.
 - Richard Munn added some image references, noted the "Dreamtime/Dreaming" differences, and added the additional reference to the Gates of Horn and Ivory on p 21.
+- /u/Mysterious-Fun-1630 noted the Velvet Underground connection and the conflict with Circe were both mentioned in Leslie Klinger's annotations.
