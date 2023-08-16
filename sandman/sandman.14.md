@@ -17,19 +17,19 @@
 
 - #### Panel 4
 
-  The song is "Lydia the Tattooed Lady" as sung by Groucho Marx in one of the Marx Brothers movies.
+  The song is "[Lydia the Tattooed Lady](https://www.youtube.com/watch?v=n4zRe_wvJw8)" as sung by Groucho Marx in one of the Marx Brothers movies.
 
 ### Page 2
 
 > [marginThumb] ![page 02](thumbnails/sandman.14/page02.jpg)
 
-- #### Panel 1
+- #### Panel 1 (and others)
 
-  **and others**: Notice how the bits of con-goer talk always includes some slangy reference to death: "Journey was a real killer." "Wouldn't be seen dead here." And so on.
+  Notice how the bits of con-goer talk always includes some slangy reference to death: "Journey was a real killer." "Wouldn't be seen dead here." And so on.
 
 - #### Panel 2
 
-  The song is "These Boots Were Made for Walking", sung by Nancy Sinatra.
+  The song is "[These Boots Were Made for Walkin'](https://www.youtube.com/watch?v=TDmidrIDB4o)", sung by Nancy Sinatra.
 
 ### Page 3
 
@@ -229,7 +229,7 @@
 
 - #### Panel 1
 
-  Fun Land's remark: many serial killers have unusual or parasitic relationships with single mothers. Neil Gaiman says the song is Timbuk 3's "Standard White Jesus" from the _Edge of Allegiance_ album.
+  Fun Land's remark: many serial killers have unusual or parasitic relationships with single mothers. Neil Gaiman says the song is Timbuk 3's "[Standard White Jesus](https://www.youtube.com/watch?v=K4BFxerEGhw)" from the _Edge of Allegiance_ album.
 
 - #### Panel 2-5
 
@@ -241,11 +241,13 @@
 
 - #### Panel 1-3
 
-  The song is "Venus in Furs", by the Velvet Underground.
+  The song is "[Venus in Furs](https://www.youtube.com/watch?v=GiobySgFP2s)", by the Velvet Underground.
 
 - #### Panel 4
 
   Notice how Fun Land's hat makes him look like a wolf? And his t-shirt has a wolf as well. This is in reference to the "Red Riding Hood" story. His hat is also a parody of the famous Disney mouse ears.
+
+  In The Sandman Companion it's noted that indeed the character was called _Disneyland_ in the original script, and wore Mickey Mouse ears rather than pointy wolf ears.
 
 - #### Panel 5
 
@@ -263,13 +265,28 @@
 
   The inference is that the preoperative transsexuals are male-to-female only. Preoperative transsexuals of this sort take female hormones so that their breasts enlarge and their bodies become more female in appearance, but they retain their male genitals. Many such, in fact, finance their last operations by appearing in specialty, so-called "she-male", pornography. In panel 7, the victim's "left-lean" penis appears in silhouette.
 
+  > [audible] The Connoisseur's particular thing in the Audible version was changed to _Congenital Eunuchs_.
+
 ### Page 24
 
 > [marginThumb] ![page 24](thumbnails/sandman.14/page24.jpg)
 
 - #### Panel 3
 
-  The song is "Wild Thing", by the Troggs.
+  The song is "[Wild Thing](https://www.youtube.com/watch?v=gSWInYFVksg)", by the Troggs.
+
+
+### Page 25
+
+> [marginThumb] ![page 25](thumbnails/sandman.14/page25.jpg)
+
+- #### Panel 5
+
+> [audible] The Audible version tells us the note reads simply:
+>
+> I am sorry.
+>
+> -- G
 
 ### Page 26
 
@@ -299,6 +316,10 @@
 
 > [marginThumb] ![page 27](thumbnails/sandman.14/page27.jpg)
 
+- #### left top
+
+  The original script said _"I used to masturbate..."_ but this was changed.  According to The Sandman Companion, Karen Berger told him _"People don't masturbate in the DC Universe."_  This was restored in the Audible version.
+
 - #### middle top.
 
   Of course women are naked under their clothes.
@@ -309,11 +330,11 @@
 
 - #### Panel 1
 
-  In the original comic edition, some speech balloons fell off the original art. They were restored in the trade paperback reprint. The young man with Fun Land is talking, and the missing balloons read:
-
-  > I dunno. I thought maybe if I came here, I'd meet some other people with the same problem. People I could _talk_ to, who'd understand. Who'd _help_ me. But no one else has really been _interested_.
-
-  Thus revealing great irony in Fun Land's subsequent absconding.
+  > [oops] In the original comic edition, some speech balloons fell off the original art. They were restored in the trade paperback reprint. The young man with Fun Land is talking, and the missing balloons read:
+  >
+  > "I dunno. I thought maybe if I came here, I'd meet some other people with the same problem. People I could _talk_ to, who'd understand. Who'd _help_ me. But no one else has really been _interested_."
+  >
+  > Thus revealing great irony in Fun Land's subsequent absconding.
 
 ### Page 29
 
@@ -325,7 +346,11 @@
 
 - #### Panel 2
 
-  "It's a Small World" is a very annoying song played over and over again at Disneyland and Disney World.
+  "[It's a Small World](https://www.youtube.com/watch?v=PxRW-duSCLA)" is a very annoying song played over and over again at Disneyland and Disney World.
+
+- #### Panel 6
+
+  Back to Gilbert's story again.
 
 ### Page 31
 
@@ -359,6 +384,12 @@
 
   Gilbert has found Jed, who is what was hidden in the Corinthian's trunk. Boot is British for trunk.
 
+### Page 38
+
+> [marginThumb] ![page 38](thumbnails/sandman.14/page38.jpg)
+
+- Note how this page closely mirrors the first page of the issue.
+
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
@@ -376,3 +407,4 @@
 - Beth Winter <renfri@astercity.net> for the Don't look now reference.
 - bignickl@swbell.net noted Chris Carter's cameo.
 - Ralf Hildebrandt added more details.
+- Richard Munn added details too.
