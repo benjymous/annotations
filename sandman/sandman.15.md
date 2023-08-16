@@ -149,15 +149,19 @@
 
   The final face revealed is actually the Wizard of the movie, though it's hard to see. Frank Morgan was the actor who played the Wizard. The simple symbology in this sequence is that Hal wears a mask, either when he's being a transvestite, or when he's not, and he wants to stop.
 
-### Page 9-10
+### Page 9
 
 > [marginThumb] ![page 09](thumbnails/sandman.15/page09.jpg)
 
-- #### Panel 6
+- #### Panel 5
 
-  A double page spread. The "Big-Bad-Wolf-Man" is Fun Land, a serial killer who tried to kill Rose. "The pale stranger" is Dream.
+ The "Big-Bad-Wolf-Man" is Fun Land, a serial killer who tried to kill Rose. "The pale stranger" is Dream.
 
-- #### Panel 12
+### Page 10
+
+> [marginThumb] ![page 10](thumbnails/sandman.15/page10.jpg)
+
+- #### Panel 4
 
   Brevard County is a county in Florida, where Rose is staying.
 
