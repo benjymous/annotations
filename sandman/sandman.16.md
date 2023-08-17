@@ -36,6 +36,22 @@
 
   We need not worry that Fiddler's Green was the historical Gilbert Keith Chesterton (born 29 May 1874 in Kensington), as here he says he was not even a "very good _copy_ of a human" [emphasis his].
 
+### Page 11
+
+> [marginThumb] ![page 11](thumbnails/sandman.16/page11.jpg)
+
+- #### Panel 4
+
+  > [audible] The Audible narration says this young woman looks familiar to Rose, she could almost be Rose's reflection _in a looking glass_.
+
+### Page 12
+
+> [marginThumb] ![page 12](thumbnails/sandman.16/page12.jpg)
+
+- #### Panel 4
+
+  > [audible] The Audible version changes Dream's line here to "I _do not_ know who you are..." This makes his bafflement on the next page possibly make more sense.
+
 ### Page 13
 
 > [marginThumb] ![page 13](thumbnails/sandman.16/page13.jpg)
@@ -52,6 +68,8 @@
 
   That's an Iggy Pop CD on the bottom of the panel, _The Idiot_. Neil mentions that Lou Reed's _Berlin_ didn't make it into the panel.
 
+  > [audible] Audible also names The Cowboy Junkies' _The Trinity Session_
+
 - #### Panel 4-5
 
   Barbie's life will be more fully explored in a later storyline.
@@ -60,11 +78,13 @@
 
   **Two books have readable titles**: [Empire of the Senseless](http://www.amazon.de/exec/obidos/ASIN/0802131794) and [Sleeping in Flame](http://www.amazon.de/exec/obidos/ASIN/0679727779).
 
-  _Sleeping in Flame_ is by Jonathon Carroll, an American writer often writing from Vienna who writes surreal, fantastic, and often horrific fiction. This particular book is a modern retelling of the Rumpleskiltskin fairy tale. Carroll has a reputation for using dreams or fictions becoming reality, and it is rumored that Neil Gaiman had to rework the plot of _The Doll's House_ after reading a Carroll book that used his original idea.
+  - _Sleeping in Flame_ is by Jonathon Carroll, an American writer often writing from Vienna who writes surreal, fantastic, and often horrific fiction. This particular book is a modern retelling of the Rumpleskiltskin fairy tale. Carroll has a reputation for using dreams or fictions becoming reality, and it is rumored that Neil Gaiman had to rework the plot of _The Doll's House_ after reading a Carroll book that used his original idea.
 
-  _Empire of the Senseless_ was written by Kathy Acker in 1988. Perhaps coincidentally, she dedicates the book to her tattooist. It is described as a postmodern novel, and "not a pretty story."
+  - _Empire of the Senseless_ was written by Kathy Acker in 1988. Perhaps coincidentally, she dedicates the book to her tattooist. It is described as a postmodern novel, and "not a pretty story."
 
   Neil indicates that Shirley Jackson's _We Have Always Lived in the Castle_ and M.R. James' _Ghost Stories of an Antiquary_ were in the script but didn't make it into the panel. He notes that this should help people identify Zelda's short story extract from [Sandman #15](sandman.15.md) and the title of this issue.
+
+  > [audible] The Audible narration adds the above missing books, plus \_A Distant to the stack.
 
 ### Page 18
 
@@ -79,6 +99,8 @@
 - #### Panel 6
 
   A genuine photo of G.K. Chesterton, who was the inspiration for "Gilbert". Note the signature at lower left.
+
+  > [audible] The Audible narration adds a caption - "G.K Chesterton. 1874-1936"
 
 ### Page 19
 
@@ -102,7 +124,7 @@
 
 - #### Panel 6
 
-  A fox's "set" is hunter's jargon for a den. It is therefore unusual for Jed to use it.
+  > [oops] Earlier editions say "..a fox's _set_ in the wood" - A fox's "set" is hunter's jargon for a den.  It is therefore unusual for Jed to use it, and later edits agree, changing it to "..a fox's _den_..."
 
 ### Page 21
 
