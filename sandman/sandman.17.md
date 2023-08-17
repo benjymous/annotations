@@ -143,7 +143,7 @@
 
 - #### Panel 2
 
-  Some aspects of Dream's and Calliope's disagreement are covered in _Sandman_ Special #1.
+  Some aspects of Dream's and Calliope's disagreement are covered in [_Sandman_ Special #1](sandman-special1.md).
 
 ### Page 11
 
@@ -158,19 +158,19 @@
   Gaiman says Madoc's title is from a riddle that appears in _The Books of Magic_ #4 From page 33:
 
   > **The Fool**: A riddle. I sat with my love, and I drank with my love, and my love she gave me light. I'll give any man a pint o'wine, that'll read my riddle right.
-
+  >
   > Only I don't _have_ a pint of wine. Do you give up?
-
+  >
   > **Tim Hunter**: I don't understand the question.
-
+  >
   > **The Fool**: How about your friend?
-
+  >
   > **Mister E**: It is an evil rhyme, and it has an evil answer.
-
+  >
   > **The Fool**: Oh _so?_ But can you riddle it?
-
+  >
   > **Mister E**: I sat in a chair made of my love's bones, drank from her skull, and saw by the light of a candle made from her fat.
-
+  >
   > There. Are you satisfied, fool? Let us leave this place, Timothy Hunter.
 
   It may be that the "true" answer to this riddle is "wine". The teller sits with a bottle of wine and drinks from it; a candle is stuck in a wine bottle and lit. This is why the Fool doesn't have a pint of wine, he drank it.
@@ -197,7 +197,7 @@
 
   **TLS**: Times Literary Supplement, a literati must-read. It is a weekly supplement to the great metropolitan newspaper, the Times of London.
 
-  The collection title is, in Gaiman's words, "an oblique James Branch Cabell reference...a chapter he never got around to writing in _Figures of Earth_"."
+  The collection title is, in Gaiman's words, "an oblique James Branch Cabell reference...a chapter he never got around to writing in _Figures of Earth_".
 
 - #### Panel 4
 
@@ -250,7 +250,7 @@
   Gaiman notes that "Here Comes a Candle" was the title of his friend Pete Atkins' first published short story, although he did not know that at the time he wrote this. The phrase itself comes from a nursery rhyme:
 
   > "Here comes a candle to light you to bed
-
+  >
   > And here comes a chopper to chop off your head."
 
 ### Page 17
