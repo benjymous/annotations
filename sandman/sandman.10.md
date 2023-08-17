@@ -15,7 +15,7 @@
 
 - We have learned in earlier issues that Desire is Dream's younger sibling. Despite the pronoun games in the fourth caption, Desire is consistently referred to by those who know it as "it". This is Desire's first known appearance. The "Doll's House" of the title refers to many buildings throughout this storyline, one of which is the Threshold.
 
-> [audible] The Audible version expands considerably on the description of The Threshold given on the page.
+  > [audible] The Audible version expands considerably on the description of The Threshold given on the page.
 
 ### Page 2
 
@@ -23,7 +23,7 @@
 
 - #### Panel 3
 
-> [audible] The Audible (and Netflix) versions both use "she/he/they" to refer to Desire, rather than "it" as used in the comic.
+  > [audible] The Audible (and Netflix) versions both use "she/he/they" to refer to Desire, rather than "it" as used in the comic.
 
 ### Page 3
 
@@ -241,7 +241,7 @@
 
 - The Corinthian, we learn, is a sick bastard, and is probably about to kill Davy. We are seeing the world through Corinthian's eyes, as he takes off his dark glasses (panel 5-7) we can see colors. So I think that we are lucky that the story is ending just here!
 
-> [audible] The Audible version gives away a little more here (that the observant will have noticed anyway back on p13.)
+  > [audible] The Audible version gives away a little more here (that the observant will have noticed anyway back on p13.)
 
 ## Credits
 

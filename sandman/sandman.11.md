@@ -55,7 +55,7 @@
 
 > [marginThumb] ![page 03](thumbnails/sandman.11/page04.jpg)
 
-- The layout here is styled after Winsor McKay's comic strip "Little Nemo in Slumberland", which is widely regarded as being of the highest quality.  In The Sandman Companion, Gaiman notes that he wished they'd been able to mimic the style even more closely, but someone at DC was worried about copyright infringement (even though Little Nemo was published in 1905.)
+- The layout here is styled after Winsor McKay's comic strip "Little Nemo in Slumberland", which is widely regarded as being of the highest quality. In The Sandman Companion, Gaiman notes that he wished they'd been able to mimic the style even more closely, but someone at DC was worried about copyright infringement (even though Little Nemo was published in 1905.)
 
 - #### Panel 2
 
@@ -97,7 +97,7 @@
 
 - #### Panel 5
 
-  > [floatright width-30pc] ![The Cure - Boys Don't Cry](images/CureBoysDontCry.jpg)
+  > [floatright width-30pc shift-up] ![The Cure - Boys Don't Cry](images/CureBoysDontCry.jpg)
 
   The poster actually exists and is for an album, by group The Cure, named _Boys Don't Cry_. It's sort of funny that there's a boy crying, or at least moaning, in front of a poster that says "Boys Don't Cry". I'm guessing that was intentional, particularly as Rose doesn't seem to me the type of person to be a The Cure fan...
 
