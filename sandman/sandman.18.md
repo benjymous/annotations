@@ -27,7 +27,7 @@
 
 - #### Panel 1
 
-  The entrance to the Dreaming has been seen before to be guarded by a griffon, dragon, and winged horse. Here, the griffon looks more like a large vulture.
+  The entrance to the Dreaming has been seen before to be guarded by a griffon, wyvern, and hippogriff. Here, the griffon looks more like a large vulture.
 
 ### Page 14
 
@@ -44,15 +44,15 @@
   **A cat may look at a king**: Cleveland Amory's book, _The Cat Who Came for Christmas_ has an extensive section on the origins of this proverb, from which I quote:
 
   > In the fifteenth century, the story goes, Maximilian I, of the House of Hapsburg, King of the Romans and soon to be Holy Roman Emperor, was deep in conversation with a friend of his named Hieronymus Resch, a maker of woodcuts. During this conversation, the king looked over and saw Resch's cat, stretched out on a table, staring not at Resch but at him. From this rather less than earth- shaking occurrence came, apparently, not only the actual proof of the proverb but also its rather less than happy future connotation - at least as far as kings are concerned. For Maximilian, who spent a good deal of his reign embroiled in turmoil, intrigue, and warfare, always declared that the cat had looked at him, with, as he put it, "deep suspicion" - a comment which, once again, will come as small surprise to all the cat-owned, before Maximilian's time, and since. And, years later the cat and the king confrontation became the basis for one of the famous "Fantastic Fables" of none other than the late Ambrose Bierce:
-
+  >
   > A Cat was looking at a King as permitted by the proverb.
-
+  >
   > "Well," said the monarch, observing her inspection of the royal person, "how do you like me?"
-
+  >
   > "I can imagine a King," said the Cat, "whom I should like better."
-
+  >
   > "For example?"
-
+  >
   > "The King of Mice."
 
   We may note that the proverb also makes an appearance in _Alice's Adventures in Wonderland_ when Alice mentions it to the King of Hearts, but herself notes than she read it somewhere. Checking _Bartlett's Familiar Quotations_, we note the following:
