@@ -12,9 +12,13 @@
 
 > [marginThumb] ![page 01](thumbnails/sandman.20/page01.jpg)
 
-- The central character of the story is Urania "Rainie" Blackwell, who first appeared in _Metamorpho_ #10 (1967). She was an agent with an unnamed US intelligence service who volunteered to expose herself to the radiations of the meteor that formed part of the "Orb of Ra". These radiations had earlier transformed Rex Mason into the superhero Metamorpho. Subsequently, Blackwell took the sobriquet "Element Girl". Both Metamorpho and Element Girl had the ability to transform their bodies into any chemical element or compound found in the human body, and to transform into any shape. As a side effect of their powers, their bodies became non-human in color and composition.
+- The central character of the story is Urania "Rainie" Blackwell, who first appeared in [Metamorpho #10](https://dc.fandom.com/wiki/Metamorpho_Vol_1_10) (1967).
 
-  Element Girl had a short career as a superhero, acting as sidekick to Metamorpho, retiring (I believe) with the first cancellation of Metamorpho's book. Metamorpho lurked around the background of the DC universe for years, eventually joining the Outsiders, then the Justice League.
+  > [floatright width-40pc] ![Cover of Metamorpho #10](images/Metamorpho10.jpg)
+
+  She was an agent with an unnamed US intelligence service who volunteered to expose herself to the radiations of the meteor that formed part of the "Orb of Ra". These radiations had earlier transformed Rex Mason into the superhero Metamorpho. Subsequently, Blackwell took the sobriquet "Element Girl". Both Metamorpho and Element Girl had the ability to transform their bodies into any chemical element or compound found in the human body, and to transform into any shape. As a side effect of their powers, their bodies became non-human in color and composition.
+
+  Element Girl had a short career as a superhero, acting as sidekick to Metamorpho, apparently retiring with the first cancellation of Metamorpho's book after 17 issues. Metamorpho lurked around the background of the DC universe for years, eventually joining the Outsiders, then the Justice League.
 
   Her characterization here as a terrified isolated agoraphobe is new.
 
@@ -48,7 +52,7 @@
 
 - #### Panel 3
 
-  Triangle may, however, date from the old _Metamorpho_ series.
+  Triangle doesn't appear to link back to the original _Metamorpho_ stories.
 
 - #### Panel 5
 
@@ -104,7 +108,7 @@
 
 - #### Panel 2-3
 
-  Presumably this refers back to an event in _Metamorpho_.
+  This appears to refer to events in [Metamorpho# 17](https://dc.fandom.com/wiki/Metamorpho_Vol_1_17).
 
 ### Page 20
 
@@ -148,3 +152,4 @@
 
 - Originally collated and edited by Greg Morrow.
 - Jim W Lai <jwtlai@watcgl.waterloo.edu> added _Prisoner_ notes and color symbolism.
+- Richard Munn updated some references
