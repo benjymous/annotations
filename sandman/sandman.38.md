@@ -48,7 +48,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 > [marginThumb] ![page 02](thumbnails/sandman.38/page02.jpg)
 
-**Real forests, true bears, true wolves**: Akin to Platonic forms, the creatures and places in stories are the true essence of the creature or place, without the rounded-off corners or the compromises required of things that exist. A wolf such as you might meet is hardly more than a dog who has not forgotten how to hunt; a wolf such as you might hear about is a shaggy beast, born to the hunt, little more than hunger and fangs and burning eyes, a creature who might someday hunt you.
+- **Real forests, true bears, true wolves**: Akin to Platonic forms, the creatures and places in stories are the true essence of the creature or place, without the rounded-off corners or the compromises required of things that exist. A wolf such as you might meet is hardly more than a dog who has not forgotten how to hunt; a wolf such as you might hear about is a shaggy beast, born to the hunt, little more than hunger and fangs and burning eyes, a creature who might someday hunt you.
 
 ### Page 3
 
@@ -332,6 +332,10 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
   Another reference to value. Note the grandfather's eyes are the same as Vassily's. The storyteller becomes the story.
 
+## See also
+
+  Vassily's daughter appeared in an unpublished story, _Marquee Moon_.  More info can be found [here](http://www.blastoffcomics.com/2017/10/hellblazing-under-a-marquee-moon/).
+
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
@@ -354,3 +358,4 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 - Andrew KUCHLING <fnord@binkley.cs.mcgill.ca> confirmed the traditional use of asafoetida, disagreed with my interpretation of "true" wolves (saying "true wolves as opposed to the People in wolf form", an interesting interpretation, but not supported, given the mention of "real forests" and "true folk"), and cited nightgaunts.
 - Carl Fink (carlf@panix.com) noted a culinary use of asafoetida. Michael Kelly (mkelly@ovid.helios.nd.edu) noted a psychiatric use of asafoetida.
 - David Henry <dhenry@plains.NoDak.edu> noted the convoluted avoidance of sacred names in curses, noted folklore gestures, and cited dwarrow and nightgaunt.
+- Richard Munn added the note about Marquee Moon.
