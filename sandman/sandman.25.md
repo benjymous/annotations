@@ -49,9 +49,9 @@
 
 - #### Panel 5
 
-  **San.**: Sanatorium. Perhaps the infirmary for sick students.
+  **San.**: Sanatorium.  Common terminology for the infirmary for sick students in British boarding schools.
 
-  From context, "natter" = "chat".
+  **Natter**: Chat.
 
 ### Page 6
 
@@ -223,3 +223,4 @@
 - Phil "Dreddhead" Birmingham (BIRMINGH@FNAL.FNAL.GOV) and Mike Collins, The One and Only Killans, (mcollins@isis.cs.du.edu) commented on Hunnish practices.
 - David Goldfarb (goldfarb@ocf.berkeley.edu) corrected my Latin, and he and Mike, and Jim Cowling (jcowling@butterfly.UVic.CA) corrected my misapprehension of 'fagging'.
 - Ralf Hildebrandt added more details.
+- Richard Munn updated the notes on British slang on page 5.
