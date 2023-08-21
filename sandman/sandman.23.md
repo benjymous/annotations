@@ -128,11 +128,11 @@
   Other angels known to have flaming swords, which Gaiman my very well be referring to, are the Seraphim, six-winged angels of God's Wrath, who are said to have six wings. These were the angels who stood (and supposedly still stand) guard at the gates of Eden, blocking the entrance for the sons of Adam (the reference to closing gates here should not be ignored). They are supposed to be in the upper ring of angels (I think the sixth, but as I do not have my copy of The Dictionary of Biblical, Classical and Literary Allusions with me, I can't be sure.) one level above the more famous Cherubim. Here:
 
   > 1. Seraphs stood in attendance on Him. Each of them had six wings: with two he covered his face, with two he covered his legs, and with two he would fly.
-  > 2. And on would call to the other<br>
-  >    "Holy, Holy, holy!<br>
-  >    The LORD of Hosts!<br>
-  >    His presence fills all the earth!"<br>
-  > 3. The doorposts would shake at the sound of the one who called, and the House kept filling with smoke . . . .<br>
+  > 2. And on would call to the other
+  >    "Holy, Holy, holy!
+  >    The LORD of Hosts!
+  >    His presence fills all the earth!"
+  > 3. The doorposts would shake at the sound of the one who called, and the House kept filling with smoke . . . .
   >    -Isaiah, 6:1-3
 
   What the Seraph says is a well known prayer, known as the "Kadosh," but the rest is new to me. Hope it sheds some light on the subject.

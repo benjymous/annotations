@@ -122,19 +122,19 @@ Last year he had Jill do him a sketch of Death, and then he sent a copy of it to
 
   > In most European countries, it is thought to be lucky to meet one magpie, raven, or crow:
   >
-  > One's lucky,<br>
-  > Two's unlucky,<br>
-  > Three is health,<br>
-  > Four is wealth,<br>
-  > Five is sickness<br>
-  > And six is death.<br>
+  > One's lucky,
+  > Two's unlucky,
+  > Three is health,
+  > Four is wealth,
+  > Five is sickness
+  > And six is death.
   >
-  > But in Maine, people say:<br>
+  > But in Maine, people say:
   >
-  > One crow sorrow,<br>
-  > Two crows joy,<br>
-  > Three crows a letter,<br>
-  > Four crows a boy.<br>
+  > One crow sorrow,
+  > Two crows joy,
+  > Three crows a letter,
+  > Four crows a boy.
 
 ### Page 8
 

@@ -30,18 +30,18 @@
 
   The poem is in some ways reminiscent of Lewis Carroll, particularly of _Sylvie and Bruno_, two verses of which are reproduced here:
 
-  > He thought he saw an Elephant<br>
-  > That practised on a fife:<br>
-  > He looked again and found it was<br>
-  > A letter from his wife.<br>
-  > "At length I realize," he said,<br>
-  > "The bitterness of life!"<br>
+  > He thought he saw an Elephant
+  > That practised on a fife:
+  > He looked again and found it was
+  > A letter from his wife.
+  > "At length I realize," he said,
+  > "The bitterness of life!"
   >
-  > He thought he saw a Buffalo<br>
-  > Upon the chimney-piece<br>
-  > He look again and found it was<br>
-  > His sister's husband's niece.<br>
-  > "Unless you leave this house," he said,<br>
+  > He thought he saw a Buffalo
+  > Upon the chimney-piece
+  > He look again and found it was
+  > His sister's husband's niece.
+  > "Unless you leave this house," he said,
   > "I'll send for the Police!"
 
   While there may not be exact parallels, there is a certain similarity in rhythm and sense that may be apparent. The poem is written in iambic tetrameter, although the rhythm is strained to breaking in several places (the misplaced stress in line eight, for example). (English lends itself to iambic form; I am told, for example, that Greek is a "three beat" language.) Note that it has nine lines, which may be a parallel with the nine parts of _Brief Lives_; Spenser's _Faerie Queene_ was written in nine-line stanzas. Basilisk: A mythical reptile with poisonous breath and a petrifying gaze.

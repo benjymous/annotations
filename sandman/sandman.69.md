@@ -107,11 +107,11 @@
 
   **Aye, there's the rub**: Lucifer is making a reference to the famous soliloquy from _Hamlet_, act III scene 1.
 
-  > "...To die, to sleep;<br>
-  > To sleep: perchance to dream: ay, there's the rub;<br>
-  > For in that sleep of death what dreams may come<br>
-  > When we have shuffled off this mortal coil,<br>
-  > Must give us pause:"<br>
+  > "...To die, to sleep;
+  > To sleep: perchance to dream: ay, there's the rub;
+  > For in that sleep of death what dreams may come
+  > When we have shuffled off this mortal coil,
+  > Must give us pause:"
 
   Mazikeen's lines:
 

@@ -152,7 +152,7 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
   The song is "[Tear in Your Hand](https://www.youtube.com/watch?v=kGjpRNtoA0A)" by Tori Amos, from the album _little earthquakes_. The next line is
 
-  > If you need me, me and Neil will be hanging out with the Dream King<br>
+  > If you need me, me and Neil will be hanging out with the Dream King
   > Neil says hi, by the way.
 
   Neil is acknowledged in the liner notes of the album. The lyrics on page 10 are also from this song. Note the legal information at the end of the lettercol this issue.

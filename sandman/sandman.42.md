@@ -140,7 +140,7 @@
 
   Del is altering a common playground taunt:
 
-  > "\<X\> and \<Y\> sittin' in a tree, K-I-S-S-I-N-G<br>
+  > "\<X\> and \<Y\> sittin' in a tree, K-I-S-S-I-N-G
   > First comes love, then comes marriage, then comes baby in a baby carriage."
 
 - #### Panel 4

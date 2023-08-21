@@ -176,14 +176,14 @@
 
   The ballad "Diddle Diddle, or the Country Lovers", from 1680. Also known as "Lavender Blue", a cover version by Dinah Shore from the Disney movie _So Dear to my Heart_ (1948). The version presented in Peter Blood-Patterson's _Rise Up Singing_ goes:
 
-  > Lavender's blue, dilly dilly, lavender's green,<br>
-  > When I am king, dilly dilly, you shall be queen.<br>
-  > Who told you so, dilly dilly, who told you so?<br>
-  > 'Twas my own heart, dilly dilly, that told me so.<br>
+  > Lavender's blue, dilly dilly, lavender's green,
+  > When I am king, dilly dilly, you shall be queen.
+  > Who told you so, dilly dilly, who told you so?
+  > 'Twas my own heart, dilly dilly, that told me so.
   >
-  > Call up your men, dilly dilly, set them to work,<br>
-  > Some with a rake, dilly dilly, some with a fork,<br>
-  > Some to make hay, dilly dilly, some to thresh corn,<br>
+  > Call up your men, dilly dilly, set them to work,
+  > Some with a rake, dilly dilly, some with a fork,
+  > Some to make hay, dilly dilly, some to thresh corn,
   > While you and I, dilly dilly, keep ourselves warm.
 
 - #### Panel 4

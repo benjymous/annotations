@@ -92,7 +92,7 @@
 
   > prehistoric art--PALEOLITHIC ART--Types of Art
   >
-  > [...]
+  > ...
   > The first report of cave art was in 1879, when the painted ceiling at Altamira was discovered. The claim that this represented Stone Age art, however, aroused general disbelief. Although cave paintings had been noticed before, it seemed impossible that art of such sophistication and excellence should have been the work of primitive people. After the Altamira finds had been dismissed as forgeries, new finds were made, some of them in caves that had been sealed since the Stone Age. These subsequent discoveries, like that at La Mouthe in the Dordogne region of France, slowly overcame opposition. Finally, at the beginning of this century, Paleolithic art was recognized as authentic. To date, about 230 caves containing cave art are known; the great majority are in France and Spain, although a number have also been found in Italy, Portugal, and the USSR. Anatolian sites are still under investigation. One of the reasons for the concentration of cave art in western Europe may be the presence there of many limestone cliffs containing caves and rockshelters.
 
 - #### Panel 4
@@ -218,9 +218,9 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 
   We may also note the classic exchange between parent and child:
 
-  > Parent: "Where did you go?"<br>
-  > Child: "Out."<br>
-  > Parent: "What did you do?"<br>
+  > Parent: "Where did you go?"
+  > Child: "Out."
+  > Parent: "What did you do?"
   > Child: "Nothing."
 
   Barbie recalls saying this herself in [#37](sandman.37.md).

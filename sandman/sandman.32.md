@@ -186,7 +186,7 @@ Many of the chapters of this storyline have titles taken from songs. Can anyone 
 
   "Rowley" is a reference to an old Mother Goose rhyme:
 
-  > With a Rowley, Powley, Gammon, and Spinach<br>
+  > With a Rowley, Powley, Gammon, and Spinach
   > Heigh-Ho for Anthony Rowley.
 
 ### Page 14
