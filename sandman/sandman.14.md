@@ -275,7 +275,6 @@
 
   The song is "[Wild Thing](https://www.youtube.com/watch?v=gSWInYFVksg)", by the Troggs.
 
-
 ### Page 25
 
 > [marginThumb] ![page 25](thumbnails/sandman.14/page25.jpg)
@@ -318,7 +317,7 @@
 
 - #### left top
 
-  The original script said _"I used to masturbate..."_ but this was changed.  According to The Sandman Companion, Karen Berger told him _"People don't masturbate in the DC Universe."_  This was restored in the Audible version.
+  The original script said _"I used to masturbate..."_ but this was changed. According to The Sandman Companion, Karen Berger told him _"People don't masturbate in the DC Universe."_ This was restored in the Audible version.
 
 - #### middle top.
 

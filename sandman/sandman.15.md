@@ -155,7 +155,7 @@
 
 - #### Panel 5
 
- The "Big-Bad-Wolf-Man" is Fun Land, a serial killer who tried to kill Rose. "The pale stranger" is Dream.
+  The "Big-Bad-Wolf-Man" is Fun Land, a serial killer who tried to kill Rose. "The pale stranger" is Dream.
 
 ### Page 10
 

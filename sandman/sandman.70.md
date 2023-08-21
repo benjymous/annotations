@@ -143,9 +143,7 @@
 
 > [marginThumb] ![page 13](thumbnails/sandman.70/page13.jpg)
 
-- Note that there is no page number.
-
-Note how Eve gets progressively younger. We've seen this happen before in [Season of Mists #3, page 18](sandman.24.md#page-18) and [The Kindly Ones #1](sandman.57.md) page 16.
+- Note how Eve gets progressively younger. We've seen this happen before in [Season of Mists #3, page 18](sandman.24.md#page-18) and [The Kindly Ones #1](sandman.57.md) page 16.
 
 - #### Panel 1
 
@@ -196,10 +194,6 @@ Note how Eve gets progressively younger. We've seen this happen before in [Seaso
 - #### Panel 3
 
   The ring was given to Alex by Rose Walker in [The Kindly Ones #6](sandman.62.md).
-
-### Page 18
-
-> [marginThumb] ![page 18](thumbnails/sandman.70/page18.jpg)
 
 - #### Panel 5
 

@@ -45,7 +45,6 @@
     "Alderdice",
     "Alecto",
     "Aleister",
-    "Alexx",
     "Algoa",
     "Alianora",
     "Alianore",
@@ -115,7 +114,6 @@
     "Averoigne",
     "Avgvst",
     "Avitu",
-    "Awww",
     "Aziraphale",
     "Babd",
     "Bacchante",
@@ -161,7 +159,6 @@
     "Bituah",
     "Bizarro",
     "Bizarros",
-    "blech",
     "Blinken",
     "bloodlust",
     "Blyenberch",
@@ -171,7 +168,6 @@
     "Bonchance",
     "Boneville",
     "booful",
-    "Booful",
     "Boonville",
     "Borghal",
     "bossom",
@@ -187,7 +183,6 @@
     "Brevard",
     "Brobakk",
     "Brookner",
-    "BROWNVM",
     "Bruells",
     "Brujeria",
     "Brust",
@@ -328,6 +323,7 @@
     "Desa",
     "dessine'e",
     "Dickon",
+    "dieth",
     "digg'd",
     "Dimuzi",
     "Dippold",
@@ -581,7 +577,6 @@
     "Hirsch",
     "hissy",
     "Hitchin",
-    "hmmmmmmm",
     "Hobbiton",
     "Hodgson",
     "Hoffmann",
@@ -642,6 +637,7 @@
     "Jarocha",
     "Jasinski",
     "JASINSKI",
+    "Jazzercise",
     "Jeremiel",
     "Jessamy",
     "Jhemon",
@@ -1468,6 +1464,7 @@
     "Winsor",
     "wisewoman",
     "Wissenschaft",
+    "witchmark",
     "Witkin",
     "Woch",
     "Wolfman",
@@ -1506,10 +1503,15 @@
     "Zwanger"
   ],
   "ignoreWords": [
-    "ABAAABAB"
+    "ABAAABAB",
+    "Alexx",
+    "Aww",
+    "benjymous",
+    "blech",
+    "BROWNVM",
+    "hmmmmmmm",
+    "Walkin"
   ],
   "import": [],
-  "files": [
-    "sandman/*.md"
-  ]
+  "files": ["sandman/*.md"]
 }

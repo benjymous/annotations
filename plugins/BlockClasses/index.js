@@ -7,10 +7,16 @@ var applyBlockquoteClass = function (page) {
   $("blockquote").each(function () {
     const blockquote = this;
 
+    const replacement = $("<div></div>");
+
     let addedClass = false;
     $(this)
       .find("p")
       .each(function () {
+        const paragraph = this;
+
+        $(blockquote).remove(paragraph);
+
         var data = $(this).contents()[0].data;
         if (data) {
           var check = data.trim();
@@ -20,14 +26,26 @@ var applyBlockquoteClass = function (page) {
           const m = regex.exec(check);
 
           if (m) {
+
+            const newblock = $("<blockquote></blockquote>");
+            newblock.addClass("classedBlock")
+
+            $(paragraph).wrap(newblock);
+
+            $(replacement).append(newblock);
+
             const val = m[1];
-            $(blockquote).addClass(val);
+            $(newblock).addClass(val);
             $(this).contents()[0].data = data.replace(regex, "");
             addedClass = true;
+
+            replacement.append(newblock);
           }
         }
       });
-    if (addedClass) $(this).addClass("classedBlock");
+    if (addedClass) {
+      $(blockquote).replaceWith(replacement);
+    }
   });
 
   page.content = $.html();

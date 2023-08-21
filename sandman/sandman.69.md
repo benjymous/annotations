@@ -101,7 +101,7 @@
 
 - #### Panel 2
 
-  Lucifer echoes Loki's words to Carla in [60](sandman.60.md):24.2. Mazikeen's line: _"How _**what** comes out?"_
+  Lucifer echoes Loki's words to Carla in [60](sandman.60.md):24.2. Mazikeen's line: _"How **what** comes out?"_
 
 - #### Panel 6
 

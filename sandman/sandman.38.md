@@ -218,6 +218,14 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 - Baba Yaga is a witch from traditional Russian tales. She has iron teeth, lives in a hut which has chicken legs, and flies across the night sky in a mortar which she drives with a pestle. She is a great sorceress and, generally, evil. Baba Yaga, or a facsimile thereof, appears in _Books of Magic_, Book III.
 
+### Page 16
+
+> [marginThumb] ![page 17](thumbnails/sandman.38/page16.jpg)
+
+- #### Panel 5
+
+  This glass heart of an immortal bares an uncanny resemblance to the glass heart Rose handed Unity in [#16](sandman.16.md):14
+
 ### Page 17
 
 > [marginThumb] ![page 17](thumbnails/sandman.38/page17.jpg)
@@ -334,7 +342,7 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 
 ## See also
 
-  Vassily's daughter appeared in an unpublished story, _Marquee Moon_.  More info can be found [here](http://www.blastoffcomics.com/2017/10/hellblazing-under-a-marquee-moon/).
+Vassily's daughter appeared in an unpublished story, _Marquee Moon_. More info can be found [here](http://www.blastoffcomics.com/2017/10/hellblazing-under-a-marquee-moon/).
 
 ## Credits
 
@@ -358,4 +366,4 @@ In "The Hunt", Vassily passes from the comfort of his forest to the unknown outs
 - Andrew KUCHLING <fnord@binkley.cs.mcgill.ca> confirmed the traditional use of asafoetida, disagreed with my interpretation of "true" wolves (saying "true wolves as opposed to the People in wolf form", an interesting interpretation, but not supported, given the mention of "real forests" and "true folk"), and cited nightgaunts.
 - Carl Fink (carlf@panix.com) noted a culinary use of asafoetida. Michael Kelly (mkelly@ovid.helios.nd.edu) noted a psychiatric use of asafoetida.
 - David Henry <dhenry@plains.NoDak.edu> noted the convoluted avoidance of sacred names in curses, noted folklore gestures, and cited dwarrow and nightgaunt.
-- Richard Munn added the note about Marquee Moon.
+- Richard Munn added the note about Marquee Moon, and noted the appearance of the glass heart.

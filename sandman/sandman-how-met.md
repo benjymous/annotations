@@ -9,9 +9,9 @@
 
 > [marginThumb] ![](thumbnails/sandman-how-met/page01.jpg)
 
-- #### Panel 1
+> [floatright width-30pc] ![How They Met Themselves](images/HowTheyMetThemselves.jpg)
 
-> [floatright width-30pc shift-up] ![How They Met Themselves](images/HowTheyMetThemselves.jpg)
+- #### Panel 1
 
   The drawing is "How They Met Themselves" by [Dante Gabriel Rossetti](https://en.wikipedia.org/wiki/Dante_Gabriel_Rossetti) after which this short story is named.
 

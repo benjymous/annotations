@@ -84,15 +84,15 @@
 
   Neil indicates that Shirley Jackson's _We Have Always Lived in the Castle_ and M.R. James' _Ghost Stories of an Antiquary_ were in the script but didn't make it into the panel. He notes that this should help people identify Zelda's short story extract from [Sandman #15](sandman.15.md) and the title of this issue.
 
-  > [audible] The Audible narration adds the above missing books, plus \_A Distant to the stack.
+  > [audible] The Audible narration adds the above missing books, plus _A Distant Mirror_ to the stack.
 
 ### Page 18
 
 > [marginThumb] ![page 18](thumbnails/sandman.16/page18.jpg)
 
-- #### Panel 2-3
+> [floatright width-40pc] ![Original photo of G.K. Chesterton](images/GKChesterton.jpg)
 
-  > [floatright width-40pc shift-up] ![Original photo of G.K. Chesterton](images/GKChesterton.jpg)
+- #### Panel 2-3
 
   We saw Judy, and the massacre, in [Sandman #6](sandman.06.md). We will see Donna in a later storyline.
 
@@ -124,7 +124,7 @@
 
 - #### Panel 6
 
-  > [oops] Earlier editions say "..a fox's _set_ in the wood" - A fox's "set" is hunter's jargon for a den.  It is therefore unusual for Jed to use it, and later edits agree, changing it to "..a fox's _den_..."
+  > [oops] Earlier editions say "..a fox's _set_ in the wood" - A fox's "set" is hunter's jargon for a den. It is therefore unusual for Jed to use it, and later edits agree, changing it to "..a fox's _den_..."
 
 ### Page 21
 

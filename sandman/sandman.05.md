@@ -143,7 +143,7 @@
 
 - #### Panel 4
 
-  [Hermeticism](https://en.wikipedia.org/wiki/Hermeticism) is a system of beliefs based on the teachings of Hermes Trismegistus, a mythical figure who combined the aspects of the Greek god Hermes and the Egyptian god Thoth. It involves topics such as magic, astrology, alchemy, and spiritual development. 
+  [Hermeticism](https://en.wikipedia.org/wiki/Hermeticism) is a system of beliefs based on the teachings of Hermes Trismegistus, a mythical figure who combined the aspects of the Greek god Hermes and the Egyptian god Thoth. It involves topics such as magic, astrology, alchemy, and spiritual development.
 
 ### Page 17
 

@@ -16,12 +16,9 @@
 >
 > For the Absolute edition, Colleen got to re-ink the artwork herself, and so the vastly improved version is used for all modern versions.
 
-<br>
-
 > [flex cols-2] ![George Pratt version](images/BadMoonPratt.jpg) ![Colleen Doran Version](images/BadMoonDoran.jpg)
 
 George Pratt's version on the left - Colleen Doran's re-inked version on the right.
-
 
 ### Page 1
 

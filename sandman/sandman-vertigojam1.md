@@ -7,14 +7,13 @@
 
 **Note**: One of the few times The Sandman isn't lettered by Todd Klein.
 
-
 ### Page 1
 
 > [marginThumb] ![page 1](thumbnails/sandman-vertigojam1/page01.jpg)
 
 - #### Panels 1-3
 
-  Anyone fancy taking a stab at analyzing this dream?  Attacked by giant faceless (brainless?) women ridden by wolves?
+  Anyone fancy taking a stab at analyzing this dream? Attacked by giant faceless (brainless?) women ridden by wolves?
 
 ### Page 2
 
@@ -22,7 +21,7 @@
 
 - #### Panel 5
 
-  Everyone has a book inside them.  And so everyone has a book in Lucien's Library.
+  Everyone has a book inside them. And so everyone has a book in Lucien's Library.
 
 - #### Panel 6
 

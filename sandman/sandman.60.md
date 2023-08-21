@@ -35,7 +35,6 @@
 
 > [marginThumb] ![page 05](thumbnails/sandman.60/page05.jpg)
 
-
 - #### Panel 2
 
   [Correct](sandman.27.md#page-10)
@@ -128,7 +127,7 @@
 
   It should also be noted that Roseanne itself referenced back to The Sandman:
 
-> [flex cols-2] ![Sandman posters in Darlene's bedroom](images/Roseanne-1.jpg) ![David wearing a Sandman T-Shirt](images/Roseanne-2.jpg)
+  > [flex cols-2] ![Sandman posters in Darlene's bedroom](images/Roseanne-1.jpg) ![David wearing a Sandman T-Shirt](images/Roseanne-2.jpg)
 
 ### Page 16
 

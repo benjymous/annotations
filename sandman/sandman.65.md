@@ -153,7 +153,7 @@
 
   _"They can kill you, but **we** can kill you worse"_ : this is a chapter title from [R.A. Lafferty’s, 'Fourth Mansions'](https://en.wikipedia.org/wiki/Fourth_Mansions), which may in itself be a quotation from elsewhere.
 
-   In this case, "They" meaning the Kindly Ones, presumably.
+  In this case, "They" meaning the Kindly Ones, presumably.
 
 - #### Panel 3
 

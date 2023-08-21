@@ -160,7 +160,7 @@
 
   **Michael Eisner** is head of Disney Studios. **Michael Ovitz** is a high-powered agent and deal-maker, called _"The most powerful man in Hollywood"_ by _Newsweek_ magazine.
 
-  Lucifer, here, has ticked off some more of his [Bucket List](sandman.23.md#page-20), having built a house (well, a bar), and learnt to play the piano.   No sign of any dancing though.
+  Lucifer, here, has ticked off some more of his [Bucket List](sandman.23.md#page-20), having built a house (well, a bar), and learnt to play the piano. No sign of any dancing though.
 
 - #### Panel 4
 
@@ -209,6 +209,7 @@
 - #### Panel 6
 
   The song is called _"Sit Down, You're Rocking the Boat"_. It's from the musical _"Guys and Dolls"_; music and lyrics by Frank Loesser. Two notable lines not quoted:
+
   > "And the Devil will drag you under
   >
   > By the sharp lapel on your checkered coat".

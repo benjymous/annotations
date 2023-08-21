@@ -213,6 +213,7 @@
   Thus spoke <emble@aol.com>:
 
   > Mazikeen, or Shedeem.
+  >
   > A species of beings in Jewish mythology resembling the Arabian Jinn said to be agents of magic and enchantment. When Adam fell, says the Talmud, he was excommunicated for 130 years, during which time he begat demons and spectres.
   >
   > There's a sub-entry:

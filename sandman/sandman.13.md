@@ -333,7 +333,7 @@ Neil Gaiman visited Perth in April 1996, and said there was a major anachronism 
 
 - #### Panel 4
 
-  Lovely slang here.  According to [Green's Dictionary of Slang](https://greensdictofslang.com/entry/e2a67va), **chickaleary** is an adjective that means **artful, knowing**. It is usually used as chickaleary cove, which means **an artful, knowing, 'clever' fellow**. The word may have originated from a combination of cheeky, leery and cove, and was popularized by a music-hall song.
+  Lovely slang here. According to [Green's Dictionary of Slang](https://greensdictofslang.com/entry/e2a67va), **chickaleary** is an adjective that means **artful, knowing**. It is usually used as chickaleary cove, which means **an artful, knowing, 'clever' fellow**. The word may have originated from a combination of cheeky, leery and cove, and was popularized by a music-hall song.
 
 - #### Panel 5
 

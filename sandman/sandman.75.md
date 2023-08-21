@@ -83,13 +83,13 @@ Note: The full script to this issue was published in The Deluxe Edition book fiv
 
 > [marginThumb] ![page 11](thumbnails/sandman.75/page11.jpg)
 
+> [floatright width-40pc] ![Benjamin Jonson by Abraham van Blyenberch](images/BenjaminJonson.jpg)
+
 - #### Panel 1
 
   Act I Scene 2, Line 56.
 
 - #### Panel 4
-
-  > [floatright width-40pc shift-up] ![Benjamin Jonson by Abraham van Blyenberch](images/BenjaminJonson.jpg)
 
   [Ben Jonson](https://en.wikipedia.org/wiki/Ben_Jonson) was a contemporary and a friend of Shakespeare who loved him and honored his memory as the star of poets but also criticized him for his lack of art and disregard for the Classical rules.
 

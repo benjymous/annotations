@@ -225,7 +225,6 @@
 
   So that's why there's bad blood I guess. Not between Morpheus and all incarnations of the Three (well…), but the Hecateae specifically. How and where he should have helped—who knows, but god(esses) are born and die in the Dreaming, so to speak, so it would probably always be possible to find a connection that way. It was probably just to tie everything that was happening in the wider DC Universe at the time together.
 
-
 ### Page 21
 
 > [marginThumb] ![page 21](thumbnails/sandman.02/page21.jpg)

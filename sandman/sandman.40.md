@@ -158,7 +158,9 @@ Last year he had Jill do him a sketch of Death, and then he sent a copy of it to
 
 ### Page 10-11
 
-A two-page spread. Cain's information on rooks is accurate.
+> [marginThumb] ![page 10-11](thumbnails/sandman.40/page10-11.jpg)
+
+- A two-page spread. Cain's information on rooks is accurate.
 
 - #### Panel 3
 

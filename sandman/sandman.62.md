@@ -103,7 +103,7 @@
 
 - #### Panel 4
 
-  "[Blockbusters](https://en.wikipedia.org/wiki/Blockbusters_(British_game_show))" was a long-running TV show in the 80s and 90s hosted by Bob Holness.
+  "[Blockbusters](<https://en.wikipedia.org/wiki/Blockbusters_(British_game_show)>)" was a long-running TV show in the 80s and 90s hosted by Bob Holness.
 
   They test whether 2 heads are better than one, by having a team of one play against a team of two. (NB. 3 contestants).
 
