@@ -159,6 +159,15 @@
 
   Dream's brother is the prodigal Endless, who has been mentioned before, although his identity will not be revealed until [_Sandman_ Special #1](sandman-special1.md). His location has not been revealed.
 
+
+### Page 20
+
+> [marginThumb] ![page 19](thumbnails/sandman.26/page20.jpg)
+
+- #### Panel 7
+
+  > [audible] The Audible version makes it clear here that Matthew didn't so much take the balloon, as have it thrust upon him.
+
 ### Page 24
 
 > [marginThumb] ![page 24](thumbnails/sandman.26/page24.jpg)
@@ -172,3 +181,4 @@
 - Michael Bowman <mbowman@andromeda.rutgers.edu> researched Cluracan and also found more on Mjolnir.
 - Jim W Lai <jwtlai@jeeves.waterloo.edu> noticed an angelic smile, gave more thought to the portrayal of the Shinto god, and observed the Key to Hell's apparent changes.
 - Mike Collins, The One and Only Killans, (mcollins@isis.cs.du.edu) gave forth with great eloquence upon the origin and meaning of "pooey man".
+- Richard Munn Noted the way in which Matthew obtained a balloon.

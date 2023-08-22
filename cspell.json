@@ -738,6 +738,7 @@
     "Latour",
     "LAVATCH",
     "laylah",
+    "leatherbound",
     "Leialoha",
     "Leib",
     "Lenning",
@@ -1513,5 +1514,7 @@
     "Walkin"
   ],
   "import": [],
-  "files": ["sandman/*.md"]
+  "files": [
+    "sandman/*.md"
+  ]
 }

@@ -136,9 +136,19 @@
 
   The skull in Dream's souvenir chest is that of the Corinthian, from _The Doll's House_. Note the penny: There is a giant penny in Batman's Batcave, a souvenir of one of his early cases, although it is unlikely that Dream would have a copy.
 
+  > [audible] The Audible narration lists the contents as:
+  >
+  > - A small square leatherbound box,
+  > - A ring,
+  > - A coin,
+  > - An old fashioned pocket watch,
+  > - A human skull possessing two mouths with tiny teeth where its eye sockets should be.
+
+  The leatherbound box seems to have gone so far unmentioned - does that have relevance to other events?
+
   <jurph@gondor.org> says:
 
-  > The city in a bottle is indeed Baghdad ("Ramadan") and the pocket watch belongs to Prez ("The Golden Boy", world's end #5), as seen on page 24, panel 2. Its history is given in the preceding few pages.
+  > The city in a bottle is indeed Baghdad ("[Ramadan](sandman.50.md)") and the pocket watch belongs to Prez ("[The Golden Boy](sandman.54.md)", world's end #5), as seen on page 24, panel 2. Its history is given in the preceding few pages.
   > There is also a tankard shown. Perhaps this is the tankard Dream first drank from when meeting Hob Gadling?
 
 ### Page 22
@@ -167,3 +177,4 @@
 - Michael Bowman <mbowman@andromeda.rutgers.edu> checked Veratyr, Niddhogg, and corrected one of my page numbers.
 - Jim W Lai <jwtlai@jeeves.waterloo.edu> spotted a previous appearance of Faceless, Thor's headache, and the Corinthian's skull.
 - <jurph@gondor.org> noticed the bottled city and pocket watch
+- Richard Munn noted the description of the chest given on Audible, notably the leatherbound box, which has previously gone unmentioned.
