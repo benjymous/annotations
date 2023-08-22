@@ -185,6 +185,13 @@
 
   Another new power of Morpheus. By this time we should mostly be aware that he can affect reality in any way he chooses, subject only to the writer's whims; he can be thwarted only by other beings with similar levels of power.
 
+  > [audible] In the Audible version, Morpheus utters a word here: _Aprité_.
+  >
+  > Dirk Maggs explains:
+  >
+  > _You've spotted an Easter Egg that originated in our audio NEVERWHERE. I needed a word for Door to use as a spell to open things, The Latin word was "Aprire". At the table read Natalie Dormer said it. Christoper Lee interrupted: "That should be 'Aprité."_
+  > _I wasn't going to argue._
+
 ### Page 14
 
 > [marginThumb] ![page 14](thumbnails/sandman.03/page14.jpg)
@@ -245,6 +252,10 @@
 
   Constantine is singing the song from page 3.
 
+  The end of this issue has a brief overlap with Hellblazer #19:
+
+  > [flex cols-2] ![End of Sandman #3](images/SandmanHellblazerOverlap1.jpg) ![Beginning of Hellblazer 19](images/SandmanHellblazerOverlap2.jpg)
+
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
@@ -254,3 +265,4 @@
 - Steve Murray <SXM101@psuvm.psu.edu> speculated on Constantine's not opening the pouch.
 - Aaron Bibb added the annotation to page 22, panel 5.
 - Richard Munn added the Radio 1 and Zappa references, fixed the Mad Hettie reference, and tried (and failed) to do more research on "creepers".
+- /u/PonyEnglish noted the Neverwhere easter egg, and the overlap with Hellblazer 19
