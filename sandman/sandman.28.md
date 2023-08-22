@@ -42,7 +42,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
   Dream appears in his Kai'ckul guise for his dinner with Nada.
 
-  Note also the amazing appearing/disappearing candelabra, which may be seen in page 4 panels 3 and 4 and page 5 panel 3, but which is missing in this panel, page 4 panel 5, page 5 panel 5, page 7 panel 5 and page 8 panel 5.
+  > [oops] Note also the amazing appearing/disappearing candelabra, which may be seen in page 4 panels 3 and 4 and page 5 panel 3, but which is missing in this panel, page 4 panel 5, page 5 panel 5, page 7 panel 5 and page 8 panel 5.
 
 ### Page 4
 
@@ -50,7 +50,7 @@ The third & fourth character are to be read together to mean "baby", all four ch
 
 - #### Panel 5
 
-  **The Chinese characters mean**:
+  The Chinese characters mean:
 
   - lake (hu)
   - dragon (long) [albeit not very accurately written]

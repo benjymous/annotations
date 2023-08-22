@@ -9,7 +9,7 @@
 
 .markdown-section blockquote {
   margin: 0;
-  margin-bottom: 0.85em;
+  margin-bottom: 2em !important;
   padding: 0 15px;
   color: #333333;
   border-left: 4px solid #ddd;
@@ -28,7 +28,7 @@ img {
 
 .flex .floatright .marginThumb {
   background: none !important;
-  margin: none;
+  margin: none !important;
   padding: none;
   border: none !important;
 }

@@ -1,7 +1,7 @@
 var insertBlockLines = function (page) {
   var str = page.content;
 
-  var result = str.replace(/^(\s*)>(.+)$/gm, "$&<br/>");
+  var result = str.replace(/^(\s*)>(.*)$/gm, "$&<br/>");
 
   page.content = result;
 

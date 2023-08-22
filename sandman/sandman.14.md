@@ -281,11 +281,11 @@
 
 - #### Panel 5
 
-> [audible] The Audible version tells us the note reads simply:
->
-> I am sorry.
->
-> -- G
+  > [audible] The Audible version tells us the note reads simply:
+  >
+  > I am sorry.
+  >
+  > -- G
 
 ### Page 26
 

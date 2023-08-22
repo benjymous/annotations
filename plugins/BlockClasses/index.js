@@ -12,30 +12,28 @@ var applyBlockquoteClass = function (page) {
     const replacement = $("<div></div>");
 
     let addedClass = false;
-
     let currentBlock = undefined;
     $(this)
-      .find("p")
+      .children()
       .each(function () {
+        const childElement = this;
+        $(blockquote).remove(childElement);
 
-        const paragraph = this;
+        var data = $(childElement).contents()[0].data;
 
-        $(blockquote).remove(paragraph);
-
-        var data = $(this).contents()[0].data;
+        let hadClass = false;
 
         if (data) {
           var check = data.trim();
 
           const m = regex.exec(check);
           if (m) {
-
             const newblock = $("<blockquote></blockquote>");
-            newblock.addClass("classedBlock")
+            newblock.addClass("classedBlock");
 
             currentBlock = newblock;
 
-            $(paragraph).wrap(newblock);
+            $(childElement).wrap(newblock);
 
             $(replacement).append(newblock);
 
@@ -43,17 +41,14 @@ var applyBlockquoteClass = function (page) {
             $(newblock).addClass(val);
             $(this).contents()[0].data = data.replace(regex, "");
             addedClass = true;
+            hadClass = true;
 
             replacement.append(newblock);
-          } else {
-            if (currentBlock) {
-              currentBlock.append(paragraph);
-            }
           }
-        } else {
-          if (currentBlock) {
-            currentBlock.append(paragraph);
-          }
+        }
+
+        if (currentBlock && !hadClass) {
+          currentBlock.append(childElement);
         }
       });
     if (addedClass) {
