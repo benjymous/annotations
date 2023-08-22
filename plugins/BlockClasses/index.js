@@ -1,5 +1,7 @@
 var cheerio = require("cheerio");
 
+const regex = /^\[(.+)\]/gm;
+
 var applyBlockquoteClass = function (page) {
   var $ = cheerio.load(page.content);
 
@@ -10,25 +12,28 @@ var applyBlockquoteClass = function (page) {
     const replacement = $("<div></div>");
 
     let addedClass = false;
+
+    let currentBlock = undefined;
     $(this)
       .find("p")
       .each(function () {
+
         const paragraph = this;
 
         $(blockquote).remove(paragraph);
 
         var data = $(this).contents()[0].data;
+
         if (data) {
           var check = data.trim();
 
-          const regex = /^\[(.+)\]/gm;
-
           const m = regex.exec(check);
-
           if (m) {
 
             const newblock = $("<blockquote></blockquote>");
             newblock.addClass("classedBlock")
+
+            currentBlock = newblock;
 
             $(paragraph).wrap(newblock);
 
@@ -40,6 +45,14 @@ var applyBlockquoteClass = function (page) {
             addedClass = true;
 
             replacement.append(newblock);
+          } else {
+            if (currentBlock) {
+              currentBlock.append(paragraph);
+            }
+          }
+        } else {
+          if (currentBlock) {
+            currentBlock.append(paragraph);
           }
         }
       });
