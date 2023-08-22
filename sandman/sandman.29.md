@@ -169,7 +169,9 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 
 - #### Panel 8
 
-  No ref for D'Eglantine. Danton was an important early figure in the Revolution who was purged in the Terror. Germinal is another month name.
+  **[Fabre d’Églantine](https://en.wikipedia.org/wiki/Fabre_d%27%C3%89glantine)** was a French actor, poet, dramatist and politician who lived in the 18th century. As mentioned by St Just, he devised the revolutionary calendar, and voted for the execution of King Louis XVI. He was accused of corruption and conspiracy and guillotined in 1794.
+
+  **[Georges Danton](https://en.wikipedia.org/wiki/Georges_Danton)** was a French lawyer and a leader of the French Revolution. He was known for his powerful speeches and his role in overthrowing the monarchy. He was also a friend and later a rival of Robespierre, who had him sent to the guillotine.
 
 ### Page 12
 
@@ -296,6 +298,7 @@ This note also indicates that Simon Schama's _History of the French Revolution_ 
 - Rick Jones (No, not the imaginary one) <albert@crick.ssctr.bcm.tmc.edu> confirmed the existence of Montmarat and added information about Defarge.
 - Kenneth Freeman (kfree@fatcity.cts.com) added some information on pomanders.
 - The Secret Man (tsm@access.digex.com) also speaks of pomanders, and adds some Poe.
+- Richard Munn updated some revolutionary references.
 
 ## Appendix I:
 
