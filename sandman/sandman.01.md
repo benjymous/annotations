@@ -205,6 +205,12 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 
 > [marginThumb] ![page 26](thumbnails/sandman.01/page26.jpg)
 
+- #### Panel 4
+
+  The man on the right, with the bare arms, who we'll discover is named _Frederick_ on the next page, was [confirmed by Neil](https://bsky.app/profile/abogadowho.bsky.social/post/3k5ksu2ippu2f) to be a reference to Fred Flintstone, from the 1960s animated sitcom _The Flintstones._
+
+  > [flex cols-2] ![Sandman's Frederick](images/SandmanFred.jpg) ![Fred Flintstone](images/FredFlintstone.jpg)
+
 - #### Panels 5-6
 
   The Sun is a British tabloid newspaper that has been published since 1964. It is known for its sensationalist headlines, celebrity gossip, and political scandals. One of its most controversial features was Page 3, which started in 1970 and featured topless or nude photos of female models on the third page of the paper. Page 3 was seen as a symbol of British culture by some, but also as a source of sexism and objectification by others. It faced many protests and campaigns to end it, and was eventually discontinued in 2015.
@@ -303,3 +309,4 @@ Another _possible_ Elvis Costello influence is the title to Sandman #1 - there I
 - Ralf Hildebrandt added a note about the title, the connection between Unity and Desire, more info about the Yellow Pages and lots more details and edits.
 - Richard Munn confirmed the T.S. Eliot quote, updated the references to Paul's Return, noted the mirroring in the first and last panels, added the note about The Sun, and added some details given in the Audible version.
 - /u/PonyEnglish pointed out the Henry Treece reference.
+- @abogadowho.bsky.social spotted the Fred Flintstone visual reference.
