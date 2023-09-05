@@ -24,6 +24,8 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
   **Hedge wizard**: A "hedge priest/parson" is a vagabond or illiterate clergyman. _Brewer's Phrase and Fable_ identifies hedge wizards as "persons of low origin, vagabonds who ply their trade in the open, under--or between--the hedges, etc." A hedge wizard is therefore a poor wizard.
 
+## _Chapter 1_
+
 ### Page 2
 
 > [marginThumb] ![](thumbnails/sandman-special1/page02.jpg)
@@ -99,6 +101,8 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 - #### Panel 1
 
   Why does Dream not dance? Because he is a stick-in-the-mud, too concerned with appearance and dignity to relax.
+
+## _Chapter 2_
 
 ### Page 13
 
@@ -202,6 +206,8 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
   Tainaro ("Taenarum"! Good heavens!) is indeed the southern point of Europe, islands excluded
 
+  ## _Chapter 3_
+
 ### Page 25
 
 > [marginThumb] ![](thumbnails/sandman-special1/page25.jpg)
@@ -290,6 +296,8 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
   Note that this is different than the "standard" explanation. People usually attribute Orpheus' behavior to impatience, lust, or curiosity. Lord, what fools these mortals be!
 
+## _Chapter 4_
+
 ### Page 39
 
 > [marginThumb] ![](thumbnails/sandman-special1/page39.jpg)
@@ -329,6 +337,8 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 > [marginThumb] ![](thumbnails/sandman-special1/page46.jpg)
 
 - Traditionally, Orpheus died after being torn apart by the Bacchante. His head floated down the river Hebrus to the island Lesbos. His lyre was made (by Apollo) the constellation of Lyra.
+
+## _Epilogue_
 
 ### Page 47
 
