@@ -88,6 +88,16 @@
 
 ## 3: _Who Controls Transportation?_
 
+### Page 6
+
+> [marginThumb] ![page 06](thumbnails/sandman.43/page06.jpg)
+
+- #### Panel 1
+
+  Dream and Delirium can be seen here crossing the O'Connell Bridge over the river Liffey in Dublin - it's clearly drawn from photo reference.
+
+  > [flex cols-2] ![The O'Connell Bridge in #43](images/OConnellBridgeDublinSandman.jpg) ![Roughly the same view in real life](images/OConnellBridgeDublin.jpg)
+
 ### Page 8
 
 > [marginThumb] ![page 08](thumbnails/sandman.43/page08.jpg)
@@ -164,6 +174,10 @@
 
   Clement of Alexandria attributed an anti-Jewish tract to him that was actually written much later. Barnabas is from Hebrew "son of exhortation".
 
+- #### Panel 5
+
+  > [audible] There is no mention of his breed in the original comic, but the Audible version describes him as a _Labrador - Border Collie cross_.
+
 ### Page 19
 
 > [marginThumb] ![page 19](thumbnails/sandman.43/page19.jpg)
@@ -183,6 +197,8 @@
 - #### Panel 2
 
   **Aeroplane**: an archaic or British spelling of "airplane".
+
+  > [audible] This was changed to _airplane_ in the Audible version.
 
 ### Page 21
 
@@ -222,6 +238,7 @@
 - Ron Dippold (rdippold@qualcom.qualcomm.com) and Lance Smith identified Barnabas.
 - Marx (cmarx@aal.itd.umich.edu), Colonel G.L. Sicherman (gls@windmill.att.com), David Goldfarb (goldfarb@ocf.berkeley.edu), D.W. James (vnend@Princeton.EDU), Dave McQueen (mcqueen@acf4.NYU.EDU), Andrew Ducker <adu@compsci.stirling.ac.uk>, Subrata Sircar (ssircar@canon.com), and Bill Sherman (sherman@math.ucla.edu) and his lovely young tankgirl identified the Shakespeare quote. Lance Smith defined "dogs".
 - Andrew Ducker also found Atlantis references in BoM and noted the origin of sadism and the British spelling of "airplane". R.J.Johnston (R.J.Johnston@newcastle.ac.uk) also noted spelling intricacies.
+- Richard Munn found photo reference for the opening Dublin panels, and noted some things from the Audible version.
 
 ## Appendix: Antony's soliloquy, from Act Three Scene 1 of _Julius Caesar_, by William Shakespeare:
 
