@@ -75,6 +75,8 @@
     "Apollodorus",
     "Aponoia",
     "appelation",
+    "Aprire",
+    "Aprité",
     "Aquaman",
     "Aragones",
     "Aramaeans",
@@ -252,6 +254,7 @@
     "Chih",
     "Chimblies",
     "Chinatowns",
+    "Chocco",
     "Chordettes",
     "Chorley",
     "Choronzon",
@@ -299,6 +302,7 @@
     "Cupertino",
     "Cusack",
     "Cuyer",
+    "d’Églantine",
     "Dadd",
     "daffidyls",
     "Dahmer",
@@ -973,6 +977,7 @@
     "Opticks",
     "Optimus",
     "Orczy",
+    "Oreos",
     "Orestia",
     "originatrix",
     "orinst",
@@ -991,6 +996,7 @@
     "Pajunen",
     "palavra",
     "paranomasiac",
+    "parasomnia",
     "Paree",
     "Parkhouse",
     "Partasah",
@@ -1508,14 +1514,20 @@
     "ABAAABAB",
     "Alexx",
     "Aww",
+    "Awww",
+    "BROWNVM",
+    "Gargus",
+    "Maggs",
+    "Quen",
+    "Sapowski",
+    "Walkin",
+    "Zomby",
+    "abogadowho",
     "benjymous",
     "blech",
-    "BROWNVM",
-    "hmmmmmmm",
-    "Walkin"
+    "bsky",
+    "hmmmmmmm"
   ],
   "import": [],
-  "files": [
-    "sandman/*.md"
-  ]
+  "files": ["sandman/*.md"]
 }
