@@ -284,8 +284,7 @@ Note what we can see in the background.
 - Jacob Levy <ST802099@brownvm.brown.edu> differed, saying that "Yid" was not negative in context.
 - William Sherman also pointed out the identification of Death with the angel Uriel.
 - Tom White, Rob Bakie <slinkie@milton.u.washington.edu>, Viktor Haag <vehaag@crocus.waterloo.edu> and Connie Hirsch identified the Doors quote.
-- Connie also recalled the Sunless Lands. Zeeshan Hasan
-- <zeeshan@occs.cs.oberlin.edu> related the Sunless Lands to Gilgamesh.
+- Connie also recalled the Sunless Lands. Zeeshan Hasan <zeeshan@occs.cs.oberlin.edu> related the Sunless Lands to Gilgamesh.
 - Viktor also confirmed the London origin of "booful".
 - Jim W Lai <jwtlai@watcgl.waterloo.edu> found the song to Death.
 - Many people corrected a major typo in the archive. Ravi Thiagarajan <sthiagar@bronze.ucs.indiana.edu> corrected a minor typo as well.
