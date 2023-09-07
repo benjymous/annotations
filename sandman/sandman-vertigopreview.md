@@ -38,7 +38,7 @@
 
 - #### Panel 4
 
-  St. Patrick's Cathedral: A New York Roman Catholic church? Many Catholic churches have so-called "parochial" (from "parish") schools for their members.
+  [St. Patrick's Cathedral](https://www.saintpatrickscathedral.org/): A New York Roman Catholic church.  Many Catholic churches have so-called "parochial" (from "parish") schools for their members.
 
 ### Page 4
 
@@ -52,9 +52,13 @@
 
 > [marginThumb] ![](thumbnails/sandman-vertigopreview/page05.jpg)
 
-- #### Panel 6
+- #### Panel 4
 
   Note the F on Todd Faber's shirt.
+
+- #### Panel 6, 7
+
+  This is a description of Sleep Paralysis - a condition where you are awake but cannot move or speak while waking up or falling asleep. It may also cause hallucinations or a feeling of suffocation. It is a type of parasomnia, which are abnormal behaviors during sleep. It is not harmful, but it can be scary. It affects about 8% of the general population, but it is more common in people with narcolepsy, anxiety, or irregular sleep patterns.
 
 ### Page 9
 
@@ -72,6 +76,11 @@
 
   Obviously, Todd's play is allegorical, with all his various characters standing as symbols. God is the traditional Judeo-Christian father-deity; Sappho was a female Greek poet from the island Lesbos, and the inspiration for the term Lesbian; The Hanged Man is one of the Major Arcana from the Tarot deck, signifying spiritual growth and passage or the reverse, depicted as a man hanging upside-down in a "yoga-like" posture, a man with no apparent fear of falling; and The Slave of the Lamp is the genie from the Aladdin myth.
 
+- #### Panel 6
+
+  On the subject of the third option, in Douglas Adams' _Life, The Universe, and Everything_, (the third Hitchhiker's Guide book) it is said that:
+  > "There is an art to flying, or rather a knack. The knack lies in learning how to throw yourself at the ground and miss."
+
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
@@ -81,3 +90,4 @@
 - Jonathan Petersen <jcp@trident.usacs.rutgers.edu> corrected my reference to the Tarot.
 - Timothy Hock Seng Tan: the best page number counter there is.
 - Ralf Hildebrandt added more details and made edits
+- Richard Munn noted Todd's childhood sleep paralysis, and noted the possible Hitchhiker's Guide reference.
