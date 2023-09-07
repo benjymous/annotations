@@ -128,9 +128,7 @@
 
 - #### Panel 4
 
-  The female servitor may be another person pulled in from the Dreaming, as in _Season of Mists_, or she may be the Fashion Thing.
-
-  This latter is suggested by the eyepatch (as seen on the other eye in [2:15](sandman.02.md#page-14-15).1).
+  > [audible] The female servitor with an eyepatch here is described in the Audible version as _"A bare breasted Egyptian Queen with an eyepatch"_, so it isn't The Fashion Thing, as previously suspected.
 
 ### Page 15
 
@@ -145,7 +143,9 @@
 
 - #### Panel 4
 
-  **Squidging**: Childish slang for squeezing. Note this balloon should be multicolored.
+  **Squidging**: Childish slang for squeezing.
+
+  > [oops] Another balloon that was miscolored in early editions - it is multicolored in later ones.
 
 - #### Panel 9
 
