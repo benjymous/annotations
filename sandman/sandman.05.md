@@ -37,6 +37,8 @@
 
   He might have the rope going down his shirt and tied around his waist. They did this in the movie "Heathers."
 
+- As noted in a [Rolling Stone interview](https://www.rollingstone.com/tv-movies/tv-movie-features/neil-gaiman-sandman-season-2-release-good-omens-calliope-1234580270/) in 2022, Neil originally intended these pages to feature The Joker, but it had to be changed at the last minute due to The Joker being "dead" (for continuity reasons.)
+
 - #### Panel 7
 
   The materioptikon was described in an earlier annotation.
@@ -83,6 +85,10 @@
 
   OK, so we know her name is Rosemary. Later we find out that her last name is Kelly. It's not going to matter very long....
 
+- #### Panel 5
+
+  **[Night of the Living Dead](https://www.imdb.com/title/tt0063350/)** is a cult John Romero zombie movie from 1968. **[Zomby Woof](https://www.youtube.com/watch?v=uUrw_bJ9MSU)**, however isn't a movie, it's a Frank Zappa song.
+
 ### Page 13
 
 > [marginThumb] ![page 13](thumbnails/sandman.05/page13.jpg)
@@ -102,6 +108,8 @@
 - #### Panel 5
 
   Morpheus takes a different form and is recognized under a different name, L'Zoril, by the Manhunter, who is really from Mars. This is really the first, and possibly the strongest, proof we have to date that Dream has been known to all cultures and all times. Note that Mister Miracle does not react badly to the appearance of a giant flaming skull in the hallway beside him; this is a good clue that Morpheus has little or no real physical presence, but is instead perceived according to the preconceptions of the viewer. Thus, the Manhunter perceives him as his historical god of dreams, while most Westerners, who have little mythological preparation for him, perceive him as a thin, pale human (someone who stays inside all day, perhaps writing or doing something else creative). Note that Grant Morrison's visage in _Animal Man_ resembled Morpheus quite closely.
+
+  It's also worth noting Morpheus's response here - "I thought your kind were eons-gone." This tells us that Morpheus is not Omnipotent - presumably J'onn still dreams, and so must still regularly enter the Dreaming, but that has not been noticed my Morpheus's conscious side.
 
 ### Page 15
 
@@ -129,9 +137,13 @@
 
   However, if we turn to Shakespeare, _The Merry Wives of Windsor_, Act IV, Scene 1, lines 42-46 we see a comic routine on, among other things, the "focative" case, with wordplay involving carets (referring to the phallic shape of a carrot) and roots. In other words, Shakespeare is punning on "fuck" (whose etymology makes interesting, if inelegant, dinner conversation). In this context, it appears that Dream is giving J'onn permission to have an erotic dream--especially frustrating for the last survivor of an entire species! Giving Gaiman's known Shakespearean leanings, this may very well be the interpretation he meant.
 
+  > [floatright width-40pc] !['Panel from JLI#8 - J'onn discusses his love of Oreos with a delivery man.'](images/MartianManhunterOreos.jpg)
+
 - #### Panel 5
 
-  The new and allegedly funny Justice League series have established that J'onn enjoys Oreo™ cookies.
+  The late 80s Justice League comics established that J'onn enjoys Oreo™ cookies, after being introduced to him by Captain Marvel. These were later retconned to be "Chocco cookies", presumably for legal reasons.
+
+  [This article on CBR](https://www.cbr.com/justice-league-martian-manhunter-oreos-chocos/) discusses this further.
 
 ### Page 16
 
@@ -178,4 +190,6 @@
 - Jacob Levy <ST802099@BROWNVM> objected to my dismissal of the possible existence of Gotham, the State.
 - Ralf Hildebrandt added more details.
 - <Kull29@aol.com> added more details about the origin of Gotham.
-- Richard Munn added the note on Hermeticism.
+- Richard Munn added the note on Hermeticism, noted the Drive Thru movie signs, and updated the Oreos reference.
+- /u/Gargus-SCP found the Rolling Stone interview mentioning the switch from The Joker to The Scarecrow.
+- /u/Sapowski_Casts_Quen noted Morpheus's lack of omnipotence.
