@@ -350,6 +350,14 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 
   This issue also contains a family album of sorts, with full page illustrations of the Endless and several denizens of the Dreaming.
 
+### Page 48
+
+> [marginThumb] ![page 48](thumbnails/sandman-special1/page48.jpg)
+
+- #### Panel 7-9
+
+  More Parallelism with Orpheus's earlier story
+
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
@@ -367,3 +375,4 @@ This issue was published with a glow-in-the-dark cover. The non-glowing portion 
 - Jim W Lai <jwtlai@jeeves.uwaterloo.ca> wondered about Desire's involvement in Orpheus' tragedy, helped support _my_ position on the hippogriff controversy, identified the triple caryatid, spotted details of Death's flat, watched Death's chest, identified the golden bough, reported Graves' Bacchae hypothesis, talked about Greek tunes, the way to a man's liver, and complained about the alleged alternation of Greek and Roman names.
 - Carl Fink (carlf@panix.com) speculated about Eurydice's hair.
 - Ralf Hildebrandt added more details.
+- Richard Munn noted the significance of the last three panels.
