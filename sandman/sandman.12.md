@@ -24,6 +24,7 @@
 - #### Panel 4
 
   The buttocks and upper thighs of a woman wearing lingerie; a stegosaurus; Albert Einstein; Groo the Wanderer (from the comic book); an op-art piece; the Statue of Liberty; Friedrich Nietzche; Sigmund Freud; Neil Gaiman (no, it's not Ric Ocasek); an unidentified hand and arm; an unidentified woman; Judge Dredd (from the English comic book); another unidentified person; a possibly Satanic figure.
+
   Hand and arm remind vaguely of detail in Picasso's _Guernica_.
 
 - #### Panel 6
@@ -60,7 +61,7 @@
 
 - #### Panel 1
 
-  The last few issues of the 1970's _Sandman_ (not writted by Jack Kirby) had Jed's grandfather dying, and the boy moving in with an abusive aunt and uncle, and their even lower children. So the first appearance of Barnaby and Clarice would be in that _Sandman_, #5 or #6.
+  The last few issues of the 1970's _Sandman_ (not written by Jack Kirby) had Jed's grandfather dying, and the boy moving in with an abusive aunt and uncle, and their even lower children. So the first appearance of Barnaby and Clarice would be in that _Sandman_, #5 or #6.
 
 ### Page 7
 
