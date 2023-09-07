@@ -42,6 +42,10 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
   The epitaph is from the poem "An English Padlock", by Matthew Prior (1664-1721).
 
+- #### Panel 5
+
+  You can just see someone hiding behind a tree in the background.
+
 ### Page 3
 
 > [marginThumb] ![page 03](thumbnails/sandman.41/page03.jpg)
@@ -195,6 +199,12 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 
   The unusual pattern on the "walls" are the cells of the Threshold, Desire's stronghold, which is in the form of its body. What part of the body are they in? The cells seems to resemble skin cells, I think.
 
+  The floor is physically reacting to (or is disturbed by) Delirium's presence.
+
+- #### Panel 3-4
+
+  Delirium turns into a swarm of butterflies here, if it's not clear.
+
 ### Page 14
 
 > [marginThumb] ![page 14](thumbnails/sandman.41/page14.jpg)
@@ -334,12 +344,10 @@ The two part parallel each other in structure; compare particularly [#41](sandma
 - Stephen White <sfwhite@sciborg.uwaterloo.ca> identified raves and "E".
 - Si Rowe <sirowe@pop.cis.yale.edu> noted a pun, Dream's investment of the priests in the Special, the rhino, and foreshadowing.
 - Andrew Farrell (afarrell@maths.tcd.ie) noted Desire's domain.
-- David Henry (dhenry@plains.NoDak.edu) noted a possible Tori ref,
-  and added a kind of floater.
-- Carl Fink (carlf@panix.com) noted Dream's parallel use of
-  compulsion.
-- Lance Smith <lsmith@cs.umn.edu> consulted the OED for fannies,
-  bonces, and rhinos.
+- David Henry (dhenry@plains.NoDak.edu) noted a possible Tori ref, and added a kind of floater.
+- Carl Fink (carlf@panix.com) noted Dream's parallel use of  compulsion.
+- Lance Smith <lsmith@cs.umn.edu> consulted the OED for fannies, bonces, and rhinos.
+- Richard Munn noted the grandson hiding behind a tree, and Delirium's effect on the Threshold's floor.
 
 ## Appendix: Fannies and Other Aunts
 
