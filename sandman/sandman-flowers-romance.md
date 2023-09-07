@@ -33,6 +33,14 @@
 
   And this lady is a [Harpy](https://en.wikipedia.org/wiki/Harpy).
 
+### Page 6
+
+> [marginThumb] ![](thumbnails/sandman-flowers-romance/page06.jpg)
+
+- #### Panel 1
+
+  Any references to the _Wedding in the Dawn of the World_?
+
 ### Page 7
 
 > [marginThumb] ![](thumbnails/sandman-flowers-romance/page07.jpg)
