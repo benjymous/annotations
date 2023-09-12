@@ -22,9 +22,13 @@
 
 - #### Panel 2
 
-  **Borealis**: The Aurora Borealis, or Northern Lights, a glowing atmospheric display visible in the highest northern latitudes caused by charged particles in the solar wind interacting with Earth's magnetic field. There is an Aurora Australis in the highest latitudes of the Southern Hemisphere as well. Retinal purple: rhodopsin, the eye pigment which is sensitive to light and dark, found in the rods of the eye.
+  **Borealis**: The Aurora Borealis, or Northern Lights, a glowing atmospheric display visible in the highest northern latitudes caused by charged particles in the solar wind interacting with Earth's magnetic field. There is an Aurora Australis in the highest latitudes of the Southern Hemisphere as well.
 
-  **Firework yellow**: Possibly achieved by including sodium, which burns with a bright yellow flame. (There are two, closely-spaced, yellow lines in the sodium spectrum.) VDU green: the color of many Video Display Units, such as some computer terminals; possibly specifically the Amstrad PCW 8256/8512, a word processor popular with British writers.
+  **Retinal purple**: rhodopsin, the eye pigment which is sensitive to light and dark, found in the rods of the eye.
+
+  **Firework yellow**: Possibly achieved by including sodium, which burns with a bright yellow flame. (There are two, closely-spaced, yellow lines in the sodium spectrum.)
+
+  **VDU green**: the color of many Video Display Units, such as some computer terminals; possibly specifically the Amstrad PCW 8256/8512, a word processor popular with British writers in the 80s and 90s.
 
 - #### Panel 3
 
