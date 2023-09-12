@@ -144,7 +144,7 @@
 
 - #### Panel 3
 
-  Stephen King is an American best-selling writer who popularized the horror genre in the last two decades.
+  Stephen King is an American best-selling writer who popularized the horror genre in the 70s, up to the current day.
 
 - #### Panel 4
 
