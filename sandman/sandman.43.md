@@ -242,25 +242,25 @@
 
 ## Appendix: Antony's soliloquy, from Act Three Scene 1 of _Julius Caesar_, by William Shakespeare:
 
-> ANTONY O, pardon me, thou bleeding piece of earth,<br>
-> That I am meek and gentle with these butchers!<br>
-> Thou art the ruins of the noblest man<br>
-> That ever lived in the tide of times.<br>
-> Woe to the hand that shed this costly blood!<br>
-> Over thy wounds now do I prophesy,--<br>
-> Which, like dumb mouths, do ope their ruby lips,<br>
-> To beg the voice and utterance of my tongue--<br>
-> A curse shall light upon the limbs of men;<br>
-> Domestic fury and fierce civil strife<br>
-> Shall cumber all the parts of Italy;<br>
-> Blood and destruction shall be so in use<br>
-> And dreadful objects so familiar<br>
-> That mothers shall but smile when they behold<br>
-> Their infants quarter'd with the hands of war;<br>
-> All pity choked with custom of fell deeds:<br>
-> And Caesar's spirit, ranging for revenge,<br>
-> With Ate by his side come hot from hell,<br>
-> Shall in these confines with a monarch's voice<br>
-> Cry 'Havoc,' and let slip the dogs of war;<br>
-> That this foul deed shall smell above the earth<br>
-> With carrion men, groaning for burial.<br>
+> ANTONY O, pardon me, thou bleeding piece of earth,
+> That I am meek and gentle with these butchers!
+> Thou art the ruins of the noblest man
+> That ever lived in the tide of times.
+> Woe to the hand that shed this costly blood!
+> Over thy wounds now do I prophesy,--
+> Which, like dumb mouths, do ope their ruby lips,
+> To beg the voice and utterance of my tongue--
+> A curse shall light upon the limbs of men;
+> Domestic fury and fierce civil strife
+> Shall cumber all the parts of Italy;
+> Blood and destruction shall be so in use
+> And dreadful objects so familiar
+> That mothers shall but smile when they behold
+> Their infants quarter'd with the hands of war;
+> All pity choked with custom of fell deeds:
+> And Caesar's spirit, ranging for revenge,
+> With Ate by his side come hot from hell,
+> Shall in these confines with a monarch's voice
+> Cry 'Havoc,' and let slip the dogs of war;
+> That this foul deed shall smell above the earth
+> With carrion men, groaning for burial.
