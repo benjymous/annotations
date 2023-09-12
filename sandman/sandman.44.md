@@ -28,7 +28,9 @@
 
   **Firework yellow**: Possibly achieved by including sodium, which burns with a bright yellow flame. (There are two, closely-spaced, yellow lines in the sodium spectrum.)
 
-  **VDU green**: the color of many Video Display Units, such as some computer terminals; possibly specifically the Amstrad PCW 8256/8512, a word processor popular with British writers in the 80s and 90s.
+  **VDU green**: the color of old Video Display Units - CRT computer display screens; possibly specifically the Amstrad PCW 8256/8512, a word processor popular with British writers in the 80s and 90s.
+
+  > [audible] The Audible narration replaces this with "Electric Green", presumably because an increasing number of listeners will never have encountered a green-on-black VDU screen, yet alone a CRT computer display in general!
 
 - #### Panel 3
 
@@ -172,6 +174,10 @@
 
 - #### Panel 1
 
+  The view here matches almost exactly a picture of **Arundel House** from [Haunted London by Walter Thornbury](https://www.gutenberg.org/cache/epub/41580/pg41580-images.html#Page_40) dated 1646:
+
+  ![](images/ArundelHouse.jpg)
+
   **Invisible College**: A phrase dating back to at least 1646, possibly coined by Robert Boyle. Thomas Birch notes in reference to Boyle's Works that "the Invisible College probably refer[s] to that assembly of learned and curious gentlemen, who...at length gave birth to the Royal Society." Dream and the others are therefore standing in front of the Royal Society.
 
   Note that an "Invisible College" appears in Mary Gentle's works, and an "Unseen University" in Terry Pratchett's; both of these writers are close associates of Gaiman's. Alfred Bester also made use of an "Unknown University".
@@ -218,6 +224,12 @@
 
 ## 7: _The Perils of Smoking in Bed?_
 
+> [marginThumb] ![page 23](thumbnails/sandman.44/page23.jpg)
+
+- #### Panel 3
+
+  > [audible] The Audible narration notes that on seeing the burned remains of Ruby, it reminds him of _something he saw long ago_.
+
 ## Credits
 
 - Originally collated and edited by Greg Morrow.
@@ -229,7 +241,7 @@
 - R.J.Johnston (R.J.Johnston@newcastle.ac.uk) identified VDU green.
 - Damon B. Crumpler (dbc3@po.CWRU.Edu) noted some of Delirium's bubbles and explained "Totoro".
 - Ralf Hildebrandt added more details.
-- Richard Munn corrected the "Tyburn Tree" reference.
+- Richard Munn corrected the "Tyburn Tree" reference, and added the reference to Arundel House, and some notes from the Audible narration.
 
 ## Appendix: On Newton's Opticks (by Lance Smith)
 
