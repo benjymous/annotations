@@ -26,6 +26,16 @@
 
 ## 2: _Answered Prayers_
 
+
+### Page 6
+
+> [marginThumb] ![page 05](thumbnails/sandman.49/page05.jpg)
+
+- #### Panel 2
+
+> [audible] For this panel, the Audible narration says:  _Death comes invisibly, silently._
+> This is in a way an answer to the many questions of 'Why wasn't Death there when...' - I guess sometimes she doesn't need to get in the way of what is happening.
+
 ## 3: _The Flowers of Romance_
 
 - This is also the title of one of the [Winters Edge short stories](sandman-flowers-romance.md)
@@ -58,6 +68,8 @@
 
   Note the blood marks on Despair's forehead; these are probably from self-mutilation inflicted while Dream met with Destruction or slew Orpheus.
 
+  (This seems to be gone in later recolorings.)
+
 - #### Panel 6
 
   **Messire**: Probably from Late or Vulgar Latin or Old French, the equivalent of Modern French "monsieur", lit. my lord, my sire (male).
@@ -68,7 +80,10 @@
 
 - #### Panel 5
 
-  Seen in Despair's mirrors, from right to left: Andros ([41:1](sandman.41.md#page-1)), unidentified child (Andros's grandchild?), graveyard (Mary Canby's graveyard ([21.1](sandman.21#page-1))?), a kitten (Chloe's kitten?), and Desire.
+  Seen in Despair's mirrors, from right to left: Andros ([41:1](sandman.41.md#page-1)), unidentified child (see below), graveyard (Mary Canby's graveyard ([21.1](sandman.21#page-1))?), a kitten (Chloe's kitten?), and Desire.
+
+  > [audible] The Audible description describes the child:
+  >  _a little child with a black eye examining a hand with only two fingers on it, for the others have burned away._
 
 ### Page 10
 
@@ -108,6 +123,12 @@
 
 ## 6: _Things Unlooked For_
 
+### Page 13
+
+> [marginThumb] ![page 13](thumbnails/sandman.49/page13.jpg)
+
+- > [audible] The door here is considerably less grand than we'd usually expect - the Audible narration describes it as a _side door_.
+
 ### Page 14
 
 > [marginThumb] ![page 14](thumbnails/sandman.49/page14.jpg)
@@ -131,7 +152,7 @@
   - **Sardathrion**: From a short story (title uncertain, either "Sardathrion" or "Time and the Gods") by Lord Dunsany, the gods' summer home, destroyed by Time.
   - **Saffron Park**: The starting and ending points for G K Chesterton's _The Man Who Was Thursday_.
   - **Hobbiton**: From J.R.R. Tolkien's Middle-Earth stories.
-  - **The Land**: Despite the generic name, probably from Stephen Donaldson's two fantasy trilogies.
+  - **The Land**: Despite the generic name, probably from Stephen Donaldson's two fantasy trilogies.  Also the place where Barbie (and Alianora, previously) dreamt.
   - **Flora of Neverland**: From J.M. Barrie's Peter Pan stories.
   - **The Night Land**: From fantasy works by William Hope Hodgson (1875-1918), including an eponymous novel.
   - **One Night in Baghdad**: See [#50](sandman.50.md); probably from 1,001 Arabian Nights.

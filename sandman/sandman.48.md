@@ -36,11 +36,15 @@
 
   **Retsina**: A weak Greek white wine, occasionally fortified with ouzo.
 
-### Page 4-5
+### Page 4
 
 > [marginThumb] ![page 04](thumbnails/sandman.48/page04.jpg)
 
 - Del is retelling the story; her physical changes reflect her state at each point in the story.
+
+- #### Panel 3
+
+  Note Del says 'airplane' this time, rather than 'aeroplane'.
 
 ### Page 5
 
@@ -246,6 +250,7 @@ According to Jill Thompson, this sequence takes place on Krypton (the now-explod
 - Jim Lai <jwtlai@jeeves.uwaterloo.ca> noted Death and Del's theme of knowledge, recalled The Doll's House and spotted Del's face in the mirror.
 - Ed Bailey (Bailey@utpapa.ph.utexas.edu) IDed the Hammett reference, noted some heretical Oz theories, and referenced the cave site.
 - Michael Chary (mac7@po.CWRU.Edu) provided Greek recipes.
+- Richard Munn noted Del using americanisms again.
 
 ## Appendix: Some Remarks on Krypton
 

@@ -1095,6 +1095,7 @@
     "Ravi",
     "Rawhead",
     "reciprocant",
+    "recolorings",
     "Redlaw",
     "reem",
     "reggay",
@@ -1345,6 +1346,7 @@
     "thingie",
     "Thisby",
     "Thom",
+    "Thornbury",
     "Thorne",
     "Thoughtbeasts",
     "tickmarks",
@@ -1529,5 +1531,7 @@
     "hmmmmmmm"
   ],
   "import": [],
-  "files": ["sandman/*.md"]
+  "files": [
+    "sandman/*.md"
+  ]
 }

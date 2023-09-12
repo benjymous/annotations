@@ -50,6 +50,8 @@
 
   Del's actions here are reminiscent of Dream's punishment of Alex Burgess in [#1](sandman.01.md). It is evident that the Endless have the ability to cloud people's minds (as in [#41](sandman.41.md) and [#44](sandman.44.md), as well as on page 16, for example).
 
+  Also see [#44:18](sandman.44.md#page-18).5 - _"I do not tell you how to conduct your affairs"_
+
 ## 3: _The Driving Instructor_
 
 ### Page 6
@@ -59,6 +61,8 @@
 - #### Panel 5
 
   See Lance Smith's Sandman Concordance for an accounting of Dream's ravens.
+
+  Also notice the car in the background...
 
 - #### Panel 6
 
@@ -129,6 +133,8 @@
   Note the driver is making a rude gesture toward Delirium.
   In America, the raised middle finger displayed with the back of the hand toward the target translates as "fuck you". In recent years, this gesture has been adopted in both Britain and England, partially displacing older gestures of similar intent.
 
+  Also, Delirium seems to have made a few alterations to the car.
+
 - #### Panel 2
 
   Del's sister here is almost certainly Death.
@@ -145,7 +151,7 @@
 
 - #### Panel 1
 
-  **Suffragette City**: A song by David Bowie. "Suffragette" was the term applied to women who sought to obtain the ability to vote.
+  **Suffragette City**: A [song by David Bowie](https://www.youtube.com/watch?v=rq1bcVOmyjw). "Suffragette" was the term applied to women who sought to obtain the ability to vote.
 
   (**"Suffrage"** = "vote", from the Latin for "voting tablet".)
 
@@ -193,6 +199,14 @@
 
   Recall that Del pulled the same trick in [#41](sandman.41.md).
 
+### Page 16
+
+> [marginThumb] ![page 18](thumbnails/sandman.45/page18.jpg)
+
+- #### Panel 3, 5
+
+  As with Ishtar, Belili and Astarte were [Mesopotamian deities](https://en.wikipedia.org/wiki/List_of_Mesopotamian_deities).  It's not clear if Dream is getting the name wrong intentionally.
+
 ## 9: _Tiffany Watches II_
 
 - Note the ironic change in meaning of "watches" from section 4.
@@ -236,7 +250,8 @@
 - Lore Christian Sjoberg (lore@ucscb.UCSC.EDU) identified Roxy Blue.
 - Hannu Pajunen <hannu@utu.fi> noted Sean Penn and asked about American talk shows.
 - "Bombastic" Bill Sherman <sherman@math.ucla.edu> noted _Rain Man_ and the Wanda connection.
-  Andrew Sigel (sigel@vsscad.enet.dec.com) corrected the "Grapevine" reference.
+- Andrew Sigel (sigel@vsscad.enet.dec.com) corrected the "Grapevine" reference.
+- Richard Munn noted the changes to the car, and Dream's getting the wrong name.
 
 ## Appendix: Ishtar (by Lance Smith)
 
