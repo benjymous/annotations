@@ -88,14 +88,14 @@
 
 - #### Panel 3, 6-10
 
-  Swinburne meets Desire again.
+  Is Swinburne meeting Desire again, or just remembering them.
 
 - #### Panels 4, 5
 
   Lizzie and Rossetti seem to have met themselves.
 
 - #### Panel 10
-  Back to the sadomasochism. Also interesting to note that Desire is referred to here as _he_ rather than the usual _it_.
+  Back to the sadomasochism. The "he" here refers to Swinburne, rather than Desire.
 
 ### Page 8
 
@@ -112,6 +112,7 @@
   Rossetti found Lizzie overdosed, after returning from a talk, as described here.
 
 - #### Panel 2
+
   This is also true.
 
 ## Credits
