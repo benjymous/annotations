@@ -8,6 +8,14 @@
 - First story reprinted in trade paperback _Worlds' End_
 - Audible Act III Chapter 14
 
+### Page 1
+
+> [marginThumb] ![page 01](thumbnails/sandman.51/page01.jpg)
+
+- #### Panel 3
+
+  **Radar Detector**: A device that warns drivers when their speed is being monitored by police using a radar gun. It detects the radio waves emitted by the radar gun and alerts the driver to slow down before getting a ticket.
+
 ### Page 3
 
 > [marginThumb] ![page 03](thumbnails/sandman.51/page03.jpg)
@@ -23,6 +31,8 @@
 - #### Panel 4
 
   A hedgehog with very similar speech patterns, named Redlaw, appeared in volume 3 of "The Books of Magic" miniseries. This isn't necessarily the same one, of course.
+
+  Also worth noting that Hedgehogs aren't native to America, but I think we've already established that this isn't America any more.
 
 ### Page 6
 
@@ -56,6 +66,12 @@
 
   This is Brant's, although not one that follows traditional narrative style.
 
+- #### Panel 4
+
+  Cluracan we know already, last seen at the end of [Season of Mists](sandman.28.md).
+
+  > [audible] His Fae companion with the short hair is named as Menton in the Audible version, but otherwise doesn't seem to serve any greater role.
+
 - #### Panel 5
 
   In Greek myth, the centaur Chiron taught medicine to Asklepios, who went on to become the patron demigod of doctors. His credentials as a physician are thus fairly impressive. He also served as Herakles' childhood tutor.
@@ -63,6 +79,10 @@
 ### Page 9
 
 > [marginThumb] ![page 09](thumbnails/sandman.51/page09.jpg)
+
+- #### Panel 1
+
+  > [audible] Another bit part, the pot boy here is named Dickon in the Audible narration.
 
 - #### Panel 4
 
@@ -120,7 +140,7 @@
 
 - #### Panel 3
 
-  Even more eyes... [etc.]
+  Even more eyes... (etc.)
 
 ### Page 17
 
@@ -156,6 +176,14 @@
 
   Given that the restaurants are always closed, I can't help wondering what Robert is finding to eat. His beard is growing, so he's not somehow exempted from normal bodily functions.
 
+### Page 21
+
+> [marginThumb] ![page 21](thumbnails/sandman.51/page21.jpg)
+
+- #### Panel 2-6
+
+  This is not intended to be Death - in The Sandman Companion Gaiman notes that the resemblance is unfortunate, as it gives unintended overtones to his instinct to run from her.
+
 ### Page 22
 
 > [marginThumb] ![page 22](thumbnails/sandman.51/page22.jpg)
@@ -184,4 +212,4 @@
 - Lance "Squiddie" Smith (lsmith@cs.umn.edu) noted the Buddy Holly connection, and corrected "Worlds'" vs. "World's". He also explicated the term "free house" and noted Steven Brust's appearance.
 - Timothy Hock Seng Tan for numerous corrections and other stuff.
 - Ralf Hildebrandt added more details.
-- Richard Munn added the Steven Brust reference image
+- Richard Munn added the Steven Brust reference image, notes about Hedgehogs and Radar Detectors, Gaiman's comment on the girl who is not Death, and noted some character names given in the Audible narration.
