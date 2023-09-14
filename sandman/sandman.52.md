@@ -28,6 +28,8 @@
 
 - #### Panel 4
 
+  **Brougham**: a type of [horse drawn carriage](<https://en.wikipedia.org/wiki/Brougham_(carriage)>).
+
   **fusty**: "smelling of the cask".
 
 - #### Panel 5
@@ -52,7 +54,9 @@
 
 - #### Panel 1
 
-  A noble family of Imperial Rome bore the name "Aurelius". The city of Aurelia seems to be modeled on Rome in a number of ways.
+  A noble family of Imperial Rome bore the name "Aurelius", derived from _aureus_ meaning "golden". Aurelia is more commonly a girls name, meaning _"golden one"_.
+
+  The city of Aurelia seems to be modeled on Rome in a number of ways.
 
   **Carnifex**: Latin for "executioner" (literally "meat-maker").
 
@@ -82,6 +86,18 @@
 
   "Mab" is a traditional name for the queen of the fay; see for instance _Romeo and Juliet_, act I scene 4.
 
+### Page 6
+
+> [marginThumb] ![page 06](thumbnails/sandman.52/page06.jpg)
+
+- #### Panel 2
+
+  No references for the "watter-women", and it's not clear if Duskward is a place or a direction. "Watter" is Scottish dialect for "water".
+
+- #### Panel 3
+
+  _Scáthach_ is a legendary Scottish warrior woman in the Ulster Cycle of Irish mythology. Although here it appears to be a place.
+
 ### Page 7
 
 > [marginThumb] ![page 07](thumbnails/sandman.52/page07.jpg)
@@ -110,6 +126,10 @@
 
 > [marginThumb] ![page 16](thumbnails/sandman.52/page16.jpg)
 
+- #### Panel 4
+
+  > [oops] It's not clear if Nuala's appearance here (more 'fairy' than 'fae') was a mistake by the artist, or was intentional (due to being a dream) - The Audible narration describes her to match how she appeared when we last saw her during Brief lives, wearing the crystal pendant, and makes no mention of her having wings.
+
 - #### Panel 5
 
   Cluracan is now fully clothed, when only 2 panels previously, he was stripped to the waist. Also, is left eye is no longer bruised. In the next panel, Nuala explains to her brother that he is dreaming. No surprises there.
@@ -136,9 +156,9 @@
 
 - #### Panel 1
 
-  That tower doesn't look like it has as much room upstairs as was shown on page 21...
-
-  An inconsistency: on page 21 panel 9, the Psychopomp & Cluracan go _down_ into the room, via a hole in the floor; yet here, the Psychopomp is falling out of a window at the _top_ of a building.
+  > [oops] There's something weird going on with this tower - on page 21 panel 9, the Psychopomp & Cluracan go _down_ into the tomb, via a hole in the floor; yet here, the Psychopomp is falling out of a window at the _top_ of a building.
+  >
+  > Perhaps this is just another sign that the Cluracan isn't a reliable story teller.
 
 ### Page 25
 
@@ -147,6 +167,8 @@
 - #### Panel 5
 
   The two human characters are old DC fantasy characters named Claw the Unconquered and Stalker the Soulless.
+
+  > [flex cols-3] ![](images/ClawAndStalkerSandman.jpg) ![](images/Claw.jpg) ![](images/Stalker.jpg)
 
 ## Credits
 
@@ -157,3 +179,4 @@
 - Abhijit Khale (Abhijit_Khale@transarc.com) identified Claw and Stalker.
 - Timothy Hock Seng Tan for Cluracan's bruised eye.
 - Ralf Hildebrandt added more details.
+- Richard Munn added references for Brougham, expanded on the Aurelia definition, added notes on some of the places Cluracan traveled through, and added more thoughts on the 'impossible' tower at the end of the story.

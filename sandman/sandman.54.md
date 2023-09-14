@@ -40,6 +40,10 @@
 
 > [marginThumb] ![page 04](thumbnails/sandman.54/page04.jpg)
 
+- #### Panel 1
+
+  **Hedgehogs and Foxes**:  The hedgehog and fox distinction is based on an ancient Greek parable: "The fox knows many things, but the hedgehog knows one big thing". Isaiah Berlin, an Oxford Don, published an essay "The Hedgehog and the Fox" in 1953 in which he said writers and thinkers fall into two categories: hedgehogs, who view the world through a single central vision, and foxes, who chase scattered ideas pursuing many ends.
+
 - #### Panel 3
 
   This parallels a traditional story of Jesus' boyhood, which had him discussing the Torah with the rabbis of Nazareth.
@@ -84,9 +88,9 @@
 
 - #### Panel 5
 
-This panel is essentially the cover of _Prez_ #1. This would seem to be the 1972 election. The caption here is inconsistent with the one on 3:4; either this one should read "nineteenth" or that one should read "seven".
+  This panel is essentially the cover of _Prez_ #1. This would seem to be the 1972 election. The caption here is inconsistent with the one on 3:4; either this one should read "nineteenth" or that one should read "seven".
 
-I think this panel is actually a reference to the various miracles performed by Jesus during His time on Earth. (E.g. giving sight to the blind, giving hearing to the deaf, curing disease, etc.)
+  I think this panel is actually a reference to the various miracles performed by Jesus during His time on Earth. (E.g. giving sight to the blind, giving hearing to the deaf, curing disease, etc.)
 
 ### Page 10
 
@@ -108,13 +112,21 @@ I think this panel is actually a reference to the various miracles performed by 
 
   The robot on the floor seems to be the same one on Prez' bookshelf on page 7.
 
+### Page 12
+
+> [marginThumb] ![page 12](thumbnails/sandman.54/page12.jpg)
+
+- #### Panel 1
+
+  If it's not clear, Prez ran as an independent.
+
 ### Page 13
 
 > [marginThumb] ![page 13](thumbnails/sandman.54/page13.jpg)
 
 - #### Panel 3
 
-  Reportedly, President WIlliam McKinley, on being shot, said of his assassin, "Let no one hurt him."
+  Reportedly, President William McKinley, on being shot, said of his assassin, "Let no one hurt him."
 
 - #### Panel 4
 
@@ -247,4 +259,4 @@ I think this panel is actually a reference to the various miracles performed by 
 - David Silberstein (DASBC@CUNYVM.BITNET) provided the excerpt from the writings of Chuang Tzu.
 - Timothy Hock Seng Tan <083285@bud.cc.swin.edu.au> really knows his way around the Bible.
 - Ralf Hildebrandt added more details.
-- Richard Munn pondered about the multiverse.
+- Richard Munn added the reference on Hedgehogs and Foxes, and pondered about the multiverse.

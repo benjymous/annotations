@@ -66,7 +66,11 @@
 
 - #### Panel 5-6
 
-  Rhyming slang. **"Khyber [Pass]"** -- "Ass". **"Apples and Pears"** -- "stairs".
+  Rhyming slang.
+
+  **"Khyber [Pass]"** -- "Ass".
+
+  **"Apples and Pears"** -- "stairs".
 
 ### Page 11
 
@@ -90,7 +94,7 @@
 
 - #### Panel 3
 
-  The phrase "Golden Road to Samarkand" turns up in the works of British poet James Elroy Flecker. I haven't been able to find this specific passage, though.
+  The poem is called "Golden Road to Samarkand", by James Elroy Flecker, a scene from his verse play, _Hassan_.  Jim is quoting the [end of the poem](http://www.poetryatlas.com/poetry/poem/119/the-golden-road-to-samarkand.html).
 
 ### Page 22
 
@@ -114,7 +118,7 @@
 
 - #### Panel 2
 
-  There is a sea-ballad called "The Handsome Cabin Boy". Kate Bush has recorded it, among others.
+  There is a sea-ballad called "The Handsome Cabin Boy". Kate Bush has [recorded it](https://www.youtube.com/watch?v=sDn_3VysILs), among others.
 
 ## Credits
 
@@ -125,4 +129,4 @@
 - Abhijit Khale (Abhijit_Khale@transarc.com) identified the Indian story.
 - Timothy Hock Seng Tan for the reference to Peggy
 - Ralf Hildebrandt added more details.
-- Richard Munn added the Mother Carey reference.
+- Richard Munn added the Mother Carey reference, and updated the Samarkand reference.
