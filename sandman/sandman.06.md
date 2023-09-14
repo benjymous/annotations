@@ -263,7 +263,12 @@
 
 - #### Panel 6
 
-  The television quote is the radio tag for "The Wolfman."
+  "Even a Man Who is Pure in Heart" is a poem recited by Maria Ouspenskaya in the horror classic film "The Wolf Man" (1941). The poem was written by Curt Siodmak, the film’s screenwriter, and suggests that even the most virtuous men can turn into wolves under the influence of the full moon.
+
+  > Even a man who is pure in heart
+  > And says his prayers by night
+  > May become a wolf when the wolfbane blooms
+  > And the autumn moon is bright.
 
 ### Page 20
 
@@ -327,3 +332,4 @@
 - Kai'Ckul <oshinsky@webspan.net> for the bits about Rudies and Joy Division.
 - Ralf Hildebrandt added lots more details.
 - eddietomb@yahoo.com gave more detail on Joy Division, and the severed finger.
+- Richard Munn updated the Wolfman reference.
